@@ -1,0 +1,5 @@
+292	Gregor
+24	Grete
+23	Mr. Samsa_Samsa
+10	Mrs. Samsa
+2	Anna

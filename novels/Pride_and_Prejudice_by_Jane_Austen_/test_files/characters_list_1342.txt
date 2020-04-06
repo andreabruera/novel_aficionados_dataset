@@ -1,0 +1,70 @@
+699	Miss Elizabeth Bennet_Elizabeth Bennet_Miss Elizabeth_Miss Bennet_Elizabeth_Bennet
+373	Mr. Darcy_Darcy
+290	Jane
+195	Mr. Bingley_Bingley
+181	Mr. Wickham_Wickham
+171	Miss Lydia Bennet_LYDIA BENNET_Miss Bennet_Miss Lydia_Lydia
+153	Mrs. Bennet
+150	Mr. Collins
+127	Lady Catherine de Bourgh_Lady Catherine_Catherine_de Bourgh
+93	Miss Lizzy_Lizzy_LIZZY
+89	Mr. Bennet
+79	Miss Bingley
+71	Kitty
+61	Mrs. Gardiner_Gardiner_GARDINER
+44	William Lucas_William
+39	Mrs. Forster_Forster
+39	Mary King_Mary
+39	Miss Darcy
+34	Mr. Gardiner_Gardiner
+29	Mrs. Collins
+25	Mrs. Phillips_Phillips
+25	Miss Lucas
+23	Rosings
+22	Miss Eliza Bennet_Miss Eliza_Eliza
+21	Mrs. Hurst
+21	Fitzwilliam
+20	Maria Lucas_Maria
+19	Miss de Bourgh
+19	Lady Lucas_Lucas
+18	Charlotte Lucas_Charlotte
+16	Caroline_CAROLINE
+14	Georgiana
+13	Mrs. Long
+12	Mr. Denny_Denny
+12	Mr. Hurst
+10	Pemberley House_Pemberley
+9	Lucases
+9	Mrs. Reynolds
+9	Mrs. Jenkinson
+8	George Wickham_George
+8	Mrs. Hill_Hill
+7	Charles
+7	Lambton
+7	Kent
+6	Mr. Phillips_Phillips
+6	Louisa
+6	Lucas Lodge
+5	Mr. Jones
+5	Longbourn
+4	St. James_James
+4	Netherfield
+4	Newcastle
+4	Meryton
+4	Mrs. Younge
+4	Collinses
+4	Carter
+3	Lewis de Bourgh
+3	Mrs. Annesley
+3	Mr. Robinson
+3	Anne
+3	Mrs. Wickham
+3	Miss Bennets_Bennets
+2	Clapham
+2	Phillipses
+2	John
+2	Gouldings
+2	Hunsford
+2	HARRIET_Harriet
+2	Ramsgate
+2	Pratt

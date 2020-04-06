@@ -1,0 +1,17 @@
+125	ship_ships_Ship
+105	sea_seas
+62	island_ISLAND_islands
+52	nothing_nothin'
+39	heart_hearts
+33	fire_Fire_fires
+31	seaman_seamen
+28	buccaneer_buccaneers
+27	land_lands_Land
+26	corner_corners
+24	death
+22	friend_friends
+21	pirate_pirates
+18	father
+16	bar_bars
+13	sign_SIGN_signs
+10	camp_CAMP

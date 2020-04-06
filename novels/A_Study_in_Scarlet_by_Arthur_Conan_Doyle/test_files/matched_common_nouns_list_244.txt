@@ -1,0 +1,8 @@
+87	hand_hands
+53	house_houses
+39	night_nights_Night
+38	life_lives
+37	heart_hearts
+34	thing_things
+33	word_words
+29	matter_matters

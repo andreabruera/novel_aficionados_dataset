@@ -1,0 +1,93 @@
+604	Jim Tom Sawyer_Tom Sawyer_Jim Tom_Sawyer_Jim_Tom
+66	Huck Creeps_Huck
+55	Miss Mary Jane_Mary Jane_Miss Mary_Mary
+49	Aunt Sally_Sally
+30	Miss Watson
+26	Uncle Silas_Silas
+24	Mars Sid_Sid
+20	Huck Finn_HUCK FINN_Finn
+20	Peter Wilks_Peter
+20	George Jackson_Jackson_George
+19	Uncle Harvey_Harvey
+17	Sherburn
+17	Thatcher
+17	William Fourth_William
+14	Bill
+13	Dey_dey
+12	Mars Tom
+12	Boggs
+10	Buck Harkness_Buck
+10	Bob
+10	Harney Shepherdson_Shepherdson_Harney
+9	Mrs. Phelps_Phelps
+8	Ben Rogers
+8	Susan
+8	Miss Sophia
+8	Stephen Dowling Bots_STEPHEN DOWLING_Stephen Dowling_Stephen
+6	Mr. Lothrop
+6	Nat
+6	Jack
+6	Miss Hooker
+5	Hines
+5	Pap
+5	Richard III_Richard
+5	Moses
+5	Jake Packard_Packard
+5	Aunt Polly_Polly
+5	Levi Bell
+5	Hank Bunker_Hank
+5	Dat
+5	Dr. Robinson_Robinson
+5	Juliet
+4	Romeo
+4	Henry the Eight_Henry
+4	Huckleberry
+4	House
+4	Jim Hornback_Hornback
+4	Cain
+4	Jo Harper
+4	Sarah
+4	Hotchkiss
+4	Mr. Archibald Nichols_Nichols
+4	Sollermun
+4	Solomon
+4	Jim Turner_Turner
+4	Huck The Duke_Duke
+3	Joe
+3	Elexander Blodgett_Blodgett
+3	Abner Shackleford
+3	Bartley
+3	Balum
+3	Harvey Wilks
+3	Bud
+3	Lize
+3	Hobson
+3	Grangerford
+2	Edmund Kean
+2	Burton
+2	Louis XVI
+2	Ike
+2	Dah
+2	XXIII
+2	Joanna
+2	Dunlap
+2	Sheffield
+2	Douglas
+2	Hamlet
+2	Royal Nonesuch
+2	Booth
+2	Hanner
+2	Brer Phelps
+2	Mr. Garrick
+2	Huck
+2	Tige
+2	Capet
+2	Mary Ann
+2	Deacon Lot Hovey
+2	Abner Moore
+2	Jim Listening
+2	Betsy
+2	Damrell
+2	Mr. Wilks
+2	Ab Turner
+2	Mr. Kean

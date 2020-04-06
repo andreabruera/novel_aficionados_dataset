@@ -1,0 +1,7 @@
+102	thing_things
+42	house_houses
+32	instant_instants
+25	presence
+22	fact_facts
+15	horror_horrors
+10	sign_signs
