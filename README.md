@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 Welcome! This is the Novel Aficionados dataset. It was created for the experiments carried out in Bruera and Herbelot (Forthcoming). If you have any question, you can contact Andrea Bruera at a.bruera@qmul.ac.uk. 
 
@@ -11,7 +11,7 @@ The main features of this dataset are the following:
 - Novels were analyzed with the BookNLP toolkit (https://github.com/dbamman/book-nlp) and the resulting files, which were used in our original paper, are also included, so you don't have to run the BookNLP pipeline again.
 - For each novel, this dataset contains also the text of their Wikipedia page (entries were downloaded at the time of our work, around late 2019).
 
-# Folder structure
+## Folder structure
 
 Here is an example of a folder structure, together with short descriptions of the contents:
 
@@ -42,7 +42,7 @@ Here is an example of a folder structure, together with short descriptions of th
 │           ├── unmatched_19337_ready_for_any_testing.txt  
 │           └── unmatched_19337_ready_for_replication.txt  
 
-# Novels list
+## The novels
 
 The list of the folders (and of the novels) is as follows:
 
