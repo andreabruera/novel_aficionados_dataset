@@ -15,19 +15,19 @@ The main features of this dataset are the following:
 
 Here is an example of a folder structure, together with short descriptions of the contents:
 
-├── A_Christmas_Carol_by_Charles_Dickens_                       # Each novel comes with its own folder  
-│   ├── original_files                        #This folder contains the original files from gutenberg.org, Wikipedia and BookNLP  
-│   │   ├── book_nlp_output  
+├── A\_Christmas\_Carol\_by\_Charles\_Dickens_                       # __Each novel comes with its own folder__  
+│   ├── original_files                        #*This folder contains the original files from gutenberg.org, Wikipedia and BookNLP*  
+│   │   ├── book\_nlp\_output  
 │   │   │   ├── 19337.tokens  
 │   │   │   ├── book.id.book  
 │   │   │   └── book.id.html  
-│   │   ├── original_novel  
+│   │   ├── original\_novel  
 │   │   │   └── 19337.txt  
-│   │   └── original_wikipedia_page  
+│   │   └── original\_wikipedia\_page  
 │   │       └── 19337.txt  
-│   └── test_files                        # This folder contains the pre-processed files used in our experiments  
-│       ├── characters_list_19337.txt                        # The list of the characters, together with all their aliases and frequencies  
-│       ├── matched_common_nouns_list_19337.txt                        # The list of common nouns used in our experiments, matched for frequency to the proper names  
+│   └── test\_files                        # **This folder contains the pre-processed files used in our experiments**  
+│       ├── characters\_list\_19337.txt                        # _The list of the characters, together with all their aliases and frequencies_  
+│       ├── matched\_common\_nouns\_list\_19337.txt                        # The list of common nouns used in our experiments, matched for frequency to the proper names  
 │       ├── novel                        # Various versions of the pre-processed novel  
 │       │   ├── 19337_no_header.txt                        # Version with little-to-no preprocessing, where only the gutenberg.org header is cut out  
 │       │   ├── matched_19337_ready_for_any_testing.txt                        # Pre-processed version, divided in paragraphs, with no special symbols, using the common nouns of matched_common_nouns_list_19337.txt  
