@@ -15,8 +15,8 @@ The main features of this dataset are the following:
 
 Here is an example of a folder structure, together with short descriptions of the contents:
 
-├── A\_Christmas\_Carol\_by\_Charles\_Dickens_                       # __Each novel comes with its own folder__  
-│   ├── original_files                        #*This folder contains the original files from gutenberg.org, Wikipedia and BookNLP*  
+├── A\_Christmas\_Carol\_by\_Charles\_Dickens\_                       *(Each novel comes with its own folder)*  
+│   ├── original\_files                        *(This folder contains the original files from gutenberg.org, Wikipedia and BookNLP)*  
 │   │   ├── book\_nlp\_output  
 │   │   │   ├── 19337.tokens  
 │   │   │   ├── book.id.book  
@@ -25,22 +25,22 @@ Here is an example of a folder structure, together with short descriptions of th
 │   │   │   └── 19337.txt  
 │   │   └── original\_wikipedia\_page  
 │   │       └── 19337.txt  
-│   └── test\_files                        # **This folder contains the pre-processed files used in our experiments**  
-│       ├── characters\_list\_19337.txt                        # _The list of the characters, together with all their aliases and frequencies_  
-│       ├── matched\_common\_nouns\_list\_19337.txt                        # The list of common nouns used in our experiments, matched for frequency to the proper names  
-│       ├── novel                        # Various versions of the pre-processed novel  
-│       │   ├── 19337_no_header.txt                        # Version with little-to-no preprocessing, where only the gutenberg.org header is cut out  
-│       │   ├── matched_19337_ready_for_any_testing.txt                        # Pre-processed version, divided in paragraphs, with no special symbols, using the common nouns of matched_common_nouns_list_19337.txt  
-│       │   ├── matched_19337_ready_for_replication.txt                        # Like above, but with symbols indicating differently proper names and common nouns (e.g. $sherlock_holmes$ and #book#)  
-│       │   ├── unmatched_19337_ready_for_any_testing.txt                        # Pre-processed version, divided in paragraph, using the most frequent common nouns of unmatched_common_nouns_list_19337.txt  
-│       │   └── unmatched_19337_ready_for_replication.txt  
-│       ├── unmatched_common_nouns_list_19337.txt                        #The list of common nouns used in another setup for our experiments, NOT matched for frequency to the proper names  
-│       └── wikipedia_page                        # This folder contains the Wikipedia pages, with the same internal organization as the folder above  
-│           ├── 19337_no_header.txt  
-│           ├── matched_19337_ready_for_any_testing.txt  
-│           ├── matched_19337_ready_for_replication.txt  
-│           ├── unmatched_19337_ready_for_any_testing.txt  
-│           └── unmatched_19337_ready_for_replication.txt  
+│   └── test\_files                        *(This folder contains the pre-processed files used in our experiments)*  
+│       ├── characters\_list\_19337.txt                        *(The list of the characters, together with all their aliases and frequencies)*  
+│       ├── matched\_common\_nouns\_list\_19337.txt                        *(The list of common nouns used in our experiments, matched for frequency to the proper names)*  
+│       ├── novel                        *(Various versions of the pre-processed novel)*  
+│       │   ├── 19337\_no\_header.txt                        *(Version with little-to-no preprocessing, where only the gutenberg.org header is cut out)*  
+│       │   ├── matched\_19337\_ready\_for\_any\_testing.txt                        *(Pre-processed version, divided in paragraphs, with no special symbols, using the common nouns of matched\_common\_nouns\_list\_19337.txt)*  
+│       │   ├── matched\_19337\_ready\_for\_replication.txt                        *(Like above, but with symbols indicating differently proper names and common nouns - e.g. $sherlock_holmes$ and #book#)*  
+│       │   ├── unmatched\_19337\_ready\_for\_any\_testing.txt                        *(Pre-processed version, divided in paragraph, using the most frequent common nouns of unmatched_common_nouns_list_19337.txt)*  
+│       │   └── unmatched\_19337\_ready\_for\_replication.txt  
+│       ├── unmatched\_common\_nouns\_list\_19337.txt                        *(The list of common nouns used in another setup for our experiments, NOT matched for frequency to the proper names)*  
+│       └── wikipedia\_page                        *(This folder contains the Wikipedia pages, with the same internal organization as the folder above)*  
+│           ├── 19337\_no\_header.txt  
+│           ├── matched\_19337\_ready\_for\_any\_testing.txt  
+│           ├── matched\_19337\_ready\_for\_replication.txt  
+│           ├── unmatched\_19337\_ready\_for\_any\_testing.txt  
+│           └── unmatched\_19337\_ready\_for\_replication.txt  
 
 ## The novels
 
