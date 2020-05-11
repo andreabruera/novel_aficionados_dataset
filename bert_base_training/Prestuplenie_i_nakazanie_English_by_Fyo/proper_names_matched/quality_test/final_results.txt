@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Prestuplenie_i_nakazanie_English_by_Fyo
-Model used: proper names matched
-
-Within-novel median: 4.0
-Within-novel average: 5.038461538461538
-Within-novel MRR: 0.4024447774447774
-Within-novel standard deviation of the scores: 3.589308581701294
-Amount of entities considered: 13.0

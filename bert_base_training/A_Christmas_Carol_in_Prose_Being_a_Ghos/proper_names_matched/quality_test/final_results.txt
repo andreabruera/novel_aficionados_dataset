@@ -1,9 +1,0 @@
-Test: quality test
-Results for: A_Christmas_Carol_in_Prose_Being_a_Ghos
-Model used: proper names matched
-
-Within-novel median: 1.0
-Within-novel average: 1.1666666666666667
-Within-novel MRR: 0.9166666666666666
-Within-novel standard deviation of the scores: 0.3726779962499649
-Amount of entities considered: 3.0

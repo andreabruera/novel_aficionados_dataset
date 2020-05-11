@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: The_Jungle_by_Upton_Sinclair_
-Model used: proper names matched
-
-Within-novel median: 2.0
-Within-novel average: 3.5555555555555554
-Within-novel MRR: 0.5711836774336774
-Within-novel standard deviation of the scores: 3.7965221251710863
-Amount of entities considered: 18.0

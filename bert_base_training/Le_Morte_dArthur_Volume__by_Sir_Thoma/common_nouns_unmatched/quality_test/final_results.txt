@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Le_Morte_dArthur_Volume__by_Sir_Thoma
-Model used: common nouns unmatched
-
-Within-novel median: 3.5
-Within-novel average: 5.9523809523809526
-Within-novel MRR: 0.5066822605826365
-Within-novel standard deviation of the scores: 5.919911441391916
-Amount of entities considered: 21.0

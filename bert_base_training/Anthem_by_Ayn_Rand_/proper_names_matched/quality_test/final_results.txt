@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Anthem_by_Ayn_Rand_
-Model used: proper names matched
-
-Within-novel median: 1.5
-Within-novel average: 1.5
-Within-novel MRR: 0.75
-Within-novel standard deviation of the scores: 0.5
-Amount of entities considered: 2.0

@@ -1,9 +1,0 @@
-Test: quality test
-Results for: The_Turn_of_the_Screw_by_Henry_James_
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 2.0
-Within-novel MRR: 0.7291666666666666
-Within-novel standard deviation of the scores: 1.3228756555322954
-Amount of entities considered: 4.0

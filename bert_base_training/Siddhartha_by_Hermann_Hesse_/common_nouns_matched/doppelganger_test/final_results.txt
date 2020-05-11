@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: Siddhartha_by_Hermann_Hesse_
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 1.1
-Within-novel MRR: 0.9666666666666666
-Within-novel standard deviation of the scores: 0.43588989435406744
-Amount of entities considered: 10.0

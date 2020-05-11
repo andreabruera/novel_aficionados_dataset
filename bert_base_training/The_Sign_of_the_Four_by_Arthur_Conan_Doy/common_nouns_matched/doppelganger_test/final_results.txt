@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: The_Sign_of_the_Four_by_Arthur_Conan_Doy
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 1.6818181818181819
-Within-novel MRR: 0.8914141414141414
-Within-novel standard deviation of the scores: 1.9396898448501698
-Amount of entities considered: 11.0

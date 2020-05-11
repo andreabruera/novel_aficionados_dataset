@@ -1,9 +1,0 @@
-Test: quality test
-Results for: The_Mysterious_Affair_at_Styles_by_Agath
-Model used: common nouns unmatched
-
-Within-novel median: 1.5
-Within-novel average: 4.178571428571429
-Within-novel MRR: 0.6064595127095126
-Within-novel standard deviation of the scores: 4.293296863621671
-Amount of entities considered: 14.0

@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: Moby_Dick_Or_The_Whale_by_Herman_Melvi
-Model used: proper names matched
-
-Within-novel median: 4.0
-Within-novel average: 5.733333333333333
-Within-novel MRR: 0.4568257668257668
-Within-novel standard deviation of the scores: 4.675705532026393
-Amount of entities considered: 15.0

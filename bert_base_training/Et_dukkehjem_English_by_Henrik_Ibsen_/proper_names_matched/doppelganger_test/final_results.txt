@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: Et_dukkehjem_English_by_Henrik_Ibsen_
-Model used: proper names matched
-
-Within-novel median: 1.0
-Within-novel average: 1.5
-Within-novel MRR: 0.875
-Within-novel standard deviation of the scores: 1.118033988749895
-Amount of entities considered: 6.0

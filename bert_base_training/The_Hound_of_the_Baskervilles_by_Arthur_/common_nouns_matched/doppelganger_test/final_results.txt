@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: The_Hound_of_the_Baskervilles_by_Arthur_
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 1.7727272727272727
-Within-novel MRR: 0.8969893742621015
-Within-novel standard deviation of the scores: 2.3727969338433064
-Amount of entities considered: 11.0

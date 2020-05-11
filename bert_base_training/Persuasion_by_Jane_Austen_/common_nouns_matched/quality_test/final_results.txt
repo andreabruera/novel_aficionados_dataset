@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Persuasion_by_Jane_Austen_
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 3.675
-Within-novel MRR: 0.7007563025210084
-Within-novel standard deviation of the scores: 4.941596401973759
-Amount of entities considered: 20.0

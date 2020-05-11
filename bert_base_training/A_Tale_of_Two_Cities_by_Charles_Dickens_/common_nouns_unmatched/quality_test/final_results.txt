@@ -1,9 +1,0 @@
-Test: quality test
-Results for: A_Tale_of_Two_Cities_by_Charles_Dickens_
-Model used: common nouns unmatched
-
-Within-novel median: 1.0
-Within-novel average: 2.659090909090909
-Within-novel MRR: 0.8301997245179062
-Within-novel standard deviation of the scores: 4.582293896660481
-Amount of entities considered: 22.0

@@ -1,9 +1,0 @@
-Test: quality test
-Results for: The_Brothers_Karamazov_by_Fyodor_Dostoye
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 3.4705882352941178
-Within-novel MRR: 0.6869016724336794
-Within-novel standard deviation of the scores: 4.333422055697179
-Amount of entities considered: 17.0

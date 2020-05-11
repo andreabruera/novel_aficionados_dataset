@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Les_Misérables_by_Victor_Hugo_
-Model used: common nouns matched
-
-Within-novel median: 2.0
-Within-novel average: 7.681818181818182
-Within-novel MRR: 0.5222872385156304
-Within-novel standard deviation of the scores: 9.443867805007507
-Amount of entities considered: 33.0

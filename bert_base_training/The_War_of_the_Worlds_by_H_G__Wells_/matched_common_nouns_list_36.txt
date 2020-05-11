@@ -1,4 +1,0 @@
-21	couple_couples
-19	order_orders
-15	fact_facts
-13	year_years

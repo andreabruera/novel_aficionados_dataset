@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: The_Iliad_by_Homer_
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 4.403846153846154
-Within-novel MRR: 0.6799098301487263
-Within-novel standard deviation of the scores: 7.701797031524064
-Amount of entities considered: 52.0

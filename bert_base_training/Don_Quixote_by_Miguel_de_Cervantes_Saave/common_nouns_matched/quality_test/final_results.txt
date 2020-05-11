@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Don_Quixote_by_Miguel_de_Cervantes_Saave
-Model used: common nouns matched
-
-Within-novel median: 3.0
-Within-novel average: 4.035714285714286
-Within-novel MRR: 0.5476899092970521
-Within-novel standard deviation of the scores: 3.5904848743105804
-Amount of entities considered: 14.0

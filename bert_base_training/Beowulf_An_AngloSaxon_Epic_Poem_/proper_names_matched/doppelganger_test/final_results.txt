@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: Beowulf_An_AngloSaxon_Epic_Poem_
-Model used: proper names matched
-
-Within-novel median: 2.0
-Within-novel average: 2.8333333333333335
-Within-novel MRR: 0.5861111111111111
-Within-novel standard deviation of the scores: 1.950783318453271
-Amount of entities considered: 6.0

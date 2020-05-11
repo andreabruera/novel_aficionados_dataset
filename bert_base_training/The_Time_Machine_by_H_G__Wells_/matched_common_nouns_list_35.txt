@@ -1,4 +1,0 @@
-52	world
-49	day_Day_days
-38	match_matches
-13	dinner

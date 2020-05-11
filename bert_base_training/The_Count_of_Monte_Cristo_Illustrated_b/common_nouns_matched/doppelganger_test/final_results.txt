@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: The_Count_of_Monte_Cristo_Illustrated_b
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 2.280701754385965
-Within-novel MRR: 0.9160866175830056
-Within-novel standard deviation of the scores: 7.00815160946344
-Amount of entities considered: 57.0

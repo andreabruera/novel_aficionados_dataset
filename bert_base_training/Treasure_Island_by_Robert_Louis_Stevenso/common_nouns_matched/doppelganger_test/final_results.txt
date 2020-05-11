@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: Treasure_Island_by_Robert_Louis_Stevenso
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 3.3823529411764706
-Within-novel MRR: 0.7196483495358927
-Within-novel standard deviation of the scores: 4.478804369618623
-Amount of entities considered: 17.0

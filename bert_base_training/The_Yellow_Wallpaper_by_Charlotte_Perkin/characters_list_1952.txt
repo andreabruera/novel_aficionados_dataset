@@ -1,4 +1,0 @@
-45	John
-12	Jennie
-2	Cousin Henry
-2	Julia

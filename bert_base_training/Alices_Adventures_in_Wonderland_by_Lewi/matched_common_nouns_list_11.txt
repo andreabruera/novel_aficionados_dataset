@@ -1,5 +1,0 @@
-79	thing_things
-55	way_ways
-30	nothing
-28	foot_feet
-13	book_books

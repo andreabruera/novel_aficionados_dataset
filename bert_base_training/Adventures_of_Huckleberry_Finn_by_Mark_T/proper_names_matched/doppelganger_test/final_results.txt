@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: Adventures_of_Huckleberry_Finn_by_Mark_T
-Model used: proper names matched
-
-Within-novel median: 2.5
-Within-novel average: 5.59375
-Within-novel MRR: 0.5187132745726496
-Within-novel standard deviation of the scores: 5.207322818637231
-Amount of entities considered: 16.0

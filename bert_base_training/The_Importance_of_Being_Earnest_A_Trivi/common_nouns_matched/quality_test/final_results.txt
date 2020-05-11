@@ -1,9 +1,0 @@
-Test: quality test
-Results for: The_Importance_of_Being_Earnest_A_Trivi
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 2.8333333333333335
-Within-novel MRR: 0.7016975308641975
-Within-novel standard deviation of the scores: 2.852873794770615
-Amount of entities considered: 9.0

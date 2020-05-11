@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: Dracula_by_Bram_Stoker_
-Model used: proper names matched
-
-Within-novel median: 1.5
-Within-novel average: 2.5
-Within-novel MRR: 0.6661324786324786
-Within-novel standard deviation of the scores: 2.2403639814170306
-Amount of entities considered: 13.0

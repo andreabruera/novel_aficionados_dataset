@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: The_Strange_Case_of_Dr_Jekyll_and_Mr_H
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 1.0
-Within-novel MRR: 1.0
-Within-novel standard deviation of the scores: 0.0
-Amount of entities considered: 6.0

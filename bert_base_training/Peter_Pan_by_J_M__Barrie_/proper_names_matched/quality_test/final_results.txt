@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Peter_Pan_by_J_M__Barrie_
-Model used: proper names matched
-
-Within-novel median: 4.0
-Within-novel average: 5.233333333333333
-Within-novel MRR: 0.4044588744588744
-Within-novel standard deviation of the scores: 4.1366921836441035
-Amount of entities considered: 15.0

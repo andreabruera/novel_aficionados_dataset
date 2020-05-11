@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Dracula_by_Bram_Stoker_
-Model used: common nouns unmatched
-
-Within-novel median: 1.0
-Within-novel average: 3.076923076923077
-Within-novel MRR: 0.6999342537804076
-Within-novel standard deviation of the scores: 3.5183374233936227
-Amount of entities considered: 13.0

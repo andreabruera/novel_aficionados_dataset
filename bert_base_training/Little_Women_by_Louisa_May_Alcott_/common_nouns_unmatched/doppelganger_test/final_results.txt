@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: Little_Women_by_Louisa_May_Alcott_
-Model used: common nouns unmatched
-
-Within-novel median: 1.0
-Within-novel average: 1.3461538461538463
-Within-novel MRR: 0.9595352564102563
-Within-novel standard deviation of the scores: 2.074428701563354
-Amount of entities considered: 26.0

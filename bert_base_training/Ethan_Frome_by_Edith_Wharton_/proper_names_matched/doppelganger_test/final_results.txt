@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: Ethan_Frome_by_Edith_Wharton_
-Model used: proper names matched
-
-Within-novel median: 1.0
-Within-novel average: 1.8125
-Within-novel MRR: 0.8229166666666667
-Within-novel standard deviation of the scores: 1.6665364532466729
-Amount of entities considered: 8.0

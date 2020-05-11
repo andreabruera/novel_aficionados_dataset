@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Dubliners_by_James_Joyce_
-Model used: common nouns unmatched
-
-Within-novel median: 1.0
-Within-novel average: 1.5
-Within-novel MRR: 0.9030612244897959
-Within-novel standard deviation of the scores: 1.546886273407694
-Amount of entities considered: 7.0

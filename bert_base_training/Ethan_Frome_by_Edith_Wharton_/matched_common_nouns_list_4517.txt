@@ -1,9 +1,0 @@
-77	night_nights
-68	hand_hands
-64	time_times_Time
-47	eye_eyes
-42	head_heads
-32	word_words_Words
-26	light_lights
-17	hour_hours
-15	line_lines

@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Peter_Pan_by_J_M__Barrie_
-Model used: common nouns unmatched
-
-Within-novel median: 1.0
-Within-novel average: 2.6333333333333333
-Within-novel MRR: 0.8147366522366521
-Within-novel standard deviation of the scores: 3.7459607875980527
-Amount of entities considered: 15.0

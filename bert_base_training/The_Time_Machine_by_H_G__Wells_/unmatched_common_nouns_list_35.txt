@@ -1,8 +1,0 @@
-99	thing_things_Things_Thing
-94	time_times
-77	hand_hands
-52	world
-52	machine_Machine_machines
-49	day_Day_days
-46	people
-45	man_men

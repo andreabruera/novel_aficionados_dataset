@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: A_Christmas_Carol_in_Prose_Being_a_Ghos
-Model used: proper names matched
-
-Within-novel median: 1.0
-Within-novel average: 1.3333333333333333
-Within-novel MRR: 0.8888888888888888
-Within-novel standard deviation of the scores: 0.74535599249993
-Amount of entities considered: 3.0

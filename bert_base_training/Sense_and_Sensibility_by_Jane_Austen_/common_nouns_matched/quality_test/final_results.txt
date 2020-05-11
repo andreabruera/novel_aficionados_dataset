@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Sense_and_Sensibility_by_Jane_Austen_
-Model used: common nouns matched
-
-Within-novel median: 2.0
-Within-novel average: 4.117647058823529
-Within-novel MRR: 0.6154731010051079
-Within-novel standard deviation of the scores: 4.824963918684677
-Amount of entities considered: 17.0

@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: Anna_Karenina_by_graf_Leo_Tolstoy_
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 1.2346938775510203
-Within-novel MRR: 0.93377065111759
-Within-novel standard deviation of the scores: 0.9012578557857773
-Amount of entities considered: 49.0

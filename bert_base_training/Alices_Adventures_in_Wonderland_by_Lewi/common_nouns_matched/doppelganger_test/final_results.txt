@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: Alices_Adventures_in_Wonderland_by_Lewi
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 1.1
-Within-novel MRR: 0.95
-Within-novel standard deviation of the scores: 0.3
-Amount of entities considered: 5.0

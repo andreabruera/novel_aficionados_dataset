@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Moby_Dick_Or_The_Whale_by_Herman_Melvi
-Model used: common nouns unmatched
-
-Within-novel median: 1.0
-Within-novel average: 2.7333333333333334
-Within-novel MRR: 0.7486255411255411
-Within-novel standard deviation of the scores: 3.3757303736459097
-Amount of entities considered: 15.0

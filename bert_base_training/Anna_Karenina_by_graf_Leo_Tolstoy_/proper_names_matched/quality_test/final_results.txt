@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Anna_Karenina_by_graf_Leo_Tolstoy_
-Model used: proper names matched
-
-Within-novel median: 5.5
-Within-novel average: 6.761904761904762
-Within-novel MRR: 0.39153685704437585
-Within-novel standard deviation of the scores: 5.752057701418989
-Amount of entities considered: 21.0

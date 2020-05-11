@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Candide_by_Voltaire_
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 1.5
-Within-novel MRR: 0.8166666666666667
-Within-novel standard deviation of the scores: 0.806225774829855
-Amount of entities considered: 5.0

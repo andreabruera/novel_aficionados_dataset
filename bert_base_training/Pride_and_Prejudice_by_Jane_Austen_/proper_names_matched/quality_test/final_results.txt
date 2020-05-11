@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Pride_and_Prejudice_by_Jane_Austen_
-Model used: proper names matched
-
-Within-novel median: 3.0
-Within-novel average: 5.026315789473684
-Within-novel MRR: 0.4913638262322474
-Within-novel standard deviation of the scores: 4.681918422057707
-Amount of entities considered: 19.0

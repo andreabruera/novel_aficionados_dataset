@@ -1,9 +1,0 @@
-Test: quality test
-Results for: A_Christmas_Carol_by_Charles_Dickens_
-Model used: common nouns unmatched
-
-Within-novel median: 1.0
-Within-novel average: 1.6
-Within-novel MRR: 0.775
-Within-novel standard deviation of the scores: 0.9165151389911681
-Amount of entities considered: 5.0

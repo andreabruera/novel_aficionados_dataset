@@ -1,9 +1,0 @@
-Test: quality test
-Results for: The_Tragical_History_of_Doctor_Faustus_b
-Model used: common nouns unmatched
-
-Within-novel median: 1.0
-Within-novel average: 1.2857142857142858
-Within-novel MRR: 0.9047619047619048
-Within-novel standard deviation of the scores: 0.6998542122237652
-Amount of entities considered: 7.0

@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Emma_by_Jane_Austen_
-Model used: common nouns unmatched
-
-Within-novel median: 1.0
-Within-novel average: 5.241935483870968
-Within-novel MRR: 0.6655273992595927
-Within-novel standard deviation of the scores: 7.76818466748157
-Amount of entities considered: 31.0

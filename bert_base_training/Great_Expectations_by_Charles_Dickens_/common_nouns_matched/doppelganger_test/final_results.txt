@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: Great_Expectations_by_Charles_Dickens_
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 3.7222222222222223
-Within-novel MRR: 0.7988637198706643
-Within-novel standard deviation of the scores: 7.267167838646754
-Amount of entities considered: 36.0

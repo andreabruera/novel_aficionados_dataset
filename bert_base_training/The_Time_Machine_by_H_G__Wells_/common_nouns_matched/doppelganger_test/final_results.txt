@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: The_Time_Machine_by_H_G__Wells_
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 1.1666666666666667
-Within-novel MRR: 0.9166666666666666
-Within-novel standard deviation of the scores: 0.3726779962499649
-Amount of entities considered: 3.0

@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Uncle_Toms_Cabin_by_Harriet_Beecher_Sto
-Model used: proper names matched
-
-Within-novel median: 5.5
-Within-novel average: 7.880952380952381
-Within-novel MRR: 0.35856432654033277
-Within-novel standard deviation of the scores: 6.536353945625522
-Amount of entities considered: 21.0

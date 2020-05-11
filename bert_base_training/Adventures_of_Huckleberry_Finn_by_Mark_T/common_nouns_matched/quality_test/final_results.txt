@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Adventures_of_Huckleberry_Finn_by_Mark_T
-Model used: common nouns matched
-
-Within-novel median: 1.5
-Within-novel average: 3.3333333333333335
-Within-novel MRR: 0.6074254449254449
-Within-novel standard deviation of the scores: 2.8819360776317637
-Amount of entities considered: 12.0

@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: Uncle_Toms_Cabin_by_Harriet_Beecher_Sto
-Model used: common nouns unmatched
-
-Within-novel median: 1.0
-Within-novel average: 1.0483870967741935
-Within-novel MRR: 0.9811827956989246
-Within-novel standard deviation of the scores: 0.2798282511757657
-Amount of entities considered: 31.0

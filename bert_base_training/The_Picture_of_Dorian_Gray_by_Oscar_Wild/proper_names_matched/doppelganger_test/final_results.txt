@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: The_Picture_of_Dorian_Gray_by_Oscar_Wild
-Model used: proper names matched
-
-Within-novel median: 3.0
-Within-novel average: 3.1875
-Within-novel MRR: 0.5401785714285714
-Within-novel standard deviation of the scores: 2.1857135562557137
-Amount of entities considered: 8.0

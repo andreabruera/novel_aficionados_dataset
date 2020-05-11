@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: Peter_Pan_by_J_M__Barrie_
-Model used: proper names matched
-
-Within-novel median: 1.0
-Within-novel average: 3.8
-Within-novel MRR: 0.6349735449735449
-Within-novel standard deviation of the scores: 4.407569246950825
-Amount of entities considered: 15.0

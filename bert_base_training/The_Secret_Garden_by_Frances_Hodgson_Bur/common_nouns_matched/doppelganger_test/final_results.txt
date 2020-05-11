@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: The_Secret_Garden_by_Frances_Hodgson_Bur
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 1.2857142857142858
-Within-novel MRR: 0.943452380952381
-Within-novel standard deviation of the scores: 1.0642617446965243
-Amount of entities considered: 14.0

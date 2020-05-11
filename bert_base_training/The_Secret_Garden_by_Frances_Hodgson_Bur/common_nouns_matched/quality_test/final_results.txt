@@ -1,9 +1,0 @@
-Test: quality test
-Results for: The_Secret_Garden_by_Frances_Hodgson_Bur
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 1.6
-Within-novel MRR: 0.7666666666666666
-Within-novel standard deviation of the scores: 0.8
-Amount of entities considered: 5.0

@@ -1,9 +1,0 @@
-Test: quality test
-Results for: The_Wonderful_Wizard_of_Oz_by_L_Frank__
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 1.2
-Within-novel MRR: 0.9
-Within-novel standard deviation of the scores: 0.4
-Amount of entities considered: 5.0

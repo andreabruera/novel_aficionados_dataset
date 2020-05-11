@@ -1,7 +1,0 @@
-99	man_men_Men
-73	lawyer_lawyers
-66	hand_hands
-53	door_doors
-30	thing_things_Things
-24	side_sides
-17	morning

@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: A_Tale_of_Two_Cities_by_Charles_Dickens_
-Model used: proper names matched
-
-Within-novel median: 2.0
-Within-novel average: 4.318181818181818
-Within-novel MRR: 0.5968883704679159
-Within-novel standard deviation of the scores: 5.199531129529099
-Amount of entities considered: 22.0

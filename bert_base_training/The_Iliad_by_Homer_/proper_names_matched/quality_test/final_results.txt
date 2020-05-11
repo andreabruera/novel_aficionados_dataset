@@ -1,9 +1,0 @@
-Test: quality test
-Results for: The_Iliad_by_Homer_
-Model used: proper names matched
-
-Within-novel median: 7.0
-Within-novel average: 8.981481481481481
-Within-novel MRR: 0.31515053123511966
-Within-novel standard deviation of the scores: 7.8185220274743426
-Amount of entities considered: 27.0

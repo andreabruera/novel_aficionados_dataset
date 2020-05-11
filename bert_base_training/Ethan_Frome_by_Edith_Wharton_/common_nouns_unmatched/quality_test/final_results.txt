@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Ethan_Frome_by_Edith_Wharton_
-Model used: common nouns unmatched
-
-Within-novel median: 1.5
-Within-novel average: 2.3
-Within-novel MRR: 0.6533333333333333
-Within-novel standard deviation of the scores: 1.4866068747318506
-Amount of entities considered: 5.0

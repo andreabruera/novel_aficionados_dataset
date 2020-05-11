@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Pygmalion_by_Bernard_Shaw_
-Model used: proper names matched
-
-Within-novel median: 3.0
-Within-novel average: 3.75
-Within-novel MRR: 0.4172619047619047
-Within-novel standard deviation of the scores: 2.3048861143232218
-Amount of entities considered: 8.0

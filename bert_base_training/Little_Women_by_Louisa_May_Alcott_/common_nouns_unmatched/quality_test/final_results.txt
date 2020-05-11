@@ -1,9 +1,0 @@
-Test: quality test
-Results for: Little_Women_by_Louisa_May_Alcott_
-Model used: common nouns unmatched
-
-Within-novel median: 2.0
-Within-novel average: 5.979166666666667
-Within-novel MRR: 0.5593647653251487
-Within-novel standard deviation of the scores: 6.786904004936435
-Amount of entities considered: 24.0

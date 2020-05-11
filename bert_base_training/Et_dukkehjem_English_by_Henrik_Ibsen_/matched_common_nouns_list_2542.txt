@@ -1,7 +1,0 @@
-93	thing_things
-78	door_doors
-56	child_children_Children
-54	husband_husbands
-47	something
-20	table
-17	evening

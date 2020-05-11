@@ -1,9 +1,0 @@
-Test: quality test
-Results for: A_Study_in_Scarlet_by_Arthur_Conan_Doyle
-Model used: common nouns matched
-
-Within-novel median: 1.0
-Within-novel average: 1.4285714285714286
-Within-novel MRR: 0.8392857142857143
-Within-novel standard deviation of the scores: 0.8206518066482897
-Amount of entities considered: 7.0

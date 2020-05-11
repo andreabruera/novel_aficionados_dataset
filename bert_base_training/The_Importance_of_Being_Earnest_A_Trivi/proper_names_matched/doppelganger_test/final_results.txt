@@ -1,9 +1,0 @@
-Test: doppelganger test
-Results for: The_Importance_of_Being_Earnest_A_Trivi
-Model used: proper names matched
-
-Within-novel median: 1.0
-Within-novel average: 2.3333333333333335
-Within-novel MRR: 0.6935185185185184
-Within-novel standard deviation of the scores: 1.855921454276674
-Amount of entities considered: 9.0

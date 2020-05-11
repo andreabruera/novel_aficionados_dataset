@@ -1,7 +1,0 @@
-96	girl_girls
-48	room_Room_rooms
-36	air
-21	tin
-16	year_years
-13	hole_holes
-11	mind_minds
