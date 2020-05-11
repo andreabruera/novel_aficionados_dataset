@@ -1,0 +1,780 @@
+Result for the vector: anne_shirley, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9316183450904484
+
+1) anne_shirley_a - 0.9316183450904484
+
+2) mrs_rachel_lynde_a - 0.9238842175075894
+
+3) miss_marilla_cuthbert_a - 0.9225868811536228
+
+4) diana_barry_a - 0.9164816141128606
+
+5) matthew_cuthbert_a - 0.9103934222225312
+
+6) minnie_may_a - 0.9080119187824791
+
+7) gilbert_blythe_a - 0.90699607133866
+
+8) mr_phillips_a - 0.8984484404787922
+
+9) ruby_gillis_a - 0.8945046130118021
+
+10) jane_andrews_a - 0.8882302045822207
+
+11) josie_pye_a - 0.8650807222675863
+
+12) miss_stacy_a - 0.8324696025288579
+
+13) carmody_a - 0.7253457635228916
+
+Result for the vector: miss_marilla_cuthbert, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9295476230035271
+
+1) miss_marilla_cuthbert_a - 0.9295476230035271
+
+2) matthew_cuthbert_a - 0.9082912748033585
+
+3) mrs_rachel_lynde_a - 0.8992851912549268
+
+4) diana_barry_a - 0.8992351173442742
+
+5) anne_shirley_a - 0.8982145846954379
+
+6) jane_andrews_a - 0.8970040556197233
+
+7) gilbert_blythe_a - 0.893770384045885
+
+8) mr_phillips_a - 0.8869376379493751
+
+9) minnie_may_a - 0.8732141776808622
+
+10) ruby_gillis_a - 0.8686287920849811
+
+11) josie_pye_a - 0.8536507400066117
+
+12) miss_stacy_a - 0.8054612278938351
+
+13) carmody_a - 0.7384037971496634
+
+Result for the vector: diana_barry, coming from part i of the book
+Rank: 2 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8975835977544561
+
+1) miss_marilla_cuthbert_a - 0.8984746483675712
+
+2) diana_barry_a - 0.8975835977544561
+
+3) anne_shirley_a - 0.895159137826075
+
+4) mrs_rachel_lynde_a - 0.8891506195068359
+
+5) minnie_may_a - 0.8844640254974365
+
+6) gilbert_blythe_a - 0.8838551571282853
+
+7) matthew_cuthbert_a - 0.8817487359046936
+
+8) jane_andrews_a - 0.8790290879624554
+
+9) mr_phillips_a - 0.8739101551148345
+
+10) ruby_gillis_a - 0.8654265403747559
+
+11) josie_pye_a - 0.8568953275680542
+
+12) miss_stacy_a - 0.843163916876084
+
+13) carmody_a - 0.7132308058005103
+
+Result for the vector: matthew_cuthbert, coming from part i of the book
+Rank: 2 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9116202540171314
+
+1) miss_marilla_cuthbert_a - 0.9167775040102795
+
+2) matthew_cuthbert_a - 0.9116202540171314
+
+3) gilbert_blythe_a - 0.9000930667034467
+
+4) diana_barry_a - 0.8957695836746197
+
+5) mrs_rachel_lynde_a - 0.8932829435636384
+
+6) anne_shirley_a - 0.8900955384912909
+
+7) mr_phillips_a - 0.8857756452955886
+
+8) minnie_may_a - 0.8760474250344903
+
+9) jane_andrews_a - 0.8723330345550817
+
+10) ruby_gillis_a - 0.8552549395117143
+
+11) josie_pye_a - 0.8535777243124097
+
+12) miss_stacy_a - 0.8006163239479122
+
+13) carmody_a - 0.7263132333755544
+
+Result for the vector: mrs_rachel_lynde, coming from part i of the book
+Rank: 4 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8262172548511976
+
+1) miss_marilla_cuthbert_a - 0.8517021194607958
+
+2) matthew_cuthbert_a - 0.8362001971959893
+
+3) gilbert_blythe_a - 0.8327767352595025
+
+4) mrs_rachel_lynde_a - 0.8262172548511976
+
+5) anne_shirley_a - 0.8210304210113475
+
+6) diana_barry_a - 0.8129811994444739
+
+7) josie_pye_a - 0.8083435525484676
+
+8) mr_phillips_a - 0.8080762498310671
+
+9) jane_andrews_a - 0.8064858432718738
+
+10) minnie_may_a - 0.8041970367196811
+
+11) ruby_gillis_a - 0.7659645359558475
+
+12) miss_stacy_a - 0.7168217807730841
+
+13) carmody_a - 0.6955830999166203
+
+Result for the vector: gilbert_blythe, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9229484429611368
+
+1) gilbert_blythe_a - 0.9229484429611368
+
+2) miss_marilla_cuthbert_a - 0.910233898800719
+
+3) mr_phillips_a - 0.9075649921634789
+
+4) diana_barry_a - 0.9028070780164376
+
+5) matthew_cuthbert_a - 0.8971742658965075
+
+6) mrs_rachel_lynde_a - 0.8950386314105584
+
+7) anne_shirley_a - 0.8919724620605393
+
+8) minnie_may_a - 0.8880444433702367
+
+9) jane_andrews_a - 0.8837524250524428
+
+10) ruby_gillis_a - 0.867489840611513
+
+11) josie_pye_a - 0.866456653668185
+
+12) miss_stacy_a - 0.8265461675361974
+
+13) carmody_a - 0.7329443474726602
+
+Result for the vector: jane_andrews, coming from part i of the book
+Rank: 7 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8447496294975341
+
+1) miss_marilla_cuthbert_a - 0.8766622135039354
+
+2) diana_barry_a - 0.8553629517555298
+
+3) josie_pye_a - 0.8549025741277606
+
+4) anne_shirley_a - 0.852250781252842
+
+5) matthew_cuthbert_a - 0.8506103843086744
+
+6) mrs_rachel_lynde_a - 0.847044059810398
+
+7) jane_andrews_a - 0.8447496294975341
+
+8) minnie_may_a - 0.8423349951306003
+
+9) gilbert_blythe_a - 0.832095444202429
+
+10) mr_phillips_a - 0.8277823678319973
+
+11) ruby_gillis_a - 0.8003673672457132
+
+12) miss_stacy_a - 0.7514024673220554
+
+13) carmody_a - 0.6826315900526535
+
+Result for the vector: josie_pye, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8171463121684618
+
+1) josie_pye_a - 0.8171463121684618
+
+2) matthew_cuthbert_a - 0.8121315948884743
+
+3) miss_marilla_cuthbert_a - 0.8090510495648903
+
+4) anne_shirley_a - 0.7939835559159133
+
+5) diana_barry_a - 0.7928074598312435
+
+6) gilbert_blythe_a - 0.7886596918106135
+
+7) mrs_rachel_lynde_a - 0.7874015696405443
+
+8) minnie_may_a - 0.7806736957625345
+
+9) mr_phillips_a - 0.7677609691691141
+
+10) jane_andrews_a - 0.7656587362289483
+
+11) ruby_gillis_a - 0.7379611290716465
+
+12) miss_stacy_a - 0.6938365466789548
+
+13) carmody_a - 0.6614339755256206
+
+Result for the vector: ruby_gillis, coming from part i of the book
+Rank: 11 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7965048551559448
+
+1) miss_marilla_cuthbert_a - 0.8518208342523721
+
+2) minnie_may_a - 0.8491539359092712
+
+3) anne_shirley_a - 0.8423623034522232
+
+4) josie_pye_a - 0.8389581441879272
+
+5) diana_barry_a - 0.8387079142754041
+
+6) mrs_rachel_lynde_a - 0.8360518217086792
+
+7) gilbert_blythe_a - 0.834476401476647
+
+8) matthew_cuthbert_a - 0.8287831544876099
+
+9) mr_phillips_a - 0.8220703250786763
+
+10) jane_andrews_a - 0.8161709199053612
+
+11) ruby_gillis_a - 0.7965048551559448
+
+12) miss_stacy_a - 0.7513998895049174
+
+13) carmody_a - 0.6488238782391632
+
+Result for the vector: miss_stacy, coming from part i of the book
+Rank: 12 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7986546278801796
+
+1) miss_marilla_cuthbert_a - 0.8733213057102815
+
+2) diana_barry_a - 0.8707070273582371
+
+3) mr_phillips_a - 0.870098199549264
+
+4) gilbert_blythe_a - 0.8697727841003424
+
+5) jane_andrews_a - 0.8594638025441067
+
+6) mrs_rachel_lynde_a - 0.8594022393226624
+
+7) matthew_cuthbert_a - 0.8577489852905273
+
+8) ruby_gillis_a - 0.8555009961128235
+
+9) anne_shirley_a - 0.8490730703982091
+
+10) minnie_may_a - 0.8392871022224426
+
+11) josie_pye_a - 0.8222376108169556
+
+12) miss_stacy_a - 0.7986546278801796
+
+13) carmody_a - 0.6849737355128697
+
+Result for the vector: mr_phillips, coming from part i of the book
+Rank: 7 out of 13 characters
+Cosine similarity to the co-referring vector: 0.705567142533277
+
+1) matthew_cuthbert_a - 0.7299537062644958
+
+2) miss_marilla_cuthbert_a - 0.7287710202889256
+
+3) mrs_rachel_lynde_a - 0.7130739092826843
+
+4) gilbert_blythe_a - 0.7117935843344692
+
+5) anne_shirley_a - 0.7098417031953739
+
+6) diana_barry_a - 0.707068843070797
+
+7) mr_phillips_a - 0.705567142533277
+
+8) jane_andrews_a - 0.7026828946282218
+
+9) minnie_may_a - 0.6882975697517395
+
+10) josie_pye_a - 0.6853916645050049
+
+11) ruby_gillis_a - 0.6792938113212585
+
+12) miss_stacy_a - 0.6740334228257296
+
+13) carmody_a - 0.5756518497674565
+
+Result for the vector: carmody, coming from part i of the book
+Rank: 4 out of 13 characters
+Cosine similarity to the co-referring vector: 0.6528472900390672
+
+1) diana_barry_a - 0.6707068289168869
+
+2) josie_pye_a - 0.668926040466193
+
+3) miss_marilla_cuthbert_a - 0.6551143701613151
+
+4) carmody_a - 0.6528472900390672
+
+5) matthew_cuthbert_a - 0.6525925190801941
+
+6) anne_shirley_a - 0.6499318093102195
+
+7) gilbert_blythe_a - 0.6475209173585078
+
+8) mrs_rachel_lynde_a - 0.6460702804368913
+
+9) mr_phillips_a - 0.6348383398209521
+
+10) minnie_may_a - 0.6254439130690057
+
+11) jane_andrews_a - 0.6237041501646221
+
+12) ruby_gillis_a - 0.6048546793970285
+
+13) miss_stacy_a - 0.5709656476974528
+
+Result for the vector: minnie_may, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7690229874266988
+
+1) minnie_may_a - 0.7690229874266988
+
+2) anne_shirley_a - 0.7525717763560071
+
+3) matthew_cuthbert_a - 0.7523212285233289
+
+4) miss_marilla_cuthbert_a - 0.7467403777594193
+
+5) diana_barry_a - 0.74543890302645
+
+6) mrs_rachel_lynde_a - 0.7370806179690742
+
+7) gilbert_blythe_a - 0.7351396364140077
+
+8) josie_pye_a - 0.733742876871997
+
+9) jane_andrews_a - 0.7201738023965123
+
+10) mr_phillips_a - 0.7157716795001938
+
+11) ruby_gillis_a - 0.7076815788556099
+
+12) miss_stacy_a - 0.6803268790245105
+
+13) carmody_a - 0.6111622452735944
+
+Result for the vector: anne_shirley, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9316183450904484
+
+1) anne_shirley_wiki - 0.9316183450904484
+
+2) miss_marilla_cuthbert_wiki - 0.8982145846954379
+
+3) diana_barry_wiki - 0.895159137826075
+
+4) gilbert_blythe_wiki - 0.8919724620605393
+
+5) matthew_cuthbert_wiki - 0.8900955384912909
+
+6) jane_andrews_wiki - 0.852250781252842
+
+7) miss_stacy_wiki - 0.8490730703982091
+
+8) ruby_gillis_wiki - 0.8423623034522232
+
+9) mrs_rachel_lynde_wiki - 0.8210304210113475
+
+10) josie_pye_wiki - 0.7939835559159133
+
+11) minnie_may_wiki - 0.7525717763560071
+
+12) mr_phillips_wiki - 0.7098417031953739
+
+13) carmody_wiki - 0.6499318093102195
+
+Result for the vector: miss_marilla_cuthbert, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9295476230035271
+
+1) miss_marilla_cuthbert_wiki - 0.9295476230035271
+
+2) anne_shirley_wiki - 0.9225868811536228
+
+3) matthew_cuthbert_wiki - 0.9167775040102795
+
+4) gilbert_blythe_wiki - 0.910233898800719
+
+5) diana_barry_wiki - 0.8984746483675712
+
+6) jane_andrews_wiki - 0.8766622135039354
+
+7) miss_stacy_wiki - 0.8733213057102815
+
+8) ruby_gillis_wiki - 0.8518208342523721
+
+9) mrs_rachel_lynde_wiki - 0.8517021194607958
+
+10) josie_pye_wiki - 0.8090510495648903
+
+11) minnie_may_wiki - 0.7467403777594193
+
+12) mr_phillips_wiki - 0.7287710202889256
+
+13) carmody_wiki - 0.6551143701613151
+
+Result for the vector: diana_barry, coming from part a of the book
+Rank: 4 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8975835977544561
+
+1) anne_shirley_wiki - 0.9164816141128606
+
+2) gilbert_blythe_wiki - 0.9028070780164376
+
+3) miss_marilla_cuthbert_wiki - 0.8992351173442742
+
+4) diana_barry_wiki - 0.8975835977544561
+
+5) matthew_cuthbert_wiki - 0.8957695836746197
+
+6) miss_stacy_wiki - 0.8707070273582371
+
+7) jane_andrews_wiki - 0.8553629517555298
+
+8) ruby_gillis_wiki - 0.8387079142754041
+
+9) mrs_rachel_lynde_wiki - 0.8129811994444739
+
+10) josie_pye_wiki - 0.7928074598312435
+
+11) minnie_may_wiki - 0.74543890302645
+
+12) mr_phillips_wiki - 0.707068843070797
+
+13) carmody_wiki - 0.6707068289168869
+
+Result for the vector: matthew_cuthbert, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9116202540171314
+
+1) matthew_cuthbert_wiki - 0.9116202540171314
+
+2) anne_shirley_wiki - 0.9103934222225312
+
+3) miss_marilla_cuthbert_wiki - 0.9082912748033585
+
+4) gilbert_blythe_wiki - 0.8971742658965075
+
+5) diana_barry_wiki - 0.8817487359046936
+
+6) miss_stacy_wiki - 0.8577489852905273
+
+7) jane_andrews_wiki - 0.8506103843086744
+
+8) mrs_rachel_lynde_wiki - 0.8362001971959893
+
+9) ruby_gillis_wiki - 0.8287831544876099
+
+10) josie_pye_wiki - 0.8121315948884743
+
+11) minnie_may_wiki - 0.7523212285233289
+
+12) mr_phillips_wiki - 0.7299537062644958
+
+13) carmody_wiki - 0.6525925190801941
+
+Result for the vector: mrs_rachel_lynde, coming from part a of the book
+Rank: 9 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8262172548511976
+
+1) anne_shirley_wiki - 0.9238842175075894
+
+2) miss_marilla_cuthbert_wiki - 0.8992851912549268
+
+3) gilbert_blythe_wiki - 0.8950386314105584
+
+4) matthew_cuthbert_wiki - 0.8932829435636384
+
+5) diana_barry_wiki - 0.8891506195068359
+
+6) miss_stacy_wiki - 0.8594022393226624
+
+7) jane_andrews_wiki - 0.847044059810398
+
+8) ruby_gillis_wiki - 0.8360518217086792
+
+9) mrs_rachel_lynde_wiki - 0.8262172548511976
+
+10) josie_pye_wiki - 0.7874015696405443
+
+11) minnie_may_wiki - 0.7370806179690742
+
+12) mr_phillips_wiki - 0.7130739092826843
+
+13) carmody_wiki - 0.6460702804368913
+
+Result for the vector: gilbert_blythe, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9229484429611368
+
+1) gilbert_blythe_wiki - 0.9229484429611368
+
+2) anne_shirley_wiki - 0.90699607133866
+
+3) matthew_cuthbert_wiki - 0.9000930667034467
+
+4) miss_marilla_cuthbert_wiki - 0.893770384045885
+
+5) diana_barry_wiki - 0.8838551571282853
+
+6) miss_stacy_wiki - 0.8697727841003424
+
+7) ruby_gillis_wiki - 0.834476401476647
+
+8) mrs_rachel_lynde_wiki - 0.8327767352595025
+
+9) jane_andrews_wiki - 0.832095444202429
+
+10) josie_pye_wiki - 0.7886596918106135
+
+11) minnie_may_wiki - 0.7351396364140077
+
+12) mr_phillips_wiki - 0.7117935843344692
+
+13) carmody_wiki - 0.6475209173585078
+
+Result for the vector: jane_andrews, coming from part a of the book
+Rank: 7 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8447496294975341
+
+1) miss_marilla_cuthbert_wiki - 0.8970040556197233
+
+2) anne_shirley_wiki - 0.8882302045822207
+
+3) gilbert_blythe_wiki - 0.8837524250524428
+
+4) diana_barry_wiki - 0.8790290879624554
+
+5) matthew_cuthbert_wiki - 0.8723330345550817
+
+6) miss_stacy_wiki - 0.8594638025441067
+
+7) jane_andrews_wiki - 0.8447496294975341
+
+8) ruby_gillis_wiki - 0.8161709199053612
+
+9) mrs_rachel_lynde_wiki - 0.8064858432718738
+
+10) josie_pye_wiki - 0.7656587362289483
+
+11) minnie_may_wiki - 0.7201738023965123
+
+12) mr_phillips_wiki - 0.7026828946282218
+
+13) carmody_wiki - 0.6237041501646221
+
+Result for the vector: josie_pye, coming from part a of the book
+Rank: 9 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8171463121684618
+
+1) gilbert_blythe_wiki - 0.866456653668185
+
+2) anne_shirley_wiki - 0.8650807222675863
+
+3) diana_barry_wiki - 0.8568953275680542
+
+4) jane_andrews_wiki - 0.8549025741277606
+
+5) miss_marilla_cuthbert_wiki - 0.8536507400066117
+
+6) matthew_cuthbert_wiki - 0.8535777243124097
+
+7) ruby_gillis_wiki - 0.8389581441879272
+
+8) miss_stacy_wiki - 0.8222376108169556
+
+9) josie_pye_wiki - 0.8171463121684618
+
+10) mrs_rachel_lynde_wiki - 0.8083435525484676
+
+11) minnie_may_wiki - 0.733742876871997
+
+12) mr_phillips_wiki - 0.6853916645050049
+
+13) carmody_wiki - 0.668926040466193
+
+Result for the vector: ruby_gillis, coming from part a of the book
+Rank: 8 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7965048551559448
+
+1) anne_shirley_wiki - 0.8945046130118021
+
+2) miss_marilla_cuthbert_wiki - 0.8686287920849811
+
+3) gilbert_blythe_wiki - 0.867489840611513
+
+4) diana_barry_wiki - 0.8654265403747559
+
+5) miss_stacy_wiki - 0.8555009961128235
+
+6) matthew_cuthbert_wiki - 0.8552549395117143
+
+7) jane_andrews_wiki - 0.8003673672457132
+
+8) ruby_gillis_wiki - 0.7965048551559448
+
+9) mrs_rachel_lynde_wiki - 0.7659645359558475
+
+10) josie_pye_wiki - 0.7379611290716465
+
+11) minnie_may_wiki - 0.7076815788556099
+
+12) mr_phillips_wiki - 0.6792938113212585
+
+13) carmody_wiki - 0.6048546793970285
+
+Result for the vector: miss_stacy, coming from part a of the book
+Rank: 6 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7986546278801796
+
+1) diana_barry_wiki - 0.843163916876084
+
+2) anne_shirley_wiki - 0.8324696025288579
+
+3) gilbert_blythe_wiki - 0.8265461675361974
+
+4) miss_marilla_cuthbert_wiki - 0.8054612278938351
+
+5) matthew_cuthbert_wiki - 0.8006163239479122
+
+6) miss_stacy_wiki - 0.7986546278801796
+
+7) jane_andrews_wiki - 0.7514024673220554
+
+8) ruby_gillis_wiki - 0.7513998895049174
+
+9) mrs_rachel_lynde_wiki - 0.7168217807730841
+
+10) josie_pye_wiki - 0.6938365466789548
+
+11) minnie_may_wiki - 0.6803268790245105
+
+12) mr_phillips_wiki - 0.6740334228257296
+
+13) carmody_wiki - 0.5709656476974528
+
+Result for the vector: mr_phillips, coming from part a of the book
+Rank: 12 out of 13 characters
+Cosine similarity to the co-referring vector: 0.705567142533277
+
+1) gilbert_blythe_wiki - 0.9075649921634789
+
+2) anne_shirley_wiki - 0.8984484404787922
+
+3) miss_marilla_cuthbert_wiki - 0.8869376379493751
+
+4) matthew_cuthbert_wiki - 0.8857756452955886
+
+5) diana_barry_wiki - 0.8739101551148345
+
+6) miss_stacy_wiki - 0.870098199549264
+
+7) jane_andrews_wiki - 0.8277823678319973
+
+8) ruby_gillis_wiki - 0.8220703250786763
+
+9) mrs_rachel_lynde_wiki - 0.8080762498310671
+
+10) josie_pye_wiki - 0.7677609691691141
+
+11) minnie_may_wiki - 0.7157716795001938
+
+12) mr_phillips_wiki - 0.705567142533277
+
+13) carmody_wiki - 0.6348383398209521
+
+Result for the vector: carmody, coming from part a of the book
+Rank: 10 out of 13 characters
+Cosine similarity to the co-referring vector: 0.6528472900390672
+
+1) miss_marilla_cuthbert_wiki - 0.7384037971496634
+
+2) gilbert_blythe_wiki - 0.7329443474726602
+
+3) matthew_cuthbert_wiki - 0.7263132333755544
+
+4) anne_shirley_wiki - 0.7253457635228916
+
+5) diana_barry_wiki - 0.7132308058005103
+
+6) mrs_rachel_lynde_wiki - 0.6955830999166203
+
+7) miss_stacy_wiki - 0.6849737355128697
+
+8) jane_andrews_wiki - 0.6826315900526535
+
+9) josie_pye_wiki - 0.6614339755256206
+
+10) carmody_wiki - 0.6528472900390672
+
+11) ruby_gillis_wiki - 0.6488238782391632
+
+12) minnie_may_wiki - 0.6111622452735944
+
+13) mr_phillips_wiki - 0.5756518497674565
+
+Result for the vector: minnie_may, coming from part a of the book
+Rank: 11 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7690229874266988
+
+1) anne_shirley_wiki - 0.9080119187824791
+
+2) gilbert_blythe_wiki - 0.8880444433702367
+
+3) diana_barry_wiki - 0.8844640254974365
+
+4) matthew_cuthbert_wiki - 0.8760474250344903
+
+5) miss_marilla_cuthbert_wiki - 0.8732141776808622
+
+6) ruby_gillis_wiki - 0.8491539359092712
+
+7) jane_andrews_wiki - 0.8423349951306003
+
+8) miss_stacy_wiki - 0.8392871022224426
+
+9) mrs_rachel_lynde_wiki - 0.8041970367196811
+
+10) josie_pye_wiki - 0.7806736957625345
+
+11) minnie_may_wiki - 0.7690229874266988
+
+12) mr_phillips_wiki - 0.6882975697517395
+
+13) carmody_wiki - 0.6254439130690057
+

@@ -1,0 +1,2112 @@
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9063871558673902
+
+1) man_a - 0.9063871558673902
+
+2) governess_a - 0.8687430879099194
+
+3) family_a - 0.863416032383915
+
+4) thought_a - 0.8409228920936644
+
+5) match_a - 0.8398590779388515
+
+6) religion_a - 0.8367998697280976
+
+7) view_a - 0.8355061509903594
+
+8) other_a - 0.8316396675539413
+
+9) forgiveness_a - 0.8278629286370931
+
+10) sister_a - 0.8234848976135313
+
+11) feeling_a - 0.8206051098939725
+
+12) fault_a - 0.819149087718185
+
+13) land_a - 0.8187570679928634
+
+14) half_a - 0.8116961829843427
+
+15) hand_a - 0.8089973444344211
+
+16) time_a - 0.7971822736128391
+
+17) detail_a - 0.7957811477314756
+
+18) railway_a - 0.7864961496887422
+
+19) reconciliation_a - 0.7826823721717389
+
+20) end_a - 0.7747112877753024
+
+21) effect_a - 0.7667451043876957
+
+22) confusion_a - 0.739749886401004
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9117841343686899
+
+1) time_a - 0.9117841343686899
+
+2) family_a - 0.8277977314236484
+
+3) view_a - 0.8176497925728697
+
+4) man_a - 0.8165276755972116
+
+5) detail_a - 0.8133593908930202
+
+6) thought_a - 0.8132405281066952
+
+7) religion_a - 0.809643756768481
+
+8) match_a - 0.8091184610653855
+
+9) feeling_a - 0.8082319612364807
+
+10) end_a - 0.8069879768196384
+
+11) other_a - 0.8066987029673215
+
+12) governess_a - 0.8056879283692905
+
+13) land_a - 0.8027818320523615
+
+14) fault_a - 0.8000318527202708
+
+15) reconciliation_a - 0.7986797810387756
+
+16) half_a - 0.7931281451506542
+
+17) hand_a - 0.7931019191085162
+
+18) railway_a - 0.7868574730669071
+
+19) forgiveness_a - 0.7780093086952397
+
+20) sister_a - 0.7752473950386103
+
+21) confusion_a - 0.7720563777668394
+
+22) effect_a - 0.7657826682458732
+
+Result for the vector: hand, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.5220425128936768
+
+1) hand_a - 0.5220425128936768
+
+2) reconciliation_a - 0.5110667943954468
+
+3) end_a - 0.507000521034018
+
+4) thought_a - 0.5068180863152802
+
+5) fault_a - 0.5055570006370544
+
+6) forgiveness_a - 0.5032863020896912
+
+7) detail_a - 0.5020815134048462
+
+8) sister_a - 0.5015638173558612
+
+9) confusion_a - 0.4991730898372262
+
+10) feeling_a - 0.4973909556865692
+
+11) half_a - 0.49682921171188354
+
+12) time_a - 0.49486629588400316
+
+13) view_a - 0.4934414327144623
+
+14) family_a - 0.49248296067220293
+
+15) land_a - 0.49233102798461914
+
+16) governess_a - 0.4920919977508801
+
+17) effect_a - 0.48929670453071594
+
+18) match_a - 0.48825448751449585
+
+19) religion_a - 0.48819202184677124
+
+20) railway_a - 0.4850239437847105
+
+21) man_a - 0.4818075895309448
+
+22) other_a - 0.4796631944380295
+
+Result for the vector: feeling, coming from part i of the book
+Rank: 3 out of 22 characters
+Cosine similarity to the co-referring vector: 0.6822932565895696
+
+1) confusion_a - 0.7147686907511169
+
+2) fault_a - 0.6957165210162559
+
+3) feeling_a - 0.6822932565895696
+
+4) view_a - 0.6655438144667096
+
+5) effect_a - 0.6478824808562544
+
+6) reconciliation_a - 0.6409155321394069
+
+7) religion_a - 0.6391464066251045
+
+8) family_a - 0.6368437815653176
+
+9) thought_a - 0.6338520616756735
+
+10) hand_a - 0.6305570790337649
+
+11) sister_a - 0.6298921671413336
+
+12) detail_a - 0.6288399883759022
+
+13) forgiveness_a - 0.6229399628323308
+
+14) man_a - 0.6101752105407482
+
+15) end_a - 0.6030015708805067
+
+16) time_a - 0.6006057740341063
+
+17) governess_a - 0.5969030376557167
+
+18) other_a - 0.5941979708016547
+
+19) match_a - 0.5933175263797502
+
+20) half_a - 0.5924149928216637
+
+21) land_a - 0.5895621356237574
+
+22) railway_a - 0.5600809693457163
+
+Result for the vector: thought, coming from part i of the book
+Rank: 5 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7410783017324403
+
+1) view_a - 0.7690750956535339
+
+2) religion_a - 0.7538067102432251
+
+3) family_a - 0.7516673355300836
+
+4) feeling_a - 0.7447757124900818
+
+5) thought_a - 0.7410783017324403
+
+6) detail_a - 0.7401928901672363
+
+7) fault_a - 0.7098081111907959
+
+8) time_a - 0.7091111405359497
+
+9) effect_a - 0.7084866762161255
+
+10) half_a - 0.7076288461685181
+
+11) sister_a - 0.7074075166825973
+
+12) land_a - 0.7063765525817871
+
+13) other_a - 0.7050714668588969
+
+14) man_a - 0.7050643563270569
+
+15) confusion_a - 0.6943757144920744
+
+16) end_a - 0.6866534556941231
+
+17) hand_a - 0.6820379495620728
+
+18) forgiveness_a - 0.6819377541542053
+
+19) reconciliation_a - 0.6760139465332031
+
+20) railway_a - 0.6717794742321389
+
+21) match_a - 0.6655272245407104
+
+22) governess_a - 0.6549915660910245
+
+Result for the vector: sister, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8930953208747457
+
+1) sister_a - 0.8930953208747457
+
+2) family_a - 0.8589892639536997
+
+3) man_a - 0.8349997001886784
+
+4) governess_a - 0.8211991542220547
+
+5) thought_a - 0.8178112615459536
+
+6) hand_a - 0.8097708452021125
+
+7) fault_a - 0.8034107919441766
+
+8) match_a - 0.8032845493215917
+
+9) other_a - 0.8032520765211459
+
+10) half_a - 0.7994786143924514
+
+11) forgiveness_a - 0.7904744994074759
+
+12) religion_a - 0.7891450775688851
+
+13) feeling_a - 0.7843520898399302
+
+14) reconciliation_a - 0.7832758088975236
+
+15) land_a - 0.7814966700677128
+
+16) view_a - 0.779540743882573
+
+17) time_a - 0.7740007869601763
+
+18) detail_a - 0.7640850825208382
+
+19) railway_a - 0.7541511058807587
+
+20) end_a - 0.7509176059737045
+
+21) confusion_a - 0.7361922201938514
+
+22) effect_a - 0.7137439592189888
+
+Result for the vector: family, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9221076415713063
+
+1) family_a - 0.9221076415713063
+
+2) religion_a - 0.8831865787506104
+
+3) man_a - 0.8763066530227661
+
+4) other_a - 0.8695752102389822
+
+5) land_a - 0.8533633351325989
+
+6) feeling_a - 0.8471310138702393
+
+7) thought_a - 0.8457568791959825
+
+8) half_a - 0.8389101624488831
+
+9) railway_a - 0.8373747870176836
+
+10) view_a - 0.8366443514823914
+
+11) sister_a - 0.8355378410540739
+
+12) governess_a - 0.832894280513613
+
+13) time_a - 0.83155000679941
+
+14) fault_a - 0.8298737406730652
+
+15) detail_a - 0.8282365798950195
+
+16) reconciliation_a - 0.823239266872406
+
+17) forgiveness_a - 0.8186408877372742
+
+18) confusion_a - 0.8063476922019632
+
+19) hand_a - 0.8004857897758484
+
+20) end_a - 0.7978160023038392
+
+21) match_a - 0.7932069301605225
+
+22) effect_a - 0.7603890299797058
+
+Result for the vector: view, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.818684125503425
+
+1) view_a - 0.818684125503425
+
+2) religion_a - 0.768468760504388
+
+3) fault_a - 0.7643354166846105
+
+4) feeling_a - 0.7629850734169806
+
+5) detail_a - 0.7586918103305048
+
+6) family_a - 0.7572979105324206
+
+7) man_a - 0.7505873069342172
+
+8) thought_a - 0.7428842255071606
+
+9) time_a - 0.7406299842530514
+
+10) hand_a - 0.7274205305403633
+
+11) confusion_a - 0.7251227334214886
+
+12) forgiveness_a - 0.7182989334553166
+
+13) sister_a - 0.71660256832265
+
+14) effect_a - 0.7125952456174868
+
+15) other_a - 0.709818997686538
+
+16) end_a - 0.7088551347765407
+
+17) land_a - 0.7087573024260198
+
+18) half_a - 0.7076697560450365
+
+19) governess_a - 0.6930957666749689
+
+20) match_a - 0.6791361772756632
+
+21) reconciliation_a - 0.6666578849154083
+
+22) railway_a - 0.6664318839359137
+
+Result for the vector: land, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8714269399642944
+
+1) land_a - 0.8714269399642944
+
+2) family_a - 0.816301058751283
+
+3) religion_a - 0.8162642121315002
+
+4) view_a - 0.7771333456039429
+
+5) man_a - 0.77358478307724
+
+6) railway_a - 0.7655690628968607
+
+7) fault_a - 0.7541922330856323
+
+8) detail_a - 0.7467765808105469
+
+9) confusion_a - 0.7462542279438448
+
+10) other_a - 0.7427237783239033
+
+11) half_a - 0.7416664361953735
+
+12) governess_a - 0.7414119906495831
+
+13) feeling_a - 0.7408158779144287
+
+14) time_a - 0.7389472632031617
+
+15) sister_a - 0.7317410547578976
+
+16) thought_a - 0.7275846438160339
+
+17) hand_a - 0.7263563871383667
+
+18) forgiveness_a - 0.7257166504859924
+
+19) match_a - 0.7177109718322754
+
+20) end_a - 0.7135164950345906
+
+21) reconciliation_a - 0.699967622756958
+
+22) effect_a - 0.6898936033248901
+
+Result for the vector: end, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7511368617754243
+
+1) end_a - 0.7511368617754243
+
+2) time_a - 0.6291634185855784
+
+3) detail_a - 0.605268657207489
+
+4) view_a - 0.5838516354560852
+
+5) feeling_a - 0.5725981593132019
+
+6) reconciliation_a - 0.5722195506095886
+
+7) effect_a - 0.5721739530563354
+
+8) half_a - 0.5715001821517944
+
+9) thought_a - 0.5706017357469649
+
+10) confusion_a - 0.5625634361077382
+
+11) family_a - 0.5609264635487529
+
+12) land_a - 0.5539290904998779
+
+13) religion_a - 0.5506249070167542
+
+14) hand_a - 0.5442869067192078
+
+15) fault_a - 0.5441482663154602
+
+16) other_a - 0.5436466608258101
+
+17) railway_a - 0.5368961735840089
+
+18) man_a - 0.536728024482727
+
+19) forgiveness_a - 0.5213072299957275
+
+20) governess_a - 0.5162066086715429
+
+21) sister_a - 0.508457929400083
+
+22) match_a - 0.5057873129844666
+
+Result for the vector: other, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8940977187723637
+
+1) other_a - 0.8940977187723637
+
+2) family_a - 0.8678428868102201
+
+3) religion_a - 0.8671050330133749
+
+4) man_a - 0.8607386607151828
+
+5) governess_a - 0.8572906681645728
+
+6) view_a - 0.8554772393547669
+
+7) thought_a - 0.8448797623705655
+
+8) fault_a - 0.8372442971838805
+
+9) match_a - 0.8370906364050701
+
+10) land_a - 0.8250652201493154
+
+11) time_a - 0.8237422389523277
+
+12) forgiveness_a - 0.8181379681270713
+
+13) detail_a - 0.8173863535340538
+
+14) hand_a - 0.8167596106755621
+
+15) feeling_a - 0.8166858797277776
+
+16) reconciliation_a - 0.8120190147167154
+
+17) railway_a - 0.8071274768006054
+
+18) half_a - 0.8070875050749635
+
+19) end_a - 0.8070087317829568
+
+20) sister_a - 0.8015964151856082
+
+21) effect_a - 0.786723696789852
+
+22) confusion_a - 0.7843288650708714
+
+Result for the vector: detail, coming from part i of the book
+Rank: 2 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8235847564238659
+
+1) view_a - 0.840523083147641
+
+2) detail_a - 0.8235847564238659
+
+3) effect_a - 0.7998640179796255
+
+4) religion_a - 0.7983235957236828
+
+5) family_a - 0.7883428713662273
+
+6) man_a - 0.7881830587168918
+
+7) governess_a - 0.787879145506663
+
+8) fault_a - 0.7869740978510319
+
+9) thought_a - 0.7835538516310667
+
+10) land_a - 0.7790177131870191
+
+11) feeling_a - 0.7754728465708732
+
+12) match_a - 0.7666233460160136
+
+13) time_a - 0.7664343943129575
+
+14) hand_a - 0.7608318613968115
+
+15) other_a - 0.7591023279841566
+
+16) end_a - 0.7552786986280735
+
+17) confusion_a - 0.7547328393400241
+
+18) forgiveness_a - 0.7437719412121896
+
+19) half_a - 0.7325209698056071
+
+20) sister_a - 0.7307188671398955
+
+21) railway_a - 0.7292887568474024
+
+22) reconciliation_a - 0.724308344804251
+
+Result for the vector: fault, coming from part i of the book
+Rank: 2 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7527441677160117
+
+1) family_a - 0.7672887860616245
+
+2) fault_a - 0.7527441677160117
+
+3) reconciliation_a - 0.7517999706506817
+
+4) detail_a - 0.7497338354904901
+
+5) view_a - 0.7413449595755439
+
+6) religion_a - 0.7385534955795465
+
+7) sister_a - 0.7360125341408053
+
+8) feeling_a - 0.7213335369427807
+
+9) confusion_a - 0.7143139200526031
+
+10) thought_a - 0.7140640786848136
+
+11) man_a - 0.7069042078370851
+
+12) time_a - 0.7063448043568629
+
+13) other_a - 0.7027613456079951
+
+14) hand_a - 0.6907325755676587
+
+15) half_a - 0.6791826869031612
+
+16) land_a - 0.6788928891548098
+
+17) end_a - 0.6768704643663424
+
+18) forgiveness_a - 0.6741637975974372
+
+19) railway_a - 0.6698166131973456
+
+20) governess_a - 0.6626912157925745
+
+21) match_a - 0.6597150969844988
+
+22) effect_a - 0.6522895512235746
+
+Result for the vector: governess, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7457784707282163
+
+1) governess_a - 0.7457784707282163
+
+2) family_a - 0.7417661326597323
+
+3) man_a - 0.7360466341986253
+
+4) sister_a - 0.7136607808167443
+
+5) half_a - 0.6943177787756261
+
+6) other_a - 0.6900017651915051
+
+7) land_a - 0.6874385680985027
+
+8) religion_a - 0.6815170848821728
+
+9) match_a - 0.68146493081644
+
+10) thought_a - 0.6810783756743413
+
+11) detail_a - 0.6798284256407152
+
+12) forgiveness_a - 0.6739145718191439
+
+13) hand_a - 0.6722768149458416
+
+14) fault_a - 0.6698093017878923
+
+15) railway_a - 0.6640971100475085
+
+16) view_a - 0.663099487516269
+
+17) reconciliation_a - 0.662765999518812
+
+18) time_a - 0.6544141151453509
+
+19) end_a - 0.6542780789302635
+
+20) feeling_a - 0.6504387453329192
+
+21) confusion_a - 0.6250322833676507
+
+22) effect_a - 0.5990275919147611
+
+Result for the vector: religion, coming from part i of the book
+Rank: 2 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7460180369626319
+
+1) family_a - 0.7522372603416496
+
+2) religion_a - 0.7460180369626319
+
+3) view_a - 0.7216960025844589
+
+4) land_a - 0.7090410416746773
+
+5) man_a - 0.7047685208778705
+
+6) detail_a - 0.7011298359113847
+
+7) fault_a - 0.7007370412789025
+
+8) other_a - 0.6783143281936693
+
+9) governess_a - 0.6756003909707655
+
+10) thought_a - 0.6713388170407792
+
+11) feeling_a - 0.6697301667767874
+
+12) sister_a - 0.6645230250982076
+
+13) half_a - 0.6605040228667285
+
+14) forgiveness_a - 0.6597232019736303
+
+15) match_a - 0.6576169525156601
+
+16) time_a - 0.6558498916312853
+
+17) hand_a - 0.6553238424851812
+
+18) confusion_a - 0.6547374118629767
+
+19) railway_a - 0.6507193417643335
+
+20) reconciliation_a - 0.6485860138288756
+
+21) effect_a - 0.6338961502251725
+
+22) end_a - 0.6294944849158366
+
+Result for the vector: half, coming from part i of the book
+Rank: 3 out of 22 characters
+Cosine similarity to the co-referring vector: 0.6345975399017334
+
+1) other_a - 0.6695543724564104
+
+2) family_a - 0.6400446510288339
+
+3) half_a - 0.6345975399017334
+
+4) sister_a - 0.6214864624432612
+
+5) thought_a - 0.604712879938656
+
+6) man_a - 0.5972402691841125
+
+7) governess_a - 0.5783874909628197
+
+8) hand_a - 0.5761412382125854
+
+9) religion_a - 0.572718620300293
+
+10) fault_a - 0.5710729956626892
+
+11) time_a - 0.5698340192189905
+
+12) feeling_a - 0.5696226358413696
+
+13) end_a - 0.5693455508156288
+
+14) railway_a - 0.567810007072692
+
+15) detail_a - 0.5675762295722961
+
+16) land_a - 0.564750611782074
+
+17) view_a - 0.5574703812599182
+
+18) reconciliation_a - 0.5510777235031128
+
+19) match_a - 0.549761950969696
+
+20) forgiveness_a - 0.5412450432777405
+
+21) confusion_a - 0.5279988207816728
+
+22) effect_a - 0.5225244164466858
+
+Result for the vector: railway, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9225198030472064
+
+1) railway_a - 0.9225198030472064
+
+2) family_a - 0.7918181195584336
+
+3) other_a - 0.7840163497895583
+
+4) land_a - 0.7617032811995463
+
+5) half_a - 0.7490847409862642
+
+6) governess_a - 0.747915007236169
+
+7) man_a - 0.7474911513935201
+
+8) time_a - 0.7416939360408434
+
+9) thought_a - 0.7409693157095243
+
+10) religion_a - 0.731165560344992
+
+11) end_a - 0.7214187930746045
+
+12) hand_a - 0.7212630246564171
+
+13) feeling_a - 0.7165040115709342
+
+14) sister_a - 0.7160086205000622
+
+15) fault_a - 0.7137918813476755
+
+16) view_a - 0.7136208756422003
+
+17) reconciliation_a - 0.7100140202028777
+
+18) detail_a - 0.7088611473010653
+
+19) match_a - 0.7070893994463257
+
+20) forgiveness_a - 0.7017859576003652
+
+21) confusion_a - 0.6981122465629435
+
+22) effect_a - 0.6736167462329022
+
+Result for the vector: effect, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7642241997451599
+
+1) effect_a - 0.7642241997451599
+
+2) detail_a - 0.6514901934277827
+
+3) view_a - 0.6453366702393732
+
+4) feeling_a - 0.6432084270467294
+
+5) land_a - 0.625703975474365
+
+6) family_a - 0.6197371566765635
+
+7) thought_a - 0.6169629325292846
+
+8) time_a - 0.6168860380913849
+
+9) hand_a - 0.6087558735900119
+
+10) religion_a - 0.6082134117825776
+
+11) fault_a - 0.6040339941937973
+
+12) half_a - 0.6038976783874461
+
+13) man_a - 0.6013562558464741
+
+14) other_a - 0.6003672003089439
+
+15) end_a - 0.596185750110238
+
+16) governess_a - 0.5825280969581702
+
+17) sister_a - 0.5798917067115574
+
+18) forgiveness_a - 0.5755472689214666
+
+19) match_a - 0.5723615202472823
+
+20) railway_a - 0.5699108242988749
+
+21) confusion_a - 0.5622556302915013
+
+22) reconciliation_a - 0.5547119909868291
+
+Result for the vector: forgiveness, coming from part i of the book
+Rank: 9 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7123112507051987
+
+1) fault_a - 0.7816367615244857
+
+2) confusion_a - 0.7650928585314329
+
+3) family_a - 0.7586191892623956
+
+4) religion_a - 0.7577665899852879
+
+5) view_a - 0.7482450454381149
+
+6) reconciliation_a - 0.7377682767968355
+
+7) feeling_a - 0.7358572325621399
+
+8) sister_a - 0.7357587499330938
+
+9) forgiveness_a - 0.7123112507051987
+
+10) detail_a - 0.7069039170088731
+
+11) thought_a - 0.7067305096066605
+
+12) man_a - 0.6977130590506243
+
+13) hand_a - 0.6940851625254859
+
+14) time_a - 0.6872550490732621
+
+15) other_a - 0.6835399270057727
+
+16) land_a - 0.6768364713690573
+
+17) end_a - 0.6679065228617066
+
+18) half_a - 0.6677934329386623
+
+19) governess_a - 0.6656070151339497
+
+20) match_a - 0.6655190387677585
+
+21) effect_a - 0.6640849509289843
+
+22) railway_a - 0.6483724084566381
+
+Result for the vector: confusion, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8210413104606069
+
+1) confusion_a - 0.8210413104606069
+
+2) feeling_a - 0.8044773936271667
+
+3) fault_a - 0.7805631756782532
+
+4) detail_a - 0.776380181312561
+
+5) thought_a - 0.7697086793010653
+
+6) religion_a - 0.7681402564048767
+
+7) reconciliation_a - 0.7670845985412598
+
+8) view_a - 0.7652462720870972
+
+9) family_a - 0.7581003452479647
+
+10) forgiveness_a - 0.7474741339683533
+
+11) time_a - 0.7468727747906492
+
+12) sister_a - 0.7238579227839675
+
+13) land_a - 0.7208250761032104
+
+14) effect_a - 0.7176086902618408
+
+15) hand_a - 0.7155975699424744
+
+16) half_a - 0.7130740880966187
+
+17) end_a - 0.7128953550128748
+
+18) other_a - 0.7119522862462839
+
+19) man_a - 0.7113755345344543
+
+20) governess_a - 0.6878892798324803
+
+21) railway_a - 0.6855043990021277
+
+22) match_a - 0.667725682258606
+
+Result for the vector: match, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8435353292088312
+
+1) match_a - 0.8435353292088312
+
+2) man_a - 0.802084529461996
+
+3) family_a - 0.7954540015621813
+
+4) view_a - 0.7712632051486735
+
+5) feeling_a - 0.7663159598802319
+
+6) sister_a - 0.7635881987441959
+
+7) thought_a - 0.7597558581610795
+
+8) reconciliation_a - 0.7568282710560644
+
+9) half_a - 0.7550174818938223
+
+10) time_a - 0.7546238460464256
+
+11) other_a - 0.7538639082353172
+
+12) religion_a - 0.75336935381202
+
+13) governess_a - 0.7519328298488666
+
+14) end_a - 0.7369257650927166
+
+15) fault_a - 0.7363704662433409
+
+16) detail_a - 0.7363333325485392
+
+17) forgiveness_a - 0.7347333650211506
+
+18) hand_a - 0.7334736208162794
+
+19) land_a - 0.7329638222743223
+
+20) effect_a - 0.732741139314805
+
+21) railway_a - 0.704647109604944
+
+22) confusion_a - 0.6822209764850722
+
+Result for the vector: reconciliation, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8221927775259495
+
+1) reconciliation_a - 0.8221927775259495
+
+2) family_a - 0.6845712065696765
+
+3) match_a - 0.6688210170758389
+
+4) fault_a - 0.6676711242002931
+
+5) view_a - 0.6619630254485038
+
+6) feeling_a - 0.6582353507420642
+
+7) sister_a - 0.6555365509434403
+
+8) confusion_a - 0.6519322978197606
+
+9) religion_a - 0.6517268211678767
+
+10) thought_a - 0.6492523728909937
+
+11) time_a - 0.6478918354285638
+
+12) forgiveness_a - 0.6478034047963276
+
+13) hand_a - 0.6436328079481618
+
+14) detail_a - 0.6423357511958939
+
+15) end_a - 0.6367597553217195
+
+16) land_a - 0.6366995356499884
+
+17) man_a - 0.6360973498879295
+
+18) half_a - 0.6278489606290447
+
+19) other_a - 0.6265043020248457
+
+20) railway_a - 0.6163121967873936
+
+21) governess_a - 0.6133148392013968
+
+22) effect_a - 0.6104597813165068
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9063871558673902
+
+1) man_wiki - 0.9063871558673902
+
+2) family_wiki - 0.8763066530227661
+
+3) other_wiki - 0.8607386607151828
+
+4) sister_wiki - 0.8349997001886784
+
+5) time_wiki - 0.8165276755972116
+
+6) match_wiki - 0.802084529461996
+
+7) detail_wiki - 0.7881830587168918
+
+8) land_wiki - 0.77358478307724
+
+9) view_wiki - 0.7505873069342172
+
+10) railway_wiki - 0.7474911513935201
+
+11) governess_wiki - 0.7360466341986253
+
+12) confusion_wiki - 0.7113755345344543
+
+13) fault_wiki - 0.7069042078370851
+
+14) thought_wiki - 0.7050643563270569
+
+15) religion_wiki - 0.7047685208778705
+
+16) forgiveness_wiki - 0.6977130590506243
+
+17) reconciliation_wiki - 0.6360973498879295
+
+18) feeling_wiki - 0.6101752105407482
+
+19) effect_wiki - 0.6013562558464741
+
+20) half_wiki - 0.5972402691841125
+
+21) end_wiki - 0.536728024482727
+
+22) hand_wiki - 0.4818075895309448
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9117841343686899
+
+1) time_wiki - 0.9117841343686899
+
+2) family_wiki - 0.83155000679941
+
+3) other_wiki - 0.8237422389523277
+
+4) man_wiki - 0.7971822736128391
+
+5) sister_wiki - 0.7740007869601763
+
+6) detail_wiki - 0.7664343943129575
+
+7) match_wiki - 0.7546238460464256
+
+8) confusion_wiki - 0.7468727747906492
+
+9) railway_wiki - 0.7416939360408434
+
+10) view_wiki - 0.7406299842530514
+
+11) land_wiki - 0.7389472632031617
+
+12) thought_wiki - 0.7091111405359497
+
+13) fault_wiki - 0.7063448043568629
+
+14) forgiveness_wiki - 0.6872550490732621
+
+15) religion_wiki - 0.6558498916312853
+
+16) governess_wiki - 0.6544141151453509
+
+17) reconciliation_wiki - 0.6478918354285638
+
+18) end_wiki - 0.6291634185855784
+
+19) effect_wiki - 0.6168860380913849
+
+20) feeling_wiki - 0.6006057740341063
+
+21) half_wiki - 0.5698340192189905
+
+22) hand_wiki - 0.49486629588400316
+
+Result for the vector: hand, coming from part a of the book
+Rank: 22 out of 22 characters
+Cosine similarity to the co-referring vector: 0.5220425128936768
+
+1) other_wiki - 0.8167596106755621
+
+2) sister_wiki - 0.8097708452021125
+
+3) man_wiki - 0.8089973444344211
+
+4) family_wiki - 0.8004857897758484
+
+5) time_wiki - 0.7931019191085162
+
+6) detail_wiki - 0.7608318613968115
+
+7) match_wiki - 0.7334736208162794
+
+8) view_wiki - 0.7274205305403633
+
+9) land_wiki - 0.7263563871383667
+
+10) railway_wiki - 0.7212630246564171
+
+11) confusion_wiki - 0.7155975699424744
+
+12) forgiveness_wiki - 0.6940851625254859
+
+13) fault_wiki - 0.6907325755676587
+
+14) thought_wiki - 0.6820379495620728
+
+15) governess_wiki - 0.6722768149458416
+
+16) religion_wiki - 0.6553238424851812
+
+17) reconciliation_wiki - 0.6436328079481618
+
+18) feeling_wiki - 0.6305570790337649
+
+19) effect_wiki - 0.6087558735900119
+
+20) half_wiki - 0.5761412382125854
+
+21) end_wiki - 0.5442869067192078
+
+22) hand_wiki - 0.5220425128936768
+
+Result for the vector: feeling, coming from part a of the book
+Rank: 15 out of 22 characters
+Cosine similarity to the co-referring vector: 0.6822932565895696
+
+1) family_wiki - 0.8471310138702393
+
+2) man_wiki - 0.8206051098939725
+
+3) other_wiki - 0.8166858797277776
+
+4) time_wiki - 0.8082319612364807
+
+5) confusion_wiki - 0.8044773936271667
+
+6) sister_wiki - 0.7843520898399302
+
+7) detail_wiki - 0.7754728465708732
+
+8) match_wiki - 0.7663159598802319
+
+9) view_wiki - 0.7629850734169806
+
+10) thought_wiki - 0.7447757124900818
+
+11) land_wiki - 0.7408158779144287
+
+12) forgiveness_wiki - 0.7358572325621399
+
+13) fault_wiki - 0.7213335369427807
+
+14) railway_wiki - 0.7165040115709342
+
+15) feeling_wiki - 0.6822932565895696
+
+16) religion_wiki - 0.6697301667767874
+
+17) reconciliation_wiki - 0.6582353507420642
+
+18) governess_wiki - 0.6504387453329192
+
+19) effect_wiki - 0.6432084270467294
+
+20) end_wiki - 0.5725981593132019
+
+21) half_wiki - 0.5696226358413696
+
+22) hand_wiki - 0.4973909556865692
+
+Result for the vector: thought, coming from part a of the book
+Rank: 10 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7410783017324403
+
+1) family_wiki - 0.8457568791959825
+
+2) other_wiki - 0.8448797623705655
+
+3) man_wiki - 0.8409228920936644
+
+4) sister_wiki - 0.8178112615459536
+
+5) time_wiki - 0.8132405281066952
+
+6) detail_wiki - 0.7835538516310667
+
+7) confusion_wiki - 0.7697086793010653
+
+8) match_wiki - 0.7597558581610795
+
+9) view_wiki - 0.7428842255071606
+
+10) thought_wiki - 0.7410783017324403
+
+11) railway_wiki - 0.7409693157095243
+
+12) land_wiki - 0.7275846438160339
+
+13) fault_wiki - 0.7140640786848136
+
+14) forgiveness_wiki - 0.7067305096066605
+
+15) governess_wiki - 0.6810783756743413
+
+16) religion_wiki - 0.6713388170407792
+
+17) reconciliation_wiki - 0.6492523728909937
+
+18) feeling_wiki - 0.6338520616756735
+
+19) effect_wiki - 0.6169629325292846
+
+20) half_wiki - 0.604712879938656
+
+21) end_wiki - 0.5706017357469649
+
+22) hand_wiki - 0.5068180863152802
+
+Result for the vector: sister, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8930953208747457
+
+1) sister_wiki - 0.8930953208747457
+
+2) family_wiki - 0.8355378410540739
+
+3) man_wiki - 0.8234848976135313
+
+4) other_wiki - 0.8015964151856082
+
+5) time_wiki - 0.7752473950386103
+
+6) match_wiki - 0.7635881987441959
+
+7) fault_wiki - 0.7360125341408053
+
+8) forgiveness_wiki - 0.7357587499330938
+
+9) land_wiki - 0.7317410547578976
+
+10) detail_wiki - 0.7307188671398955
+
+11) confusion_wiki - 0.7238579227839675
+
+12) view_wiki - 0.71660256832265
+
+13) railway_wiki - 0.7160086205000622
+
+14) governess_wiki - 0.7136607808167443
+
+15) thought_wiki - 0.7074075166825973
+
+16) religion_wiki - 0.6645230250982076
+
+17) reconciliation_wiki - 0.6555365509434403
+
+18) feeling_wiki - 0.6298921671413336
+
+19) half_wiki - 0.6214864624432612
+
+20) effect_wiki - 0.5798917067115574
+
+21) end_wiki - 0.508457929400083
+
+22) hand_wiki - 0.5015638173558612
+
+Result for the vector: family, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9221076415713063
+
+1) family_wiki - 0.9221076415713063
+
+2) other_wiki - 0.8678428868102201
+
+3) man_wiki - 0.863416032383915
+
+4) sister_wiki - 0.8589892639536997
+
+5) time_wiki - 0.8277977314236484
+
+6) land_wiki - 0.816301058751283
+
+7) match_wiki - 0.7954540015621813
+
+8) railway_wiki - 0.7918181195584336
+
+9) detail_wiki - 0.7883428713662273
+
+10) fault_wiki - 0.7672887860616245
+
+11) forgiveness_wiki - 0.7586191892623956
+
+12) confusion_wiki - 0.7581003452479647
+
+13) view_wiki - 0.7572979105324206
+
+14) religion_wiki - 0.7522372603416496
+
+15) thought_wiki - 0.7516673355300836
+
+16) governess_wiki - 0.7417661326597323
+
+17) reconciliation_wiki - 0.6845712065696765
+
+18) half_wiki - 0.6400446510288339
+
+19) feeling_wiki - 0.6368437815653176
+
+20) effect_wiki - 0.6197371566765635
+
+21) end_wiki - 0.5609264635487529
+
+22) hand_wiki - 0.49248296067220293
+
+Result for the vector: view, coming from part a of the book
+Rank: 5 out of 22 characters
+Cosine similarity to the co-referring vector: 0.818684125503425
+
+1) other_wiki - 0.8554772393547669
+
+2) detail_wiki - 0.840523083147641
+
+3) family_wiki - 0.8366443514823914
+
+4) man_wiki - 0.8355061509903594
+
+5) view_wiki - 0.818684125503425
+
+6) time_wiki - 0.8176497925728697
+
+7) sister_wiki - 0.779540743882573
+
+8) land_wiki - 0.7771333456039429
+
+9) match_wiki - 0.7712632051486735
+
+10) thought_wiki - 0.7690750956535339
+
+11) confusion_wiki - 0.7652462720870972
+
+12) forgiveness_wiki - 0.7482450454381149
+
+13) fault_wiki - 0.7413449595755439
+
+14) religion_wiki - 0.7216960025844589
+
+15) railway_wiki - 0.7136208756422003
+
+16) feeling_wiki - 0.6655438144667096
+
+17) governess_wiki - 0.663099487516269
+
+18) reconciliation_wiki - 0.6619630254485038
+
+19) effect_wiki - 0.6453366702393732
+
+20) end_wiki - 0.5838516354560852
+
+21) half_wiki - 0.5574703812599182
+
+22) hand_wiki - 0.4934414327144623
+
+Result for the vector: land, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8714269399642944
+
+1) land_wiki - 0.8714269399642944
+
+2) family_wiki - 0.8533633351325989
+
+3) other_wiki - 0.8250652201493154
+
+4) man_wiki - 0.8187570679928634
+
+5) time_wiki - 0.8027818320523615
+
+6) sister_wiki - 0.7814966700677128
+
+7) detail_wiki - 0.7790177131870191
+
+8) railway_wiki - 0.7617032811995463
+
+9) match_wiki - 0.7329638222743223
+
+10) confusion_wiki - 0.7208250761032104
+
+11) religion_wiki - 0.7090410416746773
+
+12) view_wiki - 0.7087573024260198
+
+13) thought_wiki - 0.7063765525817871
+
+14) governess_wiki - 0.6874385680985027
+
+15) fault_wiki - 0.6788928891548098
+
+16) forgiveness_wiki - 0.6768364713690573
+
+17) reconciliation_wiki - 0.6366995356499884
+
+18) effect_wiki - 0.625703975474365
+
+19) feeling_wiki - 0.5895621356237574
+
+20) half_wiki - 0.564750611782074
+
+21) end_wiki - 0.5539290904998779
+
+22) hand_wiki - 0.49233102798461914
+
+Result for the vector: end, coming from part a of the book
+Rank: 6 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7511368617754243
+
+1) other_wiki - 0.8070087317829568
+
+2) time_wiki - 0.8069879768196384
+
+3) family_wiki - 0.7978160023038392
+
+4) man_wiki - 0.7747112877753024
+
+5) detail_wiki - 0.7552786986280735
+
+6) end_wiki - 0.7511368617754243
+
+7) sister_wiki - 0.7509176059737045
+
+8) match_wiki - 0.7369257650927166
+
+9) railway_wiki - 0.7214187930746045
+
+10) land_wiki - 0.7135164950345906
+
+11) confusion_wiki - 0.7128953550128748
+
+12) view_wiki - 0.7088551347765407
+
+13) thought_wiki - 0.6866534556941231
+
+14) fault_wiki - 0.6768704643663424
+
+15) forgiveness_wiki - 0.6679065228617066
+
+16) governess_wiki - 0.6542780789302635
+
+17) reconciliation_wiki - 0.6367597553217195
+
+18) religion_wiki - 0.6294944849158366
+
+19) feeling_wiki - 0.6030015708805067
+
+20) effect_wiki - 0.596185750110238
+
+21) half_wiki - 0.5693455508156288
+
+22) hand_wiki - 0.507000521034018
+
+Result for the vector: other, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8940977187723637
+
+1) other_wiki - 0.8940977187723637
+
+2) family_wiki - 0.8695752102389822
+
+3) man_wiki - 0.8316396675539413
+
+4) time_wiki - 0.8066987029673215
+
+5) sister_wiki - 0.8032520765211459
+
+6) railway_wiki - 0.7840163497895583
+
+7) detail_wiki - 0.7591023279841566
+
+8) match_wiki - 0.7538639082353172
+
+9) land_wiki - 0.7427237783239033
+
+10) confusion_wiki - 0.7119522862462839
+
+11) view_wiki - 0.709818997686538
+
+12) thought_wiki - 0.7050714668588969
+
+13) fault_wiki - 0.7027613456079951
+
+14) governess_wiki - 0.6900017651915051
+
+15) forgiveness_wiki - 0.6835399270057727
+
+16) religion_wiki - 0.6783143281936693
+
+17) half_wiki - 0.6695543724564104
+
+18) reconciliation_wiki - 0.6265043020248457
+
+19) effect_wiki - 0.6003672003089439
+
+20) feeling_wiki - 0.5941979708016547
+
+21) end_wiki - 0.5436466608258101
+
+22) hand_wiki - 0.4796631944380295
+
+Result for the vector: detail, coming from part a of the book
+Rank: 2 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8235847564238659
+
+1) family_wiki - 0.8282365798950195
+
+2) detail_wiki - 0.8235847564238659
+
+3) other_wiki - 0.8173863535340538
+
+4) time_wiki - 0.8133593908930202
+
+5) man_wiki - 0.7957811477314756
+
+6) confusion_wiki - 0.776380181312561
+
+7) sister_wiki - 0.7640850825208382
+
+8) view_wiki - 0.7586918103305048
+
+9) fault_wiki - 0.7497338354904901
+
+10) land_wiki - 0.7467765808105469
+
+11) thought_wiki - 0.7401928901672363
+
+12) match_wiki - 0.7363333325485392
+
+13) railway_wiki - 0.7088611473010653
+
+14) forgiveness_wiki - 0.7069039170088731
+
+15) religion_wiki - 0.7011298359113847
+
+16) governess_wiki - 0.6798284256407152
+
+17) effect_wiki - 0.6514901934277827
+
+18) reconciliation_wiki - 0.6423357511958939
+
+19) feeling_wiki - 0.6288399883759022
+
+20) end_wiki - 0.605268657207489
+
+21) half_wiki - 0.5675762295722961
+
+22) hand_wiki - 0.5020815134048462
+
+Result for the vector: fault, coming from part a of the book
+Rank: 11 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7527441677160117
+
+1) other_wiki - 0.8372442971838805
+
+2) family_wiki - 0.8298737406730652
+
+3) man_wiki - 0.819149087718185
+
+4) sister_wiki - 0.8034107919441766
+
+5) time_wiki - 0.8000318527202708
+
+6) detail_wiki - 0.7869740978510319
+
+7) forgiveness_wiki - 0.7816367615244857
+
+8) confusion_wiki - 0.7805631756782532
+
+9) view_wiki - 0.7643354166846105
+
+10) land_wiki - 0.7541922330856323
+
+11) fault_wiki - 0.7527441677160117
+
+12) match_wiki - 0.7363704662433409
+
+13) railway_wiki - 0.7137918813476755
+
+14) thought_wiki - 0.7098081111907959
+
+15) religion_wiki - 0.7007370412789025
+
+16) feeling_wiki - 0.6957165210162559
+
+17) governess_wiki - 0.6698093017878923
+
+18) reconciliation_wiki - 0.6676711242002931
+
+19) effect_wiki - 0.6040339941937973
+
+20) half_wiki - 0.5710729956626892
+
+21) end_wiki - 0.5441482663154602
+
+22) hand_wiki - 0.5055570006370544
+
+Result for the vector: governess, coming from part a of the book
+Rank: 9 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7457784707282163
+
+1) man_wiki - 0.8687430879099194
+
+2) other_wiki - 0.8572906681645728
+
+3) family_wiki - 0.832894280513613
+
+4) sister_wiki - 0.8211991542220547
+
+5) time_wiki - 0.8056879283692905
+
+6) detail_wiki - 0.787879145506663
+
+7) match_wiki - 0.7519328298488666
+
+8) railway_wiki - 0.747915007236169
+
+9) governess_wiki - 0.7457784707282163
+
+10) land_wiki - 0.7414119906495831
+
+11) view_wiki - 0.6930957666749689
+
+12) confusion_wiki - 0.6878892798324803
+
+13) religion_wiki - 0.6756003909707655
+
+14) forgiveness_wiki - 0.6656070151339497
+
+15) fault_wiki - 0.6626912157925745
+
+16) thought_wiki - 0.6549915660910245
+
+17) reconciliation_wiki - 0.6133148392013968
+
+18) feeling_wiki - 0.5969030376557167
+
+19) effect_wiki - 0.5825280969581702
+
+20) half_wiki - 0.5783874909628197
+
+21) end_wiki - 0.5162066086715429
+
+22) hand_wiki - 0.4920919977508801
+
+Result for the vector: religion, coming from part a of the book
+Rank: 13 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7460180369626319
+
+1) family_wiki - 0.8831865787506104
+
+2) other_wiki - 0.8671050330133749
+
+3) man_wiki - 0.8367998697280976
+
+4) land_wiki - 0.8162642121315002
+
+5) time_wiki - 0.809643756768481
+
+6) detail_wiki - 0.7983235957236828
+
+7) sister_wiki - 0.7891450775688851
+
+8) view_wiki - 0.768468760504388
+
+9) confusion_wiki - 0.7681402564048767
+
+10) forgiveness_wiki - 0.7577665899852879
+
+11) thought_wiki - 0.7538067102432251
+
+12) match_wiki - 0.75336935381202
+
+13) religion_wiki - 0.7460180369626319
+
+14) fault_wiki - 0.7385534955795465
+
+15) railway_wiki - 0.731165560344992
+
+16) governess_wiki - 0.6815170848821728
+
+17) reconciliation_wiki - 0.6517268211678767
+
+18) feeling_wiki - 0.6391464066251045
+
+19) effect_wiki - 0.6082134117825776
+
+20) half_wiki - 0.572718620300293
+
+21) end_wiki - 0.5506249070167542
+
+22) hand_wiki - 0.48819202184677124
+
+Result for the vector: half, coming from part a of the book
+Rank: 17 out of 22 characters
+Cosine similarity to the co-referring vector: 0.6345975399017334
+
+1) family_wiki - 0.8389101624488831
+
+2) man_wiki - 0.8116961829843427
+
+3) other_wiki - 0.8070875050749635
+
+4) sister_wiki - 0.7994786143924514
+
+5) time_wiki - 0.7931281451506542
+
+6) match_wiki - 0.7550174818938223
+
+7) railway_wiki - 0.7490847409862642
+
+8) land_wiki - 0.7416664361953735
+
+9) detail_wiki - 0.7325209698056071
+
+10) confusion_wiki - 0.7130740880966187
+
+11) view_wiki - 0.7076697560450365
+
+12) thought_wiki - 0.7076288461685181
+
+13) governess_wiki - 0.6943177787756261
+
+14) fault_wiki - 0.6791826869031612
+
+15) forgiveness_wiki - 0.6677934329386623
+
+16) religion_wiki - 0.6605040228667285
+
+17) half_wiki - 0.6345975399017334
+
+18) reconciliation_wiki - 0.6278489606290447
+
+19) effect_wiki - 0.6038976783874461
+
+20) feeling_wiki - 0.5924149928216637
+
+21) end_wiki - 0.5715001821517944
+
+22) hand_wiki - 0.49682921171188354
+
+Result for the vector: railway, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9225198030472064
+
+1) railway_wiki - 0.9225198030472064
+
+2) family_wiki - 0.8373747870176836
+
+3) other_wiki - 0.8071274768006054
+
+4) time_wiki - 0.7868574730669071
+
+5) man_wiki - 0.7864961496887422
+
+6) land_wiki - 0.7655690628968607
+
+7) sister_wiki - 0.7541511058807587
+
+8) detail_wiki - 0.7292887568474024
+
+9) match_wiki - 0.704647109604944
+
+10) confusion_wiki - 0.6855043990021277
+
+11) thought_wiki - 0.6717794742321389
+
+12) fault_wiki - 0.6698166131973456
+
+13) view_wiki - 0.6664318839359137
+
+14) governess_wiki - 0.6640971100475085
+
+15) religion_wiki - 0.6507193417643335
+
+16) forgiveness_wiki - 0.6483724084566381
+
+17) reconciliation_wiki - 0.6163121967873936
+
+18) effect_wiki - 0.5699108242988749
+
+19) half_wiki - 0.567810007072692
+
+20) feeling_wiki - 0.5600809693457163
+
+21) end_wiki - 0.5368961735840089
+
+22) hand_wiki - 0.4850239437847105
+
+Result for the vector: effect, coming from part a of the book
+Rank: 5 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7642241997451599
+
+1) detail_wiki - 0.7998640179796255
+
+2) other_wiki - 0.786723696789852
+
+3) man_wiki - 0.7667451043876957
+
+4) time_wiki - 0.7657826682458732
+
+5) effect_wiki - 0.7642241997451599
+
+6) family_wiki - 0.7603890299797058
+
+7) match_wiki - 0.732741139314805
+
+8) confusion_wiki - 0.7176086902618408
+
+9) sister_wiki - 0.7137439592189888
+
+10) view_wiki - 0.7125952456174868
+
+11) thought_wiki - 0.7084866762161255
+
+12) land_wiki - 0.6898936033248901
+
+13) railway_wiki - 0.6736167462329022
+
+14) forgiveness_wiki - 0.6640849509289843
+
+15) fault_wiki - 0.6522895512235746
+
+16) feeling_wiki - 0.6478824808562544
+
+17) religion_wiki - 0.6338961502251725
+
+18) reconciliation_wiki - 0.6104597813165068
+
+19) governess_wiki - 0.5990275919147611
+
+20) end_wiki - 0.5721739530563354
+
+21) half_wiki - 0.5225244164466858
+
+22) hand_wiki - 0.48929670453071594
+
+Result for the vector: forgiveness, coming from part a of the book
+Rank: 11 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7123112507051987
+
+1) man_wiki - 0.8278629286370931
+
+2) family_wiki - 0.8186408877372742
+
+3) other_wiki - 0.8181379681270713
+
+4) sister_wiki - 0.7904744994074759
+
+5) time_wiki - 0.7780093086952397
+
+6) confusion_wiki - 0.7474741339683533
+
+7) detail_wiki - 0.7437719412121896
+
+8) match_wiki - 0.7347333650211506
+
+9) land_wiki - 0.7257166504859924
+
+10) view_wiki - 0.7182989334553166
+
+11) forgiveness_wiki - 0.7123112507051987
+
+12) railway_wiki - 0.7017859576003652
+
+13) thought_wiki - 0.6819377541542053
+
+14) fault_wiki - 0.6741637975974372
+
+15) governess_wiki - 0.6739145718191439
+
+16) religion_wiki - 0.6597232019736303
+
+17) reconciliation_wiki - 0.6478034047963276
+
+18) feeling_wiki - 0.6229399628323308
+
+19) effect_wiki - 0.5755472689214666
+
+20) half_wiki - 0.5412450432777405
+
+21) end_wiki - 0.5213072299957275
+
+22) hand_wiki - 0.5032863020896912
+
+Result for the vector: confusion, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8210413104606069
+
+1) confusion_wiki - 0.8210413104606069
+
+2) family_wiki - 0.8063476922019632
+
+3) other_wiki - 0.7843288650708714
+
+4) time_wiki - 0.7720563777668394
+
+5) forgiveness_wiki - 0.7650928585314329
+
+6) detail_wiki - 0.7547328393400241
+
+7) land_wiki - 0.7462542279438448
+
+8) man_wiki - 0.739749886401004
+
+9) sister_wiki - 0.7361922201938514
+
+10) view_wiki - 0.7251227334214886
+
+11) feeling_wiki - 0.7147686907511169
+
+12) fault_wiki - 0.7143139200526031
+
+13) railway_wiki - 0.6981122465629435
+
+14) thought_wiki - 0.6943757144920744
+
+15) match_wiki - 0.6822209764850722
+
+16) religion_wiki - 0.6547374118629767
+
+17) reconciliation_wiki - 0.6519322978197606
+
+18) governess_wiki - 0.6250322833676507
+
+19) end_wiki - 0.5625634361077382
+
+20) effect_wiki - 0.5622556302915013
+
+21) half_wiki - 0.5279988207816728
+
+22) hand_wiki - 0.4991730898372262
+
+Result for the vector: match, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8435353292088312
+
+1) match_wiki - 0.8435353292088312
+
+2) man_wiki - 0.8398590779388515
+
+3) other_wiki - 0.8370906364050701
+
+4) time_wiki - 0.8091184610653855
+
+5) sister_wiki - 0.8032845493215917
+
+6) family_wiki - 0.7932069301605225
+
+7) detail_wiki - 0.7666233460160136
+
+8) land_wiki - 0.7177109718322754
+
+9) railway_wiki - 0.7070893994463257
+
+10) governess_wiki - 0.68146493081644
+
+11) view_wiki - 0.6791361772756632
+
+12) reconciliation_wiki - 0.6688210170758389
+
+13) confusion_wiki - 0.667725682258606
+
+14) thought_wiki - 0.6655272245407104
+
+15) forgiveness_wiki - 0.6655190387677585
+
+16) fault_wiki - 0.6597150969844988
+
+17) religion_wiki - 0.6576169525156601
+
+18) feeling_wiki - 0.5933175263797502
+
+19) effect_wiki - 0.5723615202472823
+
+20) half_wiki - 0.549761950969696
+
+21) end_wiki - 0.5057873129844666
+
+22) hand_wiki - 0.48825448751449585
+
+Result for the vector: reconciliation, coming from part a of the book
+Rank: 2 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8221927775259495
+
+1) family_wiki - 0.823239266872406
+
+2) reconciliation_wiki - 0.8221927775259495
+
+3) other_wiki - 0.8120190147167154
+
+4) time_wiki - 0.7986797810387756
+
+5) sister_wiki - 0.7832758088975236
+
+6) man_wiki - 0.7826823721717389
+
+7) confusion_wiki - 0.7670845985412598
+
+8) match_wiki - 0.7568282710560644
+
+9) fault_wiki - 0.7517999706506817
+
+10) forgiveness_wiki - 0.7377682767968355
+
+11) detail_wiki - 0.724308344804251
+
+12) railway_wiki - 0.7100140202028777
+
+13) land_wiki - 0.699967622756958
+
+14) thought_wiki - 0.6760139465332031
+
+15) view_wiki - 0.6666578849154083
+
+16) governess_wiki - 0.662765999518812
+
+17) religion_wiki - 0.6485860138288756
+
+18) feeling_wiki - 0.6409155321394069
+
+19) end_wiki - 0.5722195506095886
+
+20) effect_wiki - 0.5547119909868291
+
+21) half_wiki - 0.5510777235031128
+
+22) hand_wiki - 0.5110667943954468
+

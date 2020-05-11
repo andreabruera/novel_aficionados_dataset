@@ -1,0 +1,396 @@
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9571886607633493
+
+1) man_a - 0.9571886607633493
+
+2) girl_a - 0.9263673468609261
+
+3) thing_a - 0.8629160780583647
+
+4) world_a - 0.8565699372631289
+
+5) way_a - 0.8440346717834473
+
+6) time_a - 0.8375816594833634
+
+7) feeling_a - 0.782413599254736
+
+8) desire_a - 0.7764284708883022
+
+9) use_a - 0.7753956317901611
+
+Result for the vector: thing, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9208656180678865
+
+1) thing_a - 0.9208656180678865
+
+2) way_a - 0.8496408372903385
+
+3) man_a - 0.8250851914438962
+
+4) time_a - 0.8092485197706691
+
+5) world_a - 0.7998085379372284
+
+6) girl_a - 0.7846947312355097
+
+7) desire_a - 0.7819702598408256
+
+8) use_a - 0.775648103693016
+
+9) feeling_a - 0.727598461305777
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.6907568779813316
+
+1) time_a - 0.6907568779813316
+
+2) man_a - 0.6792057966239258
+
+3) world_a - 0.6784465121296962
+
+4) girl_a - 0.675885815865648
+
+5) thing_a - 0.6593516069457417
+
+6) way_a - 0.6554848551750183
+
+7) use_a - 0.6098906993865967
+
+8) desire_a - 0.5804846805767453
+
+9) feeling_a - 0.5761896038338016
+
+Result for the vector: world, coming from part i of the book
+Rank: 2 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7962023610178177
+
+1) man_a - 0.8031922466261905
+
+2) world_a - 0.7962023610178177
+
+3) thing_a - 0.7879582986781967
+
+4) girl_a - 0.7840150828366094
+
+5) way_a - 0.7783703903887056
+
+6) time_a - 0.7691089235674066
+
+7) feeling_a - 0.7116798071097881
+
+8) use_a - 0.71027893217912
+
+9) desire_a - 0.7076231910508617
+
+Result for the vector: way, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7070045085848724
+
+1) way_a - 0.7070045085848724
+
+2) thing_a - 0.6567206178141008
+
+3) use_a - 0.6412027669311398
+
+4) desire_a - 0.6354194444917982
+
+5) time_a - 0.6057125691004138
+
+6) man_a - 0.6015718879657841
+
+7) girl_a - 0.5983695209512281
+
+8) world_a - 0.5861290025230353
+
+9) feeling_a - 0.5708886213699539
+
+Result for the vector: girl, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.753875747092025
+
+1) girl_a - 0.753875747092025
+
+2) man_a - 0.7396788882826486
+
+3) thing_a - 0.6835243309594494
+
+4) world_a - 0.6523913533920868
+
+5) way_a - 0.6464826464653015
+
+6) time_a - 0.636152226810224
+
+7) use_a - 0.5992656946182251
+
+8) desire_a - 0.5844297335532093
+
+9) feeling_a - 0.5780421164694666
+
+Result for the vector: desire, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8837861751381895
+
+1) desire_a - 0.8837861751381895
+
+2) thing_a - 0.7895350942431394
+
+3) way_a - 0.7775730755838121
+
+4) feeling_a - 0.7622001398265678
+
+5) man_a - 0.7533876299858308
+
+6) world_a - 0.7428376827932904
+
+7) girl_a - 0.7383436432462389
+
+8) use_a - 0.7381720855030964
+
+9) time_a - 0.7243795343298217
+
+Result for the vector: feeling, coming from part i of the book
+Rank: 6 out of 9 characters
+Cosine similarity to the co-referring vector: 0.6885246468372194
+
+1) thing_a - 0.7480172737841989
+
+2) way_a - 0.734340250492096
+
+3) desire_a - 0.7241640738395547
+
+4) man_a - 0.7132290855919275
+
+5) world_a - 0.7004408061767118
+
+6) feeling_a - 0.6885246468372194
+
+7) use_a - 0.6883500218391418
+
+8) girl_a - 0.6863431521449607
+
+9) time_a - 0.6691045364470645
+
+Result for the vector: use, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8011217594815363
+
+1) use_a - 0.8011217594815363
+
+2) way_a - 0.7399652445295613
+
+3) thing_a - 0.7387939159983921
+
+4) desire_a - 0.7324109572784542
+
+5) world_a - 0.691024564626761
+
+6) feeling_a - 0.689704919693903
+
+7) man_a - 0.6821891693215089
+
+8) girl_a - 0.6658283472061205
+
+9) time_a - 0.6472734195536455
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9571886607633493
+
+1) man_wiki - 0.9571886607633493
+
+2) thing_wiki - 0.8250851914438962
+
+3) world_wiki - 0.8031922466261905
+
+4) desire_wiki - 0.7533876299858308
+
+5) girl_wiki - 0.7396788882826486
+
+6) feeling_wiki - 0.7132290855919275
+
+7) use_wiki - 0.6821891693215089
+
+8) time_wiki - 0.6792057966239258
+
+9) way_wiki - 0.6015718879657841
+
+Result for the vector: thing, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9208656180678865
+
+1) thing_wiki - 0.9208656180678865
+
+2) man_wiki - 0.8629160780583647
+
+3) desire_wiki - 0.7895350942431394
+
+4) world_wiki - 0.7879582986781967
+
+5) feeling_wiki - 0.7480172737841989
+
+6) use_wiki - 0.7387939159983921
+
+7) girl_wiki - 0.6835243309594494
+
+8) time_wiki - 0.6593516069457417
+
+9) way_wiki - 0.6567206178141008
+
+Result for the vector: time, coming from part a of the book
+Rank: 5 out of 9 characters
+Cosine similarity to the co-referring vector: 0.6907568779813316
+
+1) man_wiki - 0.8375816594833634
+
+2) thing_wiki - 0.8092485197706691
+
+3) world_wiki - 0.7691089235674066
+
+4) desire_wiki - 0.7243795343298217
+
+5) time_wiki - 0.6907568779813316
+
+6) feeling_wiki - 0.6691045364470645
+
+7) use_wiki - 0.6472734195536455
+
+8) girl_wiki - 0.636152226810224
+
+9) way_wiki - 0.6057125691004138
+
+Result for the vector: world, coming from part a of the book
+Rank: 3 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7962023610178177
+
+1) man_wiki - 0.8565699372631289
+
+2) thing_wiki - 0.7998085379372284
+
+3) world_wiki - 0.7962023610178177
+
+4) desire_wiki - 0.7428376827932904
+
+5) feeling_wiki - 0.7004408061767118
+
+6) use_wiki - 0.691024564626761
+
+7) time_wiki - 0.6784465121296962
+
+8) girl_wiki - 0.6523913533920868
+
+9) way_wiki - 0.5861290025230353
+
+Result for the vector: way, coming from part a of the book
+Rank: 7 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7070045085848724
+
+1) thing_wiki - 0.8496408372903385
+
+2) man_wiki - 0.8440346717834473
+
+3) world_wiki - 0.7783703903887056
+
+4) desire_wiki - 0.7775730755838121
+
+5) use_wiki - 0.7399652445295613
+
+6) feeling_wiki - 0.734340250492096
+
+7) way_wiki - 0.7070045085848724
+
+8) time_wiki - 0.6554848551750183
+
+9) girl_wiki - 0.6464826464653015
+
+Result for the vector: girl, coming from part a of the book
+Rank: 4 out of 9 characters
+Cosine similarity to the co-referring vector: 0.753875747092025
+
+1) man_wiki - 0.9263673468609261
+
+2) thing_wiki - 0.7846947312355097
+
+3) world_wiki - 0.7840150828366094
+
+4) girl_wiki - 0.753875747092025
+
+5) desire_wiki - 0.7383436432462389
+
+6) feeling_wiki - 0.6863431521449607
+
+7) time_wiki - 0.675885815865648
+
+8) use_wiki - 0.6658283472061205
+
+9) way_wiki - 0.5983695209512281
+
+Result for the vector: desire, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8837861751381895
+
+1) desire_wiki - 0.8837861751381895
+
+2) thing_wiki - 0.7819702598408256
+
+3) man_wiki - 0.7764284708883022
+
+4) use_wiki - 0.7324109572784542
+
+5) feeling_wiki - 0.7241640738395547
+
+6) world_wiki - 0.7076231910508617
+
+7) way_wiki - 0.6354194444917982
+
+8) girl_wiki - 0.5844297335532093
+
+9) time_wiki - 0.5804846805767453
+
+Result for the vector: feeling, coming from part a of the book
+Rank: 6 out of 9 characters
+Cosine similarity to the co-referring vector: 0.6885246468372194
+
+1) man_wiki - 0.782413599254736
+
+2) desire_wiki - 0.7622001398265678
+
+3) thing_wiki - 0.727598461305777
+
+4) world_wiki - 0.7116798071097881
+
+5) use_wiki - 0.689704919693903
+
+6) feeling_wiki - 0.6885246468372194
+
+7) girl_wiki - 0.5780421164694666
+
+8) time_wiki - 0.5761896038338016
+
+9) way_wiki - 0.5708886213699539
+
+Result for the vector: use, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8011217594815363
+
+1) use_wiki - 0.8011217594815363
+
+2) thing_wiki - 0.775648103693016
+
+3) man_wiki - 0.7753956317901611
+
+4) desire_wiki - 0.7381720855030964
+
+5) world_wiki - 0.71027893217912
+
+6) feeling_wiki - 0.6883500218391418
+
+7) way_wiki - 0.6412027669311398
+
+8) time_wiki - 0.6098906993865967
+
+9) girl_wiki - 0.5992656946182251
+

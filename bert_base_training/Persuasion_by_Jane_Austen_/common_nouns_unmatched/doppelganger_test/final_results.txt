@@ -1,0 +1,9 @@
+Test: doppelganger test
+Results for: Persuasion_by_Jane_Austen_
+Model used: common nouns unmatched
+
+Within-novel median: 1.0
+Within-novel average: 1.0238095238095237
+Within-novel MRR: 0.9880952380952381
+Within-novel standard deviation of the scores: 0.15245533898649638
+Amount of entities considered: 21.0

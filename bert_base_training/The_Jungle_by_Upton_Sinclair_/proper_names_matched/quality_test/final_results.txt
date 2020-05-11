@@ -1,0 +1,9 @@
+Test: quality test
+Results for: The_Jungle_by_Upton_Sinclair_
+Model used: proper names matched
+
+Within-novel median: 5.0
+Within-novel average: 5.866666666666666
+Within-novel MRR: 0.34549099049099047
+Within-novel standard deviation of the scores: 4.112852484049915
+Amount of entities considered: 15.0

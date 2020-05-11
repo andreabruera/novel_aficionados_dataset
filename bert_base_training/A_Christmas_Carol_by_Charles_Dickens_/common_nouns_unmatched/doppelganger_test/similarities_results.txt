@@ -1,0 +1,140 @@
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9711951630595247
+
+1) man_b - 0.9711951630595247
+
+2) child_b - 0.9382474385647589
+
+3) time_b - 0.8621885776519836
+
+4) hand_b - 0.8514832346747393
+
+5) door_b - 0.8235303268712579
+
+Result for the vector: hand, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9713184526955625
+
+1) hand_b - 0.9713184526955625
+
+2) child_b - 0.8769304866985247
+
+3) time_b - 0.86464746576376
+
+4) door_b - 0.8511945858953773
+
+5) man_b - 0.8488852038647299
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9706414341926644
+
+1) time_b - 0.9706414341926644
+
+2) man_b - 0.8987727821604755
+
+3) child_b - 0.8876248531118089
+
+4) hand_b - 0.8699790912879071
+
+5) door_b - 0.8518127887360595
+
+Result for the vector: door, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9678795626127594
+
+1) door_b - 0.9678795626127594
+
+2) hand_b - 0.8711994549989541
+
+3) child_b - 0.8668225507173798
+
+4) time_b - 0.8611061150824534
+
+5) man_b - 0.85268696703574
+
+Result for the vector: child, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9611062384311256
+
+1) child_b - 0.9611062384311256
+
+2) man_b - 0.9572318221788529
+
+3) time_b - 0.8899291753768984
+
+4) hand_b - 0.8888757295086561
+
+5) door_b - 0.8615301333945925
+
+Result for the vector: man, coming from part b of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9711951630595247
+
+1) man_a - 0.9711951630595247
+
+2) child_a - 0.9572318221788529
+
+3) time_a - 0.8987727821604755
+
+4) door_a - 0.85268696703574
+
+5) hand_a - 0.8488852038647299
+
+Result for the vector: hand, coming from part b of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9713184526955625
+
+1) hand_a - 0.9713184526955625
+
+2) child_a - 0.8888757295086561
+
+3) door_a - 0.8711994549989541
+
+4) time_a - 0.8699790912879071
+
+5) man_a - 0.8514832346747393
+
+Result for the vector: time, coming from part b of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9706414341926644
+
+1) time_a - 0.9706414341926644
+
+2) child_a - 0.8899291753768984
+
+3) hand_a - 0.86464746576376
+
+4) man_a - 0.8621885776519836
+
+5) door_a - 0.8611061150824534
+
+Result for the vector: door, coming from part b of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9678795626127594
+
+1) door_a - 0.9678795626127594
+
+2) child_a - 0.8615301333945925
+
+3) time_a - 0.8518127887360595
+
+4) hand_a - 0.8511945858953773
+
+5) man_a - 0.8235303268712579
+
+Result for the vector: child, coming from part b of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9611062384311256
+
+1) child_a - 0.9611062384311256
+
+2) man_a - 0.9382474385647589
+
+3) time_a - 0.8876248531118089
+
+4) hand_a - 0.8769304866985247
+
+5) door_a - 0.8668225507173798
+

@@ -1,0 +1,672 @@
+Result for the vector: night, coming from part a of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.975061535835273
+
+1) night_b - 0.975061535835273
+
+2) sun_b - 0.8754400610923829
+
+3) cottage_b - 0.8733408635861457
+
+4) kind_b - 0.8585758552388901
+
+5) discovery_b - 0.82472337705404
+
+6) kindness_b - 0.8231093427338613
+
+7) voice_b - 0.8191440241763617
+
+8) cheek_b - 0.7924137340331808
+
+9) body_b - 0.7885401122891984
+
+10) success_b - 0.7789530158042963
+
+11) account_b - 0.7603824138641412
+
+12) enterprise_b - 0.7358164787292533
+
+Result for the vector: cottage, coming from part a of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.9640653708020074
+
+1) cottage_b - 0.9640653708020074
+
+2) sun_b - 0.8544246299736347
+
+3) night_b - 0.8535054071693036
+
+4) body_b - 0.8177045827419935
+
+5) kind_b - 0.8053120382595151
+
+6) voice_b - 0.7932231899036878
+
+7) kindness_b - 0.7741382583462154
+
+8) discovery_b - 0.7731478079049473
+
+9) cheek_b - 0.7709131793548465
+
+10) success_b - 0.7324597617250781
+
+11) enterprise_b - 0.7072965887994619
+
+12) account_b - 0.6766740478076352
+
+Result for the vector: voice, coming from part a of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.9646569181876461
+
+1) voice_b - 0.9646569181876461
+
+2) kind_b - 0.8614197804236211
+
+3) cheek_b - 0.8514372529312734
+
+4) kindness_b - 0.827126050803842
+
+5) night_b - 0.8196458327981347
+
+6) cottage_b - 0.812286877998319
+
+7) discovery_b - 0.8080669882317484
+
+8) success_b - 0.7969719888584634
+
+9) sun_b - 0.786913526838213
+
+10) body_b - 0.7766872644424438
+
+11) account_b - 0.736461237879919
+
+12) enterprise_b - 0.7169394661820265
+
+Result for the vector: sun, coming from part a of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.9669427295361339
+
+1) sun_b - 0.9669427295361339
+
+2) night_b - 0.8952458563300473
+
+3) cottage_b - 0.8893330958286855
+
+4) kind_b - 0.833282093200939
+
+5) voice_b - 0.8149370197933028
+
+6) body_b - 0.7998431324958801
+
+7) cheek_b - 0.7884035454277506
+
+8) kindness_b - 0.7863605256784122
+
+9) discovery_b - 0.7732848755504157
+
+10) success_b - 0.741075352366249
+
+11) enterprise_b - 0.7265935107115812
+
+12) account_b - 0.6928337995509041
+
+Result for the vector: kindness, coming from part a of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.9316436248486712
+
+1) kindness_b - 0.9316436248486712
+
+2) discovery_b - 0.8711479412239738
+
+3) kind_b - 0.8530038244733392
+
+4) success_b - 0.8469319848377831
+
+5) voice_b - 0.8455655046650064
+
+6) night_b - 0.8080901389175865
+
+7) enterprise_b - 0.788490759640394
+
+8) cheek_b - 0.7597686075612563
+
+9) cottage_b - 0.7586936293085887
+
+10) sun_b - 0.7352483114748304
+
+11) account_b - 0.7065227452828249
+
+12) body_b - 0.6926372280880534
+
+Result for the vector: body, coming from part a of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8844551638771776
+
+1) body_b - 0.8844551638771776
+
+2) kind_b - 0.880135600595153
+
+3) night_b - 0.8769810461098365
+
+4) cottage_b - 0.8753234595445958
+
+5) voice_b - 0.8682705006921904
+
+6) discovery_b - 0.8670416911890154
+
+7) cheek_b - 0.8666689415777505
+
+8) kindness_b - 0.8607640696482757
+
+9) sun_b - 0.8396029126525887
+
+10) success_b - 0.8328013668299221
+
+11) enterprise_b - 0.7838950986831007
+
+12) account_b - 0.7711142531369489
+
+Result for the vector: discovery, coming from part a of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.9334949175709404
+
+1) discovery_b - 0.9334949175709404
+
+2) kindness_b - 0.9027396324562604
+
+3) success_b - 0.8914252189226612
+
+4) kind_b - 0.8820669106980678
+
+5) night_b - 0.8801147007976481
+
+6) voice_b - 0.8686702094877031
+
+7) cottage_b - 0.8376083776484001
+
+8) sun_b - 0.8249467857166258
+
+9) body_b - 0.8060546045948244
+
+10) account_b - 0.7976122736219338
+
+11) cheek_b - 0.7818284473657353
+
+12) enterprise_b - 0.7786803477609348
+
+Result for the vector: kind, coming from part a of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.9510555834207438
+
+1) kind_b - 0.9510555834207438
+
+2) kindness_b - 0.8719990589618998
+
+3) voice_b - 0.8622162681157544
+
+4) night_b - 0.8492731035622235
+
+5) discovery_b - 0.8220489376172773
+
+6) cottage_b - 0.815216636204227
+
+7) success_b - 0.8108633982105973
+
+8) sun_b - 0.7952373867944018
+
+9) cheek_b - 0.7747415765966048
+
+10) body_b - 0.7653462430628407
+
+11) account_b - 0.7504129707320963
+
+12) enterprise_b - 0.7236034007545232
+
+Result for the vector: account, coming from part a of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8932367626883545
+
+1) account_b - 0.8932367626883545
+
+2) kind_b - 0.8756922335257871
+
+3) discovery_b - 0.8697181603228501
+
+4) night_b - 0.8665163000514344
+
+5) kindness_b - 0.8643033762068566
+
+6) voice_b - 0.8580966847567766
+
+7) success_b - 0.8508482068271529
+
+8) cottage_b - 0.8064502121940322
+
+9) cheek_b - 0.7898987877248329
+
+10) body_b - 0.7859689593315125
+
+11) enterprise_b - 0.7856201657283222
+
+12) sun_b - 0.7747770682110163
+
+Result for the vector: cheek, coming from part a of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.9140741399041064
+
+1) cheek_b - 0.9140741399041064
+
+2) voice_b - 0.8014501214891745
+
+3) night_b - 0.7811288600823654
+
+4) cottage_b - 0.772847102454132
+
+5) kind_b - 0.77278750729375
+
+6) body_b - 0.7726333371589585
+
+7) sun_b - 0.7608138096090046
+
+8) kindness_b - 0.7456086126332648
+
+9) success_b - 0.730493166133968
+
+10) discovery_b - 0.7199868988982975
+
+11) account_b - 0.6764256752602582
+
+12) enterprise_b - 0.6500493094310397
+
+Result for the vector: success, coming from part a of the book
+Rank: 4 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8725858406671396
+
+1) discovery_b - 0.8958071737231966
+
+2) enterprise_b - 0.8794242811546173
+
+3) kindness_b - 0.8757028840691715
+
+4) success_b - 0.8725858406671396
+
+5) night_b - 0.8567704047697556
+
+6) kind_b - 0.8523059311277845
+
+7) voice_b - 0.8287113555881789
+
+8) cheek_b - 0.8025505903423593
+
+9) cottage_b - 0.788665079732689
+
+10) sun_b - 0.752656236132609
+
+11) account_b - 0.7379651225826084
+
+12) body_b - 0.7268233299255371
+
+Result for the vector: enterprise, coming from part a of the book
+Rank: 2 out of 12 characters
+Cosine similarity to the co-referring vector: 0.869147990073327
+
+1) discovery_b - 0.8856913379246794
+
+2) enterprise_b - 0.869147990073327
+
+3) success_b - 0.8627850752238941
+
+4) kindness_b - 0.8602277553217266
+
+5) night_b - 0.8543064339665676
+
+6) kind_b - 0.8500357940846409
+
+7) cottage_b - 0.8161004076063876
+
+8) voice_b - 0.8147981056450668
+
+9) cheek_b - 0.7859652617522005
+
+10) sun_b - 0.7578432334112187
+
+11) account_b - 0.7500459924326571
+
+12) body_b - 0.7290485718562777
+
+Result for the vector: night, coming from part b of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.975061535835273
+
+1) night_a - 0.975061535835273
+
+2) sun_a - 0.8952458563300473
+
+3) discovery_a - 0.8801147007976481
+
+4) body_a - 0.8769810461098365
+
+5) account_a - 0.8665163000514344
+
+6) success_a - 0.8567704047697556
+
+7) enterprise_a - 0.8543064339665676
+
+8) cottage_a - 0.8535054071693036
+
+9) kind_a - 0.8492731035622235
+
+10) voice_a - 0.8196458327981347
+
+11) kindness_a - 0.8080901389175865
+
+12) cheek_a - 0.7811288600823654
+
+Result for the vector: cottage, coming from part b of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.9640653708020074
+
+1) cottage_a - 0.9640653708020074
+
+2) sun_a - 0.8893330958286855
+
+3) body_a - 0.8753234595445958
+
+4) night_a - 0.8733408635861457
+
+5) discovery_a - 0.8376083776484001
+
+6) enterprise_a - 0.8161004076063876
+
+7) kind_a - 0.815216636204227
+
+8) voice_a - 0.812286877998319
+
+9) account_a - 0.8064502121940322
+
+10) success_a - 0.788665079732689
+
+11) cheek_a - 0.772847102454132
+
+12) kindness_a - 0.7586936293085887
+
+Result for the vector: voice, coming from part b of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.9646569181876461
+
+1) voice_a - 0.9646569181876461
+
+2) discovery_a - 0.8686702094877031
+
+3) body_a - 0.8682705006921904
+
+4) kind_a - 0.8622162681157544
+
+5) account_a - 0.8580966847567766
+
+6) kindness_a - 0.8455655046650064
+
+7) success_a - 0.8287113555881789
+
+8) night_a - 0.8191440241763617
+
+9) sun_a - 0.8149370197933028
+
+10) enterprise_a - 0.8147981056450668
+
+11) cheek_a - 0.8014501214891745
+
+12) cottage_a - 0.7932231899036878
+
+Result for the vector: sun, coming from part b of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.9669427295361339
+
+1) sun_a - 0.9669427295361339
+
+2) night_a - 0.8754400610923829
+
+3) cottage_a - 0.8544246299736347
+
+4) body_a - 0.8396029126525887
+
+5) discovery_a - 0.8249467857166258
+
+6) kind_a - 0.7952373867944018
+
+7) voice_a - 0.786913526838213
+
+8) account_a - 0.7747770682110163
+
+9) cheek_a - 0.7608138096090046
+
+10) enterprise_a - 0.7578432334112187
+
+11) success_a - 0.752656236132609
+
+12) kindness_a - 0.7352483114748304
+
+Result for the vector: kindness, coming from part b of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.9316436248486712
+
+1) kindness_a - 0.9316436248486712
+
+2) discovery_a - 0.9027396324562604
+
+3) success_a - 0.8757028840691715
+
+4) kind_a - 0.8719990589618998
+
+5) account_a - 0.8643033762068566
+
+6) body_a - 0.8607640696482757
+
+7) enterprise_a - 0.8602277553217266
+
+8) voice_a - 0.827126050803842
+
+9) night_a - 0.8231093427338613
+
+10) sun_a - 0.7863605256784122
+
+11) cottage_a - 0.7741382583462154
+
+12) cheek_a - 0.7456086126332648
+
+Result for the vector: body, coming from part b of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8844551638771776
+
+1) body_a - 0.8844551638771776
+
+2) cottage_a - 0.8177045827419935
+
+3) discovery_a - 0.8060546045948244
+
+4) sun_a - 0.7998431324958801
+
+5) night_a - 0.7885401122891984
+
+6) account_a - 0.7859689593315125
+
+7) voice_a - 0.7766872644424438
+
+8) cheek_a - 0.7726333371589585
+
+9) kind_a - 0.7653462430628407
+
+10) enterprise_a - 0.7290485718562777
+
+11) success_a - 0.7268233299255371
+
+12) kindness_a - 0.6926372280880534
+
+Result for the vector: discovery, coming from part b of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.9334949175709404
+
+1) discovery_a - 0.9334949175709404
+
+2) success_a - 0.8958071737231966
+
+3) enterprise_a - 0.8856913379246794
+
+4) kindness_a - 0.8711479412239738
+
+5) account_a - 0.8697181603228501
+
+6) body_a - 0.8670416911890154
+
+7) night_a - 0.82472337705404
+
+8) kind_a - 0.8220489376172773
+
+9) voice_a - 0.8080669882317484
+
+10) sun_a - 0.7732848755504157
+
+11) cottage_a - 0.7731478079049473
+
+12) cheek_a - 0.7199868988982975
+
+Result for the vector: kind, coming from part b of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.9510555834207438
+
+1) kind_a - 0.9510555834207438
+
+2) discovery_a - 0.8820669106980678
+
+3) body_a - 0.880135600595153
+
+4) account_a - 0.8756922335257871
+
+5) voice_a - 0.8614197804236211
+
+6) night_a - 0.8585758552388901
+
+7) kindness_a - 0.8530038244733392
+
+8) success_a - 0.8523059311277845
+
+9) enterprise_a - 0.8500357940846409
+
+10) sun_a - 0.833282093200939
+
+11) cottage_a - 0.8053120382595151
+
+12) cheek_a - 0.77278750729375
+
+Result for the vector: account, coming from part b of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8932367626883545
+
+1) account_a - 0.8932367626883545
+
+2) discovery_a - 0.7976122736219338
+
+3) body_a - 0.7711142531369489
+
+4) night_a - 0.7603824138641412
+
+5) kind_a - 0.7504129707320963
+
+6) enterprise_a - 0.7500459924326571
+
+7) success_a - 0.7379651225826084
+
+8) voice_a - 0.736461237879919
+
+9) kindness_a - 0.7065227452828249
+
+10) sun_a - 0.6928337995509041
+
+11) cottage_a - 0.6766740478076352
+
+12) cheek_a - 0.6764256752602582
+
+Result for the vector: cheek, coming from part b of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.9140741399041064
+
+1) cheek_a - 0.9140741399041064
+
+2) body_a - 0.8666689415777505
+
+3) voice_a - 0.8514372529312734
+
+4) success_a - 0.8025505903423593
+
+5) night_a - 0.7924137340331808
+
+6) account_a - 0.7898987877248329
+
+7) sun_a - 0.7884035454277506
+
+8) enterprise_a - 0.7859652617522005
+
+9) discovery_a - 0.7818284473657353
+
+10) kind_a - 0.7747415765966048
+
+11) cottage_a - 0.7709131793548465
+
+12) kindness_a - 0.7597686075612563
+
+Result for the vector: success, coming from part b of the book
+Rank: 2 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8725858406671396
+
+1) discovery_a - 0.8914252189226612
+
+2) success_a - 0.8725858406671396
+
+3) enterprise_a - 0.8627850752238941
+
+4) account_a - 0.8508482068271529
+
+5) kindness_a - 0.8469319848377831
+
+6) body_a - 0.8328013668299221
+
+7) kind_a - 0.8108633982105973
+
+8) voice_a - 0.7969719888584634
+
+9) night_a - 0.7789530158042963
+
+10) sun_a - 0.741075352366249
+
+11) cottage_a - 0.7324597617250781
+
+12) cheek_a - 0.730493166133968
+
+Result for the vector: enterprise, coming from part b of the book
+Rank: 2 out of 12 characters
+Cosine similarity to the co-referring vector: 0.869147990073327
+
+1) success_a - 0.8794242811546173
+
+2) enterprise_a - 0.869147990073327
+
+3) kindness_a - 0.788490759640394
+
+4) account_a - 0.7856201657283222
+
+5) body_a - 0.7838950986831007
+
+6) discovery_a - 0.7786803477609348
+
+7) night_a - 0.7358164787292533
+
+8) sun_a - 0.7265935107115812
+
+9) kind_a - 0.7236034007545232
+
+10) voice_a - 0.7169394661820265
+
+11) cottage_a - 0.7072965887994619
+
+12) cheek_a - 0.6500493094310397
+

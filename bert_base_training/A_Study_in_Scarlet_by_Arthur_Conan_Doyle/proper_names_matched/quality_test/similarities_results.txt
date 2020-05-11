@@ -1,0 +1,252 @@
+Result for the vector: mr_sherlock_holmes, coming from part i of the book
+Rank: 4 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9042207541597355
+
+1) mr_lestrade_a - 0.9237341835340387
+
+2) mr_drebber_a - 0.914688246650733
+
+3) tobias_gregson_a - 0.9132038354873722
+
+4) mr_sherlock_holmes_a - 0.9042207541597355
+
+5) mr_joseph_stangerson_a - 0.8965478477804586
+
+6) john_ferrier_a - 0.8449801273614361
+
+7) mr_jefferson_hope_a - 0.6901360750198413
+
+Result for the vector: john_ferrier, coming from part i of the book
+Rank: 6 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8297920474348175
+
+1) mr_drebber_a - 0.8935919670341105
+
+2) mr_lestrade_a - 0.8875872559793455
+
+3) tobias_gregson_a - 0.8822683832325479
+
+4) mr_sherlock_holmes_a - 0.8743726089970718
+
+5) mr_joseph_stangerson_a - 0.8626298390251509
+
+6) john_ferrier_a - 0.8297920474348175
+
+7) mr_jefferson_hope_a - 0.6684864558593684
+
+Result for the vector: tobias_gregson, coming from part i of the book
+Rank: 2 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8724917921433697
+
+1) mr_lestrade_a - 0.8765521719126614
+
+2) tobias_gregson_a - 0.8724917921433697
+
+3) mr_drebber_a - 0.8540072695615168
+
+4) mr_joseph_stangerson_a - 0.8475061149891562
+
+5) mr_sherlock_holmes_a - 0.8424357865789078
+
+6) john_ferrier_a - 0.7882553573923007
+
+7) mr_jefferson_hope_a - 0.6403319072327724
+
+Result for the vector: mr_drebber, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9461950281553017
+
+1) mr_drebber_a - 0.9461950281553017
+
+2) mr_lestrade_a - 0.9315322000701564
+
+3) mr_joseph_stangerson_a - 0.926227028741065
+
+4) tobias_gregson_a - 0.9234369397163457
+
+5) mr_sherlock_holmes_a - 0.9114301151889648
+
+6) john_ferrier_a - 0.8676521878916309
+
+7) mr_jefferson_hope_a - 0.7209585309028677
+
+Result for the vector: mr_joseph_stangerson, coming from part i of the book
+Rank: 3 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9183008768199894
+
+1) mr_drebber_a - 0.9279469571129596
+
+2) mr_lestrade_a - 0.92329401692224
+
+3) mr_joseph_stangerson_a - 0.9183008768199894
+
+4) tobias_gregson_a - 0.9128747738227669
+
+5) mr_sherlock_holmes_a - 0.896857869999669
+
+6) john_ferrier_a - 0.8427488552704978
+
+7) mr_jefferson_hope_a - 0.7086365743929325
+
+Result for the vector: mr_jefferson_hope, coming from part i of the book
+Rank: 7 out of 7 characters
+Cosine similarity to the co-referring vector: 0.6917071732369935
+
+1) mr_drebber_a - 0.9317045130377444
+
+2) mr_lestrade_a - 0.9261583365845188
+
+3) tobias_gregson_a - 0.9189296090921912
+
+4) mr_sherlock_holmes_a - 0.9173889433559465
+
+5) mr_joseph_stangerson_a - 0.9085439714355464
+
+6) john_ferrier_a - 0.8461850102168349
+
+7) mr_jefferson_hope_a - 0.6917071732369935
+
+Result for the vector: mr_lestrade, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9340317288618266
+
+1) mr_lestrade_a - 0.9340317288618266
+
+2) tobias_gregson_a - 0.923478672089735
+
+3) mr_drebber_a - 0.9149555836604811
+
+4) mr_joseph_stangerson_a - 0.9110805445265462
+
+5) mr_sherlock_holmes_a - 0.8992573082889747
+
+6) john_ferrier_a - 0.8625843185956669
+
+7) mr_jefferson_hope_a - 0.6908095251548856
+
+Result for the vector: mr_sherlock_holmes, coming from part a of the book
+Rank: 3 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9042207541597355
+
+1) mr_jefferson_hope_wiki - 0.9173889433559465
+
+2) mr_drebber_wiki - 0.9114301151889648
+
+3) mr_sherlock_holmes_wiki - 0.9042207541597355
+
+4) mr_lestrade_wiki - 0.8992573082889747
+
+5) mr_joseph_stangerson_wiki - 0.896857869999669
+
+6) john_ferrier_wiki - 0.8743726089970718
+
+7) tobias_gregson_wiki - 0.8424357865789078
+
+Result for the vector: john_ferrier, coming from part a of the book
+Rank: 6 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8297920474348175
+
+1) mr_drebber_wiki - 0.8676521878916309
+
+2) mr_lestrade_wiki - 0.8625843185956669
+
+3) mr_jefferson_hope_wiki - 0.8461850102168349
+
+4) mr_sherlock_holmes_wiki - 0.8449801273614361
+
+5) mr_joseph_stangerson_wiki - 0.8427488552704978
+
+6) john_ferrier_wiki - 0.8297920474348175
+
+7) tobias_gregson_wiki - 0.7882553573923007
+
+Result for the vector: tobias_gregson, coming from part a of the book
+Rank: 7 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8724917921433697
+
+1) mr_lestrade_wiki - 0.923478672089735
+
+2) mr_drebber_wiki - 0.9234369397163457
+
+3) mr_jefferson_hope_wiki - 0.9189296090921912
+
+4) mr_sherlock_holmes_wiki - 0.9132038354873722
+
+5) mr_joseph_stangerson_wiki - 0.9128747738227669
+
+6) john_ferrier_wiki - 0.8822683832325479
+
+7) tobias_gregson_wiki - 0.8724917921433697
+
+Result for the vector: mr_drebber, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9461950281553017
+
+1) mr_drebber_wiki - 0.9461950281553017
+
+2) mr_jefferson_hope_wiki - 0.9317045130377444
+
+3) mr_joseph_stangerson_wiki - 0.9279469571129596
+
+4) mr_lestrade_wiki - 0.9149555836604811
+
+5) mr_sherlock_holmes_wiki - 0.914688246650733
+
+6) john_ferrier_wiki - 0.8935919670341105
+
+7) tobias_gregson_wiki - 0.8540072695615168
+
+Result for the vector: mr_joseph_stangerson, coming from part a of the book
+Rank: 2 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9183008768199894
+
+1) mr_drebber_wiki - 0.926227028741065
+
+2) mr_joseph_stangerson_wiki - 0.9183008768199894
+
+3) mr_lestrade_wiki - 0.9110805445265462
+
+4) mr_jefferson_hope_wiki - 0.9085439714355464
+
+5) mr_sherlock_holmes_wiki - 0.8965478477804586
+
+6) john_ferrier_wiki - 0.8626298390251509
+
+7) tobias_gregson_wiki - 0.8475061149891562
+
+Result for the vector: mr_jefferson_hope, coming from part a of the book
+Rank: 3 out of 7 characters
+Cosine similarity to the co-referring vector: 0.6917071732369935
+
+1) mr_drebber_wiki - 0.7209585309028677
+
+2) mr_joseph_stangerson_wiki - 0.7086365743929325
+
+3) mr_jefferson_hope_wiki - 0.6917071732369935
+
+4) mr_lestrade_wiki - 0.6908095251548856
+
+5) mr_sherlock_holmes_wiki - 0.6901360750198413
+
+6) john_ferrier_wiki - 0.6684864558593684
+
+7) tobias_gregson_wiki - 0.6403319072327724
+
+Result for the vector: mr_lestrade, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9340317288618266
+
+1) mr_lestrade_wiki - 0.9340317288618266
+
+2) mr_drebber_wiki - 0.9315322000701564
+
+3) mr_jefferson_hope_wiki - 0.9261583365845188
+
+4) mr_sherlock_holmes_wiki - 0.9237341835340387
+
+5) mr_joseph_stangerson_wiki - 0.92329401692224
+
+6) john_ferrier_wiki - 0.8875872559793455
+
+7) tobias_gregson_wiki - 0.8765521719126614
+

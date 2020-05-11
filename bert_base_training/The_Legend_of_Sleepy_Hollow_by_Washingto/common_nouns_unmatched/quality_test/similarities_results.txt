@@ -1,0 +1,60 @@
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.6867391653812441
+
+1) time_a - 0.6867391653812441
+
+2) country_a - 0.5905581712722778
+
+3) tree_a - 0.5355760455131531
+
+Result for the vector: tree, coming from part i of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.7772750357337359
+
+1) tree_a - 0.7772750357337359
+
+2) country_a - 0.7232971838084354
+
+3) time_a - 0.6849631275225694
+
+Result for the vector: country, coming from part i of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.8166710734367371
+
+1) country_a - 0.8166710734367371
+
+2) tree_a - 0.765031099319458
+
+3) time_a - 0.720621125661069
+
+Result for the vector: time, coming from part a of the book
+Rank: 2 out of 3 characters
+Cosine similarity to the co-referring vector: 0.6867391653812441
+
+1) country_wiki - 0.720621125661069
+
+2) time_wiki - 0.6867391653812441
+
+3) tree_wiki - 0.6849631275225694
+
+Result for the vector: tree, coming from part a of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.7772750357337359
+
+1) tree_wiki - 0.7772750357337359
+
+2) country_wiki - 0.765031099319458
+
+3) time_wiki - 0.5355760455131531
+
+Result for the vector: country, coming from part a of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.8166710734367371
+
+1) country_wiki - 0.8166710734367371
+
+2) tree_wiki - 0.7232971838084354
+
+3) time_wiki - 0.5905581712722778
+

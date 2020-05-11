@@ -1,0 +1,780 @@
+Result for the vector: miss_lucy_westenra, coming from part a of the book
+Rank: 3 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9218233274326741
+
+1) viii_mina_murray_b - 0.9666363577029935
+
+2) mr_quincey_morris_b - 0.9327681342592283
+
+3) miss_lucy_westenra_b - 0.9218233274326741
+
+4) dr_john_seward_b - 0.9209258603497843
+
+5) arthur_holmwood_b - 0.919522225856781
+
+6) abraham_van_helsing_b - 0.9168637990951538
+
+7) mr_renfield_b - 0.9075211937712928
+
+8) jonathan_harker_b - 0.8692550659179688
+
+9) jack_seward_b - 0.8490144610404968
+
+10) count_dracula_b - 0.8467305211264221
+
+11) carfax_b - 0.7973125456161838
+
+12) journal_b - 0.7690212588918973
+
+13) whitby_b - 0.7622516892998418
+
+Result for the vector: abraham_van_helsing, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9772907177171792
+
+1) abraham_van_helsing_b - 0.9772907177171792
+
+2) mr_quincey_morris_b - 0.9559721894231086
+
+3) arthur_holmwood_b - 0.9480849160031937
+
+4) mr_renfield_b - 0.9428489489212424
+
+5) dr_john_seward_b - 0.9365198891317915
+
+6) jonathan_harker_b - 0.9356041791085202
+
+7) viii_mina_murray_b - 0.9302959636294792
+
+8) miss_lucy_westenra_b - 0.8932175306444723
+
+9) count_dracula_b - 0.8810639502203395
+
+10) jack_seward_b - 0.8433259287469953
+
+11) carfax_b - 0.816834750299864
+
+12) whitby_b - 0.7844049568297043
+
+13) journal_b - 0.7595437108790447
+
+Result for the vector: jonathan_harker, coming from part a of the book
+Rank: 9 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9071002657949783
+
+1) dr_john_seward_b - 0.9689238108487355
+
+2) viii_mina_murray_b - 0.9601665139198371
+
+3) mr_renfield_b - 0.9593197155809742
+
+4) arthur_holmwood_b - 0.9502347737410817
+
+5) mr_quincey_morris_b - 0.9491573289287925
+
+6) miss_lucy_westenra_b - 0.9440354175525406
+
+7) abraham_van_helsing_b - 0.937724117176289
+
+8) count_dracula_b - 0.9192506074905461
+
+9) jonathan_harker_b - 0.9071002657949783
+
+10) carfax_b - 0.8701978921890321
+
+11) jack_seward_b - 0.8564204063164961
+
+12) whitby_b - 0.8508788525010523
+
+13) journal_b - 0.8261119127273618
+
+Result for the vector: dr_john_seward, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9703616193044776
+
+1) dr_john_seward_b - 0.9703616193044776
+
+2) viii_mina_murray_b - 0.9406018466654196
+
+3) miss_lucy_westenra_b - 0.9270530023292705
+
+4) arthur_holmwood_b - 0.917639695194936
+
+5) mr_renfield_b - 0.9169958507119474
+
+6) mr_quincey_morris_b - 0.9106753958076726
+
+7) count_dracula_b - 0.9053504027948388
+
+8) abraham_van_helsing_b - 0.8927160107537553
+
+9) journal_b - 0.8807047725774013
+
+10) jonathan_harker_b - 0.8780840824321617
+
+11) jack_seward_b - 0.8429100671032165
+
+12) carfax_b - 0.8403008044214259
+
+13) whitby_b - 0.8262861617292901
+
+Result for the vector: arthur_holmwood, coming from part a of the book
+Rank: 2 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9704013159990708
+
+1) dr_john_seward_b - 0.9721198984348843
+
+2) arthur_holmwood_b - 0.9704013159990708
+
+3) mr_quincey_morris_b - 0.9664390067123775
+
+4) abraham_van_helsing_b - 0.9650517989710514
+
+5) viii_mina_murray_b - 0.9648984341232573
+
+6) mr_renfield_b - 0.9636448334561376
+
+7) miss_lucy_westenra_b - 0.944864781353931
+
+8) jonathan_harker_b - 0.9330478588654957
+
+9) count_dracula_b - 0.9178402052378842
+
+10) jack_seward_b - 0.872687544604765
+
+11) carfax_b - 0.8570042422715646
+
+12) whitby_b - 0.8324395170080839
+
+13) journal_b - 0.8146235479077892
+
+Result for the vector: mr_quincey_morris, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9692812850857169
+
+1) mr_quincey_morris_b - 0.9692812850857169
+
+2) abraham_van_helsing_b - 0.9581384062767029
+
+3) arthur_holmwood_b - 0.9543726444244385
+
+4) mr_renfield_b - 0.9488557011571126
+
+5) dr_john_seward_b - 0.9428625736914548
+
+6) viii_mina_murray_b - 0.9348234495415376
+
+7) miss_lucy_westenra_b - 0.9017329870621585
+
+8) jonathan_harker_b - 0.8872314095497131
+
+9) count_dracula_b - 0.8765110299891863
+
+10) jack_seward_b - 0.8612085580825806
+
+11) carfax_b - 0.8238549127492272
+
+12) whitby_b - 0.7900591617787398
+
+13) journal_b - 0.7545478793709219
+
+Result for the vector: viii_mina_murray, coming from part a of the book
+Rank: 2 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9457675749978512
+
+1) dr_john_seward_b - 0.9605435729026862
+
+2) viii_mina_murray_b - 0.9457675749978512
+
+3) miss_lucy_westenra_b - 0.9311276674270696
+
+4) arthur_holmwood_b - 0.9131073899929176
+
+5) mr_quincey_morris_b - 0.9080147362960643
+
+6) mr_renfield_b - 0.9004489183425968
+
+7) abraham_van_helsing_b - 0.8923452432361406
+
+8) count_dracula_b - 0.8824716070260533
+
+9) jonathan_harker_b - 0.8617476738540947
+
+10) journal_b - 0.8606812191821598
+
+11) jack_seward_b - 0.8494500428110402
+
+12) carfax_b - 0.8238054303890979
+
+13) whitby_b - 0.8045966029167232
+
+Result for the vector: mr_renfield, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9518995227694214
+
+1) mr_renfield_b - 0.9518995227694214
+
+2) mr_quincey_morris_b - 0.9477817009232121
+
+3) abraham_van_helsing_b - 0.9457576773925594
+
+4) arthur_holmwood_b - 0.9454284808805999
+
+5) dr_john_seward_b - 0.9396688866220845
+
+6) viii_mina_murray_b - 0.9218356422986197
+
+7) miss_lucy_westenra_b - 0.9201457405264329
+
+8) count_dracula_b - 0.8976541513572164
+
+9) jonathan_harker_b - 0.8806466842854195
+
+10) carfax_b - 0.8402157044925045
+
+11) jack_seward_b - 0.8385618636420855
+
+12) whitby_b - 0.7934062830694285
+
+13) journal_b - 0.7642038498410875
+
+Result for the vector: carfax, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.896261077450708
+
+1) carfax_b - 0.896261077450708
+
+2) count_dracula_b - 0.8940143991734519
+
+3) dr_john_seward_b - 0.8726255817786346
+
+4) whitby_b - 0.8711400551283531
+
+5) miss_lucy_westenra_b - 0.8633317269880747
+
+6) mr_renfield_b - 0.8605312621910269
+
+7) viii_mina_murray_b - 0.8515748712256336
+
+8) arthur_holmwood_b - 0.8468931730858354
+
+9) mr_quincey_morris_b - 0.8433749144337978
+
+10) jonathan_harker_b - 0.826480487165515
+
+11) abraham_van_helsing_b - 0.8217646267133565
+
+12) journal_b - 0.7958365909761069
+
+13) jack_seward_b - 0.7898736941663911
+
+Result for the vector: journal, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.941023703874572
+
+1) journal_b - 0.941023703874572
+
+2) dr_john_seward_b - 0.8889777130497881
+
+3) viii_mina_murray_b - 0.8669750015124695
+
+4) miss_lucy_westenra_b - 0.8532168952693421
+
+5) mr_renfield_b - 0.8471142740777583
+
+6) count_dracula_b - 0.8463849333754158
+
+7) arthur_holmwood_b - 0.8322784900665283
+
+8) mr_quincey_morris_b - 0.8308897862103521
+
+9) abraham_van_helsing_b - 0.8168448805809021
+
+10) jonathan_harker_b - 0.8153371810913086
+
+11) carfax_b - 0.7888767593429555
+
+12) whitby_b - 0.7767730488316401
+
+13) jack_seward_b - 0.7534258365631104
+
+Result for the vector: whitby, coming from part a of the book
+Rank: 2 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9280248413041534
+
+1) carfax_b - 0.9355169573118266
+
+2) whitby_b - 0.9280248413041534
+
+3) count_dracula_b - 0.9270262165650148
+
+4) dr_john_seward_b - 0.8945898602146176
+
+5) mr_renfield_b - 0.8935882043382772
+
+6) miss_lucy_westenra_b - 0.8906946973750552
+
+7) viii_mina_murray_b - 0.8782475067229706
+
+8) arthur_holmwood_b - 0.8733353765803189
+
+9) mr_quincey_morris_b - 0.8603001063793898
+
+10) jonathan_harker_b - 0.8459529464300994
+
+11) abraham_van_helsing_b - 0.8429609724329803
+
+12) journal_b - 0.8378215528833074
+
+13) jack_seward_b - 0.7951334959109487
+
+Result for the vector: jack_seward, coming from part a of the book
+Rank: 8 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8730198220598819
+
+1) dr_john_seward_b - 0.9350066858522075
+
+2) viii_mina_murray_b - 0.9162160158157414
+
+3) arthur_holmwood_b - 0.9007315098803351
+
+4) miss_lucy_westenra_b - 0.8981396081281176
+
+5) mr_quincey_morris_b - 0.8952874870512674
+
+6) mr_renfield_b - 0.8845098156321268
+
+7) abraham_van_helsing_b - 0.8801150989463882
+
+8) jack_seward_b - 0.8730198220598819
+
+9) count_dracula_b - 0.8533611297607483
+
+10) jonathan_harker_b - 0.8350036838648522
+
+11) journal_b - 0.8219074010849058
+
+12) carfax_b - 0.7923532128334102
+
+13) whitby_b - 0.7639159245591254
+
+Result for the vector: count_dracula, coming from part a of the book
+Rank: 6 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9377823434938414
+
+1) dr_john_seward_b - 0.9561310436647525
+
+2) arthur_holmwood_b - 0.9516000151634216
+
+3) mr_renfield_b - 0.9437736902371846
+
+4) mr_quincey_morris_b - 0.9427378458600598
+
+5) abraham_van_helsing_b - 0.9390654563903809
+
+6) count_dracula_b - 0.9377823434938414
+
+7) viii_mina_murray_b - 0.9340900143438603
+
+8) miss_lucy_westenra_b - 0.9276934309188484
+
+9) jonathan_harker_b - 0.8911172747612
+
+10) carfax_b - 0.8567977462290389
+
+11) jack_seward_b - 0.8541120290756226
+
+12) whitby_b - 0.8230571256245911
+
+13) journal_b - 0.8108674175064231
+
+Result for the vector: miss_lucy_westenra, coming from part b of the book
+Rank: 6 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9218233274326741
+
+1) arthur_holmwood_a - 0.944864781353931
+
+2) jonathan_harker_a - 0.9440354175525406
+
+3) viii_mina_murray_a - 0.9311276674270696
+
+4) count_dracula_a - 0.9276934309188484
+
+5) dr_john_seward_a - 0.9270530023292705
+
+6) miss_lucy_westenra_a - 0.9218233274326741
+
+7) mr_renfield_a - 0.9201457405264329
+
+8) mr_quincey_morris_a - 0.9017329870621585
+
+9) jack_seward_a - 0.8981396081281176
+
+10) abraham_van_helsing_a - 0.8932175306444723
+
+11) whitby_a - 0.8906946973750552
+
+12) carfax_a - 0.8633317269880747
+
+13) journal_a - 0.8532168952693421
+
+Result for the vector: abraham_van_helsing, coming from part b of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9772907177171792
+
+1) abraham_van_helsing_a - 0.9772907177171792
+
+2) arthur_holmwood_a - 0.9650517989710514
+
+3) mr_quincey_morris_a - 0.9581384062767029
+
+4) mr_renfield_a - 0.9457576773925594
+
+5) count_dracula_a - 0.9390654563903809
+
+6) jonathan_harker_a - 0.937724117176289
+
+7) miss_lucy_westenra_a - 0.9168637990951538
+
+8) dr_john_seward_a - 0.8927160107537553
+
+9) viii_mina_murray_a - 0.8923452432361406
+
+10) jack_seward_a - 0.8801150989463882
+
+11) whitby_a - 0.8429609724329803
+
+12) carfax_a - 0.8217646267133565
+
+13) journal_a - 0.8168448805809021
+
+Result for the vector: jonathan_harker, coming from part b of the book
+Rank: 3 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9071002657949783
+
+1) abraham_van_helsing_a - 0.9356041791085202
+
+2) arthur_holmwood_a - 0.9330478588654957
+
+3) jonathan_harker_a - 0.9071002657949783
+
+4) count_dracula_a - 0.8911172747612
+
+5) mr_quincey_morris_a - 0.8872314095497131
+
+6) mr_renfield_a - 0.8806466842854195
+
+7) dr_john_seward_a - 0.8780840824321617
+
+8) miss_lucy_westenra_a - 0.8692550659179688
+
+9) viii_mina_murray_a - 0.8617476738540947
+
+10) whitby_a - 0.8459529464300994
+
+11) jack_seward_a - 0.8350036838648522
+
+12) carfax_a - 0.826480487165515
+
+13) journal_a - 0.8153371810913086
+
+Result for the vector: dr_john_seward, coming from part b of the book
+Rank: 2 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9703616193044776
+
+1) arthur_holmwood_a - 0.9721198984348843
+
+2) dr_john_seward_a - 0.9703616193044776
+
+3) jonathan_harker_a - 0.9689238108487355
+
+4) viii_mina_murray_a - 0.9605435729026862
+
+5) count_dracula_a - 0.9561310436647525
+
+6) mr_quincey_morris_a - 0.9428625736914548
+
+7) mr_renfield_a - 0.9396688866220845
+
+8) abraham_van_helsing_a - 0.9365198891317915
+
+9) jack_seward_a - 0.9350066858522075
+
+10) miss_lucy_westenra_a - 0.9209258603497843
+
+11) whitby_a - 0.8945898602146176
+
+12) journal_a - 0.8889777130497881
+
+13) carfax_a - 0.8726255817786346
+
+Result for the vector: arthur_holmwood, coming from part b of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9704013159990708
+
+1) arthur_holmwood_a - 0.9704013159990708
+
+2) mr_quincey_morris_a - 0.9543726444244385
+
+3) count_dracula_a - 0.9516000151634216
+
+4) jonathan_harker_a - 0.9502347737410817
+
+5) abraham_van_helsing_a - 0.9480849160031937
+
+6) mr_renfield_a - 0.9454284808805999
+
+7) miss_lucy_westenra_a - 0.919522225856781
+
+8) dr_john_seward_a - 0.917639695194936
+
+9) viii_mina_murray_a - 0.9131073899929176
+
+10) jack_seward_a - 0.9007315098803351
+
+11) whitby_a - 0.8733353765803189
+
+12) carfax_a - 0.8468931730858354
+
+13) journal_a - 0.8322784900665283
+
+Result for the vector: mr_quincey_morris, coming from part b of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9692812850857169
+
+1) mr_quincey_morris_a - 0.9692812850857169
+
+2) arthur_holmwood_a - 0.9664390067123775
+
+3) abraham_van_helsing_a - 0.9559721894231086
+
+4) jonathan_harker_a - 0.9491573289287925
+
+5) mr_renfield_a - 0.9477817009232121
+
+6) count_dracula_a - 0.9427378458600598
+
+7) miss_lucy_westenra_a - 0.9327681342592283
+
+8) dr_john_seward_a - 0.9106753958076726
+
+9) viii_mina_murray_a - 0.9080147362960643
+
+10) jack_seward_a - 0.8952874870512674
+
+11) whitby_a - 0.8603001063793898
+
+12) carfax_a - 0.8433749144337978
+
+13) journal_a - 0.8308897862103521
+
+Result for the vector: viii_mina_murray, coming from part b of the book
+Rank: 4 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9457675749978512
+
+1) miss_lucy_westenra_a - 0.9666363577029935
+
+2) arthur_holmwood_a - 0.9648984341232573
+
+3) jonathan_harker_a - 0.9601665139198371
+
+4) viii_mina_murray_a - 0.9457675749978512
+
+5) dr_john_seward_a - 0.9406018466654196
+
+6) mr_quincey_morris_a - 0.9348234495415376
+
+7) count_dracula_a - 0.9340900143438603
+
+8) abraham_van_helsing_a - 0.9302959636294792
+
+9) mr_renfield_a - 0.9218356422986197
+
+10) jack_seward_a - 0.9162160158157414
+
+11) whitby_a - 0.8782475067229706
+
+12) journal_a - 0.8669750015124695
+
+13) carfax_a - 0.8515748712256336
+
+Result for the vector: mr_renfield, coming from part b of the book
+Rank: 3 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9518995227694214
+
+1) arthur_holmwood_a - 0.9636448334561376
+
+2) jonathan_harker_a - 0.9593197155809742
+
+3) mr_renfield_a - 0.9518995227694214
+
+4) mr_quincey_morris_a - 0.9488557011571126
+
+5) count_dracula_a - 0.9437736902371846
+
+6) abraham_van_helsing_a - 0.9428489489212424
+
+7) dr_john_seward_a - 0.9169958507119474
+
+8) miss_lucy_westenra_a - 0.9075211937712928
+
+9) viii_mina_murray_a - 0.9004489183425968
+
+10) whitby_a - 0.8935882043382772
+
+11) jack_seward_a - 0.8845098156321268
+
+12) carfax_a - 0.8605312621910269
+
+13) journal_a - 0.8471142740777583
+
+Result for the vector: carfax, coming from part b of the book
+Rank: 2 out of 13 characters
+Cosine similarity to the co-referring vector: 0.896261077450708
+
+1) whitby_a - 0.9355169573118266
+
+2) carfax_a - 0.896261077450708
+
+3) jonathan_harker_a - 0.8701978921890321
+
+4) arthur_holmwood_a - 0.8570042422715646
+
+5) count_dracula_a - 0.8567977462290389
+
+6) dr_john_seward_a - 0.8403008044214259
+
+7) mr_renfield_a - 0.8402157044925045
+
+8) mr_quincey_morris_a - 0.8238549127492272
+
+9) viii_mina_murray_a - 0.8238054303890979
+
+10) abraham_van_helsing_a - 0.816834750299864
+
+11) miss_lucy_westenra_a - 0.7973125456161838
+
+12) jack_seward_a - 0.7923532128334102
+
+13) journal_a - 0.7888767593429555
+
+Result for the vector: journal, coming from part b of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.941023703874572
+
+1) journal_a - 0.941023703874572
+
+2) dr_john_seward_a - 0.8807047725774013
+
+3) viii_mina_murray_a - 0.8606812191821598
+
+4) whitby_a - 0.8378215528833074
+
+5) jonathan_harker_a - 0.8261119127273618
+
+6) jack_seward_a - 0.8219074010849058
+
+7) arthur_holmwood_a - 0.8146235479077892
+
+8) count_dracula_a - 0.8108674175064231
+
+9) carfax_a - 0.7958365909761069
+
+10) miss_lucy_westenra_a - 0.7690212588918973
+
+11) mr_renfield_a - 0.7642038498410875
+
+12) abraham_van_helsing_a - 0.7595437108790447
+
+13) mr_quincey_morris_a - 0.7545478793709219
+
+Result for the vector: whitby, coming from part b of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9280248413041534
+
+1) whitby_a - 0.9280248413041534
+
+2) carfax_a - 0.8711400551283531
+
+3) jonathan_harker_a - 0.8508788525010523
+
+4) arthur_holmwood_a - 0.8324395170080839
+
+5) dr_john_seward_a - 0.8262861617292901
+
+6) count_dracula_a - 0.8230571256245911
+
+7) viii_mina_murray_a - 0.8045966029167232
+
+8) mr_renfield_a - 0.7934062830694285
+
+9) mr_quincey_morris_a - 0.7900591617787398
+
+10) abraham_van_helsing_a - 0.7844049568297043
+
+11) journal_a - 0.7767730488316401
+
+12) jack_seward_a - 0.7639159245591254
+
+13) miss_lucy_westenra_a - 0.7622516892998418
+
+Result for the vector: jack_seward, coming from part b of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8730198220598819
+
+1) jack_seward_a - 0.8730198220598819
+
+2) arthur_holmwood_a - 0.872687544604765
+
+3) mr_quincey_morris_a - 0.8612085580825806
+
+4) jonathan_harker_a - 0.8564204063164961
+
+5) count_dracula_a - 0.8541120290756226
+
+6) viii_mina_murray_a - 0.8494500428110402
+
+7) miss_lucy_westenra_a - 0.8490144610404968
+
+8) abraham_van_helsing_a - 0.8433259287469953
+
+9) dr_john_seward_a - 0.8429100671032165
+
+10) mr_renfield_a - 0.8385618636420855
+
+11) whitby_a - 0.7951334959109487
+
+12) carfax_a - 0.7898736941663911
+
+13) journal_a - 0.7534258365631104
+
+Result for the vector: count_dracula, coming from part b of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9377823434938414
+
+1) count_dracula_a - 0.9377823434938414
+
+2) whitby_a - 0.9270262165650148
+
+3) jonathan_harker_a - 0.9192506074905461
+
+4) arthur_holmwood_a - 0.9178402052378842
+
+5) dr_john_seward_a - 0.9053504027948388
+
+6) mr_renfield_a - 0.8976541513572164
+
+7) carfax_a - 0.8940143991734519
+
+8) viii_mina_murray_a - 0.8824716070260533
+
+9) abraham_van_helsing_a - 0.8810639502203395
+
+10) mr_quincey_morris_a - 0.8765110299891863
+
+11) jack_seward_a - 0.8533611297607483
+
+12) miss_lucy_westenra_a - 0.8467305211264221
+
+13) journal_a - 0.8463849333754158
+

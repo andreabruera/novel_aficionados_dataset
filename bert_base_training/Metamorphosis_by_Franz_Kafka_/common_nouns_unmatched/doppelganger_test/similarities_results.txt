@@ -1,0 +1,96 @@
+Result for the vector: room, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9628127195127456
+
+1) room_b - 0.9628127195127456
+
+2) door_b - 0.8438249230384887
+
+3) father_b - 0.813039183616644
+
+4) sister_b - 0.7849120475220754
+
+Result for the vector: sister, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9769738593972239
+
+1) sister_b - 0.9769738593972239
+
+2) father_b - 0.9519511489897299
+
+3) room_b - 0.8257239460945129
+
+4) door_b - 0.736282423956251
+
+Result for the vector: father, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9608608197909387
+
+1) father_b - 0.9608608197909387
+
+2) sister_b - 0.9587051819211478
+
+3) room_b - 0.8500465407981441
+
+4) door_b - 0.7676666150192466
+
+Result for the vector: door, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9773828387260507
+
+1) door_b - 0.9773828387260507
+
+2) room_b - 0.8679659287909243
+
+3) father_b - 0.7684228420257623
+
+4) sister_b - 0.7357473277669146
+
+Result for the vector: room, coming from part b of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9628127195127456
+
+1) room_a - 0.9628127195127456
+
+2) door_a - 0.8679659287909243
+
+3) father_a - 0.8500465407981441
+
+4) sister_a - 0.8257239460945129
+
+Result for the vector: sister, coming from part b of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9769738593972239
+
+1) sister_a - 0.9769738593972239
+
+2) father_a - 0.9587051819211478
+
+3) room_a - 0.7849120475220754
+
+4) door_a - 0.7357473277669146
+
+Result for the vector: father, coming from part b of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9608608197909387
+
+1) father_a - 0.9608608197909387
+
+2) sister_a - 0.9519511489897299
+
+3) room_a - 0.813039183616644
+
+4) door_a - 0.7684228420257623
+
+Result for the vector: door, coming from part b of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9773828387260507
+
+1) door_a - 0.9773828387260507
+
+2) room_a - 0.8438249230384887
+
+3) father_a - 0.7676666150192466
+
+4) sister_a - 0.736282423956251
+

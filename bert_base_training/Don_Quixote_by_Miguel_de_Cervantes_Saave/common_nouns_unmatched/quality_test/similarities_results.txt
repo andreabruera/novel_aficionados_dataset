@@ -1,0 +1,896 @@
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9063206911087036
+
+1) time_a - 0.9063206911087036
+
+2) day_a - 0.9033500225350272
+
+3) life_a - 0.8831980228424072
+
+4) world_a - 0.8704040050506592
+
+5) word_a - 0.8650511503219604
+
+6) way_a - 0.8639699978864257
+
+7) one_a - 0.8509915128645755
+
+8) name_a - 0.8499799370765686
+
+9) man_a - 0.8459651470184326
+
+10) hand_a - 0.8361698389053345
+
+11) heart_a - 0.8318142890930176
+
+12) lady_a - 0.8317204117774963
+
+13) master_a - 0.8137194625306464
+
+14) knight_a - 0.8106846213340759
+
+Result for the vector: knight, coming from part i of the book
+Rank: 2 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8159253001213074
+
+1) man_a - 0.8281683325767517
+
+2) knight_a - 0.8159253001213074
+
+3) lady_a - 0.8158769011497498
+
+4) master_a - 0.7967501999884739
+
+5) name_a - 0.792235255241394
+
+6) one_a - 0.7813015216976861
+
+7) life_a - 0.7782177329063416
+
+8) day_a - 0.7729843489225018
+
+9) word_a - 0.7716308832168579
+
+10) world_a - 0.7649428844451904
+
+11) hand_a - 0.7500966787338257
+
+12) way_a - 0.7493830025931647
+
+13) heart_a - 0.7351679801940918
+
+14) time_a - 0.7264319062232971
+
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.92571454797474
+
+1) man_a - 0.92571454797474
+
+2) lady_a - 0.8838265468970878
+
+3) life_a - 0.8756338283797416
+
+4) one_a - 0.8715546910364653
+
+5) master_a - 0.8701546788215699
+
+6) day_a - 0.8616489942356048
+
+7) name_a - 0.8611063278380843
+
+8) knight_a - 0.8605500376552381
+
+9) word_a - 0.8482747583553066
+
+10) way_a - 0.8325729469911621
+
+11) heart_a - 0.826125849850528
+
+12) world_a - 0.8252560988221243
+
+13) hand_a - 0.8135756143078589
+
+14) time_a - 0.8114758021519081
+
+Result for the vector: master, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7987418770790157
+
+1) master_a - 0.7987418770790157
+
+2) life_a - 0.7764776215837982
+
+3) heart_a - 0.7565833781113267
+
+4) lady_a - 0.7516402454161804
+
+5) name_a - 0.7287664251784353
+
+6) day_a - 0.7278633768436354
+
+7) man_a - 0.7173337171872698
+
+8) hand_a - 0.7161124775476753
+
+9) word_a - 0.7111361450634102
+
+10) way_a - 0.7041168389250845
+
+11) world_a - 0.7025691689592117
+
+12) knight_a - 0.6979133902736551
+
+13) one_a - 0.6764720091049682
+
+14) time_a - 0.6433129098005849
+
+Result for the vector: day, coming from part i of the book
+Rank: 3 out of 14 characters
+Cosine similarity to the co-referring vector: 0.772756003521562
+
+1) world_a - 0.8346163034439087
+
+2) man_a - 0.7777133584022522
+
+3) day_a - 0.772756003521562
+
+4) life_a - 0.7703331708908081
+
+5) name_a - 0.769098162651062
+
+6) lady_a - 0.7628443241119385
+
+7) time_a - 0.7593132257461548
+
+8) master_a - 0.7555326965133742
+
+9) way_a - 0.7420426318594708
+
+10) knight_a - 0.734650194644928
+
+11) word_a - 0.7268431186676025
+
+12) one_a - 0.7232253170974651
+
+13) heart_a - 0.7160006761550903
+
+14) hand_a - 0.7109687924385071
+
+Result for the vector: hand, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.6312820315361023
+
+1) hand_a - 0.6312820315361023
+
+2) heart_a - 0.5973364114761353
+
+3) way_a - 0.5849540728385403
+
+4) life_a - 0.5598376989364624
+
+5) word_a - 0.5499508380889893
+
+6) name_a - 0.5477904081344604
+
+7) world_a - 0.5425013899803162
+
+8) one_a - 0.5222154415314033
+
+9) time_a - 0.5188554525375366
+
+10) day_a - 0.5179041778416689
+
+11) lady_a - 0.5091732144355774
+
+12) master_a - 0.5054840740272963
+
+13) man_a - 0.49097466468811035
+
+14) knight_a - 0.47928038239479065
+
+Result for the vector: way, coming from part i of the book
+Rank: 2 out of 14 characters
+Cosine similarity to the co-referring vector: 0.6859473960462386
+
+1) master_a - 0.700249630197906
+
+2) way_a - 0.6859473960462386
+
+3) life_a - 0.668868899345398
+
+4) name_a - 0.662341833114624
+
+5) lady_a - 0.659938633441925
+
+6) hand_a - 0.6559222936630249
+
+7) heart_a - 0.6481418013572693
+
+8) day_a - 0.6458485915019692
+
+9) knight_a - 0.6092029809951782
+
+10) word_a - 0.6063106656074524
+
+11) one_a - 0.6014794886553138
+
+12) man_a - 0.5942863821983337
+
+13) time_a - 0.5938040614128113
+
+14) world_a - 0.5884811282157898
+
+Result for the vector: lady, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9162141953770581
+
+1) lady_a - 0.9162141953770581
+
+2) master_a - 0.8890511128589215
+
+3) man_a - 0.8720525763050493
+
+4) knight_a - 0.8620499629393212
+
+5) name_a - 0.8440401805651245
+
+6) day_a - 0.8370647333302935
+
+7) life_a - 0.8313797960096541
+
+8) one_a - 0.8308828372289442
+
+9) heart_a - 0.8227653152574697
+
+10) world_a - 0.8184779530310025
+
+11) word_a - 0.814761603318501
+
+12) way_a - 0.8078363411572956
+
+13) hand_a - 0.802287840911384
+
+14) time_a - 0.7858766551577051
+
+Result for the vector: word, coming from part i of the book
+Rank: 2 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8627147078514099
+
+1) name_a - 0.8756451606750488
+
+2) word_a - 0.8627147078514099
+
+3) one_a - 0.8351921092031038
+
+4) way_a - 0.820351443248821
+
+5) life_a - 0.8191748857498169
+
+6) man_a - 0.8150926828384399
+
+7) lady_a - 0.8105900883674622
+
+8) master_a - 0.8080345506647512
+
+9) hand_a - 0.8042416572570801
+
+10) day_a - 0.8028353095899619
+
+11) knight_a - 0.7885775566101074
+
+12) heart_a - 0.7876953482627869
+
+13) time_a - 0.7832719087600708
+
+14) world_a - 0.7728482484817505
+
+Result for the vector: life, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8857017227589074
+
+1) life_a - 0.8857017227589074
+
+2) name_a - 0.8656075676913535
+
+3) master_a - 0.836888690365709
+
+4) heart_a - 0.8366260029896511
+
+5) word_a - 0.8293002349555367
+
+6) way_a - 0.8273989270808246
+
+7) lady_a - 0.8202338921884377
+
+8) day_a - 0.8173220510088819
+
+9) hand_a - 0.8098132127634771
+
+10) one_a - 0.8064355013836803
+
+11) man_a - 0.8034746764019339
+
+12) world_a - 0.8031271217389645
+
+13) knight_a - 0.7866482265801309
+
+14) time_a - 0.783271027608454
+
+Result for the vector: one, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9233956612168454
+
+1) one_a - 0.9233956612168454
+
+2) name_a - 0.8383603096008301
+
+3) day_a - 0.8340646873135775
+
+4) word_a - 0.8302642703056335
+
+5) life_a - 0.827792763710022
+
+6) lady_a - 0.8270207047462463
+
+7) man_a - 0.8234454989433289
+
+8) way_a - 0.8164013247011571
+
+9) hand_a - 0.8081769943237305
+
+10) time_a - 0.8070855736732483
+
+11) knight_a - 0.8064942955970764
+
+12) master_a - 0.8031081078584145
+
+13) heart_a - 0.7937327027320862
+
+14) world_a - 0.7917724251747131
+
+Result for the vector: world, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9028569728987511
+
+1) world_a - 0.9028569728987511
+
+2) man_a - 0.8666706939539524
+
+3) life_a - 0.86417194796121
+
+4) day_a - 0.8496661692658763
+
+5) name_a - 0.8485729351214453
+
+6) way_a - 0.8347663133055381
+
+7) one_a - 0.8312145370968901
+
+8) lady_a - 0.8302333602378777
+
+9) word_a - 0.8248315699348325
+
+10) master_a - 0.8235687964091096
+
+11) hand_a - 0.8168751244805794
+
+12) time_a - 0.8129669670154744
+
+13) knight_a - 0.8112880233314048
+
+14) heart_a - 0.8031370879154534
+
+Result for the vector: heart, coming from part i of the book
+Rank: 8 out of 14 characters
+Cosine similarity to the co-referring vector: 0.6383375119667507
+
+1) way_a - 0.6739195578766339
+
+2) world_a - 0.6705447635216943
+
+3) name_a - 0.6667510469779687
+
+4) hand_a - 0.663988669633528
+
+5) life_a - 0.6612026292444062
+
+6) day_a - 0.6427929188485694
+
+7) time_a - 0.6422371459673988
+
+8) heart_a - 0.6383375119667507
+
+9) master_a - 0.6226955466659229
+
+10) one_a - 0.6202221882475727
+
+11) word_a - 0.61753930501757
+
+12) lady_a - 0.6153194491660433
+
+13) man_a - 0.5923679647555343
+
+14) knight_a - 0.5904719409487232
+
+Result for the vector: name, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.945707205193807
+
+1) name_a - 0.945707205193807
+
+2) lady_a - 0.9048679527719065
+
+3) word_a - 0.9040100631707885
+
+4) master_a - 0.9038283939566143
+
+5) life_a - 0.892746514514298
+
+6) man_a - 0.8862300582987052
+
+7) one_a - 0.8762892223510413
+
+8) heart_a - 0.87475276739879
+
+9) way_a - 0.8733586299374185
+
+10) hand_a - 0.8674517352907831
+
+11) day_a - 0.8674077729163272
+
+12) knight_a - 0.8650122961394626
+
+13) world_a - 0.84799672079106
+
+14) time_a - 0.835423598562266
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9063206911087036
+
+1) time_wiki - 0.9063206911087036
+
+2) name_wiki - 0.835423598562266
+
+3) world_wiki - 0.8129669670154744
+
+4) man_wiki - 0.8114758021519081
+
+5) one_wiki - 0.8070855736732483
+
+6) lady_wiki - 0.7858766551577051
+
+7) word_wiki - 0.7832719087600708
+
+8) life_wiki - 0.783271027608454
+
+9) day_wiki - 0.7593132257461548
+
+10) knight_wiki - 0.7264319062232971
+
+11) master_wiki - 0.6433129098005849
+
+12) heart_wiki - 0.6422371459673988
+
+13) way_wiki - 0.5938040614128113
+
+14) hand_wiki - 0.5188554525375366
+
+Result for the vector: knight, coming from part a of the book
+Rank: 4 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8159253001213074
+
+1) name_wiki - 0.8650122961394626
+
+2) lady_wiki - 0.8620499629393212
+
+3) man_wiki - 0.8605500376552381
+
+4) knight_wiki - 0.8159253001213074
+
+5) world_wiki - 0.8112880233314048
+
+6) time_wiki - 0.8106846213340759
+
+7) one_wiki - 0.8064942955970764
+
+8) word_wiki - 0.7885775566101074
+
+9) life_wiki - 0.7866482265801309
+
+10) day_wiki - 0.734650194644928
+
+11) master_wiki - 0.6979133902736551
+
+12) way_wiki - 0.6092029809951782
+
+13) heart_wiki - 0.5904719409487232
+
+14) hand_wiki - 0.47928038239479065
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.92571454797474
+
+1) man_wiki - 0.92571454797474
+
+2) name_wiki - 0.8862300582987052
+
+3) lady_wiki - 0.8720525763050493
+
+4) world_wiki - 0.8666706939539524
+
+5) time_wiki - 0.8459651470184326
+
+6) knight_wiki - 0.8281683325767517
+
+7) one_wiki - 0.8234454989433289
+
+8) word_wiki - 0.8150926828384399
+
+9) life_wiki - 0.8034746764019339
+
+10) day_wiki - 0.7777133584022522
+
+11) master_wiki - 0.7173337171872698
+
+12) way_wiki - 0.5942863821983337
+
+13) heart_wiki - 0.5923679647555343
+
+14) hand_wiki - 0.49097466468811035
+
+Result for the vector: master, coming from part a of the book
+Rank: 9 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7987418770790157
+
+1) name_wiki - 0.9038283939566143
+
+2) lady_wiki - 0.8890511128589215
+
+3) man_wiki - 0.8701546788215699
+
+4) life_wiki - 0.836888690365709
+
+5) world_wiki - 0.8235687964091096
+
+6) time_wiki - 0.8137194625306464
+
+7) word_wiki - 0.8080345506647512
+
+8) one_wiki - 0.8031081078584145
+
+9) master_wiki - 0.7987418770790157
+
+10) knight_wiki - 0.7967501999884739
+
+11) day_wiki - 0.7555326965133742
+
+12) way_wiki - 0.700249630197906
+
+13) heart_wiki - 0.6226955466659229
+
+14) hand_wiki - 0.5054840740272963
+
+Result for the vector: day, coming from part a of the book
+Rank: 10 out of 14 characters
+Cosine similarity to the co-referring vector: 0.772756003521562
+
+1) time_wiki - 0.9033500225350272
+
+2) name_wiki - 0.8674077729163272
+
+3) man_wiki - 0.8616489942356048
+
+4) world_wiki - 0.8496661692658763
+
+5) lady_wiki - 0.8370647333302935
+
+6) one_wiki - 0.8340646873135775
+
+7) life_wiki - 0.8173220510088819
+
+8) word_wiki - 0.8028353095899619
+
+9) knight_wiki - 0.7729843489225018
+
+10) day_wiki - 0.772756003521562
+
+11) master_wiki - 0.7278633768436354
+
+12) way_wiki - 0.6458485915019692
+
+13) heart_wiki - 0.6427929188485694
+
+14) hand_wiki - 0.5179041778416689
+
+Result for the vector: hand, coming from part a of the book
+Rank: 14 out of 14 characters
+Cosine similarity to the co-referring vector: 0.6312820315361023
+
+1) name_wiki - 0.8674517352907831
+
+2) time_wiki - 0.8361698389053345
+
+3) world_wiki - 0.8168751244805794
+
+4) man_wiki - 0.8135756143078589
+
+5) life_wiki - 0.8098132127634771
+
+6) one_wiki - 0.8081769943237305
+
+7) word_wiki - 0.8042416572570801
+
+8) lady_wiki - 0.802287840911384
+
+9) knight_wiki - 0.7500966787338257
+
+10) master_wiki - 0.7161124775476753
+
+11) day_wiki - 0.7109687924385071
+
+12) heart_wiki - 0.663988669633528
+
+13) way_wiki - 0.6559222936630249
+
+14) hand_wiki - 0.6312820315361023
+
+Result for the vector: way, coming from part a of the book
+Rank: 12 out of 14 characters
+Cosine similarity to the co-referring vector: 0.6859473960462386
+
+1) name_wiki - 0.8733586299374185
+
+2) time_wiki - 0.8639699978864257
+
+3) world_wiki - 0.8347663133055381
+
+4) man_wiki - 0.8325729469911621
+
+5) life_wiki - 0.8273989270808246
+
+6) word_wiki - 0.820351443248821
+
+7) one_wiki - 0.8164013247011571
+
+8) lady_wiki - 0.8078363411572956
+
+9) knight_wiki - 0.7493830025931647
+
+10) day_wiki - 0.7420426318594708
+
+11) master_wiki - 0.7041168389250845
+
+12) way_wiki - 0.6859473960462386
+
+13) heart_wiki - 0.6739195578766339
+
+14) hand_wiki - 0.5849540728385403
+
+Result for the vector: lady, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9162141953770581
+
+1) lady_wiki - 0.9162141953770581
+
+2) name_wiki - 0.9048679527719065
+
+3) man_wiki - 0.8838265468970878
+
+4) time_wiki - 0.8317204117774963
+
+5) world_wiki - 0.8302333602378777
+
+6) one_wiki - 0.8270207047462463
+
+7) life_wiki - 0.8202338921884377
+
+8) knight_wiki - 0.8158769011497498
+
+9) word_wiki - 0.8105900883674622
+
+10) day_wiki - 0.7628443241119385
+
+11) master_wiki - 0.7516402454161804
+
+12) way_wiki - 0.659938633441925
+
+13) heart_wiki - 0.6153194491660433
+
+14) hand_wiki - 0.5091732144355774
+
+Result for the vector: word, coming from part a of the book
+Rank: 3 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8627147078514099
+
+1) name_wiki - 0.9040100631707885
+
+2) time_wiki - 0.8650511503219604
+
+3) word_wiki - 0.8627147078514099
+
+4) man_wiki - 0.8482747583553066
+
+5) one_wiki - 0.8302642703056335
+
+6) life_wiki - 0.8293002349555367
+
+7) world_wiki - 0.8248315699348325
+
+8) lady_wiki - 0.814761603318501
+
+9) knight_wiki - 0.7716308832168579
+
+10) day_wiki - 0.7268431186676025
+
+11) master_wiki - 0.7111361450634102
+
+12) heart_wiki - 0.61753930501757
+
+13) way_wiki - 0.6063106656074524
+
+14) hand_wiki - 0.5499508380889893
+
+Result for the vector: life, coming from part a of the book
+Rank: 2 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8857017227589074
+
+1) name_wiki - 0.892746514514298
+
+2) life_wiki - 0.8857017227589074
+
+3) time_wiki - 0.8831980228424072
+
+4) man_wiki - 0.8756338283797416
+
+5) world_wiki - 0.86417194796121
+
+6) lady_wiki - 0.8313797960096541
+
+7) one_wiki - 0.827792763710022
+
+8) word_wiki - 0.8191748857498169
+
+9) knight_wiki - 0.7782177329063416
+
+10) master_wiki - 0.7764776215837982
+
+11) day_wiki - 0.7703331708908081
+
+12) way_wiki - 0.668868899345398
+
+13) heart_wiki - 0.6612026292444062
+
+14) hand_wiki - 0.5598376989364624
+
+Result for the vector: one, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9233956612168454
+
+1) one_wiki - 0.9233956612168454
+
+2) name_wiki - 0.8762892223510413
+
+3) man_wiki - 0.8715546910364653
+
+4) time_wiki - 0.8509915128645755
+
+5) word_wiki - 0.8351921092031038
+
+6) world_wiki - 0.8312145370968901
+
+7) lady_wiki - 0.8308828372289442
+
+8) life_wiki - 0.8064355013836803
+
+9) knight_wiki - 0.7813015216976861
+
+10) day_wiki - 0.7232253170974651
+
+11) master_wiki - 0.6764720091049682
+
+12) heart_wiki - 0.6202221882475727
+
+13) way_wiki - 0.6014794886553138
+
+14) hand_wiki - 0.5222154415314033
+
+Result for the vector: world, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9028569728987511
+
+1) world_wiki - 0.9028569728987511
+
+2) time_wiki - 0.8704040050506592
+
+3) name_wiki - 0.84799672079106
+
+4) day_wiki - 0.8346163034439087
+
+5) man_wiki - 0.8252560988221243
+
+6) lady_wiki - 0.8184779530310025
+
+7) life_wiki - 0.8031271217389645
+
+8) one_wiki - 0.7917724251747131
+
+9) word_wiki - 0.7728482484817505
+
+10) knight_wiki - 0.7649428844451904
+
+11) master_wiki - 0.7025691689592117
+
+12) heart_wiki - 0.6705447635216943
+
+13) way_wiki - 0.5884811282157898
+
+14) hand_wiki - 0.5425013899803162
+
+Result for the vector: heart, coming from part a of the book
+Rank: 13 out of 14 characters
+Cosine similarity to the co-referring vector: 0.6383375119667507
+
+1) name_wiki - 0.87475276739879
+
+2) life_wiki - 0.8366260029896511
+
+3) time_wiki - 0.8318142890930176
+
+4) man_wiki - 0.826125849850528
+
+5) lady_wiki - 0.8227653152574697
+
+6) world_wiki - 0.8031370879154534
+
+7) one_wiki - 0.7937327027320862
+
+8) word_wiki - 0.7876953482627869
+
+9) master_wiki - 0.7565833781113267
+
+10) knight_wiki - 0.7351679801940918
+
+11) day_wiki - 0.7160006761550903
+
+12) way_wiki - 0.6481418013572693
+
+13) heart_wiki - 0.6383375119667507
+
+14) hand_wiki - 0.5973364114761353
+
+Result for the vector: name, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.945707205193807
+
+1) name_wiki - 0.945707205193807
+
+2) word_wiki - 0.8756451606750488
+
+3) life_wiki - 0.8656075676913535
+
+4) man_wiki - 0.8611063278380843
+
+5) time_wiki - 0.8499799370765686
+
+6) world_wiki - 0.8485729351214453
+
+7) lady_wiki - 0.8440401805651245
+
+8) one_wiki - 0.8383603096008301
+
+9) knight_wiki - 0.792235255241394
+
+10) day_wiki - 0.769098162651062
+
+11) master_wiki - 0.7287664251784353
+
+12) heart_wiki - 0.6667510469779687
+
+13) way_wiki - 0.662341833114624
+
+14) hand_wiki - 0.5477904081344604
+

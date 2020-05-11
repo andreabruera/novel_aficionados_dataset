@@ -1,0 +1,9 @@
+Test: quality test
+Results for: The_Legend_of_Sleepy_Hollow_by_Washingto
+Model used: proper names matched
+
+Within-novel median: 1.5
+Within-novel average: 1.5
+Within-novel MRR: 0.75
+Within-novel standard deviation of the scores: 0.5
+Amount of entities considered: 3.0

@@ -1,0 +1,896 @@
+Result for the vector: hand, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9771063896544444
+
+1) hand_b - 0.9771063896544444
+
+2) face_b - 0.9111308402497094
+
+3) strength_b - 0.8834060361031331
+
+4) soul_b - 0.8695425909484993
+
+5) horse_b - 0.8545271667556281
+
+6) way_b - 0.8534119463107505
+
+7) one_b - 0.8465088697368716
+
+8) sleep_b - 0.845444381237036
+
+9) house_b - 0.8251001730620979
+
+10) room_b - 0.8017186522483882
+
+11) breakfast_b - 0.8002456903604098
+
+12) thought_b - 0.7755294308381947
+
+13) week_b - 0.7673825711651958
+
+14) station_b - 0.7476718871397918
+
+Result for the vector: room, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9656397720790062
+
+1) room_b - 0.9656397720790062
+
+2) house_b - 0.9531323909759521
+
+3) station_b - 0.8628310561180115
+
+4) way_b - 0.862010998965627
+
+5) horse_b - 0.8597196340560913
+
+6) sleep_b - 0.8499424546991331
+
+7) face_b - 0.8464614748954773
+
+8) soul_b - 0.8430367112159729
+
+9) one_b - 0.8218888852728801
+
+10) strength_b - 0.8152554631233215
+
+11) hand_b - 0.8121039159359896
+
+12) breakfast_b - 0.8006058931350708
+
+13) week_b - 0.7839319343546612
+
+14) thought_b - 0.755830705165863
+
+Result for the vector: way, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9805070746247374
+
+1) way_b - 0.9805070746247374
+
+2) soul_b - 0.9132645777902275
+
+3) sleep_b - 0.9103752481490078
+
+4) house_b - 0.899959510567219
+
+5) strength_b - 0.8972913684075271
+
+6) face_b - 0.8957441511306689
+
+7) one_b - 0.8801517104831276
+
+8) horse_b - 0.879752881541678
+
+9) room_b - 0.8685518659887473
+
+10) hand_b - 0.8623046278953613
+
+11) week_b - 0.8585501653388128
+
+12) breakfast_b - 0.8271380169905429
+
+13) thought_b - 0.820174287547215
+
+14) station_b - 0.8062340136626965
+
+Result for the vector: face, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9770539402961731
+
+1) face_b - 0.9770539402961731
+
+2) hand_b - 0.8963901338809824
+
+3) soul_b - 0.878112256526947
+
+4) strength_b - 0.8647815585136414
+
+5) way_b - 0.8618666364987716
+
+6) sleep_b - 0.8546843019316032
+
+7) house_b - 0.8485856652259827
+
+8) one_b - 0.8478822889468386
+
+9) horse_b - 0.8409882187843323
+
+10) room_b - 0.8286073906059643
+
+11) thought_b - 0.7885252237319946
+
+12) breakfast_b - 0.7776581048965454
+
+13) week_b - 0.7655740608446023
+
+14) station_b - 0.7613226175308228
+
+Result for the vector: house, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9782111657732048
+
+1) house_b - 0.9782111657732048
+
+2) room_b - 0.9465694491184414
+
+3) station_b - 0.9067276771826953
+
+4) horse_b - 0.8990649641117491
+
+5) soul_b - 0.8804548454013574
+
+6) way_b - 0.8757562563274199
+
+7) sleep_b - 0.8647476595940996
+
+8) face_b - 0.8621326171080713
+
+9) one_b - 0.8524371649437267
+
+10) strength_b - 0.8424916361277335
+
+11) hand_b - 0.8272207379341184
+
+12) breakfast_b - 0.8236035809753206
+
+13) week_b - 0.8117332216580775
+
+14) thought_b - 0.7787311805050875
+
+Result for the vector: one, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9776135723089762
+
+1) one_b - 0.9776135723089762
+
+2) soul_b - 0.8818572234000446
+
+3) sleep_b - 0.8786676670709053
+
+4) way_b - 0.8695915859694373
+
+5) horse_b - 0.8688135225287976
+
+6) house_b - 0.860598214829076
+
+7) face_b - 0.8546211210119071
+
+8) strength_b - 0.8536429492448018
+
+9) breakfast_b - 0.8423840497503265
+
+10) hand_b - 0.8371234536171019
+
+11) thought_b - 0.8197257626220144
+
+12) week_b - 0.8144834394906959
+
+13) room_b - 0.8054146998626351
+
+14) station_b - 0.7815119754366904
+
+Result for the vector: sleep, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9800784891820443
+
+1) sleep_b - 0.9800784891820443
+
+2) soul_b - 0.9085067185314516
+
+3) way_b - 0.8947580597934252
+
+4) one_b - 0.8946445380469179
+
+5) horse_b - 0.8894600537258407
+
+6) breakfast_b - 0.8875108625743054
+
+7) strength_b - 0.8844791318320974
+
+8) face_b - 0.8811754846923202
+
+9) house_b - 0.8807555103527166
+
+10) hand_b - 0.853050844644086
+
+11) room_b - 0.8523559912337102
+
+12) thought_b - 0.8515424982172999
+
+13) week_b - 0.8431671764354215
+
+14) station_b - 0.7996544480220813
+
+Result for the vector: soul, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9694632887840271
+
+1) soul_b - 0.9694632887840271
+
+2) face_b - 0.9151458740234375
+
+3) strength_b - 0.9120246171951294
+
+4) one_b - 0.9049215430114879
+
+5) sleep_b - 0.9022001086354207
+
+6) way_b - 0.8857865197404113
+
+7) house_b - 0.8796844482421875
+
+8) horse_b - 0.875797688961029
+
+9) hand_b - 0.8659122506327794
+
+10) week_b - 0.8418053043426668
+
+11) room_b - 0.8399162983944253
+
+12) thought_b - 0.8141772150993347
+
+13) breakfast_b - 0.8088172078132629
+
+14) station_b - 0.7732933759689331
+
+Result for the vector: thought, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9846165767083529
+
+1) thought_b - 0.9846165767083529
+
+2) sleep_b - 0.8695530891418519
+
+3) one_b - 0.8519167392303639
+
+4) soul_b - 0.8507562786791506
+
+5) strength_b - 0.8404722714705644
+
+6) way_b - 0.8399059486220998
+
+7) face_b - 0.8252648011007802
+
+8) horse_b - 0.8203658354500448
+
+9) house_b - 0.8080091958051455
+
+10) hand_b - 0.7949947470420298
+
+11) breakfast_b - 0.7910916084701796
+
+12) week_b - 0.7768699029269731
+
+13) room_b - 0.7647190093994195
+
+14) station_b - 0.7467058149996899
+
+Result for the vector: horse, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9541069892581129
+
+1) horse_b - 0.9541069892581129
+
+2) house_b - 0.8546496120304116
+
+3) one_b - 0.8497810632381937
+
+4) soul_b - 0.842517206518818
+
+5) face_b - 0.8356292941791255
+
+6) way_b - 0.8297340172370815
+
+7) sleep_b - 0.8149733763964919
+
+8) strength_b - 0.813021253763364
+
+9) hand_b - 0.8095963001251278
+
+10) station_b - 0.8043621299050984
+
+11) room_b - 0.8028837081332555
+
+12) breakfast_b - 0.7883830792675581
+
+13) week_b - 0.7796969777435996
+
+14) thought_b - 0.751124337248545
+
+Result for the vector: strength, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9617011547088623
+
+1) strength_b - 0.9617011547088623
+
+2) soul_b - 0.9159374833106995
+
+3) sleep_b - 0.8946864071675312
+
+4) way_b - 0.8899402487206819
+
+5) face_b - 0.8876444697380066
+
+6) hand_b - 0.8635930337663328
+
+7) one_b - 0.8494714677963952
+
+8) horse_b - 0.845163106918335
+
+9) house_b - 0.8243842124938965
+
+10) thought_b - 0.805899441242218
+
+11) breakfast_b - 0.8048557639122009
+
+12) week_b - 0.799043619604219
+
+13) room_b - 0.7923986439467299
+
+14) station_b - 0.7359304428100586
+
+Result for the vector: week, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9408588129026089
+
+1) week_b - 0.9408588129026089
+
+2) sleep_b - 0.8402708363210158
+
+3) way_b - 0.8251630559660957
+
+4) one_b - 0.8239499645322639
+
+5) soul_b - 0.8207607972168461
+
+6) breakfast_b - 0.8142873755522161
+
+7) horse_b - 0.8120818250130534
+
+8) house_b - 0.8076454515668495
+
+9) strength_b - 0.7805174719978899
+
+10) face_b - 0.7745330468098507
+
+11) hand_b - 0.7642347812652642
+
+12) room_b - 0.7535141404254269
+
+13) thought_b - 0.7419797931921619
+
+14) station_b - 0.7330144802919353
+
+Result for the vector: station, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9676797082328714
+
+1) station_b - 0.9676797082328714
+
+2) house_b - 0.899498131856267
+
+3) room_b - 0.8536105497595539
+
+4) horse_b - 0.8175977712153728
+
+5) way_b - 0.7943196288227513
+
+6) breakfast_b - 0.7788371079813575
+
+7) sleep_b - 0.7772910363289436
+
+8) one_b - 0.7710704710122608
+
+9) soul_b - 0.7654602159696885
+
+10) face_b - 0.7631390322190238
+
+11) hand_b - 0.7337099969723822
+
+12) strength_b - 0.7330550173835465
+
+13) week_b - 0.727991087912982
+
+14) thought_b - 0.7207610225904296
+
+Result for the vector: breakfast, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9287401437759399
+
+1) breakfast_b - 0.9287401437759399
+
+2) sleep_b - 0.9251161858370209
+
+3) horse_b - 0.8743167519569397
+
+4) house_b - 0.8696860074996948
+
+5) one_b - 0.8686969436768422
+
+6) soul_b - 0.866340696811676
+
+7) way_b - 0.8597343992870391
+
+8) room_b - 0.8483351559439224
+
+9) strength_b - 0.8451091051101685
+
+10) hand_b - 0.8437395598733177
+
+11) face_b - 0.8367019891738892
+
+12) station_b - 0.8115407228469849
+
+13) week_b - 0.8047175051187729
+
+14) thought_b - 0.7935282588005066
+
+Result for the vector: hand, coming from part b of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9771063896544444
+
+1) hand_a - 0.9771063896544444
+
+2) face_a - 0.8963901338809824
+
+3) soul_a - 0.8659122506327794
+
+4) strength_a - 0.8635930337663328
+
+5) way_a - 0.8623046278953613
+
+6) sleep_a - 0.853050844644086
+
+7) breakfast_a - 0.8437395598733177
+
+8) one_a - 0.8371234536171019
+
+9) house_a - 0.8272207379341184
+
+10) room_a - 0.8121039159359896
+
+11) horse_a - 0.8095963001251278
+
+12) thought_a - 0.7949947470420298
+
+13) week_a - 0.7642347812652642
+
+14) station_a - 0.7337099969723822
+
+Result for the vector: room, coming from part b of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9656397720790062
+
+1) room_a - 0.9656397720790062
+
+2) house_a - 0.9465694491184414
+
+3) way_a - 0.8685518659887473
+
+4) station_a - 0.8536105497595539
+
+5) sleep_a - 0.8523559912337102
+
+6) breakfast_a - 0.8483351559439224
+
+7) soul_a - 0.8399162983944253
+
+8) face_a - 0.8286073906059643
+
+9) one_a - 0.8054146998626351
+
+10) horse_a - 0.8028837081332555
+
+11) hand_a - 0.8017186522483882
+
+12) strength_a - 0.7923986439467299
+
+13) thought_a - 0.7647190093994195
+
+14) week_a - 0.7535141404254269
+
+Result for the vector: way, coming from part b of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9805070746247374
+
+1) way_a - 0.9805070746247374
+
+2) sleep_a - 0.8947580597934252
+
+3) strength_a - 0.8899402487206819
+
+4) soul_a - 0.8857865197404113
+
+5) house_a - 0.8757562563274199
+
+6) one_a - 0.8695915859694373
+
+7) room_a - 0.862010998965627
+
+8) face_a - 0.8618666364987716
+
+9) breakfast_a - 0.8597343992870391
+
+10) hand_a - 0.8534119463107505
+
+11) thought_a - 0.8399059486220998
+
+12) horse_a - 0.8297340172370815
+
+13) week_a - 0.8251630559660957
+
+14) station_a - 0.7943196288227513
+
+Result for the vector: face, coming from part b of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9770539402961731
+
+1) face_a - 0.9770539402961731
+
+2) soul_a - 0.9151458740234375
+
+3) hand_a - 0.9111308402497094
+
+4) way_a - 0.8957441511306689
+
+5) strength_a - 0.8876444697380066
+
+6) sleep_a - 0.8811754846923202
+
+7) house_a - 0.8621326171080713
+
+8) one_a - 0.8546211210119071
+
+9) room_a - 0.8464614748954773
+
+10) breakfast_a - 0.8367019891738892
+
+11) horse_a - 0.8356292941791255
+
+12) thought_a - 0.8252648011007802
+
+13) week_a - 0.7745330468098507
+
+14) station_a - 0.7631390322190238
+
+Result for the vector: house, coming from part b of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9782111657732048
+
+1) house_a - 0.9782111657732048
+
+2) room_a - 0.9531323909759521
+
+3) way_a - 0.899959510567219
+
+4) station_a - 0.899498131856267
+
+5) sleep_a - 0.8807555103527166
+
+6) soul_a - 0.8796844482421875
+
+7) breakfast_a - 0.8696860074996948
+
+8) one_a - 0.860598214829076
+
+9) horse_a - 0.8546496120304116
+
+10) face_a - 0.8485856652259827
+
+11) hand_a - 0.8251001730620979
+
+12) strength_a - 0.8243842124938965
+
+13) thought_a - 0.8080091958051455
+
+14) week_a - 0.8076454515668495
+
+Result for the vector: one, coming from part b of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9776135723089762
+
+1) one_a - 0.9776135723089762
+
+2) soul_a - 0.9049215430114879
+
+3) sleep_a - 0.8946445380469179
+
+4) way_a - 0.8801517104831276
+
+5) breakfast_a - 0.8686969436768422
+
+6) house_a - 0.8524371649437267
+
+7) thought_a - 0.8519167392303639
+
+8) horse_a - 0.8497810632381937
+
+9) strength_a - 0.8494714677963952
+
+10) face_a - 0.8478822889468386
+
+11) hand_a - 0.8465088697368716
+
+12) week_a - 0.8239499645322639
+
+13) room_a - 0.8218888852728801
+
+14) station_a - 0.7710704710122608
+
+Result for the vector: sleep, coming from part b of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9800784891820443
+
+1) sleep_a - 0.9800784891820443
+
+2) breakfast_a - 0.9251161858370209
+
+3) way_a - 0.9103752481490078
+
+4) soul_a - 0.9022001086354207
+
+5) strength_a - 0.8946864071675312
+
+6) one_a - 0.8786676670709053
+
+7) thought_a - 0.8695530891418519
+
+8) house_a - 0.8647476595940996
+
+9) face_a - 0.8546843019316032
+
+10) room_a - 0.8499424546991331
+
+11) hand_a - 0.845444381237036
+
+12) week_a - 0.8402708363210158
+
+13) horse_a - 0.8149733763964919
+
+14) station_a - 0.7772910363289436
+
+Result for the vector: soul, coming from part b of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9694632887840271
+
+1) soul_a - 0.9694632887840271
+
+2) strength_a - 0.9159374833106995
+
+3) way_a - 0.9132645777902275
+
+4) sleep_a - 0.9085067185314516
+
+5) one_a - 0.8818572234000446
+
+6) house_a - 0.8804548454013574
+
+7) face_a - 0.878112256526947
+
+8) hand_a - 0.8695425909484993
+
+9) breakfast_a - 0.866340696811676
+
+10) thought_a - 0.8507562786791506
+
+11) room_a - 0.8430367112159729
+
+12) horse_a - 0.842517206518818
+
+13) week_a - 0.8207607972168461
+
+14) station_a - 0.7654602159696885
+
+Result for the vector: thought, coming from part b of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9846165767083529
+
+1) thought_a - 0.9846165767083529
+
+2) sleep_a - 0.8515424982172999
+
+3) way_a - 0.820174287547215
+
+4) one_a - 0.8197257626220144
+
+5) soul_a - 0.8141772150993347
+
+6) strength_a - 0.805899441242218
+
+7) breakfast_a - 0.7935282588005066
+
+8) face_a - 0.7885252237319946
+
+9) house_a - 0.7787311805050875
+
+10) hand_a - 0.7755294308381947
+
+11) room_a - 0.755830705165863
+
+12) horse_a - 0.751124337248545
+
+13) week_a - 0.7419797931921619
+
+14) station_a - 0.7207610225904296
+
+Result for the vector: horse, coming from part b of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9541069892581129
+
+1) horse_a - 0.9541069892581129
+
+2) house_a - 0.8990649641117491
+
+3) sleep_a - 0.8894600537258407
+
+4) way_a - 0.879752881541678
+
+5) soul_a - 0.875797688961029
+
+6) breakfast_a - 0.8743167519569397
+
+7) one_a - 0.8688135225287976
+
+8) room_a - 0.8597196340560913
+
+9) hand_a - 0.8545271667556281
+
+10) strength_a - 0.845163106918335
+
+11) face_a - 0.8409882187843323
+
+12) thought_a - 0.8203658354500448
+
+13) station_a - 0.8175977712153728
+
+14) week_a - 0.8120818250130534
+
+Result for the vector: strength, coming from part b of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9617011547088623
+
+1) strength_a - 0.9617011547088623
+
+2) soul_a - 0.9120246171951294
+
+3) way_a - 0.8972913684075271
+
+4) sleep_a - 0.8844791318320974
+
+5) hand_a - 0.8834060361031331
+
+6) face_a - 0.8647815585136414
+
+7) one_a - 0.8536429492448018
+
+8) breakfast_a - 0.8451091051101685
+
+9) house_a - 0.8424916361277335
+
+10) thought_a - 0.8404722714705644
+
+11) room_a - 0.8152554631233215
+
+12) horse_a - 0.813021253763364
+
+13) week_a - 0.7805174719978899
+
+14) station_a - 0.7330550173835465
+
+Result for the vector: week, coming from part b of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9408588129026089
+
+1) week_a - 0.9408588129026089
+
+2) way_a - 0.8585501653388128
+
+3) sleep_a - 0.8431671764354215
+
+4) soul_a - 0.8418053043426668
+
+5) one_a - 0.8144834394906959
+
+6) house_a - 0.8117332216580775
+
+7) breakfast_a - 0.8047175051187729
+
+8) strength_a - 0.799043619604219
+
+9) room_a - 0.7839319343546612
+
+10) horse_a - 0.7796969777435996
+
+11) thought_a - 0.7768699029269731
+
+12) hand_a - 0.7673825711651958
+
+13) face_a - 0.7655740608446023
+
+14) station_a - 0.727991087912982
+
+Result for the vector: station, coming from part b of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9676797082328714
+
+1) station_a - 0.9676797082328714
+
+2) house_a - 0.9067276771826953
+
+3) room_a - 0.8628310561180115
+
+4) breakfast_a - 0.8115407228469849
+
+5) way_a - 0.8062340136626965
+
+6) horse_a - 0.8043621299050984
+
+7) sleep_a - 0.7996544480220813
+
+8) one_a - 0.7815119754366904
+
+9) soul_a - 0.7732933759689331
+
+10) face_a - 0.7613226175308228
+
+11) hand_a - 0.7476718871397918
+
+12) thought_a - 0.7467058149996899
+
+13) strength_a - 0.7359304428100586
+
+14) week_a - 0.7330144802919353
+
+Result for the vector: breakfast, coming from part b of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9287401437759399
+
+1) breakfast_a - 0.9287401437759399
+
+2) sleep_a - 0.8875108625743054
+
+3) one_a - 0.8423840497503265
+
+4) way_a - 0.8271380169905429
+
+5) house_a - 0.8236035809753206
+
+6) week_a - 0.8142873755522161
+
+7) soul_a - 0.8088172078132629
+
+8) strength_a - 0.8048557639122009
+
+9) room_a - 0.8006058931350708
+
+10) hand_a - 0.8002456903604098
+
+11) thought_a - 0.7910916084701796
+
+12) horse_a - 0.7883830792675581
+
+13) station_a - 0.7788371079813575
+
+14) face_a - 0.7776581048965454
+

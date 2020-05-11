@@ -1,0 +1,7392 @@
+Result for the vector: marius_haggard, coming from part i of the book
+Rank: 2 out of 42 characters
+Cosine similarity to the co-referring vector: 0.9201767349453914
+
+1) m_leblanc_a - 0.9283052172297046
+
+2) marius_haggard_a - 0.9201767349453914
+
+3) bossuet_a - 0.9198300242424011
+
+4) jean_valjean_a - 0.9195128131203183
+
+5) joly_a - 0.9185349345207214
+
+6) m_gillenormand_a - 0.9182483134043785
+
+7) father_fauchelevent_a - 0.9141962034468474
+
+8) monsieur_de_courfeyrac_a - 0.9140893220901489
+
+9) m_mabeuf_a - 0.906369686126709
+
+10) m_madeleine_a - 0.9058506488800049
+
+11) enjolras_a - 0.9032606540166958
+
+12) madame_magloire_a - 0.8983348608016968
+
+13) combeferre_a - 0.893982642530362
+
+14) napoleon_a - 0.8935655951499939
+
+15) monsieur_javert_a - 0.8922709822654724
+
+16) azelma_a - 0.8878658082445211
+
+17) father_champmathieu_a - 0.887017839373223
+
+18) feuilly_a - 0.8793353890580465
+
+19) grantaire_a - 0.8776766919397326
+
+20) bahorel_a - 0.8743273280360502
+
+21) marguerite_a - 0.8723639173724618
+
+22) little_gervais_a - 0.8721055388450623
+
+23) georges_pontmercy_a - 0.8703526103916958
+
+24) laigle_de_meaux_a - 0.8672482967376709
+
+25) monsieur_gavroche_a - 0.864223071085033
+
+26) magnon_a - 0.8594394409990659
+
+27) mademoiselle_cosette_a - 0.8568083729262145
+
+28) mother_jondrette_a - 0.8500913977622986
+
+29) bernard_guidonis_a - 0.8422405311774634
+
+30) toussaint_a - 0.8369435169134443
+
+31) jean_prouvaire_a - 0.8298670053482056
+
+32) mother_catherine_de_bar_a - 0.8171063661575317
+
+33) bishop_a - 0.8052572724069805
+
+34) mademoiselle_euphrasie_a - 0.7931621547438013
+
+35) court_of_assizes_a - 0.789692486561246
+
+36) gorbeau_a - 0.7806259989738464
+
+37) national_guard_a - 0.7587042080969876
+
+38) monsieur_babet_a - 0.7464375940822134
+
+39) alexander_a - 0.7407443523406982
+
+40) claquesous_a - 0.7366599064069962
+
+41) le_cabuc_a - 0.6994551837119583
+
+42) bougon_a - 0.6727530365663529
+
+Result for the vector: jean_valjean, coming from part i of the book
+Rank: 1 out of 42 characters
+Cosine similarity to the co-referring vector: 0.9413110333290425
+
+1) jean_valjean_a - 0.9413110333290425
+
+2) m_gillenormand_a - 0.9385731706452145
+
+3) bossuet_a - 0.9381588380980149
+
+4) marius_haggard_a - 0.9365000928193506
+
+5) joly_a - 0.934176472847953
+
+6) monsieur_de_courfeyrac_a - 0.9321306029597108
+
+7) m_leblanc_a - 0.9312801720547625
+
+8) father_fauchelevent_a - 0.9311626913104138
+
+9) m_mabeuf_a - 0.9281894245204162
+
+10) enjolras_a - 0.9280907235118568
+
+11) m_madeleine_a - 0.9260959305195792
+
+12) madame_magloire_a - 0.9195972359060421
+
+13) father_champmathieu_a - 0.9189460503112723
+
+14) monsieur_javert_a - 0.918085900488076
+
+15) combeferre_a - 0.9167524203734778
+
+16) napoleon_a - 0.9135667953958156
+
+17) grantaire_a - 0.9096782153653035
+
+18) bahorel_a - 0.9078757111952133
+
+19) little_gervais_a - 0.9065642627049767
+
+20) feuilly_a - 0.9015819581720207
+
+21) georges_pontmercy_a - 0.9013465197900749
+
+22) azelma_a - 0.8964963493643016
+
+23) laigle_de_meaux_a - 0.8964777856015503
+
+24) marguerite_a - 0.8961205091584188
+
+25) monsieur_gavroche_a - 0.8945215077840868
+
+26) mademoiselle_cosette_a - 0.8883473608390319
+
+27) mother_jondrette_a - 0.8876692321201934
+
+28) magnon_a - 0.8870727751531405
+
+29) bernard_guidonis_a - 0.8643547715823653
+
+30) jean_prouvaire_a - 0.8559398906213016
+
+31) mother_catherine_de_bar_a - 0.8546440856052666
+
+32) bishop_a - 0.8384014118194193
+
+33) toussaint_a - 0.8354441870616652
+
+34) mademoiselle_euphrasie_a - 0.8290200974661203
+
+35) court_of_assizes_a - 0.8213382821078735
+
+36) gorbeau_a - 0.8158571367221221
+
+37) national_guard_a - 0.796077894930714
+
+38) alexander_a - 0.7748197548037697
+
+39) monsieur_babet_a - 0.7726412510253121
+
+40) claquesous_a - 0.7631047226849033
+
+41) le_cabuc_a - 0.7321531235116536
+
+42) bougon_a - 0.7017651440817302
+
+Result for the vector: monsieur_gavroche, coming from part i of the book
+Rank: 7 out of 42 characters
+Cosine similarity to the co-referring vector: 0.9112560258798569
+
+1) joly_a - 0.9284568471636284
+
+2) bossuet_a - 0.9266853972264903
+
+3) jean_valjean_a - 0.919248292535747
+
+4) m_gillenormand_a - 0.9186297880378376
+
+5) bahorel_a - 0.9154818977271981
+
+6) marius_haggard_a - 0.911430532421516
+
+7) monsieur_gavroche_a - 0.9112560258798569
+
+8) enjolras_a - 0.9098245609015749
+
+9) m_mabeuf_a - 0.9096930676881647
+
+10) father_fauchelevent_a - 0.9094069762098251
+
+11) monsieur_de_courfeyrac_a - 0.9091517383365804
+
+12) mademoiselle_cosette_a - 0.9057871215597246
+
+13) m_madeleine_a - 0.9041995463252354
+
+14) little_gervais_a - 0.9010918795411674
+
+15) monsieur_javert_a - 0.9001355826773908
+
+16) m_leblanc_a - 0.8994987786712462
+
+17) grantaire_a - 0.8949153156603814
+
+18) georges_pontmercy_a - 0.8949087199514485
+
+19) madame_magloire_a - 0.8937293950480599
+
+20) father_champmathieu_a - 0.8932674527168337
+
+21) combeferre_a - 0.8920972347259585
+
+22) marguerite_a - 0.8918029069900576
+
+23) feuilly_a - 0.8892413311744672
+
+24) napoleon_a - 0.8876141376725369
+
+25) laigle_de_meaux_a - 0.8875492282182454
+
+26) azelma_a - 0.8830727075614754
+
+27) mother_jondrette_a - 0.8823900292879341
+
+28) jean_prouvaire_a - 0.8813339542547507
+
+29) bernard_guidonis_a - 0.8733124959506117
+
+30) magnon_a - 0.8724103126036749
+
+31) mother_catherine_de_bar_a - 0.8521431176577156
+
+32) mademoiselle_euphrasie_a - 0.8442965745925963
+
+33) toussaint_a - 0.8411028574582509
+
+34) bishop_a - 0.8283955063348405
+
+35) monsieur_babet_a - 0.8121651411056576
+
+36) court_of_assizes_a - 0.8065713393858674
+
+37) gorbeau_a - 0.8040861604162374
+
+38) national_guard_a - 0.7943895818475045
+
+39) claquesous_a - 0.788498556956695
+
+40) alexander_a - 0.7852876910395821
+
+41) le_cabuc_a - 0.7195229530334524
+
+42) bougon_a - 0.7061985941588538
+
+Result for the vector: mademoiselle_cosette, coming from part i of the book
+Rank: 8 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8905855482467698
+
+1) magnon_a - 0.9035973606349627
+
+2) monsieur_de_courfeyrac_a - 0.8948187232017517
+
+3) madame_magloire_a - 0.8938864469528198
+
+4) enjolras_a - 0.8927803103458712
+
+5) m_leblanc_a - 0.891936672695086
+
+6) m_mabeuf_a - 0.8914639353752136
+
+7) azelma_a - 0.8907590773927895
+
+8) mademoiselle_cosette_a - 0.8905855482467698
+
+9) little_gervais_a - 0.8902043700218201
+
+10) marguerite_a - 0.8893504672855433
+
+11) m_gillenormand_a - 0.887709511475202
+
+12) jean_valjean_a - 0.8863691159266777
+
+13) bossuet_a - 0.8836730122566223
+
+14) father_fauchelevent_a - 0.8834507604300132
+
+15) father_champmathieu_a - 0.8797933387633183
+
+16) marius_haggard_a - 0.8767644616084711
+
+17) joly_a - 0.8724884390830994
+
+18) m_madeleine_a - 0.870008111000061
+
+19) bahorel_a - 0.869976010023833
+
+20) monsieur_javert_a - 0.8681204319000244
+
+21) napoleon_a - 0.8645872473716736
+
+22) monsieur_gavroche_a - 0.8593382323182698
+
+23) grantaire_a - 0.8591650384415701
+
+24) combeferre_a - 0.8586273109094701
+
+25) feuilly_a - 0.8575918504705312
+
+26) laigle_de_meaux_a - 0.8567751049995422
+
+27) mother_catherine_de_bar_a - 0.8540507555007935
+
+28) georges_pontmercy_a - 0.8459856922609499
+
+29) mother_jondrette_a - 0.8447614908218384
+
+30) mademoiselle_euphrasie_a - 0.8348203202975002
+
+31) jean_prouvaire_a - 0.8259525299072266
+
+32) bernard_guidonis_a - 0.8254929988988697
+
+33) toussaint_a - 0.8191625583671013
+
+34) bishop_a - 0.8000121831886673
+
+35) court_of_assizes_a - 0.7988400699090931
+
+36) gorbeau_a - 0.7974421381950378
+
+37) national_guard_a - 0.7702622047144835
+
+38) alexander_a - 0.7468244433403015
+
+39) monsieur_babet_a - 0.7459622470117968
+
+40) claquesous_a - 0.7438019735754128
+
+41) le_cabuc_a - 0.7026414693976337
+
+42) bougon_a - 0.6861436384448709
+
+Result for the vector: enjolras, coming from part i of the book
+Rank: 3 out of 42 characters
+Cosine similarity to the co-referring vector: 0.904912287289651
+
+1) joly_a - 0.9073589333723768
+
+2) bossuet_a - 0.9058969504710441
+
+3) enjolras_a - 0.904912287289651
+
+4) jean_valjean_a - 0.904319697875973
+
+5) monsieur_de_courfeyrac_a - 0.9009081007132714
+
+6) m_mabeuf_a - 0.8980027315619927
+
+7) marius_haggard_a - 0.8977015370611041
+
+8) napoleon_a - 0.8970476266202545
+
+9) monsieur_javert_a - 0.8967726703611283
+
+10) m_gillenormand_a - 0.8967470547772499
+
+11) little_gervais_a - 0.8963143105881648
+
+12) m_leblanc_a - 0.8940570354461924
+
+13) m_madeleine_a - 0.8925160637517114
+
+14) father_fauchelevent_a - 0.8891849517822519
+
+15) georges_pontmercy_a - 0.8859748568474906
+
+16) combeferre_a - 0.8853047881075377
+
+17) bahorel_a - 0.8841070658128097
+
+18) madame_magloire_a - 0.8835314373411525
+
+19) azelma_a - 0.8771663423130461
+
+20) father_champmathieu_a - 0.872787452838563
+
+21) grantaire_a - 0.8702997670024321
+
+22) marguerite_a - 0.8695094948129958
+
+23) laigle_de_meaux_a - 0.8690325461664913
+
+24) mother_jondrette_a - 0.8569005557180175
+
+25) feuilly_a - 0.8495210050394547
+
+26) magnon_a - 0.848657777825475
+
+27) monsieur_gavroche_a - 0.8448580410992067
+
+28) mademoiselle_cosette_a - 0.8305350441059629
+
+29) bernard_guidonis_a - 0.8288101553917167
+
+30) jean_prouvaire_a - 0.8272148164766867
+
+31) mademoiselle_euphrasie_a - 0.810905839962813
+
+32) mother_catherine_de_bar_a - 0.8103903305995916
+
+33) toussaint_a - 0.8007730722888283
+
+34) alexander_a - 0.7971457597191104
+
+35) bishop_a - 0.7914682502429761
+
+36) court_of_assizes_a - 0.7913568019867169
+
+37) national_guard_a - 0.7802021473947418
+
+38) gorbeau_a - 0.7795111870183031
+
+39) claquesous_a - 0.7131063212612778
+
+40) monsieur_babet_a - 0.70582652792213
+
+41) le_cabuc_a - 0.682728531848527
+
+42) bougon_a - 0.6674735746477554
+
+Result for the vector: m_madeleine, coming from part i of the book
+Rank: 11 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8809221457885432
+
+1) jean_prouvaire_a - 0.9169774104966293
+
+2) bossuet_a - 0.8952444258186579
+
+3) m_gillenormand_a - 0.8937094414570623
+
+4) monsieur_gavroche_a - 0.8864745036990042
+
+5) m_mabeuf_a - 0.8860445686552202
+
+6) monsieur_javert_a - 0.8852912255948067
+
+7) bahorel_a - 0.8852471445427231
+
+8) laigle_de_meaux_a - 0.8816630314789411
+
+9) monsieur_de_courfeyrac_a - 0.881213850902687
+
+10) feuilly_a - 0.88109462744563
+
+11) m_madeleine_a - 0.8809221457885432
+
+12) georges_pontmercy_a - 0.8804092931991535
+
+13) father_fauchelevent_a - 0.8801040863804679
+
+14) grantaire_a - 0.8794011211573779
+
+15) mademoiselle_cosette_a - 0.8778731372507647
+
+16) combeferre_a - 0.8773670196533265
+
+17) marius_haggard_a - 0.8768005297661283
+
+18) father_champmathieu_a - 0.8760696053505006
+
+19) enjolras_a - 0.8748285919632206
+
+20) joly_a - 0.8737208322453018
+
+21) jean_valjean_a - 0.8730506452261633
+
+22) madame_magloire_a - 0.8666691859561706
+
+23) little_gervais_a - 0.8615475379498295
+
+24) mother_jondrette_a - 0.8567659344216639
+
+25) m_leblanc_a - 0.85291364438886
+
+26) mother_catherine_de_bar_a - 0.8450095745915444
+
+27) napoleon_a - 0.8442922327344294
+
+28) marguerite_a - 0.8340327143669187
+
+29) claquesous_a - 0.8239938967229787
+
+30) magnon_a - 0.8225906106721627
+
+31) bishop_a - 0.8221895310652815
+
+32) bernard_guidonis_a - 0.8182514634874841
+
+33) azelma_a - 0.8102512714191925
+
+34) court_of_assizes_a - 0.8076216922482817
+
+35) gorbeau_a - 0.8014434694383474
+
+36) mademoiselle_euphrasie_a - 0.7942864894867
+
+37) national_guard_a - 0.77683523962393
+
+38) monsieur_babet_a - 0.7558642625808769
+
+39) toussaint_a - 0.741597385216071
+
+40) alexander_a - 0.721191005635799
+
+41) le_cabuc_a - 0.7209558486938528
+
+42) bougon_a - 0.7177590345668585
+
+Result for the vector: m_gillenormand, coming from part i of the book
+Rank: 1 out of 42 characters
+Cosine similarity to the co-referring vector: 0.913352153898988
+
+1) m_gillenormand_a - 0.913352153898988
+
+2) bossuet_a - 0.912480419130302
+
+3) m_mabeuf_a - 0.9092143232098642
+
+4) jean_valjean_a - 0.9076359382109715
+
+5) joly_a - 0.906778996778788
+
+6) monsieur_de_courfeyrac_a - 0.9051144775680035
+
+7) enjolras_a - 0.9040136451704925
+
+8) little_gervais_a - 0.9005280196352009
+
+9) m_leblanc_a - 0.8989103617232407
+
+10) marius_haggard_a - 0.8951179322670801
+
+11) m_madeleine_a - 0.8950306239705922
+
+12) monsieur_javert_a - 0.894691175538829
+
+13) father_fauchelevent_a - 0.8910482124600047
+
+14) georges_pontmercy_a - 0.8905462557403144
+
+15) bahorel_a - 0.8894002172529668
+
+16) madame_magloire_a - 0.8887001938402553
+
+17) napoleon_a - 0.8882649607500473
+
+18) combeferre_a - 0.8838346004486147
+
+19) feuilly_a - 0.8801439333047968
+
+20) magnon_a - 0.8768562225274774
+
+21) father_champmathieu_a - 0.8766787052154603
+
+22) marguerite_a - 0.8760624527931276
+
+23) mother_jondrette_a - 0.8736844138095148
+
+24) mademoiselle_cosette_a - 0.8734691293872441
+
+25) laigle_de_meaux_a - 0.8722142653337575
+
+26) grantaire_a - 0.8707717397579067
+
+27) jean_prouvaire_a - 0.8692811805438307
+
+28) azelma_a - 0.8670155743653936
+
+29) monsieur_gavroche_a - 0.8664130131705984
+
+30) bernard_guidonis_a - 0.8587698592955141
+
+31) mother_catherine_de_bar_a - 0.8397053575691382
+
+32) mademoiselle_euphrasie_a - 0.8384230136871398
+
+33) bishop_a - 0.8228088828553101
+
+34) court_of_assizes_a - 0.8151105972926755
+
+35) toussaint_a - 0.807894729626807
+
+36) gorbeau_a - 0.8066143508783384
+
+37) alexander_a - 0.7930815343212181
+
+38) national_guard_a - 0.7821342115958301
+
+39) claquesous_a - 0.7603967559219403
+
+40) monsieur_babet_a - 0.731660842895513
+
+41) le_cabuc_a - 0.6933004856109668
+
+42) bougon_a - 0.6872893180635444
+
+Result for the vector: monsieur_de_courfeyrac, coming from part i of the book
+Rank: 17 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7128839150528857
+
+1) grantaire_a - 0.7370898033812379
+
+2) bahorel_a - 0.7307824985358891
+
+3) m_gillenormand_a - 0.7284338639946218
+
+4) father_champmathieu_a - 0.7281379213579765
+
+5) feuilly_a - 0.7262593451164592
+
+6) monsieur_gavroche_a - 0.7251875832788812
+
+7) jean_valjean_a - 0.7247552111599092
+
+8) marius_haggard_a - 0.7234789069840686
+
+9) laigle_de_meaux_a - 0.7234339384357907
+
+10) enjolras_a - 0.7226092650061523
+
+11) madame_magloire_a - 0.7202499771416211
+
+12) combeferre_a - 0.719651946959249
+
+13) m_mabeuf_a - 0.719462838108883
+
+14) monsieur_javert_a - 0.718698170029904
+
+15) bossuet_a - 0.7186927460065828
+
+16) father_fauchelevent_a - 0.7182955741882528
+
+17) monsieur_de_courfeyrac_a - 0.7128839150528857
+
+18) m_madeleine_a - 0.7123920574655652
+
+19) georges_pontmercy_a - 0.7102351689899371
+
+20) mademoiselle_cosette_a - 0.7076687042515811
+
+21) mother_catherine_de_bar_a - 0.7064162142772981
+
+22) mother_jondrette_a - 0.7025780919287364
+
+23) little_gervais_a - 0.7003103137386268
+
+24) m_leblanc_a - 0.6990320086479386
+
+25) joly_a - 0.6937375895664252
+
+26) jean_prouvaire_a - 0.6902407038498813
+
+27) napoleon_a - 0.6886177287838184
+
+28) bishop_a - 0.6805403638208238
+
+29) marguerite_a - 0.6758168952137652
+
+30) magnon_a - 0.6704987091123396
+
+31) mademoiselle_euphrasie_a - 0.6631767147499421
+
+32) court_of_assizes_a - 0.6602268218994328
+
+33) gorbeau_a - 0.6489432631663444
+
+34) bernard_guidonis_a - 0.6452562808990662
+
+35) azelma_a - 0.6406256915071172
+
+36) national_guard_a - 0.628396843134889
+
+37) le_cabuc_a - 0.5839213580944593
+
+38) toussaint_a - 0.5748640641489159
+
+39) alexander_a - 0.5734992710947162
+
+40) claquesous_a - 0.5569911833094355
+
+41) monsieur_babet_a - 0.5465707564182452
+
+42) bougon_a - 0.5362077877954996
+
+Result for the vector: napoleon, coming from part i of the book
+Rank: 1 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8712733311220024
+
+1) napoleon_a - 0.8712733311220024
+
+2) jean_valjean_a - 0.8450222015380919
+
+3) m_gillenormand_a - 0.8441819521568351
+
+4) bossuet_a - 0.8420567418370704
+
+5) enjolras_a - 0.8419684171676696
+
+6) marius_haggard_a - 0.8402037930853011
+
+7) monsieur_de_courfeyrac_a - 0.8393883013360695
+
+8) m_mabeuf_a - 0.838245918646213
+
+9) father_champmathieu_a - 0.8382352397722291
+
+10) combeferre_a - 0.8366831346372526
+
+11) m_madeleine_a - 0.8348143598326674
+
+12) father_fauchelevent_a - 0.8335022429524649
+
+13) m_leblanc_a - 0.8229927526120823
+
+14) monsieur_javert_a - 0.8205546629759483
+
+15) madame_magloire_a - 0.8185022961200666
+
+16) georges_pontmercy_a - 0.8169114858349849
+
+17) grantaire_a - 0.8151860965954751
+
+18) joly_a - 0.8142263778583051
+
+19) little_gervais_a - 0.8131701834899311
+
+20) mademoiselle_cosette_a - 0.8100912570953427
+
+21) monsieur_gavroche_a - 0.8083494305610714
+
+22) feuilly_a - 0.8059968601459625
+
+23) laigle_de_meaux_a - 0.798006164908778
+
+24) mother_jondrette_a - 0.796383905195232
+
+25) magnon_a - 0.7933455109596309
+
+26) bishop_a - 0.7923359870910701
+
+27) bahorel_a - 0.7919582836590666
+
+28) court_of_assizes_a - 0.7835599313044714
+
+29) national_guard_a - 0.777454147707297
+
+30) jean_prouvaire_a - 0.7757133111782869
+
+31) mother_catherine_de_bar_a - 0.7751460537401483
+
+32) bernard_guidonis_a - 0.7741364971318072
+
+33) azelma_a - 0.7726701592806128
+
+34) marguerite_a - 0.7694402062225587
+
+35) gorbeau_a - 0.7490345090052206
+
+36) mademoiselle_euphrasie_a - 0.7449385815785624
+
+37) toussaint_a - 0.7358443737030081
+
+38) alexander_a - 0.7312808472681563
+
+39) claquesous_a - 0.6917834304377527
+
+40) monsieur_babet_a - 0.6800213074709544
+
+41) le_cabuc_a - 0.6440873913869132
+
+42) bougon_a - 0.6236313318656882
+
+Result for the vector: mother_jondrette, coming from part i of the book
+Rank: 17 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8307743072509766
+
+1) magnon_a - 0.856274494154783
+
+2) jean_valjean_a - 0.8504170864571893
+
+3) m_gillenormand_a - 0.8503837064480438
+
+4) joly_a - 0.8485216498374939
+
+5) m_mabeuf_a - 0.8474586606025696
+
+6) bossuet_a - 0.8466155529022217
+
+7) father_champmathieu_a - 0.846362998864831
+
+8) monsieur_de_courfeyrac_a - 0.8444600105285645
+
+9) enjolras_a - 0.8416989540041131
+
+10) gorbeau_a - 0.8385162353515625
+
+11) marius_haggard_a - 0.8381343290966009
+
+12) father_fauchelevent_a - 0.8370374635413392
+
+13) mademoiselle_cosette_a - 0.8342031935332317
+
+14) m_madeleine_a - 0.8336130380630493
+
+15) azelma_a - 0.8335337887267411
+
+16) m_leblanc_a - 0.8327588042308385
+
+17) mother_jondrette_a - 0.8307743072509766
+
+18) combeferre_a - 0.8285944359656847
+
+19) bahorel_a - 0.8270257361836955
+
+20) mother_catherine_de_bar_a - 0.8269317150115967
+
+21) monsieur_gavroche_a - 0.8263975485326336
+
+22) little_gervais_a - 0.8243186473846436
+
+23) feuilly_a - 0.824142435090838
+
+24) madame_magloire_a - 0.8234254121780396
+
+25) marguerite_a - 0.8217506898493
+
+26) monsieur_javert_a - 0.8199275732040405
+
+27) napoleon_a - 0.8196185827255249
+
+28) grantaire_a - 0.8170033340753122
+
+29) georges_pontmercy_a - 0.8162747998565255
+
+30) laigle_de_meaux_a - 0.808904767036438
+
+31) bishop_a - 0.8075751180902068
+
+32) mademoiselle_euphrasie_a - 0.8015924573893833
+
+33) toussaint_a - 0.7995345115939088
+
+34) court_of_assizes_a - 0.796295071089861
+
+35) jean_prouvaire_a - 0.7911928296089172
+
+36) bernard_guidonis_a - 0.7867990390301952
+
+37) national_guard_a - 0.7585834490830737
+
+38) claquesous_a - 0.7467619999278191
+
+39) monsieur_babet_a - 0.7460517135889373
+
+40) le_cabuc_a - 0.6974068103675145
+
+41) alexander_a - 0.6909563541412354
+
+42) bougon_a - 0.6612789626072936
+
+Result for the vector: monsieur_javert, coming from part i of the book
+Rank: 17 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8652957935719432
+
+1) bossuet_a - 0.8991164236997496
+
+2) m_leblanc_a - 0.8989356548545769
+
+3) monsieur_de_courfeyrac_a - 0.8963256149389037
+
+4) joly_a - 0.8959441452009725
+
+5) jean_valjean_a - 0.8944394917953201
+
+6) m_gillenormand_a - 0.8926361011212116
+
+7) father_fauchelevent_a - 0.891541878145179
+
+8) marius_haggard_a - 0.8878377806898661
+
+9) m_mabeuf_a - 0.8877719309262021
+
+10) enjolras_a - 0.8807978963614173
+
+11) m_madeleine_a - 0.8800109291079922
+
+12) napoleon_a - 0.877464559002655
+
+13) madame_magloire_a - 0.875318672517499
+
+14) combeferre_a - 0.8749845214174263
+
+15) father_champmathieu_a - 0.8706701580289151
+
+16) azelma_a - 0.8661929289217549
+
+17) monsieur_javert_a - 0.8652957935719432
+
+18) feuilly_a - 0.8526066620061822
+
+19) magnon_a - 0.8524559482200196
+
+20) little_gervais_a - 0.8502832904542477
+
+21) grantaire_a - 0.8472338227769031
+
+22) marguerite_a - 0.8449555198808483
+
+23) georges_pontmercy_a - 0.844284004611377
+
+24) laigle_de_meaux_a - 0.839751268617847
+
+25) bahorel_a - 0.839616110301978
+
+26) monsieur_gavroche_a - 0.8378244388751886
+
+27) mother_jondrette_a - 0.8323515901670338
+
+28) mademoiselle_cosette_a - 0.8286366811801025
+
+29) toussaint_a - 0.8220274203411546
+
+30) bernard_guidonis_a - 0.8214511732949848
+
+31) jean_prouvaire_a - 0.8050191642349713
+
+32) mother_catherine_de_bar_a - 0.7949320910850795
+
+33) bishop_a - 0.7874386075902432
+
+34) court_of_assizes_a - 0.7756789825249714
+
+35) mademoiselle_euphrasie_a - 0.7750654317497107
+
+36) gorbeau_a - 0.7614341009090576
+
+37) national_guard_a - 0.749485716193063
+
+38) monsieur_babet_a - 0.7310016808809356
+
+39) claquesous_a - 0.727967126844354
+
+40) alexander_a - 0.7235570765601721
+
+41) le_cabuc_a - 0.6921548866172037
+
+42) bougon_a - 0.6591789912198783
+
+Result for the vector: father_fauchelevent, coming from part i of the book
+Rank: 4 out of 42 characters
+Cosine similarity to the co-referring vector: 0.9030876813478804
+
+1) bossuet_a - 0.9129700608831697
+
+2) jean_valjean_a - 0.9095436930656497
+
+3) m_gillenormand_a - 0.9071858629674066
+
+4) father_fauchelevent_a - 0.9030876813478804
+
+5) m_mabeuf_a - 0.9013646186211494
+
+6) joly_a - 0.9008992255270035
+
+7) monsieur_de_courfeyrac_a - 0.8987518488616869
+
+8) enjolras_a - 0.8982210159301821
+
+9) marius_haggard_a - 0.896846752794998
+
+10) madame_magloire_a - 0.8949477609960906
+
+11) father_champmathieu_a - 0.8948193663143357
+
+12) m_madeleine_a - 0.8936586912666987
+
+13) m_leblanc_a - 0.8903069561537077
+
+14) feuilly_a - 0.8901740712238694
+
+15) monsieur_gavroche_a - 0.8897113204002444
+
+16) grantaire_a - 0.8864776092598688
+
+17) combeferre_a - 0.8849100929391495
+
+18) monsieur_javert_a - 0.8845852544656563
+
+19) mademoiselle_cosette_a - 0.8834617137908999
+
+20) bahorel_a - 0.8821204497325826
+
+21) marguerite_a - 0.8747527450028354
+
+22) magnon_a - 0.8727471232414308
+
+23) little_gervais_a - 0.8724892659478958
+
+24) napoleon_a - 0.8696977418480973
+
+25) laigle_de_meaux_a - 0.8677915851945646
+
+26) georges_pontmercy_a - 0.8587586031124493
+
+27) mother_jondrette_a - 0.855861834040991
+
+28) azelma_a - 0.8554275800670014
+
+29) mother_catherine_de_bar_a - 0.8485345154127205
+
+30) bernard_guidonis_a - 0.8455386253870488
+
+31) jean_prouvaire_a - 0.8420083428626279
+
+32) bishop_a - 0.8266373872757017
+
+33) mademoiselle_euphrasie_a - 0.8253804833150487
+
+34) toussaint_a - 0.7997964620590267
+
+35) court_of_assizes_a - 0.7934366587736341
+
+36) gorbeau_a - 0.7845322957356167
+
+37) national_guard_a - 0.7650764076480041
+
+38) monsieur_babet_a - 0.7638880925045124
+
+39) claquesous_a - 0.7479910327188107
+
+40) alexander_a - 0.7302806812692108
+
+41) le_cabuc_a - 0.72512414754917
+
+42) bougon_a - 0.6816798272251828
+
+Result for the vector: m_leblanc, coming from part i of the book
+Rank: 18 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7927182214931914
+
+1) joly_a - 0.8277114239083082
+
+2) bossuet_a - 0.8200867390529286
+
+3) claquesous_a - 0.8191893560419153
+
+4) magnon_a - 0.8155262204063751
+
+5) feuilly_a - 0.813321888446831
+
+6) monsieur_gavroche_a - 0.812547240397829
+
+7) mademoiselle_cosette_a - 0.8113294581181795
+
+8) jean_prouvaire_a - 0.8073271146622817
+
+9) m_gillenormand_a - 0.8062623979527763
+
+10) m_mabeuf_a - 0.8056550257617262
+
+11) jean_valjean_a - 0.8051749220177685
+
+12) monsieur_de_courfeyrac_a - 0.8008983372571123
+
+13) azelma_a - 0.8004737376743283
+
+14) father_fauchelevent_a - 0.7988133910147212
+
+15) toussaint_a - 0.7961878544948375
+
+16) enjolras_a - 0.7961455352046143
+
+17) bahorel_a - 0.7933757787905025
+
+18) m_leblanc_a - 0.7927182214931914
+
+19) marguerite_a - 0.7915871863611356
+
+20) marius_haggard_a - 0.7887464165687785
+
+21) combeferre_a - 0.7867460377963884
+
+22) madame_magloire_a - 0.7860737697990271
+
+23) grantaire_a - 0.7845685376612747
+
+24) father_champmathieu_a - 0.7839351425209682
+
+25) m_madeleine_a - 0.7825677654066421
+
+26) bernard_guidonis_a - 0.7821093721129007
+
+27) little_gervais_a - 0.7794757748275127
+
+28) monsieur_javert_a - 0.7777106430875543
+
+29) laigle_de_meaux_a - 0.7725023898479528
+
+30) monsieur_babet_a - 0.7724977867306722
+
+31) georges_pontmercy_a - 0.7714822888374547
+
+32) napoleon_a - 0.7711473380151639
+
+33) mother_catherine_de_bar_a - 0.76818617961572
+
+34) mother_jondrette_a - 0.7635962648873068
+
+35) mademoiselle_euphrasie_a - 0.7535301593822267
+
+36) bishop_a - 0.7344615934261823
+
+37) gorbeau_a - 0.7080682864107795
+
+38) court_of_assizes_a - 0.6962875255852876
+
+39) national_guard_a - 0.6933181858076364
+
+40) alexander_a - 0.6547466928068812
+
+41) bougon_a - 0.6379112411167986
+
+42) le_cabuc_a - 0.6349150756052193
+
+Result for the vector: m_mabeuf, coming from part i of the book
+Rank: 12 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8279588325048204
+
+1) joly_a - 0.8657636126420745
+
+2) marius_haggard_a - 0.8504998594820552
+
+3) bossuet_a - 0.8489120096616755
+
+4) m_leblanc_a - 0.8447107950370097
+
+5) jean_valjean_a - 0.8424945661432068
+
+6) m_gillenormand_a - 0.8417386569147285
+
+7) m_madeleine_a - 0.8345527151493615
+
+8) father_fauchelevent_a - 0.8336978852097016
+
+9) monsieur_javert_a - 0.8332092861408436
+
+10) bahorel_a - 0.8328282584897236
+
+11) monsieur_de_courfeyrac_a - 0.8320773940040249
+
+12) m_mabeuf_a - 0.8279588325048204
+
+13) madame_magloire_a - 0.8266553982105629
+
+14) enjolras_a - 0.8262574879816189
+
+15) combeferre_a - 0.8202483654022275
+
+16) georges_pontmercy_a - 0.8198121678717367
+
+17) marguerite_a - 0.8169041872024594
+
+18) grantaire_a - 0.8160435910211956
+
+19) father_champmathieu_a - 0.8134859204292355
+
+20) little_gervais_a - 0.8113504164606099
+
+21) feuilly_a - 0.8099448567596123
+
+22) laigle_de_meaux_a - 0.8092540616241671
+
+23) mother_jondrette_a - 0.8046299335581119
+
+24) monsieur_gavroche_a - 0.7965220455501025
+
+25) napoleon_a - 0.7945293310565169
+
+26) azelma_a - 0.786650157372652
+
+27) magnon_a - 0.7768412498424947
+
+28) mademoiselle_cosette_a - 0.7766707209741209
+
+29) jean_prouvaire_a - 0.7714157836785459
+
+30) mother_catherine_de_bar_a - 0.7691406745230763
+
+31) bernard_guidonis_a - 0.761289996870162
+
+32) bishop_a - 0.7536949808961175
+
+33) mademoiselle_euphrasie_a - 0.7365332841873221
+
+34) toussaint_a - 0.7282588805843734
+
+35) court_of_assizes_a - 0.721832563549419
+
+36) gorbeau_a - 0.7213743495121999
+
+37) national_guard_a - 0.7078867343697953
+
+38) alexander_a - 0.689882952577893
+
+39) monsieur_babet_a - 0.6782303452491808
+
+40) claquesous_a - 0.6688948074312592
+
+41) le_cabuc_a - 0.6483485102653549
+
+42) bougon_a - 0.6277652569939343
+
+Result for the vector: madame_magloire, coming from part i of the book
+Rank: 7 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8388680911738833
+
+1) mademoiselle_cosette_a - 0.9146932465203707
+
+2) monsieur_gavroche_a - 0.8744359762148886
+
+3) bossuet_a - 0.8504739492849157
+
+4) monsieur_babet_a - 0.849644660949713
+
+5) m_gillenormand_a - 0.8444727222150201
+
+6) feuilly_a - 0.8439149763533594
+
+7) madame_magloire_a - 0.8388680911738833
+
+8) mother_catherine_de_bar_a - 0.8319222431229223
+
+9) joly_a - 0.8304383259750425
+
+10) bahorel_a - 0.8301190486514886
+
+11) m_mabeuf_a - 0.8293873769410043
+
+12) magnon_a - 0.8292295540297563
+
+13) jean_valjean_a - 0.8289666379729941
+
+14) monsieur_de_courfeyrac_a - 0.8269148572138052
+
+15) father_fauchelevent_a - 0.8242872075520994
+
+16) grantaire_a - 0.8237966053546519
+
+17) enjolras_a - 0.8231125684842385
+
+18) jean_prouvaire_a - 0.8198567736234218
+
+19) marius_haggard_a - 0.818889011078431
+
+20) marguerite_a - 0.8182716369628964
+
+21) father_champmathieu_a - 0.8160475492477475
+
+22) m_madeleine_a - 0.8123922459845411
+
+23) combeferre_a - 0.8102877736091672
+
+24) little_gervais_a - 0.8101856821664776
+
+25) bernard_guidonis_a - 0.8069636570876272
+
+26) azelma_a - 0.8060445545302496
+
+27) monsieur_javert_a - 0.8012673973281756
+
+28) toussaint_a - 0.800026500221908
+
+29) laigle_de_meaux_a - 0.798986923754996
+
+30) m_leblanc_a - 0.7980769041639156
+
+31) georges_pontmercy_a - 0.7968117473609424
+
+32) bishop_a - 0.7959621195838309
+
+33) napoleon_a - 0.7940713885980031
+
+34) claquesous_a - 0.7902576091808825
+
+35) mother_jondrette_a - 0.7826669345696622
+
+36) mademoiselle_euphrasie_a - 0.7756586670875605
+
+37) court_of_assizes_a - 0.7668850838747484
+
+38) gorbeau_a - 0.7546451238009273
+
+39) national_guard_a - 0.7396751421786832
+
+40) bougon_a - 0.6806932294575418
+
+41) alexander_a - 0.6730852321931593
+
+42) le_cabuc_a - 0.6679595708847094
+
+Result for the vector: combeferre, coming from part i of the book
+Rank: 2 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7820794452476185
+
+1) bahorel_a - 0.788251006253094
+
+2) combeferre_a - 0.7820794452476185
+
+3) m_gillenormand_a - 0.7818080159735791
+
+4) enjolras_a - 0.7786414159154061
+
+5) m_mabeuf_a - 0.7745720148086548
+
+6) monsieur_javert_a - 0.774036169052124
+
+7) bossuet_a - 0.77081698179245
+
+8) jean_valjean_a - 0.7707098263079045
+
+9) grantaire_a - 0.770577811317975
+
+10) feuilly_a - 0.7688606701923271
+
+11) joly_a - 0.7684348225593567
+
+12) m_madeleine_a - 0.7661956548690796
+
+13) marius_haggard_a - 0.766133518950172
+
+14) father_fauchelevent_a - 0.7659416477749822
+
+15) georges_pontmercy_a - 0.7647502737939739
+
+16) little_gervais_a - 0.7636459469795227
+
+17) laigle_de_meaux_a - 0.7616633176803589
+
+18) father_champmathieu_a - 0.7597135162182771
+
+19) napoleon_a - 0.7585869431495667
+
+20) madame_magloire_a - 0.7579879760742188
+
+21) monsieur_de_courfeyrac_a - 0.7569196820259094
+
+22) monsieur_gavroche_a - 0.7547892478234037
+
+23) mother_jondrette_a - 0.7545285820960999
+
+24) jean_prouvaire_a - 0.744890570640564
+
+25) mademoiselle_cosette_a - 0.7367525853662155
+
+26) mother_catherine_de_bar_a - 0.728804349899292
+
+27) m_leblanc_a - 0.7276401248407267
+
+28) marguerite_a - 0.7247029378833151
+
+29) bernard_guidonis_a - 0.7172963360194811
+
+30) bishop_a - 0.7139256767078843
+
+31) mademoiselle_euphrasie_a - 0.7080794994878483
+
+32) azelma_a - 0.7068350525747258
+
+33) magnon_a - 0.7062581952656404
+
+34) national_guard_a - 0.7010531038359735
+
+35) court_of_assizes_a - 0.696673190990311
+
+36) gorbeau_a - 0.6773935556411743
+
+37) alexander_a - 0.6647642850875854
+
+38) monsieur_babet_a - 0.6437827732433553
+
+39) claquesous_a - 0.6422245693869764
+
+40) toussaint_a - 0.6418608640515301
+
+41) le_cabuc_a - 0.6146190532814904
+
+42) bougon_a - 0.6054409687615331
+
+Result for the vector: toussaint, coming from part i of the book
+Rank: 34 out of 42 characters
+Cosine similarity to the co-referring vector: 0.696631807289613
+
+1) mademoiselle_cosette_a - 0.8099707478302286
+
+2) monsieur_gavroche_a - 0.7919808154117589
+
+3) bahorel_a - 0.7910332319448364
+
+4) jean_prouvaire_a - 0.7879722118377686
+
+5) m_mabeuf_a - 0.7839555740356445
+
+6) m_gillenormand_a - 0.7803686231924118
+
+7) bossuet_a - 0.7770410180091858
+
+8) marius_haggard_a - 0.7756488651810779
+
+9) m_madeleine_a - 0.7740590572357178
+
+10) grantaire_a - 0.7715010872930615
+
+11) enjolras_a - 0.7714197175848666
+
+12) monsieur_javert_a - 0.7689824104309082
+
+13) father_fauchelevent_a - 0.7688096441257479
+
+14) jean_valjean_a - 0.7686621684633407
+
+15) monsieur_de_courfeyrac_a - 0.7676112651824951
+
+16) madame_magloire_a - 0.7645193934440613
+
+17) mother_catherine_de_bar_a - 0.7638963460922241
+
+18) laigle_de_meaux_a - 0.762521505355835
+
+19) georges_pontmercy_a - 0.7614890648709667
+
+20) joly_a - 0.7593314051628113
+
+21) little_gervais_a - 0.7585742473602295
+
+22) father_champmathieu_a - 0.7569379065595823
+
+23) feuilly_a - 0.7567139573948386
+
+24) marguerite_a - 0.755667850713007
+
+25) combeferre_a - 0.7552522275002151
+
+26) mother_jondrette_a - 0.7543275356292725
+
+27) m_leblanc_a - 0.7433796830916836
+
+28) magnon_a - 0.7399173533965748
+
+29) napoleon_a - 0.7325365543365479
+
+30) bishop_a - 0.7233597205066861
+
+31) bernard_guidonis_a - 0.7231724592241745
+
+32) azelma_a - 0.7214967227428178
+
+33) mademoiselle_euphrasie_a - 0.7140760847375456
+
+34) toussaint_a - 0.696631807289613
+
+35) court_of_assizes_a - 0.6948951846486159
+
+36) gorbeau_a - 0.6935573816299438
+
+37) monsieur_babet_a - 0.6833422591294217
+
+38) national_guard_a - 0.6782227360672577
+
+39) claquesous_a - 0.6749897204336444
+
+40) alexander_a - 0.6610547304153442
+
+41) le_cabuc_a - 0.6300747770115611
+
+42) bougon_a - 0.6105170199737293
+
+Result for the vector: grantaire, coming from part i of the book
+Rank: 17 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8594932132506267
+
+1) joly_a - 0.8931035335721708
+
+2) jean_valjean_a - 0.8867676854133669
+
+3) bossuet_a - 0.8841759493455872
+
+4) m_leblanc_a - 0.8829652140757455
+
+5) marius_haggard_a - 0.882813730743004
+
+6) m_gillenormand_a - 0.8813724568369184
+
+7) enjolras_a - 0.8787055015564027
+
+8) madame_magloire_a - 0.8726057930353772
+
+9) monsieur_de_courfeyrac_a - 0.8715052528086471
+
+10) feuilly_a - 0.8706741697801671
+
+11) m_mabeuf_a - 0.8700944703873692
+
+12) father_fauchelevent_a - 0.8696562725510574
+
+13) combeferre_a - 0.866225941923373
+
+14) m_madeleine_a - 0.865969947932361
+
+15) bahorel_a - 0.8656308828858335
+
+16) monsieur_javert_a - 0.8605531967015995
+
+17) grantaire_a - 0.8594932132506267
+
+18) father_champmathieu_a - 0.855396372723147
+
+19) azelma_a - 0.8546615411038588
+
+20) marguerite_a - 0.850754302830017
+
+21) monsieur_gavroche_a - 0.8462619781494201
+
+22) laigle_de_meaux_a - 0.841551473233193
+
+23) napoleon_a - 0.8386634492077514
+
+24) mademoiselle_cosette_a - 0.8376423120498717
+
+25) little_gervais_a - 0.8368363283179017
+
+26) georges_pontmercy_a - 0.8348194065367129
+
+27) magnon_a - 0.8335369825363218
+
+28) mother_jondrette_a - 0.8231487764804841
+
+29) bernard_guidonis_a - 0.8129017464577241
+
+30) jean_prouvaire_a - 0.8030580760871232
+
+31) mother_catherine_de_bar_a - 0.8025230647637301
+
+32) toussaint_a - 0.8012706041336116
+
+33) mademoiselle_euphrasie_a - 0.7855866891845095
+
+34) bishop_a - 0.7713131904602105
+
+35) court_of_assizes_a - 0.7515017538367776
+
+36) monsieur_babet_a - 0.7496666013797046
+
+37) gorbeau_a - 0.7457109538144455
+
+38) national_guard_a - 0.7368387046610154
+
+39) claquesous_a - 0.7047096524873069
+
+40) alexander_a - 0.7002082884435838
+
+41) le_cabuc_a - 0.6815881945595973
+
+42) bougon_a - 0.6601773292090493
+
+Result for the vector: bossuet, coming from part i of the book
+Rank: 1 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7732709646224976
+
+1) bossuet_a - 0.7732709646224976
+
+2) monsieur_gavroche_a - 0.7703796165955309
+
+3) father_champmathieu_a - 0.7701161366770363
+
+4) mademoiselle_cosette_a - 0.766272737606006
+
+5) grantaire_a - 0.7642662752946104
+
+6) m_gillenormand_a - 0.7636442726320519
+
+7) laigle_de_meaux_a - 0.763538122177124
+
+8) m_mabeuf_a - 0.7623156905174255
+
+9) bahorel_a - 0.7612073052289282
+
+10) enjolras_a - 0.7598570132340794
+
+11) jean_valjean_a - 0.7592668080766924
+
+12) monsieur_de_courfeyrac_a - 0.758639931678772
+
+13) marius_haggard_a - 0.7565527864161529
+
+14) jean_prouvaire_a - 0.7557544112205505
+
+15) combeferre_a - 0.7554048750045834
+
+16) madame_magloire_a - 0.7547128200531006
+
+17) monsieur_javert_a - 0.7528137564659119
+
+18) father_fauchelevent_a - 0.7507857381360896
+
+19) m_madeleine_a - 0.7504773139953613
+
+20) feuilly_a - 0.7494122087254826
+
+21) mother_jondrette_a - 0.7453637719154358
+
+22) joly_a - 0.7428985238075256
+
+23) mother_catherine_de_bar_a - 0.739622175693512
+
+24) little_gervais_a - 0.7390545606613159
+
+25) georges_pontmercy_a - 0.7388122366443015
+
+26) m_leblanc_a - 0.7373063877455779
+
+27) magnon_a - 0.7355146565726617
+
+28) marguerite_a - 0.733225866152399
+
+29) napoleon_a - 0.7225735783576965
+
+30) mademoiselle_euphrasie_a - 0.7188777159975611
+
+31) azelma_a - 0.710889599051762
+
+32) bishop_a - 0.7053229388402154
+
+33) bernard_guidonis_a - 0.6941469080273072
+
+34) court_of_assizes_a - 0.6884465588991024
+
+35) gorbeau_a - 0.6818101406097412
+
+36) claquesous_a - 0.6636917192844072
+
+37) national_guard_a - 0.6478753879033148
+
+38) toussaint_a - 0.6458820315669768
+
+39) le_cabuc_a - 0.6378574155484101
+
+40) monsieur_babet_a - 0.6372257850900772
+
+41) alexander_a - 0.6124696135520935
+
+42) bougon_a - 0.571351102413338
+
+Result for the vector: laigle_de_meaux, coming from part i of the book
+Rank: 16 out of 42 characters
+Cosine similarity to the co-referring vector: 0.6646514335066946
+
+1) monsieur_gavroche_a - 0.7063336372375538
+
+2) jean_prouvaire_a - 0.6966627059377865
+
+3) monsieur_babet_a - 0.6963064904578317
+
+4) mademoiselle_cosette_a - 0.6961578130722096
+
+5) bossuet_a - 0.6946483668475382
+
+6) feuilly_a - 0.692520801875736
+
+7) joly_a - 0.6829071451966265
+
+8) m_gillenormand_a - 0.6798072087362573
+
+9) bahorel_a - 0.6786305915085014
+
+10) claquesous_a - 0.6783003221422725
+
+11) grantaire_a - 0.6716485623999148
+
+12) monsieur_javert_a - 0.6705770892248815
+
+13) enjolras_a - 0.669313311576848
+
+14) m_mabeuf_a - 0.6681834261526731
+
+15) jean_valjean_a - 0.6663334965705919
+
+16) laigle_de_meaux_a - 0.6646514335066946
+
+17) m_madeleine_a - 0.6640195646297684
+
+18) madame_magloire_a - 0.6628710426611342
+
+19) father_fauchelevent_a - 0.6623463831933615
+
+20) combeferre_a - 0.6596703123653307
+
+21) monsieur_de_courfeyrac_a - 0.6580492650299838
+
+22) father_champmathieu_a - 0.6575810501076043
+
+23) marguerite_a - 0.6553000396847772
+
+24) marius_haggard_a - 0.654568312388954
+
+25) georges_pontmercy_a - 0.6501709789343451
+
+26) magnon_a - 0.6392710208892868
+
+27) mademoiselle_euphrasie_a - 0.6380999848961812
+
+28) mother_catherine_de_bar_a - 0.6378832243611362
+
+29) m_leblanc_a - 0.6370868303128088
+
+30) little_gervais_a - 0.6341543575617299
+
+31) bernard_guidonis_a - 0.6325940708760082
+
+32) mother_jondrette_a - 0.6269420759047326
+
+33) napoleon_a - 0.6247539892646079
+
+34) azelma_a - 0.6073847956107377
+
+35) court_of_assizes_a - 0.5983516217260682
+
+36) bishop_a - 0.5925016403198284
+
+37) gorbeau_a - 0.5843628397204195
+
+38) toussaint_a - 0.5715230703353923
+
+39) national_guard_a - 0.5697949442084086
+
+40) bougon_a - 0.5563135380020051
+
+41) le_cabuc_a - 0.523073974022147
+
+42) alexander_a - 0.5065642301180509
+
+Result for the vector: mother_catherine_de_bar, coming from part i of the book
+Rank: 1 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8953394889831543
+
+1) mother_catherine_de_bar_a - 0.8953394889831543
+
+2) bahorel_a - 0.8556229131109394
+
+3) little_gervais_a - 0.8548375368118286
+
+4) mother_jondrette_a - 0.8505713939666748
+
+5) georges_pontmercy_a - 0.8458899075853774
+
+6) monsieur_javert_a - 0.8414553999900818
+
+7) father_champmathieu_a - 0.8404725098891577
+
+8) bishop_a - 0.833620021723509
+
+9) m_mabeuf_a - 0.8329501748085022
+
+10) marius_haggard_a - 0.8294228112009597
+
+11) m_gillenormand_a - 0.8286485714686861
+
+12) laigle_de_meaux_a - 0.8284056186676025
+
+13) father_fauchelevent_a - 0.8270932046063953
+
+14) mademoiselle_cosette_a - 0.825305293482228
+
+15) jean_valjean_a - 0.8248642191371802
+
+16) madame_magloire_a - 0.8247441053390503
+
+17) enjolras_a - 0.8223067627962387
+
+18) monsieur_gavroche_a - 0.8213594066286455
+
+19) m_madeleine_a - 0.8157524466514587
+
+20) grantaire_a - 0.8156568651097083
+
+21) magnon_a - 0.8151314964812116
+
+22) marguerite_a - 0.8144101389891006
+
+23) monsieur_de_courfeyrac_a - 0.8111019134521484
+
+24) bossuet_a - 0.8087489604949951
+
+25) joly_a - 0.8064834475517273
+
+26) jean_prouvaire_a - 0.8060944080352783
+
+27) combeferre_a - 0.8033801796066883
+
+28) court_of_assizes_a - 0.8025424119779629
+
+29) napoleon_a - 0.797835111618042
+
+30) m_leblanc_a - 0.794994199872714
+
+31) national_guard_a - 0.7887642022599045
+
+32) azelma_a - 0.7858559127407051
+
+33) feuilly_a - 0.7858493668853538
+
+34) mademoiselle_euphrasie_a - 0.7779024707020815
+
+35) gorbeau_a - 0.7750087380409241
+
+36) alexander_a - 0.7568045854568481
+
+37) bernard_guidonis_a - 0.754787235881425
+
+38) le_cabuc_a - 0.7172494958191822
+
+39) claquesous_a - 0.6997509211227575
+
+40) toussaint_a - 0.6756440594408488
+
+41) bougon_a - 0.6591044061575325
+
+42) monsieur_babet_a - 0.6495399862253669
+
+Result for the vector: joly, coming from part i of the book
+Rank: 24 out of 42 characters
+Cosine similarity to the co-referring vector: 0.6795493555337587
+
+1) grantaire_a - 0.7210379624057452
+
+2) jean_valjean_a - 0.7118736252935379
+
+3) m_gillenormand_a - 0.7107526699381628
+
+4) father_champmathieu_a - 0.7097913026809742
+
+5) bahorel_a - 0.7090483096525605
+
+6) marius_haggard_a - 0.7072154705056941
+
+7) feuilly_a - 0.7040319862384901
+
+8) enjolras_a - 0.7038976307037317
+
+9) combeferre_a - 0.7032634615898182
+
+10) monsieur_gavroche_a - 0.7026061770193366
+
+11) father_fauchelevent_a - 0.7002206980787472
+
+12) madame_magloire_a - 0.7000278413279164
+
+13) monsieur_javert_a - 0.6992837369868925
+
+14) bossuet_a - 0.6982588351810686
+
+15) m_mabeuf_a - 0.6980699480730339
+
+16) laigle_de_meaux_a - 0.6977362812914693
+
+17) m_madeleine_a - 0.6964238466963871
+
+18) monsieur_de_courfeyrac_a - 0.6898718065099844
+
+19) georges_pontmercy_a - 0.6883416586125995
+
+20) mother_catherine_de_bar_a - 0.6877997703671604
+
+21) mademoiselle_cosette_a - 0.6868856922524342
+
+22) mother_jondrette_a - 0.6834052393790949
+
+23) little_gervais_a - 0.6824993680417927
+
+24) joly_a - 0.6795493555337587
+
+25) m_leblanc_a - 0.676938233923037
+
+26) napoleon_a - 0.6740673378665853
+
+27) jean_prouvaire_a - 0.6666817267726834
+
+28) marguerite_a - 0.6639276742935227
+
+29) bishop_a - 0.6631045743102343
+
+30) magnon_a - 0.6514470992747426
+
+31) mademoiselle_euphrasie_a - 0.6452196836471603
+
+32) court_of_assizes_a - 0.642504815607403
+
+33) gorbeau_a - 0.6361285068912216
+
+34) bernard_guidonis_a - 0.6273983787181904
+
+35) national_guard_a - 0.6256031207560588
+
+36) azelma_a - 0.6233610325050071
+
+37) le_cabuc_a - 0.5627254843711893
+
+38) alexander_a - 0.5611121916108027
+
+39) toussaint_a - 0.5608843492407383
+
+40) claquesous_a - 0.5415499645009669
+
+41) monsieur_babet_a - 0.5364306569099464
+
+42) bougon_a - 0.5264992870837296
+
+Result for the vector: monsieur_babet, coming from part i of the book
+Rank: 24 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7621099665296038
+
+1) joly_a - 0.8136427291418763
+
+2) bossuet_a - 0.8022197963130367
+
+3) claquesous_a - 0.7998235940775512
+
+4) feuilly_a - 0.7940039862401475
+
+5) m_gillenormand_a - 0.7909530263147143
+
+6) father_fauchelevent_a - 0.7837876210339421
+
+7) jean_valjean_a - 0.783692359924322
+
+8) monsieur_gavroche_a - 0.7805985212326105
+
+9) combeferre_a - 0.7792426084569226
+
+10) m_mabeuf_a - 0.7779702411872306
+
+11) mademoiselle_cosette_a - 0.7754256725311335
+
+12) m_madeleine_a - 0.7745924457664769
+
+13) enjolras_a - 0.7738388180732783
+
+14) madame_magloire_a - 0.7735109790272118
+
+15) father_champmathieu_a - 0.7732867924316874
+
+16) monsieur_de_courfeyrac_a - 0.7729341252406924
+
+17) jean_prouvaire_a - 0.7717392904603072
+
+18) azelma_a - 0.7704286668087844
+
+19) bahorel_a - 0.7695782276610938
+
+20) marius_haggard_a - 0.7694273774792049
+
+21) magnon_a - 0.769021868705755
+
+22) grantaire_a - 0.7663946836943645
+
+23) m_leblanc_a - 0.762337460378572
+
+24) monsieur_babet_a - 0.7621099665296038
+
+25) bernard_guidonis_a - 0.759166612674808
+
+26) monsieur_javert_a - 0.7576599572694289
+
+27) mother_jondrette_a - 0.7535088511412664
+
+28) napoleon_a - 0.7533449383583641
+
+29) marguerite_a - 0.7518195810102917
+
+30) little_gervais_a - 0.7504802197504188
+
+31) laigle_de_meaux_a - 0.7484591453349094
+
+32) mother_catherine_de_bar_a - 0.7483921497101886
+
+33) georges_pontmercy_a - 0.7458658956049508
+
+34) bishop_a - 0.7412326931953482
+
+35) toussaint_a - 0.7389912009239249
+
+36) mademoiselle_euphrasie_a - 0.7104980600473952
+
+37) court_of_assizes_a - 0.7102533155528828
+
+38) national_guard_a - 0.6996526747631441
+
+39) gorbeau_a - 0.6963518080921071
+
+40) bougon_a - 0.6481752169393329
+
+41) le_cabuc_a - 0.6330472985562442
+
+42) alexander_a - 0.6120416290784864
+
+Result for the vector: magnon, coming from part i of the book
+Rank: 1 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8529719201939169
+
+1) magnon_a - 0.8529719201939169
+
+2) mademoiselle_cosette_a - 0.8414906953876811
+
+3) madame_magloire_a - 0.8100451231002808
+
+4) marguerite_a - 0.809212256027
+
+5) m_gillenormand_a - 0.7991293667449693
+
+6) little_gervais_a - 0.7989727854728699
+
+7) mother_catherine_de_bar_a - 0.7984873056411743
+
+8) m_mabeuf_a - 0.7972486615180969
+
+9) monsieur_gavroche_a - 0.7950900319164986
+
+10) enjolras_a - 0.7920544271436689
+
+11) monsieur_de_courfeyrac_a - 0.7871904373168945
+
+12) jean_valjean_a - 0.7848361262776791
+
+13) azelma_a - 0.7837072844418077
+
+14) bahorel_a - 0.7823140258286606
+
+15) father_fauchelevent_a - 0.7807113789664111
+
+16) napoleon_a - 0.7792861461639404
+
+17) feuilly_a - 0.7787375186368901
+
+18) bossuet_a - 0.7777237892150879
+
+19) mademoiselle_euphrasie_a - 0.7770463095334966
+
+20) father_champmathieu_a - 0.7736903890186794
+
+21) combeferre_a - 0.7700960499105497
+
+22) grantaire_a - 0.7690454354597761
+
+23) monsieur_javert_a - 0.7667394280433655
+
+24) m_leblanc_a - 0.7666020671603654
+
+25) marius_haggard_a - 0.7658583838770902
+
+26) m_madeleine_a - 0.7654487490653992
+
+27) bernard_guidonis_a - 0.7653140109403175
+
+28) jean_prouvaire_a - 0.7649683952331543
+
+29) laigle_de_meaux_a - 0.7581769227981567
+
+30) joly_a - 0.756374180316925
+
+31) georges_pontmercy_a - 0.7485521135988424
+
+32) mother_jondrette_a - 0.7442610263824463
+
+33) court_of_assizes_a - 0.729115756855522
+
+34) bishop_a - 0.726531104652221
+
+35) gorbeau_a - 0.7185680866241455
+
+36) toussaint_a - 0.706564861144731
+
+37) claquesous_a - 0.7005481928750337
+
+38) national_guard_a - 0.698628446418895
+
+39) monsieur_babet_a - 0.6929074342791709
+
+40) alexander_a - 0.6787153482437134
+
+41) bougon_a - 0.6370989057808162
+
+42) le_cabuc_a - 0.6054175260911908
+
+Result for the vector: father_champmathieu, coming from part i of the book
+Rank: 15 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8283188240718156
+
+1) joly_a - 0.8734813928604126
+
+2) georges_pontmercy_a - 0.8507733167139729
+
+3) jean_valjean_a - 0.8497454613598922
+
+4) bahorel_a - 0.8477993860184967
+
+5) bossuet_a - 0.8420082330703735
+
+6) marius_haggard_a - 0.8416555335111122
+
+7) father_fauchelevent_a - 0.8393926811942302
+
+8) m_mabeuf_a - 0.8385510444641113
+
+9) monsieur_javert_a - 0.8385113477706909
+
+10) little_gervais_a - 0.8379116654396057
+
+11) m_gillenormand_a - 0.8378342446437935
+
+12) mother_jondrette_a - 0.8374514579772949
+
+13) enjolras_a - 0.8314165573467891
+
+14) m_madeleine_a - 0.8296931982040405
+
+15) father_champmathieu_a - 0.8283188240718156
+
+16) feuilly_a - 0.8216655041772787
+
+17) monsieur_de_courfeyrac_a - 0.8216508030891418
+
+18) napoleon_a - 0.8210943937301636
+
+19) grantaire_a - 0.817819679314485
+
+20) laigle_de_meaux_a - 0.8154720664024353
+
+21) combeferre_a - 0.8102701789301755
+
+22) madame_magloire_a - 0.8066798448562622
+
+23) m_leblanc_a - 0.8064029447552089
+
+24) monsieur_gavroche_a - 0.806397151565723
+
+25) jean_prouvaire_a - 0.7975374460220337
+
+26) azelma_a - 0.796704792878175
+
+27) marguerite_a - 0.7954736230059651
+
+28) mademoiselle_cosette_a - 0.7804486286372777
+
+29) mademoiselle_euphrasie_a - 0.7788883911900767
+
+30) bernard_guidonis_a - 0.7767985133172909
+
+31) magnon_a - 0.7687657613297857
+
+32) alexander_a - 0.7487433552742004
+
+33) mother_catherine_de_bar_a - 0.7452083230018616
+
+34) national_guard_a - 0.7404802662277304
+
+35) bishop_a - 0.7293820542465429
+
+36) gorbeau_a - 0.7273088097572327
+
+37) toussaint_a - 0.7177630831144415
+
+38) court_of_assizes_a - 0.7141081435551523
+
+39) monsieur_babet_a - 0.687833588590241
+
+40) claquesous_a - 0.6817890608843884
+
+41) le_cabuc_a - 0.6583505069226341
+
+42) bougon_a - 0.6327365010443207
+
+Result for the vector: georges_pontmercy, coming from part i of the book
+Rank: 1 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8899022936821237
+
+1) georges_pontmercy_a - 0.8899022936821237
+
+2) jean_prouvaire_a - 0.8850212830279791
+
+3) bossuet_a - 0.8837705393111126
+
+4) m_gillenormand_a - 0.8835336233238783
+
+5) m_mabeuf_a - 0.8823925396928206
+
+6) monsieur_de_courfeyrac_a - 0.8750895410669459
+
+7) m_madeleine_a - 0.8729603442000995
+
+8) jean_valjean_a - 0.872638605957282
+
+9) joly_a - 0.8707647477668886
+
+10) marius_haggard_a - 0.8705466389656314
+
+11) monsieur_javert_a - 0.8688612736628983
+
+12) m_leblanc_a - 0.8655367218168445
+
+13) bahorel_a - 0.8647145451860633
+
+14) father_fauchelevent_a - 0.8627775638633814
+
+15) enjolras_a - 0.8611771116536076
+
+16) laigle_de_meaux_a - 0.8594109583603254
+
+17) grantaire_a - 0.8566139170574715
+
+18) combeferre_a - 0.8560685005147296
+
+19) monsieur_gavroche_a - 0.8549675604759064
+
+20) father_champmathieu_a - 0.8511326997797208
+
+21) feuilly_a - 0.8499877452850584
+
+22) napoleon_a - 0.8497262776224342
+
+23) little_gervais_a - 0.8424660155217689
+
+24) madame_magloire_a - 0.8396201920962164
+
+25) mademoiselle_cosette_a - 0.8390516926553814
+
+26) mother_jondrette_a - 0.8350169855336027
+
+27) marguerite_a - 0.8248486623258328
+
+28) magnon_a - 0.8146267268729117
+
+29) bernard_guidonis_a - 0.814233585778812
+
+30) azelma_a - 0.8065447086204939
+
+31) mother_catherine_de_bar_a - 0.800958895568985
+
+32) gorbeau_a - 0.7850744980484902
+
+33) bishop_a - 0.7835915475622046
+
+34) mademoiselle_euphrasie_a - 0.7791712415712456
+
+35) claquesous_a - 0.7741931580728535
+
+36) court_of_assizes_a - 0.7701238941850914
+
+37) toussaint_a - 0.7572226362426349
+
+38) national_guard_a - 0.7423034838762828
+
+39) monsieur_babet_a - 0.7276200218427284
+
+40) alexander_a - 0.7069099298823014
+
+41) le_cabuc_a - 0.6987877667672885
+
+42) bougon_a - 0.6897401604133947
+
+Result for the vector: jean_prouvaire, coming from part i of the book
+Rank: 1 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7787939310073853
+
+1) jean_prouvaire_a - 0.7787939310073853
+
+2) feuilly_a - 0.7559086389432769
+
+3) bahorel_a - 0.7553356514971156
+
+4) m_gillenormand_a - 0.7473768513466279
+
+5) grantaire_a - 0.7405699116161443
+
+6) mademoiselle_cosette_a - 0.737262383862593
+
+7) m_mabeuf_a - 0.7367344498634338
+
+8) monsieur_javert_a - 0.7366942167282104
+
+9) georges_pontmercy_a - 0.7362885160790157
+
+10) monsieur_gavroche_a - 0.7362160243859289
+
+11) bossuet_a - 0.7322804927825928
+
+12) enjolras_a - 0.7287634176752927
+
+13) laigle_de_meaux_a - 0.7275127172470093
+
+14) combeferre_a - 0.7260752753064214
+
+15) jean_valjean_a - 0.7260213061558435
+
+16) marius_haggard_a - 0.7252383500621787
+
+17) joly_a - 0.7248107194900513
+
+18) father_fauchelevent_a - 0.7214306328975452
+
+19) m_madeleine_a - 0.7204452753067017
+
+20) monsieur_de_courfeyrac_a - 0.7188254594802856
+
+21) madame_magloire_a - 0.7171716094017029
+
+22) father_champmathieu_a - 0.7136428781534969
+
+23) little_gervais_a - 0.704797625541687
+
+24) mother_jondrette_a - 0.6963250041007996
+
+25) mother_catherine_de_bar_a - 0.6946259140968323
+
+26) m_leblanc_a - 0.6915848026770638
+
+27) marguerite_a - 0.6913111025876476
+
+28) bernard_guidonis_a - 0.6830582996537377
+
+29) napoleon_a - 0.6800214648246765
+
+30) mademoiselle_euphrasie_a - 0.67716864807419
+
+31) magnon_a - 0.6760345890501398
+
+32) azelma_a - 0.6679217418408916
+
+33) claquesous_a - 0.6641212899721056
+
+34) bishop_a - 0.6588266695245117
+
+35) court_of_assizes_a - 0.6392201615309568
+
+36) monsieur_babet_a - 0.6335480590789364
+
+37) gorbeau_a - 0.6270208358764648
+
+38) toussaint_a - 0.6179143418124722
+
+39) national_guard_a - 0.6148132865075259
+
+40) le_cabuc_a - 0.5872849576047048
+
+41) alexander_a - 0.5867611765861511
+
+42) bougon_a - 0.5739052808796143
+
+Result for the vector: little_gervais, coming from part i of the book
+Rank: 2 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8303319710690973
+
+1) joly_a - 0.8379649423339943
+
+2) little_gervais_a - 0.8303319710690973
+
+3) bahorel_a - 0.8265157484873312
+
+4) bossuet_a - 0.8193417679871197
+
+5) georges_pontmercy_a - 0.8174569876415126
+
+6) m_mabeuf_a - 0.8163352499208018
+
+7) jean_valjean_a - 0.8132770657539425
+
+8) father_fauchelevent_a - 0.813046287712689
+
+9) monsieur_gavroche_a - 0.8101814985275326
+
+10) mother_jondrette_a - 0.8082561974678172
+
+11) monsieur_javert_a - 0.8077874069087166
+
+12) m_madeleine_a - 0.8070437793161752
+
+13) m_gillenormand_a - 0.8069050207237974
+
+14) father_champmathieu_a - 0.8053126103058589
+
+15) marius_haggard_a - 0.8048790940426175
+
+16) enjolras_a - 0.8020025491714534
+
+17) laigle_de_meaux_a - 0.7989604353285109
+
+18) napoleon_a - 0.7972103832489494
+
+19) monsieur_de_courfeyrac_a - 0.7946193095814784
+
+20) grantaire_a - 0.7932186835901756
+
+21) marguerite_a - 0.7883942471020516
+
+22) madame_magloire_a - 0.7866139284738274
+
+23) jean_prouvaire_a - 0.7864702216667083
+
+24) feuilly_a - 0.7855887029627641
+
+25) combeferre_a - 0.7823710182155392
+
+26) mademoiselle_cosette_a - 0.7795622348785456
+
+27) bernard_guidonis_a - 0.7698468703122935
+
+28) azelma_a - 0.7692706080619047
+
+29) m_leblanc_a - 0.7665051361021441
+
+30) claquesous_a - 0.7661169260248777
+
+31) mademoiselle_euphrasie_a - 0.7638764099927438
+
+32) national_guard_a - 0.7587440692255563
+
+33) mother_catherine_de_bar_a - 0.7568524334938798
+
+34) magnon_a - 0.7475324869155937
+
+35) bishop_a - 0.743256509304052
+
+36) monsieur_babet_a - 0.7377192065381057
+
+37) gorbeau_a - 0.7367193541955576
+
+38) court_of_assizes_a - 0.7345878640063007
+
+39) alexander_a - 0.728207035553876
+
+40) toussaint_a - 0.6961514353752186
+
+41) bougon_a - 0.6685181660232198
+
+42) le_cabuc_a - 0.6328754583448718
+
+Result for the vector: national_guard, coming from part i of the book
+Rank: 31 out of 42 characters
+Cosine similarity to the co-referring vector: 0.6472403424465422
+
+1) father_champmathieu_a - 0.7194425630901832
+
+2) marius_haggard_a - 0.7121688127517902
+
+3) father_fauchelevent_a - 0.7108935807004975
+
+4) m_gillenormand_a - 0.7103090497943731
+
+5) enjolras_a - 0.7098311108652764
+
+6) mademoiselle_cosette_a - 0.7094978613559269
+
+7) monsieur_javert_a - 0.7064496628702139
+
+8) m_mabeuf_a - 0.704699789917499
+
+9) monsieur_gavroche_a - 0.7044582299366791
+
+10) jean_valjean_a - 0.703106992881241
+
+11) feuilly_a - 0.701785683631917
+
+12) grantaire_a - 0.7013766734561396
+
+13) m_madeleine_a - 0.7005295514429201
+
+14) combeferre_a - 0.7003116190247874
+
+15) monsieur_de_courfeyrac_a - 0.6991153122049247
+
+16) bossuet_a - 0.6958069567910534
+
+17) napoleon_a - 0.6951840883274022
+
+18) little_gervais_a - 0.694963789586574
+
+19) georges_pontmercy_a - 0.6946704387664993
+
+20) laigle_de_meaux_a - 0.6939310796343042
+
+21) m_leblanc_a - 0.6893274332696359
+
+22) bahorel_a - 0.6886185388012123
+
+23) court_of_assizes_a - 0.6875824481052284
+
+24) mother_jondrette_a - 0.6864180342652806
+
+25) madame_magloire_a - 0.6838986654402465
+
+26) joly_a - 0.6810661338488945
+
+27) jean_prouvaire_a - 0.6765714673314778
+
+28) bishop_a - 0.6762592179311733
+
+29) gorbeau_a - 0.675827899476545
+
+30) mother_catherine_de_bar_a - 0.670340696532648
+
+31) national_guard_a - 0.6472403424465422
+
+32) marguerite_a - 0.6382270074947574
+
+33) magnon_a - 0.6367776447336129
+
+34) bernard_guidonis_a - 0.6263093647219266
+
+35) mademoiselle_euphrasie_a - 0.6253426894341396
+
+36) azelma_a - 0.6168314263077364
+
+37) monsieur_babet_a - 0.6086560124960035
+
+38) claquesous_a - 0.5772955497537126
+
+39) alexander_a - 0.5651379746034216
+
+40) toussaint_a - 0.5597979021433777
+
+41) le_cabuc_a - 0.5544736650899937
+
+42) bougon_a - 0.5269300780615301
+
+Result for the vector: bishop, coming from part i of the book
+Rank: 3 out of 42 characters
+Cosine similarity to the co-referring vector: 0.9139728546142643
+
+1) mother_catherine_de_bar_a - 0.9192961406288247
+
+2) monsieur_gavroche_a - 0.9170590639114445
+
+3) bishop_a - 0.9139728546142643
+
+4) father_champmathieu_a - 0.9133093849789363
+
+5) mademoiselle_cosette_a - 0.9132336378097599
+
+6) bossuet_a - 0.900224441303281
+
+7) m_mabeuf_a - 0.8955110249227912
+
+8) enjolras_a - 0.8953582644462649
+
+9) jean_valjean_a - 0.8953461647033755
+
+10) bahorel_a - 0.8944965208616726
+
+11) marius_haggard_a - 0.8943655898032663
+
+12) m_gillenormand_a - 0.8920957519015784
+
+13) grantaire_a - 0.8912067614084571
+
+14) father_fauchelevent_a - 0.8906948035541437
+
+15) monsieur_de_courfeyrac_a - 0.8906069332722998
+
+16) monsieur_javert_a - 0.8892843061258991
+
+17) jean_prouvaire_a - 0.8874757818863278
+
+18) little_gervais_a - 0.885478787748743
+
+19) combeferre_a - 0.883360968036767
+
+20) madame_magloire_a - 0.8822343875309475
+
+21) m_madeleine_a - 0.8820835877706774
+
+22) mother_jondrette_a - 0.8819997240304798
+
+23) laigle_de_meaux_a - 0.8780240343823469
+
+24) feuilly_a - 0.875110544284085
+
+25) georges_pontmercy_a - 0.8746731653225137
+
+26) magnon_a - 0.8734639883041444
+
+27) joly_a - 0.8722153825888281
+
+28) court_of_assizes_a - 0.8714091854447751
+
+29) marguerite_a - 0.8673989614723875
+
+30) m_leblanc_a - 0.8641827187429376
+
+31) napoleon_a - 0.858677080790824
+
+32) national_guard_a - 0.8471996945619313
+
+33) bernard_guidonis_a - 0.8303505879431745
+
+34) azelma_a - 0.8296542313385816
+
+35) gorbeau_a - 0.8245826855053133
+
+36) mademoiselle_euphrasie_a - 0.8111054076082
+
+37) le_cabuc_a - 0.7928464165742893
+
+38) claquesous_a - 0.7823440535972169
+
+39) monsieur_babet_a - 0.7704661214907315
+
+40) toussaint_a - 0.7642675638198907
+
+41) alexander_a - 0.7541019173921311
+
+42) bougon_a - 0.6925072509806235
+
+Result for the vector: azelma, coming from part i of the book
+Rank: 1 out of 42 characters
+Cosine similarity to the co-referring vector: 0.873062185827624
+
+1) azelma_a - 0.873062185827624
+
+2) magnon_a - 0.865386996704731
+
+3) marguerite_a - 0.8466901344081883
+
+4) toussaint_a - 0.8462238059573265
+
+5) mademoiselle_cosette_a - 0.8334024300157333
+
+6) madame_magloire_a - 0.8314696202120075
+
+7) m_leblanc_a - 0.8291824910775673
+
+8) bossuet_a - 0.8267769463889885
+
+9) joly_a - 0.8247299440124618
+
+10) m_gillenormand_a - 0.8236879987158832
+
+11) monsieur_de_courfeyrac_a - 0.8220795041942452
+
+12) jean_valjean_a - 0.8212703221657809
+
+13) enjolras_a - 0.8139575477255154
+
+14) m_mabeuf_a - 0.8134956602303884
+
+15) father_fauchelevent_a - 0.812539624046726
+
+16) marius_haggard_a - 0.80346441320545
+
+17) feuilly_a - 0.8033896093651103
+
+18) bernard_guidonis_a - 0.7977532627207192
+
+19) m_madeleine_a - 0.7961365221779506
+
+20) napoleon_a - 0.795973980306804
+
+21) monsieur_gavroche_a - 0.7947148443843502
+
+22) little_gervais_a - 0.7943722842446654
+
+23) father_champmathieu_a - 0.7938996071129689
+
+24) bahorel_a - 0.7929763074503128
+
+25) combeferre_a - 0.7917662970810802
+
+26) mademoiselle_euphrasie_a - 0.7848870263892738
+
+27) mother_catherine_de_bar_a - 0.7809539073989963
+
+28) monsieur_javert_a - 0.7788117164019265
+
+29) grantaire_a - 0.77779089080041
+
+30) laigle_de_meaux_a - 0.7658320893595248
+
+31) georges_pontmercy_a - 0.7574922379094747
+
+32) mother_jondrette_a - 0.753941796837503
+
+33) jean_prouvaire_a - 0.7427482230290244
+
+34) monsieur_babet_a - 0.7410371370050735
+
+35) bishop_a - 0.7233310722312041
+
+36) gorbeau_a - 0.7139654372324183
+
+37) court_of_assizes_a - 0.7110969384524062
+
+38) claquesous_a - 0.7033334793647218
+
+39) national_guard_a - 0.6963560996267855
+
+40) alexander_a - 0.6666058500589687
+
+41) bougon_a - 0.6375861927969697
+
+42) le_cabuc_a - 0.6372966740098605
+
+Result for the vector: le_cabuc, coming from part i of the book
+Rank: 39 out of 42 characters
+Cosine similarity to the co-referring vector: 0.6616559423003174
+
+1) father_champmathieu_a - 0.7999641776063562
+
+2) napoleon_a - 0.7971581816673279
+
+3) jean_valjean_a - 0.7940634015760792
+
+4) magnon_a - 0.7822025548098963
+
+5) bossuet_a - 0.7813896536827087
+
+6) combeferre_a - 0.7801461684790963
+
+7) enjolras_a - 0.7779501212865055
+
+8) joly_a - 0.7746655344963074
+
+9) marius_haggard_a - 0.7739642589049703
+
+10) m_gillenormand_a - 0.7722014743389982
+
+11) m_mabeuf_a - 0.7679410576820374
+
+12) father_fauchelevent_a - 0.7678846397537477
+
+13) monsieur_de_courfeyrac_a - 0.7666283249855042
+
+14) little_gervais_a - 0.763733983039856
+
+15) m_madeleine_a - 0.762516975402832
+
+16) m_leblanc_a - 0.7619631574197874
+
+17) azelma_a - 0.760991655617704
+
+18) bishop_a - 0.7593734407798398
+
+19) madame_magloire_a - 0.7561370730400085
+
+20) grantaire_a - 0.7543214784360376
+
+21) monsieur_gavroche_a - 0.7532580641950344
+
+22) mother_jondrette_a - 0.749086320400238
+
+23) monsieur_javert_a - 0.7457200884819031
+
+24) bernard_guidonis_a - 0.7455066149822985
+
+25) feuilly_a - 0.7434040002112442
+
+26) bahorel_a - 0.7403505665168338
+
+27) mademoiselle_cosette_a - 0.7379765070690819
+
+28) marguerite_a - 0.7377364479146283
+
+29) mother_catherine_de_bar_a - 0.7374920845031738
+
+30) national_guard_a - 0.7337675313284261
+
+31) georges_pontmercy_a - 0.7330388704584735
+
+32) laigle_de_meaux_a - 0.7276382446289062
+
+33) court_of_assizes_a - 0.7198815083645027
+
+34) toussaint_a - 0.7128747276738461
+
+35) gorbeau_a - 0.6956949830055237
+
+36) jean_prouvaire_a - 0.6930409073829651
+
+37) mademoiselle_euphrasie_a - 0.6840438058402435
+
+38) monsieur_babet_a - 0.6753878399960911
+
+39) le_cabuc_a - 0.6616559423003174
+
+40) claquesous_a - 0.6587819057340001
+
+41) alexander_a - 0.6557506322860718
+
+42) bougon_a - 0.5835174247787104
+
+Result for the vector: bougon, coming from part i of the book
+Rank: 40 out of 42 characters
+Cosine similarity to the co-referring vector: 0.6575967269419721
+
+1) mademoiselle_cosette_a - 0.8862434761233954
+
+2) monsieur_gavroche_a - 0.8428355642753167
+
+3) jean_prouvaire_a - 0.8297776681317304
+
+4) mother_catherine_de_bar_a - 0.817915390854158
+
+5) bahorel_a - 0.8134613390725485
+
+6) bossuet_a - 0.8050562259521364
+
+7) father_champmathieu_a - 0.8044534921646175
+
+8) madame_magloire_a - 0.8038048265096663
+
+9) monsieur_de_courfeyrac_a - 0.8021262406035533
+
+10) grantaire_a - 0.8020173668260199
+
+11) laigle_de_meaux_a - 0.7990417004202797
+
+12) m_mabeuf_a - 0.7989215374635747
+
+13) m_gillenormand_a - 0.7968245265029121
+
+14) little_gervais_a - 0.7957260134383446
+
+15) georges_pontmercy_a - 0.7942492839246689
+
+16) feuilly_a - 0.7926634426512513
+
+17) father_fauchelevent_a - 0.791162528187778
+
+18) monsieur_javert_a - 0.7877390511191471
+
+19) enjolras_a - 0.7875452294891799
+
+20) marius_haggard_a - 0.7856261006370968
+
+21) jean_valjean_a - 0.7845153469425026
+
+22) m_madeleine_a - 0.7802693378764799
+
+23) mother_jondrette_a - 0.7767856254109381
+
+24) magnon_a - 0.773947981125357
+
+25) bishop_a - 0.7710762296824182
+
+26) joly_a - 0.768980516852111
+
+27) combeferre_a - 0.7672650814056451
+
+28) marguerite_a - 0.767027080059057
+
+29) court_of_assizes_a - 0.7516120520331779
+
+30) m_leblanc_a - 0.7505833952575824
+
+31) napoleon_a - 0.7470129879109284
+
+32) azelma_a - 0.7446810977256001
+
+33) monsieur_babet_a - 0.739217519760137
+
+34) mademoiselle_euphrasie_a - 0.737689256668096
+
+35) gorbeau_a - 0.7363042988595797
+
+36) bernard_guidonis_a - 0.7288167961567422
+
+37) claquesous_a - 0.7280087254044822
+
+38) national_guard_a - 0.7083800819998983
+
+39) toussaint_a - 0.6780566956929331
+
+40) bougon_a - 0.6575967269419721
+
+41) le_cabuc_a - 0.6516547203064011
+
+42) alexander_a - 0.646165570845273
+
+Result for the vector: bahorel, coming from part i of the book
+Rank: 10 out of 42 characters
+Cosine similarity to the co-referring vector: 0.80242481238916
+
+1) joly_a - 0.8330006003379822
+
+2) bossuet_a - 0.8310912251472473
+
+3) jean_valjean_a - 0.8232222900854191
+
+4) m_gillenormand_a - 0.8210501702204691
+
+5) feuilly_a - 0.8193979644057766
+
+6) m_mabeuf_a - 0.8088405728340149
+
+7) combeferre_a - 0.8062001351237392
+
+8) enjolras_a - 0.8051028367815726
+
+9) father_fauchelevent_a - 0.8044132227405101
+
+10) bahorel_a - 0.80242481238916
+
+11) marius_haggard_a - 0.8015768887492343
+
+12) m_madeleine_a - 0.8013145327568054
+
+13) monsieur_de_courfeyrac_a - 0.8009669780731201
+
+14) grantaire_a - 0.7999801874154866
+
+15) father_champmathieu_a - 0.7983565806362989
+
+16) napoleon_a - 0.7958567142486572
+
+17) madame_magloire_a - 0.7947174906730652
+
+18) monsieur_gavroche_a - 0.7907002692997309
+
+19) mademoiselle_cosette_a - 0.785092009002448
+
+20) m_leblanc_a - 0.7812732122810881
+
+21) monsieur_javert_a - 0.7807489633560181
+
+22) azelma_a - 0.778532409028185
+
+23) magnon_a - 0.7750302687269303
+
+24) bernard_guidonis_a - 0.7745911747704591
+
+25) georges_pontmercy_a - 0.7743163435836303
+
+26) little_gervais_a - 0.7737178206443787
+
+27) laigle_de_meaux_a - 0.7704873085021973
+
+28) mother_jondrette_a - 0.7675302028656006
+
+29) marguerite_a - 0.763223037911836
+
+30) jean_prouvaire_a - 0.7592523097991943
+
+31) toussaint_a - 0.7575352336445325
+
+32) mother_catherine_de_bar_a - 0.749463677406311
+
+33) bishop_a - 0.748629346571605
+
+34) mademoiselle_euphrasie_a - 0.7424183334361527
+
+35) monsieur_babet_a - 0.7278867797784091
+
+36) court_of_assizes_a - 0.7223207685565084
+
+37) gorbeau_a - 0.7191848754882812
+
+38) national_guard_a - 0.718500993207127
+
+39) claquesous_a - 0.7060127468708979
+
+40) alexander_a - 0.652973473072052
+
+41) le_cabuc_a - 0.6321130771704373
+
+42) bougon_a - 0.6135103058973252
+
+Result for the vector: feuilly, coming from part i of the book
+Rank: 18 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7039714312510863
+
+1) bahorel_a - 0.7289853530517431
+
+2) grantaire_a - 0.7287526565046701
+
+3) m_mabeuf_a - 0.7283763506524671
+
+4) m_gillenormand_a - 0.7251324162123999
+
+5) monsieur_javert_a - 0.7231863952632668
+
+6) enjolras_a - 0.7203334951301397
+
+7) jean_valjean_a - 0.7191154146458114
+
+8) monsieur_gavroche_a - 0.7157786275214394
+
+9) laigle_de_meaux_a - 0.7146390293430996
+
+10) marius_haggard_a - 0.7144168487812382
+
+11) combeferre_a - 0.7137702149543361
+
+12) father_champmathieu_a - 0.7129769366660959
+
+13) m_madeleine_a - 0.7124223921424867
+
+14) madame_magloire_a - 0.7100549551860978
+
+15) father_fauchelevent_a - 0.7100026568768112
+
+16) georges_pontmercy_a - 0.708097444191197
+
+17) little_gervais_a - 0.7053926201281735
+
+18) feuilly_a - 0.7039714312510863
+
+19) bossuet_a - 0.6974162667219721
+
+20) mademoiselle_cosette_a - 0.6959324271699091
+
+21) monsieur_de_courfeyrac_a - 0.6958307235190491
+
+22) napoleon_a - 0.6949658600975832
+
+23) mother_catherine_de_bar_a - 0.6938362328361345
+
+24) jean_prouvaire_a - 0.6936838833595482
+
+25) mother_jondrette_a - 0.69107236537553
+
+26) bishop_a - 0.67193285608492
+
+27) m_leblanc_a - 0.6717904801556114
+
+28) joly_a - 0.6699812015885476
+
+29) marguerite_a - 0.6686380507324386
+
+30) magnon_a - 0.6632543008549746
+
+31) bernard_guidonis_a - 0.66119766284249
+
+32) mademoiselle_euphrasie_a - 0.6565589299701691
+
+33) court_of_assizes_a - 0.6532701861914898
+
+34) national_guard_a - 0.6369045160355875
+
+35) gorbeau_a - 0.6312493870034634
+
+36) azelma_a - 0.6266762391731882
+
+37) alexander_a - 0.6109973374306364
+
+38) le_cabuc_a - 0.5711163793012245
+
+39) monsieur_babet_a - 0.5658300428834598
+
+40) claquesous_a - 0.5522920818502952
+
+41) toussaint_a - 0.5516495540246522
+
+42) bougon_a - 0.5378161713857864
+
+Result for the vector: claquesous, coming from part i of the book
+Rank: 35 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7723675234536841
+
+1) bossuet_a - 0.8695819637054794
+
+2) joly_a - 0.8687005301922721
+
+3) jean_valjean_a - 0.8567902786496233
+
+4) m_gillenormand_a - 0.8549598792123639
+
+5) father_fauchelevent_a - 0.8448349674193684
+
+6) monsieur_de_courfeyrac_a - 0.8423341763715204
+
+7) marius_haggard_a - 0.8409998477995202
+
+8) feuilly_a - 0.8409075797956589
+
+9) enjolras_a - 0.8377247203074513
+
+10) m_mabeuf_a - 0.8370896827307253
+
+11) mademoiselle_cosette_a - 0.8367218721889925
+
+12) combeferre_a - 0.8348531873392931
+
+13) father_champmathieu_a - 0.8343350441159351
+
+14) m_madeleine_a - 0.8335047016592239
+
+15) m_leblanc_a - 0.8330337256461123
+
+16) monsieur_gavroche_a - 0.8311964621783391
+
+17) bahorel_a - 0.8285396592938697
+
+18) azelma_a - 0.8278197543513628
+
+19) bernard_guidonis_a - 0.8268906330862167
+
+20) madame_magloire_a - 0.8243482358559444
+
+21) napoleon_a - 0.8231437451584267
+
+22) magnon_a - 0.8211745375044814
+
+23) grantaire_a - 0.8199657690504651
+
+24) monsieur_javert_a - 0.8171196227407347
+
+25) jean_prouvaire_a - 0.813769245558061
+
+26) marguerite_a - 0.8085656888990723
+
+27) georges_pontmercy_a - 0.8083790553180988
+
+28) little_gervais_a - 0.8081768991999898
+
+29) toussaint_a - 0.8042542098684876
+
+30) laigle_de_meaux_a - 0.800029063225659
+
+31) mother_jondrette_a - 0.8000104665759349
+
+32) monsieur_babet_a - 0.7851839767560942
+
+33) mother_catherine_de_bar_a - 0.785047196896291
+
+34) bishop_a - 0.7810079818663633
+
+35) claquesous_a - 0.7723675234536841
+
+36) mademoiselle_euphrasie_a - 0.7567971429345441
+
+37) court_of_assizes_a - 0.7470741796129268
+
+38) gorbeau_a - 0.7452927453903185
+
+39) national_guard_a - 0.7231342627486147
+
+40) le_cabuc_a - 0.700663688838216
+
+41) alexander_a - 0.6763637863506018
+
+42) bougon_a - 0.6507098258387847
+
+Result for the vector: gorbeau, coming from part i of the book
+Rank: 1 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8768994808197021
+
+1) gorbeau_a - 0.8768994808197021
+
+2) court_of_assizes_a - 0.7954407578181374
+
+3) father_champmathieu_a - 0.7897538417431036
+
+4) mademoiselle_cosette_a - 0.7786398065900931
+
+5) little_gervais_a - 0.777835488319397
+
+6) jean_valjean_a - 0.7714718120412952
+
+7) m_gillenormand_a - 0.7709796385436797
+
+8) enjolras_a - 0.7708568113531596
+
+9) monsieur_de_courfeyrac_a - 0.7703276872634888
+
+10) m_mabeuf_a - 0.7687042951583862
+
+11) father_fauchelevent_a - 0.7675333300193209
+
+12) magnon_a - 0.7669003744780808
+
+13) mother_jondrette_a - 0.7647566199302673
+
+14) napoleon_a - 0.7647443413734436
+
+15) marius_haggard_a - 0.7633550481027477
+
+16) bossuet_a - 0.7602591514587402
+
+17) mother_catherine_de_bar_a - 0.7582911252975464
+
+18) monsieur_gavroche_a - 0.7566179182161155
+
+19) m_leblanc_a - 0.7545427376577029
+
+20) grantaire_a - 0.7543592677819514
+
+21) m_madeleine_a - 0.7543138265609741
+
+22) feuilly_a - 0.7531122867002883
+
+23) monsieur_javert_a - 0.7525109052658081
+
+24) madame_magloire_a - 0.7517043352127075
+
+25) georges_pontmercy_a - 0.7513026298645347
+
+26) joly_a - 0.7505573630332947
+
+27) combeferre_a - 0.748445078637904
+
+28) bishop_a - 0.7483374030388963
+
+29) bahorel_a - 0.7414955121724464
+
+30) laigle_de_meaux_a - 0.7398357391357422
+
+31) azelma_a - 0.7329535702751154
+
+32) marguerite_a - 0.7285970883725351
+
+33) national_guard_a - 0.7234301782676634
+
+34) jean_prouvaire_a - 0.7212029695510864
+
+35) mademoiselle_euphrasie_a - 0.708782297896285
+
+36) claquesous_a - 0.6961757748179371
+
+37) monsieur_babet_a - 0.6917918736810621
+
+38) bernard_guidonis_a - 0.6872575059822243
+
+39) toussaint_a - 0.6761750771895016
+
+40) alexander_a - 0.6363462805747986
+
+41) le_cabuc_a - 0.6311675686340086
+
+42) bougon_a - 0.5986956893231615
+
+Result for the vector: marguerite, coming from part i of the book
+Rank: 4 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7130625076927262
+
+1) mademoiselle_cosette_a - 0.7681862850078188
+
+2) monsieur_babet_a - 0.7326450188544417
+
+3) magnon_a - 0.7298271221025526
+
+4) marguerite_a - 0.7130625076927262
+
+5) toussaint_a - 0.7030169544805924
+
+6) monsieur_gavroche_a - 0.69453884991772
+
+7) mother_catherine_de_bar_a - 0.6880068778991699
+
+8) madame_magloire_a - 0.6879160404205322
+
+9) azelma_a - 0.685177346622269
+
+10) feuilly_a - 0.6843858581049321
+
+11) mademoiselle_euphrasie_a - 0.6830358316323669
+
+12) bernard_guidonis_a - 0.677431800671606
+
+13) bossuet_a - 0.6697964072227478
+
+14) claquesous_a - 0.6588514047518794
+
+15) m_gillenormand_a - 0.6546464345822458
+
+16) bahorel_a - 0.6544236735827829
+
+17) joly_a - 0.6542063355445862
+
+18) jean_valjean_a - 0.6522872655220481
+
+19) m_mabeuf_a - 0.6459959149360657
+
+20) monsieur_de_courfeyrac_a - 0.6417839527130127
+
+21) father_fauchelevent_a - 0.6404790114785465
+
+22) jean_prouvaire_a - 0.6394562721252441
+
+23) father_champmathieu_a - 0.637429752196656
+
+24) little_gervais_a - 0.6367934942245483
+
+25) enjolras_a - 0.6367848135957245
+
+26) m_leblanc_a - 0.6318588695694408
+
+27) grantaire_a - 0.6293840595896265
+
+28) marius_haggard_a - 0.6257087142120303
+
+29) m_madeleine_a - 0.6208292245864868
+
+30) combeferre_a - 0.6149551042887642
+
+31) monsieur_javert_a - 0.6146417856216431
+
+32) bishop_a - 0.6102712386684882
+
+33) laigle_de_meaux_a - 0.6062095165252686
+
+34) napoleon_a - 0.5972241163253784
+
+35) court_of_assizes_a - 0.5951631551786518
+
+36) mother_jondrette_a - 0.5926988124847412
+
+37) georges_pontmercy_a - 0.5922565570183507
+
+38) gorbeau_a - 0.5872169733047485
+
+39) national_guard_a - 0.5845921809849796
+
+40) bougon_a - 0.5555483003450923
+
+41) le_cabuc_a - 0.5060718361182124
+
+42) alexander_a - 0.500947117805481
+
+Result for the vector: bernard_guidonis, coming from part i of the book
+Rank: 20 out of 42 characters
+Cosine similarity to the co-referring vector: 0.5600749778658218
+
+1) monsieur_babet_a - 0.6133991845488073
+
+2) monsieur_gavroche_a - 0.6062094803923689
+
+3) jean_prouvaire_a - 0.6049177646636963
+
+4) mademoiselle_cosette_a - 0.6035201189804017
+
+5) bossuet_a - 0.5967549085617065
+
+6) m_gillenormand_a - 0.5867652575321944
+
+7) bahorel_a - 0.5807763511173832
+
+8) feuilly_a - 0.579558799214224
+
+9) claquesous_a - 0.5746061973156394
+
+10) m_mabeuf_a - 0.5728997588157654
+
+11) m_madeleine_a - 0.5718043446540833
+
+12) joly_a - 0.5713874697685242
+
+13) father_fauchelevent_a - 0.5702798878812964
+
+14) madame_magloire_a - 0.5683654546737671
+
+15) grantaire_a - 0.5663708021155242
+
+16) enjolras_a - 0.5639713666456133
+
+17) combeferre_a - 0.5624187923919445
+
+18) jean_valjean_a - 0.5618940256897206
+
+19) monsieur_javert_a - 0.561534583568573
+
+20) bernard_guidonis_a - 0.5600749778658218
+
+21) laigle_de_meaux_a - 0.5599879026412964
+
+22) monsieur_de_courfeyrac_a - 0.5580834746360779
+
+23) marius_haggard_a - 0.5559420056273984
+
+24) father_champmathieu_a - 0.5493240087821498
+
+25) little_gervais_a - 0.5481208562850952
+
+26) mademoiselle_euphrasie_a - 0.5448187914382701
+
+27) napoleon_a - 0.5446012616157532
+
+28) mother_catherine_de_bar_a - 0.5437751412391663
+
+29) georges_pontmercy_a - 0.5430303267276715
+
+30) marguerite_a - 0.5393177592347727
+
+31) magnon_a - 0.5364189424265071
+
+32) mother_jondrette_a - 0.5337092876434326
+
+33) m_leblanc_a - 0.5336980779530947
+
+34) azelma_a - 0.5270236291594397
+
+35) toussaint_a - 0.5173538018850216
+
+36) court_of_assizes_a - 0.5159677844085987
+
+37) bishop_a - 0.5118194513428548
+
+38) gorbeau_a - 0.511709988117218
+
+39) bougon_a - 0.5086665012240282
+
+40) national_guard_a - 0.49361459891839643
+
+41) alexander_a - 0.45512139797210693
+
+42) le_cabuc_a - 0.42946049150589133
+
+Result for the vector: court_of_assizes, coming from part i of the book
+Rank: 32 out of 42 characters
+Cosine similarity to the co-referring vector: 0.6686337389190555
+
+1) father_fauchelevent_a - 0.7290217603419165
+
+2) monsieur_gavroche_a - 0.7213479446561383
+
+3) m_mabeuf_a - 0.7200601696968079
+
+4) mother_catherine_de_bar_a - 0.7162634134292603
+
+5) monsieur_de_courfeyrac_a - 0.7134395837783813
+
+6) madame_magloire_a - 0.7124325037002563
+
+7) bossuet_a - 0.7116622924804688
+
+8) father_champmathieu_a - 0.7115856237164524
+
+9) m_gillenormand_a - 0.7115742432436788
+
+10) combeferre_a - 0.7096081799035192
+
+11) jean_valjean_a - 0.7077290589970924
+
+12) mother_jondrette_a - 0.7053244709968567
+
+13) enjolras_a - 0.7048861560293356
+
+14) marius_haggard_a - 0.7044111733926791
+
+15) bahorel_a - 0.7036406011474314
+
+16) m_madeleine_a - 0.7012355327606201
+
+17) grantaire_a - 0.6997535437272058
+
+18) mademoiselle_cosette_a - 0.6973519505648654
+
+19) napoleon_a - 0.6960254907608032
+
+20) monsieur_javert_a - 0.6950401663780212
+
+21) feuilly_a - 0.6934329501906623
+
+22) jean_prouvaire_a - 0.6924830675125122
+
+23) laigle_de_meaux_a - 0.6923887133598328
+
+24) bishop_a - 0.6877218074964412
+
+25) marguerite_a - 0.6872942857321683
+
+26) joly_a - 0.6848462224006653
+
+27) little_gervais_a - 0.6845690011978149
+
+28) magnon_a - 0.6807189774084713
+
+29) georges_pontmercy_a - 0.6789086674342999
+
+30) azelma_a - 0.6765240036405329
+
+31) m_leblanc_a - 0.6759466915194212
+
+32) court_of_assizes_a - 0.6686337389190555
+
+33) national_guard_a - 0.6647729475728559
+
+34) mademoiselle_euphrasie_a - 0.6596972143469593
+
+35) claquesous_a - 0.6520556405799285
+
+36) gorbeau_a - 0.6456918120384216
+
+37) bernard_guidonis_a - 0.6333510716735085
+
+38) toussaint_a - 0.6273018343864789
+
+39) monsieur_babet_a - 0.6238888873987738
+
+40) alexander_a - 0.6002001762390137
+
+41) le_cabuc_a - 0.5837704887253348
+
+42) bougon_a - 0.5514905945799309
+
+Result for the vector: mademoiselle_euphrasie, coming from part i of the book
+Rank: 30 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7216869260891587
+
+1) laigle_de_meaux_a - 0.7676466564921546
+
+2) m_gillenormand_a - 0.7643126651700961
+
+3) bahorel_a - 0.7589627586867895
+
+4) father_champmathieu_a - 0.758237452296907
+
+5) monsieur_javert_a - 0.7563390586578298
+
+6) jean_valjean_a - 0.7563024759292656
+
+7) m_mabeuf_a - 0.7559698078614372
+
+8) magnon_a - 0.7555360794067436
+
+9) madame_magloire_a - 0.7550993415772536
+
+10) enjolras_a - 0.7549332380294853
+
+11) mademoiselle_cosette_a - 0.7543427348136955
+
+12) grantaire_a - 0.7531095224418812
+
+13) monsieur_gavroche_a - 0.7527835965156608
+
+14) jean_prouvaire_a - 0.7523016781986773
+
+15) father_fauchelevent_a - 0.7522263078554805
+
+16) combeferre_a - 0.7511663736303298
+
+17) georges_pontmercy_a - 0.7506768853682684
+
+18) marius_haggard_a - 0.7502150088933139
+
+19) monsieur_de_courfeyrac_a - 0.7499895542853818
+
+20) bossuet_a - 0.7469753472194296
+
+21) marguerite_a - 0.7456304723775949
+
+22) little_gervais_a - 0.7449285832004908
+
+23) feuilly_a - 0.7440682191970753
+
+24) mother_jondrette_a - 0.7431837763299822
+
+25) m_madeleine_a - 0.73597024297537
+
+26) mother_catherine_de_bar_a - 0.730569942627547
+
+27) joly_a - 0.726048870447212
+
+28) m_leblanc_a - 0.7222481535525346
+
+29) napoleon_a - 0.7218156291136534
+
+30) mademoiselle_euphrasie_a - 0.7216869260891587
+
+31) azelma_a - 0.7069813049120881
+
+32) bishop_a - 0.6953005790710498
+
+33) bernard_guidonis_a - 0.6925720755713052
+
+34) court_of_assizes_a - 0.68259723886269
+
+35) gorbeau_a - 0.6679773132787545
+
+36) claquesous_a - 0.6613400573736483
+
+37) national_guard_a - 0.6599460238170052
+
+38) toussaint_a - 0.644014716148381
+
+39) alexander_a - 0.6288122313506752
+
+40) le_cabuc_a - 0.6158033747438639
+
+41) monsieur_babet_a - 0.6047850376111313
+
+42) bougon_a - 0.5964886838925907
+
+Result for the vector: alexander, coming from part i of the book
+Rank: 40 out of 42 characters
+Cosine similarity to the co-referring vector: 0.624775230884552
+
+1) marius_haggard_a - 0.7697215997840936
+
+2) m_mabeuf_a - 0.7670119404792786
+
+3) monsieur_de_courfeyrac_a - 0.764438271522522
+
+4) grantaire_a - 0.763940416691912
+
+5) jean_valjean_a - 0.7638654253563045
+
+6) enjolras_a - 0.7634547493782803
+
+7) monsieur_gavroche_a - 0.7604946040812385
+
+8) bossuet_a - 0.7587740421295166
+
+9) father_fauchelevent_a - 0.7585454274957917
+
+10) combeferre_a - 0.7583594774222076
+
+11) laigle_de_meaux_a - 0.7573258280754089
+
+12) m_gillenormand_a - 0.7572527464110855
+
+13) little_gervais_a - 0.7553049325942993
+
+14) monsieur_javert_a - 0.7544167637825012
+
+15) madame_magloire_a - 0.754157543182373
+
+16) father_champmathieu_a - 0.753877923123714
+
+17) bahorel_a - 0.7506233081407344
+
+18) m_madeleine_a - 0.750421404838562
+
+19) mademoiselle_cosette_a - 0.7459388526714545
+
+20) m_leblanc_a - 0.74397811365389
+
+21) napoleon_a - 0.7428097724914551
+
+22) mother_jondrette_a - 0.7387948036193848
+
+23) georges_pontmercy_a - 0.737540213768513
+
+24) feuilly_a - 0.7334263006956988
+
+25) joly_a - 0.7321297526359558
+
+26) jean_prouvaire_a - 0.731021523475647
+
+27) mother_catherine_de_bar_a - 0.7263349294662476
+
+28) marguerite_a - 0.7166858146599433
+
+29) magnon_a - 0.7128170303811425
+
+30) gorbeau_a - 0.7121580243110657
+
+31) court_of_assizes_a - 0.7112943278200287
+
+32) bishop_a - 0.7025488792330707
+
+33) azelma_a - 0.6976518242851446
+
+34) mademoiselle_euphrasie_a - 0.6875253729537364
+
+35) national_guard_a - 0.6792978846817581
+
+36) bernard_guidonis_a - 0.6766822723529062
+
+37) monsieur_babet_a - 0.6729725404365396
+
+38) toussaint_a - 0.6539520231513974
+
+39) claquesous_a - 0.6502405002784881
+
+40) alexander_a - 0.624775230884552
+
+41) le_cabuc_a - 0.6153720388038193
+
+42) bougon_a - 0.5801942867214364
+
+Result for the vector: marius_haggard, coming from part a of the book
+Rank: 2 out of 42 characters
+Cosine similarity to the co-referring vector: 0.9201767349453914
+
+1) jean_valjean_wiki - 0.9365000928193506
+
+2) marius_haggard_wiki - 0.9201767349453914
+
+3) monsieur_gavroche_wiki - 0.911430532421516
+
+4) enjolras_wiki - 0.8977015370611041
+
+5) father_fauchelevent_wiki - 0.896846752794998
+
+6) m_gillenormand_wiki - 0.8951179322670801
+
+7) bishop_wiki - 0.8943655898032663
+
+8) monsieur_javert_wiki - 0.8878377806898661
+
+9) grantaire_wiki - 0.882813730743004
+
+10) m_madeleine_wiki - 0.8768005297661283
+
+11) mademoiselle_cosette_wiki - 0.8767644616084711
+
+12) georges_pontmercy_wiki - 0.8705466389656314
+
+13) m_mabeuf_wiki - 0.8504998594820552
+
+14) father_champmathieu_wiki - 0.8416555335111122
+
+15) claquesous_wiki - 0.8409998477995202
+
+16) napoleon_wiki - 0.8402037930853011
+
+17) mother_jondrette_wiki - 0.8381343290966009
+
+18) mother_catherine_de_bar_wiki - 0.8294228112009597
+
+19) madame_magloire_wiki - 0.818889011078431
+
+20) little_gervais_wiki - 0.8048790940426175
+
+21) azelma_wiki - 0.80346441320545
+
+22) bahorel_wiki - 0.8015768887492343
+
+23) m_leblanc_wiki - 0.7887464165687785
+
+24) bougon_wiki - 0.7856261006370968
+
+25) toussaint_wiki - 0.7756488651810779
+
+26) le_cabuc_wiki - 0.7739642589049703
+
+27) alexander_wiki - 0.7697215997840936
+
+28) monsieur_babet_wiki - 0.7694273774792049
+
+29) combeferre_wiki - 0.766133518950172
+
+30) magnon_wiki - 0.7658583838770902
+
+31) gorbeau_wiki - 0.7633550481027477
+
+32) bossuet_wiki - 0.7565527864161529
+
+33) mademoiselle_euphrasie_wiki - 0.7502150088933139
+
+34) jean_prouvaire_wiki - 0.7252383500621787
+
+35) monsieur_de_courfeyrac_wiki - 0.7234789069840686
+
+36) feuilly_wiki - 0.7144168487812382
+
+37) national_guard_wiki - 0.7121688127517902
+
+38) joly_wiki - 0.7072154705056941
+
+39) court_of_assizes_wiki - 0.7044111733926791
+
+40) laigle_de_meaux_wiki - 0.654568312388954
+
+41) marguerite_wiki - 0.6257087142120303
+
+42) bernard_guidonis_wiki - 0.5559420056273984
+
+Result for the vector: jean_valjean, coming from part a of the book
+Rank: 1 out of 42 characters
+Cosine similarity to the co-referring vector: 0.9413110333290425
+
+1) jean_valjean_wiki - 0.9413110333290425
+
+2) marius_haggard_wiki - 0.9195128131203183
+
+3) monsieur_gavroche_wiki - 0.919248292535747
+
+4) father_fauchelevent_wiki - 0.9095436930656497
+
+5) m_gillenormand_wiki - 0.9076359382109715
+
+6) enjolras_wiki - 0.904319697875973
+
+7) bishop_wiki - 0.8953461647033755
+
+8) monsieur_javert_wiki - 0.8944394917953201
+
+9) grantaire_wiki - 0.8867676854133669
+
+10) mademoiselle_cosette_wiki - 0.8863691159266777
+
+11) m_madeleine_wiki - 0.8730506452261633
+
+12) georges_pontmercy_wiki - 0.872638605957282
+
+13) claquesous_wiki - 0.8567902786496233
+
+14) mother_jondrette_wiki - 0.8504170864571893
+
+15) father_champmathieu_wiki - 0.8497454613598922
+
+16) napoleon_wiki - 0.8450222015380919
+
+17) m_mabeuf_wiki - 0.8424945661432068
+
+18) madame_magloire_wiki - 0.8289666379729941
+
+19) mother_catherine_de_bar_wiki - 0.8248642191371802
+
+20) bahorel_wiki - 0.8232222900854191
+
+21) azelma_wiki - 0.8212703221657809
+
+22) little_gervais_wiki - 0.8132770657539425
+
+23) m_leblanc_wiki - 0.8051749220177685
+
+24) le_cabuc_wiki - 0.7940634015760792
+
+25) magnon_wiki - 0.7848361262776791
+
+26) bougon_wiki - 0.7845153469425026
+
+27) monsieur_babet_wiki - 0.783692359924322
+
+28) gorbeau_wiki - 0.7714718120412952
+
+29) combeferre_wiki - 0.7707098263079045
+
+30) toussaint_wiki - 0.7686621684633407
+
+31) alexander_wiki - 0.7638654253563045
+
+32) bossuet_wiki - 0.7592668080766924
+
+33) mademoiselle_euphrasie_wiki - 0.7563024759292656
+
+34) jean_prouvaire_wiki - 0.7260213061558435
+
+35) monsieur_de_courfeyrac_wiki - 0.7247552111599092
+
+36) feuilly_wiki - 0.7191154146458114
+
+37) joly_wiki - 0.7118736252935379
+
+38) court_of_assizes_wiki - 0.7077290589970924
+
+39) national_guard_wiki - 0.703106992881241
+
+40) laigle_de_meaux_wiki - 0.6663334965705919
+
+41) marguerite_wiki - 0.6522872655220481
+
+42) bernard_guidonis_wiki - 0.5618940256897206
+
+Result for the vector: monsieur_gavroche, coming from part a of the book
+Rank: 2 out of 42 characters
+Cosine similarity to the co-referring vector: 0.9112560258798569
+
+1) bishop_wiki - 0.9170590639114445
+
+2) monsieur_gavroche_wiki - 0.9112560258798569
+
+3) jean_valjean_wiki - 0.8945215077840868
+
+4) father_fauchelevent_wiki - 0.8897113204002444
+
+5) m_madeleine_wiki - 0.8864745036990042
+
+6) madame_magloire_wiki - 0.8744359762148886
+
+7) m_gillenormand_wiki - 0.8664130131705984
+
+8) marius_haggard_wiki - 0.864223071085033
+
+9) mademoiselle_cosette_wiki - 0.8593382323182698
+
+10) georges_pontmercy_wiki - 0.8549675604759064
+
+11) grantaire_wiki - 0.8462619781494201
+
+12) enjolras_wiki - 0.8448580410992067
+
+13) bougon_wiki - 0.8428355642753167
+
+14) monsieur_javert_wiki - 0.8378244388751886
+
+15) claquesous_wiki - 0.8311964621783391
+
+16) mother_jondrette_wiki - 0.8263975485326336
+
+17) mother_catherine_de_bar_wiki - 0.8213594066286455
+
+18) m_leblanc_wiki - 0.812547240397829
+
+19) little_gervais_wiki - 0.8101814985275326
+
+20) napoleon_wiki - 0.8083494305610714
+
+21) father_champmathieu_wiki - 0.806397151565723
+
+22) m_mabeuf_wiki - 0.7965220455501025
+
+23) magnon_wiki - 0.7950900319164986
+
+24) azelma_wiki - 0.7947148443843502
+
+25) toussaint_wiki - 0.7919808154117589
+
+26) bahorel_wiki - 0.7907002692997309
+
+27) monsieur_babet_wiki - 0.7805985212326105
+
+28) bossuet_wiki - 0.7703796165955309
+
+29) alexander_wiki - 0.7604946040812385
+
+30) gorbeau_wiki - 0.7566179182161155
+
+31) combeferre_wiki - 0.7547892478234037
+
+32) le_cabuc_wiki - 0.7532580641950344
+
+33) mademoiselle_euphrasie_wiki - 0.7527835965156608
+
+34) jean_prouvaire_wiki - 0.7362160243859289
+
+35) monsieur_de_courfeyrac_wiki - 0.7251875832788812
+
+36) court_of_assizes_wiki - 0.7213479446561383
+
+37) feuilly_wiki - 0.7157786275214394
+
+38) laigle_de_meaux_wiki - 0.7063336372375538
+
+39) national_guard_wiki - 0.7044582299366791
+
+40) joly_wiki - 0.7026061770193366
+
+41) marguerite_wiki - 0.69453884991772
+
+42) bernard_guidonis_wiki - 0.6062094803923689
+
+Result for the vector: mademoiselle_cosette, coming from part a of the book
+Rank: 4 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8905855482467698
+
+1) madame_magloire_wiki - 0.9146932465203707
+
+2) bishop_wiki - 0.9132336378097599
+
+3) monsieur_gavroche_wiki - 0.9057871215597246
+
+4) mademoiselle_cosette_wiki - 0.8905855482467698
+
+5) jean_valjean_wiki - 0.8883473608390319
+
+6) bougon_wiki - 0.8862434761233954
+
+7) father_fauchelevent_wiki - 0.8834617137908999
+
+8) m_madeleine_wiki - 0.8778731372507647
+
+9) m_gillenormand_wiki - 0.8734691293872441
+
+10) marius_haggard_wiki - 0.8568083729262145
+
+11) magnon_wiki - 0.8414906953876811
+
+12) georges_pontmercy_wiki - 0.8390516926553814
+
+13) grantaire_wiki - 0.8376423120498717
+
+14) claquesous_wiki - 0.8367218721889925
+
+15) mother_jondrette_wiki - 0.8342031935332317
+
+16) azelma_wiki - 0.8334024300157333
+
+17) enjolras_wiki - 0.8305350441059629
+
+18) monsieur_javert_wiki - 0.8286366811801025
+
+19) mother_catherine_de_bar_wiki - 0.825305293482228
+
+20) m_leblanc_wiki - 0.8113294581181795
+
+21) napoleon_wiki - 0.8100912570953427
+
+22) toussaint_wiki - 0.8099707478302286
+
+23) bahorel_wiki - 0.785092009002448
+
+24) father_champmathieu_wiki - 0.7804486286372777
+
+25) little_gervais_wiki - 0.7795622348785456
+
+26) gorbeau_wiki - 0.7786398065900931
+
+27) m_mabeuf_wiki - 0.7766707209741209
+
+28) monsieur_babet_wiki - 0.7754256725311335
+
+29) marguerite_wiki - 0.7681862850078188
+
+30) bossuet_wiki - 0.766272737606006
+
+31) mademoiselle_euphrasie_wiki - 0.7543427348136955
+
+32) alexander_wiki - 0.7459388526714545
+
+33) le_cabuc_wiki - 0.7379765070690819
+
+34) jean_prouvaire_wiki - 0.737262383862593
+
+35) combeferre_wiki - 0.7367525853662155
+
+36) national_guard_wiki - 0.7094978613559269
+
+37) monsieur_de_courfeyrac_wiki - 0.7076687042515811
+
+38) court_of_assizes_wiki - 0.6973519505648654
+
+39) laigle_de_meaux_wiki - 0.6961578130722096
+
+40) feuilly_wiki - 0.6959324271699091
+
+41) joly_wiki - 0.6868856922524342
+
+42) bernard_guidonis_wiki - 0.6035201189804017
+
+Result for the vector: enjolras, coming from part a of the book
+Rank: 3 out of 42 characters
+Cosine similarity to the co-referring vector: 0.904912287289651
+
+1) jean_valjean_wiki - 0.9280907235118568
+
+2) monsieur_gavroche_wiki - 0.9098245609015749
+
+3) enjolras_wiki - 0.904912287289651
+
+4) m_gillenormand_wiki - 0.9040136451704925
+
+5) marius_haggard_wiki - 0.9032606540166958
+
+6) father_fauchelevent_wiki - 0.8982210159301821
+
+7) bishop_wiki - 0.8953582644462649
+
+8) mademoiselle_cosette_wiki - 0.8927803103458712
+
+9) monsieur_javert_wiki - 0.8807978963614173
+
+10) grantaire_wiki - 0.8787055015564027
+
+11) m_madeleine_wiki - 0.8748285919632206
+
+12) georges_pontmercy_wiki - 0.8611771116536076
+
+13) napoleon_wiki - 0.8419684171676696
+
+14) mother_jondrette_wiki - 0.8416989540041131
+
+15) claquesous_wiki - 0.8377247203074513
+
+16) father_champmathieu_wiki - 0.8314165573467891
+
+17) m_mabeuf_wiki - 0.8262574879816189
+
+18) madame_magloire_wiki - 0.8231125684842385
+
+19) mother_catherine_de_bar_wiki - 0.8223067627962387
+
+20) azelma_wiki - 0.8139575477255154
+
+21) bahorel_wiki - 0.8051028367815726
+
+22) little_gervais_wiki - 0.8020025491714534
+
+23) m_leblanc_wiki - 0.7961455352046143
+
+24) magnon_wiki - 0.7920544271436689
+
+25) bougon_wiki - 0.7875452294891799
+
+26) combeferre_wiki - 0.7786414159154061
+
+27) le_cabuc_wiki - 0.7779501212865055
+
+28) monsieur_babet_wiki - 0.7738388180732783
+
+29) toussaint_wiki - 0.7714197175848666
+
+30) gorbeau_wiki - 0.7708568113531596
+
+31) alexander_wiki - 0.7634547493782803
+
+32) bossuet_wiki - 0.7598570132340794
+
+33) mademoiselle_euphrasie_wiki - 0.7549332380294853
+
+34) jean_prouvaire_wiki - 0.7287634176752927
+
+35) monsieur_de_courfeyrac_wiki - 0.7226092650061523
+
+36) feuilly_wiki - 0.7203334951301397
+
+37) national_guard_wiki - 0.7098311108652764
+
+38) court_of_assizes_wiki - 0.7048861560293356
+
+39) joly_wiki - 0.7038976307037317
+
+40) laigle_de_meaux_wiki - 0.669313311576848
+
+41) marguerite_wiki - 0.6367848135957245
+
+42) bernard_guidonis_wiki - 0.5639713666456133
+
+Result for the vector: m_madeleine, coming from part a of the book
+Rank: 8 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8809221457885432
+
+1) jean_valjean_wiki - 0.9260959305195792
+
+2) marius_haggard_wiki - 0.9058506488800049
+
+3) monsieur_gavroche_wiki - 0.9041995463252354
+
+4) m_gillenormand_wiki - 0.8950306239705922
+
+5) father_fauchelevent_wiki - 0.8936586912666987
+
+6) enjolras_wiki - 0.8925160637517114
+
+7) bishop_wiki - 0.8820835877706774
+
+8) m_madeleine_wiki - 0.8809221457885432
+
+9) monsieur_javert_wiki - 0.8800109291079922
+
+10) georges_pontmercy_wiki - 0.8729603442000995
+
+11) mademoiselle_cosette_wiki - 0.870008111000061
+
+12) grantaire_wiki - 0.865969947932361
+
+13) napoleon_wiki - 0.8348143598326674
+
+14) m_mabeuf_wiki - 0.8345527151493615
+
+15) mother_jondrette_wiki - 0.8336130380630493
+
+16) claquesous_wiki - 0.8335047016592239
+
+17) father_champmathieu_wiki - 0.8296931982040405
+
+18) mother_catherine_de_bar_wiki - 0.8157524466514587
+
+19) madame_magloire_wiki - 0.8123922459845411
+
+20) little_gervais_wiki - 0.8070437793161752
+
+21) bahorel_wiki - 0.8013145327568054
+
+22) azelma_wiki - 0.7961365221779506
+
+23) m_leblanc_wiki - 0.7825677654066421
+
+24) bougon_wiki - 0.7802693378764799
+
+25) monsieur_babet_wiki - 0.7745924457664769
+
+26) toussaint_wiki - 0.7740590572357178
+
+27) combeferre_wiki - 0.7661956548690796
+
+28) magnon_wiki - 0.7654487490653992
+
+29) le_cabuc_wiki - 0.762516975402832
+
+30) gorbeau_wiki - 0.7543138265609741
+
+31) bossuet_wiki - 0.7504773139953613
+
+32) alexander_wiki - 0.750421404838562
+
+33) mademoiselle_euphrasie_wiki - 0.73597024297537
+
+34) jean_prouvaire_wiki - 0.7204452753067017
+
+35) feuilly_wiki - 0.7124223921424867
+
+36) monsieur_de_courfeyrac_wiki - 0.7123920574655652
+
+37) court_of_assizes_wiki - 0.7012355327606201
+
+38) national_guard_wiki - 0.7005295514429201
+
+39) joly_wiki - 0.6964238466963871
+
+40) laigle_de_meaux_wiki - 0.6640195646297684
+
+41) marguerite_wiki - 0.6208292245864868
+
+42) bernard_guidonis_wiki - 0.5718043446540833
+
+Result for the vector: m_gillenormand, coming from part a of the book
+Rank: 4 out of 42 characters
+Cosine similarity to the co-referring vector: 0.913352153898988
+
+1) jean_valjean_wiki - 0.9385731706452145
+
+2) monsieur_gavroche_wiki - 0.9186297880378376
+
+3) marius_haggard_wiki - 0.9182483134043785
+
+4) m_gillenormand_wiki - 0.913352153898988
+
+5) father_fauchelevent_wiki - 0.9071858629674066
+
+6) enjolras_wiki - 0.8967470547772499
+
+7) m_madeleine_wiki - 0.8937094414570623
+
+8) monsieur_javert_wiki - 0.8926361011212116
+
+9) bishop_wiki - 0.8920957519015784
+
+10) mademoiselle_cosette_wiki - 0.887709511475202
+
+11) georges_pontmercy_wiki - 0.8835336233238783
+
+12) grantaire_wiki - 0.8813724568369184
+
+13) claquesous_wiki - 0.8549598792123639
+
+14) mother_jondrette_wiki - 0.8503837064480438
+
+15) madame_magloire_wiki - 0.8444727222150201
+
+16) napoleon_wiki - 0.8441819521568351
+
+17) m_mabeuf_wiki - 0.8417386569147285
+
+18) father_champmathieu_wiki - 0.8378342446437935
+
+19) mother_catherine_de_bar_wiki - 0.8286485714686861
+
+20) azelma_wiki - 0.8236879987158832
+
+21) bahorel_wiki - 0.8210501702204691
+
+22) little_gervais_wiki - 0.8069050207237974
+
+23) m_leblanc_wiki - 0.8062623979527763
+
+24) magnon_wiki - 0.7991293667449693
+
+25) bougon_wiki - 0.7968245265029121
+
+26) monsieur_babet_wiki - 0.7909530263147143
+
+27) combeferre_wiki - 0.7818080159735791
+
+28) toussaint_wiki - 0.7803686231924118
+
+29) le_cabuc_wiki - 0.7722014743389982
+
+30) gorbeau_wiki - 0.7709796385436797
+
+31) mademoiselle_euphrasie_wiki - 0.7643126651700961
+
+32) bossuet_wiki - 0.7636442726320519
+
+33) alexander_wiki - 0.7572527464110855
+
+34) jean_prouvaire_wiki - 0.7473768513466279
+
+35) monsieur_de_courfeyrac_wiki - 0.7284338639946218
+
+36) feuilly_wiki - 0.7251324162123999
+
+37) court_of_assizes_wiki - 0.7115742432436788
+
+38) joly_wiki - 0.7107526699381628
+
+39) national_guard_wiki - 0.7103090497943731
+
+40) laigle_de_meaux_wiki - 0.6798072087362573
+
+41) marguerite_wiki - 0.6546464345822458
+
+42) bernard_guidonis_wiki - 0.5867652575321944
+
+Result for the vector: monsieur_de_courfeyrac, coming from part a of the book
+Rank: 36 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7128839150528857
+
+1) jean_valjean_wiki - 0.9321306029597108
+
+2) marius_haggard_wiki - 0.9140893220901489
+
+3) monsieur_gavroche_wiki - 0.9091517383365804
+
+4) m_gillenormand_wiki - 0.9051144775680035
+
+5) enjolras_wiki - 0.9009081007132714
+
+6) father_fauchelevent_wiki - 0.8987518488616869
+
+7) monsieur_javert_wiki - 0.8963256149389037
+
+8) mademoiselle_cosette_wiki - 0.8948187232017517
+
+9) bishop_wiki - 0.8906069332722998
+
+10) m_madeleine_wiki - 0.881213850902687
+
+11) georges_pontmercy_wiki - 0.8750895410669459
+
+12) grantaire_wiki - 0.8715052528086471
+
+13) mother_jondrette_wiki - 0.8444600105285645
+
+14) claquesous_wiki - 0.8423341763715204
+
+15) napoleon_wiki - 0.8393883013360695
+
+16) m_mabeuf_wiki - 0.8320773940040249
+
+17) madame_magloire_wiki - 0.8269148572138052
+
+18) azelma_wiki - 0.8220795041942452
+
+19) father_champmathieu_wiki - 0.8216508030891418
+
+20) mother_catherine_de_bar_wiki - 0.8111019134521484
+
+21) bougon_wiki - 0.8021262406035533
+
+22) bahorel_wiki - 0.8009669780731201
+
+23) m_leblanc_wiki - 0.8008983372571123
+
+24) little_gervais_wiki - 0.7946193095814784
+
+25) magnon_wiki - 0.7871904373168945
+
+26) monsieur_babet_wiki - 0.7729341252406924
+
+27) gorbeau_wiki - 0.7703276872634888
+
+28) toussaint_wiki - 0.7676112651824951
+
+29) le_cabuc_wiki - 0.7666283249855042
+
+30) alexander_wiki - 0.764438271522522
+
+31) bossuet_wiki - 0.758639931678772
+
+32) combeferre_wiki - 0.7569196820259094
+
+33) mademoiselle_euphrasie_wiki - 0.7499895542853818
+
+34) jean_prouvaire_wiki - 0.7188254594802856
+
+35) court_of_assizes_wiki - 0.7134395837783813
+
+36) monsieur_de_courfeyrac_wiki - 0.7128839150528857
+
+37) national_guard_wiki - 0.6991153122049247
+
+38) feuilly_wiki - 0.6958307235190491
+
+39) joly_wiki - 0.6898718065099844
+
+40) laigle_de_meaux_wiki - 0.6580492650299838
+
+41) marguerite_wiki - 0.6417839527130127
+
+42) bernard_guidonis_wiki - 0.5580834746360779
+
+Result for the vector: napoleon, coming from part a of the book
+Rank: 7 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8712733311220024
+
+1) jean_valjean_wiki - 0.9135667953958156
+
+2) enjolras_wiki - 0.8970476266202545
+
+3) marius_haggard_wiki - 0.8935655951499939
+
+4) m_gillenormand_wiki - 0.8882649607500473
+
+5) monsieur_gavroche_wiki - 0.8876141376725369
+
+6) monsieur_javert_wiki - 0.877464559002655
+
+7) napoleon_wiki - 0.8712733311220024
+
+8) father_fauchelevent_wiki - 0.8696977418480973
+
+9) mademoiselle_cosette_wiki - 0.8645872473716736
+
+10) bishop_wiki - 0.858677080790824
+
+11) georges_pontmercy_wiki - 0.8497262776224342
+
+12) m_madeleine_wiki - 0.8442922327344294
+
+13) grantaire_wiki - 0.8386634492077514
+
+14) claquesous_wiki - 0.8231437451584267
+
+15) father_champmathieu_wiki - 0.8210943937301636
+
+16) mother_jondrette_wiki - 0.8196185827255249
+
+17) mother_catherine_de_bar_wiki - 0.797835111618042
+
+18) little_gervais_wiki - 0.7972103832489494
+
+19) le_cabuc_wiki - 0.7971581816673279
+
+20) azelma_wiki - 0.795973980306804
+
+21) bahorel_wiki - 0.7958567142486572
+
+22) m_mabeuf_wiki - 0.7945293310565169
+
+23) madame_magloire_wiki - 0.7940713885980031
+
+24) magnon_wiki - 0.7792861461639404
+
+25) m_leblanc_wiki - 0.7711473380151639
+
+26) gorbeau_wiki - 0.7647443413734436
+
+27) combeferre_wiki - 0.7585869431495667
+
+28) monsieur_babet_wiki - 0.7533449383583641
+
+29) bougon_wiki - 0.7470129879109284
+
+30) alexander_wiki - 0.7428097724914551
+
+31) toussaint_wiki - 0.7325365543365479
+
+32) bossuet_wiki - 0.7225735783576965
+
+33) mademoiselle_euphrasie_wiki - 0.7218156291136534
+
+34) court_of_assizes_wiki - 0.6960254907608032
+
+35) national_guard_wiki - 0.6951840883274022
+
+36) feuilly_wiki - 0.6949658600975832
+
+37) monsieur_de_courfeyrac_wiki - 0.6886177287838184
+
+38) jean_prouvaire_wiki - 0.6800214648246765
+
+39) joly_wiki - 0.6740673378665853
+
+40) laigle_de_meaux_wiki - 0.6247539892646079
+
+41) marguerite_wiki - 0.5972241163253784
+
+42) bernard_guidonis_wiki - 0.5446012616157532
+
+Result for the vector: mother_jondrette, coming from part a of the book
+Rank: 14 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8307743072509766
+
+1) jean_valjean_wiki - 0.8876692321201934
+
+2) monsieur_gavroche_wiki - 0.8823900292879341
+
+3) bishop_wiki - 0.8819997240304798
+
+4) m_gillenormand_wiki - 0.8736844138095148
+
+5) enjolras_wiki - 0.8569005557180175
+
+6) m_madeleine_wiki - 0.8567659344216639
+
+7) father_fauchelevent_wiki - 0.855861834040991
+
+8) mother_catherine_de_bar_wiki - 0.8505713939666748
+
+9) marius_haggard_wiki - 0.8500913977622986
+
+10) mademoiselle_cosette_wiki - 0.8447614908218384
+
+11) father_champmathieu_wiki - 0.8374514579772949
+
+12) georges_pontmercy_wiki - 0.8350169855336027
+
+13) monsieur_javert_wiki - 0.8323515901670338
+
+14) mother_jondrette_wiki - 0.8307743072509766
+
+15) grantaire_wiki - 0.8231487764804841
+
+16) little_gervais_wiki - 0.8082561974678172
+
+17) m_mabeuf_wiki - 0.8046299335581119
+
+18) claquesous_wiki - 0.8000104665759349
+
+19) napoleon_wiki - 0.796383905195232
+
+20) madame_magloire_wiki - 0.7826669345696622
+
+21) bougon_wiki - 0.7767856254109381
+
+22) bahorel_wiki - 0.7675302028656006
+
+23) gorbeau_wiki - 0.7647566199302673
+
+24) m_leblanc_wiki - 0.7635962648873068
+
+25) combeferre_wiki - 0.7545285820960999
+
+26) toussaint_wiki - 0.7543275356292725
+
+27) azelma_wiki - 0.753941796837503
+
+28) monsieur_babet_wiki - 0.7535088511412664
+
+29) le_cabuc_wiki - 0.749086320400238
+
+30) bossuet_wiki - 0.7453637719154358
+
+31) magnon_wiki - 0.7442610263824463
+
+32) mademoiselle_euphrasie_wiki - 0.7431837763299822
+
+33) alexander_wiki - 0.7387948036193848
+
+34) court_of_assizes_wiki - 0.7053244709968567
+
+35) monsieur_de_courfeyrac_wiki - 0.7025780919287364
+
+36) jean_prouvaire_wiki - 0.6963250041007996
+
+37) feuilly_wiki - 0.69107236537553
+
+38) national_guard_wiki - 0.6864180342652806
+
+39) joly_wiki - 0.6834052393790949
+
+40) laigle_de_meaux_wiki - 0.6269420759047326
+
+41) marguerite_wiki - 0.5926988124847412
+
+42) bernard_guidonis_wiki - 0.5337092876434326
+
+Result for the vector: monsieur_javert, coming from part a of the book
+Rank: 11 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8652957935719432
+
+1) jean_valjean_wiki - 0.918085900488076
+
+2) monsieur_gavroche_wiki - 0.9001355826773908
+
+3) enjolras_wiki - 0.8967726703611283
+
+4) m_gillenormand_wiki - 0.894691175538829
+
+5) marius_haggard_wiki - 0.8922709822654724
+
+6) bishop_wiki - 0.8892843061258991
+
+7) m_madeleine_wiki - 0.8852912255948067
+
+8) father_fauchelevent_wiki - 0.8845852544656563
+
+9) georges_pontmercy_wiki - 0.8688612736628983
+
+10) mademoiselle_cosette_wiki - 0.8681204319000244
+
+11) monsieur_javert_wiki - 0.8652957935719432
+
+12) grantaire_wiki - 0.8605531967015995
+
+13) mother_catherine_de_bar_wiki - 0.8414553999900818
+
+14) father_champmathieu_wiki - 0.8385113477706909
+
+15) m_mabeuf_wiki - 0.8332092861408436
+
+16) napoleon_wiki - 0.8205546629759483
+
+17) mother_jondrette_wiki - 0.8199275732040405
+
+18) claquesous_wiki - 0.8171196227407347
+
+19) little_gervais_wiki - 0.8077874069087166
+
+20) madame_magloire_wiki - 0.8012673973281756
+
+21) bougon_wiki - 0.7877390511191471
+
+22) bahorel_wiki - 0.7807489633560181
+
+23) azelma_wiki - 0.7788117164019265
+
+24) m_leblanc_wiki - 0.7777106430875543
+
+25) combeferre_wiki - 0.774036169052124
+
+26) toussaint_wiki - 0.7689824104309082
+
+27) magnon_wiki - 0.7667394280433655
+
+28) monsieur_babet_wiki - 0.7576599572694289
+
+29) mademoiselle_euphrasie_wiki - 0.7563390586578298
+
+30) alexander_wiki - 0.7544167637825012
+
+31) bossuet_wiki - 0.7528137564659119
+
+32) gorbeau_wiki - 0.7525109052658081
+
+33) le_cabuc_wiki - 0.7457200884819031
+
+34) jean_prouvaire_wiki - 0.7366942167282104
+
+35) feuilly_wiki - 0.7231863952632668
+
+36) monsieur_de_courfeyrac_wiki - 0.718698170029904
+
+37) national_guard_wiki - 0.7064496628702139
+
+38) joly_wiki - 0.6992837369868925
+
+39) court_of_assizes_wiki - 0.6950401663780212
+
+40) laigle_de_meaux_wiki - 0.6705770892248815
+
+41) marguerite_wiki - 0.6146417856216431
+
+42) bernard_guidonis_wiki - 0.561534583568573
+
+Result for the vector: father_fauchelevent, coming from part a of the book
+Rank: 4 out of 42 characters
+Cosine similarity to the co-referring vector: 0.9030876813478804
+
+1) jean_valjean_wiki - 0.9311626913104138
+
+2) marius_haggard_wiki - 0.9141962034468474
+
+3) monsieur_gavroche_wiki - 0.9094069762098251
+
+4) father_fauchelevent_wiki - 0.9030876813478804
+
+5) monsieur_javert_wiki - 0.891541878145179
+
+6) m_gillenormand_wiki - 0.8910482124600047
+
+7) bishop_wiki - 0.8906948035541437
+
+8) enjolras_wiki - 0.8891849517822519
+
+9) mademoiselle_cosette_wiki - 0.8834507604300132
+
+10) m_madeleine_wiki - 0.8801040863804679
+
+11) grantaire_wiki - 0.8696562725510574
+
+12) georges_pontmercy_wiki - 0.8627775638633814
+
+13) claquesous_wiki - 0.8448349674193684
+
+14) father_champmathieu_wiki - 0.8393926811942302
+
+15) mother_jondrette_wiki - 0.8370374635413392
+
+16) m_mabeuf_wiki - 0.8336978852097016
+
+17) napoleon_wiki - 0.8335022429524649
+
+18) mother_catherine_de_bar_wiki - 0.8270932046063953
+
+19) madame_magloire_wiki - 0.8242872075520994
+
+20) little_gervais_wiki - 0.813046287712689
+
+21) azelma_wiki - 0.812539624046726
+
+22) bahorel_wiki - 0.8044132227405101
+
+23) m_leblanc_wiki - 0.7988133910147212
+
+24) bougon_wiki - 0.791162528187778
+
+25) monsieur_babet_wiki - 0.7837876210339421
+
+26) magnon_wiki - 0.7807113789664111
+
+27) toussaint_wiki - 0.7688096441257479
+
+28) le_cabuc_wiki - 0.7678846397537477
+
+29) gorbeau_wiki - 0.7675333300193209
+
+30) combeferre_wiki - 0.7659416477749822
+
+31) alexander_wiki - 0.7585454274957917
+
+32) mademoiselle_euphrasie_wiki - 0.7522263078554805
+
+33) bossuet_wiki - 0.7507857381360896
+
+34) court_of_assizes_wiki - 0.7290217603419165
+
+35) jean_prouvaire_wiki - 0.7214306328975452
+
+36) monsieur_de_courfeyrac_wiki - 0.7182955741882528
+
+37) national_guard_wiki - 0.7108935807004975
+
+38) feuilly_wiki - 0.7100026568768112
+
+39) joly_wiki - 0.7002206980787472
+
+40) laigle_de_meaux_wiki - 0.6623463831933615
+
+41) marguerite_wiki - 0.6404790114785465
+
+42) bernard_guidonis_wiki - 0.5702798878812964
+
+Result for the vector: m_leblanc, coming from part a of the book
+Rank: 21 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7927182214931914
+
+1) jean_valjean_wiki - 0.9312801720547625
+
+2) marius_haggard_wiki - 0.9283052172297046
+
+3) monsieur_gavroche_wiki - 0.8994987786712462
+
+4) monsieur_javert_wiki - 0.8989356548545769
+
+5) m_gillenormand_wiki - 0.8989103617232407
+
+6) enjolras_wiki - 0.8940570354461924
+
+7) mademoiselle_cosette_wiki - 0.891936672695086
+
+8) father_fauchelevent_wiki - 0.8903069561537077
+
+9) grantaire_wiki - 0.8829652140757455
+
+10) georges_pontmercy_wiki - 0.8655367218168445
+
+11) bishop_wiki - 0.8641827187429376
+
+12) m_madeleine_wiki - 0.85291364438886
+
+13) m_mabeuf_wiki - 0.8447107950370097
+
+14) claquesous_wiki - 0.8330337256461123
+
+15) mother_jondrette_wiki - 0.8327588042308385
+
+16) azelma_wiki - 0.8291824910775673
+
+17) napoleon_wiki - 0.8229927526120823
+
+18) father_champmathieu_wiki - 0.8064029447552089
+
+19) madame_magloire_wiki - 0.7980769041639156
+
+20) mother_catherine_de_bar_wiki - 0.794994199872714
+
+21) m_leblanc_wiki - 0.7927182214931914
+
+22) bahorel_wiki - 0.7812732122810881
+
+23) magnon_wiki - 0.7666020671603654
+
+24) little_gervais_wiki - 0.7665051361021441
+
+25) monsieur_babet_wiki - 0.762337460378572
+
+26) le_cabuc_wiki - 0.7619631574197874
+
+27) gorbeau_wiki - 0.7545427376577029
+
+28) bougon_wiki - 0.7505833952575824
+
+29) alexander_wiki - 0.74397811365389
+
+30) toussaint_wiki - 0.7433796830916836
+
+31) bossuet_wiki - 0.7373063877455779
+
+32) combeferre_wiki - 0.7276401248407267
+
+33) mademoiselle_euphrasie_wiki - 0.7222481535525346
+
+34) monsieur_de_courfeyrac_wiki - 0.6990320086479386
+
+35) jean_prouvaire_wiki - 0.6915848026770638
+
+36) national_guard_wiki - 0.6893274332696359
+
+37) joly_wiki - 0.676938233923037
+
+38) court_of_assizes_wiki - 0.6759466915194212
+
+39) feuilly_wiki - 0.6717904801556114
+
+40) laigle_de_meaux_wiki - 0.6370868303128088
+
+41) marguerite_wiki - 0.6318588695694408
+
+42) bernard_guidonis_wiki - 0.5336980779530947
+
+Result for the vector: m_mabeuf, coming from part a of the book
+Rank: 19 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8279588325048204
+
+1) jean_valjean_wiki - 0.9281894245204162
+
+2) monsieur_gavroche_wiki - 0.9096930676881647
+
+3) m_gillenormand_wiki - 0.9092143232098642
+
+4) marius_haggard_wiki - 0.906369686126709
+
+5) father_fauchelevent_wiki - 0.9013646186211494
+
+6) enjolras_wiki - 0.8980027315619927
+
+7) bishop_wiki - 0.8955110249227912
+
+8) mademoiselle_cosette_wiki - 0.8914639353752136
+
+9) monsieur_javert_wiki - 0.8877719309262021
+
+10) m_madeleine_wiki - 0.8860445686552202
+
+11) georges_pontmercy_wiki - 0.8823925396928206
+
+12) grantaire_wiki - 0.8700944703873692
+
+13) mother_jondrette_wiki - 0.8474586606025696
+
+14) father_champmathieu_wiki - 0.8385510444641113
+
+15) napoleon_wiki - 0.838245918646213
+
+16) claquesous_wiki - 0.8370896827307253
+
+17) mother_catherine_de_bar_wiki - 0.8329501748085022
+
+18) madame_magloire_wiki - 0.8293873769410043
+
+19) m_mabeuf_wiki - 0.8279588325048204
+
+20) little_gervais_wiki - 0.8163352499208018
+
+21) azelma_wiki - 0.8134956602303884
+
+22) bahorel_wiki - 0.8088405728340149
+
+23) m_leblanc_wiki - 0.8056550257617262
+
+24) bougon_wiki - 0.7989215374635747
+
+25) magnon_wiki - 0.7972486615180969
+
+26) toussaint_wiki - 0.7839555740356445
+
+27) monsieur_babet_wiki - 0.7779702411872306
+
+28) combeferre_wiki - 0.7745720148086548
+
+29) gorbeau_wiki - 0.7687042951583862
+
+30) le_cabuc_wiki - 0.7679410576820374
+
+31) alexander_wiki - 0.7670119404792786
+
+32) bossuet_wiki - 0.7623156905174255
+
+33) mademoiselle_euphrasie_wiki - 0.7559698078614372
+
+34) jean_prouvaire_wiki - 0.7367344498634338
+
+35) feuilly_wiki - 0.7283763506524671
+
+36) court_of_assizes_wiki - 0.7200601696968079
+
+37) monsieur_de_courfeyrac_wiki - 0.719462838108883
+
+38) national_guard_wiki - 0.704699789917499
+
+39) joly_wiki - 0.6980699480730339
+
+40) laigle_de_meaux_wiki - 0.6681834261526731
+
+41) marguerite_wiki - 0.6459959149360657
+
+42) bernard_guidonis_wiki - 0.5728997588157654
+
+Result for the vector: madame_magloire, coming from part a of the book
+Rank: 13 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8388680911738833
+
+1) jean_valjean_wiki - 0.9195972359060421
+
+2) marius_haggard_wiki - 0.8983348608016968
+
+3) father_fauchelevent_wiki - 0.8949477609960906
+
+4) mademoiselle_cosette_wiki - 0.8938864469528198
+
+5) monsieur_gavroche_wiki - 0.8937293950480599
+
+6) m_gillenormand_wiki - 0.8887001938402553
+
+7) enjolras_wiki - 0.8835314373411525
+
+8) bishop_wiki - 0.8822343875309475
+
+9) monsieur_javert_wiki - 0.875318672517499
+
+10) grantaire_wiki - 0.8726057930353772
+
+11) m_madeleine_wiki - 0.8666691859561706
+
+12) georges_pontmercy_wiki - 0.8396201920962164
+
+13) madame_magloire_wiki - 0.8388680911738833
+
+14) azelma_wiki - 0.8314696202120075
+
+15) m_mabeuf_wiki - 0.8266553982105629
+
+16) mother_catherine_de_bar_wiki - 0.8247441053390503
+
+17) claquesous_wiki - 0.8243482358559444
+
+18) mother_jondrette_wiki - 0.8234254121780396
+
+19) napoleon_wiki - 0.8185022961200666
+
+20) magnon_wiki - 0.8100451231002808
+
+21) father_champmathieu_wiki - 0.8066798448562622
+
+22) bougon_wiki - 0.8038048265096663
+
+23) bahorel_wiki - 0.7947174906730652
+
+24) little_gervais_wiki - 0.7866139284738274
+
+25) m_leblanc_wiki - 0.7860737697990271
+
+26) monsieur_babet_wiki - 0.7735109790272118
+
+27) toussaint_wiki - 0.7645193934440613
+
+28) combeferre_wiki - 0.7579879760742188
+
+29) le_cabuc_wiki - 0.7561370730400085
+
+30) mademoiselle_euphrasie_wiki - 0.7550993415772536
+
+31) bossuet_wiki - 0.7547128200531006
+
+32) alexander_wiki - 0.754157543182373
+
+33) gorbeau_wiki - 0.7517043352127075
+
+34) monsieur_de_courfeyrac_wiki - 0.7202499771416211
+
+35) jean_prouvaire_wiki - 0.7171716094017029
+
+36) court_of_assizes_wiki - 0.7124325037002563
+
+37) feuilly_wiki - 0.7100549551860978
+
+38) joly_wiki - 0.7000278413279164
+
+39) marguerite_wiki - 0.6879160404205322
+
+40) national_guard_wiki - 0.6838986654402465
+
+41) laigle_de_meaux_wiki - 0.6628710426611342
+
+42) bernard_guidonis_wiki - 0.5683654546737671
+
+Result for the vector: combeferre, coming from part a of the book
+Rank: 24 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7820794452476185
+
+1) jean_valjean_wiki - 0.9167524203734778
+
+2) marius_haggard_wiki - 0.893982642530362
+
+3) monsieur_gavroche_wiki - 0.8920972347259585
+
+4) enjolras_wiki - 0.8853047881075377
+
+5) father_fauchelevent_wiki - 0.8849100929391495
+
+6) m_gillenormand_wiki - 0.8838346004486147
+
+7) bishop_wiki - 0.883360968036767
+
+8) m_madeleine_wiki - 0.8773670196533265
+
+9) monsieur_javert_wiki - 0.8749845214174263
+
+10) grantaire_wiki - 0.866225941923373
+
+11) mademoiselle_cosette_wiki - 0.8586273109094701
+
+12) georges_pontmercy_wiki - 0.8560685005147296
+
+13) napoleon_wiki - 0.8366831346372526
+
+14) claquesous_wiki - 0.8348531873392931
+
+15) mother_jondrette_wiki - 0.8285944359656847
+
+16) m_mabeuf_wiki - 0.8202483654022275
+
+17) madame_magloire_wiki - 0.8102877736091672
+
+18) father_champmathieu_wiki - 0.8102701789301755
+
+19) bahorel_wiki - 0.8062001351237392
+
+20) mother_catherine_de_bar_wiki - 0.8033801796066883
+
+21) azelma_wiki - 0.7917662970810802
+
+22) m_leblanc_wiki - 0.7867460377963884
+
+23) little_gervais_wiki - 0.7823710182155392
+
+24) combeferre_wiki - 0.7820794452476185
+
+25) le_cabuc_wiki - 0.7801461684790963
+
+26) monsieur_babet_wiki - 0.7792426084569226
+
+27) magnon_wiki - 0.7700960499105497
+
+28) bougon_wiki - 0.7672650814056451
+
+29) alexander_wiki - 0.7583594774222076
+
+30) bossuet_wiki - 0.7554048750045834
+
+31) toussaint_wiki - 0.7552522275002151
+
+32) mademoiselle_euphrasie_wiki - 0.7511663736303298
+
+33) gorbeau_wiki - 0.748445078637904
+
+34) jean_prouvaire_wiki - 0.7260752753064214
+
+35) monsieur_de_courfeyrac_wiki - 0.719651946959249
+
+36) feuilly_wiki - 0.7137702149543361
+
+37) court_of_assizes_wiki - 0.7096081799035192
+
+38) joly_wiki - 0.7032634615898182
+
+39) national_guard_wiki - 0.7003116190247874
+
+40) laigle_de_meaux_wiki - 0.6596703123653307
+
+41) marguerite_wiki - 0.6149551042887642
+
+42) bernard_guidonis_wiki - 0.5624187923919445
+
+Result for the vector: toussaint, coming from part a of the book
+Rank: 26 out of 42 characters
+Cosine similarity to the co-referring vector: 0.696631807289613
+
+1) azelma_wiki - 0.8462238059573265
+
+2) monsieur_gavroche_wiki - 0.8411028574582509
+
+3) marius_haggard_wiki - 0.8369435169134443
+
+4) jean_valjean_wiki - 0.8354441870616652
+
+5) monsieur_javert_wiki - 0.8220274203411546
+
+6) mademoiselle_cosette_wiki - 0.8191625583671013
+
+7) m_gillenormand_wiki - 0.807894729626807
+
+8) claquesous_wiki - 0.8042542098684876
+
+9) grantaire_wiki - 0.8012706041336116
+
+10) enjolras_wiki - 0.8007730722888283
+
+11) madame_magloire_wiki - 0.800026500221908
+
+12) father_fauchelevent_wiki - 0.7997964620590267
+
+13) mother_jondrette_wiki - 0.7995345115939088
+
+14) m_leblanc_wiki - 0.7961878544948375
+
+15) bishop_wiki - 0.7642675638198907
+
+16) bahorel_wiki - 0.7575352336445325
+
+17) georges_pontmercy_wiki - 0.7572226362426349
+
+18) m_madeleine_wiki - 0.741597385216071
+
+19) monsieur_babet_wiki - 0.7389912009239249
+
+20) napoleon_wiki - 0.7358443737030081
+
+21) m_mabeuf_wiki - 0.7282588805843734
+
+22) father_champmathieu_wiki - 0.7177630831144415
+
+23) le_cabuc_wiki - 0.7128747276738461
+
+24) magnon_wiki - 0.706564861144731
+
+25) marguerite_wiki - 0.7030169544805924
+
+26) toussaint_wiki - 0.696631807289613
+
+27) little_gervais_wiki - 0.6961514353752186
+
+28) bougon_wiki - 0.6780566956929331
+
+29) gorbeau_wiki - 0.6761750771895016
+
+30) mother_catherine_de_bar_wiki - 0.6756440594408488
+
+31) alexander_wiki - 0.6539520231513974
+
+32) bossuet_wiki - 0.6458820315669768
+
+33) mademoiselle_euphrasie_wiki - 0.644014716148381
+
+34) combeferre_wiki - 0.6418608640515301
+
+35) court_of_assizes_wiki - 0.6273018343864789
+
+36) jean_prouvaire_wiki - 0.6179143418124722
+
+37) monsieur_de_courfeyrac_wiki - 0.5748640641489159
+
+38) laigle_de_meaux_wiki - 0.5715230703353923
+
+39) joly_wiki - 0.5608843492407383
+
+40) national_guard_wiki - 0.5597979021433777
+
+41) feuilly_wiki - 0.5516495540246522
+
+42) bernard_guidonis_wiki - 0.5173538018850216
+
+Result for the vector: grantaire, coming from part a of the book
+Rank: 9 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8594932132506267
+
+1) jean_valjean_wiki - 0.9096782153653035
+
+2) monsieur_gavroche_wiki - 0.8949153156603814
+
+3) bishop_wiki - 0.8912067614084571
+
+4) father_fauchelevent_wiki - 0.8864776092598688
+
+5) m_madeleine_wiki - 0.8794011211573779
+
+6) marius_haggard_wiki - 0.8776766919397326
+
+7) m_gillenormand_wiki - 0.8707717397579067
+
+8) enjolras_wiki - 0.8702997670024321
+
+9) grantaire_wiki - 0.8594932132506267
+
+10) mademoiselle_cosette_wiki - 0.8591650384415701
+
+11) georges_pontmercy_wiki - 0.8566139170574715
+
+12) monsieur_javert_wiki - 0.8472338227769031
+
+13) madame_magloire_wiki - 0.8237966053546519
+
+14) claquesous_wiki - 0.8199657690504651
+
+15) father_champmathieu_wiki - 0.817819679314485
+
+16) mother_jondrette_wiki - 0.8170033340753122
+
+17) m_mabeuf_wiki - 0.8160435910211956
+
+18) mother_catherine_de_bar_wiki - 0.8156568651097083
+
+19) napoleon_wiki - 0.8151860965954751
+
+20) bougon_wiki - 0.8020173668260199
+
+21) bahorel_wiki - 0.7999801874154866
+
+22) little_gervais_wiki - 0.7932186835901756
+
+23) m_leblanc_wiki - 0.7845685376612747
+
+24) azelma_wiki - 0.77779089080041
+
+25) toussaint_wiki - 0.7715010872930615
+
+26) combeferre_wiki - 0.770577811317975
+
+27) magnon_wiki - 0.7690454354597761
+
+28) monsieur_babet_wiki - 0.7663946836943645
+
+29) bossuet_wiki - 0.7642662752946104
+
+30) alexander_wiki - 0.763940416691912
+
+31) gorbeau_wiki - 0.7543592677819514
+
+32) le_cabuc_wiki - 0.7543214784360376
+
+33) mademoiselle_euphrasie_wiki - 0.7531095224418812
+
+34) jean_prouvaire_wiki - 0.7405699116161443
+
+35) monsieur_de_courfeyrac_wiki - 0.7370898033812379
+
+36) feuilly_wiki - 0.7287526565046701
+
+37) joly_wiki - 0.7210379624057452
+
+38) national_guard_wiki - 0.7013766734561396
+
+39) court_of_assizes_wiki - 0.6997535437272058
+
+40) laigle_de_meaux_wiki - 0.6716485623999148
+
+41) marguerite_wiki - 0.6293840595896265
+
+42) bernard_guidonis_wiki - 0.5663708021155242
+
+Result for the vector: bossuet, coming from part a of the book
+Rank: 29 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7732709646224976
+
+1) jean_valjean_wiki - 0.9381588380980149
+
+2) monsieur_gavroche_wiki - 0.9266853972264903
+
+3) marius_haggard_wiki - 0.9198300242424011
+
+4) father_fauchelevent_wiki - 0.9129700608831697
+
+5) m_gillenormand_wiki - 0.912480419130302
+
+6) enjolras_wiki - 0.9058969504710441
+
+7) bishop_wiki - 0.900224441303281
+
+8) monsieur_javert_wiki - 0.8991164236997496
+
+9) m_madeleine_wiki - 0.8952444258186579
+
+10) grantaire_wiki - 0.8841759493455872
+
+11) georges_pontmercy_wiki - 0.8837705393111126
+
+12) mademoiselle_cosette_wiki - 0.8836730122566223
+
+13) claquesous_wiki - 0.8695819637054794
+
+14) madame_magloire_wiki - 0.8504739492849157
+
+15) m_mabeuf_wiki - 0.8489120096616755
+
+16) mother_jondrette_wiki - 0.8466155529022217
+
+17) napoleon_wiki - 0.8420567418370704
+
+18) father_champmathieu_wiki - 0.8420082330703735
+
+19) bahorel_wiki - 0.8310912251472473
+
+20) azelma_wiki - 0.8267769463889885
+
+21) m_leblanc_wiki - 0.8200867390529286
+
+22) little_gervais_wiki - 0.8193417679871197
+
+23) mother_catherine_de_bar_wiki - 0.8087489604949951
+
+24) bougon_wiki - 0.8050562259521364
+
+25) monsieur_babet_wiki - 0.8022197963130367
+
+26) le_cabuc_wiki - 0.7813896536827087
+
+27) magnon_wiki - 0.7777237892150879
+
+28) toussaint_wiki - 0.7770410180091858
+
+29) bossuet_wiki - 0.7732709646224976
+
+30) combeferre_wiki - 0.77081698179245
+
+31) gorbeau_wiki - 0.7602591514587402
+
+32) alexander_wiki - 0.7587740421295166
+
+33) mademoiselle_euphrasie_wiki - 0.7469753472194296
+
+34) jean_prouvaire_wiki - 0.7322804927825928
+
+35) monsieur_de_courfeyrac_wiki - 0.7186927460065828
+
+36) court_of_assizes_wiki - 0.7116622924804688
+
+37) joly_wiki - 0.6982588351810686
+
+38) feuilly_wiki - 0.6974162667219721
+
+39) national_guard_wiki - 0.6958069567910534
+
+40) laigle_de_meaux_wiki - 0.6946483668475382
+
+41) marguerite_wiki - 0.6697964072227478
+
+42) bernard_guidonis_wiki - 0.5967549085617065
+
+Result for the vector: laigle_de_meaux, coming from part a of the book
+Rank: 40 out of 42 characters
+Cosine similarity to the co-referring vector: 0.6646514335066946
+
+1) jean_valjean_wiki - 0.8964777856015503
+
+2) monsieur_gavroche_wiki - 0.8875492282182454
+
+3) m_madeleine_wiki - 0.8816630314789411
+
+4) bishop_wiki - 0.8780240343823469
+
+5) m_gillenormand_wiki - 0.8722142653337575
+
+6) enjolras_wiki - 0.8690325461664913
+
+7) father_fauchelevent_wiki - 0.8677915851945646
+
+8) marius_haggard_wiki - 0.8672482967376709
+
+9) georges_pontmercy_wiki - 0.8594109583603254
+
+10) mademoiselle_cosette_wiki - 0.8567751049995422
+
+11) grantaire_wiki - 0.841551473233193
+
+12) monsieur_javert_wiki - 0.839751268617847
+
+13) mother_catherine_de_bar_wiki - 0.8284056186676025
+
+14) father_champmathieu_wiki - 0.8154720664024353
+
+15) m_mabeuf_wiki - 0.8092540616241671
+
+16) mother_jondrette_wiki - 0.808904767036438
+
+17) claquesous_wiki - 0.800029063225659
+
+18) bougon_wiki - 0.7990417004202797
+
+19) madame_magloire_wiki - 0.798986923754996
+
+20) little_gervais_wiki - 0.7989604353285109
+
+21) napoleon_wiki - 0.798006164908778
+
+22) m_leblanc_wiki - 0.7725023898479528
+
+23) bahorel_wiki - 0.7704873085021973
+
+24) mademoiselle_euphrasie_wiki - 0.7676466564921546
+
+25) azelma_wiki - 0.7658320893595248
+
+26) bossuet_wiki - 0.763538122177124
+
+27) toussaint_wiki - 0.762521505355835
+
+28) combeferre_wiki - 0.7616633176803589
+
+29) magnon_wiki - 0.7581769227981567
+
+30) alexander_wiki - 0.7573258280754089
+
+31) monsieur_babet_wiki - 0.7484591453349094
+
+32) gorbeau_wiki - 0.7398357391357422
+
+33) le_cabuc_wiki - 0.7276382446289062
+
+34) jean_prouvaire_wiki - 0.7275127172470093
+
+35) monsieur_de_courfeyrac_wiki - 0.7234339384357907
+
+36) feuilly_wiki - 0.7146390293430996
+
+37) joly_wiki - 0.6977362812914693
+
+38) national_guard_wiki - 0.6939310796343042
+
+39) court_of_assizes_wiki - 0.6923887133598328
+
+40) laigle_de_meaux_wiki - 0.6646514335066946
+
+41) marguerite_wiki - 0.6062095165252686
+
+42) bernard_guidonis_wiki - 0.5599879026412964
+
+Result for the vector: mother_catherine_de_bar, coming from part a of the book
+Rank: 2 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8953394889831543
+
+1) bishop_wiki - 0.9192961406288247
+
+2) mother_catherine_de_bar_wiki - 0.8953394889831543
+
+3) jean_valjean_wiki - 0.8546440856052666
+
+4) mademoiselle_cosette_wiki - 0.8540507555007935
+
+5) monsieur_gavroche_wiki - 0.8521431176577156
+
+6) father_fauchelevent_wiki - 0.8485345154127205
+
+7) m_madeleine_wiki - 0.8450095745915444
+
+8) m_gillenormand_wiki - 0.8397053575691382
+
+9) madame_magloire_wiki - 0.8319222431229223
+
+10) mother_jondrette_wiki - 0.8269317150115967
+
+11) bougon_wiki - 0.817915390854158
+
+12) marius_haggard_wiki - 0.8171063661575317
+
+13) enjolras_wiki - 0.8103903305995916
+
+14) grantaire_wiki - 0.8025230647637301
+
+15) georges_pontmercy_wiki - 0.800958895568985
+
+16) magnon_wiki - 0.7984873056411743
+
+17) monsieur_javert_wiki - 0.7949320910850795
+
+18) claquesous_wiki - 0.785047196896291
+
+19) azelma_wiki - 0.7809539073989963
+
+20) napoleon_wiki - 0.7751460537401483
+
+21) m_mabeuf_wiki - 0.7691406745230763
+
+22) m_leblanc_wiki - 0.76818617961572
+
+23) toussaint_wiki - 0.7638963460922241
+
+24) gorbeau_wiki - 0.7582911252975464
+
+25) little_gervais_wiki - 0.7568524334938798
+
+26) bahorel_wiki - 0.749463677406311
+
+27) monsieur_babet_wiki - 0.7483921497101886
+
+28) father_champmathieu_wiki - 0.7452083230018616
+
+29) bossuet_wiki - 0.739622175693512
+
+30) le_cabuc_wiki - 0.7374920845031738
+
+31) mademoiselle_euphrasie_wiki - 0.730569942627547
+
+32) combeferre_wiki - 0.728804349899292
+
+33) alexander_wiki - 0.7263349294662476
+
+34) court_of_assizes_wiki - 0.7162634134292603
+
+35) monsieur_de_courfeyrac_wiki - 0.7064162142772981
+
+36) jean_prouvaire_wiki - 0.6946259140968323
+
+37) feuilly_wiki - 0.6938362328361345
+
+38) marguerite_wiki - 0.6880068778991699
+
+39) joly_wiki - 0.6877997703671604
+
+40) national_guard_wiki - 0.670340696532648
+
+41) laigle_de_meaux_wiki - 0.6378832243611362
+
+42) bernard_guidonis_wiki - 0.5437751412391663
+
+Result for the vector: joly, coming from part a of the book
+Rank: 39 out of 42 characters
+Cosine similarity to the co-referring vector: 0.6795493555337587
+
+1) jean_valjean_wiki - 0.934176472847953
+
+2) monsieur_gavroche_wiki - 0.9284568471636284
+
+3) marius_haggard_wiki - 0.9185349345207214
+
+4) enjolras_wiki - 0.9073589333723768
+
+5) m_gillenormand_wiki - 0.906778996778788
+
+6) father_fauchelevent_wiki - 0.9008992255270035
+
+7) monsieur_javert_wiki - 0.8959441452009725
+
+8) grantaire_wiki - 0.8931035335721708
+
+9) m_madeleine_wiki - 0.8737208322453018
+
+10) father_champmathieu_wiki - 0.8734813928604126
+
+11) mademoiselle_cosette_wiki - 0.8724884390830994
+
+12) bishop_wiki - 0.8722153825888281
+
+13) georges_pontmercy_wiki - 0.8707647477668886
+
+14) claquesous_wiki - 0.8687005301922721
+
+15) m_mabeuf_wiki - 0.8657636126420745
+
+16) mother_jondrette_wiki - 0.8485216498374939
+
+17) little_gervais_wiki - 0.8379649423339943
+
+18) bahorel_wiki - 0.8330006003379822
+
+19) madame_magloire_wiki - 0.8304383259750425
+
+20) m_leblanc_wiki - 0.8277114239083082
+
+21) azelma_wiki - 0.8247299440124618
+
+22) napoleon_wiki - 0.8142263778583051
+
+23) monsieur_babet_wiki - 0.8136427291418763
+
+24) mother_catherine_de_bar_wiki - 0.8064834475517273
+
+25) le_cabuc_wiki - 0.7746655344963074
+
+26) bougon_wiki - 0.768980516852111
+
+27) combeferre_wiki - 0.7684348225593567
+
+28) toussaint_wiki - 0.7593314051628113
+
+29) magnon_wiki - 0.756374180316925
+
+30) gorbeau_wiki - 0.7505573630332947
+
+31) bossuet_wiki - 0.7428985238075256
+
+32) alexander_wiki - 0.7321297526359558
+
+33) mademoiselle_euphrasie_wiki - 0.726048870447212
+
+34) jean_prouvaire_wiki - 0.7248107194900513
+
+35) monsieur_de_courfeyrac_wiki - 0.6937375895664252
+
+36) court_of_assizes_wiki - 0.6848462224006653
+
+37) laigle_de_meaux_wiki - 0.6829071451966265
+
+38) national_guard_wiki - 0.6810661338488945
+
+39) joly_wiki - 0.6795493555337587
+
+40) feuilly_wiki - 0.6699812015885476
+
+41) marguerite_wiki - 0.6542063355445862
+
+42) bernard_guidonis_wiki - 0.5713874697685242
+
+Result for the vector: monsieur_babet, coming from part a of the book
+Rank: 8 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7621099665296038
+
+1) madame_magloire_wiki - 0.849644660949713
+
+2) monsieur_gavroche_wiki - 0.8121651411056576
+
+3) claquesous_wiki - 0.7851839767560942
+
+4) jean_valjean_wiki - 0.7726412510253121
+
+5) m_leblanc_wiki - 0.7724977867306722
+
+6) bishop_wiki - 0.7704661214907315
+
+7) father_fauchelevent_wiki - 0.7638880925045124
+
+8) monsieur_babet_wiki - 0.7621099665296038
+
+9) m_madeleine_wiki - 0.7558642625808769
+
+10) grantaire_wiki - 0.7496666013797046
+
+11) marius_haggard_wiki - 0.7464375940822134
+
+12) mother_jondrette_wiki - 0.7460517135889373
+
+13) mademoiselle_cosette_wiki - 0.7459622470117968
+
+14) azelma_wiki - 0.7410371370050735
+
+15) bougon_wiki - 0.739217519760137
+
+16) little_gervais_wiki - 0.7377192065381057
+
+17) marguerite_wiki - 0.7326450188544417
+
+18) m_gillenormand_wiki - 0.731660842895513
+
+19) monsieur_javert_wiki - 0.7310016808809356
+
+20) bahorel_wiki - 0.7278867797784091
+
+21) georges_pontmercy_wiki - 0.7276200218427284
+
+22) enjolras_wiki - 0.70582652792213
+
+23) laigle_de_meaux_wiki - 0.6963064904578317
+
+24) magnon_wiki - 0.6929074342791709
+
+25) gorbeau_wiki - 0.6917918736810621
+
+26) father_champmathieu_wiki - 0.687833588590241
+
+27) toussaint_wiki - 0.6833422591294217
+
+28) napoleon_wiki - 0.6800213074709544
+
+29) m_mabeuf_wiki - 0.6782303452491808
+
+30) le_cabuc_wiki - 0.6753878399960911
+
+31) alexander_wiki - 0.6729725404365396
+
+32) mother_catherine_de_bar_wiki - 0.6495399862253669
+
+33) combeferre_wiki - 0.6437827732433553
+
+34) bossuet_wiki - 0.6372257850900772
+
+35) jean_prouvaire_wiki - 0.6335480590789364
+
+36) court_of_assizes_wiki - 0.6238888873987738
+
+37) bernard_guidonis_wiki - 0.6133991845488073
+
+38) national_guard_wiki - 0.6086560124960035
+
+39) mademoiselle_euphrasie_wiki - 0.6047850376111313
+
+40) feuilly_wiki - 0.5658300428834598
+
+41) monsieur_de_courfeyrac_wiki - 0.5465707564182452
+
+42) joly_wiki - 0.5364306569099464
+
+Result for the vector: magnon, coming from part a of the book
+Rank: 10 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8529719201939169
+
+1) mademoiselle_cosette_wiki - 0.9035973606349627
+
+2) jean_valjean_wiki - 0.8870727751531405
+
+3) m_gillenormand_wiki - 0.8768562225274774
+
+4) bishop_wiki - 0.8734639883041444
+
+5) father_fauchelevent_wiki - 0.8727471232414308
+
+6) monsieur_gavroche_wiki - 0.8724103126036749
+
+7) azelma_wiki - 0.865386996704731
+
+8) marius_haggard_wiki - 0.8594394409990659
+
+9) mother_jondrette_wiki - 0.856274494154783
+
+10) magnon_wiki - 0.8529719201939169
+
+11) monsieur_javert_wiki - 0.8524559482200196
+
+12) enjolras_wiki - 0.848657777825475
+
+13) grantaire_wiki - 0.8335369825363218
+
+14) madame_magloire_wiki - 0.8292295540297563
+
+15) m_madeleine_wiki - 0.8225906106721627
+
+16) claquesous_wiki - 0.8211745375044814
+
+17) m_leblanc_wiki - 0.8155262204063751
+
+18) mother_catherine_de_bar_wiki - 0.8151314964812116
+
+19) georges_pontmercy_wiki - 0.8146267268729117
+
+20) napoleon_wiki - 0.7933455109596309
+
+21) le_cabuc_wiki - 0.7822025548098963
+
+22) m_mabeuf_wiki - 0.7768412498424947
+
+23) bahorel_wiki - 0.7750302687269303
+
+24) bougon_wiki - 0.773947981125357
+
+25) monsieur_babet_wiki - 0.769021868705755
+
+26) father_champmathieu_wiki - 0.7687657613297857
+
+27) gorbeau_wiki - 0.7669003744780808
+
+28) mademoiselle_euphrasie_wiki - 0.7555360794067436
+
+29) little_gervais_wiki - 0.7475324869155937
+
+30) toussaint_wiki - 0.7399173533965748
+
+31) bossuet_wiki - 0.7355146565726617
+
+32) marguerite_wiki - 0.7298271221025526
+
+33) alexander_wiki - 0.7128170303811425
+
+34) combeferre_wiki - 0.7062581952656404
+
+35) court_of_assizes_wiki - 0.6807189774084713
+
+36) jean_prouvaire_wiki - 0.6760345890501398
+
+37) monsieur_de_courfeyrac_wiki - 0.6704987091123396
+
+38) feuilly_wiki - 0.6632543008549746
+
+39) joly_wiki - 0.6514470992747426
+
+40) laigle_de_meaux_wiki - 0.6392710208892868
+
+41) national_guard_wiki - 0.6367776447336129
+
+42) bernard_guidonis_wiki - 0.5364189424265071
+
+Result for the vector: father_champmathieu, coming from part a of the book
+Rank: 17 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8283188240718156
+
+1) jean_valjean_wiki - 0.9189460503112723
+
+2) bishop_wiki - 0.9133093849789363
+
+3) father_fauchelevent_wiki - 0.8948193663143357
+
+4) monsieur_gavroche_wiki - 0.8932674527168337
+
+5) marius_haggard_wiki - 0.887017839373223
+
+6) mademoiselle_cosette_wiki - 0.8797933387633183
+
+7) m_gillenormand_wiki - 0.8766787052154603
+
+8) m_madeleine_wiki - 0.8760696053505006
+
+9) enjolras_wiki - 0.872787452838563
+
+10) monsieur_javert_wiki - 0.8706701580289151
+
+11) grantaire_wiki - 0.855396372723147
+
+12) georges_pontmercy_wiki - 0.8511326997797208
+
+13) mother_jondrette_wiki - 0.846362998864831
+
+14) mother_catherine_de_bar_wiki - 0.8404725098891577
+
+15) napoleon_wiki - 0.8382352397722291
+
+16) claquesous_wiki - 0.8343350441159351
+
+17) father_champmathieu_wiki - 0.8283188240718156
+
+18) madame_magloire_wiki - 0.8160475492477475
+
+19) m_mabeuf_wiki - 0.8134859204292355
+
+20) little_gervais_wiki - 0.8053126103058589
+
+21) bougon_wiki - 0.8044534921646175
+
+22) le_cabuc_wiki - 0.7999641776063562
+
+23) bahorel_wiki - 0.7983565806362989
+
+24) azelma_wiki - 0.7938996071129689
+
+25) gorbeau_wiki - 0.7897538417431036
+
+26) m_leblanc_wiki - 0.7839351425209682
+
+27) magnon_wiki - 0.7736903890186794
+
+28) monsieur_babet_wiki - 0.7732867924316874
+
+29) bossuet_wiki - 0.7701161366770363
+
+30) combeferre_wiki - 0.7597135162182771
+
+31) mademoiselle_euphrasie_wiki - 0.758237452296907
+
+32) toussaint_wiki - 0.7569379065595823
+
+33) alexander_wiki - 0.753877923123714
+
+34) monsieur_de_courfeyrac_wiki - 0.7281379213579765
+
+35) national_guard_wiki - 0.7194425630901832
+
+36) jean_prouvaire_wiki - 0.7136428781534969
+
+37) feuilly_wiki - 0.7129769366660959
+
+38) court_of_assizes_wiki - 0.7115856237164524
+
+39) joly_wiki - 0.7097913026809742
+
+40) laigle_de_meaux_wiki - 0.6575810501076043
+
+41) marguerite_wiki - 0.637429752196656
+
+42) bernard_guidonis_wiki - 0.5493240087821498
+
+Result for the vector: georges_pontmercy, coming from part a of the book
+Rank: 4 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8899022936821237
+
+1) jean_valjean_wiki - 0.9013465197900749
+
+2) monsieur_gavroche_wiki - 0.8949087199514485
+
+3) m_gillenormand_wiki - 0.8905462557403144
+
+4) georges_pontmercy_wiki - 0.8899022936821237
+
+5) enjolras_wiki - 0.8859748568474906
+
+6) m_madeleine_wiki - 0.8804092931991535
+
+7) bishop_wiki - 0.8746731653225137
+
+8) marius_haggard_wiki - 0.8703526103916958
+
+9) father_fauchelevent_wiki - 0.8587586031124493
+
+10) father_champmathieu_wiki - 0.8507733167139729
+
+11) mademoiselle_cosette_wiki - 0.8459856922609499
+
+12) mother_catherine_de_bar_wiki - 0.8458899075853774
+
+13) monsieur_javert_wiki - 0.844284004611377
+
+14) grantaire_wiki - 0.8348194065367129
+
+15) m_mabeuf_wiki - 0.8198121678717367
+
+16) little_gervais_wiki - 0.8174569876415126
+
+17) napoleon_wiki - 0.8169114858349849
+
+18) mother_jondrette_wiki - 0.8162747998565255
+
+19) claquesous_wiki - 0.8083790553180988
+
+20) madame_magloire_wiki - 0.7968117473609424
+
+21) bougon_wiki - 0.7942492839246689
+
+22) bahorel_wiki - 0.7743163435836303
+
+23) m_leblanc_wiki - 0.7714822888374547
+
+24) combeferre_wiki - 0.7647502737939739
+
+25) toussaint_wiki - 0.7614890648709667
+
+26) azelma_wiki - 0.7574922379094747
+
+27) gorbeau_wiki - 0.7513026298645347
+
+28) mademoiselle_euphrasie_wiki - 0.7506768853682684
+
+29) magnon_wiki - 0.7485521135988424
+
+30) monsieur_babet_wiki - 0.7458658956049508
+
+31) bossuet_wiki - 0.7388122366443015
+
+32) alexander_wiki - 0.737540213768513
+
+33) jean_prouvaire_wiki - 0.7362885160790157
+
+34) le_cabuc_wiki - 0.7330388704584735
+
+35) monsieur_de_courfeyrac_wiki - 0.7102351689899371
+
+36) feuilly_wiki - 0.708097444191197
+
+37) national_guard_wiki - 0.6946704387664993
+
+38) joly_wiki - 0.6883416586125995
+
+39) court_of_assizes_wiki - 0.6789086674342999
+
+40) laigle_de_meaux_wiki - 0.6501709789343451
+
+41) marguerite_wiki - 0.5922565570183507
+
+42) bernard_guidonis_wiki - 0.5430303267276715
+
+Result for the vector: jean_prouvaire, coming from part a of the book
+Rank: 22 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7787939310073853
+
+1) m_madeleine_wiki - 0.9169774104966293
+
+2) bishop_wiki - 0.8874757818863278
+
+3) georges_pontmercy_wiki - 0.8850212830279791
+
+4) monsieur_gavroche_wiki - 0.8813339542547507
+
+5) m_gillenormand_wiki - 0.8692811805438307
+
+6) jean_valjean_wiki - 0.8559398906213016
+
+7) father_fauchelevent_wiki - 0.8420083428626279
+
+8) marius_haggard_wiki - 0.8298670053482056
+
+9) bougon_wiki - 0.8297776681317304
+
+10) enjolras_wiki - 0.8272148164766867
+
+11) mademoiselle_cosette_wiki - 0.8259525299072266
+
+12) madame_magloire_wiki - 0.8198567736234218
+
+13) claquesous_wiki - 0.813769245558061
+
+14) m_leblanc_wiki - 0.8073271146622817
+
+15) mother_catherine_de_bar_wiki - 0.8060944080352783
+
+16) monsieur_javert_wiki - 0.8050191642349713
+
+17) grantaire_wiki - 0.8030580760871232
+
+18) father_champmathieu_wiki - 0.7975374460220337
+
+19) mother_jondrette_wiki - 0.7911928296089172
+
+20) toussaint_wiki - 0.7879722118377686
+
+21) little_gervais_wiki - 0.7864702216667083
+
+22) jean_prouvaire_wiki - 0.7787939310073853
+
+23) napoleon_wiki - 0.7757133111782869
+
+24) monsieur_babet_wiki - 0.7717392904603072
+
+25) m_mabeuf_wiki - 0.7714157836785459
+
+26) magnon_wiki - 0.7649683952331543
+
+27) bahorel_wiki - 0.7592523097991943
+
+28) bossuet_wiki - 0.7557544112205505
+
+29) mademoiselle_euphrasie_wiki - 0.7523016781986773
+
+30) combeferre_wiki - 0.744890570640564
+
+31) azelma_wiki - 0.7427482230290244
+
+32) alexander_wiki - 0.731021523475647
+
+33) gorbeau_wiki - 0.7212029695510864
+
+34) laigle_de_meaux_wiki - 0.6966627059377865
+
+35) feuilly_wiki - 0.6936838833595482
+
+36) le_cabuc_wiki - 0.6930409073829651
+
+37) court_of_assizes_wiki - 0.6924830675125122
+
+38) monsieur_de_courfeyrac_wiki - 0.6902407038498813
+
+39) national_guard_wiki - 0.6765714673314778
+
+40) joly_wiki - 0.6666817267726834
+
+41) marguerite_wiki - 0.6394562721252441
+
+42) bernard_guidonis_wiki - 0.6049177646636963
+
+Result for the vector: little_gervais, coming from part a of the book
+Rank: 15 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8303319710690973
+
+1) jean_valjean_wiki - 0.9065642627049767
+
+2) monsieur_gavroche_wiki - 0.9010918795411674
+
+3) m_gillenormand_wiki - 0.9005280196352009
+
+4) enjolras_wiki - 0.8963143105881648
+
+5) mademoiselle_cosette_wiki - 0.8902043700218201
+
+6) bishop_wiki - 0.885478787748743
+
+7) father_fauchelevent_wiki - 0.8724892659478958
+
+8) marius_haggard_wiki - 0.8721055388450623
+
+9) m_madeleine_wiki - 0.8615475379498295
+
+10) mother_catherine_de_bar_wiki - 0.8548375368118286
+
+11) monsieur_javert_wiki - 0.8502832904542477
+
+12) georges_pontmercy_wiki - 0.8424660155217689
+
+13) father_champmathieu_wiki - 0.8379116654396057
+
+14) grantaire_wiki - 0.8368363283179017
+
+15) little_gervais_wiki - 0.8303319710690973
+
+16) mother_jondrette_wiki - 0.8243186473846436
+
+17) napoleon_wiki - 0.8131701834899311
+
+18) m_mabeuf_wiki - 0.8113504164606099
+
+19) madame_magloire_wiki - 0.8101856821664776
+
+20) claquesous_wiki - 0.8081768991999898
+
+21) magnon_wiki - 0.7989727854728699
+
+22) bougon_wiki - 0.7957260134383446
+
+23) azelma_wiki - 0.7943722842446654
+
+24) m_leblanc_wiki - 0.7794757748275127
+
+25) gorbeau_wiki - 0.777835488319397
+
+26) bahorel_wiki - 0.7737178206443787
+
+27) le_cabuc_wiki - 0.763733983039856
+
+28) combeferre_wiki - 0.7636459469795227
+
+29) toussaint_wiki - 0.7585742473602295
+
+30) alexander_wiki - 0.7553049325942993
+
+31) monsieur_babet_wiki - 0.7504802197504188
+
+32) mademoiselle_euphrasie_wiki - 0.7449285832004908
+
+33) bossuet_wiki - 0.7390545606613159
+
+34) feuilly_wiki - 0.7053926201281735
+
+35) jean_prouvaire_wiki - 0.704797625541687
+
+36) monsieur_de_courfeyrac_wiki - 0.7003103137386268
+
+37) national_guard_wiki - 0.694963789586574
+
+38) court_of_assizes_wiki - 0.6845690011978149
+
+39) joly_wiki - 0.6824993680417927
+
+40) marguerite_wiki - 0.6367934942245483
+
+41) laigle_de_meaux_wiki - 0.6341543575617299
+
+42) bernard_guidonis_wiki - 0.5481208562850952
+
+Result for the vector: national_guard, coming from part a of the book
+Rank: 35 out of 42 characters
+Cosine similarity to the co-referring vector: 0.6472403424465422
+
+1) bishop_wiki - 0.8471996945619313
+
+2) jean_valjean_wiki - 0.796077894930714
+
+3) monsieur_gavroche_wiki - 0.7943895818475045
+
+4) mother_catherine_de_bar_wiki - 0.7887642022599045
+
+5) m_gillenormand_wiki - 0.7821342115958301
+
+6) enjolras_wiki - 0.7802021473947418
+
+7) napoleon_wiki - 0.777454147707297
+
+8) m_madeleine_wiki - 0.77683523962393
+
+9) mademoiselle_cosette_wiki - 0.7702622047144835
+
+10) father_fauchelevent_wiki - 0.7650764076480041
+
+11) little_gervais_wiki - 0.7587440692255563
+
+12) marius_haggard_wiki - 0.7587042080969876
+
+13) mother_jondrette_wiki - 0.7585834490830737
+
+14) monsieur_javert_wiki - 0.749485716193063
+
+15) georges_pontmercy_wiki - 0.7423034838762828
+
+16) father_champmathieu_wiki - 0.7404802662277304
+
+17) madame_magloire_wiki - 0.7396751421786832
+
+18) grantaire_wiki - 0.7368387046610154
+
+19) le_cabuc_wiki - 0.7337675313284261
+
+20) gorbeau_wiki - 0.7234301782676634
+
+21) claquesous_wiki - 0.7231342627486147
+
+22) bahorel_wiki - 0.718500993207127
+
+23) bougon_wiki - 0.7083800819998983
+
+24) m_mabeuf_wiki - 0.7078867343697953
+
+25) combeferre_wiki - 0.7010531038359735
+
+26) monsieur_babet_wiki - 0.6996526747631441
+
+27) magnon_wiki - 0.698628446418895
+
+28) azelma_wiki - 0.6963560996267855
+
+29) m_leblanc_wiki - 0.6933181858076364
+
+30) alexander_wiki - 0.6792978846817581
+
+31) toussaint_wiki - 0.6782227360672577
+
+32) court_of_assizes_wiki - 0.6647729475728559
+
+33) mademoiselle_euphrasie_wiki - 0.6599460238170052
+
+34) bossuet_wiki - 0.6478753879033148
+
+35) national_guard_wiki - 0.6472403424465422
+
+36) feuilly_wiki - 0.6369045160355875
+
+37) monsieur_de_courfeyrac_wiki - 0.628396843134889
+
+38) joly_wiki - 0.6256031207560588
+
+39) jean_prouvaire_wiki - 0.6148132865075259
+
+40) marguerite_wiki - 0.5845921809849796
+
+41) laigle_de_meaux_wiki - 0.5697949442084086
+
+42) bernard_guidonis_wiki - 0.49361459891839643
+
+Result for the vector: bishop, coming from part a of the book
+Rank: 1 out of 42 characters
+Cosine similarity to the co-referring vector: 0.9139728546142643
+
+1) bishop_wiki - 0.9139728546142643
+
+2) jean_valjean_wiki - 0.8384014118194193
+
+3) mother_catherine_de_bar_wiki - 0.833620021723509
+
+4) monsieur_gavroche_wiki - 0.8283955063348405
+
+5) father_fauchelevent_wiki - 0.8266373872757017
+
+6) m_gillenormand_wiki - 0.8228088828553101
+
+7) m_madeleine_wiki - 0.8221895310652815
+
+8) mother_jondrette_wiki - 0.8075751180902068
+
+9) marius_haggard_wiki - 0.8052572724069805
+
+10) mademoiselle_cosette_wiki - 0.8000121831886673
+
+11) madame_magloire_wiki - 0.7959621195838309
+
+12) napoleon_wiki - 0.7923359870910701
+
+13) enjolras_wiki - 0.7914682502429761
+
+14) monsieur_javert_wiki - 0.7874386075902432
+
+15) georges_pontmercy_wiki - 0.7835915475622046
+
+16) claquesous_wiki - 0.7810079818663633
+
+17) grantaire_wiki - 0.7713131904602105
+
+18) bougon_wiki - 0.7710762296824182
+
+19) le_cabuc_wiki - 0.7593734407798398
+
+20) m_mabeuf_wiki - 0.7536949808961175
+
+21) bahorel_wiki - 0.748629346571605
+
+22) gorbeau_wiki - 0.7483374030388963
+
+23) little_gervais_wiki - 0.743256509304052
+
+24) monsieur_babet_wiki - 0.7412326931953482
+
+25) m_leblanc_wiki - 0.7344615934261823
+
+26) father_champmathieu_wiki - 0.7293820542465429
+
+27) magnon_wiki - 0.726531104652221
+
+28) toussaint_wiki - 0.7233597205066861
+
+29) azelma_wiki - 0.7233310722312041
+
+30) combeferre_wiki - 0.7139256767078843
+
+31) bossuet_wiki - 0.7053229388402154
+
+32) alexander_wiki - 0.7025488792330707
+
+33) mademoiselle_euphrasie_wiki - 0.6953005790710498
+
+34) court_of_assizes_wiki - 0.6877218074964412
+
+35) monsieur_de_courfeyrac_wiki - 0.6805403638208238
+
+36) national_guard_wiki - 0.6762592179311733
+
+37) feuilly_wiki - 0.67193285608492
+
+38) joly_wiki - 0.6631045743102343
+
+39) jean_prouvaire_wiki - 0.6588266695245117
+
+40) marguerite_wiki - 0.6102712386684882
+
+41) laigle_de_meaux_wiki - 0.5925016403198284
+
+42) bernard_guidonis_wiki - 0.5118194513428548
+
+Result for the vector: azelma, coming from part a of the book
+Rank: 6 out of 42 characters
+Cosine similarity to the co-referring vector: 0.873062185827624
+
+1) jean_valjean_wiki - 0.8964963493643016
+
+2) mademoiselle_cosette_wiki - 0.8907590773927895
+
+3) marius_haggard_wiki - 0.8878658082445211
+
+4) monsieur_gavroche_wiki - 0.8830727075614754
+
+5) enjolras_wiki - 0.8771663423130461
+
+6) azelma_wiki - 0.873062185827624
+
+7) m_gillenormand_wiki - 0.8670155743653936
+
+8) monsieur_javert_wiki - 0.8661929289217549
+
+9) father_fauchelevent_wiki - 0.8554275800670014
+
+10) grantaire_wiki - 0.8546615411038588
+
+11) mother_jondrette_wiki - 0.8335337887267411
+
+12) bishop_wiki - 0.8296542313385816
+
+13) claquesous_wiki - 0.8278197543513628
+
+14) m_madeleine_wiki - 0.8102512714191925
+
+15) georges_pontmercy_wiki - 0.8065447086204939
+
+16) madame_magloire_wiki - 0.8060445545302496
+
+17) m_leblanc_wiki - 0.8004737376743283
+
+18) father_champmathieu_wiki - 0.796704792878175
+
+19) m_mabeuf_wiki - 0.786650157372652
+
+20) mother_catherine_de_bar_wiki - 0.7858559127407051
+
+21) magnon_wiki - 0.7837072844418077
+
+22) bahorel_wiki - 0.778532409028185
+
+23) napoleon_wiki - 0.7726701592806128
+
+24) monsieur_babet_wiki - 0.7704286668087844
+
+25) little_gervais_wiki - 0.7692706080619047
+
+26) le_cabuc_wiki - 0.760991655617704
+
+27) bougon_wiki - 0.7446810977256001
+
+28) gorbeau_wiki - 0.7329535702751154
+
+29) toussaint_wiki - 0.7214967227428178
+
+30) bossuet_wiki - 0.710889599051762
+
+31) mademoiselle_euphrasie_wiki - 0.7069813049120881
+
+32) combeferre_wiki - 0.7068350525747258
+
+33) alexander_wiki - 0.6976518242851446
+
+34) marguerite_wiki - 0.685177346622269
+
+35) court_of_assizes_wiki - 0.6765240036405329
+
+36) jean_prouvaire_wiki - 0.6679217418408916
+
+37) monsieur_de_courfeyrac_wiki - 0.6406256915071172
+
+38) feuilly_wiki - 0.6266762391731882
+
+39) joly_wiki - 0.6233610325050071
+
+40) national_guard_wiki - 0.6168314263077364
+
+41) laigle_de_meaux_wiki - 0.6073847956107377
+
+42) bernard_guidonis_wiki - 0.5270236291594397
+
+Result for the vector: le_cabuc, coming from part a of the book
+Rank: 17 out of 42 characters
+Cosine similarity to the co-referring vector: 0.6616559423003174
+
+1) bishop_wiki - 0.7928464165742893
+
+2) jean_valjean_wiki - 0.7321531235116536
+
+3) father_fauchelevent_wiki - 0.72512414754917
+
+4) m_madeleine_wiki - 0.7209558486938528
+
+5) monsieur_gavroche_wiki - 0.7195229530334524
+
+6) mother_catherine_de_bar_wiki - 0.7172494958191822
+
+7) mademoiselle_cosette_wiki - 0.7026414693976337
+
+8) claquesous_wiki - 0.700663688838216
+
+9) marius_haggard_wiki - 0.6994551837119583
+
+10) georges_pontmercy_wiki - 0.6987877667672885
+
+11) mother_jondrette_wiki - 0.6974068103675145
+
+12) m_gillenormand_wiki - 0.6933004856109668
+
+13) monsieur_javert_wiki - 0.6921548866172037
+
+14) enjolras_wiki - 0.682728531848527
+
+15) grantaire_wiki - 0.6815881945595973
+
+16) madame_magloire_wiki - 0.6679595708847094
+
+17) le_cabuc_wiki - 0.6616559423003174
+
+18) father_champmathieu_wiki - 0.6583505069226341
+
+19) bougon_wiki - 0.6516547203064011
+
+20) m_mabeuf_wiki - 0.6483485102653549
+
+21) napoleon_wiki - 0.6440873913869132
+
+22) bossuet_wiki - 0.6378574155484101
+
+23) azelma_wiki - 0.6372966740098605
+
+24) m_leblanc_wiki - 0.6349150756052193
+
+25) monsieur_babet_wiki - 0.6330472985562442
+
+26) little_gervais_wiki - 0.6328754583448718
+
+27) bahorel_wiki - 0.6321130771704373
+
+28) gorbeau_wiki - 0.6311675686340086
+
+29) toussaint_wiki - 0.6300747770115611
+
+30) mademoiselle_euphrasie_wiki - 0.6158033747438639
+
+31) alexander_wiki - 0.6153720388038193
+
+32) combeferre_wiki - 0.6146190532814904
+
+33) magnon_wiki - 0.6054175260911908
+
+34) jean_prouvaire_wiki - 0.5872849576047048
+
+35) monsieur_de_courfeyrac_wiki - 0.5839213580944593
+
+36) court_of_assizes_wiki - 0.5837704887253348
+
+37) feuilly_wiki - 0.5711163793012245
+
+38) joly_wiki - 0.5627254843711893
+
+39) national_guard_wiki - 0.5544736650899937
+
+40) laigle_de_meaux_wiki - 0.523073974022147
+
+41) marguerite_wiki - 0.5060718361182124
+
+42) bernard_guidonis_wiki - 0.42946049150589133
+
+Result for the vector: bougon, coming from part a of the book
+Rank: 17 out of 42 characters
+Cosine similarity to the co-referring vector: 0.6575967269419721
+
+1) m_madeleine_wiki - 0.7177590345668585
+
+2) monsieur_gavroche_wiki - 0.7061985941588538
+
+3) jean_valjean_wiki - 0.7017651440817302
+
+4) bishop_wiki - 0.6925072509806235
+
+5) georges_pontmercy_wiki - 0.6897401604133947
+
+6) m_gillenormand_wiki - 0.6872893180635444
+
+7) mademoiselle_cosette_wiki - 0.6861436384448709
+
+8) father_fauchelevent_wiki - 0.6816798272251828
+
+9) madame_magloire_wiki - 0.6806932294575418
+
+10) marius_haggard_wiki - 0.6727530365663529
+
+11) little_gervais_wiki - 0.6685181660232198
+
+12) enjolras_wiki - 0.6674735746477554
+
+13) mother_jondrette_wiki - 0.6612789626072936
+
+14) grantaire_wiki - 0.6601773292090493
+
+15) monsieur_javert_wiki - 0.6591789912198783
+
+16) mother_catherine_de_bar_wiki - 0.6591044061575325
+
+17) bougon_wiki - 0.6575967269419721
+
+18) claquesous_wiki - 0.6507098258387847
+
+19) monsieur_babet_wiki - 0.6481752169393329
+
+20) m_leblanc_wiki - 0.6379112411167986
+
+21) azelma_wiki - 0.6375861927969697
+
+22) magnon_wiki - 0.6370989057808162
+
+23) father_champmathieu_wiki - 0.6327365010443207
+
+24) m_mabeuf_wiki - 0.6277652569939343
+
+25) napoleon_wiki - 0.6236313318656882
+
+26) bahorel_wiki - 0.6135103058973252
+
+27) toussaint_wiki - 0.6105170199737293
+
+28) combeferre_wiki - 0.6054409687615331
+
+29) gorbeau_wiki - 0.5986956893231615
+
+30) mademoiselle_euphrasie_wiki - 0.5964886838925907
+
+31) le_cabuc_wiki - 0.5835174247787104
+
+32) alexander_wiki - 0.5801942867214364
+
+33) jean_prouvaire_wiki - 0.5739052808796143
+
+34) bossuet_wiki - 0.571351102413338
+
+35) laigle_de_meaux_wiki - 0.5563135380020051
+
+36) marguerite_wiki - 0.5555483003450923
+
+37) court_of_assizes_wiki - 0.5514905945799309
+
+38) feuilly_wiki - 0.5378161713857864
+
+39) monsieur_de_courfeyrac_wiki - 0.5362077877954996
+
+40) national_guard_wiki - 0.5269300780615301
+
+41) joly_wiki - 0.5264992870837296
+
+42) bernard_guidonis_wiki - 0.5086665012240282
+
+Result for the vector: bahorel, coming from part a of the book
+Rank: 21 out of 42 characters
+Cosine similarity to the co-referring vector: 0.80242481238916
+
+1) monsieur_gavroche_wiki - 0.9154818977271981
+
+2) jean_valjean_wiki - 0.9078757111952133
+
+3) bishop_wiki - 0.8944965208616726
+
+4) m_gillenormand_wiki - 0.8894002172529668
+
+5) m_madeleine_wiki - 0.8852471445427231
+
+6) enjolras_wiki - 0.8841070658128097
+
+7) father_fauchelevent_wiki - 0.8821204497325826
+
+8) marius_haggard_wiki - 0.8743273280360502
+
+9) mademoiselle_cosette_wiki - 0.869976010023833
+
+10) grantaire_wiki - 0.8656308828858335
+
+11) georges_pontmercy_wiki - 0.8647145451860633
+
+12) mother_catherine_de_bar_wiki - 0.8556229131109394
+
+13) father_champmathieu_wiki - 0.8477993860184967
+
+14) monsieur_javert_wiki - 0.839616110301978
+
+15) m_mabeuf_wiki - 0.8328282584897236
+
+16) madame_magloire_wiki - 0.8301190486514886
+
+17) claquesous_wiki - 0.8285396592938697
+
+18) mother_jondrette_wiki - 0.8270257361836955
+
+19) little_gervais_wiki - 0.8265157484873312
+
+20) bougon_wiki - 0.8134613390725485
+
+21) bahorel_wiki - 0.80242481238916
+
+22) m_leblanc_wiki - 0.7933757787905025
+
+23) azelma_wiki - 0.7929763074503128
+
+24) napoleon_wiki - 0.7919582836590666
+
+25) toussaint_wiki - 0.7910332319448364
+
+26) combeferre_wiki - 0.788251006253094
+
+27) magnon_wiki - 0.7823140258286606
+
+28) monsieur_babet_wiki - 0.7695782276610938
+
+29) bossuet_wiki - 0.7612073052289282
+
+30) mademoiselle_euphrasie_wiki - 0.7589627586867895
+
+31) jean_prouvaire_wiki - 0.7553356514971156
+
+32) alexander_wiki - 0.7506233081407344
+
+33) gorbeau_wiki - 0.7414955121724464
+
+34) le_cabuc_wiki - 0.7403505665168338
+
+35) monsieur_de_courfeyrac_wiki - 0.7307824985358891
+
+36) feuilly_wiki - 0.7289853530517431
+
+37) joly_wiki - 0.7090483096525605
+
+38) court_of_assizes_wiki - 0.7036406011474314
+
+39) national_guard_wiki - 0.6886185388012123
+
+40) laigle_de_meaux_wiki - 0.6786305915085014
+
+41) marguerite_wiki - 0.6544236735827829
+
+42) bernard_guidonis_wiki - 0.5807763511173832
+
+Result for the vector: feuilly, coming from part a of the book
+Rank: 37 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7039714312510863
+
+1) jean_valjean_wiki - 0.9015819581720207
+
+2) father_fauchelevent_wiki - 0.8901740712238694
+
+3) monsieur_gavroche_wiki - 0.8892413311744672
+
+4) m_madeleine_wiki - 0.88109462744563
+
+5) m_gillenormand_wiki - 0.8801439333047968
+
+6) marius_haggard_wiki - 0.8793353890580465
+
+7) bishop_wiki - 0.875110544284085
+
+8) grantaire_wiki - 0.8706741697801671
+
+9) mademoiselle_cosette_wiki - 0.8575918504705312
+
+10) monsieur_javert_wiki - 0.8526066620061822
+
+11) georges_pontmercy_wiki - 0.8499877452850584
+
+12) enjolras_wiki - 0.8495210050394547
+
+13) madame_magloire_wiki - 0.8439149763533594
+
+14) claquesous_wiki - 0.8409075797956589
+
+15) mother_jondrette_wiki - 0.824142435090838
+
+16) father_champmathieu_wiki - 0.8216655041772787
+
+17) bahorel_wiki - 0.8193979644057766
+
+18) m_leblanc_wiki - 0.813321888446831
+
+19) m_mabeuf_wiki - 0.8099448567596123
+
+20) napoleon_wiki - 0.8059968601459625
+
+21) azelma_wiki - 0.8033896093651103
+
+22) monsieur_babet_wiki - 0.7940039862401475
+
+23) bougon_wiki - 0.7926634426512513
+
+24) mother_catherine_de_bar_wiki - 0.7858493668853538
+
+25) little_gervais_wiki - 0.7855887029627641
+
+26) magnon_wiki - 0.7787375186368901
+
+27) combeferre_wiki - 0.7688606701923271
+
+28) toussaint_wiki - 0.7567139573948386
+
+29) jean_prouvaire_wiki - 0.7559086389432769
+
+30) gorbeau_wiki - 0.7531122867002883
+
+31) bossuet_wiki - 0.7494122087254826
+
+32) mademoiselle_euphrasie_wiki - 0.7440682191970753
+
+33) le_cabuc_wiki - 0.7434040002112442
+
+34) alexander_wiki - 0.7334263006956988
+
+35) monsieur_de_courfeyrac_wiki - 0.7262593451164592
+
+36) joly_wiki - 0.7040319862384901
+
+37) feuilly_wiki - 0.7039714312510863
+
+38) national_guard_wiki - 0.701785683631917
+
+39) court_of_assizes_wiki - 0.6934329501906623
+
+40) laigle_de_meaux_wiki - 0.692520801875736
+
+41) marguerite_wiki - 0.6843858581049321
+
+42) bernard_guidonis_wiki - 0.579558799214224
+
+Result for the vector: claquesous, coming from part a of the book
+Rank: 8 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7723675234536841
+
+1) m_madeleine_wiki - 0.8239938967229787
+
+2) m_leblanc_wiki - 0.8191893560419153
+
+3) monsieur_babet_wiki - 0.7998235940775512
+
+4) madame_magloire_wiki - 0.7902576091808825
+
+5) monsieur_gavroche_wiki - 0.788498556956695
+
+6) bishop_wiki - 0.7823440535972169
+
+7) georges_pontmercy_wiki - 0.7741931580728535
+
+8) claquesous_wiki - 0.7723675234536841
+
+9) little_gervais_wiki - 0.7661169260248777
+
+10) jean_valjean_wiki - 0.7631047226849033
+
+11) m_gillenormand_wiki - 0.7603967559219403
+
+12) father_fauchelevent_wiki - 0.7479910327188107
+
+13) mother_jondrette_wiki - 0.7467619999278191
+
+14) mademoiselle_cosette_wiki - 0.7438019735754128
+
+15) marius_haggard_wiki - 0.7366599064069962
+
+16) bougon_wiki - 0.7280087254044822
+
+17) monsieur_javert_wiki - 0.727967126844354
+
+18) enjolras_wiki - 0.7131063212612778
+
+19) bahorel_wiki - 0.7060127468708979
+
+20) grantaire_wiki - 0.7047096524873069
+
+21) azelma_wiki - 0.7033334793647218
+
+22) magnon_wiki - 0.7005481928750337
+
+23) mother_catherine_de_bar_wiki - 0.6997509211227575
+
+24) gorbeau_wiki - 0.6961757748179371
+
+25) napoleon_wiki - 0.6917834304377527
+
+26) father_champmathieu_wiki - 0.6817890608843884
+
+27) laigle_de_meaux_wiki - 0.6783003221422725
+
+28) toussaint_wiki - 0.6749897204336444
+
+29) m_mabeuf_wiki - 0.6688948074312592
+
+30) jean_prouvaire_wiki - 0.6641212899721056
+
+31) bossuet_wiki - 0.6636917192844072
+
+32) mademoiselle_euphrasie_wiki - 0.6613400573736483
+
+33) marguerite_wiki - 0.6588514047518794
+
+34) le_cabuc_wiki - 0.6587819057340001
+
+35) court_of_assizes_wiki - 0.6520556405799285
+
+36) alexander_wiki - 0.6502405002784881
+
+37) combeferre_wiki - 0.6422245693869764
+
+38) national_guard_wiki - 0.5772955497537126
+
+39) bernard_guidonis_wiki - 0.5746061973156394
+
+40) monsieur_de_courfeyrac_wiki - 0.5569911833094355
+
+41) feuilly_wiki - 0.5522920818502952
+
+42) joly_wiki - 0.5415499645009669
+
+Result for the vector: gorbeau, coming from part a of the book
+Rank: 1 out of 42 characters
+Cosine similarity to the co-referring vector: 0.8768994808197021
+
+1) gorbeau_wiki - 0.8768994808197021
+
+2) mother_jondrette_wiki - 0.8385162353515625
+
+3) bishop_wiki - 0.8245826855053133
+
+4) jean_valjean_wiki - 0.8158571367221221
+
+5) m_gillenormand_wiki - 0.8066143508783384
+
+6) monsieur_gavroche_wiki - 0.8040861604162374
+
+7) m_madeleine_wiki - 0.8014434694383474
+
+8) mademoiselle_cosette_wiki - 0.7974421381950378
+
+9) georges_pontmercy_wiki - 0.7850744980484902
+
+10) father_fauchelevent_wiki - 0.7845322957356167
+
+11) marius_haggard_wiki - 0.7806259989738464
+
+12) enjolras_wiki - 0.7795111870183031
+
+13) mother_catherine_de_bar_wiki - 0.7750087380409241
+
+14) monsieur_javert_wiki - 0.7614341009090576
+
+15) madame_magloire_wiki - 0.7546451238009273
+
+16) napoleon_wiki - 0.7490345090052206
+
+17) grantaire_wiki - 0.7457109538144455
+
+18) claquesous_wiki - 0.7452927453903185
+
+19) little_gervais_wiki - 0.7367193541955576
+
+20) bougon_wiki - 0.7363042988595797
+
+21) father_champmathieu_wiki - 0.7273088097572327
+
+22) m_mabeuf_wiki - 0.7213743495121999
+
+23) bahorel_wiki - 0.7191848754882812
+
+24) magnon_wiki - 0.7185680866241455
+
+25) azelma_wiki - 0.7139654372324183
+
+26) alexander_wiki - 0.7121580243110657
+
+27) m_leblanc_wiki - 0.7080682864107795
+
+28) monsieur_babet_wiki - 0.6963518080921071
+
+29) le_cabuc_wiki - 0.6956949830055237
+
+30) toussaint_wiki - 0.6935573816299438
+
+31) bossuet_wiki - 0.6818101406097412
+
+32) combeferre_wiki - 0.6773935556411743
+
+33) national_guard_wiki - 0.675827899476545
+
+34) mademoiselle_euphrasie_wiki - 0.6679773132787545
+
+35) monsieur_de_courfeyrac_wiki - 0.6489432631663444
+
+36) court_of_assizes_wiki - 0.6456918120384216
+
+37) joly_wiki - 0.6361285068912216
+
+38) feuilly_wiki - 0.6312493870034634
+
+39) jean_prouvaire_wiki - 0.6270208358764648
+
+40) marguerite_wiki - 0.5872169733047485
+
+41) laigle_de_meaux_wiki - 0.5843628397204195
+
+42) bernard_guidonis_wiki - 0.511709988117218
+
+Result for the vector: marguerite, coming from part a of the book
+Rank: 34 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7130625076927262
+
+1) jean_valjean_wiki - 0.8961205091584188
+
+2) monsieur_gavroche_wiki - 0.8918029069900576
+
+3) mademoiselle_cosette_wiki - 0.8893504672855433
+
+4) m_gillenormand_wiki - 0.8760624527931276
+
+5) father_fauchelevent_wiki - 0.8747527450028354
+
+6) marius_haggard_wiki - 0.8723639173724618
+
+7) enjolras_wiki - 0.8695094948129958
+
+8) bishop_wiki - 0.8673989614723875
+
+9) grantaire_wiki - 0.850754302830017
+
+10) azelma_wiki - 0.8466901344081883
+
+11) monsieur_javert_wiki - 0.8449555198808483
+
+12) m_madeleine_wiki - 0.8340327143669187
+
+13) georges_pontmercy_wiki - 0.8248486623258328
+
+14) mother_jondrette_wiki - 0.8217506898493
+
+15) madame_magloire_wiki - 0.8182716369628964
+
+16) m_mabeuf_wiki - 0.8169041872024594
+
+17) mother_catherine_de_bar_wiki - 0.8144101389891006
+
+18) magnon_wiki - 0.809212256027
+
+19) claquesous_wiki - 0.8085656888990723
+
+20) father_champmathieu_wiki - 0.7954736230059651
+
+21) m_leblanc_wiki - 0.7915871863611356
+
+22) little_gervais_wiki - 0.7883942471020516
+
+23) napoleon_wiki - 0.7694402062225587
+
+24) bougon_wiki - 0.767027080059057
+
+25) bahorel_wiki - 0.763223037911836
+
+26) toussaint_wiki - 0.755667850713007
+
+27) monsieur_babet_wiki - 0.7518195810102917
+
+28) mademoiselle_euphrasie_wiki - 0.7456304723775949
+
+29) le_cabuc_wiki - 0.7377364479146283
+
+30) bossuet_wiki - 0.733225866152399
+
+31) gorbeau_wiki - 0.7285970883725351
+
+32) combeferre_wiki - 0.7247029378833151
+
+33) alexander_wiki - 0.7166858146599433
+
+34) marguerite_wiki - 0.7130625076927262
+
+35) jean_prouvaire_wiki - 0.6913111025876476
+
+36) court_of_assizes_wiki - 0.6872942857321683
+
+37) monsieur_de_courfeyrac_wiki - 0.6758168952137652
+
+38) feuilly_wiki - 0.6686380507324386
+
+39) joly_wiki - 0.6639276742935227
+
+40) laigle_de_meaux_wiki - 0.6553000396847772
+
+41) national_guard_wiki - 0.6382270074947574
+
+42) bernard_guidonis_wiki - 0.5393177592347727
+
+Result for the vector: bernard_guidonis, coming from part a of the book
+Rank: 42 out of 42 characters
+Cosine similarity to the co-referring vector: 0.5600749778658218
+
+1) monsieur_gavroche_wiki - 0.8733124959506117
+
+2) jean_valjean_wiki - 0.8643547715823653
+
+3) m_gillenormand_wiki - 0.8587698592955141
+
+4) father_fauchelevent_wiki - 0.8455386253870488
+
+5) marius_haggard_wiki - 0.8422405311774634
+
+6) bishop_wiki - 0.8303505879431745
+
+7) enjolras_wiki - 0.8288101553917167
+
+8) claquesous_wiki - 0.8268906330862167
+
+9) mademoiselle_cosette_wiki - 0.8254929988988697
+
+10) monsieur_javert_wiki - 0.8214511732949848
+
+11) m_madeleine_wiki - 0.8182514634874841
+
+12) georges_pontmercy_wiki - 0.814233585778812
+
+13) grantaire_wiki - 0.8129017464577241
+
+14) madame_magloire_wiki - 0.8069636570876272
+
+15) azelma_wiki - 0.7977532627207192
+
+16) mother_jondrette_wiki - 0.7867990390301952
+
+17) m_leblanc_wiki - 0.7821093721129007
+
+18) father_champmathieu_wiki - 0.7767985133172909
+
+19) bahorel_wiki - 0.7745911747704591
+
+20) napoleon_wiki - 0.7741364971318072
+
+21) little_gervais_wiki - 0.7698468703122935
+
+22) magnon_wiki - 0.7653140109403175
+
+23) m_mabeuf_wiki - 0.761289996870162
+
+24) monsieur_babet_wiki - 0.759166612674808
+
+25) mother_catherine_de_bar_wiki - 0.754787235881425
+
+26) le_cabuc_wiki - 0.7455066149822985
+
+27) bougon_wiki - 0.7288167961567422
+
+28) toussaint_wiki - 0.7231724592241745
+
+29) combeferre_wiki - 0.7172963360194811
+
+30) bossuet_wiki - 0.6941469080273072
+
+31) mademoiselle_euphrasie_wiki - 0.6925720755713052
+
+32) gorbeau_wiki - 0.6872575059822243
+
+33) jean_prouvaire_wiki - 0.6830582996537377
+
+34) marguerite_wiki - 0.677431800671606
+
+35) alexander_wiki - 0.6766822723529062
+
+36) feuilly_wiki - 0.66119766284249
+
+37) monsieur_de_courfeyrac_wiki - 0.6452562808990662
+
+38) court_of_assizes_wiki - 0.6333510716735085
+
+39) laigle_de_meaux_wiki - 0.6325940708760082
+
+40) joly_wiki - 0.6273983787181904
+
+41) national_guard_wiki - 0.6263093647219266
+
+42) bernard_guidonis_wiki - 0.5600749778658218
+
+Result for the vector: court_of_assizes, coming from part a of the book
+Rank: 35 out of 42 characters
+Cosine similarity to the co-referring vector: 0.6686337389190555
+
+1) bishop_wiki - 0.8714091854447751
+
+2) jean_valjean_wiki - 0.8213382821078735
+
+3) m_gillenormand_wiki - 0.8151105972926755
+
+4) m_madeleine_wiki - 0.8076216922482817
+
+5) monsieur_gavroche_wiki - 0.8065713393858674
+
+6) mother_catherine_de_bar_wiki - 0.8025424119779629
+
+7) mademoiselle_cosette_wiki - 0.7988400699090931
+
+8) mother_jondrette_wiki - 0.796295071089861
+
+9) gorbeau_wiki - 0.7954407578181374
+
+10) father_fauchelevent_wiki - 0.7934366587736341
+
+11) enjolras_wiki - 0.7913568019867169
+
+12) marius_haggard_wiki - 0.789692486561246
+
+13) napoleon_wiki - 0.7835599313044714
+
+14) monsieur_javert_wiki - 0.7756789825249714
+
+15) georges_pontmercy_wiki - 0.7701238941850914
+
+16) madame_magloire_wiki - 0.7668850838747484
+
+17) bougon_wiki - 0.7516120520331779
+
+18) grantaire_wiki - 0.7515017538367776
+
+19) claquesous_wiki - 0.7470741796129268
+
+20) little_gervais_wiki - 0.7345878640063007
+
+21) magnon_wiki - 0.729115756855522
+
+22) bahorel_wiki - 0.7223207685565084
+
+23) m_mabeuf_wiki - 0.721832563549419
+
+24) le_cabuc_wiki - 0.7198815083645027
+
+25) father_champmathieu_wiki - 0.7141081435551523
+
+26) alexander_wiki - 0.7112943278200287
+
+27) azelma_wiki - 0.7110969384524062
+
+28) monsieur_babet_wiki - 0.7102533155528828
+
+29) combeferre_wiki - 0.696673190990311
+
+30) m_leblanc_wiki - 0.6962875255852876
+
+31) toussaint_wiki - 0.6948951846486159
+
+32) bossuet_wiki - 0.6884465588991024
+
+33) national_guard_wiki - 0.6875824481052284
+
+34) mademoiselle_euphrasie_wiki - 0.68259723886269
+
+35) court_of_assizes_wiki - 0.6686337389190555
+
+36) monsieur_de_courfeyrac_wiki - 0.6602268218994328
+
+37) feuilly_wiki - 0.6532701861914898
+
+38) joly_wiki - 0.642504815607403
+
+39) jean_prouvaire_wiki - 0.6392201615309568
+
+40) laigle_de_meaux_wiki - 0.5983516217260682
+
+41) marguerite_wiki - 0.5951631551786518
+
+42) bernard_guidonis_wiki - 0.5159677844085987
+
+Result for the vector: mademoiselle_euphrasie, coming from part a of the book
+Rank: 26 out of 42 characters
+Cosine similarity to the co-referring vector: 0.7216869260891587
+
+1) monsieur_gavroche_wiki - 0.8442965745925963
+
+2) m_gillenormand_wiki - 0.8384230136871398
+
+3) mademoiselle_cosette_wiki - 0.8348203202975002
+
+4) jean_valjean_wiki - 0.8290200974661203
+
+5) father_fauchelevent_wiki - 0.8253804833150487
+
+6) bishop_wiki - 0.8111054076082
+
+7) enjolras_wiki - 0.810905839962813
+
+8) mother_jondrette_wiki - 0.8015924573893833
+
+9) m_madeleine_wiki - 0.7942864894867
+
+10) marius_haggard_wiki - 0.7931621547438013
+
+11) grantaire_wiki - 0.7855866891845095
+
+12) azelma_wiki - 0.7848870263892738
+
+13) georges_pontmercy_wiki - 0.7791712415712456
+
+14) father_champmathieu_wiki - 0.7788883911900767
+
+15) mother_catherine_de_bar_wiki - 0.7779024707020815
+
+16) magnon_wiki - 0.7770463095334966
+
+17) madame_magloire_wiki - 0.7756586670875605
+
+18) monsieur_javert_wiki - 0.7750654317497107
+
+19) little_gervais_wiki - 0.7638764099927438
+
+20) claquesous_wiki - 0.7567971429345441
+
+21) m_leblanc_wiki - 0.7535301593822267
+
+22) napoleon_wiki - 0.7449385815785624
+
+23) bahorel_wiki - 0.7424183334361527
+
+24) bougon_wiki - 0.737689256668096
+
+25) m_mabeuf_wiki - 0.7365332841873221
+
+26) mademoiselle_euphrasie_wiki - 0.7216869260891587
+
+27) bossuet_wiki - 0.7188777159975611
+
+28) toussaint_wiki - 0.7140760847375456
+
+29) monsieur_babet_wiki - 0.7104980600473952
+
+30) gorbeau_wiki - 0.708782297896285
+
+31) combeferre_wiki - 0.7080794994878483
+
+32) alexander_wiki - 0.6875253729537364
+
+33) le_cabuc_wiki - 0.6840438058402435
+
+34) marguerite_wiki - 0.6830358316323669
+
+35) jean_prouvaire_wiki - 0.67716864807419
+
+36) monsieur_de_courfeyrac_wiki - 0.6631767147499421
+
+37) court_of_assizes_wiki - 0.6596972143469593
+
+38) feuilly_wiki - 0.6565589299701691
+
+39) joly_wiki - 0.6452196836471603
+
+40) laigle_de_meaux_wiki - 0.6380999848961812
+
+41) national_guard_wiki - 0.6253426894341396
+
+42) bernard_guidonis_wiki - 0.5448187914382701
+
+Result for the vector: alexander, coming from part a of the book
+Rank: 31 out of 42 characters
+Cosine similarity to the co-referring vector: 0.624775230884552
+
+1) enjolras_wiki - 0.7971457597191104
+
+2) m_gillenormand_wiki - 0.7930815343212181
+
+3) monsieur_gavroche_wiki - 0.7852876910395821
+
+4) jean_valjean_wiki - 0.7748197548037697
+
+5) mother_catherine_de_bar_wiki - 0.7568045854568481
+
+6) bishop_wiki - 0.7541019173921311
+
+7) father_champmathieu_wiki - 0.7487433552742004
+
+8) mademoiselle_cosette_wiki - 0.7468244433403015
+
+9) marius_haggard_wiki - 0.7407443523406982
+
+10) napoleon_wiki - 0.7312808472681563
+
+11) father_fauchelevent_wiki - 0.7302806812692108
+
+12) little_gervais_wiki - 0.728207035553876
+
+13) monsieur_javert_wiki - 0.7235570765601721
+
+14) m_madeleine_wiki - 0.721191005635799
+
+15) georges_pontmercy_wiki - 0.7069099298823014
+
+16) grantaire_wiki - 0.7002082884435838
+
+17) mother_jondrette_wiki - 0.6909563541412354
+
+18) m_mabeuf_wiki - 0.689882952577893
+
+19) magnon_wiki - 0.6787153482437134
+
+20) claquesous_wiki - 0.6763637863506018
+
+21) madame_magloire_wiki - 0.6730852321931593
+
+22) azelma_wiki - 0.6666058500589687
+
+23) combeferre_wiki - 0.6647642850875854
+
+24) toussaint_wiki - 0.6610547304153442
+
+25) le_cabuc_wiki - 0.6557506322860718
+
+26) m_leblanc_wiki - 0.6547466928068812
+
+27) bahorel_wiki - 0.652973473072052
+
+28) bougon_wiki - 0.646165570845273
+
+29) gorbeau_wiki - 0.6363462805747986
+
+30) mademoiselle_euphrasie_wiki - 0.6288122313506752
+
+31) alexander_wiki - 0.624775230884552
+
+32) bossuet_wiki - 0.6124696135520935
+
+33) monsieur_babet_wiki - 0.6120416290784864
+
+34) feuilly_wiki - 0.6109973374306364
+
+35) court_of_assizes_wiki - 0.6002001762390137
+
+36) jean_prouvaire_wiki - 0.5867611765861511
+
+37) monsieur_de_courfeyrac_wiki - 0.5734992710947162
+
+38) national_guard_wiki - 0.5651379746034216
+
+39) joly_wiki - 0.5611121916108027
+
+40) laigle_de_meaux_wiki - 0.5065642301180509
+
+41) marguerite_wiki - 0.500947117805481
+
+42) bernard_guidonis_wiki - 0.45512139797210693
+

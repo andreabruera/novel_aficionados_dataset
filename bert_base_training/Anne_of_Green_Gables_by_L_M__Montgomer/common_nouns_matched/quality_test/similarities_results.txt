@@ -1,0 +1,896 @@
+Result for the vector: girl, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.887347400188446
+
+1) girl_a - 0.887347400188446
+
+2) pupil_a - 0.8841319680213928
+
+3) boy_a - 0.8756512999534607
+
+4) friend_a - 0.8565245866775513
+
+5) class_a - 0.8218651030224498
+
+6) house_a - 0.821344876925495
+
+7) imagination_a - 0.8185930360202186
+
+8) school_a - 0.8049133536271257
+
+9) hair_a - 0.7917143702507019
+
+10) anything_a - 0.7847010960996819
+
+11) road_a - 0.783090353012085
+
+12) time_a - 0.78293776512146
+
+13) death_a - 0.7709975242614746
+
+14) wife_a - 0.6495624780654907
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8512024283409119
+
+1) time_a - 0.8512024283409119
+
+2) school_a - 0.8340603212082209
+
+3) class_a - 0.8313058815829955
+
+4) friend_a - 0.8223584890365601
+
+5) imagination_a - 0.8185736645118212
+
+6) boy_a - 0.8176219463348389
+
+7) death_a - 0.8125749826431274
+
+8) house_a - 0.8086799624168866
+
+9) girl_a - 0.8035716414451599
+
+10) anything_a - 0.7988567828450683
+
+11) pupil_a - 0.7674394249916077
+
+12) road_a - 0.7643520832061768
+
+13) hair_a - 0.758155345916748
+
+14) wife_a - 0.531830906867981
+
+Result for the vector: school, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8857047029909685
+
+1) school_a - 0.8857047029909685
+
+2) class_a - 0.8617363736943814
+
+3) house_a - 0.8574569480853367
+
+4) imagination_a - 0.8253795012605503
+
+5) friend_a - 0.8203595876693726
+
+6) boy_a - 0.8131061792373657
+
+7) road_a - 0.8081594705581665
+
+8) anything_a - 0.8048992636739783
+
+9) girl_a - 0.8031671047210693
+
+10) pupil_a - 0.796981155872345
+
+11) time_a - 0.7944923639297485
+
+12) death_a - 0.7814520001411438
+
+13) hair_a - 0.7731385231018066
+
+14) wife_a - 0.561039388179779
+
+Result for the vector: hair, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9318302869796753
+
+1) hair_a - 0.9318302869796753
+
+2) friend_a - 0.7961117625236511
+
+3) imagination_a - 0.7834839949915426
+
+4) class_a - 0.7721095952857078
+
+5) boy_a - 0.7714816927909851
+
+6) girl_a - 0.7657294273376465
+
+7) house_a - 0.7502548322157515
+
+8) death_a - 0.7461292147636414
+
+9) school_a - 0.7322995822251105
+
+10) time_a - 0.7291356325149536
+
+11) anything_a - 0.7222025824905994
+
+12) road_a - 0.7217094898223877
+
+13) pupil_a - 0.7125403881072998
+
+14) wife_a - 0.493747353553772
+
+Result for the vector: anything, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7828283776538612
+
+1) anything_a - 0.7828283776538612
+
+2) imagination_a - 0.6476697535711685
+
+3) time_a - 0.6360788345336914
+
+4) death_a - 0.619412362575531
+
+5) school_a - 0.6129603616618905
+
+6) class_a - 0.5991698981321022
+
+7) friend_a - 0.5960652232170105
+
+8) boy_a - 0.5932599902153015
+
+9) girl_a - 0.5910775065422058
+
+10) hair_a - 0.5908851027488708
+
+11) house_a - 0.5879753407232567
+
+12) pupil_a - 0.5836790204048157
+
+13) road_a - 0.5597003102302551
+
+14) wife_a - 0.4358372688293457
+
+Result for the vector: boy, coming from part i of the book
+Rank: 2 out of 14 characters
+Cosine similarity to the co-referring vector: 0.829493522644043
+
+1) girl_a - 0.834872305393219
+
+2) boy_a - 0.829493522644043
+
+3) friend_a - 0.8112549781799316
+
+4) pupil_a - 0.7995486855506897
+
+5) imagination_a - 0.7935962203981759
+
+6) anything_a - 0.7881538741680323
+
+7) house_a - 0.7838065261783164
+
+8) class_a - 0.7724597725320188
+
+9) school_a - 0.7676834006498231
+
+10) hair_a - 0.7603567242622375
+
+11) death_a - 0.7501672506332397
+
+12) time_a - 0.7474108934402466
+
+13) road_a - 0.7422154545783997
+
+14) wife_a - 0.5816243290901184
+
+Result for the vector: friend, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8828610321449066
+
+1) friend_a - 0.8828610321449066
+
+2) class_a - 0.8188028767578895
+
+3) boy_a - 0.8173843839902478
+
+4) pupil_a - 0.8119457588260519
+
+5) girl_a - 0.8060592644144039
+
+6) imagination_a - 0.8021543975792427
+
+7) death_a - 0.7821569702438207
+
+8) school_a - 0.7708496265084233
+
+9) hair_a - 0.7689912594567283
+
+10) time_a - 0.7635586543609371
+
+11) house_a - 0.7610284005676234
+
+12) anything_a - 0.754547133770768
+
+13) road_a - 0.7219673726597632
+
+14) wife_a - 0.5767132548435664
+
+Result for the vector: house, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8519508154362926
+
+1) house_a - 0.8519508154362926
+
+2) class_a - 0.8204777103235475
+
+3) friend_a - 0.8067022802442996
+
+4) road_a - 0.7970329164574423
+
+5) school_a - 0.7967856288914227
+
+6) boy_a - 0.7953943847237348
+
+7) imagination_a - 0.7802940374525209
+
+8) girl_a - 0.778958045809211
+
+9) death_a - 0.7546931134072877
+
+10) hair_a - 0.7495008930415185
+
+11) anything_a - 0.744274921203398
+
+12) time_a - 0.7438970429866628
+
+13) pupil_a - 0.7307641723979766
+
+14) wife_a - 0.5420642656703077
+
+Result for the vector: imagination, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8324487905234834
+
+1) imagination_a - 0.8324487905234834
+
+2) hair_a - 0.798043429851532
+
+3) friend_a - 0.796072781085968
+
+4) pupil_a - 0.7891135215759277
+
+5) anything_a - 0.7754511699349399
+
+6) class_a - 0.7748283416237479
+
+7) girl_a - 0.7731055021286011
+
+8) time_a - 0.7658620476722717
+
+9) boy_a - 0.7639636993408203
+
+10) house_a - 0.7595905291912121
+
+11) school_a - 0.7576958681526276
+
+12) death_a - 0.7542722225189209
+
+13) road_a - 0.717905580997467
+
+14) wife_a - 0.5208689570426941
+
+Result for the vector: road, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7136491962462197
+
+1) road_a - 0.7136491962462197
+
+2) house_a - 0.669179201350737
+
+3) class_a - 0.634555778827929
+
+4) death_a - 0.6288699286502568
+
+5) school_a - 0.6237707138061568
+
+6) friend_a - 0.6222066058043614
+
+7) imagination_a - 0.6216448545455977
+
+8) boy_a - 0.6198221814526439
+
+9) time_a - 0.6183445226159419
+
+10) hair_a - 0.6140882738881285
+
+11) girl_a - 0.6115202672195604
+
+12) anything_a - 0.6104151738184898
+
+13) pupil_a - 0.572352801105548
+
+14) wife_a - 0.49073135797568396
+
+Result for the vector: class, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7738874419860851
+
+1) class_a - 0.7738874419860851
+
+2) friend_a - 0.766168314129421
+
+3) pupil_a - 0.7570852202925601
+
+4) school_a - 0.7398810076571922
+
+5) imagination_a - 0.7375146433728718
+
+6) boy_a - 0.7317808982934291
+
+7) house_a - 0.7253346168202933
+
+8) girl_a - 0.71754510120365
+
+9) hair_a - 0.7000210344829136
+
+10) anything_a - 0.6929672224443538
+
+11) death_a - 0.6848313840922318
+
+12) time_a - 0.683509770067304
+
+13) road_a - 0.672693790083024
+
+14) wife_a - 0.5677113356074189
+
+Result for the vector: wife, coming from part i of the book
+Rank: 2 out of 14 characters
+Cosine similarity to the co-referring vector: 0.761791467666626
+
+1) pupil_a - 0.766830563545227
+
+2) wife_a - 0.761791467666626
+
+3) boy_a - 0.7192964553833008
+
+4) class_a - 0.7125887021316696
+
+5) girl_a - 0.6985619068145752
+
+6) friend_a - 0.6973816752433777
+
+7) imagination_a - 0.6952811661195072
+
+8) house_a - 0.6863574590193471
+
+9) school_a - 0.6556480136127475
+
+10) hair_a - 0.650792121887207
+
+11) anything_a - 0.6312337297936528
+
+12) time_a - 0.6305138468742371
+
+13) death_a - 0.6267988681793213
+
+14) road_a - 0.609239935874939
+
+Result for the vector: death, coming from part i of the book
+Rank: 3 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7105969018099858
+
+1) friend_a - 0.7304137188442791
+
+2) class_a - 0.7137189082074931
+
+3) death_a - 0.7105969018099858
+
+4) boy_a - 0.7019232929899284
+
+5) imagination_a - 0.6831189990043689
+
+6) girl_a - 0.6712497872859124
+
+7) time_a - 0.6672468583134936
+
+8) school_a - 0.6671014428138781
+
+9) hair_a - 0.6499315887648826
+
+10) house_a - 0.6306245890818172
+
+11) anything_a - 0.6146364348693413
+
+12) pupil_a - 0.5924325342436165
+
+13) road_a - 0.5856940499361794
+
+14) wife_a - 0.39623277760939535
+
+Result for the vector: pupil, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8031207440423537
+
+1) pupil_a - 0.8031207440423537
+
+2) boy_a - 0.7781010998427226
+
+3) class_a - 0.7698989921988872
+
+4) imagination_a - 0.7531242664904276
+
+5) girl_a - 0.737107113772208
+
+6) friend_a - 0.7342830458710775
+
+7) time_a - 0.7237906024580848
+
+8) school_a - 0.7207733725579533
+
+9) house_a - 0.7181907678189674
+
+10) anything_a - 0.7073150873184254
+
+11) death_a - 0.6945731821910642
+
+12) hair_a - 0.6873310394685853
+
+13) road_a - 0.6709533529905478
+
+14) wife_a - 0.6471708031194935
+
+Result for the vector: girl, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.887347400188446
+
+1) girl_wiki - 0.887347400188446
+
+2) boy_wiki - 0.834872305393219
+
+3) friend_wiki - 0.8060592644144039
+
+4) time_wiki - 0.8035716414451599
+
+5) school_wiki - 0.8031671047210693
+
+6) house_wiki - 0.778958045809211
+
+7) imagination_wiki - 0.7731055021286011
+
+8) hair_wiki - 0.7657294273376465
+
+9) pupil_wiki - 0.737107113772208
+
+10) class_wiki - 0.71754510120365
+
+11) wife_wiki - 0.6985619068145752
+
+12) death_wiki - 0.6712497872859124
+
+13) road_wiki - 0.6115202672195604
+
+14) anything_wiki - 0.5910775065422058
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8512024283409119
+
+1) time_wiki - 0.8512024283409119
+
+2) school_wiki - 0.7944923639297485
+
+3) girl_wiki - 0.78293776512146
+
+4) imagination_wiki - 0.7658620476722717
+
+5) friend_wiki - 0.7635586543609371
+
+6) boy_wiki - 0.7474108934402466
+
+7) house_wiki - 0.7438970429866628
+
+8) hair_wiki - 0.7291356325149536
+
+9) pupil_wiki - 0.7237906024580848
+
+10) class_wiki - 0.683509770067304
+
+11) death_wiki - 0.6672468583134936
+
+12) anything_wiki - 0.6360788345336914
+
+13) wife_wiki - 0.6305138468742371
+
+14) road_wiki - 0.6183445226159419
+
+Result for the vector: school, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8857047029909685
+
+1) school_wiki - 0.8857047029909685
+
+2) time_wiki - 0.8340603212082209
+
+3) girl_wiki - 0.8049133536271257
+
+4) house_wiki - 0.7967856288914227
+
+5) friend_wiki - 0.7708496265084233
+
+6) boy_wiki - 0.7676834006498231
+
+7) imagination_wiki - 0.7576958681526276
+
+8) class_wiki - 0.7398810076571922
+
+9) hair_wiki - 0.7322995822251105
+
+10) pupil_wiki - 0.7207733725579533
+
+11) death_wiki - 0.6671014428138781
+
+12) wife_wiki - 0.6556480136127475
+
+13) road_wiki - 0.6237707138061568
+
+14) anything_wiki - 0.6129603616618905
+
+Result for the vector: hair, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9318302869796753
+
+1) hair_wiki - 0.9318302869796753
+
+2) imagination_wiki - 0.798043429851532
+
+3) girl_wiki - 0.7917143702507019
+
+4) school_wiki - 0.7731385231018066
+
+5) friend_wiki - 0.7689912594567283
+
+6) boy_wiki - 0.7603567242622375
+
+7) time_wiki - 0.758155345916748
+
+8) house_wiki - 0.7495008930415185
+
+9) class_wiki - 0.7000210344829136
+
+10) pupil_wiki - 0.6873310394685853
+
+11) wife_wiki - 0.650792121887207
+
+12) death_wiki - 0.6499315887648826
+
+13) road_wiki - 0.6140882738881285
+
+14) anything_wiki - 0.5908851027488708
+
+Result for the vector: anything, coming from part a of the book
+Rank: 5 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7828283776538612
+
+1) school_wiki - 0.8048992636739783
+
+2) time_wiki - 0.7988567828450683
+
+3) boy_wiki - 0.7881538741680323
+
+4) girl_wiki - 0.7847010960996819
+
+5) anything_wiki - 0.7828283776538612
+
+6) imagination_wiki - 0.7754511699349399
+
+7) friend_wiki - 0.754547133770768
+
+8) house_wiki - 0.744274921203398
+
+9) hair_wiki - 0.7222025824905994
+
+10) pupil_wiki - 0.7073150873184254
+
+11) class_wiki - 0.6929672224443538
+
+12) wife_wiki - 0.6312337297936528
+
+13) death_wiki - 0.6146364348693413
+
+14) road_wiki - 0.6104151738184898
+
+Result for the vector: boy, coming from part a of the book
+Rank: 2 out of 14 characters
+Cosine similarity to the co-referring vector: 0.829493522644043
+
+1) girl_wiki - 0.8756512999534607
+
+2) boy_wiki - 0.829493522644043
+
+3) time_wiki - 0.8176219463348389
+
+4) friend_wiki - 0.8173843839902478
+
+5) school_wiki - 0.8131061792373657
+
+6) house_wiki - 0.7953943847237348
+
+7) pupil_wiki - 0.7781010998427226
+
+8) hair_wiki - 0.7714816927909851
+
+9) imagination_wiki - 0.7639636993408203
+
+10) class_wiki - 0.7317808982934291
+
+11) wife_wiki - 0.7192964553833008
+
+12) death_wiki - 0.7019232929899284
+
+13) road_wiki - 0.6198221814526439
+
+14) anything_wiki - 0.5932599902153015
+
+Result for the vector: friend, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8828610321449066
+
+1) friend_wiki - 0.8828610321449066
+
+2) girl_wiki - 0.8565245866775513
+
+3) time_wiki - 0.8223584890365601
+
+4) school_wiki - 0.8203595876693726
+
+5) boy_wiki - 0.8112549781799316
+
+6) house_wiki - 0.8067022802442996
+
+7) hair_wiki - 0.7961117625236511
+
+8) imagination_wiki - 0.796072781085968
+
+9) class_wiki - 0.766168314129421
+
+10) pupil_wiki - 0.7342830458710775
+
+11) death_wiki - 0.7304137188442791
+
+12) wife_wiki - 0.6973816752433777
+
+13) road_wiki - 0.6222066058043614
+
+14) anything_wiki - 0.5960652232170105
+
+Result for the vector: house, coming from part a of the book
+Rank: 2 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8519508154362926
+
+1) school_wiki - 0.8574569480853367
+
+2) house_wiki - 0.8519508154362926
+
+3) girl_wiki - 0.821344876925495
+
+4) time_wiki - 0.8086799624168866
+
+5) boy_wiki - 0.7838065261783164
+
+6) friend_wiki - 0.7610284005676234
+
+7) imagination_wiki - 0.7595905291912121
+
+8) hair_wiki - 0.7502548322157515
+
+9) class_wiki - 0.7253346168202933
+
+10) pupil_wiki - 0.7181907678189674
+
+11) wife_wiki - 0.6863574590193471
+
+12) road_wiki - 0.669179201350737
+
+13) death_wiki - 0.6306245890818172
+
+14) anything_wiki - 0.5879753407232567
+
+Result for the vector: imagination, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8324487905234834
+
+1) imagination_wiki - 0.8324487905234834
+
+2) school_wiki - 0.8253795012605503
+
+3) girl_wiki - 0.8185930360202186
+
+4) time_wiki - 0.8185736645118212
+
+5) friend_wiki - 0.8021543975792427
+
+6) boy_wiki - 0.7935962203981759
+
+7) hair_wiki - 0.7834839949915426
+
+8) house_wiki - 0.7802940374525209
+
+9) pupil_wiki - 0.7531242664904276
+
+10) class_wiki - 0.7375146433728718
+
+11) wife_wiki - 0.6952811661195072
+
+12) death_wiki - 0.6831189990043689
+
+13) anything_wiki - 0.6476697535711685
+
+14) road_wiki - 0.6216448545455977
+
+Result for the vector: road, coming from part a of the book
+Rank: 9 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7136491962462197
+
+1) school_wiki - 0.8081594705581665
+
+2) house_wiki - 0.7970329164574423
+
+3) girl_wiki - 0.783090353012085
+
+4) time_wiki - 0.7643520832061768
+
+5) boy_wiki - 0.7422154545783997
+
+6) friend_wiki - 0.7219673726597632
+
+7) hair_wiki - 0.7217094898223877
+
+8) imagination_wiki - 0.717905580997467
+
+9) road_wiki - 0.7136491962462197
+
+10) class_wiki - 0.672693790083024
+
+11) pupil_wiki - 0.6709533529905478
+
+12) wife_wiki - 0.609239935874939
+
+13) death_wiki - 0.5856940499361794
+
+14) anything_wiki - 0.5597003102302551
+
+Result for the vector: class, coming from part a of the book
+Rank: 7 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7738874419860851
+
+1) school_wiki - 0.8617363736943814
+
+2) time_wiki - 0.8313058815829955
+
+3) girl_wiki - 0.8218651030224498
+
+4) house_wiki - 0.8204777103235475
+
+5) friend_wiki - 0.8188028767578895
+
+6) imagination_wiki - 0.7748283416237479
+
+7) class_wiki - 0.7738874419860851
+
+8) boy_wiki - 0.7724597725320188
+
+9) hair_wiki - 0.7721095952857078
+
+10) pupil_wiki - 0.7698989921988872
+
+11) death_wiki - 0.7137189082074931
+
+12) wife_wiki - 0.7125887021316696
+
+13) road_wiki - 0.634555778827929
+
+14) anything_wiki - 0.5991698981321022
+
+Result for the vector: wife, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.761791467666626
+
+1) wife_wiki - 0.761791467666626
+
+2) girl_wiki - 0.6495624780654907
+
+3) pupil_wiki - 0.6471708031194935
+
+4) boy_wiki - 0.5816243290901184
+
+5) friend_wiki - 0.5767132548435664
+
+6) class_wiki - 0.5677113356074189
+
+7) school_wiki - 0.561039388179779
+
+8) house_wiki - 0.5420642656703077
+
+9) time_wiki - 0.531830906867981
+
+10) imagination_wiki - 0.5208689570426941
+
+11) hair_wiki - 0.493747353553772
+
+12) road_wiki - 0.49073135797568396
+
+13) anything_wiki - 0.4358372688293457
+
+14) death_wiki - 0.39623277760939535
+
+Result for the vector: death, coming from part a of the book
+Rank: 9 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7105969018099858
+
+1) time_wiki - 0.8125749826431274
+
+2) friend_wiki - 0.7821569702438207
+
+3) school_wiki - 0.7814520001411438
+
+4) girl_wiki - 0.7709975242614746
+
+5) house_wiki - 0.7546931134072877
+
+6) imagination_wiki - 0.7542722225189209
+
+7) boy_wiki - 0.7501672506332397
+
+8) hair_wiki - 0.7461292147636414
+
+9) death_wiki - 0.7105969018099858
+
+10) pupil_wiki - 0.6945731821910642
+
+11) class_wiki - 0.6848313840922318
+
+12) road_wiki - 0.6288699286502568
+
+13) wife_wiki - 0.6267988681793213
+
+14) anything_wiki - 0.619412362575531
+
+Result for the vector: pupil, coming from part a of the book
+Rank: 3 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8031207440423537
+
+1) girl_wiki - 0.8841319680213928
+
+2) friend_wiki - 0.8119457588260519
+
+3) pupil_wiki - 0.8031207440423537
+
+4) boy_wiki - 0.7995486855506897
+
+5) school_wiki - 0.796981155872345
+
+6) imagination_wiki - 0.7891135215759277
+
+7) time_wiki - 0.7674394249916077
+
+8) wife_wiki - 0.766830563545227
+
+9) class_wiki - 0.7570852202925601
+
+10) house_wiki - 0.7307641723979766
+
+11) hair_wiki - 0.7125403881072998
+
+12) death_wiki - 0.5924325342436165
+
+13) anything_wiki - 0.5836790204048157
+
+14) road_wiki - 0.572352801105548
+

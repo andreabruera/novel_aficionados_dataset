@@ -1,0 +1,9 @@
+Test: doppelganger test
+Results for: The_Brothers_Karamazov_by_Fyodor_Dostoye
+Model used: proper names matched
+
+Within-novel median: 6.5
+Within-novel average: 13.523255813953488
+Within-novel MRR: 0.33094404048263243
+Within-novel standard deviation of the scores: 13.555850658446118
+Amount of entities considered: 43.0

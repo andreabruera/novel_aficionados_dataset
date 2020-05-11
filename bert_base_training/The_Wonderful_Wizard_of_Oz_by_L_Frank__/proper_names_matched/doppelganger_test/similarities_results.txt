@@ -1,0 +1,192 @@
+Result for the vector: dorothy, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9760718331379808
+
+1) dorothy_b - 0.9760718331379808
+
+2) toto_b - 0.9112914151723053
+
+3) oz_b - 0.8851891091578683
+
+4) uncle_henry_b - 0.8811298204478465
+
+5) tin_woodman_b - 0.7688022209409212
+
+6) golden_cap_b - 0.764681512814986
+
+Result for the vector: tin_woodman, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9888504422293041
+
+1) tin_woodman_b - 0.9888504422293041
+
+2) golden_cap_b - 0.859466791637765
+
+3) oz_b - 0.8149875181898554
+
+4) toto_b - 0.7978812215186678
+
+5) dorothy_b - 0.7773236366896251
+
+6) uncle_henry_b - 0.7438078438949383
+
+Result for the vector: toto, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9814045721711095
+
+1) toto_b - 0.9814045721711095
+
+2) dorothy_b - 0.9361536781833676
+
+3) oz_b - 0.8973133831415593
+
+4) uncle_henry_b - 0.8822128106482512
+
+5) tin_woodman_b - 0.8211738254039094
+
+6) golden_cap_b - 0.7857855303031852
+
+Result for the vector: golden_cap, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8090094569030332
+
+1) golden_cap_b - 0.8090094569030332
+
+2) tin_woodman_b - 0.7327074030848645
+
+3) oz_b - 0.6866529770700361
+
+4) toto_b - 0.6850795337510399
+
+5) dorothy_b - 0.6705494123369817
+
+6) uncle_henry_b - 0.6573182744587008
+
+Result for the vector: oz, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.943261209531952
+
+1) oz_b - 0.943261209531952
+
+2) toto_b - 0.8753311112325737
+
+3) dorothy_b - 0.8590908730571957
+
+4) tin_woodman_b - 0.8518738404474901
+
+5) golden_cap_b - 0.8469926371274278
+
+6) uncle_henry_b - 0.8355032552628773
+
+Result for the vector: uncle_henry, coming from part a of the book
+Rank: 2 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9045391891484732
+
+1) toto_b - 0.9272711829704768
+
+2) uncle_henry_b - 0.9045391891484732
+
+3) dorothy_b - 0.9045129361458398
+
+4) oz_b - 0.8693299811679129
+
+5) tin_woodman_b - 0.7819768759573815
+
+6) golden_cap_b - 0.7582465348015036
+
+Result for the vector: dorothy, coming from part b of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9760718331379808
+
+1) dorothy_a - 0.9760718331379808
+
+2) toto_a - 0.9361536781833676
+
+3) uncle_henry_a - 0.9045129361458398
+
+4) oz_a - 0.8590908730571957
+
+5) tin_woodman_a - 0.7773236366896251
+
+6) golden_cap_a - 0.6705494123369817
+
+Result for the vector: tin_woodman, coming from part b of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9888504422293041
+
+1) tin_woodman_a - 0.9888504422293041
+
+2) oz_a - 0.8518738404474901
+
+3) toto_a - 0.8211738254039094
+
+4) uncle_henry_a - 0.7819768759573815
+
+5) dorothy_a - 0.7688022209409212
+
+6) golden_cap_a - 0.7327074030848645
+
+Result for the vector: toto, coming from part b of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9814045721711095
+
+1) toto_a - 0.9814045721711095
+
+2) uncle_henry_a - 0.9272711829704768
+
+3) dorothy_a - 0.9112914151723053
+
+4) oz_a - 0.8753311112325737
+
+5) tin_woodman_a - 0.7978812215186678
+
+6) golden_cap_a - 0.6850795337510399
+
+Result for the vector: golden_cap, coming from part b of the book
+Rank: 3 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8090094569030332
+
+1) tin_woodman_a - 0.859466791637765
+
+2) oz_a - 0.8469926371274278
+
+3) golden_cap_a - 0.8090094569030332
+
+4) toto_a - 0.7857855303031852
+
+5) dorothy_a - 0.764681512814986
+
+6) uncle_henry_a - 0.7582465348015036
+
+Result for the vector: oz, coming from part b of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.943261209531952
+
+1) oz_a - 0.943261209531952
+
+2) toto_a - 0.8973133831415593
+
+3) dorothy_a - 0.8851891091578683
+
+4) uncle_henry_a - 0.8693299811679129
+
+5) tin_woodman_a - 0.8149875181898554
+
+6) golden_cap_a - 0.6866529770700361
+
+Result for the vector: uncle_henry, coming from part b of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9045391891484732
+
+1) uncle_henry_a - 0.9045391891484732
+
+2) toto_a - 0.8822128106482512
+
+3) dorothy_a - 0.8811298204478465
+
+4) oz_a - 0.8355032552628773
+
+5) tin_woodman_a - 0.7438078438949383
+
+6) golden_cap_a - 0.6573182744587008
+

@@ -1,0 +1,1760 @@
+Result for the vector: knight, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8938723143263066
+
+1) knight_a - 0.8938723143263066
+
+2) lady_a - 0.8494812250137329
+
+3) maiden_a - 0.8431362603225567
+
+4) queen_a - 0.8353119145426728
+
+5) wife_a - 0.8318576116477034
+
+6) enemy_a - 0.8301844000816345
+
+7) war_a - 0.8187015896648646
+
+8) giant_a - 0.8184418678283691
+
+9) quest_a - 0.8163426141330522
+
+10) tournament_a - 0.8135252594947815
+
+11) treason_a - 0.8030446767807007
+
+12) page_a - 0.8003034114656813
+
+13) birth_a - 0.7977683544158936
+
+14) oath_a - 0.7950161695480347
+
+15) boy_a - 0.7872405756033013
+
+16) thing_a - 0.7835858593233922
+
+17) way_a - 0.7813215255737305
+
+18) mean_a - 0.7632830142974854
+
+19) rest_a - 0.7566668391227722
+
+20) age_a - 0.7510403394699097
+
+Result for the vector: lady, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8953676757435621
+
+1) lady_a - 0.8953676757435621
+
+2) queen_a - 0.8803766560891265
+
+3) maiden_a - 0.8729411959648194
+
+4) giant_a - 0.8605937874671109
+
+5) knight_a - 0.8600115609182788
+
+6) wife_a - 0.8463473136839048
+
+7) treason_a - 0.8288054960254145
+
+8) war_a - 0.8283985401748309
+
+9) page_a - 0.8235908746719419
+
+10) enemy_a - 0.82169364820085
+
+11) quest_a - 0.820041607615865
+
+12) way_a - 0.8195788156735205
+
+13) boy_a - 0.8160114312188973
+
+14) thing_a - 0.8113842606544552
+
+15) tournament_a - 0.8040542485746308
+
+16) age_a - 0.7929890032404081
+
+17) rest_a - 0.786146628030935
+
+18) mean_a - 0.77727364166222
+
+19) birth_a - 0.7691710453731458
+
+20) oath_a - 0.7658845642736308
+
+Result for the vector: way, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.6916092038154602
+
+1) way_a - 0.6916092038154602
+
+2) quest_a - 0.6328699430382365
+
+3) lady_a - 0.6215310096740723
+
+4) war_a - 0.6184656804342773
+
+5) oath_a - 0.617113471031189
+
+6) queen_a - 0.6171088998648199
+
+7) tournament_a - 0.6170856356620789
+
+8) treason_a - 0.6127750873565674
+
+9) giant_a - 0.6122449636459351
+
+10) page_a - 0.6056760188534259
+
+11) thing_a - 0.6030441163155974
+
+12) maiden_a - 0.6023875711925296
+
+13) mean_a - 0.6016989946365356
+
+14) birth_a - 0.5954189300537109
+
+15) knight_a - 0.5952908155495426
+
+16) enemy_a - 0.5887048840522766
+
+17) wife_a - 0.588224922908839
+
+18) rest_a - 0.5880674123764038
+
+19) age_a - 0.5845900177955627
+
+20) boy_a - 0.5578811667455308
+
+Result for the vector: queen, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7672019094707292
+
+1) queen_a - 0.7672019094707292
+
+2) wife_a - 0.7284873400315451
+
+3) lady_a - 0.7262923554356323
+
+4) maiden_a - 0.7205479741096548
+
+5) tournament_a - 0.6816198040020361
+
+6) treason_a - 0.6758609816945196
+
+7) knight_a - 0.6714645828562478
+
+8) giant_a - 0.6693502467483441
+
+9) page_a - 0.6644211411476183
+
+10) war_a - 0.6556401838934589
+
+11) quest_a - 0.6478913636272436
+
+12) age_a - 0.6473128585405873
+
+13) thing_a - 0.6435531377792404
+
+14) boy_a - 0.6431470279614672
+
+15) rest_a - 0.6413318301041037
+
+16) birth_a - 0.6397586250161317
+
+17) way_a - 0.6370542429121889
+
+18) enemy_a - 0.6341718813283383
+
+19) mean_a - 0.617784119712361
+
+20) oath_a - 0.6169476280777244
+
+Result for the vector: wife, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8016561511140154
+
+1) wife_a - 0.8016561511140154
+
+2) maiden_a - 0.7751922473426136
+
+3) queen_a - 0.7712621646020092
+
+4) lady_a - 0.7670402845192349
+
+5) knight_a - 0.7655344782235299
+
+6) enemy_a - 0.7512001694679515
+
+7) page_a - 0.7384679757635697
+
+8) treason_a - 0.7365305109656518
+
+9) quest_a - 0.7323501110077112
+
+10) war_a - 0.7292554273091922
+
+11) giant_a - 0.7264596493792167
+
+12) tournament_a - 0.721430328062817
+
+13) thing_a - 0.7139096685594237
+
+14) way_a - 0.7126800671434533
+
+15) age_a - 0.7104491246282061
+
+16) birth_a - 0.7073552259630285
+
+17) rest_a - 0.7058525330844612
+
+18) oath_a - 0.7004969955083176
+
+19) boy_a - 0.6999895840861529
+
+20) mean_a - 0.6862886174069236
+
+Result for the vector: war, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.824368501435772
+
+1) war_a - 0.824368501435772
+
+2) tournament_a - 0.800006628036499
+
+3) quest_a - 0.7831779976871072
+
+4) treason_a - 0.7754678726196289
+
+5) way_a - 0.7697547078132629
+
+6) oath_a - 0.7662138342857361
+
+7) knight_a - 0.7638597943699251
+
+8) enemy_a - 0.7627973556518555
+
+9) lady_a - 0.762532114982605
+
+10) queen_a - 0.7479964121579058
+
+11) wife_a - 0.7457566705797132
+
+12) boy_a - 0.7452894519528286
+
+13) giant_a - 0.7405393123626709
+
+14) maiden_a - 0.738852635690414
+
+15) birth_a - 0.7383041381835938
+
+16) thing_a - 0.734929875437626
+
+17) rest_a - 0.7325223684310913
+
+18) age_a - 0.7281404137611389
+
+19) mean_a - 0.7249025106430054
+
+20) page_a - 0.7098796540570478
+
+Result for the vector: tournament, coming from part i of the book
+Rank: 2 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7966011762619019
+
+1) knight_a - 0.8128457553890812
+
+2) tournament_a - 0.7966011762619019
+
+3) giant_a - 0.7951908111572266
+
+4) lady_a - 0.7892173528671265
+
+5) maiden_a - 0.7873320706288787
+
+6) queen_a - 0.7661422719401801
+
+7) war_a - 0.7590608823019532
+
+8) treason_a - 0.757777750492096
+
+9) enemy_a - 0.7510164380073547
+
+10) wife_a - 0.7463795987593902
+
+11) way_a - 0.737212061882019
+
+12) page_a - 0.7342680255014894
+
+13) thing_a - 0.7176355887868662
+
+14) quest_a - 0.7131162031750488
+
+15) age_a - 0.7094097137451172
+
+16) rest_a - 0.7078104019165039
+
+17) boy_a - 0.7051383291308606
+
+18) oath_a - 0.6931345462799072
+
+19) birth_a - 0.6847162246704102
+
+20) mean_a - 0.6513299942016602
+
+Result for the vector: treason, coming from part i of the book
+Rank: 3 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7603209304427045
+
+1) birth_a - 0.8718592677284221
+
+2) quest_a - 0.7699630808918283
+
+3) treason_a - 0.7603209304427045
+
+4) wife_a - 0.7396871006675421
+
+5) mean_a - 0.7268293825591399
+
+6) war_a - 0.7259792036432821
+
+7) lady_a - 0.7219179008104971
+
+8) age_a - 0.7193477488341682
+
+9) tournament_a - 0.7178454735463344
+
+10) queen_a - 0.713769968113016
+
+11) oath_a - 0.7057801239752672
+
+12) maiden_a - 0.7051703265004778
+
+13) enemy_a - 0.7042026872393315
+
+14) giant_a - 0.6988177062490386
+
+15) rest_a - 0.6959883933081208
+
+16) knight_a - 0.688886720604507
+
+17) thing_a - 0.6857112016002187
+
+18) way_a - 0.6823351761895257
+
+19) page_a - 0.6780883053383293
+
+20) boy_a - 0.6675566831959427
+
+Result for the vector: quest, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8043782348181978
+
+1) quest_a - 0.8043782348181978
+
+2) war_a - 0.799632275093564
+
+3) tournament_a - 0.7981530427932739
+
+4) treason_a - 0.7803922295570374
+
+5) oath_a - 0.777653157711029
+
+6) way_a - 0.7706971764564514
+
+7) lady_a - 0.765387237071991
+
+8) wife_a - 0.7651406982624961
+
+9) enemy_a - 0.7610323429107666
+
+10) birth_a - 0.759055495262146
+
+11) knight_a - 0.7588693355840062
+
+12) giant_a - 0.757742166519165
+
+13) queen_a - 0.7557444201631675
+
+14) maiden_a - 0.7525991944909589
+
+15) page_a - 0.752088501924963
+
+16) thing_a - 0.7382809079718061
+
+17) age_a - 0.7331095337867737
+
+18) rest_a - 0.7328760623931885
+
+19) mean_a - 0.7115236520767212
+
+20) boy_a - 0.6995173722074095
+
+Result for the vector: enemy, coming from part i of the book
+Rank: 2 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8540604282075583
+
+1) knight_a - 0.8628833387618275
+
+2) enemy_a - 0.8540604282075583
+
+3) wife_a - 0.8344023875001654
+
+4) lady_a - 0.8322767167338807
+
+5) maiden_a - 0.8285349258343945
+
+6) queen_a - 0.8247289448653409
+
+7) giant_a - 0.8243268273168979
+
+8) war_a - 0.8241743235795899
+
+9) treason_a - 0.8120528589534368
+
+10) boy_a - 0.8115539213813403
+
+11) oath_a - 0.8100731501048671
+
+12) page_a - 0.808344090233576
+
+13) quest_a - 0.8063961027146723
+
+14) tournament_a - 0.7915154807134434
+
+15) thing_a - 0.7870539065317571
+
+16) rest_a - 0.7771126726668514
+
+17) way_a - 0.7713671420246818
+
+18) birth_a - 0.7602754318960427
+
+19) age_a - 0.7485749198712367
+
+20) mean_a - 0.7483013345272572
+
+Result for the vector: giant, coming from part i of the book
+Rank: 3 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7131696172457718
+
+1) maiden_a - 0.7291086316108756
+
+2) lady_a - 0.7283274965481471
+
+3) giant_a - 0.7131696172457718
+
+4) page_a - 0.7014724016189625
+
+5) wife_a - 0.7010813595153522
+
+6) queen_a - 0.6996505886003904
+
+7) boy_a - 0.6877425145719225
+
+8) knight_a - 0.6737455932790748
+
+9) treason_a - 0.665453354445301
+
+10) thing_a - 0.6506358385086106
+
+11) tournament_a - 0.6473899273508755
+
+12) way_a - 0.6465900925749607
+
+13) enemy_a - 0.6391601943469175
+
+14) quest_a - 0.6351834157000038
+
+15) war_a - 0.6266443693617916
+
+16) rest_a - 0.6181323300678938
+
+17) oath_a - 0.6134153374085042
+
+18) age_a - 0.5988030194522761
+
+19) mean_a - 0.5987715481979589
+
+20) birth_a - 0.5664725641293872
+
+Result for the vector: rest, coming from part i of the book
+Rank: 11 out of 20 characters
+Cosine similarity to the co-referring vector: 0.5360680222511292
+
+1) birth_a - 0.5863158106803894
+
+2) quest_a - 0.5736664445797908
+
+3) age_a - 0.565278172492981
+
+4) way_a - 0.548578679561615
+
+5) treason_a - 0.5481158494949341
+
+6) lady_a - 0.543864369392395
+
+7) tournament_a - 0.542944073677063
+
+8) thing_a - 0.5388886011309275
+
+9) queen_a - 0.5377367895167111
+
+10) war_a - 0.5367304246643314
+
+11) rest_a - 0.5360680222511292
+
+12) knight_a - 0.5337075909201865
+
+13) maiden_a - 0.5321706216233608
+
+14) page_a - 0.5296753329232146
+
+15) wife_a - 0.5288878994517275
+
+16) oath_a - 0.5268567204475403
+
+17) enemy_a - 0.5248875021934509
+
+18) boy_a - 0.5163355335297188
+
+19) giant_a - 0.5146297216415405
+
+20) mean_a - 0.4969239830970764
+
+Result for the vector: mean, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.893412709236145
+
+1) mean_a - 0.893412709236145
+
+2) birth_a - 0.8148671984672546
+
+3) quest_a - 0.7964407448243264
+
+4) lady_a - 0.7790675759315491
+
+5) treason_a - 0.7714358568191528
+
+6) way_a - 0.7702953815460205
+
+7) maiden_a - 0.7644530079094777
+
+8) wife_a - 0.7627097822850827
+
+9) queen_a - 0.7565578447746591
+
+10) war_a - 0.7534210310405803
+
+11) oath_a - 0.7472712993621826
+
+12) tournament_a - 0.7447890639305115
+
+13) page_a - 0.7438402328586453
+
+14) enemy_a - 0.7388503551483154
+
+15) giant_a - 0.737575352191925
+
+16) knight_a - 0.7291362720213111
+
+17) age_a - 0.7200427055358887
+
+18) rest_a - 0.7069109678268433
+
+19) thing_a - 0.7051641520759981
+
+20) boy_a - 0.6788758050390334
+
+Result for the vector: thing, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.6062641974530113
+
+1) thing_a - 0.6062641974530113
+
+2) queen_a - 0.5954048811019924
+
+3) knight_a - 0.5936431046511603
+
+4) maiden_a - 0.5853647836825391
+
+5) lady_a - 0.5793336629867554
+
+6) treason_a - 0.5754786729812622
+
+7) giant_a - 0.5746251940727234
+
+8) tournament_a - 0.5719708204269409
+
+9) wife_a - 0.5669689516406636
+
+10) page_a - 0.5659289022726485
+
+11) war_a - 0.5613655019213412
+
+12) boy_a - 0.5577000282138633
+
+13) age_a - 0.5555827617645264
+
+14) way_a - 0.5480310916900635
+
+15) rest_a - 0.5429278016090393
+
+16) enemy_a - 0.5394745469093323
+
+17) quest_a - 0.5245542496974208
+
+18) oath_a - 0.5123834609985352
+
+19) birth_a - 0.511952817440033
+
+20) mean_a - 0.5017532110214233
+
+Result for the vector: page, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7552764561607579
+
+1) page_a - 0.7552764561607579
+
+2) queen_a - 0.7363058548064788
+
+3) maiden_a - 0.7321444909486491
+
+4) treason_a - 0.7314669489860535
+
+5) wife_a - 0.7313886720769819
+
+6) lady_a - 0.7294459342956543
+
+7) tournament_a - 0.7291361689567566
+
+8) knight_a - 0.725235922648665
+
+9) quest_a - 0.7195444441384791
+
+10) thing_a - 0.7189093995744361
+
+11) giant_a - 0.7123367786407471
+
+12) oath_a - 0.712070882320404
+
+13) way_a - 0.711218535900116
+
+14) war_a - 0.7065371485512602
+
+15) rest_a - 0.7014274597167969
+
+16) boy_a - 0.6973933605009369
+
+17) age_a - 0.6961891055107117
+
+18) enemy_a - 0.6936255097389221
+
+19) birth_a - 0.684110701084137
+
+20) mean_a - 0.6698381900787354
+
+Result for the vector: age, coming from part i of the book
+Rank: 3 out of 20 characters
+Cosine similarity to the co-referring vector: 0.5834464083047872
+
+1) birth_a - 0.5918775444103761
+
+2) oath_a - 0.587971354247848
+
+3) age_a - 0.5834464083047872
+
+4) treason_a - 0.5770956529917934
+
+5) quest_a - 0.5734555291911023
+
+6) queen_a - 0.5665298531493611
+
+7) knight_a - 0.5626705288887064
+
+8) maiden_a - 0.5605055617683457
+
+9) thing_a - 0.5590609837697764
+
+10) war_a - 0.5588663649896893
+
+11) page_a - 0.5552697711861406
+
+12) way_a - 0.5545436409387813
+
+13) giant_a - 0.5542991427004859
+
+14) wife_a - 0.5482539534568825
+
+15) lady_a - 0.5481040151057244
+
+16) enemy_a - 0.5461308630626889
+
+17) tournament_a - 0.5446272763832056
+
+18) boy_a - 0.5341630141187672
+
+19) rest_a - 0.5327106396728383
+
+20) mean_a - 0.5204500245779747
+
+Result for the vector: oath, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.6947982518314797
+
+1) oath_a - 0.6947982518314797
+
+2) quest_a - 0.6786869753581085
+
+3) page_a - 0.6597908538642298
+
+4) treason_a - 0.6520488456502216
+
+5) war_a - 0.6469602374410771
+
+6) maiden_a - 0.6385413217979301
+
+7) giant_a - 0.6384702515146214
+
+8) tournament_a - 0.6377075504573453
+
+9) wife_a - 0.6354300947871891
+
+10) thing_a - 0.6337415983157899
+
+11) lady_a - 0.6331973264574211
+
+12) birth_a - 0.6328380892526537
+
+13) way_a - 0.6324044654489898
+
+14) enemy_a - 0.6313209721839721
+
+15) knight_a - 0.6310040918890323
+
+16) mean_a - 0.6296523401037559
+
+17) queen_a - 0.6259019747914061
+
+18) rest_a - 0.616961676387837
+
+19) age_a - 0.5982387244176487
+
+20) boy_a - 0.5896462308938789
+
+Result for the vector: maiden, coming from part i of the book
+Rank: 2 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7265320799788242
+
+1) knight_a - 0.7466463518124541
+
+2) maiden_a - 0.7265320799788242
+
+3) queen_a - 0.7176117132670708
+
+4) lady_a - 0.7153588746595051
+
+5) giant_a - 0.7061439366979583
+
+6) treason_a - 0.6887726392976239
+
+7) page_a - 0.6820996796459082
+
+8) wife_a - 0.6793646823791879
+
+9) thing_a - 0.6668570438964082
+
+10) war_a - 0.6610398686551969
+
+11) enemy_a - 0.6604630547899921
+
+12) boy_a - 0.6476475176391038
+
+13) age_a - 0.6440897179868736
+
+14) way_a - 0.6437965823351322
+
+15) quest_a - 0.6429752728663213
+
+16) rest_a - 0.6429397655409508
+
+17) tournament_a - 0.6420731139800884
+
+18) mean_a - 0.6227798647516928
+
+19) birth_a - 0.6225509829089341
+
+20) oath_a - 0.6188064401986136
+
+Result for the vector: boy, coming from part i of the book
+Rank: 7 out of 20 characters
+Cosine similarity to the co-referring vector: 0.804927563520462
+
+1) queen_a - 0.8483338193595069
+
+2) lady_a - 0.8397861314074896
+
+3) maiden_a - 0.8266944003055586
+
+4) knight_a - 0.8210688936073379
+
+5) giant_a - 0.8186139680607415
+
+6) wife_a - 0.8152746072247988
+
+7) boy_a - 0.804927563520462
+
+8) page_a - 0.7922332062304261
+
+9) tournament_a - 0.7858634846373275
+
+10) treason_a - 0.785578574469265
+
+11) thing_a - 0.7741657303275365
+
+12) way_a - 0.7736933501132365
+
+13) age_a - 0.7731765183000001
+
+14) war_a - 0.7673473864185252
+
+15) enemy_a - 0.7656613271640204
+
+16) quest_a - 0.7639063563570127
+
+17) rest_a - 0.7570375493720168
+
+18) oath_a - 0.7365197853422473
+
+19) birth_a - 0.7362281994547658
+
+20) mean_a - 0.710819815299538
+
+Result for the vector: birth, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8405086994171143
+
+1) birth_a - 0.8405086994171143
+
+2) quest_a - 0.7526185211398034
+
+3) age_a - 0.7229427695274353
+
+4) war_a - 0.7151938293932033
+
+5) treason_a - 0.7096878886222839
+
+6) wife_a - 0.7052486363201533
+
+7) lady_a - 0.6988140940666199
+
+8) oath_a - 0.6969106793403625
+
+9) enemy_a - 0.6941728591918945
+
+10) tournament_a - 0.6930956244468689
+
+11) queen_a - 0.6917435733003492
+
+12) knight_a - 0.6908812338639053
+
+13) mean_a - 0.6885884404182434
+
+14) way_a - 0.6875803470611572
+
+15) thing_a - 0.6789990258813497
+
+16) maiden_a - 0.6773187710452825
+
+17) giant_a - 0.6672940254211426
+
+18) boy_a - 0.6652445195833936
+
+19) rest_a - 0.6635419130325317
+
+20) page_a - 0.653517743735449
+
+Result for the vector: knight, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8938723143263066
+
+1) knight_wiki - 0.8938723143263066
+
+2) enemy_wiki - 0.8628833387618275
+
+3) lady_wiki - 0.8600115609182788
+
+4) boy_wiki - 0.8210688936073379
+
+5) tournament_wiki - 0.8128457553890812
+
+6) wife_wiki - 0.7655344782235299
+
+7) war_wiki - 0.7638597943699251
+
+8) quest_wiki - 0.7588693355840062
+
+9) maiden_wiki - 0.7466463518124541
+
+10) mean_wiki - 0.7291362720213111
+
+11) page_wiki - 0.725235922648665
+
+12) birth_wiki - 0.6908812338639053
+
+13) treason_wiki - 0.688886720604507
+
+14) giant_wiki - 0.6737455932790748
+
+15) queen_wiki - 0.6714645828562478
+
+16) oath_wiki - 0.6310040918890323
+
+17) way_wiki - 0.5952908155495426
+
+18) thing_wiki - 0.5936431046511603
+
+19) age_wiki - 0.5626705288887064
+
+20) rest_wiki - 0.5337075909201865
+
+Result for the vector: lady, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8953676757435621
+
+1) lady_wiki - 0.8953676757435621
+
+2) knight_wiki - 0.8494812250137329
+
+3) boy_wiki - 0.8397861314074896
+
+4) enemy_wiki - 0.8322767167338807
+
+5) tournament_wiki - 0.7892173528671265
+
+6) mean_wiki - 0.7790675759315491
+
+7) wife_wiki - 0.7670402845192349
+
+8) quest_wiki - 0.765387237071991
+
+9) war_wiki - 0.762532114982605
+
+10) page_wiki - 0.7294459342956543
+
+11) giant_wiki - 0.7283274965481471
+
+12) queen_wiki - 0.7262923554356323
+
+13) treason_wiki - 0.7219179008104971
+
+14) maiden_wiki - 0.7153588746595051
+
+15) birth_wiki - 0.6988140940666199
+
+16) oath_wiki - 0.6331973264574211
+
+17) way_wiki - 0.6215310096740723
+
+18) thing_wiki - 0.5793336629867554
+
+19) age_wiki - 0.5481040151057244
+
+20) rest_wiki - 0.543864369392395
+
+Result for the vector: way, coming from part a of the book
+Rank: 11 out of 20 characters
+Cosine similarity to the co-referring vector: 0.6916092038154602
+
+1) lady_wiki - 0.8195788156735205
+
+2) knight_wiki - 0.7813215255737305
+
+3) boy_wiki - 0.7736933501132365
+
+4) enemy_wiki - 0.7713671420246818
+
+5) quest_wiki - 0.7706971764564514
+
+6) mean_wiki - 0.7702953815460205
+
+7) war_wiki - 0.7697547078132629
+
+8) tournament_wiki - 0.737212061882019
+
+9) wife_wiki - 0.7126800671434533
+
+10) page_wiki - 0.711218535900116
+
+11) way_wiki - 0.6916092038154602
+
+12) birth_wiki - 0.6875803470611572
+
+13) treason_wiki - 0.6823351761895257
+
+14) giant_wiki - 0.6465900925749607
+
+15) maiden_wiki - 0.6437965823351322
+
+16) queen_wiki - 0.6370542429121889
+
+17) oath_wiki - 0.6324044654489898
+
+18) age_wiki - 0.5545436409387813
+
+19) rest_wiki - 0.548578679561615
+
+20) thing_wiki - 0.5480310916900635
+
+Result for the vector: queen, coming from part a of the book
+Rank: 6 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7672019094707292
+
+1) lady_wiki - 0.8803766560891265
+
+2) boy_wiki - 0.8483338193595069
+
+3) knight_wiki - 0.8353119145426728
+
+4) enemy_wiki - 0.8247289448653409
+
+5) wife_wiki - 0.7712621646020092
+
+6) queen_wiki - 0.7672019094707292
+
+7) tournament_wiki - 0.7661422719401801
+
+8) mean_wiki - 0.7565578447746591
+
+9) quest_wiki - 0.7557444201631675
+
+10) war_wiki - 0.7479964121579058
+
+11) page_wiki - 0.7363058548064788
+
+12) maiden_wiki - 0.7176117132670708
+
+13) treason_wiki - 0.713769968113016
+
+14) giant_wiki - 0.6996505886003904
+
+15) birth_wiki - 0.6917435733003492
+
+16) oath_wiki - 0.6259019747914061
+
+17) way_wiki - 0.6171088998648199
+
+18) thing_wiki - 0.5954048811019924
+
+19) age_wiki - 0.5665298531493611
+
+20) rest_wiki - 0.5377367895167111
+
+Result for the vector: wife, coming from part a of the book
+Rank: 5 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8016561511140154
+
+1) lady_wiki - 0.8463473136839048
+
+2) enemy_wiki - 0.8344023875001654
+
+3) knight_wiki - 0.8318576116477034
+
+4) boy_wiki - 0.8152746072247988
+
+5) wife_wiki - 0.8016561511140154
+
+6) quest_wiki - 0.7651406982624961
+
+7) mean_wiki - 0.7627097822850827
+
+8) tournament_wiki - 0.7463795987593902
+
+9) war_wiki - 0.7457566705797132
+
+10) treason_wiki - 0.7396871006675421
+
+11) page_wiki - 0.7313886720769819
+
+12) queen_wiki - 0.7284873400315451
+
+13) birth_wiki - 0.7052486363201533
+
+14) giant_wiki - 0.7010813595153522
+
+15) maiden_wiki - 0.6793646823791879
+
+16) oath_wiki - 0.6354300947871891
+
+17) way_wiki - 0.588224922908839
+
+18) thing_wiki - 0.5669689516406636
+
+19) age_wiki - 0.5482539534568825
+
+20) rest_wiki - 0.5288878994517275
+
+Result for the vector: war, coming from part a of the book
+Rank: 2 out of 20 characters
+Cosine similarity to the co-referring vector: 0.824368501435772
+
+1) lady_wiki - 0.8283985401748309
+
+2) war_wiki - 0.824368501435772
+
+3) enemy_wiki - 0.8241743235795899
+
+4) knight_wiki - 0.8187015896648646
+
+5) quest_wiki - 0.799632275093564
+
+6) boy_wiki - 0.7673473864185252
+
+7) tournament_wiki - 0.7590608823019532
+
+8) mean_wiki - 0.7534210310405803
+
+9) wife_wiki - 0.7292554273091922
+
+10) treason_wiki - 0.7259792036432821
+
+11) birth_wiki - 0.7151938293932033
+
+12) page_wiki - 0.7065371485512602
+
+13) maiden_wiki - 0.6610398686551969
+
+14) queen_wiki - 0.6556401838934589
+
+15) oath_wiki - 0.6469602374410771
+
+16) giant_wiki - 0.6266443693617916
+
+17) way_wiki - 0.6184656804342773
+
+18) thing_wiki - 0.5613655019213412
+
+19) age_wiki - 0.5588663649896893
+
+20) rest_wiki - 0.5367304246643314
+
+Result for the vector: tournament, coming from part a of the book
+Rank: 5 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7966011762619019
+
+1) knight_wiki - 0.8135252594947815
+
+2) lady_wiki - 0.8040542485746308
+
+3) war_wiki - 0.800006628036499
+
+4) quest_wiki - 0.7981530427932739
+
+5) tournament_wiki - 0.7966011762619019
+
+6) enemy_wiki - 0.7915154807134434
+
+7) boy_wiki - 0.7858634846373275
+
+8) mean_wiki - 0.7447890639305115
+
+9) page_wiki - 0.7291361689567566
+
+10) wife_wiki - 0.721430328062817
+
+11) treason_wiki - 0.7178454735463344
+
+12) birth_wiki - 0.6930956244468689
+
+13) queen_wiki - 0.6816198040020361
+
+14) giant_wiki - 0.6473899273508755
+
+15) maiden_wiki - 0.6420731139800884
+
+16) oath_wiki - 0.6377075504573453
+
+17) way_wiki - 0.6170856356620789
+
+18) thing_wiki - 0.5719708204269409
+
+19) age_wiki - 0.5446272763832056
+
+20) rest_wiki - 0.542944073677063
+
+Result for the vector: treason, coming from part a of the book
+Rank: 8 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7603209304427045
+
+1) lady_wiki - 0.8288054960254145
+
+2) enemy_wiki - 0.8120528589534368
+
+3) knight_wiki - 0.8030446767807007
+
+4) boy_wiki - 0.785578574469265
+
+5) quest_wiki - 0.7803922295570374
+
+6) war_wiki - 0.7754678726196289
+
+7) mean_wiki - 0.7714358568191528
+
+8) treason_wiki - 0.7603209304427045
+
+9) tournament_wiki - 0.757777750492096
+
+10) wife_wiki - 0.7365305109656518
+
+11) page_wiki - 0.7314669489860535
+
+12) birth_wiki - 0.7096878886222839
+
+13) maiden_wiki - 0.6887726392976239
+
+14) queen_wiki - 0.6758609816945196
+
+15) giant_wiki - 0.665453354445301
+
+16) oath_wiki - 0.6520488456502216
+
+17) way_wiki - 0.6127750873565674
+
+18) age_wiki - 0.5770956529917934
+
+19) thing_wiki - 0.5754786729812622
+
+20) rest_wiki - 0.5481158494949341
+
+Result for the vector: quest, coming from part a of the book
+Rank: 4 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8043782348181978
+
+1) lady_wiki - 0.820041607615865
+
+2) knight_wiki - 0.8163426141330522
+
+3) enemy_wiki - 0.8063961027146723
+
+4) quest_wiki - 0.8043782348181978
+
+5) mean_wiki - 0.7964407448243264
+
+6) war_wiki - 0.7831779976871072
+
+7) treason_wiki - 0.7699630808918283
+
+8) boy_wiki - 0.7639063563570127
+
+9) birth_wiki - 0.7526185211398034
+
+10) wife_wiki - 0.7323501110077112
+
+11) page_wiki - 0.7195444441384791
+
+12) tournament_wiki - 0.7131162031750488
+
+13) oath_wiki - 0.6786869753581085
+
+14) queen_wiki - 0.6478913636272436
+
+15) maiden_wiki - 0.6429752728663213
+
+16) giant_wiki - 0.6351834157000038
+
+17) way_wiki - 0.6328699430382365
+
+18) rest_wiki - 0.5736664445797908
+
+19) age_wiki - 0.5734555291911023
+
+20) thing_wiki - 0.5245542496974208
+
+Result for the vector: enemy, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8540604282075583
+
+1) enemy_wiki - 0.8540604282075583
+
+2) knight_wiki - 0.8301844000816345
+
+3) lady_wiki - 0.82169364820085
+
+4) boy_wiki - 0.7656613271640204
+
+5) war_wiki - 0.7627973556518555
+
+6) quest_wiki - 0.7610323429107666
+
+7) wife_wiki - 0.7512001694679515
+
+8) tournament_wiki - 0.7510164380073547
+
+9) mean_wiki - 0.7388503551483154
+
+10) treason_wiki - 0.7042026872393315
+
+11) birth_wiki - 0.6941728591918945
+
+12) page_wiki - 0.6936255097389221
+
+13) maiden_wiki - 0.6604630547899921
+
+14) giant_wiki - 0.6391601943469175
+
+15) queen_wiki - 0.6341718813283383
+
+16) oath_wiki - 0.6313209721839721
+
+17) way_wiki - 0.5887048840522766
+
+18) age_wiki - 0.5461308630626889
+
+19) thing_wiki - 0.5394745469093323
+
+20) rest_wiki - 0.5248875021934509
+
+Result for the vector: giant, coming from part a of the book
+Rank: 10 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7131696172457718
+
+1) lady_wiki - 0.8605937874671109
+
+2) enemy_wiki - 0.8243268273168979
+
+3) boy_wiki - 0.8186139680607415
+
+4) knight_wiki - 0.8184418678283691
+
+5) tournament_wiki - 0.7951908111572266
+
+6) quest_wiki - 0.757742166519165
+
+7) war_wiki - 0.7405393123626709
+
+8) mean_wiki - 0.737575352191925
+
+9) wife_wiki - 0.7264596493792167
+
+10) giant_wiki - 0.7131696172457718
+
+11) page_wiki - 0.7123367786407471
+
+12) maiden_wiki - 0.7061439366979583
+
+13) treason_wiki - 0.6988177062490386
+
+14) queen_wiki - 0.6693502467483441
+
+15) birth_wiki - 0.6672940254211426
+
+16) oath_wiki - 0.6384702515146214
+
+17) way_wiki - 0.6122449636459351
+
+18) thing_wiki - 0.5746251940727234
+
+19) age_wiki - 0.5542991427004859
+
+20) rest_wiki - 0.5146297216415405
+
+Result for the vector: rest, coming from part a of the book
+Rank: 19 out of 20 characters
+Cosine similarity to the co-referring vector: 0.5360680222511292
+
+1) lady_wiki - 0.786146628030935
+
+2) enemy_wiki - 0.7771126726668514
+
+3) boy_wiki - 0.7570375493720168
+
+4) knight_wiki - 0.7566668391227722
+
+5) quest_wiki - 0.7328760623931885
+
+6) war_wiki - 0.7325223684310913
+
+7) tournament_wiki - 0.7078104019165039
+
+8) mean_wiki - 0.7069109678268433
+
+9) wife_wiki - 0.7058525330844612
+
+10) page_wiki - 0.7014274597167969
+
+11) treason_wiki - 0.6959883933081208
+
+12) birth_wiki - 0.6635419130325317
+
+13) maiden_wiki - 0.6429397655409508
+
+14) queen_wiki - 0.6413318301041037
+
+15) giant_wiki - 0.6181323300678938
+
+16) oath_wiki - 0.616961676387837
+
+17) way_wiki - 0.5880674123764038
+
+18) thing_wiki - 0.5429278016090393
+
+19) rest_wiki - 0.5360680222511292
+
+20) age_wiki - 0.5327106396728383
+
+Result for the vector: mean, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.893412709236145
+
+1) mean_wiki - 0.893412709236145
+
+2) lady_wiki - 0.77727364166222
+
+3) knight_wiki - 0.7632830142974854
+
+4) enemy_wiki - 0.7483013345272572
+
+5) treason_wiki - 0.7268293825591399
+
+6) war_wiki - 0.7249025106430054
+
+7) quest_wiki - 0.7115236520767212
+
+8) boy_wiki - 0.710819815299538
+
+9) birth_wiki - 0.6885884404182434
+
+10) wife_wiki - 0.6862886174069236
+
+11) page_wiki - 0.6698381900787354
+
+12) tournament_wiki - 0.6513299942016602
+
+13) oath_wiki - 0.6296523401037559
+
+14) maiden_wiki - 0.6227798647516928
+
+15) queen_wiki - 0.617784119712361
+
+16) way_wiki - 0.6016989946365356
+
+17) giant_wiki - 0.5987715481979589
+
+18) age_wiki - 0.5204500245779747
+
+19) thing_wiki - 0.5017532110214233
+
+20) rest_wiki - 0.4969239830970764
+
+Result for the vector: thing, coming from part a of the book
+Rank: 17 out of 20 characters
+Cosine similarity to the co-referring vector: 0.6062641974530113
+
+1) lady_wiki - 0.8113842606544552
+
+2) enemy_wiki - 0.7870539065317571
+
+3) knight_wiki - 0.7835858593233922
+
+4) boy_wiki - 0.7741657303275365
+
+5) quest_wiki - 0.7382809079718061
+
+6) war_wiki - 0.734929875437626
+
+7) page_wiki - 0.7189093995744361
+
+8) tournament_wiki - 0.7176355887868662
+
+9) wife_wiki - 0.7139096685594237
+
+10) mean_wiki - 0.7051641520759981
+
+11) treason_wiki - 0.6857112016002187
+
+12) birth_wiki - 0.6789990258813497
+
+13) maiden_wiki - 0.6668570438964082
+
+14) giant_wiki - 0.6506358385086106
+
+15) queen_wiki - 0.6435531377792404
+
+16) oath_wiki - 0.6337415983157899
+
+17) thing_wiki - 0.6062641974530113
+
+18) way_wiki - 0.6030441163155974
+
+19) age_wiki - 0.5590609837697764
+
+20) rest_wiki - 0.5388886011309275
+
+Result for the vector: page, coming from part a of the book
+Rank: 5 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7552764561607579
+
+1) lady_wiki - 0.8235908746719419
+
+2) enemy_wiki - 0.808344090233576
+
+3) knight_wiki - 0.8003034114656813
+
+4) boy_wiki - 0.7922332062304261
+
+5) page_wiki - 0.7552764561607579
+
+6) quest_wiki - 0.752088501924963
+
+7) mean_wiki - 0.7438402328586453
+
+8) wife_wiki - 0.7384679757635697
+
+9) tournament_wiki - 0.7342680255014894
+
+10) war_wiki - 0.7098796540570478
+
+11) giant_wiki - 0.7014724016189625
+
+12) maiden_wiki - 0.6820996796459082
+
+13) treason_wiki - 0.6780883053383293
+
+14) queen_wiki - 0.6644211411476183
+
+15) oath_wiki - 0.6597908538642298
+
+16) birth_wiki - 0.653517743735449
+
+17) way_wiki - 0.6056760188534259
+
+18) thing_wiki - 0.5659289022726485
+
+19) age_wiki - 0.5552697711861406
+
+20) rest_wiki - 0.5296753329232146
+
+Result for the vector: age, coming from part a of the book
+Rank: 18 out of 20 characters
+Cosine similarity to the co-referring vector: 0.5834464083047872
+
+1) lady_wiki - 0.7929890032404081
+
+2) boy_wiki - 0.7731765183000001
+
+3) knight_wiki - 0.7510403394699097
+
+4) enemy_wiki - 0.7485749198712367
+
+5) quest_wiki - 0.7331095337867737
+
+6) war_wiki - 0.7281404137611389
+
+7) birth_wiki - 0.7229427695274353
+
+8) mean_wiki - 0.7200427055358887
+
+9) treason_wiki - 0.7193477488341682
+
+10) wife_wiki - 0.7104491246282061
+
+11) tournament_wiki - 0.7094097137451172
+
+12) page_wiki - 0.6961891055107117
+
+13) queen_wiki - 0.6473128585405873
+
+14) maiden_wiki - 0.6440897179868736
+
+15) giant_wiki - 0.5988030194522761
+
+16) oath_wiki - 0.5982387244176487
+
+17) way_wiki - 0.5845900177955627
+
+18) age_wiki - 0.5834464083047872
+
+19) rest_wiki - 0.565278172492981
+
+20) thing_wiki - 0.5555827617645264
+
+Result for the vector: oath, coming from part a of the book
+Rank: 12 out of 20 characters
+Cosine similarity to the co-referring vector: 0.6947982518314797
+
+1) enemy_wiki - 0.8100731501048671
+
+2) knight_wiki - 0.7950161695480347
+
+3) quest_wiki - 0.777653157711029
+
+4) war_wiki - 0.7662138342857361
+
+5) lady_wiki - 0.7658845642736308
+
+6) mean_wiki - 0.7472712993621826
+
+7) boy_wiki - 0.7365197853422473
+
+8) page_wiki - 0.712070882320404
+
+9) treason_wiki - 0.7057801239752672
+
+10) wife_wiki - 0.7004969955083176
+
+11) birth_wiki - 0.6969106793403625
+
+12) oath_wiki - 0.6947982518314797
+
+13) tournament_wiki - 0.6931345462799072
+
+14) maiden_wiki - 0.6188064401986136
+
+15) way_wiki - 0.617113471031189
+
+16) queen_wiki - 0.6169476280777244
+
+17) giant_wiki - 0.6134153374085042
+
+18) age_wiki - 0.587971354247848
+
+19) rest_wiki - 0.5268567204475403
+
+20) thing_wiki - 0.5123834609985352
+
+Result for the vector: maiden, coming from part a of the book
+Rank: 12 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7265320799788242
+
+1) lady_wiki - 0.8729411959648194
+
+2) knight_wiki - 0.8431362603225567
+
+3) enemy_wiki - 0.8285349258343945
+
+4) boy_wiki - 0.8266944003055586
+
+5) tournament_wiki - 0.7873320706288787
+
+6) wife_wiki - 0.7751922473426136
+
+7) mean_wiki - 0.7644530079094777
+
+8) quest_wiki - 0.7525991944909589
+
+9) war_wiki - 0.738852635690414
+
+10) page_wiki - 0.7321444909486491
+
+11) giant_wiki - 0.7291086316108756
+
+12) maiden_wiki - 0.7265320799788242
+
+13) queen_wiki - 0.7205479741096548
+
+14) treason_wiki - 0.7051703265004778
+
+15) birth_wiki - 0.6773187710452825
+
+16) oath_wiki - 0.6385413217979301
+
+17) way_wiki - 0.6023875711925296
+
+18) thing_wiki - 0.5853647836825391
+
+19) age_wiki - 0.5605055617683457
+
+20) rest_wiki - 0.5321706216233608
+
+Result for the vector: boy, coming from part a of the book
+Rank: 3 out of 20 characters
+Cosine similarity to the co-referring vector: 0.804927563520462
+
+1) lady_wiki - 0.8160114312188973
+
+2) enemy_wiki - 0.8115539213813403
+
+3) boy_wiki - 0.804927563520462
+
+4) knight_wiki - 0.7872405756033013
+
+5) war_wiki - 0.7452894519528286
+
+6) tournament_wiki - 0.7051383291308606
+
+7) wife_wiki - 0.6999895840861529
+
+8) quest_wiki - 0.6995173722074095
+
+9) page_wiki - 0.6973933605009369
+
+10) giant_wiki - 0.6877425145719225
+
+11) mean_wiki - 0.6788758050390334
+
+12) treason_wiki - 0.6675566831959427
+
+13) birth_wiki - 0.6652445195833936
+
+14) maiden_wiki - 0.6476475176391038
+
+15) queen_wiki - 0.6431470279614672
+
+16) oath_wiki - 0.5896462308938789
+
+17) way_wiki - 0.5578811667455308
+
+18) thing_wiki - 0.5577000282138633
+
+19) age_wiki - 0.5341630141187672
+
+20) rest_wiki - 0.5163355335297188
+
+Result for the vector: birth, coming from part a of the book
+Rank: 2 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8405086994171143
+
+1) treason_wiki - 0.8718592677284221
+
+2) birth_wiki - 0.8405086994171143
+
+3) mean_wiki - 0.8148671984672546
+
+4) knight_wiki - 0.7977683544158936
+
+5) lady_wiki - 0.7691710453731458
+
+6) enemy_wiki - 0.7602754318960427
+
+7) quest_wiki - 0.759055495262146
+
+8) war_wiki - 0.7383041381835938
+
+9) boy_wiki - 0.7362281994547658
+
+10) wife_wiki - 0.7073552259630285
+
+11) tournament_wiki - 0.6847162246704102
+
+12) page_wiki - 0.684110701084137
+
+13) queen_wiki - 0.6397586250161317
+
+14) oath_wiki - 0.6328380892526537
+
+15) maiden_wiki - 0.6225509829089341
+
+16) way_wiki - 0.5954189300537109
+
+17) age_wiki - 0.5918775444103761
+
+18) rest_wiki - 0.5863158106803894
+
+19) giant_wiki - 0.5664725641293872
+
+20) thing_wiki - 0.511952817440033
+

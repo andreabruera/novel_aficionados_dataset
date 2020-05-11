@@ -1,0 +1,1596 @@
+Result for the vector: miss_elizabeth_bennet, coming from part i of the book
+Rank: 5 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9255653068086338
+
+1) lady_catherine_de_bourgh_a - 0.9343681335449219
+
+2) mr_bingley_a - 0.9336391687393188
+
+3) lady_lucas_a - 0.9320790212107305
+
+4) jane_a - 0.9298194092619788
+
+5) miss_elizabeth_bennet_a - 0.9255653068086338
+
+6) miss_lydia_bennet_a - 0.9235991330624725
+
+7) mrs_hurst_a - 0.9221895383483463
+
+8) mr_wickham_a - 0.9192489063515937
+
+9) charlotte_lucas_a - 0.9159912416929763
+
+10) mrs_gardiner_a - 0.9120785541581262
+
+11) mr_darcy_a - 0.9065217860367107
+
+12) mr_collins_a - 0.9063172880600283
+
+13) mary_king_a - 0.9028895170357684
+
+14) kitty_a - 0.900463879108429
+
+15) fitzwilliam_a - 0.8866466283798218
+
+16) pemberley_house_a - 0.8372697234153748
+
+17) rosings_a - 0.8083692789077759
+
+18) georgiana_a - 0.8023451331073261
+
+19) william_lucas_a - 0.769976808430148
+
+Result for the vector: mr_darcy, coming from part i of the book
+Rank: 7 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9352795404529091
+
+1) mr_wickham_a - 0.9569883035715913
+
+2) mr_bingley_a - 0.9483885765075684
+
+3) mr_collins_a - 0.947285649018626
+
+4) lady_catherine_de_bourgh_a - 0.9440320730209351
+
+5) jane_a - 0.939474169047228
+
+6) lady_lucas_a - 0.9355577268864096
+
+7) mr_darcy_a - 0.9352795404529091
+
+8) charlotte_lucas_a - 0.9297718363864341
+
+9) miss_lydia_bennet_a - 0.922950694209261
+
+10) mrs_gardiner_a - 0.9211365533552516
+
+11) mrs_hurst_a - 0.9208475398512177
+
+12) kitty_a - 0.912209689617157
+
+13) mary_king_a - 0.9025793344551131
+
+14) miss_elizabeth_bennet_a - 0.8917291824979093
+
+15) fitzwilliam_a - 0.877039909362793
+
+16) pemberley_house_a - 0.8671127557754517
+
+17) rosings_a - 0.8297685980796814
+
+18) georgiana_a - 0.797775602075535
+
+19) william_lucas_a - 0.7977374912656863
+
+Result for the vector: jane, coming from part i of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9072876031823411
+
+1) jane_a - 0.9072876031823411
+
+2) mrs_hurst_a - 0.9049330410401216
+
+3) charlotte_lucas_a - 0.9004062354806818
+
+4) lady_catherine_de_bourgh_a - 0.8993908166885376
+
+5) lady_lucas_a - 0.8934988442958106
+
+6) miss_lydia_bennet_a - 0.8857646720689989
+
+7) kitty_a - 0.8834580183029175
+
+8) mary_king_a - 0.8772707246920687
+
+9) mr_bingley_a - 0.8743315935134888
+
+10) mr_wickham_a - 0.8741051219137053
+
+11) mr_darcy_a - 0.8694889389859427
+
+12) mrs_gardiner_a - 0.8671411792720083
+
+13) mr_collins_a - 0.8647258797124568
+
+14) miss_elizabeth_bennet_a - 0.8271982176781778
+
+15) georgiana_a - 0.8126632347897629
+
+16) pemberley_house_a - 0.8111273050308228
+
+17) fitzwilliam_a - 0.7959603071212769
+
+18) rosings_a - 0.7690361142158508
+
+19) william_lucas_a - 0.7454413923358101
+
+Result for the vector: mr_bingley, coming from part i of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.943699864855405
+
+1) mr_bingley_a - 0.943699864855405
+
+2) lady_lucas_a - 0.9366159159953656
+
+3) lady_catherine_de_bourgh_a - 0.933212308085332
+
+4) mr_wickham_a - 0.930882986240565
+
+5) jane_a - 0.9201465570883025
+
+6) charlotte_lucas_a - 0.9180664048850307
+
+7) miss_elizabeth_bennet_a - 0.9155894245031684
+
+8) mr_collins_a - 0.9146388394807736
+
+9) mrs_gardiner_a - 0.9145731551563585
+
+10) mr_darcy_a - 0.9130238463020132
+
+11) miss_lydia_bennet_a - 0.9043881084572081
+
+12) fitzwilliam_a - 0.9038088591041825
+
+13) mrs_hurst_a - 0.9007725447186106
+
+14) mary_king_a - 0.8855565122101612
+
+15) kitty_a - 0.8833867574747435
+
+16) pemberley_house_a - 0.8596994537025531
+
+17) rosings_a - 0.8227958924411507
+
+18) georgiana_a - 0.8069643984681993
+
+19) william_lucas_a - 0.7921045186488506
+
+Result for the vector: mr_wickham, coming from part i of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9343118946049186
+
+1) mr_wickham_a - 0.9343118946049186
+
+2) mr_bingley_a - 0.9253784418106079
+
+3) mr_collins_a - 0.9203631234385461
+
+4) jane_a - 0.9192872691579317
+
+5) lady_lucas_a - 0.9192568707909081
+
+6) lady_catherine_de_bourgh_a - 0.9188328385353088
+
+7) mr_darcy_a - 0.9118593230079862
+
+8) charlotte_lucas_a - 0.9087883775704149
+
+9) mrs_gardiner_a - 0.9002028644205863
+
+10) miss_lydia_bennet_a - 0.8932935126670052
+
+11) mrs_hurst_a - 0.8895975417138627
+
+12) mary_king_a - 0.8862825896228136
+
+13) miss_elizabeth_bennet_a - 0.88534111467951
+
+14) fitzwilliam_a - 0.8801278471946716
+
+15) kitty_a - 0.8771625757217407
+
+16) pemberley_house_a - 0.8485980033874512
+
+17) rosings_a - 0.8042649030685425
+
+18) georgiana_a - 0.7851832849005856
+
+19) william_lucas_a - 0.7768684758622376
+
+Result for the vector: miss_lydia_bennet, coming from part i of the book
+Rank: 6 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9185225416110578
+
+1) jane_a - 0.9408985376358099
+
+2) lady_catherine_de_bourgh_a - 0.9361544213387042
+
+3) charlotte_lucas_a - 0.9330904404032755
+
+4) mrs_hurst_a - 0.9265475869178837
+
+5) lady_lucas_a - 0.9226628541946477
+
+6) miss_lydia_bennet_a - 0.9185225416110578
+
+7) mary_king_a - 0.9123455505680044
+
+8) mr_wickham_a - 0.9102173069313745
+
+9) mr_bingley_a - 0.9046705308360193
+
+10) mr_darcy_a - 0.901118976077852
+
+11) kitty_a - 0.9001157820293789
+
+12) mr_collins_a - 0.898422527125183
+
+13) mrs_gardiner_a - 0.897903430211953
+
+14) miss_elizabeth_bennet_a - 0.8519845604896606
+
+15) pemberley_house_a - 0.8498650103727005
+
+16) georgiana_a - 0.8382664033650896
+
+17) fitzwilliam_a - 0.8147380837642019
+
+18) rosings_a - 0.8107249623969189
+
+19) william_lucas_a - 0.7431725263595634
+
+Result for the vector: mr_collins, coming from part i of the book
+Rank: 4 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9243676206640443
+
+1) mr_wickham_a - 0.9305924053059416
+
+2) mr_bingley_a - 0.9266417215230749
+
+3) lady_lucas_a - 0.925125502806222
+
+4) mr_collins_a - 0.9243676206640443
+
+5) mr_darcy_a - 0.9192931733619741
+
+6) lady_catherine_de_bourgh_a - 0.9117741751334434
+
+7) jane_a - 0.9097274163121853
+
+8) charlotte_lucas_a - 0.9032439685674877
+
+9) miss_lydia_bennet_a - 0.8984556465881088
+
+10) mrs_gardiner_a - 0.8964428983658674
+
+11) kitty_a - 0.8893029822860731
+
+12) mrs_hurst_a - 0.883292157944355
+
+13) mary_king_a - 0.8771546263375273
+
+14) miss_elizabeth_bennet_a - 0.8653678475649409
+
+15) fitzwilliam_a - 0.8633054589190369
+
+16) pemberley_house_a - 0.8537621578219863
+
+17) rosings_a - 0.8184654740192794
+
+18) william_lucas_a - 0.789368640425995
+
+19) georgiana_a - 0.7697488942068833
+
+Result for the vector: lady_catherine_de_bourgh, coming from part i of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9219024181365967
+
+1) lady_catherine_de_bourgh_a - 0.9219024181365967
+
+2) lady_lucas_a - 0.9194569039668514
+
+3) charlotte_lucas_a - 0.9170002887845228
+
+4) mrs_hurst_a - 0.9166342069724691
+
+5) jane_a - 0.9137427262221158
+
+6) miss_lydia_bennet_a - 0.9131683810748664
+
+7) mr_darcy_a - 0.8989246963172853
+
+8) mr_bingley_a - 0.8975714445114136
+
+9) mr_wickham_a - 0.8964265852101624
+
+10) kitty_a - 0.8941920399665833
+
+11) mrs_gardiner_a - 0.8925552900168489
+
+12) mr_collins_a - 0.8857117227144092
+
+13) mary_king_a - 0.8845367099206664
+
+14) miss_elizabeth_bennet_a - 0.8502730816439953
+
+15) pemberley_house_a - 0.8371675610542297
+
+16) fitzwilliam_a - 0.8348232507705688
+
+17) georgiana_a - 0.8134149090546319
+
+18) rosings_a - 0.7971611618995667
+
+19) william_lucas_a - 0.7666090269917843
+
+Result for the vector: kitty, coming from part i of the book
+Rank: 10 out of 19 characters
+Cosine similarity to the co-referring vector: 0.8552336606522611
+
+1) charlotte_lucas_a - 0.9011729837862233
+
+2) lady_lucas_a - 0.8862136602401797
+
+3) jane_a - 0.878887474536902
+
+4) lady_catherine_de_bourgh_a - 0.875142864891463
+
+5) miss_lydia_bennet_a - 0.8691933233026808
+
+6) mary_king_a - 0.8678639711019971
+
+7) mrs_gardiner_a - 0.8646153646249014
+
+8) mrs_hurst_a - 0.8623895049095215
+
+9) mr_darcy_a - 0.8573255879865164
+
+10) kitty_a - 0.8552336606522611
+
+11) mr_wickham_a - 0.8452504436895651
+
+12) mr_bingley_a - 0.8451998737573564
+
+13) mr_collins_a - 0.8401751327723423
+
+14) georgiana_a - 0.814740326656163
+
+15) pemberley_house_a - 0.8067664388875045
+
+16) miss_elizabeth_bennet_a - 0.7939456105232295
+
+17) fitzwilliam_a - 0.7768217192185963
+
+18) rosings_a - 0.7535291763263463
+
+19) william_lucas_a - 0.6866522431373645
+
+Result for the vector: mrs_gardiner, coming from part i of the book
+Rank: 10 out of 19 characters
+Cosine similarity to the co-referring vector: 0.8871936134811426
+
+1) lady_lucas_a - 0.908366029955983
+
+2) mr_bingley_a - 0.9052847623825073
+
+3) lady_catherine_de_bourgh_a - 0.902216911315918
+
+4) mrs_hurst_a - 0.9020379244066538
+
+5) jane_a - 0.8957252564594013
+
+6) mr_wickham_a - 0.8952186374431447
+
+7) miss_lydia_bennet_a - 0.8942321665010318
+
+8) charlotte_lucas_a - 0.8897684746842683
+
+9) miss_elizabeth_bennet_a - 0.8873050876077974
+
+10) mrs_gardiner_a - 0.8871936134811426
+
+11) kitty_a - 0.8828599452972412
+
+12) mr_collins_a - 0.881347589573122
+
+13) mr_darcy_a - 0.8797272896441629
+
+14) fitzwilliam_a - 0.8748345375061035
+
+15) mary_king_a - 0.8689828177983412
+
+16) pemberley_house_a - 0.8165092468261719
+
+17) william_lucas_a - 0.7981444121513135
+
+18) georgiana_a - 0.7942161314745162
+
+19) rosings_a - 0.7862765789031982
+
+Result for the vector: william_lucas, coming from part i of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.7793775796890314
+
+1) william_lucas_a - 0.7793775796890314
+
+2) lady_lucas_a - 0.7376103401184134
+
+3) fitzwilliam_a - 0.7350179991136802
+
+4) mr_bingley_a - 0.7349358043036357
+
+5) mr_wickham_a - 0.7347351969541789
+
+6) mr_collins_a - 0.7179762384863184
+
+7) mr_darcy_a - 0.7179028483455518
+
+8) lady_catherine_de_bourgh_a - 0.7097145742007849
+
+9) jane_a - 0.7008104920387318
+
+10) charlotte_lucas_a - 0.7007357121390954
+
+11) kitty_a - 0.7006146133312365
+
+12) mrs_gardiner_a - 0.698275768551322
+
+13) miss_elizabeth_bennet_a - 0.6980769038200428
+
+14) mrs_hurst_a - 0.6948319077491809
+
+15) miss_lydia_bennet_a - 0.6929910365944594
+
+16) pemberley_house_a - 0.6684913437659361
+
+17) mary_king_a - 0.6525483118785902
+
+18) rosings_a - 0.6293786543237372
+
+19) georgiana_a - 0.6201428091781406
+
+Result for the vector: mary_king, coming from part i of the book
+Rank: 3 out of 19 characters
+Cosine similarity to the co-referring vector: 0.869920160470014
+
+1) mrs_hurst_a - 0.8800606203043106
+
+2) jane_a - 0.8753328993718104
+
+3) mary_king_a - 0.869920160470014
+
+4) miss_lydia_bennet_a - 0.8685786284710674
+
+5) lady_catherine_de_bourgh_a - 0.8647004961967468
+
+6) lady_lucas_a - 0.8607781612409272
+
+7) charlotte_lucas_a - 0.8604752934262346
+
+8) kitty_a - 0.8572997450828552
+
+9) mr_bingley_a - 0.8536617755889893
+
+10) mr_darcy_a - 0.8352571529456618
+
+11) mrs_gardiner_a - 0.8350393077754577
+
+12) mr_wickham_a - 0.8344526539579828
+
+13) mr_collins_a - 0.832926799829413
+
+14) miss_elizabeth_bennet_a - 0.8191414583241085
+
+15) fitzwilliam_a - 0.7867265343666077
+
+16) georgiana_a - 0.755372971936824
+
+17) pemberley_house_a - 0.7458626627922058
+
+18) rosings_a - 0.7192481756210327
+
+19) william_lucas_a - 0.7157277634306107
+
+Result for the vector: rosings, coming from part i of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.7303732472880643
+
+1) rosings_a - 0.7303732472880643
+
+2) lady_lucas_a - 0.7113032341003469
+
+3) pemberley_house_a - 0.6973804651129535
+
+4) lady_catherine_de_bourgh_a - 0.6790976333080324
+
+5) mr_bingley_a - 0.6732049389603709
+
+6) mrs_gardiner_a - 0.6650448042207723
+
+7) miss_elizabeth_bennet_a - 0.6616188287735032
+
+8) mr_wickham_a - 0.6591495268776593
+
+9) fitzwilliam_a - 0.6588510071546452
+
+10) charlotte_lucas_a - 0.6523546162074347
+
+11) jane_a - 0.6508479118347215
+
+12) mr_collins_a - 0.6456300193822407
+
+13) mr_darcy_a - 0.6400714469083763
+
+14) miss_lydia_bennet_a - 0.63939126495176
+
+15) mrs_hurst_a - 0.6300663352012679
+
+16) mary_king_a - 0.6125295709845043
+
+17) kitty_a - 0.6091131334968299
+
+18) georgiana_a - 0.5715734788608822
+
+19) william_lucas_a - 0.561257004737858
+
+Result for the vector: mrs_hurst, coming from part i of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.8354480266571104
+
+1) mrs_hurst_a - 0.8354480266571104
+
+2) miss_lydia_bennet_a - 0.8295802575600126
+
+3) lady_lucas_a - 0.8277575969696104
+
+4) lady_catherine_de_bourgh_a - 0.8270587818061594
+
+5) kitty_a - 0.8181386481606169
+
+6) mr_bingley_a - 0.8097165113518557
+
+7) jane_a - 0.8058053255081234
+
+8) mr_wickham_a - 0.8053626542117588
+
+9) mr_collins_a - 0.7961290235673217
+
+10) miss_elizabeth_bennet_a - 0.7932720780372676
+
+11) charlotte_lucas_a - 0.7925163260121734
+
+12) mr_darcy_a - 0.791873715854953
+
+13) mrs_gardiner_a - 0.7917462339098732
+
+14) mary_king_a - 0.7905539384979554
+
+15) fitzwilliam_a - 0.7712071997646822
+
+16) pemberley_house_a - 0.7414502347380076
+
+17) rosings_a - 0.7089850133052489
+
+18) william_lucas_a - 0.692056119441991
+
+19) georgiana_a - 0.6835628778152856
+
+Result for the vector: fitzwilliam, coming from part i of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.8892646100897975
+
+1) fitzwilliam_a - 0.8892646100897975
+
+2) mr_bingley_a - 0.8803411388498888
+
+3) lady_lucas_a - 0.8802679514805128
+
+4) miss_elizabeth_bennet_a - 0.8680582979900187
+
+5) mr_wickham_a - 0.8646516123206385
+
+6) mr_darcy_a - 0.8569679941189314
+
+7) mrs_gardiner_a - 0.8542003203213505
+
+8) lady_catherine_de_bourgh_a - 0.854132498923913
+
+9) charlotte_lucas_a - 0.8503009841115167
+
+10) mr_collins_a - 0.8419981755612653
+
+11) jane_a - 0.8410269963435267
+
+12) miss_lydia_bennet_a - 0.838252409852835
+
+13) mrs_hurst_a - 0.8164934868665523
+
+14) pemberley_house_a - 0.8122720960459742
+
+15) kitty_a - 0.8109349254052323
+
+16) mary_king_a - 0.7993749856576315
+
+17) rosings_a - 0.7673058142455168
+
+18) william_lucas_a - 0.7629285823426104
+
+19) georgiana_a - 0.7606733978798119
+
+Result for the vector: lady_lucas, coming from part i of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.8706941008567872
+
+1) lady_lucas_a - 0.8706941008567872
+
+2) charlotte_lucas_a - 0.8674576720544901
+
+3) mrs_gardiner_a - 0.8441772871228799
+
+4) lady_catherine_de_bourgh_a - 0.8372594617163829
+
+5) jane_a - 0.8371540904045165
+
+6) mr_darcy_a - 0.8348716202148727
+
+7) mr_wickham_a - 0.8268872046667822
+
+8) miss_lydia_bennet_a - 0.8221864806302631
+
+9) mr_bingley_a - 0.8217266691760238
+
+10) mr_collins_a - 0.821403839755516
+
+11) mary_king_a - 0.8165393605714468
+
+12) kitty_a - 0.8140126951940488
+
+13) pemberley_house_a - 0.8070230965032054
+
+14) mrs_hurst_a - 0.7999758720398006
+
+15) miss_elizabeth_bennet_a - 0.7770504951477106
+
+16) fitzwilliam_a - 0.7767894731038508
+
+17) georgiana_a - 0.7604073453677928
+
+18) rosings_a - 0.7547734829648438
+
+19) william_lucas_a - 0.6749585866928148
+
+Result for the vector: charlotte_lucas, coming from part i of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9261023402214116
+
+1) charlotte_lucas_a - 0.9261023402214116
+
+2) jane_a - 0.9064104668604771
+
+3) lady_catherine_de_bourgh_a - 0.9062939342085179
+
+4) lady_lucas_a - 0.9033165093283047
+
+5) mrs_gardiner_a - 0.8907287716865603
+
+6) mr_darcy_a - 0.8841087153022857
+
+7) miss_lydia_bennet_a - 0.8836459129489832
+
+8) mrs_hurst_a - 0.8831362863616602
+
+9) mr_wickham_a - 0.8821585511517992
+
+10) mary_king_a - 0.8758691884318272
+
+11) mr_collins_a - 0.8725710511207643
+
+12) kitty_a - 0.8720074372287148
+
+13) mr_bingley_a - 0.8688598949396689
+
+14) pemberley_house_a - 0.8492159933319111
+
+15) georgiana_a - 0.8272956506786271
+
+16) miss_elizabeth_bennet_a - 0.816028974529627
+
+17) rosings_a - 0.7968630315743084
+
+18) fitzwilliam_a - 0.7950648191532614
+
+19) william_lucas_a - 0.7270304886066331
+
+Result for the vector: georgiana, coming from part i of the book
+Rank: 16 out of 19 characters
+Cosine similarity to the co-referring vector: 0.8020569086075057
+
+1) lady_catherine_de_bourgh_a - 0.8729553970151729
+
+2) lady_lucas_a - 0.8703710668615595
+
+3) charlotte_lucas_a - 0.8703182416964764
+
+4) miss_lydia_bennet_a - 0.8630210487792376
+
+5) jane_a - 0.8605034004741803
+
+6) mrs_hurst_a - 0.8482854041542895
+
+7) mr_bingley_a - 0.8415246198744095
+
+8) mr_darcy_a - 0.8378057479858636
+
+9) mrs_gardiner_a - 0.8359993197918477
+
+10) mr_wickham_a - 0.8342431633851176
+
+11) kitty_a - 0.8306380712225411
+
+12) mary_king_a - 0.8242592074639405
+
+13) miss_elizabeth_bennet_a - 0.813503477542972
+
+14) mr_collins_a - 0.8116043918368713
+
+15) pemberley_house_a - 0.8056596153188268
+
+16) georgiana_a - 0.8020569086075057
+
+17) fitzwilliam_a - 0.7915527473029256
+
+18) rosings_a - 0.7586481858911347
+
+19) william_lucas_a - 0.7097436708670264
+
+Result for the vector: pemberley_house, coming from part i of the book
+Rank: 2 out of 19 characters
+Cosine similarity to the co-referring vector: 0.8992893575774922
+
+1) rosings_a - 0.9009389163182938
+
+2) pemberley_house_a - 0.8992893575774922
+
+3) lady_catherine_de_bourgh_a - 0.8855525118771272
+
+4) lady_lucas_a - 0.8833083440845358
+
+5) jane_a - 0.8818475533633107
+
+6) charlotte_lucas_a - 0.8699567085427136
+
+7) mr_darcy_a - 0.869024722343617
+
+8) mr_wickham_a - 0.8672353725486094
+
+9) mrs_gardiner_a - 0.8651111480792445
+
+10) mr_bingley_a - 0.8619007303596474
+
+11) mr_collins_a - 0.8472870315230561
+
+12) miss_lydia_bennet_a - 0.8468322753906491
+
+13) mary_king_a - 0.8353248887248205
+
+14) kitty_a - 0.8243647604423534
+
+15) mrs_hurst_a - 0.8235517635078421
+
+16) miss_elizabeth_bennet_a - 0.8193207275462715
+
+17) fitzwilliam_a - 0.8045270805987272
+
+18) georgiana_a - 0.7582375426858765
+
+19) william_lucas_a - 0.6752236887946051
+
+Result for the vector: miss_elizabeth_bennet, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9255653068086338
+
+1) miss_elizabeth_bennet_wiki - 0.9255653068086338
+
+2) mr_bingley_wiki - 0.9155894245031684
+
+3) mr_darcy_wiki - 0.8917291824979093
+
+4) mrs_gardiner_wiki - 0.8873050876077974
+
+5) mr_wickham_wiki - 0.88534111467951
+
+6) fitzwilliam_wiki - 0.8680582979900187
+
+7) mr_collins_wiki - 0.8653678475649409
+
+8) miss_lydia_bennet_wiki - 0.8519845604896606
+
+9) lady_catherine_de_bourgh_wiki - 0.8502730816439953
+
+10) jane_wiki - 0.8271982176781778
+
+11) pemberley_house_wiki - 0.8193207275462715
+
+12) mary_king_wiki - 0.8191414583241085
+
+13) charlotte_lucas_wiki - 0.816028974529627
+
+14) georgiana_wiki - 0.813503477542972
+
+15) kitty_wiki - 0.7939456105232295
+
+16) mrs_hurst_wiki - 0.7932720780372676
+
+17) lady_lucas_wiki - 0.7770504951477106
+
+18) william_lucas_wiki - 0.6980769038200428
+
+19) rosings_wiki - 0.6616188287735032
+
+Result for the vector: mr_darcy, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9352795404529091
+
+1) mr_darcy_wiki - 0.9352795404529091
+
+2) mr_collins_wiki - 0.9192931733619741
+
+3) mr_bingley_wiki - 0.9130238463020132
+
+4) mr_wickham_wiki - 0.9118593230079862
+
+5) miss_elizabeth_bennet_wiki - 0.9065217860367107
+
+6) miss_lydia_bennet_wiki - 0.901118976077852
+
+7) lady_catherine_de_bourgh_wiki - 0.8989246963172853
+
+8) charlotte_lucas_wiki - 0.8841087153022857
+
+9) mrs_gardiner_wiki - 0.8797272896441629
+
+10) jane_wiki - 0.8694889389859427
+
+11) pemberley_house_wiki - 0.869024722343617
+
+12) kitty_wiki - 0.8573255879865164
+
+13) fitzwilliam_wiki - 0.8569679941189314
+
+14) georgiana_wiki - 0.8378057479858636
+
+15) mary_king_wiki - 0.8352571529456618
+
+16) lady_lucas_wiki - 0.8348716202148727
+
+17) mrs_hurst_wiki - 0.791873715854953
+
+18) william_lucas_wiki - 0.7179028483455518
+
+19) rosings_wiki - 0.6400714469083763
+
+Result for the vector: jane, coming from part a of the book
+Rank: 8 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9072876031823411
+
+1) miss_lydia_bennet_wiki - 0.9408985376358099
+
+2) mr_darcy_wiki - 0.939474169047228
+
+3) miss_elizabeth_bennet_wiki - 0.9298194092619788
+
+4) mr_bingley_wiki - 0.9201465570883025
+
+5) mr_wickham_wiki - 0.9192872691579317
+
+6) lady_catherine_de_bourgh_wiki - 0.9137427262221158
+
+7) mr_collins_wiki - 0.9097274163121853
+
+8) jane_wiki - 0.9072876031823411
+
+9) charlotte_lucas_wiki - 0.9064104668604771
+
+10) mrs_gardiner_wiki - 0.8957252564594013
+
+11) pemberley_house_wiki - 0.8818475533633107
+
+12) kitty_wiki - 0.878887474536902
+
+13) mary_king_wiki - 0.8753328993718104
+
+14) georgiana_wiki - 0.8605034004741803
+
+15) fitzwilliam_wiki - 0.8410269963435267
+
+16) lady_lucas_wiki - 0.8371540904045165
+
+17) mrs_hurst_wiki - 0.8058053255081234
+
+18) william_lucas_wiki - 0.7008104920387318
+
+19) rosings_wiki - 0.6508479118347215
+
+Result for the vector: mr_bingley, coming from part a of the book
+Rank: 2 out of 19 characters
+Cosine similarity to the co-referring vector: 0.943699864855405
+
+1) mr_darcy_wiki - 0.9483885765075684
+
+2) mr_bingley_wiki - 0.943699864855405
+
+3) miss_elizabeth_bennet_wiki - 0.9336391687393188
+
+4) mr_collins_wiki - 0.9266417215230749
+
+5) mr_wickham_wiki - 0.9253784418106079
+
+6) mrs_gardiner_wiki - 0.9052847623825073
+
+7) miss_lydia_bennet_wiki - 0.9046705308360193
+
+8) lady_catherine_de_bourgh_wiki - 0.8975714445114136
+
+9) fitzwilliam_wiki - 0.8803411388498888
+
+10) jane_wiki - 0.8743315935134888
+
+11) charlotte_lucas_wiki - 0.8688598949396689
+
+12) pemberley_house_wiki - 0.8619007303596474
+
+13) mary_king_wiki - 0.8536617755889893
+
+14) kitty_wiki - 0.8451998737573564
+
+15) georgiana_wiki - 0.8415246198744095
+
+16) lady_lucas_wiki - 0.8217266691760238
+
+17) mrs_hurst_wiki - 0.8097165113518557
+
+18) william_lucas_wiki - 0.7349358043036357
+
+19) rosings_wiki - 0.6732049389603709
+
+Result for the vector: mr_wickham, coming from part a of the book
+Rank: 2 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9343118946049186
+
+1) mr_darcy_wiki - 0.9569883035715913
+
+2) mr_wickham_wiki - 0.9343118946049186
+
+3) mr_bingley_wiki - 0.930882986240565
+
+4) mr_collins_wiki - 0.9305924053059416
+
+5) miss_elizabeth_bennet_wiki - 0.9192489063515937
+
+6) miss_lydia_bennet_wiki - 0.9102173069313745
+
+7) lady_catherine_de_bourgh_wiki - 0.8964265852101624
+
+8) mrs_gardiner_wiki - 0.8952186374431447
+
+9) charlotte_lucas_wiki - 0.8821585511517992
+
+10) jane_wiki - 0.8741051219137053
+
+11) pemberley_house_wiki - 0.8672353725486094
+
+12) fitzwilliam_wiki - 0.8646516123206385
+
+13) kitty_wiki - 0.8452504436895651
+
+14) mary_king_wiki - 0.8344526539579828
+
+15) georgiana_wiki - 0.8342431633851176
+
+16) lady_lucas_wiki - 0.8268872046667822
+
+17) mrs_hurst_wiki - 0.8053626542117588
+
+18) william_lucas_wiki - 0.7347351969541789
+
+19) rosings_wiki - 0.6591495268776593
+
+Result for the vector: miss_lydia_bennet, coming from part a of the book
+Rank: 3 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9185225416110578
+
+1) miss_elizabeth_bennet_wiki - 0.9235991330624725
+
+2) mr_darcy_wiki - 0.922950694209261
+
+3) miss_lydia_bennet_wiki - 0.9185225416110578
+
+4) lady_catherine_de_bourgh_wiki - 0.9131683810748664
+
+5) mr_bingley_wiki - 0.9043881084572081
+
+6) mr_collins_wiki - 0.8984556465881088
+
+7) mrs_gardiner_wiki - 0.8942321665010318
+
+8) mr_wickham_wiki - 0.8932935126670052
+
+9) jane_wiki - 0.8857646720689989
+
+10) charlotte_lucas_wiki - 0.8836459129489832
+
+11) kitty_wiki - 0.8691933233026808
+
+12) mary_king_wiki - 0.8685786284710674
+
+13) georgiana_wiki - 0.8630210487792376
+
+14) pemberley_house_wiki - 0.8468322753906491
+
+15) fitzwilliam_wiki - 0.838252409852835
+
+16) mrs_hurst_wiki - 0.8295802575600126
+
+17) lady_lucas_wiki - 0.8221864806302631
+
+18) william_lucas_wiki - 0.6929910365944594
+
+19) rosings_wiki - 0.63939126495176
+
+Result for the vector: mr_collins, coming from part a of the book
+Rank: 2 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9243676206640443
+
+1) mr_darcy_wiki - 0.947285649018626
+
+2) mr_collins_wiki - 0.9243676206640443
+
+3) mr_wickham_wiki - 0.9203631234385461
+
+4) mr_bingley_wiki - 0.9146388394807736
+
+5) miss_elizabeth_bennet_wiki - 0.9063172880600283
+
+6) miss_lydia_bennet_wiki - 0.898422527125183
+
+7) lady_catherine_de_bourgh_wiki - 0.8857117227144092
+
+8) mrs_gardiner_wiki - 0.881347589573122
+
+9) charlotte_lucas_wiki - 0.8725710511207643
+
+10) jane_wiki - 0.8647258797124568
+
+11) pemberley_house_wiki - 0.8472870315230561
+
+12) fitzwilliam_wiki - 0.8419981755612653
+
+13) kitty_wiki - 0.8401751327723423
+
+14) mary_king_wiki - 0.832926799829413
+
+15) lady_lucas_wiki - 0.821403839755516
+
+16) georgiana_wiki - 0.8116043918368713
+
+17) mrs_hurst_wiki - 0.7961290235673217
+
+18) william_lucas_wiki - 0.7179762384863184
+
+19) rosings_wiki - 0.6456300193822407
+
+Result for the vector: lady_catherine_de_bourgh, coming from part a of the book
+Rank: 5 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9219024181365967
+
+1) mr_darcy_wiki - 0.9440320730209351
+
+2) miss_lydia_bennet_wiki - 0.9361544213387042
+
+3) miss_elizabeth_bennet_wiki - 0.9343681335449219
+
+4) mr_bingley_wiki - 0.933212308085332
+
+5) lady_catherine_de_bourgh_wiki - 0.9219024181365967
+
+6) mr_wickham_wiki - 0.9188328385353088
+
+7) mr_collins_wiki - 0.9117741751334434
+
+8) charlotte_lucas_wiki - 0.9062939342085179
+
+9) mrs_gardiner_wiki - 0.902216911315918
+
+10) jane_wiki - 0.8993908166885376
+
+11) pemberley_house_wiki - 0.8855525118771272
+
+12) kitty_wiki - 0.875142864891463
+
+13) georgiana_wiki - 0.8729553970151729
+
+14) mary_king_wiki - 0.8647004961967468
+
+15) fitzwilliam_wiki - 0.854132498923913
+
+16) lady_lucas_wiki - 0.8372594617163829
+
+17) mrs_hurst_wiki - 0.8270587818061594
+
+18) william_lucas_wiki - 0.7097145742007849
+
+19) rosings_wiki - 0.6790976333080324
+
+Result for the vector: kitty, coming from part a of the book
+Rank: 12 out of 19 characters
+Cosine similarity to the co-referring vector: 0.8552336606522611
+
+1) mr_darcy_wiki - 0.912209689617157
+
+2) miss_elizabeth_bennet_wiki - 0.900463879108429
+
+3) miss_lydia_bennet_wiki - 0.9001157820293789
+
+4) lady_catherine_de_bourgh_wiki - 0.8941920399665833
+
+5) mr_collins_wiki - 0.8893029822860731
+
+6) jane_wiki - 0.8834580183029175
+
+7) mr_bingley_wiki - 0.8833867574747435
+
+8) mrs_gardiner_wiki - 0.8828599452972412
+
+9) mr_wickham_wiki - 0.8771625757217407
+
+10) charlotte_lucas_wiki - 0.8720074372287148
+
+11) mary_king_wiki - 0.8572997450828552
+
+12) kitty_wiki - 0.8552336606522611
+
+13) georgiana_wiki - 0.8306380712225411
+
+14) pemberley_house_wiki - 0.8243647604423534
+
+15) mrs_hurst_wiki - 0.8181386481606169
+
+16) lady_lucas_wiki - 0.8140126951940488
+
+17) fitzwilliam_wiki - 0.8109349254052323
+
+18) william_lucas_wiki - 0.7006146133312365
+
+19) rosings_wiki - 0.6091131334968299
+
+Result for the vector: mrs_gardiner, coming from part a of the book
+Rank: 9 out of 19 characters
+Cosine similarity to the co-referring vector: 0.8871936134811426
+
+1) mr_darcy_wiki - 0.9211365533552516
+
+2) mr_bingley_wiki - 0.9145731551563585
+
+3) miss_elizabeth_bennet_wiki - 0.9120785541581262
+
+4) mr_wickham_wiki - 0.9002028644205863
+
+5) miss_lydia_bennet_wiki - 0.897903430211953
+
+6) mr_collins_wiki - 0.8964428983658674
+
+7) lady_catherine_de_bourgh_wiki - 0.8925552900168489
+
+8) charlotte_lucas_wiki - 0.8907287716865603
+
+9) mrs_gardiner_wiki - 0.8871936134811426
+
+10) jane_wiki - 0.8671411792720083
+
+11) pemberley_house_wiki - 0.8651111480792445
+
+12) kitty_wiki - 0.8646153646249014
+
+13) fitzwilliam_wiki - 0.8542003203213505
+
+14) lady_lucas_wiki - 0.8441772871228799
+
+15) georgiana_wiki - 0.8359993197918477
+
+16) mary_king_wiki - 0.8350393077754577
+
+17) mrs_hurst_wiki - 0.7917462339098732
+
+18) william_lucas_wiki - 0.698275768551322
+
+19) rosings_wiki - 0.6650448042207723
+
+Result for the vector: william_lucas, coming from part a of the book
+Rank: 5 out of 19 characters
+Cosine similarity to the co-referring vector: 0.7793775796890314
+
+1) mrs_gardiner_wiki - 0.7981444121513135
+
+2) mr_darcy_wiki - 0.7977374912656863
+
+3) mr_bingley_wiki - 0.7921045186488506
+
+4) mr_collins_wiki - 0.789368640425995
+
+5) william_lucas_wiki - 0.7793775796890314
+
+6) mr_wickham_wiki - 0.7768684758622376
+
+7) miss_elizabeth_bennet_wiki - 0.769976808430148
+
+8) lady_catherine_de_bourgh_wiki - 0.7666090269917843
+
+9) fitzwilliam_wiki - 0.7629285823426104
+
+10) jane_wiki - 0.7454413923358101
+
+11) miss_lydia_bennet_wiki - 0.7431725263595634
+
+12) charlotte_lucas_wiki - 0.7270304886066331
+
+13) mary_king_wiki - 0.7157277634306107
+
+14) georgiana_wiki - 0.7097436708670264
+
+15) mrs_hurst_wiki - 0.692056119441991
+
+16) kitty_wiki - 0.6866522431373645
+
+17) pemberley_house_wiki - 0.6752236887946051
+
+18) lady_lucas_wiki - 0.6749585866928148
+
+19) rosings_wiki - 0.561257004737858
+
+Result for the vector: mary_king, coming from part a of the book
+Rank: 10 out of 19 characters
+Cosine similarity to the co-referring vector: 0.869920160470014
+
+1) miss_lydia_bennet_wiki - 0.9123455505680044
+
+2) miss_elizabeth_bennet_wiki - 0.9028895170357684
+
+3) mr_darcy_wiki - 0.9025793344551131
+
+4) mr_wickham_wiki - 0.8862825896228136
+
+5) mr_bingley_wiki - 0.8855565122101612
+
+6) lady_catherine_de_bourgh_wiki - 0.8845367099206664
+
+7) jane_wiki - 0.8772707246920687
+
+8) mr_collins_wiki - 0.8771546263375273
+
+9) charlotte_lucas_wiki - 0.8758691884318272
+
+10) mary_king_wiki - 0.869920160470014
+
+11) mrs_gardiner_wiki - 0.8689828177983412
+
+12) kitty_wiki - 0.8678639711019971
+
+13) pemberley_house_wiki - 0.8353248887248205
+
+14) georgiana_wiki - 0.8242592074639405
+
+15) lady_lucas_wiki - 0.8165393605714468
+
+16) fitzwilliam_wiki - 0.7993749856576315
+
+17) mrs_hurst_wiki - 0.7905539384979554
+
+18) william_lucas_wiki - 0.6525483118785902
+
+19) rosings_wiki - 0.6125295709845043
+
+Result for the vector: rosings, coming from part a of the book
+Rank: 16 out of 19 characters
+Cosine similarity to the co-referring vector: 0.7303732472880643
+
+1) pemberley_house_wiki - 0.9009389163182938
+
+2) mr_darcy_wiki - 0.8297685980796814
+
+3) mr_bingley_wiki - 0.8227958924411507
+
+4) mr_collins_wiki - 0.8184654740192794
+
+5) miss_lydia_bennet_wiki - 0.8107249623969189
+
+6) miss_elizabeth_bennet_wiki - 0.8083692789077759
+
+7) mr_wickham_wiki - 0.8042649030685425
+
+8) lady_catherine_de_bourgh_wiki - 0.7971611618995667
+
+9) charlotte_lucas_wiki - 0.7968630315743084
+
+10) mrs_gardiner_wiki - 0.7862765789031982
+
+11) jane_wiki - 0.7690361142158508
+
+12) fitzwilliam_wiki - 0.7673058142455168
+
+13) georgiana_wiki - 0.7586481858911347
+
+14) lady_lucas_wiki - 0.7547734829648438
+
+15) kitty_wiki - 0.7535291763263463
+
+16) rosings_wiki - 0.7303732472880643
+
+17) mary_king_wiki - 0.7192481756210327
+
+18) mrs_hurst_wiki - 0.7089850133052489
+
+19) william_lucas_wiki - 0.6293786543237372
+
+Result for the vector: mrs_hurst, coming from part a of the book
+Rank: 14 out of 19 characters
+Cosine similarity to the co-referring vector: 0.8354480266571104
+
+1) miss_lydia_bennet_wiki - 0.9265475869178837
+
+2) miss_elizabeth_bennet_wiki - 0.9221895383483463
+
+3) mr_darcy_wiki - 0.9208475398512177
+
+4) lady_catherine_de_bourgh_wiki - 0.9166342069724691
+
+5) jane_wiki - 0.9049330410401216
+
+6) mrs_gardiner_wiki - 0.9020379244066538
+
+7) mr_bingley_wiki - 0.9007725447186106
+
+8) mr_wickham_wiki - 0.8895975417138627
+
+9) mr_collins_wiki - 0.883292157944355
+
+10) charlotte_lucas_wiki - 0.8831362863616602
+
+11) mary_king_wiki - 0.8800606203043106
+
+12) kitty_wiki - 0.8623895049095215
+
+13) georgiana_wiki - 0.8482854041542895
+
+14) mrs_hurst_wiki - 0.8354480266571104
+
+15) pemberley_house_wiki - 0.8235517635078421
+
+16) fitzwilliam_wiki - 0.8164934868665523
+
+17) lady_lucas_wiki - 0.7999758720398006
+
+18) william_lucas_wiki - 0.6948319077491809
+
+19) rosings_wiki - 0.6300663352012679
+
+Result for the vector: fitzwilliam, coming from part a of the book
+Rank: 2 out of 19 characters
+Cosine similarity to the co-referring vector: 0.8892646100897975
+
+1) mr_bingley_wiki - 0.9038088591041825
+
+2) fitzwilliam_wiki - 0.8892646100897975
+
+3) miss_elizabeth_bennet_wiki - 0.8866466283798218
+
+4) mr_wickham_wiki - 0.8801278471946716
+
+5) mr_darcy_wiki - 0.877039909362793
+
+6) mrs_gardiner_wiki - 0.8748345375061035
+
+7) mr_collins_wiki - 0.8633054589190369
+
+8) lady_catherine_de_bourgh_wiki - 0.8348232507705688
+
+9) miss_lydia_bennet_wiki - 0.8147380837642019
+
+10) pemberley_house_wiki - 0.8045270805987272
+
+11) jane_wiki - 0.7959603071212769
+
+12) charlotte_lucas_wiki - 0.7950648191532614
+
+13) georgiana_wiki - 0.7915527473029256
+
+14) mary_king_wiki - 0.7867265343666077
+
+15) kitty_wiki - 0.7768217192185963
+
+16) lady_lucas_wiki - 0.7767894731038508
+
+17) mrs_hurst_wiki - 0.7712071997646822
+
+18) william_lucas_wiki - 0.7350179991136802
+
+19) rosings_wiki - 0.6588510071546452
+
+Result for the vector: lady_lucas, coming from part a of the book
+Rank: 14 out of 19 characters
+Cosine similarity to the co-referring vector: 0.8706941008567872
+
+1) mr_bingley_wiki - 0.9366159159953656
+
+2) mr_darcy_wiki - 0.9355577268864096
+
+3) miss_elizabeth_bennet_wiki - 0.9320790212107305
+
+4) mr_collins_wiki - 0.925125502806222
+
+5) miss_lydia_bennet_wiki - 0.9226628541946477
+
+6) lady_catherine_de_bourgh_wiki - 0.9194569039668514
+
+7) mr_wickham_wiki - 0.9192568707909081
+
+8) mrs_gardiner_wiki - 0.908366029955983
+
+9) charlotte_lucas_wiki - 0.9033165093283047
+
+10) jane_wiki - 0.8934988442958106
+
+11) kitty_wiki - 0.8862136602401797
+
+12) pemberley_house_wiki - 0.8833083440845358
+
+13) fitzwilliam_wiki - 0.8802679514805128
+
+14) lady_lucas_wiki - 0.8706941008567872
+
+15) georgiana_wiki - 0.8703710668615595
+
+16) mary_king_wiki - 0.8607781612409272
+
+17) mrs_hurst_wiki - 0.8277575969696104
+
+18) william_lucas_wiki - 0.7376103401184134
+
+19) rosings_wiki - 0.7113032341003469
+
+Result for the vector: charlotte_lucas, coming from part a of the book
+Rank: 3 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9261023402214116
+
+1) miss_lydia_bennet_wiki - 0.9330904404032755
+
+2) mr_darcy_wiki - 0.9297718363864341
+
+3) charlotte_lucas_wiki - 0.9261023402214116
+
+4) mr_bingley_wiki - 0.9180664048850307
+
+5) lady_catherine_de_bourgh_wiki - 0.9170002887845228
+
+6) miss_elizabeth_bennet_wiki - 0.9159912416929763
+
+7) mr_wickham_wiki - 0.9087883775704149
+
+8) mr_collins_wiki - 0.9032439685674877
+
+9) kitty_wiki - 0.9011729837862233
+
+10) jane_wiki - 0.9004062354806818
+
+11) mrs_gardiner_wiki - 0.8897684746842683
+
+12) georgiana_wiki - 0.8703182416964764
+
+13) pemberley_house_wiki - 0.8699567085427136
+
+14) lady_lucas_wiki - 0.8674576720544901
+
+15) mary_king_wiki - 0.8604752934262346
+
+16) fitzwilliam_wiki - 0.8503009841115167
+
+17) mrs_hurst_wiki - 0.7925163260121734
+
+18) william_lucas_wiki - 0.7007357121390954
+
+19) rosings_wiki - 0.6523546162074347
+
+Result for the vector: georgiana, coming from part a of the book
+Rank: 8 out of 19 characters
+Cosine similarity to the co-referring vector: 0.8020569086075057
+
+1) miss_lydia_bennet_wiki - 0.8382664033650896
+
+2) charlotte_lucas_wiki - 0.8272956506786271
+
+3) kitty_wiki - 0.814740326656163
+
+4) lady_catherine_de_bourgh_wiki - 0.8134149090546319
+
+5) jane_wiki - 0.8126632347897629
+
+6) mr_bingley_wiki - 0.8069643984681993
+
+7) miss_elizabeth_bennet_wiki - 0.8023451331073261
+
+8) georgiana_wiki - 0.8020569086075057
+
+9) mr_darcy_wiki - 0.797775602075535
+
+10) mrs_gardiner_wiki - 0.7942161314745162
+
+11) mr_wickham_wiki - 0.7851832849005856
+
+12) mr_collins_wiki - 0.7697488942068833
+
+13) fitzwilliam_wiki - 0.7606733978798119
+
+14) lady_lucas_wiki - 0.7604073453677928
+
+15) pemberley_house_wiki - 0.7582375426858765
+
+16) mary_king_wiki - 0.755372971936824
+
+17) mrs_hurst_wiki - 0.6835628778152856
+
+18) william_lucas_wiki - 0.6201428091781406
+
+19) rosings_wiki - 0.5715734788608822
+
+Result for the vector: pemberley_house, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.8992893575774922
+
+1) pemberley_house_wiki - 0.8992893575774922
+
+2) mr_darcy_wiki - 0.8671127557754517
+
+3) mr_bingley_wiki - 0.8596994537025531
+
+4) mr_collins_wiki - 0.8537621578219863
+
+5) miss_lydia_bennet_wiki - 0.8498650103727005
+
+6) charlotte_lucas_wiki - 0.8492159933319111
+
+7) mr_wickham_wiki - 0.8485980033874512
+
+8) miss_elizabeth_bennet_wiki - 0.8372697234153748
+
+9) lady_catherine_de_bourgh_wiki - 0.8371675610542297
+
+10) mrs_gardiner_wiki - 0.8165092468261719
+
+11) fitzwilliam_wiki - 0.8122720960459742
+
+12) jane_wiki - 0.8111273050308228
+
+13) lady_lucas_wiki - 0.8070230965032054
+
+14) kitty_wiki - 0.8067664388875045
+
+15) georgiana_wiki - 0.8056596153188268
+
+16) mary_king_wiki - 0.7458626627922058
+
+17) mrs_hurst_wiki - 0.7414502347380076
+
+18) rosings_wiki - 0.6973804651129535
+
+19) william_lucas_wiki - 0.6684913437659361
+

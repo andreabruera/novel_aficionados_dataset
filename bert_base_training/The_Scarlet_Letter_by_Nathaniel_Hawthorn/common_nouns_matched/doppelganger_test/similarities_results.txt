@@ -1,0 +1,396 @@
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9646043735271014
+
+1) man_b - 0.9646043735271014
+
+2) individual_b - 0.932645320892334
+
+3) revelation_b - 0.8851799437296439
+
+4) right_b - 0.8849928447608459
+
+5) existence_b - 0.8647138138030119
+
+6) year_b - 0.8615884863383495
+
+7) illustration_b - 0.8309391241705955
+
+8) sea_b - 0.8303509253472656
+
+9) circle_b - 0.784795343875885
+
+Result for the vector: year, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9718016386032173
+
+1) year_b - 0.9718016386032173
+
+2) man_b - 0.855210457183802
+
+3) individual_b - 0.8496052533152866
+
+4) revelation_b - 0.8448159694671691
+
+5) right_b - 0.8271607756614744
+
+6) illustration_b - 0.8116520643234311
+
+7) existence_b - 0.8042131189298442
+
+8) sea_b - 0.7870821699001992
+
+9) circle_b - 0.7372361264965622
+
+Result for the vector: illustration, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9667984306576691
+
+1) illustration_b - 0.9667984306576691
+
+2) man_b - 0.8871423006057991
+
+3) revelation_b - 0.8856342043338664
+
+4) right_b - 0.8743650541844883
+
+5) individual_b - 0.8563243321985863
+
+6) year_b - 0.8443564454871827
+
+7) existence_b - 0.8265942788188896
+
+8) sea_b - 0.8197657573362864
+
+9) circle_b - 0.7780999805808145
+
+Result for the vector: sea, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9398620724678106
+
+1) sea_b - 0.9398620724678106
+
+2) man_b - 0.8860086730723924
+
+3) right_b - 0.8578189780927923
+
+4) individual_b - 0.8560971703471455
+
+5) revelation_b - 0.8541125233039232
+
+6) year_b - 0.8321749768048553
+
+7) existence_b - 0.8181926960291688
+
+8) illustration_b - 0.8078909745346338
+
+9) circle_b - 0.7792068255420445
+
+Result for the vector: existence, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9351217390705714
+
+1) existence_b - 0.9351217390705714
+
+2) revelation_b - 0.8990192413330143
+
+3) right_b - 0.887087702751166
+
+4) man_b - 0.8816311743792027
+
+5) individual_b - 0.8555911693329331
+
+6) year_b - 0.8498715758323729
+
+7) illustration_b - 0.7981840372085628
+
+8) circle_b - 0.7933562870834059
+
+9) sea_b - 0.7894779788825487
+
+Result for the vector: individual, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.954774322821242
+
+1) individual_b - 0.954774322821242
+
+2) man_b - 0.9462522236259269
+
+3) right_b - 0.8757259397833419
+
+4) revelation_b - 0.8674408355425792
+
+5) existence_b - 0.8566030604659634
+
+6) year_b - 0.84752370744661
+
+7) illustration_b - 0.8176658966939573
+
+8) sea_b - 0.804118990898138
+
+9) circle_b - 0.7685307998340859
+
+Result for the vector: right, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9285020274816752
+
+1) right_b - 0.9285020274816752
+
+2) existence_b - 0.9047215850568294
+
+3) man_b - 0.8771109434498543
+
+4) revelation_b - 0.8695659119149515
+
+5) individual_b - 0.8511143326759338
+
+6) year_b - 0.8250636562667113
+
+7) illustration_b - 0.7978822709392162
+
+8) sea_b - 0.7779645191409911
+
+9) circle_b - 0.7721288204193115
+
+Result for the vector: circle, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8951219853831537
+
+1) circle_b - 0.8951219853831537
+
+2) existence_b - 0.8485755487002926
+
+3) right_b - 0.846351683139807
+
+4) revelation_b - 0.8459870219230712
+
+5) man_b - 0.8298521333668485
+
+6) individual_b - 0.7999400973284316
+
+7) year_b - 0.7947328090667781
+
+8) sea_b - 0.7944507353843135
+
+9) illustration_b - 0.7499172091484123
+
+Result for the vector: revelation, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8967216734025868
+
+1) revelation_b - 0.8967216734025868
+
+2) right_b - 0.8677424350091892
+
+3) man_b - 0.8637263693646551
+
+4) year_b - 0.8556392960978394
+
+5) existence_b - 0.8546664460102817
+
+6) individual_b - 0.8400360441186416
+
+7) illustration_b - 0.7888485444964713
+
+8) circle_b - 0.7762808337044232
+
+9) sea_b - 0.7678266763687188
+
+Result for the vector: man, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9646043735271014
+
+1) man_a - 0.9646043735271014
+
+2) individual_a - 0.9462522236259269
+
+3) illustration_a - 0.8871423006057991
+
+4) sea_a - 0.8860086730723924
+
+5) existence_a - 0.8816311743792027
+
+6) right_a - 0.8771109434498543
+
+7) revelation_a - 0.8637263693646551
+
+8) year_a - 0.855210457183802
+
+9) circle_a - 0.8298521333668485
+
+Result for the vector: year, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9718016386032173
+
+1) year_a - 0.9718016386032173
+
+2) man_a - 0.8615884863383495
+
+3) revelation_a - 0.8556392960978394
+
+4) existence_a - 0.8498715758323729
+
+5) individual_a - 0.84752370744661
+
+6) illustration_a - 0.8443564454871827
+
+7) sea_a - 0.8321749768048553
+
+8) right_a - 0.8250636562667113
+
+9) circle_a - 0.7947328090667781
+
+Result for the vector: illustration, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9667984306576691
+
+1) illustration_a - 0.9667984306576691
+
+2) man_a - 0.8309391241705955
+
+3) individual_a - 0.8176658966939573
+
+4) year_a - 0.8116520643234311
+
+5) sea_a - 0.8078909745346338
+
+6) existence_a - 0.7981840372085628
+
+7) right_a - 0.7978822709392162
+
+8) revelation_a - 0.7888485444964713
+
+9) circle_a - 0.7499172091484123
+
+Result for the vector: sea, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9398620724678106
+
+1) sea_a - 0.9398620724678106
+
+2) man_a - 0.8303509253472656
+
+3) illustration_a - 0.8197657573362864
+
+4) individual_a - 0.804118990898138
+
+5) circle_a - 0.7944507353843135
+
+6) existence_a - 0.7894779788825487
+
+7) year_a - 0.7870821699001992
+
+8) right_a - 0.7779645191409911
+
+9) revelation_a - 0.7678266763687188
+
+Result for the vector: existence, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9351217390705714
+
+1) existence_a - 0.9351217390705714
+
+2) right_a - 0.9047215850568294
+
+3) man_a - 0.8647138138030119
+
+4) individual_a - 0.8566030604659634
+
+5) revelation_a - 0.8546664460102817
+
+6) circle_a - 0.8485755487002926
+
+7) illustration_a - 0.8265942788188896
+
+8) sea_a - 0.8181926960291688
+
+9) year_a - 0.8042131189298442
+
+Result for the vector: individual, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.954774322821242
+
+1) individual_a - 0.954774322821242
+
+2) man_a - 0.932645320892334
+
+3) illustration_a - 0.8563243321985863
+
+4) sea_a - 0.8560971703471455
+
+5) existence_a - 0.8555911693329331
+
+6) right_a - 0.8511143326759338
+
+7) year_a - 0.8496052533152866
+
+8) revelation_a - 0.8400360441186416
+
+9) circle_a - 0.7999400973284316
+
+Result for the vector: right, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9285020274816752
+
+1) right_a - 0.9285020274816752
+
+2) existence_a - 0.887087702751166
+
+3) man_a - 0.8849928447608459
+
+4) individual_a - 0.8757259397833419
+
+5) illustration_a - 0.8743650541844883
+
+6) revelation_a - 0.8677424350091892
+
+7) sea_a - 0.8578189780927923
+
+8) circle_a - 0.846351683139807
+
+9) year_a - 0.8271607756614744
+
+Result for the vector: circle, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8951219853831537
+
+1) circle_a - 0.8951219853831537
+
+2) existence_a - 0.7933562870834059
+
+3) man_a - 0.784795343875885
+
+4) sea_a - 0.7792068255420445
+
+5) illustration_a - 0.7780999805808145
+
+6) revelation_a - 0.7762808337044232
+
+7) right_a - 0.7721288204193115
+
+8) individual_a - 0.7685307998340859
+
+9) year_a - 0.7372361264965622
+
+Result for the vector: revelation, coming from part b of the book
+Rank: 2 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8967216734025868
+
+1) existence_a - 0.8990192413330143
+
+2) revelation_a - 0.8967216734025868
+
+3) illustration_a - 0.8856342043338664
+
+4) man_a - 0.8851799437296439
+
+5) right_a - 0.8695659119149515
+
+6) individual_a - 0.8674408355425792
+
+7) sea_a - 0.8541125233039232
+
+8) circle_a - 0.8459870219230712
+
+9) year_a - 0.8448159694671691
+

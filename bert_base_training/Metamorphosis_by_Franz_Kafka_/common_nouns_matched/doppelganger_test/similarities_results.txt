@@ -1,0 +1,96 @@
+Result for the vector: room, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9627812836067828
+
+1) room_b - 0.9627812836067828
+
+2) body_b - 0.8604964953513032
+
+3) morning_b - 0.8133962508023935
+
+4) state_b - 0.8133770469837505
+
+Result for the vector: body, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8593293000067115
+
+1) body_b - 0.8593293000067115
+
+2) room_b - 0.8227799851691764
+
+3) state_b - 0.7401345527091903
+
+4) morning_b - 0.6570299676620999
+
+Result for the vector: morning, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8714080529565795
+
+1) morning_b - 0.8714080529565795
+
+2) room_b - 0.8372186616398559
+
+3) state_b - 0.7705046534538269
+
+4) body_b - 0.7500296980124905
+
+Result for the vector: state, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8495578169822693
+
+1) state_b - 0.8495578169822693
+
+2) body_b - 0.8349171379257969
+
+3) room_b - 0.8301956259971169
+
+4) morning_b - 0.7341811219345867
+
+Result for the vector: room, coming from part b of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9627812836067828
+
+1) room_a - 0.9627812836067828
+
+2) morning_a - 0.8372186616398559
+
+3) state_a - 0.8301956259971169
+
+4) body_a - 0.8227799851691764
+
+Result for the vector: body, coming from part b of the book
+Rank: 2 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8593293000067115
+
+1) room_a - 0.8604964953513032
+
+2) body_a - 0.8593293000067115
+
+3) state_a - 0.8349171379257969
+
+4) morning_a - 0.7500296980124905
+
+Result for the vector: morning, coming from part b of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8714080529565795
+
+1) morning_a - 0.8714080529565795
+
+2) room_a - 0.8133962508023935
+
+3) state_a - 0.7341811219345867
+
+4) body_a - 0.6570299676620999
+
+Result for the vector: state, coming from part b of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8495578169822693
+
+1) state_a - 0.8495578169822693
+
+2) room_a - 0.8133770469837505
+
+3) morning_a - 0.7705046534538269
+
+4) body_a - 0.7401345527091903
+

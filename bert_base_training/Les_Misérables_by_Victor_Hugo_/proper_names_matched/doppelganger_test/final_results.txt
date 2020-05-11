@@ -1,0 +1,9 @@
+Test: doppelganger test
+Results for: Les_Misérables_by_Victor_Hugo_
+Model used: proper names matched
+
+Within-novel median: 4.0
+Within-novel average: 14.35
+Within-novel MRR: 0.3808718896335896
+Within-novel standard deviation of the scores: 19.029647921073053
+Amount of entities considered: 70.0

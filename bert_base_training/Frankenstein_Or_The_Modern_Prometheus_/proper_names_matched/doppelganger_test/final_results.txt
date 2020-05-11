@@ -1,0 +1,9 @@
+Test: doppelganger test
+Results for: Frankenstein_Or_The_Modern_Prometheus_
+Model used: proper names matched
+
+Within-novel median: 2.5
+Within-novel average: 3.6818181818181817
+Within-novel MRR: 0.5293290043290043
+Within-novel standard deviation of the scores: 2.8980614780536516
+Amount of entities considered: 11.0

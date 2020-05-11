@@ -1,0 +1,16 @@
+296	thing_things_Things_Thing
+259	garden_gardens
+201	one_ONE_ones
+187	tha_Tha
+140	eye_eyes
+136	day_days
+51	world_worlds
+47	sound_sounds
+22	chapter_CHAPTER
+21	color_colors_Color
+20	carriage
+17	expression
+15	course
+12	sister_sisters
+11	baby_babies
+10	crying_CRYING

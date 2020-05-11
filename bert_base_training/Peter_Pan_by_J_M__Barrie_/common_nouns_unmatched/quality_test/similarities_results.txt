@@ -1,0 +1,1020 @@
+Result for the vector: boy, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.932563368525306
+
+1) boy_a - 0.932563368525306
+
+2) child_a - 0.9057117216930721
+
+3) pirate_a - 0.8928647701224838
+
+4) mother_a - 0.8881343867818927
+
+5) man_a - 0.8863770433439603
+
+6) house_a - 0.8695841509351656
+
+7) one_a - 0.8637229800224365
+
+8) thing_a - 0.8552206244933248
+
+9) tree_a - 0.8520610586423092
+
+10) night_a - 0.8509921520357057
+
+11) day_a - 0.8477675914764464
+
+12) way_a - 0.8354715606851449
+
+13) hand_a - 0.8260176285494802
+
+14) time_a - 0.8126946203294637
+
+15) moment_a - 0.7930319555959755
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9152354001998901
+
+1) time_a - 0.9152354001998901
+
+2) day_a - 0.8999272525267171
+
+3) night_a - 0.8889044523239136
+
+4) thing_a - 0.8694249391555786
+
+5) mother_a - 0.8535246420077693
+
+6) boy_a - 0.8501670956611633
+
+7) way_a - 0.8498028337720495
+
+8) house_a - 0.8411127328872681
+
+9) one_a - 0.8405126238174825
+
+10) moment_a - 0.8403670286913512
+
+11) tree_a - 0.8381223831882257
+
+12) child_a - 0.8357487418801357
+
+13) hand_a - 0.8264590501785278
+
+14) man_a - 0.7996407747268677
+
+15) pirate_a - 0.79741370677948
+
+Result for the vector: mother, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9207183529659175
+
+1) mother_a - 0.9207183529659175
+
+2) boy_a - 0.8951388739256473
+
+3) child_a - 0.88566865494867
+
+4) night_a - 0.8748583905187928
+
+5) house_a - 0.8688838584548121
+
+6) one_a - 0.8682777904851631
+
+7) man_a - 0.8655355074309665
+
+8) thing_a - 0.862207481594018
+
+9) tree_a - 0.8553275717085786
+
+10) way_a - 0.8536964560529029
+
+11) day_a - 0.8531835666979873
+
+12) hand_a - 0.8411642374343127
+
+13) pirate_a - 0.8389793096452016
+
+14) time_a - 0.8208965690279946
+
+15) moment_a - 0.7846329317658951
+
+Result for the vector: child, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9321925362291213
+
+1) child_a - 0.9321925362291213
+
+2) boy_a - 0.9303871670480722
+
+3) mother_a - 0.9001145243781254
+
+4) pirate_a - 0.8926189211791437
+
+5) one_a - 0.885931094223061
+
+6) thing_a - 0.876884128954534
+
+7) night_a - 0.874920930711059
+
+8) house_a - 0.8743306658962571
+
+9) man_a - 0.8706133029047642
+
+10) day_a - 0.8695475044441976
+
+11) tree_a - 0.8643975692269303
+
+12) way_a - 0.8513249235339383
+
+13) hand_a - 0.8467646493543584
+
+14) time_a - 0.8325127015266631
+
+15) moment_a - 0.8015031575708672
+
+Result for the vector: pirate, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9209521961779727
+
+1) pirate_a - 0.9209521961779727
+
+2) boy_a - 0.920843238880829
+
+3) child_a - 0.9112468361854618
+
+4) man_a - 0.8636087693934914
+
+5) mother_a - 0.856529065449397
+
+6) one_a - 0.8448287063632853
+
+7) night_a - 0.8443117048926193
+
+8) house_a - 0.839852919569787
+
+9) tree_a - 0.8391443549311693
+
+10) thing_a - 0.8338185449730497
+
+11) day_a - 0.827983418462684
+
+12) way_a - 0.8052130589270116
+
+13) hand_a - 0.8028718711657462
+
+14) time_a - 0.782833801676859
+
+15) moment_a - 0.7731221318244988
+
+Result for the vector: night, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8640730462030756
+
+1) night_a - 0.8640730462030756
+
+2) day_a - 0.8570505380630554
+
+3) time_a - 0.8558749642446674
+
+4) moment_a - 0.8332257469623391
+
+5) thing_a - 0.8082886452502834
+
+6) way_a - 0.8070267919914131
+
+7) boy_a - 0.8003381013668729
+
+8) one_a - 0.7937156558036861
+
+9) house_a - 0.7900738245204806
+
+10) mother_a - 0.787884318467516
+
+11) child_a - 0.7794984245898218
+
+12) tree_a - 0.7735957137821914
+
+13) pirate_a - 0.767680956859533
+
+14) hand_a - 0.7656278749926179
+
+15) man_a - 0.7531762270226356
+
+Result for the vector: way, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8875226974487557
+
+1) way_a - 0.8875226974487557
+
+2) thing_a - 0.8382699086344411
+
+3) day_a - 0.8254786833835565
+
+4) house_a - 0.8212932561286441
+
+5) boy_a - 0.8212648247164755
+
+6) child_a - 0.8146367404514434
+
+7) night_a - 0.8136163576106656
+
+8) tree_a - 0.8051680086503201
+
+9) mother_a - 0.8047255037806953
+
+10) time_a - 0.8038720722351045
+
+11) hand_a - 0.8033583994676647
+
+12) pirate_a - 0.7988771439937238
+
+13) one_a - 0.7939777497066536
+
+14) moment_a - 0.7853411223874484
+
+15) man_a - 0.7814684174694573
+
+Result for the vector: thing, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9075095002358871
+
+1) thing_a - 0.9075095002358871
+
+2) way_a - 0.8691035871094934
+
+3) boy_a - 0.8522290499346897
+
+4) child_a - 0.8344297409057676
+
+5) one_a - 0.8336748878568278
+
+6) day_a - 0.8334322373190209
+
+7) mother_a - 0.8325363446081202
+
+8) time_a - 0.8282890217476515
+
+9) house_a - 0.8272653715172646
+
+10) man_a - 0.8267312542635965
+
+11) pirate_a - 0.8196558844838088
+
+12) night_a - 0.8130586035882609
+
+13) moment_a - 0.8107482790947018
+
+14) tree_a - 0.8100987687854128
+
+15) hand_a - 0.8064466003445759
+
+Result for the vector: hand, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8768304063778889
+
+1) hand_a - 0.8768304063778889
+
+2) tree_a - 0.8041381479542985
+
+3) boy_a - 0.7773814930092412
+
+4) mother_a - 0.7728783122562944
+
+5) way_a - 0.7706985336958612
+
+6) one_a - 0.7695232033729608
+
+7) thing_a - 0.7660370012499703
+
+8) house_a - 0.7644902012056006
+
+9) night_a - 0.7629317186515513
+
+10) day_a - 0.7610105276107842
+
+11) man_a - 0.760025813578022
+
+12) time_a - 0.7396754777624932
+
+13) child_a - 0.7390275312629305
+
+14) pirate_a - 0.7282034916756469
+
+15) moment_a - 0.7084224571678094
+
+Result for the vector: man, coming from part i of the book
+Rank: 2 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7833934555415254
+
+1) boy_a - 0.7837284336251968
+
+2) man_a - 0.7833934555415254
+
+3) mother_a - 0.777619206238374
+
+4) one_a - 0.7651922702789361
+
+5) pirate_a - 0.7552458789798107
+
+6) thing_a - 0.7505023628173864
+
+7) child_a - 0.7478487792195345
+
+8) night_a - 0.7385552681353541
+
+9) tree_a - 0.7340293149360891
+
+10) house_a - 0.7305099528723996
+
+11) day_a - 0.728806793689733
+
+12) way_a - 0.7261789873945226
+
+13) hand_a - 0.7207736539379578
+
+14) time_a - 0.7064935143891875
+
+15) moment_a - 0.6873950734859617
+
+Result for the vector: moment, coming from part i of the book
+Rank: 14 out of 15 characters
+Cosine similarity to the co-referring vector: 0.66053865426318
+
+1) thing_a - 0.7402985250771938
+
+2) day_a - 0.7289296388626151
+
+3) boy_a - 0.710806387018778
+
+4) child_a - 0.6940372354939895
+
+5) way_a - 0.6844503095418508
+
+6) night_a - 0.6759047105369156
+
+7) house_a - 0.6758601858699222
+
+8) mother_a - 0.6755866609688673
+
+9) pirate_a - 0.6732496217936514
+
+10) one_a - 0.6713379621505785
+
+11) time_a - 0.6677077610666906
+
+12) man_a - 0.6637340984502984
+
+13) tree_a - 0.6608756381534303
+
+14) moment_a - 0.66053865426318
+
+15) hand_a - 0.6535819975386871
+
+Result for the vector: one, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9357150360943489
+
+1) one_a - 0.9357150360943489
+
+2) boy_a - 0.8740745893232009
+
+3) mother_a - 0.8706332136710215
+
+4) thing_a - 0.8691501124426987
+
+5) night_a - 0.8563945973507555
+
+6) man_a - 0.8523036319469952
+
+7) way_a - 0.8512766856399233
+
+8) child_a - 0.8498215243060945
+
+9) day_a - 0.8496270760115876
+
+10) house_a - 0.841074472825905
+
+11) tree_a - 0.8381104679371058
+
+12) hand_a - 0.837023621354056
+
+13) pirate_a - 0.8344254545011396
+
+14) time_a - 0.8295822783682257
+
+15) moment_a - 0.805120718937002
+
+Result for the vector: tree, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7950883622546552
+
+1) tree_a - 0.7950883622546552
+
+2) child_a - 0.7030275641067301
+
+3) night_a - 0.7018795609474182
+
+4) house_a - 0.6952343583106995
+
+5) pirate_a - 0.6929599642753601
+
+6) day_a - 0.6868393830561282
+
+7) boy_a - 0.6849294900894165
+
+8) one_a - 0.67551479789703
+
+9) way_a - 0.6687544189398835
+
+10) thing_a - 0.6680976152420044
+
+11) mother_a - 0.6639022228630411
+
+12) hand_a - 0.6608028411865234
+
+13) time_a - 0.6369147896766663
+
+14) man_a - 0.6339020729064941
+
+15) moment_a - 0.5935296658557863
+
+Result for the vector: house, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8972064256668091
+
+1) house_a - 0.8972064256668091
+
+2) tree_a - 0.8585435323605154
+
+3) night_a - 0.8496814966201782
+
+4) child_a - 0.8443731162325686
+
+5) boy_a - 0.8367718458175659
+
+6) day_a - 0.8363304040628927
+
+7) way_a - 0.8274883422241678
+
+8) mother_a - 0.8267744922734376
+
+9) thing_a - 0.8249032497406006
+
+10) pirate_a - 0.82001131772995
+
+11) one_a - 0.8143280633883528
+
+12) time_a - 0.7986121773719788
+
+13) hand_a - 0.7922923564910889
+
+14) man_a - 0.7740010619163513
+
+15) moment_a - 0.7663639923117179
+
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.864122263438838
+
+1) day_a - 0.864122263438838
+
+2) time_a - 0.8634696006774902
+
+3) moment_a - 0.8522063581820528
+
+4) night_a - 0.8209252953529358
+
+5) way_a - 0.818593063186778
+
+6) boy_a - 0.8070708513259888
+
+7) thing_a - 0.7987542152404785
+
+8) mother_a - 0.7924696915569658
+
+9) one_a - 0.7863231769992829
+
+10) house_a - 0.7805275917053223
+
+11) child_a - 0.7738397256231485
+
+12) pirate_a - 0.7645566463470459
+
+13) man_a - 0.7581549882888794
+
+14) hand_a - 0.7503448724746704
+
+15) tree_a - 0.7487844302163539
+
+Result for the vector: boy, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.932563368525306
+
+1) boy_wiki - 0.932563368525306
+
+2) child_wiki - 0.9303871670480722
+
+3) pirate_wiki - 0.920843238880829
+
+4) mother_wiki - 0.8951388739256473
+
+5) one_wiki - 0.8740745893232009
+
+6) thing_wiki - 0.8522290499346897
+
+7) time_wiki - 0.8501670956611633
+
+8) house_wiki - 0.8367718458175659
+
+9) way_wiki - 0.8212648247164755
+
+10) day_wiki - 0.8070708513259888
+
+11) night_wiki - 0.8003381013668729
+
+12) man_wiki - 0.7837284336251968
+
+13) hand_wiki - 0.7773814930092412
+
+14) moment_wiki - 0.710806387018778
+
+15) tree_wiki - 0.6849294900894165
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9152354001998901
+
+1) time_wiki - 0.9152354001998901
+
+2) day_wiki - 0.8634696006774902
+
+3) night_wiki - 0.8558749642446674
+
+4) child_wiki - 0.8325127015266631
+
+5) one_wiki - 0.8295822783682257
+
+6) thing_wiki - 0.8282890217476515
+
+7) mother_wiki - 0.8208965690279946
+
+8) boy_wiki - 0.8126946203294637
+
+9) way_wiki - 0.8038720722351045
+
+10) house_wiki - 0.7986121773719788
+
+11) pirate_wiki - 0.782833801676859
+
+12) hand_wiki - 0.7396754777624932
+
+13) man_wiki - 0.7064935143891875
+
+14) moment_wiki - 0.6677077610666906
+
+15) tree_wiki - 0.6369147896766663
+
+Result for the vector: mother, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9207183529659175
+
+1) mother_wiki - 0.9207183529659175
+
+2) child_wiki - 0.9001145243781254
+
+3) boy_wiki - 0.8881343867818927
+
+4) one_wiki - 0.8706332136710215
+
+5) pirate_wiki - 0.856529065449397
+
+6) time_wiki - 0.8535246420077693
+
+7) thing_wiki - 0.8325363446081202
+
+8) house_wiki - 0.8267744922734376
+
+9) way_wiki - 0.8047255037806953
+
+10) day_wiki - 0.7924696915569658
+
+11) night_wiki - 0.787884318467516
+
+12) man_wiki - 0.777619206238374
+
+13) hand_wiki - 0.7728783122562944
+
+14) moment_wiki - 0.6755866609688673
+
+15) tree_wiki - 0.6639022228630411
+
+Result for the vector: child, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9321925362291213
+
+1) child_wiki - 0.9321925362291213
+
+2) pirate_wiki - 0.9112468361854618
+
+3) boy_wiki - 0.9057117216930721
+
+4) mother_wiki - 0.88566865494867
+
+5) one_wiki - 0.8498215243060945
+
+6) house_wiki - 0.8443731162325686
+
+7) time_wiki - 0.8357487418801357
+
+8) thing_wiki - 0.8344297409057676
+
+9) way_wiki - 0.8146367404514434
+
+10) night_wiki - 0.7794984245898218
+
+11) day_wiki - 0.7738397256231485
+
+12) man_wiki - 0.7478487792195345
+
+13) hand_wiki - 0.7390275312629305
+
+14) tree_wiki - 0.7030275641067301
+
+15) moment_wiki - 0.6940372354939895
+
+Result for the vector: pirate, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9209521961779727
+
+1) pirate_wiki - 0.9209521961779727
+
+2) boy_wiki - 0.8928647701224838
+
+3) child_wiki - 0.8926189211791437
+
+4) mother_wiki - 0.8389793096452016
+
+5) one_wiki - 0.8344254545011396
+
+6) house_wiki - 0.82001131772995
+
+7) thing_wiki - 0.8196558844838088
+
+8) way_wiki - 0.7988771439937238
+
+9) time_wiki - 0.79741370677948
+
+10) night_wiki - 0.767680956859533
+
+11) day_wiki - 0.7645566463470459
+
+12) man_wiki - 0.7552458789798107
+
+13) hand_wiki - 0.7282034916756469
+
+14) tree_wiki - 0.6929599642753601
+
+15) moment_wiki - 0.6732496217936514
+
+Result for the vector: night, coming from part a of the book
+Rank: 4 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8640730462030756
+
+1) time_wiki - 0.8889044523239136
+
+2) child_wiki - 0.874920930711059
+
+3) mother_wiki - 0.8748583905187928
+
+4) night_wiki - 0.8640730462030756
+
+5) one_wiki - 0.8563945973507555
+
+6) boy_wiki - 0.8509921520357057
+
+7) house_wiki - 0.8496814966201782
+
+8) pirate_wiki - 0.8443117048926193
+
+9) day_wiki - 0.8209252953529358
+
+10) way_wiki - 0.8136163576106656
+
+11) thing_wiki - 0.8130586035882609
+
+12) hand_wiki - 0.7629317186515513
+
+13) man_wiki - 0.7385552681353541
+
+14) tree_wiki - 0.7018795609474182
+
+15) moment_wiki - 0.6759047105369156
+
+Result for the vector: way, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8875226974487557
+
+1) way_wiki - 0.8875226974487557
+
+2) thing_wiki - 0.8691035871094934
+
+3) mother_wiki - 0.8536964560529029
+
+4) child_wiki - 0.8513249235339383
+
+5) one_wiki - 0.8512766856399233
+
+6) time_wiki - 0.8498028337720495
+
+7) boy_wiki - 0.8354715606851449
+
+8) house_wiki - 0.8274883422241678
+
+9) day_wiki - 0.818593063186778
+
+10) night_wiki - 0.8070267919914131
+
+11) pirate_wiki - 0.8052130589270116
+
+12) hand_wiki - 0.7706985336958612
+
+13) man_wiki - 0.7261789873945226
+
+14) moment_wiki - 0.6844503095418508
+
+15) tree_wiki - 0.6687544189398835
+
+Result for the vector: thing, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9075095002358871
+
+1) thing_wiki - 0.9075095002358871
+
+2) child_wiki - 0.876884128954534
+
+3) time_wiki - 0.8694249391555786
+
+4) one_wiki - 0.8691501124426987
+
+5) mother_wiki - 0.862207481594018
+
+6) boy_wiki - 0.8552206244933248
+
+7) way_wiki - 0.8382699086344411
+
+8) pirate_wiki - 0.8338185449730497
+
+9) house_wiki - 0.8249032497406006
+
+10) night_wiki - 0.8082886452502834
+
+11) day_wiki - 0.7987542152404785
+
+12) hand_wiki - 0.7660370012499703
+
+13) man_wiki - 0.7505023628173864
+
+14) moment_wiki - 0.7402985250771938
+
+15) tree_wiki - 0.6680976152420044
+
+Result for the vector: hand, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8768304063778889
+
+1) hand_wiki - 0.8768304063778889
+
+2) child_wiki - 0.8467646493543584
+
+3) mother_wiki - 0.8411642374343127
+
+4) one_wiki - 0.837023621354056
+
+5) time_wiki - 0.8264590501785278
+
+6) boy_wiki - 0.8260176285494802
+
+7) thing_wiki - 0.8064466003445759
+
+8) way_wiki - 0.8033583994676647
+
+9) pirate_wiki - 0.8028718711657462
+
+10) house_wiki - 0.7922923564910889
+
+11) night_wiki - 0.7656278749926179
+
+12) day_wiki - 0.7503448724746704
+
+13) man_wiki - 0.7207736539379578
+
+14) tree_wiki - 0.6608028411865234
+
+15) moment_wiki - 0.6535819975386871
+
+Result for the vector: man, coming from part a of the book
+Rank: 8 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7833934555415254
+
+1) boy_wiki - 0.8863770433439603
+
+2) child_wiki - 0.8706133029047642
+
+3) mother_wiki - 0.8655355074309665
+
+4) pirate_wiki - 0.8636087693934914
+
+5) one_wiki - 0.8523036319469952
+
+6) thing_wiki - 0.8267312542635965
+
+7) time_wiki - 0.7996407747268677
+
+8) man_wiki - 0.7833934555415254
+
+9) way_wiki - 0.7814684174694573
+
+10) house_wiki - 0.7740010619163513
+
+11) hand_wiki - 0.760025813578022
+
+12) day_wiki - 0.7581549882888794
+
+13) night_wiki - 0.7531762270226356
+
+14) moment_wiki - 0.6637340984502984
+
+15) tree_wiki - 0.6339020729064941
+
+Result for the vector: moment, coming from part a of the book
+Rank: 14 out of 15 characters
+Cosine similarity to the co-referring vector: 0.66053865426318
+
+1) day_wiki - 0.8522063581820528
+
+2) time_wiki - 0.8403670286913512
+
+3) night_wiki - 0.8332257469623391
+
+4) thing_wiki - 0.8107482790947018
+
+5) one_wiki - 0.805120718937002
+
+6) child_wiki - 0.8015031575708672
+
+7) boy_wiki - 0.7930319555959755
+
+8) way_wiki - 0.7853411223874484
+
+9) mother_wiki - 0.7846329317658951
+
+10) pirate_wiki - 0.7731221318244988
+
+11) house_wiki - 0.7663639923117179
+
+12) hand_wiki - 0.7084224571678094
+
+13) man_wiki - 0.6873950734859617
+
+14) moment_wiki - 0.66053865426318
+
+15) tree_wiki - 0.5935296658557863
+
+Result for the vector: one, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9357150360943489
+
+1) one_wiki - 0.9357150360943489
+
+2) child_wiki - 0.885931094223061
+
+3) mother_wiki - 0.8682777904851631
+
+4) boy_wiki - 0.8637229800224365
+
+5) pirate_wiki - 0.8448287063632853
+
+6) time_wiki - 0.8405126238174825
+
+7) thing_wiki - 0.8336748878568278
+
+8) house_wiki - 0.8143280633883528
+
+9) way_wiki - 0.7939777497066536
+
+10) night_wiki - 0.7937156558036861
+
+11) day_wiki - 0.7863231769992829
+
+12) hand_wiki - 0.7695232033729608
+
+13) man_wiki - 0.7651922702789361
+
+14) tree_wiki - 0.67551479789703
+
+15) moment_wiki - 0.6713379621505785
+
+Result for the vector: tree, coming from part a of the book
+Rank: 11 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7950883622546552
+
+1) child_wiki - 0.8643975692269303
+
+2) house_wiki - 0.8585435323605154
+
+3) mother_wiki - 0.8553275717085786
+
+4) boy_wiki - 0.8520610586423092
+
+5) pirate_wiki - 0.8391443549311693
+
+6) time_wiki - 0.8381223831882257
+
+7) one_wiki - 0.8381104679371058
+
+8) thing_wiki - 0.8100987687854128
+
+9) way_wiki - 0.8051680086503201
+
+10) hand_wiki - 0.8041381479542985
+
+11) tree_wiki - 0.7950883622546552
+
+12) night_wiki - 0.7735957137821914
+
+13) day_wiki - 0.7487844302163539
+
+14) man_wiki - 0.7340293149360891
+
+15) moment_wiki - 0.6608756381534303
+
+Result for the vector: house, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8972064256668091
+
+1) house_wiki - 0.8972064256668091
+
+2) child_wiki - 0.8743306658962571
+
+3) boy_wiki - 0.8695841509351656
+
+4) mother_wiki - 0.8688838584548121
+
+5) time_wiki - 0.8411127328872681
+
+6) one_wiki - 0.841074472825905
+
+7) pirate_wiki - 0.839852919569787
+
+8) thing_wiki - 0.8272653715172646
+
+9) way_wiki - 0.8212932561286441
+
+10) night_wiki - 0.7900738245204806
+
+11) day_wiki - 0.7805275917053223
+
+12) hand_wiki - 0.7644902012056006
+
+13) man_wiki - 0.7305099528723996
+
+14) tree_wiki - 0.6952343583106995
+
+15) moment_wiki - 0.6758601858699222
+
+Result for the vector: day, coming from part a of the book
+Rank: 3 out of 15 characters
+Cosine similarity to the co-referring vector: 0.864122263438838
+
+1) time_wiki - 0.8999272525267171
+
+2) child_wiki - 0.8695475044441976
+
+3) day_wiki - 0.864122263438838
+
+4) night_wiki - 0.8570505380630554
+
+5) mother_wiki - 0.8531835666979873
+
+6) one_wiki - 0.8496270760115876
+
+7) boy_wiki - 0.8477675914764464
+
+8) house_wiki - 0.8363304040628927
+
+9) thing_wiki - 0.8334322373190209
+
+10) pirate_wiki - 0.827983418462684
+
+11) way_wiki - 0.8254786833835565
+
+12) hand_wiki - 0.7610105276107842
+
+13) moment_wiki - 0.7289296388626151
+
+14) man_wiki - 0.728806793689733
+
+15) tree_wiki - 0.6868393830561282
+

@@ -1,0 +1,252 @@
+Result for the vector: man, coming from part i of the book
+Rank: 3 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8754292278970208
+
+1) child_a - 0.8997737229005279
+
+2) minister_a - 0.8861554332878944
+
+3) man_a - 0.8754292278970208
+
+4) mother_a - 0.8634067340604384
+
+5) heart_a - 0.8621954917907776
+
+6) hand_a - 0.8431875203140082
+
+7) life_a - 0.8411080430617282
+
+Result for the vector: child, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8945310115814209
+
+1) child_a - 0.8945310115814209
+
+2) mother_a - 0.8935295406860403
+
+3) minister_a - 0.8591749668121338
+
+4) heart_a - 0.8537524255366594
+
+5) man_a - 0.8402016854165995
+
+6) life_a - 0.8296876055188429
+
+7) hand_a - 0.8088817596435547
+
+Result for the vector: minister, coming from part i of the book
+Rank: 2 out of 7 characters
+Cosine similarity to the co-referring vector: 0.913698618787611
+
+1) child_a - 0.9255728169934279
+
+2) minister_a - 0.913698618787611
+
+3) man_a - 0.9051218741986902
+
+4) mother_a - 0.8999036669845978
+
+5) heart_a - 0.8846160769462649
+
+6) life_a - 0.8728449496215642
+
+7) hand_a - 0.854981371463457
+
+Result for the vector: mother, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8767838698416005
+
+1) mother_a - 0.8767838698416005
+
+2) child_a - 0.8621862098948767
+
+3) heart_a - 0.8493146986177879
+
+4) hand_a - 0.8031400676798797
+
+5) man_a - 0.8030283207246698
+
+6) life_a - 0.7942777047852819
+
+7) minister_a - 0.7923447141236464
+
+Result for the vector: life, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9238513753502757
+
+1) life_a - 0.9238513753502757
+
+2) heart_a - 0.9122140951284243
+
+3) child_a - 0.879898190498352
+
+4) mother_a - 0.8674848754713029
+
+5) hand_a - 0.8594348430633545
+
+6) man_a - 0.8577231849597001
+
+7) minister_a - 0.8229416608810425
+
+Result for the vector: heart, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8528760163262017
+
+1) heart_a - 0.8528760163262017
+
+2) child_a - 0.8404882740392418
+
+3) minister_a - 0.8390624118969009
+
+4) man_a - 0.8349297341830029
+
+5) mother_a - 0.8290977783624345
+
+6) life_a - 0.8012683746930898
+
+7) hand_a - 0.7780583169390832
+
+Result for the vector: hand, coming from part i of the book
+Rank: 5 out of 7 characters
+Cosine similarity to the co-referring vector: 0.711877899654038
+
+1) man_a - 0.7322147807818913
+
+2) mother_a - 0.7304950081711998
+
+3) child_a - 0.7263034149227504
+
+4) minister_a - 0.714621262870953
+
+5) hand_a - 0.711877899654038
+
+6) heart_a - 0.7111488580703786
+
+7) life_a - 0.706652259033649
+
+Result for the vector: man, coming from part a of the book
+Rank: 2 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8754292278970208
+
+1) minister_wiki - 0.9051218741986902
+
+2) man_wiki - 0.8754292278970208
+
+3) life_wiki - 0.8577231849597001
+
+4) child_wiki - 0.8402016854165995
+
+5) heart_wiki - 0.8349297341830029
+
+6) mother_wiki - 0.8030283207246698
+
+7) hand_wiki - 0.7322147807818913
+
+Result for the vector: child, coming from part a of the book
+Rank: 3 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8945310115814209
+
+1) minister_wiki - 0.9255728169934279
+
+2) man_wiki - 0.8997737229005279
+
+3) child_wiki - 0.8945310115814209
+
+4) life_wiki - 0.879898190498352
+
+5) mother_wiki - 0.8621862098948767
+
+6) heart_wiki - 0.8404882740392418
+
+7) hand_wiki - 0.7263034149227504
+
+Result for the vector: minister, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.913698618787611
+
+1) minister_wiki - 0.913698618787611
+
+2) man_wiki - 0.8861554332878944
+
+3) child_wiki - 0.8591749668121338
+
+4) heart_wiki - 0.8390624118969009
+
+5) life_wiki - 0.8229416608810425
+
+6) mother_wiki - 0.7923447141236464
+
+7) hand_wiki - 0.714621262870953
+
+Result for the vector: mother, coming from part a of the book
+Rank: 3 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8767838698416005
+
+1) minister_wiki - 0.8999036669845978
+
+2) child_wiki - 0.8935295406860403
+
+3) mother_wiki - 0.8767838698416005
+
+4) life_wiki - 0.8674848754713029
+
+5) man_wiki - 0.8634067340604384
+
+6) heart_wiki - 0.8290977783624345
+
+7) hand_wiki - 0.7304950081711998
+
+Result for the vector: life, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9238513753502757
+
+1) life_wiki - 0.9238513753502757
+
+2) minister_wiki - 0.8728449496215642
+
+3) man_wiki - 0.8411080430617282
+
+4) child_wiki - 0.8296876055188429
+
+5) heart_wiki - 0.8012683746930898
+
+6) mother_wiki - 0.7942777047852819
+
+7) hand_wiki - 0.706652259033649
+
+Result for the vector: heart, coming from part a of the book
+Rank: 5 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8528760163262017
+
+1) life_wiki - 0.9122140951284243
+
+2) minister_wiki - 0.8846160769462649
+
+3) man_wiki - 0.8621954917907776
+
+4) child_wiki - 0.8537524255366594
+
+5) heart_wiki - 0.8528760163262017
+
+6) mother_wiki - 0.8493146986177879
+
+7) hand_wiki - 0.7111488580703786
+
+Result for the vector: hand, coming from part a of the book
+Rank: 7 out of 7 characters
+Cosine similarity to the co-referring vector: 0.711877899654038
+
+1) life_wiki - 0.8594348430633545
+
+2) minister_wiki - 0.854981371463457
+
+3) man_wiki - 0.8431875203140082
+
+4) child_wiki - 0.8088817596435547
+
+5) mother_wiki - 0.8031400676798797
+
+6) heart_wiki - 0.7780583169390832
+
+7) hand_wiki - 0.711877899654038
+

@@ -1,0 +1,9 @@
+Test: quality test
+Results for: The_Sign_of_the_Four_by_Arthur_Conan_Doy
+Model used: common nouns matched
+
+Within-novel median: 1.0
+Within-novel average: 2.0714285714285716
+Within-novel MRR: 0.7887755102040817
+Within-novel standard deviation of the scores: 1.9443796555451716
+Amount of entities considered: 7.0

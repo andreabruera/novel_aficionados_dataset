@@ -1,0 +1,2496 @@
+Result for the vector: oliver_twist, coming from part a of the book
+Rank: 1 out of 24 characters
+Cosine similarity to the co-referring vector: 0.976150870323188
+
+1) oliver_twist_b - 0.976150870323188
+
+2) mr_grimwig_b - 0.9659856557846138
+
+3) mr_bumble_b - 0.9645275782189533
+
+4) mr_william_sikes_b - 0.9625330589691978
+
+5) mr_giles_b - 0.9608446979019243
+
+6) mr_toby_crackit_b - 0.9601903581505817
+
+7) mr_fagin_b - 0.9544193460220332
+
+8) mr_brownlow_b - 0.953816235065467
+
+9) mr_noah_claypole_b - 0.9499601155543276
+
+10) barney_b - 0.9464316996078687
+
+11) harry_maylie_b - 0.9447183641959228
+
+12) miss_nancy_b - 0.9419712739595428
+
+13) miss_rose_b - 0.9414644907159221
+
+14) charley_bates_b - 0.9388180058842407
+
+15) charlotte_b - 0.9289677696805011
+
+16) mr_chitling_b - 0.924466916982303
+
+17) mr_john_dawkins_b - 0.9222725629806584
+
+18) bill_sikes_b - 0.903971379758635
+
+19) mrs_corney_b - 0.8873398438286968
+
+20) mrs_bedwin_b - 0.8632455549689811
+
+21) tom_white_b - 0.8553212030136261
+
+22) dick_b - 0.8225299437290545
+
+23) mr_sowerberry_b - 0.8025553344157154
+
+24) mr_gamfield_b - 0.7379452898567569
+
+Result for the vector: mr_bumble, coming from part a of the book
+Rank: 7 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9718173708698017
+
+1) mr_giles_b - 0.9830789848934736
+
+2) mr_grimwig_b - 0.9815194877266125
+
+3) mr_fagin_b - 0.9809939838640688
+
+4) mr_brownlow_b - 0.9780192640452485
+
+5) mr_toby_crackit_b - 0.9767204204249796
+
+6) mr_william_sikes_b - 0.9762549081076638
+
+7) mr_bumble_b - 0.9718173708698017
+
+8) harry_maylie_b - 0.971517411308061
+
+9) oliver_twist_b - 0.9692810430051455
+
+10) mr_noah_claypole_b - 0.9688015254260512
+
+11) miss_rose_b - 0.9651358415226996
+
+12) miss_nancy_b - 0.9625037863855125
+
+13) barney_b - 0.9605178499684834
+
+14) charlotte_b - 0.9596461271501453
+
+15) charley_bates_b - 0.9564984959063224
+
+16) mr_chitling_b - 0.9550745771847645
+
+17) bill_sikes_b - 0.9351246000937797
+
+18) mr_john_dawkins_b - 0.9236438458627236
+
+19) mrs_bedwin_b - 0.9108824352218934
+
+20) mrs_corney_b - 0.9071076186629521
+
+21) tom_white_b - 0.8828723291006496
+
+22) dick_b - 0.8467905865076194
+
+23) mr_sowerberry_b - 0.8204648632226795
+
+24) mr_gamfield_b - 0.7284600355762335
+
+Result for the vector: mr_william_sikes, coming from part a of the book
+Rank: 3 out of 24 characters
+Cosine similarity to the co-referring vector: 0.978146162352895
+
+1) mr_fagin_b - 0.981742319180195
+
+2) mr_giles_b - 0.9785619048121539
+
+3) mr_william_sikes_b - 0.978146162352895
+
+4) mr_toby_crackit_b - 0.9760981464532344
+
+5) mr_noah_claypole_b - 0.9760781788942593
+
+6) mr_brownlow_b - 0.9737654571639994
+
+7) mr_grimwig_b - 0.9674089184958505
+
+8) harry_maylie_b - 0.9670508156792652
+
+9) mr_bumble_b - 0.9625906281335354
+
+10) mr_chitling_b - 0.9608697558227173
+
+11) oliver_twist_b - 0.9558795896517412
+
+12) miss_nancy_b - 0.9553508082659565
+
+13) barney_b - 0.9518289792282955
+
+14) charlotte_b - 0.9516419936650382
+
+15) miss_rose_b - 0.9510247365556629
+
+16) charley_bates_b - 0.9501597762488803
+
+17) bill_sikes_b - 0.9375184383270901
+
+18) mr_john_dawkins_b - 0.916152906807377
+
+19) tom_white_b - 0.8901025456373538
+
+20) mrs_corney_b - 0.8855382399742414
+
+21) mrs_bedwin_b - 0.878204893798375
+
+22) dick_b - 0.8334493289426069
+
+23) mr_sowerberry_b - 0.8216120036858416
+
+24) mr_gamfield_b - 0.7200894403537764
+
+Result for the vector: mr_fagin, coming from part a of the book
+Rank: 1 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9825689479025262
+
+1) mr_fagin_b - 0.9825689479025262
+
+2) mr_toby_crackit_b - 0.9769141660281536
+
+3) mr_william_sikes_b - 0.9751824721802772
+
+4) mr_giles_b - 0.9739182575892381
+
+5) mr_grimwig_b - 0.9716169800301766
+
+6) mr_brownlow_b - 0.9708229268578203
+
+7) mr_noah_claypole_b - 0.9678494315057671
+
+8) harry_maylie_b - 0.9678271393672924
+
+9) oliver_twist_b - 0.9668345411818673
+
+10) miss_rose_b - 0.9646188020706246
+
+11) mr_bumble_b - 0.964433279433842
+
+12) charlotte_b - 0.9631354146841927
+
+13) miss_nancy_b - 0.9599500560715849
+
+14) barney_b - 0.958324608702936
+
+15) mr_chitling_b - 0.9556831717491218
+
+16) charley_bates_b - 0.9546903602317517
+
+17) bill_sikes_b - 0.9472563831362969
+
+18) mr_john_dawkins_b - 0.926674714884128
+
+19) mrs_corney_b - 0.9026824235916202
+
+20) tom_white_b - 0.9026085349269396
+
+21) mrs_bedwin_b - 0.9018665493647203
+
+22) dick_b - 0.8511371701278125
+
+23) mr_sowerberry_b - 0.8324229617370955
+
+24) mr_gamfield_b - 0.735730826854711
+
+Result for the vector: mr_brownlow, coming from part a of the book
+Rank: 1 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9836703226271565
+
+1) mr_brownlow_b - 0.9836703226271565
+
+2) mr_fagin_b - 0.9805931437369074
+
+3) harry_maylie_b - 0.9804745608709626
+
+4) mr_giles_b - 0.9773320250908148
+
+5) mr_william_sikes_b - 0.9772408299815907
+
+6) mr_noah_claypole_b - 0.9758818440402108
+
+7) mr_toby_crackit_b - 0.9734797171795289
+
+8) mr_grimwig_b - 0.9728495752378923
+
+9) miss_nancy_b - 0.9680265765205965
+
+10) oliver_twist_b - 0.967583981238364
+
+11) miss_rose_b - 0.9673556993199716
+
+12) mr_bumble_b - 0.963743028863849
+
+13) mr_chitling_b - 0.9627604793679609
+
+14) barney_b - 0.9590550946907732
+
+15) charlotte_b - 0.9572320218730044
+
+16) charley_bates_b - 0.9511520804348105
+
+17) bill_sikes_b - 0.9419107717845078
+
+18) mr_john_dawkins_b - 0.9224581351093775
+
+19) mrs_corney_b - 0.8989466160849782
+
+20) mrs_bedwin_b - 0.8925414351386264
+
+21) tom_white_b - 0.8916280801074553
+
+22) dick_b - 0.8406183564110173
+
+23) mr_sowerberry_b - 0.8189982419907527
+
+24) mr_gamfield_b - 0.7413418072062222
+
+Result for the vector: mr_noah_claypole, coming from part a of the book
+Rank: 9 out of 24 characters
+Cosine similarity to the co-referring vector: 0.965843854298823
+
+1) mr_fagin_b - 0.9754888095398677
+
+2) mr_grimwig_b - 0.972964164371987
+
+3) mr_toby_crackit_b - 0.9725714309556163
+
+4) mr_giles_b - 0.9720622880495976
+
+5) mr_william_sikes_b - 0.9692821484376298
+
+6) mr_brownlow_b - 0.9691346846979481
+
+7) harry_maylie_b - 0.9675404410088342
+
+8) oliver_twist_b - 0.966590638946371
+
+9) mr_noah_claypole_b - 0.965843854298823
+
+10) miss_rose_b - 0.9600662589073249
+
+11) mr_bumble_b - 0.9591936730617593
+
+12) charlotte_b - 0.958603791940892
+
+13) miss_nancy_b - 0.9585334919572023
+
+14) barney_b - 0.9552081200604527
+
+15) charley_bates_b - 0.9545662633428375
+
+16) mr_chitling_b - 0.9518815279007026
+
+17) bill_sikes_b - 0.9356314501542734
+
+18) mr_john_dawkins_b - 0.9264800460910853
+
+19) mrs_corney_b - 0.9115914702415531
+
+20) mrs_bedwin_b - 0.9097466415015858
+
+21) tom_white_b - 0.8863393860762766
+
+22) dick_b - 0.8519130437426081
+
+23) mr_sowerberry_b - 0.830989171921563
+
+24) mr_gamfield_b - 0.753207623958593
+
+Result for the vector: miss_rose, coming from part a of the book
+Rank: 1 out of 24 characters
+Cosine similarity to the co-referring vector: 0.7970439316604192
+
+1) miss_rose_b - 0.7970439316604192
+
+2) miss_nancy_b - 0.7833630080033248
+
+3) mr_giles_b - 0.7819303274154663
+
+4) mr_william_sikes_b - 0.7808505892753601
+
+5) mr_chitling_b - 0.7761327757756261
+
+6) mr_fagin_b - 0.7761166923080892
+
+7) mr_brownlow_b - 0.7752163872251755
+
+8) oliver_twist_b - 0.7735893591397632
+
+9) mr_noah_claypole_b - 0.7678502798080444
+
+10) mr_grimwig_b - 0.7667373875819093
+
+11) harry_maylie_b - 0.7656574249267578
+
+12) mr_bumble_b - 0.7644334067235415
+
+13) charlotte_b - 0.7628835157017184
+
+14) mr_toby_crackit_b - 0.7624711990356445
+
+15) bill_sikes_b - 0.762377142906189
+
+16) barney_b - 0.7570540904998779
+
+17) charley_bates_b - 0.7544501502320334
+
+18) mr_john_dawkins_b - 0.7390340411087312
+
+19) mrs_corney_b - 0.7346705356436661
+
+20) mrs_bedwin_b - 0.7157398462295532
+
+21) tom_white_b - 0.702864369835388
+
+22) mr_sowerberry_b - 0.6621008515357971
+
+23) dick_b - 0.645988685370845
+
+24) mr_gamfield_b - 0.6184621680699498
+
+Result for the vector: charley_bates, coming from part a of the book
+Rank: 1 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9809443050904474
+
+1) charley_bates_b - 0.9809443050904474
+
+2) mr_grimwig_b - 0.9545667767524787
+
+3) mr_toby_crackit_b - 0.9525144724539254
+
+4) mr_giles_b - 0.9524958758058639
+
+5) mr_fagin_b - 0.9503426268594712
+
+6) mr_william_sikes_b - 0.9468219907985947
+
+7) mr_bumble_b - 0.9431081729201064
+
+8) mr_brownlow_b - 0.9417493343353338
+
+9) mr_noah_claypole_b - 0.9399157202294056
+
+10) harry_maylie_b - 0.939034644422852
+
+11) oliver_twist_b - 0.935765981674201
+
+12) barney_b - 0.9348908701604103
+
+13) mr_chitling_b - 0.9288662756840854
+
+14) miss_nancy_b - 0.927770110137165
+
+15) charlotte_b - 0.927513535470592
+
+16) miss_rose_b - 0.9259082167258005
+
+17) mr_john_dawkins_b - 0.9152195453643864
+
+18) bill_sikes_b - 0.9028786478710996
+
+19) mrs_corney_b - 0.8884359135108097
+
+20) mrs_bedwin_b - 0.8779871536500974
+
+21) tom_white_b - 0.8556865794752102
+
+22) dick_b - 0.8238879161081478
+
+23) mr_sowerberry_b - 0.8109594100141891
+
+24) mr_gamfield_b - 0.7226269575802138
+
+Result for the vector: mr_giles, coming from part a of the book
+Rank: 3 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9664260437019485
+
+1) mr_fagin_b - 0.9675900916808898
+
+2) mr_brownlow_b - 0.9664644270954518
+
+3) mr_giles_b - 0.9664260437019485
+
+4) mr_william_sikes_b - 0.9630390096616455
+
+5) mr_noah_claypole_b - 0.9599093484851529
+
+6) mr_toby_crackit_b - 0.9593506145283768
+
+7) harry_maylie_b - 0.9575228380418673
+
+8) mr_bumble_b - 0.9540343257209257
+
+9) mr_grimwig_b - 0.9515298263606278
+
+10) oliver_twist_b - 0.9496580019287473
+
+11) mr_chitling_b - 0.9489873960916022
+
+12) barney_b - 0.9487502261623811
+
+13) miss_rose_b - 0.948381514895517
+
+14) charlotte_b - 0.944603822321273
+
+15) miss_nancy_b - 0.9441989030956568
+
+16) bill_sikes_b - 0.9433541579054049
+
+17) charley_bates_b - 0.9344285648380016
+
+18) mr_john_dawkins_b - 0.906225166281328
+
+19) tom_white_b - 0.8889113598413085
+
+20) mrs_corney_b - 0.8698131182845532
+
+21) mrs_bedwin_b - 0.8614766854487865
+
+22) dick_b - 0.8255737877869291
+
+23) mr_sowerberry_b - 0.8213039881379605
+
+24) mr_gamfield_b - 0.7202042126594748
+
+Result for the vector: miss_nancy, coming from part a of the book
+Rank: 1 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9795027095524143
+
+1) miss_nancy_b - 0.9795027095524143
+
+2) miss_rose_b - 0.9792736209737758
+
+3) mr_fagin_b - 0.9763552865664513
+
+4) mr_william_sikes_b - 0.9745466739479761
+
+5) mr_brownlow_b - 0.972914578144889
+
+6) charlotte_b - 0.972646594047574
+
+7) harry_maylie_b - 0.9714110527740724
+
+8) mr_giles_b - 0.9691690839327542
+
+9) mr_toby_crackit_b - 0.9664599935460167
+
+10) mr_noah_claypole_b - 0.9661274592724559
+
+11) mr_grimwig_b - 0.9625770471944338
+
+12) oliver_twist_b - 0.9614690565187455
+
+13) mr_bumble_b - 0.954990480394033
+
+14) mr_chitling_b - 0.9547848782328006
+
+15) bill_sikes_b - 0.9547763520745879
+
+16) barney_b - 0.9500119745717146
+
+17) charley_bates_b - 0.9426931457909209
+
+18) mr_john_dawkins_b - 0.9127362422504427
+
+19) mrs_corney_b - 0.90930064154256
+
+20) tom_white_b - 0.9022707132455169
+
+21) mrs_bedwin_b - 0.9005281447734724
+
+22) dick_b - 0.8380819349093592
+
+23) mr_sowerberry_b - 0.8049197429514295
+
+24) mr_gamfield_b - 0.7208821080537854
+
+Result for the vector: bill_sikes, coming from part a of the book
+Rank: 1 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9764822153470328
+
+1) bill_sikes_b - 0.9764822153470328
+
+2) harry_maylie_b - 0.9597870159403135
+
+3) charlotte_b - 0.951962709426907
+
+4) mr_brownlow_b - 0.9510956435742742
+
+5) mr_fagin_b - 0.9505778893311824
+
+6) miss_rose_b - 0.9504945366690408
+
+7) mr_noah_claypole_b - 0.9462999765515423
+
+8) miss_nancy_b - 0.9427249780841296
+
+9) mr_chitling_b - 0.9405736433433949
+
+10) mr_william_sikes_b - 0.9399522018489663
+
+11) mr_toby_crackit_b - 0.9394175482490668
+
+12) mr_giles_b - 0.9352325874289833
+
+13) tom_white_b - 0.9296400907957576
+
+14) barney_b - 0.9278732624205104
+
+15) charley_bates_b - 0.9248436413752149
+
+16) oliver_twist_b - 0.9215582059885288
+
+17) mr_grimwig_b - 0.9161556413081052
+
+18) mr_bumble_b - 0.9142972009512406
+
+19) mr_john_dawkins_b - 0.8873033590732144
+
+20) mrs_corney_b - 0.8757886512657447
+
+21) mrs_bedwin_b - 0.8535505707799769
+
+22) dick_b - 0.830454628359168
+
+23) mr_sowerberry_b - 0.8151067119709655
+
+24) mr_gamfield_b - 0.7313653114976935
+
+Result for the vector: mr_toby_crackit, coming from part a of the book
+Rank: 3 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9761192216802125
+
+1) mr_grimwig_b - 0.9782418012619088
+
+2) mr_giles_b - 0.9766187085736585
+
+3) mr_toby_crackit_b - 0.9761192216802125
+
+4) mr_william_sikes_b - 0.9759157314350783
+
+5) oliver_twist_b - 0.9740787148475716
+
+6) mr_fagin_b - 0.9701788136309778
+
+7) mr_noah_claypole_b - 0.9678700585442763
+
+8) mr_brownlow_b - 0.967177391052253
+
+9) mr_bumble_b - 0.9661392281610043
+
+10) harry_maylie_b - 0.9629650138041386
+
+11) barney_b - 0.9606316709141944
+
+12) miss_nancy_b - 0.9564739776708528
+
+13) charlotte_b - 0.9524443121221404
+
+14) charley_bates_b - 0.9521742150835565
+
+15) miss_rose_b - 0.9502296507084786
+
+16) mr_chitling_b - 0.9467861715810094
+
+17) mr_john_dawkins_b - 0.9352195262909002
+
+18) bill_sikes_b - 0.9195938754323811
+
+19) mrs_bedwin_b - 0.894031888602265
+
+20) mrs_corney_b - 0.8871654406588745
+
+21) tom_white_b - 0.8617098670688346
+
+22) dick_b - 0.8234451132812908
+
+23) mr_sowerberry_b - 0.8035764811291423
+
+24) mr_gamfield_b - 0.719194803333902
+
+Result for the vector: mr_grimwig, coming from part a of the book
+Rank: 5 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9748211488021122
+
+1) mr_fagin_b - 0.9825516039893514
+
+2) mr_giles_b - 0.977288007736206
+
+3) mr_brownlow_b - 0.9763293848234066
+
+4) mr_william_sikes_b - 0.9759379625320435
+
+5) mr_grimwig_b - 0.9748211488021122
+
+6) mr_toby_crackit_b - 0.9740648865699768
+
+7) mr_noah_claypole_b - 0.9729323983192444
+
+8) harry_maylie_b - 0.9723314642906189
+
+9) mr_bumble_b - 0.9635026742071715
+
+10) oliver_twist_b - 0.9620099641090627
+
+11) miss_rose_b - 0.9601414227401379
+
+12) miss_nancy_b - 0.9589930462537128
+
+13) mr_chitling_b - 0.9569118048601284
+
+14) charlotte_b - 0.9534047786479992
+
+15) charley_bates_b - 0.9517844574258775
+
+16) barney_b - 0.9506516456604004
+
+17) bill_sikes_b - 0.9316833019256592
+
+18) mr_john_dawkins_b - 0.9219728065712949
+
+19) mrs_corney_b - 0.9038388190365557
+
+20) mrs_bedwin_b - 0.8962081074714661
+
+21) tom_white_b - 0.8909005192190568
+
+22) dick_b - 0.8370729879053905
+
+23) mr_sowerberry_b - 0.8189181089401245
+
+24) mr_gamfield_b - 0.7372185744512944
+
+Result for the vector: mrs_corney, coming from part a of the book
+Rank: 18 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9108687798615508
+
+1) miss_nancy_b - 0.9763745388649925
+
+2) miss_rose_b - 0.975780372182066
+
+3) harry_maylie_b - 0.9644558472090018
+
+4) charlotte_b - 0.9642066359520233
+
+5) mr_william_sikes_b - 0.9594091225374859
+
+6) mr_brownlow_b - 0.9578843737909725
+
+7) mr_fagin_b - 0.9576855041665985
+
+8) mr_giles_b - 0.954531615432315
+
+9) mr_grimwig_b - 0.9530230192528508
+
+10) mr_noah_claypole_b - 0.9522368368820214
+
+11) oliver_twist_b - 0.9515384464539175
+
+12) mr_toby_crackit_b - 0.9503736555130959
+
+13) mr_bumble_b - 0.9488100157252045
+
+14) bill_sikes_b - 0.9420804450416101
+
+15) mr_chitling_b - 0.9405759083194913
+
+16) barney_b - 0.9375525191363736
+
+17) charley_bates_b - 0.9299428781884254
+
+18) mrs_corney_b - 0.9108687798615508
+
+19) mr_john_dawkins_b - 0.9016022144793289
+
+20) mrs_bedwin_b - 0.896967125300518
+
+21) tom_white_b - 0.8862132233786779
+
+22) dick_b - 0.8490518691416099
+
+23) mr_sowerberry_b - 0.7898735654504874
+
+24) mr_gamfield_b - 0.72825448603848
+
+Result for the vector: harry_maylie, coming from part a of the book
+Rank: 10 out of 24 characters
+Cosine similarity to the co-referring vector: 0.8078476786613464
+
+1) mr_grimwig_b - 0.840389540218685
+
+2) oliver_twist_b - 0.8217878235452084
+
+3) mr_william_sikes_b - 0.8193227648735046
+
+4) mr_fagin_b - 0.8182123547259679
+
+5) mr_toby_crackit_b - 0.8181436061859131
+
+6) mr_bumble_b - 0.816288912781743
+
+7) mr_brownlow_b - 0.8142831810881618
+
+8) barney_b - 0.8133521676063538
+
+9) miss_nancy_b - 0.8108132723216201
+
+10) harry_maylie_b - 0.8078476786613464
+
+11) mrs_bedwin_b - 0.8063057661056519
+
+12) charley_bates_b - 0.8056960230197959
+
+13) mr_giles_b - 0.8047827482223511
+
+14) miss_rose_b - 0.8013874410755981
+
+15) mr_noah_claypole_b - 0.7980020046234131
+
+16) mr_john_dawkins_b - 0.7926187987696423
+
+17) charlotte_b - 0.7921823015430389
+
+18) mr_chitling_b - 0.7829309235256374
+
+19) mrs_corney_b - 0.7806354891875108
+
+20) bill_sikes_b - 0.7403669953346252
+
+21) dick_b - 0.73191002226949
+
+22) tom_white_b - 0.7083608123171575
+
+23) mr_sowerberry_b - 0.6574738621711731
+
+24) mr_gamfield_b - 0.614671968539241
+
+Result for the vector: mr_sowerberry, coming from part a of the book
+Rank: 23 out of 24 characters
+Cosine similarity to the co-referring vector: 0.7894619217033944
+
+1) mr_bumble_b - 0.9630089954148543
+
+2) mr_grimwig_b - 0.9520032632355788
+
+3) mr_giles_b - 0.9473069561100302
+
+4) mr_toby_crackit_b - 0.9451711426828371
+
+5) charley_bates_b - 0.9446205397761833
+
+6) mr_fagin_b - 0.9442781143520032
+
+7) mr_brownlow_b - 0.9441504097208996
+
+8) harry_maylie_b - 0.9423092850127215
+
+9) mr_william_sikes_b - 0.9390587454192746
+
+10) mr_noah_claypole_b - 0.9364972951856855
+
+11) miss_nancy_b - 0.9363475366053046
+
+12) miss_rose_b - 0.9352970402031359
+
+13) charlotte_b - 0.9331709901153131
+
+14) oliver_twist_b - 0.9315972524281226
+
+15) barney_b - 0.9312386153255693
+
+16) mr_chitling_b - 0.9224467552437514
+
+17) mr_john_dawkins_b - 0.9101415440651099
+
+18) bill_sikes_b - 0.8997134178620688
+
+19) mrs_bedwin_b - 0.8965048995469457
+
+20) mrs_corney_b - 0.8957999019563269
+
+21) tom_white_b - 0.8515050234204574
+
+22) dick_b - 0.8195606225860111
+
+23) mr_sowerberry_b - 0.7894619217033944
+
+24) mr_gamfield_b - 0.7057337375203967
+
+Result for the vector: barney, coming from part a of the book
+Rank: 15 out of 24 characters
+Cosine similarity to the co-referring vector: 0.943433516434857
+
+1) mr_fagin_b - 0.9703916565167431
+
+2) mr_giles_b - 0.9654619652583626
+
+3) mr_brownlow_b - 0.961495809822527
+
+4) mr_william_sikes_b - 0.9612287236724831
+
+5) mr_toby_crackit_b - 0.9608760429473042
+
+6) mr_noah_claypole_b - 0.9591883968339507
+
+7) harry_maylie_b - 0.9591135929958403
+
+8) mr_chitling_b - 0.9572314594526121
+
+9) miss_nancy_b - 0.9502099976256524
+
+10) charlotte_b - 0.9500993371246664
+
+11) miss_rose_b - 0.9499645203330979
+
+12) mr_grimwig_b - 0.9489749578788818
+
+13) bill_sikes_b - 0.946864837034332
+
+14) oliver_twist_b - 0.9457231662970499
+
+15) barney_b - 0.943433516434857
+
+16) charley_bates_b - 0.9408076580063588
+
+17) mr_bumble_b - 0.9394461720356639
+
+18) mr_john_dawkins_b - 0.906060917269157
+
+19) tom_white_b - 0.902582660702271
+
+20) mrs_corney_b - 0.8872675828497303
+
+21) mrs_bedwin_b - 0.8719734992949427
+
+22) mr_sowerberry_b - 0.8195440554075365
+
+23) dick_b - 0.8191872239113087
+
+24) mr_gamfield_b - 0.7336488207369457
+
+Result for the vector: mr_chitling, coming from part a of the book
+Rank: 14 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9496494025618923
+
+1) mr_toby_crackit_b - 0.9721850189942168
+
+2) mr_fagin_b - 0.9702623811129695
+
+3) mr_giles_b - 0.9686072506180772
+
+4) mr_william_sikes_b - 0.966117505297965
+
+5) mr_brownlow_b - 0.9640697858292147
+
+6) mr_grimwig_b - 0.963897766834646
+
+7) mr_noah_claypole_b - 0.9638304157459309
+
+8) mr_bumble_b - 0.9596317744584392
+
+9) oliver_twist_b - 0.9584860230394742
+
+10) harry_maylie_b - 0.9580306460820927
+
+11) barney_b - 0.9578070690861926
+
+12) charley_bates_b - 0.9515180304194291
+
+13) miss_nancy_b - 0.9514227850953341
+
+14) mr_chitling_b - 0.9496494025618923
+
+15) charlotte_b - 0.9484739899635585
+
+16) miss_rose_b - 0.9475293849356099
+
+17) mr_john_dawkins_b - 0.931519929676075
+
+18) bill_sikes_b - 0.9226225706788879
+
+19) mrs_corney_b - 0.8936096024019253
+
+20) tom_white_b - 0.8815529154342885
+
+21) mrs_bedwin_b - 0.8748661428849589
+
+22) mr_sowerberry_b - 0.8185355283575678
+
+23) dick_b - 0.8167605836962262
+
+24) mr_gamfield_b - 0.7359992141725051
+
+Result for the vector: mrs_bedwin, coming from part a of the book
+Rank: 18 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9088885729842544
+
+1) harry_maylie_b - 0.9709984642862376
+
+2) miss_rose_b - 0.9641369581222603
+
+3) miss_nancy_b - 0.9641211894858951
+
+4) mr_brownlow_b - 0.9638892965184803
+
+5) mr_fagin_b - 0.9604804182482144
+
+6) mr_william_sikes_b - 0.9600450372722784
+
+7) mr_grimwig_b - 0.959983046052819
+
+8) mr_toby_crackit_b - 0.9598465537933458
+
+9) mr_giles_b - 0.9597578620766336
+
+10) charlotte_b - 0.9557116548499461
+
+11) mr_noah_claypole_b - 0.9552072259907278
+
+12) oliver_twist_b - 0.9517254771859023
+
+13) mr_chitling_b - 0.9480597376823493
+
+14) mr_bumble_b - 0.9430073746747416
+
+15) barney_b - 0.9395623767115119
+
+16) bill_sikes_b - 0.9386875592880003
+
+17) charley_bates_b - 0.9380423036280731
+
+18) mrs_bedwin_b - 0.9088885729842544
+
+19) mr_john_dawkins_b - 0.9084021339895885
+
+20) mrs_corney_b - 0.894532144069678
+
+21) tom_white_b - 0.8852763967463136
+
+22) dick_b - 0.8282721741037398
+
+23) mr_sowerberry_b - 0.7937945004579141
+
+24) mr_gamfield_b - 0.7106748819351246
+
+Result for the vector: mr_gamfield, coming from part a of the book
+Rank: 24 out of 24 characters
+Cosine similarity to the co-referring vector: 0.7457909806308526
+
+1) mr_giles_b - 0.9799430054375275
+
+2) mr_william_sikes_b - 0.9740505493328505
+
+3) mr_fagin_b - 0.9739965169425644
+
+4) mr_grimwig_b - 0.9733592530130232
+
+5) mr_toby_crackit_b - 0.9717530880945741
+
+6) mr_noah_claypole_b - 0.9705010924191299
+
+7) mr_brownlow_b - 0.9685561908120206
+
+8) mr_bumble_b - 0.9685022793414942
+
+9) oliver_twist_b - 0.9681414020272203
+
+10) barney_b - 0.9578725955968473
+
+11) harry_maylie_b - 0.9569762012639264
+
+12) mr_chitling_b - 0.9546910808888506
+
+13) miss_nancy_b - 0.9511758626909109
+
+14) miss_rose_b - 0.9471071644755458
+
+15) charlotte_b - 0.945303994927644
+
+16) charley_bates_b - 0.9439306754941956
+
+17) bill_sikes_b - 0.9229818811698487
+
+18) mr_john_dawkins_b - 0.9229600016713149
+
+19) mrs_bedwin_b - 0.8831021979244563
+
+20) mrs_corney_b - 0.8796021604419496
+
+21) tom_white_b - 0.8705769026967186
+
+22) dick_b - 0.8292009583353891
+
+23) mr_sowerberry_b - 0.8186078207440248
+
+24) mr_gamfield_b - 0.7457909806308526
+
+Result for the vector: tom_white, coming from part a of the book
+Rank: 10 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9248886384036735
+
+1) bill_sikes_b - 0.9515630006790161
+
+2) harry_maylie_b - 0.9426647424697876
+
+3) mr_noah_claypole_b - 0.9406989812850952
+
+4) charlotte_b - 0.9395838903884823
+
+5) mr_brownlow_b - 0.9357491693347214
+
+6) mr_fagin_b - 0.9323176423405902
+
+7) miss_rose_b - 0.9313025515495227
+
+8) mr_chitling_b - 0.9274252696379875
+
+9) miss_nancy_b - 0.9249512828871994
+
+10) tom_white_b - 0.9248886384036735
+
+11) mr_william_sikes_b - 0.9243803024291992
+
+12) mr_toby_crackit_b - 0.9156908392906189
+
+13) barney_b - 0.9122552275657654
+
+14) mr_giles_b - 0.9111536145210266
+
+15) charley_bates_b - 0.8991037218961503
+
+16) oliver_twist_b - 0.8917625481940851
+
+17) mr_grimwig_b - 0.888126724250719
+
+18) mr_bumble_b - 0.8811776900642426
+
+19) mr_john_dawkins_b - 0.870339683910591
+
+20) mrs_corney_b - 0.8449949714544448
+
+21) mrs_bedwin_b - 0.8235297799110413
+
+22) dick_b - 0.7918156037550501
+
+23) mr_sowerberry_b - 0.780400276184082
+
+24) mr_gamfield_b - 0.7076105649703417
+
+Result for the vector: mr_john_dawkins, coming from part a of the book
+Rank: 5 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9183731079101628
+
+1) mr_grimwig_b - 0.9371075630188055
+
+2) mr_bumble_b - 0.9254184685522812
+
+3) oliver_twist_b - 0.92225623130799
+
+4) mr_toby_crackit_b - 0.9205273437185695
+
+5) mr_john_dawkins_b - 0.9183731079101628
+
+6) mr_giles_b - 0.9168774535132989
+
+7) mr_william_sikes_b - 0.9086417610262791
+
+8) mr_fagin_b - 0.9059131471540622
+
+9) barney_b - 0.9034203348505313
+
+10) charley_bates_b - 0.8997050791891043
+
+11) mr_brownlow_b - 0.8920110464096133
+
+12) mr_noah_claypole_b - 0.8852092096084843
+
+13) miss_nancy_b - 0.8819622730624034
+
+14) harry_maylie_b - 0.8804044794795243
+
+15) miss_rose_b - 0.8779128935440905
+
+16) charlotte_b - 0.871194176149035
+
+17) mr_chitling_b - 0.8686620153591614
+
+18) mrs_bedwin_b - 0.8573490466267454
+
+19) mrs_corney_b - 0.849932211645578
+
+20) bill_sikes_b - 0.8210445153090661
+
+21) mr_sowerberry_b - 0.7791517508535547
+
+22) dick_b - 0.7779965797668865
+
+23) tom_white_b - 0.7662658463041263
+
+24) mr_gamfield_b - 0.6826837441106147
+
+Result for the vector: charlotte, coming from part a of the book
+Rank: 1 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9684550724572099
+
+1) charlotte_b - 0.9684550724572099
+
+2) mr_fagin_b - 0.9654524614051723
+
+3) miss_nancy_b - 0.964057891489801
+
+4) harry_maylie_b - 0.9636266827583313
+
+5) miss_rose_b - 0.9611493372232134
+
+6) mr_brownlow_b - 0.9580738519474197
+
+7) mr_toby_crackit_b - 0.9574379324913025
+
+8) mr_giles_b - 0.9541604518890381
+
+9) mr_william_sikes_b - 0.9536727666854858
+
+10) mr_grimwig_b - 0.9523550839635797
+
+11) mr_noah_claypole_b - 0.9518807530403137
+
+12) mr_chitling_b - 0.9445108804398267
+
+13) oliver_twist_b - 0.9403770530448604
+
+14) bill_sikes_b - 0.9371901750564575
+
+15) barney_b - 0.9358189702033997
+
+16) charley_bates_b - 0.935484790994361
+
+17) mr_bumble_b - 0.9352530519739707
+
+18) mrs_bedwin_b - 0.9165661334991455
+
+19) mrs_corney_b - 0.9102627688489711
+
+20) mr_john_dawkins_b - 0.9011134446330947
+
+21) tom_white_b - 0.8847841288085027
+
+22) dick_b - 0.8428867646590812
+
+23) mr_sowerberry_b - 0.8057535290718079
+
+24) mr_gamfield_b - 0.7238908574646213
+
+Result for the vector: dick, coming from part a of the book
+Rank: 22 out of 24 characters
+Cosine similarity to the co-referring vector: 0.8472877922907184
+
+1) bill_sikes_b - 0.9524613618850708
+
+2) harry_maylie_b - 0.9418320655822754
+
+3) miss_rose_b - 0.9377096332484719
+
+4) charlotte_b - 0.9369805976129357
+
+5) mr_brownlow_b - 0.9303213912440192
+
+6) mr_fagin_b - 0.9302882829394429
+
+7) mr_toby_crackit_b - 0.9272645115852356
+
+8) mr_noah_claypole_b - 0.9268670082092285
+
+9) mr_william_sikes_b - 0.9251441359519958
+
+10) miss_nancy_b - 0.9235438979728195
+
+11) oliver_twist_b - 0.9202210259569319
+
+12) mr_giles_b - 0.9186186790466309
+
+13) charley_bates_b - 0.9180205689091036
+
+14) mr_chitling_b - 0.9179961134197661
+
+15) barney_b - 0.9166848659515381
+
+16) mr_grimwig_b - 0.9076185767423275
+
+17) mr_bumble_b - 0.9019839436407077
+
+18) tom_white_b - 0.8991846710200514
+
+19) mr_john_dawkins_b - 0.8723457379547217
+
+20) mrs_corney_b - 0.8647338828603115
+
+21) mrs_bedwin_b - 0.8537949919700623
+
+22) dick_b - 0.8472877922907184
+
+23) mr_sowerberry_b - 0.7974228858947754
+
+24) mr_gamfield_b - 0.6971123995117915
+
+Result for the vector: oliver_twist, coming from part b of the book
+Rank: 1 out of 24 characters
+Cosine similarity to the co-referring vector: 0.976150870323188
+
+1) oliver_twist_a - 0.976150870323188
+
+2) mr_toby_crackit_a - 0.9740787148475716
+
+3) mr_bumble_a - 0.9692810430051455
+
+4) mr_gamfield_a - 0.9681414020272203
+
+5) mr_brownlow_a - 0.967583981238364
+
+6) mr_fagin_a - 0.9668345411818673
+
+7) mr_noah_claypole_a - 0.966590638946371
+
+8) mr_grimwig_a - 0.9620099641090627
+
+9) miss_nancy_a - 0.9614690565187455
+
+10) mr_chitling_a - 0.9584860230394742
+
+11) mr_william_sikes_a - 0.9558795896517412
+
+12) mrs_bedwin_a - 0.9517254771859023
+
+13) mrs_corney_a - 0.9515384464539175
+
+14) mr_giles_a - 0.9496580019287473
+
+15) barney_a - 0.9457231662970499
+
+16) charlotte_a - 0.9403770530448604
+
+17) charley_bates_a - 0.935765981674201
+
+18) mr_sowerberry_a - 0.9315972524281226
+
+19) mr_john_dawkins_a - 0.92225623130799
+
+20) bill_sikes_a - 0.9215582059885288
+
+21) dick_a - 0.9202210259569319
+
+22) tom_white_a - 0.8917625481940851
+
+23) harry_maylie_a - 0.8217878235452084
+
+24) miss_rose_a - 0.7735893591397632
+
+Result for the vector: mr_bumble, coming from part b of the book
+Rank: 1 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9718173708698017
+
+1) mr_bumble_a - 0.9718173708698017
+
+2) mr_gamfield_a - 0.9685022793414942
+
+3) mr_toby_crackit_a - 0.9661392281610043
+
+4) oliver_twist_a - 0.9645275782189533
+
+5) mr_fagin_a - 0.964433279433842
+
+6) mr_brownlow_a - 0.963743028863849
+
+7) mr_grimwig_a - 0.9635026742071715
+
+8) mr_sowerberry_a - 0.9630089954148543
+
+9) mr_william_sikes_a - 0.9625906281335354
+
+10) mr_chitling_a - 0.9596317744584392
+
+11) mr_noah_claypole_a - 0.9591936730617593
+
+12) miss_nancy_a - 0.954990480394033
+
+13) mr_giles_a - 0.9540343257209257
+
+14) mrs_corney_a - 0.9488100157252045
+
+15) charley_bates_a - 0.9431081729201064
+
+16) mrs_bedwin_a - 0.9430073746747416
+
+17) barney_a - 0.9394461720356639
+
+18) charlotte_a - 0.9352530519739707
+
+19) mr_john_dawkins_a - 0.9254184685522812
+
+20) bill_sikes_a - 0.9142972009512406
+
+21) dick_a - 0.9019839436407077
+
+22) tom_white_a - 0.8811776900642426
+
+23) harry_maylie_a - 0.816288912781743
+
+24) miss_rose_a - 0.7644334067235415
+
+Result for the vector: mr_william_sikes, coming from part b of the book
+Rank: 1 out of 24 characters
+Cosine similarity to the co-referring vector: 0.978146162352895
+
+1) mr_william_sikes_a - 0.978146162352895
+
+2) mr_brownlow_a - 0.9772408299815907
+
+3) mr_bumble_a - 0.9762549081076638
+
+4) mr_grimwig_a - 0.9759379625320435
+
+5) mr_toby_crackit_a - 0.9759157314350783
+
+6) mr_fagin_a - 0.9751824721802772
+
+7) miss_nancy_a - 0.9745466739479761
+
+8) mr_gamfield_a - 0.9740505493328505
+
+9) mr_noah_claypole_a - 0.9692821484376298
+
+10) mr_chitling_a - 0.966117505297965
+
+11) mr_giles_a - 0.9630390096616455
+
+12) oliver_twist_a - 0.9625330589691978
+
+13) barney_a - 0.9612287236724831
+
+14) mrs_bedwin_a - 0.9600450372722784
+
+15) mrs_corney_a - 0.9594091225374859
+
+16) charlotte_a - 0.9536727666854858
+
+17) charley_bates_a - 0.9468219907985947
+
+18) bill_sikes_a - 0.9399522018489663
+
+19) mr_sowerberry_a - 0.9390587454192746
+
+20) dick_a - 0.9251441359519958
+
+21) tom_white_a - 0.9243803024291992
+
+22) mr_john_dawkins_a - 0.9086417610262791
+
+23) harry_maylie_a - 0.8193227648735046
+
+24) miss_rose_a - 0.7808505892753601
+
+Result for the vector: mr_fagin, coming from part b of the book
+Rank: 1 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9825689479025262
+
+1) mr_fagin_a - 0.9825689479025262
+
+2) mr_grimwig_a - 0.9825516039893514
+
+3) mr_william_sikes_a - 0.981742319180195
+
+4) mr_bumble_a - 0.9809939838640688
+
+5) mr_brownlow_a - 0.9805931437369074
+
+6) miss_nancy_a - 0.9763552865664513
+
+7) mr_noah_claypole_a - 0.9754888095398677
+
+8) mr_gamfield_a - 0.9739965169425644
+
+9) barney_a - 0.9703916565167431
+
+10) mr_chitling_a - 0.9702623811129695
+
+11) mr_toby_crackit_a - 0.9701788136309778
+
+12) mr_giles_a - 0.9675900916808898
+
+13) charlotte_a - 0.9654524614051723
+
+14) mrs_bedwin_a - 0.9604804182482144
+
+15) mrs_corney_a - 0.9576855041665985
+
+16) oliver_twist_a - 0.9544193460220332
+
+17) bill_sikes_a - 0.9505778893311824
+
+18) charley_bates_a - 0.9503426268594712
+
+19) mr_sowerberry_a - 0.9442781143520032
+
+20) tom_white_a - 0.9323176423405902
+
+21) dick_a - 0.9302882829394429
+
+22) mr_john_dawkins_a - 0.9059131471540622
+
+23) harry_maylie_a - 0.8182123547259679
+
+24) miss_rose_a - 0.7761166923080892
+
+Result for the vector: mr_brownlow, coming from part b of the book
+Rank: 1 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9836703226271565
+
+1) mr_brownlow_a - 0.9836703226271565
+
+2) mr_bumble_a - 0.9780192640452485
+
+3) mr_grimwig_a - 0.9763293848234066
+
+4) mr_william_sikes_a - 0.9737654571639994
+
+5) miss_nancy_a - 0.972914578144889
+
+6) mr_fagin_a - 0.9708229268578203
+
+7) mr_noah_claypole_a - 0.9691346846979481
+
+8) mr_gamfield_a - 0.9685561908120206
+
+9) mr_toby_crackit_a - 0.967177391052253
+
+10) mr_giles_a - 0.9664644270954518
+
+11) mr_chitling_a - 0.9640697858292147
+
+12) mrs_bedwin_a - 0.9638892965184803
+
+13) barney_a - 0.961495809822527
+
+14) charlotte_a - 0.9580738519474197
+
+15) mrs_corney_a - 0.9578843737909725
+
+16) oliver_twist_a - 0.953816235065467
+
+17) bill_sikes_a - 0.9510956435742742
+
+18) mr_sowerberry_a - 0.9441504097208996
+
+19) charley_bates_a - 0.9417493343353338
+
+20) tom_white_a - 0.9357491693347214
+
+21) dick_a - 0.9303213912440192
+
+22) mr_john_dawkins_a - 0.8920110464096133
+
+23) harry_maylie_a - 0.8142831810881618
+
+24) miss_rose_a - 0.7752163872251755
+
+Result for the vector: mr_noah_claypole, coming from part b of the book
+Rank: 9 out of 24 characters
+Cosine similarity to the co-referring vector: 0.965843854298823
+
+1) mr_william_sikes_a - 0.9760781788942593
+
+2) mr_brownlow_a - 0.9758818440402108
+
+3) mr_grimwig_a - 0.9729323983192444
+
+4) mr_gamfield_a - 0.9705010924191299
+
+5) mr_bumble_a - 0.9688015254260512
+
+6) mr_toby_crackit_a - 0.9678700585442763
+
+7) mr_fagin_a - 0.9678494315057671
+
+8) miss_nancy_a - 0.9661274592724559
+
+9) mr_noah_claypole_a - 0.965843854298823
+
+10) mr_chitling_a - 0.9638304157459309
+
+11) mr_giles_a - 0.9599093484851529
+
+12) barney_a - 0.9591883968339507
+
+13) mrs_bedwin_a - 0.9552072259907278
+
+14) mrs_corney_a - 0.9522368368820214
+
+15) charlotte_a - 0.9518807530403137
+
+16) oliver_twist_a - 0.9499601155543276
+
+17) bill_sikes_a - 0.9462999765515423
+
+18) tom_white_a - 0.9406989812850952
+
+19) charley_bates_a - 0.9399157202294056
+
+20) mr_sowerberry_a - 0.9364972951856855
+
+21) dick_a - 0.9268670082092285
+
+22) mr_john_dawkins_a - 0.8852092096084843
+
+23) harry_maylie_a - 0.7980020046234131
+
+24) miss_rose_a - 0.7678502798080444
+
+Result for the vector: miss_rose, coming from part b of the book
+Rank: 24 out of 24 characters
+Cosine similarity to the co-referring vector: 0.7970439316604192
+
+1) miss_nancy_a - 0.9792736209737758
+
+2) mrs_corney_a - 0.975780372182066
+
+3) mr_brownlow_a - 0.9673556993199716
+
+4) mr_bumble_a - 0.9651358415226996
+
+5) mr_fagin_a - 0.9646188020706246
+
+6) mrs_bedwin_a - 0.9641369581222603
+
+7) charlotte_a - 0.9611493372232134
+
+8) mr_grimwig_a - 0.9601414227401379
+
+9) mr_noah_claypole_a - 0.9600662589073249
+
+10) mr_william_sikes_a - 0.9510247365556629
+
+11) bill_sikes_a - 0.9504945366690408
+
+12) mr_toby_crackit_a - 0.9502296507084786
+
+13) barney_a - 0.9499645203330979
+
+14) mr_giles_a - 0.948381514895517
+
+15) mr_chitling_a - 0.9475293849356099
+
+16) mr_gamfield_a - 0.9471071644755458
+
+17) oliver_twist_a - 0.9414644907159221
+
+18) dick_a - 0.9377096332484719
+
+19) mr_sowerberry_a - 0.9352970402031359
+
+20) tom_white_a - 0.9313025515495227
+
+21) charley_bates_a - 0.9259082167258005
+
+22) mr_john_dawkins_a - 0.8779128935440905
+
+23) harry_maylie_a - 0.8013874410755981
+
+24) miss_rose_a - 0.7970439316604192
+
+Result for the vector: charley_bates, coming from part b of the book
+Rank: 1 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9809443050904474
+
+1) charley_bates_a - 0.9809443050904474
+
+2) mr_bumble_a - 0.9564984959063224
+
+3) mr_fagin_a - 0.9546903602317517
+
+4) mr_noah_claypole_a - 0.9545662633428375
+
+5) mr_toby_crackit_a - 0.9521742150835565
+
+6) mr_grimwig_a - 0.9517844574258775
+
+7) mr_chitling_a - 0.9515180304194291
+
+8) mr_brownlow_a - 0.9511520804348105
+
+9) mr_william_sikes_a - 0.9501597762488803
+
+10) mr_sowerberry_a - 0.9446205397761833
+
+11) mr_gamfield_a - 0.9439306754941956
+
+12) miss_nancy_a - 0.9426931457909209
+
+13) barney_a - 0.9408076580063588
+
+14) oliver_twist_a - 0.9388180058842407
+
+15) mrs_bedwin_a - 0.9380423036280731
+
+16) charlotte_a - 0.935484790994361
+
+17) mr_giles_a - 0.9344285648380016
+
+18) mrs_corney_a - 0.9299428781884254
+
+19) bill_sikes_a - 0.9248436413752149
+
+20) dick_a - 0.9180205689091036
+
+21) mr_john_dawkins_a - 0.8997050791891043
+
+22) tom_white_a - 0.8991037218961503
+
+23) harry_maylie_a - 0.8056960230197959
+
+24) miss_rose_a - 0.7544501502320334
+
+Result for the vector: mr_giles, coming from part b of the book
+Rank: 11 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9664260437019485
+
+1) mr_bumble_a - 0.9830789848934736
+
+2) mr_gamfield_a - 0.9799430054375275
+
+3) mr_william_sikes_a - 0.9785619048121539
+
+4) mr_brownlow_a - 0.9773320250908148
+
+5) mr_grimwig_a - 0.977288007736206
+
+6) mr_toby_crackit_a - 0.9766187085736585
+
+7) mr_fagin_a - 0.9739182575892381
+
+8) mr_noah_claypole_a - 0.9720622880495976
+
+9) miss_nancy_a - 0.9691690839327542
+
+10) mr_chitling_a - 0.9686072506180772
+
+11) mr_giles_a - 0.9664260437019485
+
+12) barney_a - 0.9654619652583626
+
+13) oliver_twist_a - 0.9608446979019243
+
+14) mrs_bedwin_a - 0.9597578620766336
+
+15) mrs_corney_a - 0.954531615432315
+
+16) charlotte_a - 0.9541604518890381
+
+17) charley_bates_a - 0.9524958758058639
+
+18) mr_sowerberry_a - 0.9473069561100302
+
+19) bill_sikes_a - 0.9352325874289833
+
+20) dick_a - 0.9186186790466309
+
+21) mr_john_dawkins_a - 0.9168774535132989
+
+22) tom_white_a - 0.9111536145210266
+
+23) harry_maylie_a - 0.8047827482223511
+
+24) miss_rose_a - 0.7819303274154663
+
+Result for the vector: miss_nancy, coming from part b of the book
+Rank: 1 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9795027095524143
+
+1) miss_nancy_a - 0.9795027095524143
+
+2) mrs_corney_a - 0.9763745388649925
+
+3) mr_brownlow_a - 0.9680265765205965
+
+4) mrs_bedwin_a - 0.9641211894858951
+
+5) charlotte_a - 0.964057891489801
+
+6) mr_bumble_a - 0.9625037863855125
+
+7) mr_fagin_a - 0.9599500560715849
+
+8) mr_grimwig_a - 0.9589930462537128
+
+9) mr_noah_claypole_a - 0.9585334919572023
+
+10) mr_toby_crackit_a - 0.9564739776708528
+
+11) mr_william_sikes_a - 0.9553508082659565
+
+12) mr_chitling_a - 0.9514227850953341
+
+13) mr_gamfield_a - 0.9511758626909109
+
+14) barney_a - 0.9502099976256524
+
+15) mr_giles_a - 0.9441989030956568
+
+16) bill_sikes_a - 0.9427249780841296
+
+17) oliver_twist_a - 0.9419712739595428
+
+18) mr_sowerberry_a - 0.9363475366053046
+
+19) charley_bates_a - 0.927770110137165
+
+20) tom_white_a - 0.9249512828871994
+
+21) dick_a - 0.9235438979728195
+
+22) mr_john_dawkins_a - 0.8819622730624034
+
+23) harry_maylie_a - 0.8108132723216201
+
+24) miss_rose_a - 0.7833630080033248
+
+Result for the vector: bill_sikes, coming from part b of the book
+Rank: 1 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9764822153470328
+
+1) bill_sikes_a - 0.9764822153470328
+
+2) miss_nancy_a - 0.9547763520745879
+
+3) dick_a - 0.9524613618850708
+
+4) tom_white_a - 0.9515630006790161
+
+5) mr_fagin_a - 0.9472563831362969
+
+6) barney_a - 0.946864837034332
+
+7) mr_giles_a - 0.9433541579054049
+
+8) mrs_corney_a - 0.9420804450416101
+
+9) mr_brownlow_a - 0.9419107717845078
+
+10) mrs_bedwin_a - 0.9386875592880003
+
+11) mr_william_sikes_a - 0.9375184383270901
+
+12) charlotte_a - 0.9371901750564575
+
+13) mr_noah_claypole_a - 0.9356314501542734
+
+14) mr_bumble_a - 0.9351246000937797
+
+15) mr_grimwig_a - 0.9316833019256592
+
+16) mr_gamfield_a - 0.9229818811698487
+
+17) mr_chitling_a - 0.9226225706788879
+
+18) mr_toby_crackit_a - 0.9195938754323811
+
+19) oliver_twist_a - 0.903971379758635
+
+20) charley_bates_a - 0.9028786478710996
+
+21) mr_sowerberry_a - 0.8997134178620688
+
+22) mr_john_dawkins_a - 0.8210445153090661
+
+23) miss_rose_a - 0.762377142906189
+
+24) harry_maylie_a - 0.7403669953346252
+
+Result for the vector: mr_toby_crackit, coming from part b of the book
+Rank: 3 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9761192216802125
+
+1) mr_fagin_a - 0.9769141660281536
+
+2) mr_bumble_a - 0.9767204204249796
+
+3) mr_toby_crackit_a - 0.9761192216802125
+
+4) mr_william_sikes_a - 0.9760981464532344
+
+5) mr_grimwig_a - 0.9740648865699768
+
+6) mr_brownlow_a - 0.9734797171795289
+
+7) mr_noah_claypole_a - 0.9725714309556163
+
+8) mr_chitling_a - 0.9721850189942168
+
+9) mr_gamfield_a - 0.9717530880945741
+
+10) miss_nancy_a - 0.9664599935460167
+
+11) barney_a - 0.9608760429473042
+
+12) oliver_twist_a - 0.9601903581505817
+
+13) mrs_bedwin_a - 0.9598465537933458
+
+14) mr_giles_a - 0.9593506145283768
+
+15) charlotte_a - 0.9574379324913025
+
+16) charley_bates_a - 0.9525144724539254
+
+17) mrs_corney_a - 0.9503736555130959
+
+18) mr_sowerberry_a - 0.9451711426828371
+
+19) bill_sikes_a - 0.9394175482490668
+
+20) dick_a - 0.9272645115852356
+
+21) mr_john_dawkins_a - 0.9205273437185695
+
+22) tom_white_a - 0.9156908392906189
+
+23) harry_maylie_a - 0.8181436061859131
+
+24) miss_rose_a - 0.7624711990356445
+
+Result for the vector: mr_grimwig, coming from part b of the book
+Rank: 3 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9748211488021122
+
+1) mr_bumble_a - 0.9815194877266125
+
+2) mr_toby_crackit_a - 0.9782418012619088
+
+3) mr_grimwig_a - 0.9748211488021122
+
+4) mr_gamfield_a - 0.9733592530130232
+
+5) mr_noah_claypole_a - 0.972964164371987
+
+6) mr_brownlow_a - 0.9728495752378923
+
+7) mr_fagin_a - 0.9716169800301766
+
+8) mr_william_sikes_a - 0.9674089184958505
+
+9) oliver_twist_a - 0.9659856557846138
+
+10) mr_chitling_a - 0.963897766834646
+
+11) miss_nancy_a - 0.9625770471944338
+
+12) mrs_bedwin_a - 0.959983046052819
+
+13) charley_bates_a - 0.9545667767524787
+
+14) mrs_corney_a - 0.9530230192528508
+
+15) charlotte_a - 0.9523550839635797
+
+16) mr_sowerberry_a - 0.9520032632355788
+
+17) mr_giles_a - 0.9515298263606278
+
+18) barney_a - 0.9489749578788818
+
+19) mr_john_dawkins_a - 0.9371075630188055
+
+20) bill_sikes_a - 0.9161556413081052
+
+21) dick_a - 0.9076185767423275
+
+22) tom_white_a - 0.888126724250719
+
+23) harry_maylie_a - 0.840389540218685
+
+24) miss_rose_a - 0.7667373875819093
+
+Result for the vector: mrs_corney, coming from part b of the book
+Rank: 2 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9108687798615508
+
+1) mr_noah_claypole_a - 0.9115914702415531
+
+2) mrs_corney_a - 0.9108687798615508
+
+3) charlotte_a - 0.9102627688489711
+
+4) miss_nancy_a - 0.90930064154256
+
+5) mr_bumble_a - 0.9071076186629521
+
+6) mr_grimwig_a - 0.9038388190365557
+
+7) mr_fagin_a - 0.9026824235916202
+
+8) mr_brownlow_a - 0.8989466160849782
+
+9) mr_sowerberry_a - 0.8957999019563269
+
+10) mrs_bedwin_a - 0.894532144069678
+
+11) mr_chitling_a - 0.8936096024019253
+
+12) charley_bates_a - 0.8884359135108097
+
+13) oliver_twist_a - 0.8873398438286968
+
+14) barney_a - 0.8872675828497303
+
+15) mr_toby_crackit_a - 0.8871654406588745
+
+16) mr_william_sikes_a - 0.8855382399742414
+
+17) mr_gamfield_a - 0.8796021604419496
+
+18) bill_sikes_a - 0.8757886512657447
+
+19) mr_giles_a - 0.8698131182845532
+
+20) dick_a - 0.8647338828603115
+
+21) mr_john_dawkins_a - 0.849932211645578
+
+22) tom_white_a - 0.8449949714544448
+
+23) harry_maylie_a - 0.7806354891875108
+
+24) miss_rose_a - 0.7346705356436661
+
+Result for the vector: harry_maylie, coming from part b of the book
+Rank: 23 out of 24 characters
+Cosine similarity to the co-referring vector: 0.8078476786613464
+
+1) mr_brownlow_a - 0.9804745608709626
+
+2) mr_grimwig_a - 0.9723314642906189
+
+3) mr_bumble_a - 0.971517411308061
+
+4) miss_nancy_a - 0.9714110527740724
+
+5) mrs_bedwin_a - 0.9709984642862376
+
+6) mr_fagin_a - 0.9678271393672924
+
+7) mr_noah_claypole_a - 0.9675404410088342
+
+8) mr_william_sikes_a - 0.9670508156792652
+
+9) mrs_corney_a - 0.9644558472090018
+
+10) charlotte_a - 0.9636266827583313
+
+11) mr_toby_crackit_a - 0.9629650138041386
+
+12) bill_sikes_a - 0.9597870159403135
+
+13) barney_a - 0.9591135929958403
+
+14) mr_chitling_a - 0.9580306460820927
+
+15) mr_giles_a - 0.9575228380418673
+
+16) mr_gamfield_a - 0.9569762012639264
+
+17) oliver_twist_a - 0.9447183641959228
+
+18) tom_white_a - 0.9426647424697876
+
+19) mr_sowerberry_a - 0.9423092850127215
+
+20) dick_a - 0.9418320655822754
+
+21) charley_bates_a - 0.939034644422852
+
+22) mr_john_dawkins_a - 0.8804044794795243
+
+23) harry_maylie_a - 0.8078476786613464
+
+24) miss_rose_a - 0.7656574249267578
+
+Result for the vector: mr_sowerberry, coming from part b of the book
+Rank: 20 out of 24 characters
+Cosine similarity to the co-referring vector: 0.7894619217033944
+
+1) mr_fagin_a - 0.8324229617370955
+
+2) mr_noah_claypole_a - 0.830989171921563
+
+3) mr_william_sikes_a - 0.8216120036858416
+
+4) mr_giles_a - 0.8213039881379605
+
+5) mr_bumble_a - 0.8204648632226795
+
+6) barney_a - 0.8195440554075365
+
+7) mr_brownlow_a - 0.8189982419907527
+
+8) mr_grimwig_a - 0.8189181089401245
+
+9) mr_gamfield_a - 0.8186078207440248
+
+10) mr_chitling_a - 0.8185355283575678
+
+11) bill_sikes_a - 0.8151067119709655
+
+12) charley_bates_a - 0.8109594100141891
+
+13) charlotte_a - 0.8057535290718079
+
+14) miss_nancy_a - 0.8049197429514295
+
+15) mr_toby_crackit_a - 0.8035764811291423
+
+16) oliver_twist_a - 0.8025553344157154
+
+17) dick_a - 0.7974228858947754
+
+18) mrs_bedwin_a - 0.7937945004579141
+
+19) mrs_corney_a - 0.7898735654504874
+
+20) mr_sowerberry_a - 0.7894619217033944
+
+21) tom_white_a - 0.780400276184082
+
+22) mr_john_dawkins_a - 0.7791517508535547
+
+23) miss_rose_a - 0.6621008515357971
+
+24) harry_maylie_a - 0.6574738621711731
+
+Result for the vector: barney, coming from part b of the book
+Rank: 13 out of 24 characters
+Cosine similarity to the co-referring vector: 0.943433516434857
+
+1) mr_toby_crackit_a - 0.9606316709141944
+
+2) mr_bumble_a - 0.9605178499684834
+
+3) mr_brownlow_a - 0.9590550946907732
+
+4) mr_fagin_a - 0.958324608702936
+
+5) mr_gamfield_a - 0.9578725955968473
+
+6) mr_chitling_a - 0.9578070690861926
+
+7) mr_noah_claypole_a - 0.9552081200604527
+
+8) mr_william_sikes_a - 0.9518289792282955
+
+9) mr_grimwig_a - 0.9506516456604004
+
+10) miss_nancy_a - 0.9500119745717146
+
+11) mr_giles_a - 0.9487502261623811
+
+12) oliver_twist_a - 0.9464316996078687
+
+13) barney_a - 0.943433516434857
+
+14) mrs_bedwin_a - 0.9395623767115119
+
+15) mrs_corney_a - 0.9375525191363736
+
+16) charlotte_a - 0.9358189702033997
+
+17) charley_bates_a - 0.9348908701604103
+
+18) mr_sowerberry_a - 0.9312386153255693
+
+19) bill_sikes_a - 0.9278732624205104
+
+20) dick_a - 0.9166848659515381
+
+21) tom_white_a - 0.9122552275657654
+
+22) mr_john_dawkins_a - 0.9034203348505313
+
+23) harry_maylie_a - 0.8133521676063538
+
+24) miss_rose_a - 0.7570540904998779
+
+Result for the vector: mr_chitling, coming from part b of the book
+Rank: 10 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9496494025618923
+
+1) mr_brownlow_a - 0.9627604793679609
+
+2) mr_william_sikes_a - 0.9608697558227173
+
+3) barney_a - 0.9572314594526121
+
+4) mr_grimwig_a - 0.9569118048601284
+
+5) mr_fagin_a - 0.9556831717491218
+
+6) mr_bumble_a - 0.9550745771847645
+
+7) miss_nancy_a - 0.9547848782328006
+
+8) mr_gamfield_a - 0.9546910808888506
+
+9) mr_noah_claypole_a - 0.9518815279007026
+
+10) mr_chitling_a - 0.9496494025618923
+
+11) mr_giles_a - 0.9489873960916022
+
+12) mrs_bedwin_a - 0.9480597376823493
+
+13) mr_toby_crackit_a - 0.9467861715810094
+
+14) charlotte_a - 0.9445108804398267
+
+15) mrs_corney_a - 0.9405759083194913
+
+16) bill_sikes_a - 0.9405736433433949
+
+17) charley_bates_a - 0.9288662756840854
+
+18) tom_white_a - 0.9274252696379875
+
+19) oliver_twist_a - 0.924466916982303
+
+20) mr_sowerberry_a - 0.9224467552437514
+
+21) dick_a - 0.9179961134197661
+
+22) mr_john_dawkins_a - 0.8686620153591614
+
+23) harry_maylie_a - 0.7829309235256374
+
+24) miss_rose_a - 0.7761327757756261
+
+Result for the vector: mrs_bedwin, coming from part b of the book
+Rank: 4 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9088885729842544
+
+1) charlotte_a - 0.9165661334991455
+
+2) mr_bumble_a - 0.9108824352218934
+
+3) mr_noah_claypole_a - 0.9097466415015858
+
+4) mrs_bedwin_a - 0.9088885729842544
+
+5) mr_fagin_a - 0.9018665493647203
+
+6) miss_nancy_a - 0.9005281447734724
+
+7) mrs_corney_a - 0.896967125300518
+
+8) mr_sowerberry_a - 0.8965048995469457
+
+9) mr_grimwig_a - 0.8962081074714661
+
+10) mr_toby_crackit_a - 0.894031888602265
+
+11) mr_brownlow_a - 0.8925414351386264
+
+12) mr_gamfield_a - 0.8831021979244563
+
+13) mr_william_sikes_a - 0.878204893798375
+
+14) charley_bates_a - 0.8779871536500974
+
+15) mr_chitling_a - 0.8748661428849589
+
+16) barney_a - 0.8719734992949427
+
+17) oliver_twist_a - 0.8632455549689811
+
+18) mr_giles_a - 0.8614766854487865
+
+19) mr_john_dawkins_a - 0.8573490466267454
+
+20) dick_a - 0.8537949919700623
+
+21) bill_sikes_a - 0.8535505707799769
+
+22) tom_white_a - 0.8235297799110413
+
+23) harry_maylie_a - 0.8063057661056519
+
+24) miss_rose_a - 0.7157398462295532
+
+Result for the vector: mr_gamfield, coming from part b of the book
+Rank: 2 out of 24 characters
+Cosine similarity to the co-referring vector: 0.7457909806308526
+
+1) mr_noah_claypole_a - 0.753207623958593
+
+2) mr_gamfield_a - 0.7457909806308526
+
+3) mr_brownlow_a - 0.7413418072062222
+
+4) oliver_twist_a - 0.7379452898567569
+
+5) mr_grimwig_a - 0.7372185744512944
+
+6) mr_chitling_a - 0.7359992141725051
+
+7) mr_fagin_a - 0.735730826854711
+
+8) barney_a - 0.7336488207369457
+
+9) bill_sikes_a - 0.7313653114976935
+
+10) mr_bumble_a - 0.7284600355762335
+
+11) mrs_corney_a - 0.72825448603848
+
+12) charlotte_a - 0.7238908574646213
+
+13) charley_bates_a - 0.7226269575802138
+
+14) miss_nancy_a - 0.7208821080537854
+
+15) mr_giles_a - 0.7202042126594748
+
+16) mr_william_sikes_a - 0.7200894403537764
+
+17) mr_toby_crackit_a - 0.719194803333902
+
+18) mrs_bedwin_a - 0.7106748819351246
+
+19) tom_white_a - 0.7076105649703417
+
+20) mr_sowerberry_a - 0.7057337375203967
+
+21) dick_a - 0.6971123995117915
+
+22) mr_john_dawkins_a - 0.6826837441106147
+
+23) miss_rose_a - 0.6184621680699498
+
+24) harry_maylie_a - 0.614671968539241
+
+Result for the vector: tom_white, coming from part b of the book
+Rank: 2 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9248886384036735
+
+1) bill_sikes_a - 0.9296400907957576
+
+2) tom_white_a - 0.9248886384036735
+
+3) mr_fagin_a - 0.9026085349269396
+
+4) barney_a - 0.902582660702271
+
+5) miss_nancy_a - 0.9022707132455169
+
+6) dick_a - 0.8991846710200514
+
+7) mr_brownlow_a - 0.8916280801074553
+
+8) mr_grimwig_a - 0.8909005192190568
+
+9) mr_william_sikes_a - 0.8901025456373538
+
+10) mr_giles_a - 0.8889113598413085
+
+11) mr_noah_claypole_a - 0.8863393860762766
+
+12) mrs_corney_a - 0.8862132233786779
+
+13) mrs_bedwin_a - 0.8852763967463136
+
+14) charlotte_a - 0.8847841288085027
+
+15) mr_bumble_a - 0.8828723291006496
+
+16) mr_chitling_a - 0.8815529154342885
+
+17) mr_gamfield_a - 0.8705769026967186
+
+18) mr_toby_crackit_a - 0.8617098670688346
+
+19) charley_bates_a - 0.8556865794752102
+
+20) oliver_twist_a - 0.8553212030136261
+
+21) mr_sowerberry_a - 0.8515050234204574
+
+22) mr_john_dawkins_a - 0.7662658463041263
+
+23) harry_maylie_a - 0.7083608123171575
+
+24) miss_rose_a - 0.702864369835388
+
+Result for the vector: mr_john_dawkins, coming from part b of the book
+Rank: 10 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9183731079101628
+
+1) mr_toby_crackit_a - 0.9352195262909002
+
+2) mr_chitling_a - 0.931519929676075
+
+3) mr_fagin_a - 0.926674714884128
+
+4) mr_noah_claypole_a - 0.9264800460910853
+
+5) mr_bumble_a - 0.9236438458627236
+
+6) mr_gamfield_a - 0.9229600016713149
+
+7) mr_brownlow_a - 0.9224581351093775
+
+8) oliver_twist_a - 0.9222725629806584
+
+9) mr_grimwig_a - 0.9219728065712949
+
+10) mr_john_dawkins_a - 0.9183731079101628
+
+11) mr_william_sikes_a - 0.916152906807377
+
+12) charley_bates_a - 0.9152195453643864
+
+13) miss_nancy_a - 0.9127362422504427
+
+14) mr_sowerberry_a - 0.9101415440651099
+
+15) mrs_bedwin_a - 0.9084021339895885
+
+16) mr_giles_a - 0.906225166281328
+
+17) barney_a - 0.906060917269157
+
+18) mrs_corney_a - 0.9016022144793289
+
+19) charlotte_a - 0.9011134446330947
+
+20) bill_sikes_a - 0.8873033590732144
+
+21) dick_a - 0.8723457379547217
+
+22) tom_white_a - 0.870339683910591
+
+23) harry_maylie_a - 0.7926187987696423
+
+24) miss_rose_a - 0.7390340411087312
+
+Result for the vector: charlotte, coming from part b of the book
+Rank: 2 out of 24 characters
+Cosine similarity to the co-referring vector: 0.9684550724572099
+
+1) miss_nancy_a - 0.972646594047574
+
+2) charlotte_a - 0.9684550724572099
+
+3) mrs_corney_a - 0.9642066359520233
+
+4) mr_fagin_a - 0.9631354146841927
+
+5) mr_bumble_a - 0.9596461271501453
+
+6) mr_noah_claypole_a - 0.958603791940892
+
+7) mr_brownlow_a - 0.9572320218730044
+
+8) mrs_bedwin_a - 0.9557116548499461
+
+9) mr_grimwig_a - 0.9534047786479992
+
+10) mr_toby_crackit_a - 0.9524443121221404
+
+11) bill_sikes_a - 0.951962709426907
+
+12) mr_william_sikes_a - 0.9516419936650382
+
+13) barney_a - 0.9500993371246664
+
+14) mr_chitling_a - 0.9484739899635585
+
+15) mr_gamfield_a - 0.945303994927644
+
+16) mr_giles_a - 0.944603822321273
+
+17) tom_white_a - 0.9395838903884823
+
+18) dick_a - 0.9369805976129357
+
+19) mr_sowerberry_a - 0.9331709901153131
+
+20) oliver_twist_a - 0.9289677696805011
+
+21) charley_bates_a - 0.927513535470592
+
+22) mr_john_dawkins_a - 0.871194176149035
+
+23) harry_maylie_a - 0.7921823015430389
+
+24) miss_rose_a - 0.7628835157017184
+
+Result for the vector: dick, coming from part b of the book
+Rank: 4 out of 24 characters
+Cosine similarity to the co-referring vector: 0.8472877922907184
+
+1) mr_noah_claypole_a - 0.8519130437426081
+
+2) mr_fagin_a - 0.8511371701278125
+
+3) mrs_corney_a - 0.8490518691416099
+
+4) dick_a - 0.8472877922907184
+
+5) mr_bumble_a - 0.8467905865076194
+
+6) charlotte_a - 0.8428867646590812
+
+7) mr_brownlow_a - 0.8406183564110173
+
+8) miss_nancy_a - 0.8380819349093592
+
+9) mr_grimwig_a - 0.8370729879053905
+
+10) mr_william_sikes_a - 0.8334493289426069
+
+11) bill_sikes_a - 0.830454628359168
+
+12) mr_gamfield_a - 0.8292009583353891
+
+13) mrs_bedwin_a - 0.8282721741037398
+
+14) mr_giles_a - 0.8255737877869291
+
+15) charley_bates_a - 0.8238879161081478
+
+16) mr_toby_crackit_a - 0.8234451132812908
+
+17) oliver_twist_a - 0.8225299437290545
+
+18) mr_sowerberry_a - 0.8195606225860111
+
+19) barney_a - 0.8191872239113087
+
+20) mr_chitling_a - 0.8167605836962262
+
+21) tom_white_a - 0.7918156037550501
+
+22) mr_john_dawkins_a - 0.7779965797668865
+
+23) harry_maylie_a - 0.73191002226949
+
+24) miss_rose_a - 0.645988685370845
+

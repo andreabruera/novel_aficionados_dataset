@@ -1,0 +1,1152 @@
+Result for the vector: man, coming from part i of the book
+Rank: 2 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8682138088131817
+
+1) people_a - 0.8781725095613322
+
+2) man_a - 0.8682138088131817
+
+3) family_a - 0.8595895087474307
+
+4) woman_a - 0.8516907857380024
+
+5) child_a - 0.8511519939394009
+
+6) one_a - 0.8274893061810333
+
+7) city_a - 0.8274387820101643
+
+8) thing_a - 0.826399803161627
+
+9) house_a - 0.8212370169900084
+
+10) work_a - 0.8186563849449215
+
+11) time_a - 0.8125251308113492
+
+12) money_a - 0.8114861733607172
+
+13) life_a - 0.80223716484088
+
+14) room_a - 0.7771954999682619
+
+15) year_a - 0.7476024031639152
+
+16) night_a - 0.7446400370979345
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.6453168180773757
+
+1) time_a - 0.6453168180773757
+
+2) life_a - 0.6309575282385956
+
+3) thing_a - 0.6274251563891686
+
+4) city_a - 0.6129106744634345
+
+5) house_a - 0.6103904843330383
+
+6) work_a - 0.6032809255551751
+
+7) family_a - 0.6012461185455322
+
+8) money_a - 0.5977523326873779
+
+9) woman_a - 0.5965312897125273
+
+10) people_a - 0.5952911972999573
+
+11) room_a - 0.5952214598655701
+
+12) child_a - 0.5901407599449158
+
+13) night_a - 0.5897759795188904
+
+14) man_a - 0.5842412214566775
+
+15) one_a - 0.5838828682899475
+
+16) year_a - 0.5561105873518842
+
+Result for the vector: thing, coming from part i of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8029728884149407
+
+1) thing_a - 0.8029728884149407
+
+2) people_a - 0.7483328880866953
+
+3) money_a - 0.7452943628675558
+
+4) work_a - 0.7285379656783416
+
+5) time_a - 0.7265538140205372
+
+6) house_a - 0.7256154149037156
+
+7) one_a - 0.7199426031181144
+
+8) life_a - 0.7175393181945519
+
+9) man_a - 0.7172648906707968
+
+10) child_a - 0.7152778845694253
+
+11) family_a - 0.7104464518491733
+
+12) woman_a - 0.6937889432499834
+
+13) city_a - 0.6934213177153307
+
+14) year_a - 0.6843473283623478
+
+15) room_a - 0.6816117547021253
+
+16) night_a - 0.6567888669027295
+
+Result for the vector: work, coming from part i of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9334476033778444
+
+1) work_a - 0.9334476033778444
+
+2) life_a - 0.8946749097496443
+
+3) house_a - 0.8869245648384094
+
+4) thing_a - 0.8830494950384218
+
+5) time_a - 0.8731394930565071
+
+6) family_a - 0.8711683750152588
+
+7) people_a - 0.8692278861999512
+
+8) money_a - 0.8665072917938232
+
+9) child_a - 0.8632093071937561
+
+10) city_a - 0.8623224660965902
+
+11) room_a - 0.8540605902671814
+
+12) one_a - 0.8530154824256897
+
+13) man_a - 0.8511430443695897
+
+14) woman_a - 0.8488067641498678
+
+15) night_a - 0.847699761390686
+
+16) year_a - 0.8197217691110524
+
+Result for the vector: night, coming from part i of the book
+Rank: 3 out of 16 characters
+Cosine similarity to the co-referring vector: 0.7541206185961561
+
+1) time_a - 0.7722159216790073
+
+2) year_a - 0.7559928152557026
+
+3) night_a - 0.7541206185961561
+
+4) family_a - 0.7367341800611286
+
+5) one_a - 0.7362075729617615
+
+6) thing_a - 0.7338228663100638
+
+7) work_a - 0.7252607777870281
+
+8) man_a - 0.7242978153938807
+
+9) woman_a - 0.7220517876821468
+
+10) house_a - 0.7155804295039739
+
+11) city_a - 0.7134698629379476
+
+12) people_a - 0.7124301448381171
+
+13) life_a - 0.7051415443420611
+
+14) room_a - 0.7040478234348136
+
+15) child_a - 0.6974199649596222
+
+16) money_a - 0.6963484521327608
+
+Result for the vector: house, coming from part i of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8212857842445374
+
+1) house_a - 0.8212857842445374
+
+2) room_a - 0.7924169301986694
+
+3) work_a - 0.7892701751428752
+
+4) city_a - 0.7795953417306787
+
+5) family_a - 0.7794015407562256
+
+6) life_a - 0.7769449023074083
+
+7) money_a - 0.7762409448623657
+
+8) thing_a - 0.7710620897375305
+
+9) time_a - 0.7707198721599516
+
+10) people_a - 0.7690601944923401
+
+11) child_a - 0.7601662278175354
+
+12) woman_a - 0.7433787805848954
+
+13) one_a - 0.7412242889404297
+
+14) man_a - 0.73848989468693
+
+15) night_a - 0.7240141034126282
+
+16) year_a - 0.7088236982331468
+
+Result for the vector: room, coming from part i of the book
+Rank: 2 out of 16 characters
+Cosine similarity to the co-referring vector: 0.7099664211273193
+
+1) house_a - 0.7365688681602478
+
+2) room_a - 0.7099664211273193
+
+3) city_a - 0.6844358820395658
+
+4) time_a - 0.6837588956212352
+
+5) thing_a - 0.6798353386023451
+
+6) family_a - 0.6738318800926208
+
+7) work_a - 0.6702569919671433
+
+8) woman_a - 0.6626792151534326
+
+9) night_a - 0.6522603631019592
+
+10) money_a - 0.6488369107246399
+
+11) child_a - 0.6485726237297058
+
+12) one_a - 0.6469573974609375
+
+13) people_a - 0.6429794430732727
+
+14) man_a - 0.6356219214942407
+
+15) life_a - 0.6203347897130546
+
+16) year_a - 0.619191371250668
+
+Result for the vector: child, coming from part i of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9312045255662363
+
+1) child_a - 0.9312045255662363
+
+2) family_a - 0.9162049566568425
+
+3) woman_a - 0.9057239237859204
+
+4) man_a - 0.896838202601407
+
+5) people_a - 0.8965975909411193
+
+6) house_a - 0.8499625578511527
+
+7) one_a - 0.844297553428935
+
+8) life_a - 0.8430588087685075
+
+9) city_a - 0.8428147277699748
+
+10) work_a - 0.8363671053538623
+
+11) money_a - 0.8356727610728971
+
+12) thing_a - 0.8309089889851548
+
+13) time_a - 0.8303060081874739
+
+14) room_a - 0.8079054000349466
+
+15) year_a - 0.8011920213344123
+
+16) night_a - 0.7722257605858377
+
+Result for the vector: one, coming from part i of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8436980247497559
+
+1) one_a - 0.8436980247497559
+
+2) work_a - 0.8076316828947271
+
+3) people_a - 0.8062639832496643
+
+4) family_a - 0.8029935956001282
+
+5) man_a - 0.7986955402726635
+
+6) life_a - 0.798127436861111
+
+7) thing_a - 0.7964783432198572
+
+8) woman_a - 0.793477976127803
+
+9) time_a - 0.7918049569013703
+
+10) child_a - 0.7896481156349182
+
+11) house_a - 0.7867189645767212
+
+12) city_a - 0.7812577746799316
+
+13) money_a - 0.764373779296875
+
+14) room_a - 0.7637156844139099
+
+15) night_a - 0.7523203492164612
+
+16) year_a - 0.7416781937075752
+
+Result for the vector: money, coming from part i of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8129289150238037
+
+1) money_a - 0.8129289150238037
+
+2) time_a - 0.7726748450204651
+
+3) child_a - 0.7718753814697266
+
+4) family_a - 0.7664430141448975
+
+5) woman_a - 0.7648748387359038
+
+6) house_a - 0.7628845572471619
+
+7) life_a - 0.762498883903165
+
+8) thing_a - 0.7551385906256098
+
+9) work_a - 0.7429036055264722
+
+10) man_a - 0.7391860174162461
+
+11) one_a - 0.737831711769104
+
+12) people_a - 0.7346895933151245
+
+13) city_a - 0.7249353259879013
+
+14) room_a - 0.7155687808990479
+
+15) year_a - 0.6765720441000447
+
+16) night_a - 0.6734784245491028
+
+Result for the vector: woman, coming from part i of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8397588980126056
+
+1) woman_a - 0.8397588980126056
+
+2) child_a - 0.8178725242614746
+
+3) family_a - 0.8010718822479248
+
+4) man_a - 0.7932594768118291
+
+5) people_a - 0.788252055644989
+
+6) one_a - 0.7628977298736572
+
+7) city_a - 0.7583501627027849
+
+8) house_a - 0.744587242603302
+
+9) life_a - 0.738032551046311
+
+10) thing_a - 0.7357606449269877
+
+11) work_a - 0.734731809214843
+
+12) money_a - 0.7313307523727417
+
+13) time_a - 0.7308479983119976
+
+14) room_a - 0.7120969295501709
+
+15) night_a - 0.7006194591522217
+
+16) year_a - 0.6939208689975233
+
+Result for the vector: life, coming from part i of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.6839958617689801
+
+1) life_a - 0.6839958617689801
+
+2) thing_a - 0.6837044954299976
+
+3) people_a - 0.6750440403845346
+
+4) money_a - 0.6531887443774201
+
+5) child_a - 0.6530244143619796
+
+6) man_a - 0.6453996858715461
+
+7) work_a - 0.6449993252754257
+
+8) time_a - 0.6348571938106052
+
+9) house_a - 0.6341393967949995
+
+10) family_a - 0.6300628560818955
+
+11) city_a - 0.6266060694094955
+
+12) woman_a - 0.6222923358344142
+
+13) one_a - 0.6154304513591808
+
+14) room_a - 0.6090669398943757
+
+15) year_a - 0.5858663320541423
+
+16) night_a - 0.5693410378301772
+
+Result for the vector: people, coming from part i of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8386795020890547
+
+1) people_a - 0.8386795020890547
+
+2) man_a - 0.8166454325107129
+
+3) child_a - 0.7987851620444573
+
+4) family_a - 0.7830887566155951
+
+5) woman_a - 0.7800723081805645
+
+6) one_a - 0.750371113397414
+
+7) city_a - 0.746652112009745
+
+8) thing_a - 0.7355789261366217
+
+9) house_a - 0.7186405826425217
+
+10) life_a - 0.7177083401009441
+
+11) money_a - 0.7120146923056441
+
+12) time_a - 0.7103503346443226
+
+13) work_a - 0.7074295631135031
+
+14) year_a - 0.6758940606243539
+
+15) room_a - 0.6739747122541253
+
+16) night_a - 0.6684603292667681
+
+Result for the vector: family, coming from part i of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.935329258441925
+
+1) family_a - 0.935329258441925
+
+2) child_a - 0.903266966342926
+
+3) woman_a - 0.8963897495385934
+
+4) people_a - 0.8807670474052429
+
+5) house_a - 0.8774969577789307
+
+6) man_a - 0.8759215326215726
+
+7) city_a - 0.8739022166845603
+
+8) life_a - 0.8553660088341286
+
+9) money_a - 0.8451270461082458
+
+10) work_a - 0.8403355574407856
+
+11) thing_a - 0.8363406755721181
+
+12) one_a - 0.83623206615448
+
+13) time_a - 0.8312666911641786
+
+14) room_a - 0.8257527351379395
+
+15) year_a - 0.7707348006525768
+
+16) night_a - 0.7581101059913635
+
+Result for the vector: year, coming from part i of the book
+Rank: 4 out of 16 characters
+Cosine similarity to the co-referring vector: 0.7286853411401991
+
+1) night_a - 0.731695955845355
+
+2) time_a - 0.7296747460476679
+
+3) work_a - 0.7292055108906562
+
+4) year_a - 0.7286853411401991
+
+5) life_a - 0.7148380066502844
+
+6) house_a - 0.7078272737110232
+
+7) family_a - 0.7076117432962454
+
+8) city_a - 0.70411536979333
+
+9) room_a - 0.6929805302304531
+
+10) people_a - 0.6841332332014975
+
+11) thing_a - 0.6838683689793534
+
+12) one_a - 0.670449674467716
+
+13) money_a - 0.6671646237818587
+
+14) child_a - 0.6630656119941749
+
+15) woman_a - 0.6621133878366229
+
+16) man_a - 0.6613505074218977
+
+Result for the vector: city, coming from part i of the book
+Rank: 5 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8035202973746736
+
+1) family_a - 0.822621892534383
+
+2) house_a - 0.811255943104272
+
+3) life_a - 0.8098744493947432
+
+4) work_a - 0.8094948757296949
+
+5) city_a - 0.8035202973746736
+
+6) room_a - 0.7929571394349864
+
+7) people_a - 0.7844016084431658
+
+8) child_a - 0.770946575942841
+
+9) time_a - 0.7580406069755609
+
+10) man_a - 0.7546303722042188
+
+11) woman_a - 0.7545717133709308
+
+12) thing_a - 0.7530327733716042
+
+13) money_a - 0.7520558981862142
+
+14) year_a - 0.7226850124973044
+
+15) night_a - 0.7168231775270011
+
+16) one_a - 0.7067173298169787
+
+Result for the vector: man, coming from part a of the book
+Rank: 3 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8682138088131817
+
+1) child_wiki - 0.896838202601407
+
+2) family_wiki - 0.8759215326215726
+
+3) man_wiki - 0.8682138088131817
+
+4) work_wiki - 0.8511430443695897
+
+5) people_wiki - 0.8166454325107129
+
+6) one_wiki - 0.7986955402726635
+
+7) woman_wiki - 0.7932594768118291
+
+8) city_wiki - 0.7546303722042188
+
+9) money_wiki - 0.7391860174162461
+
+10) house_wiki - 0.73848989468693
+
+11) night_wiki - 0.7242978153938807
+
+12) thing_wiki - 0.7172648906707968
+
+13) year_wiki - 0.6613505074218977
+
+14) life_wiki - 0.6453996858715461
+
+15) room_wiki - 0.6356219214942407
+
+16) time_wiki - 0.5842412214566775
+
+Result for the vector: time, coming from part a of the book
+Rank: 15 out of 16 characters
+Cosine similarity to the co-referring vector: 0.6453168180773757
+
+1) work_wiki - 0.8731394930565071
+
+2) family_wiki - 0.8312666911641786
+
+3) child_wiki - 0.8303060081874739
+
+4) man_wiki - 0.8125251308113492
+
+5) one_wiki - 0.7918049569013703
+
+6) money_wiki - 0.7726748450204651
+
+7) night_wiki - 0.7722159216790073
+
+8) house_wiki - 0.7707198721599516
+
+9) city_wiki - 0.7580406069755609
+
+10) woman_wiki - 0.7308479983119976
+
+11) year_wiki - 0.7296747460476679
+
+12) thing_wiki - 0.7265538140205372
+
+13) people_wiki - 0.7103503346443226
+
+14) room_wiki - 0.6837588956212352
+
+15) time_wiki - 0.6453168180773757
+
+16) life_wiki - 0.6348571938106052
+
+Result for the vector: thing, coming from part a of the book
+Rank: 5 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8029728884149407
+
+1) work_wiki - 0.8830494950384218
+
+2) family_wiki - 0.8363406755721181
+
+3) child_wiki - 0.8309089889851548
+
+4) man_wiki - 0.826399803161627
+
+5) thing_wiki - 0.8029728884149407
+
+6) one_wiki - 0.7964783432198572
+
+7) house_wiki - 0.7710620897375305
+
+8) money_wiki - 0.7551385906256098
+
+9) city_wiki - 0.7530327733716042
+
+10) woman_wiki - 0.7357606449269877
+
+11) people_wiki - 0.7355789261366217
+
+12) night_wiki - 0.7338228663100638
+
+13) year_wiki - 0.6838683689793534
+
+14) life_wiki - 0.6837044954299976
+
+15) room_wiki - 0.6798353386023451
+
+16) time_wiki - 0.6274251563891686
+
+Result for the vector: work, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9334476033778444
+
+1) work_wiki - 0.9334476033778444
+
+2) family_wiki - 0.8403355574407856
+
+3) child_wiki - 0.8363671053538623
+
+4) man_wiki - 0.8186563849449215
+
+5) city_wiki - 0.8094948757296949
+
+6) one_wiki - 0.8076316828947271
+
+7) house_wiki - 0.7892701751428752
+
+8) money_wiki - 0.7429036055264722
+
+9) woman_wiki - 0.734731809214843
+
+10) year_wiki - 0.7292055108906562
+
+11) thing_wiki - 0.7285379656783416
+
+12) night_wiki - 0.7252607777870281
+
+13) people_wiki - 0.7074295631135031
+
+14) room_wiki - 0.6702569919671433
+
+15) life_wiki - 0.6449993252754257
+
+16) time_wiki - 0.6032809255551751
+
+Result for the vector: night, coming from part a of the book
+Rank: 4 out of 16 characters
+Cosine similarity to the co-referring vector: 0.7541206185961561
+
+1) work_wiki - 0.847699761390686
+
+2) child_wiki - 0.7722257605858377
+
+3) family_wiki - 0.7581101059913635
+
+4) night_wiki - 0.7541206185961561
+
+5) one_wiki - 0.7523203492164612
+
+6) man_wiki - 0.7446400370979345
+
+7) year_wiki - 0.731695955845355
+
+8) house_wiki - 0.7240141034126282
+
+9) city_wiki - 0.7168231775270011
+
+10) woman_wiki - 0.7006194591522217
+
+11) money_wiki - 0.6734784245491028
+
+12) people_wiki - 0.6684603292667681
+
+13) thing_wiki - 0.6567888669027295
+
+14) room_wiki - 0.6522603631019592
+
+15) time_wiki - 0.5897759795188904
+
+16) life_wiki - 0.5693410378301772
+
+Result for the vector: house, coming from part a of the book
+Rank: 4 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8212857842445374
+
+1) work_wiki - 0.8869245648384094
+
+2) family_wiki - 0.8774969577789307
+
+3) child_wiki - 0.8499625578511527
+
+4) house_wiki - 0.8212857842445374
+
+5) man_wiki - 0.8212370169900084
+
+6) city_wiki - 0.811255943104272
+
+7) one_wiki - 0.7867189645767212
+
+8) money_wiki - 0.7628845572471619
+
+9) woman_wiki - 0.744587242603302
+
+10) room_wiki - 0.7365688681602478
+
+11) thing_wiki - 0.7256154149037156
+
+12) people_wiki - 0.7186405826425217
+
+13) night_wiki - 0.7155804295039739
+
+14) year_wiki - 0.7078272737110232
+
+15) life_wiki - 0.6341393967949995
+
+16) time_wiki - 0.6103904843330383
+
+Result for the vector: room, coming from part a of the book
+Rank: 10 out of 16 characters
+Cosine similarity to the co-referring vector: 0.7099664211273193
+
+1) work_wiki - 0.8540605902671814
+
+2) family_wiki - 0.8257527351379395
+
+3) child_wiki - 0.8079054000349466
+
+4) city_wiki - 0.7929571394349864
+
+5) house_wiki - 0.7924169301986694
+
+6) man_wiki - 0.7771954999682619
+
+7) one_wiki - 0.7637156844139099
+
+8) money_wiki - 0.7155687808990479
+
+9) woman_wiki - 0.7120969295501709
+
+10) room_wiki - 0.7099664211273193
+
+11) night_wiki - 0.7040478234348136
+
+12) year_wiki - 0.6929805302304531
+
+13) thing_wiki - 0.6816117547021253
+
+14) people_wiki - 0.6739747122541253
+
+15) life_wiki - 0.6090669398943757
+
+16) time_wiki - 0.5952214598655701
+
+Result for the vector: child, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9312045255662363
+
+1) child_wiki - 0.9312045255662363
+
+2) family_wiki - 0.903266966342926
+
+3) work_wiki - 0.8632093071937561
+
+4) man_wiki - 0.8511519939394009
+
+5) woman_wiki - 0.8178725242614746
+
+6) people_wiki - 0.7987851620444573
+
+7) one_wiki - 0.7896481156349182
+
+8) money_wiki - 0.7718753814697266
+
+9) city_wiki - 0.770946575942841
+
+10) house_wiki - 0.7601662278175354
+
+11) thing_wiki - 0.7152778845694253
+
+12) night_wiki - 0.6974199649596222
+
+13) year_wiki - 0.6630656119941749
+
+14) life_wiki - 0.6530244143619796
+
+15) room_wiki - 0.6485726237297058
+
+16) time_wiki - 0.5901407599449158
+
+Result for the vector: one, coming from part a of the book
+Rank: 3 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8436980247497559
+
+1) work_wiki - 0.8530154824256897
+
+2) child_wiki - 0.844297553428935
+
+3) one_wiki - 0.8436980247497559
+
+4) family_wiki - 0.83623206615448
+
+5) man_wiki - 0.8274893061810333
+
+6) woman_wiki - 0.7628977298736572
+
+7) people_wiki - 0.750371113397414
+
+8) house_wiki - 0.7412242889404297
+
+9) money_wiki - 0.737831711769104
+
+10) night_wiki - 0.7362075729617615
+
+11) thing_wiki - 0.7199426031181144
+
+12) city_wiki - 0.7067173298169787
+
+13) year_wiki - 0.670449674467716
+
+14) room_wiki - 0.6469573974609375
+
+15) life_wiki - 0.6154304513591808
+
+16) time_wiki - 0.5838828682899475
+
+Result for the vector: money, coming from part a of the book
+Rank: 4 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8129289150238037
+
+1) work_wiki - 0.8665072917938232
+
+2) family_wiki - 0.8451270461082458
+
+3) child_wiki - 0.8356727610728971
+
+4) money_wiki - 0.8129289150238037
+
+5) man_wiki - 0.8114861733607172
+
+6) house_wiki - 0.7762409448623657
+
+7) one_wiki - 0.764373779296875
+
+8) city_wiki - 0.7520558981862142
+
+9) thing_wiki - 0.7452943628675558
+
+10) woman_wiki - 0.7313307523727417
+
+11) people_wiki - 0.7120146923056441
+
+12) night_wiki - 0.6963484521327608
+
+13) year_wiki - 0.6671646237818587
+
+14) life_wiki - 0.6531887443774201
+
+15) room_wiki - 0.6488369107246399
+
+16) time_wiki - 0.5977523326873779
+
+Result for the vector: woman, coming from part a of the book
+Rank: 5 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8397588980126056
+
+1) child_wiki - 0.9057239237859204
+
+2) family_wiki - 0.8963897495385934
+
+3) man_wiki - 0.8516907857380024
+
+4) work_wiki - 0.8488067641498678
+
+5) woman_wiki - 0.8397588980126056
+
+6) one_wiki - 0.793477976127803
+
+7) people_wiki - 0.7800723081805645
+
+8) money_wiki - 0.7648748387359038
+
+9) city_wiki - 0.7545717133709308
+
+10) house_wiki - 0.7433787805848954
+
+11) night_wiki - 0.7220517876821468
+
+12) thing_wiki - 0.6937889432499834
+
+13) room_wiki - 0.6626792151534326
+
+14) year_wiki - 0.6621133878366229
+
+15) life_wiki - 0.6222923358344142
+
+16) time_wiki - 0.5965312897125273
+
+Result for the vector: life, coming from part a of the book
+Rank: 14 out of 16 characters
+Cosine similarity to the co-referring vector: 0.6839958617689801
+
+1) work_wiki - 0.8946749097496443
+
+2) family_wiki - 0.8553660088341286
+
+3) child_wiki - 0.8430588087685075
+
+4) city_wiki - 0.8098744493947432
+
+5) man_wiki - 0.80223716484088
+
+6) one_wiki - 0.798127436861111
+
+7) house_wiki - 0.7769449023074083
+
+8) money_wiki - 0.762498883903165
+
+9) woman_wiki - 0.738032551046311
+
+10) people_wiki - 0.7177083401009441
+
+11) thing_wiki - 0.7175393181945519
+
+12) year_wiki - 0.7148380066502844
+
+13) night_wiki - 0.7051415443420611
+
+14) life_wiki - 0.6839958617689801
+
+15) time_wiki - 0.6309575282385956
+
+16) room_wiki - 0.6203347897130546
+
+Result for the vector: people, coming from part a of the book
+Rank: 5 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8386795020890547
+
+1) child_wiki - 0.8965975909411193
+
+2) family_wiki - 0.8807670474052429
+
+3) man_wiki - 0.8781725095613322
+
+4) work_wiki - 0.8692278861999512
+
+5) people_wiki - 0.8386795020890547
+
+6) one_wiki - 0.8062639832496643
+
+7) woman_wiki - 0.788252055644989
+
+8) city_wiki - 0.7844016084431658
+
+9) house_wiki - 0.7690601944923401
+
+10) thing_wiki - 0.7483328880866953
+
+11) money_wiki - 0.7346895933151245
+
+12) night_wiki - 0.7124301448381171
+
+13) year_wiki - 0.6841332332014975
+
+14) life_wiki - 0.6750440403845346
+
+15) room_wiki - 0.6429794430732727
+
+16) time_wiki - 0.5952911972999573
+
+Result for the vector: family, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.935329258441925
+
+1) family_wiki - 0.935329258441925
+
+2) child_wiki - 0.9162049566568425
+
+3) work_wiki - 0.8711683750152588
+
+4) man_wiki - 0.8595895087474307
+
+5) city_wiki - 0.822621892534383
+
+6) one_wiki - 0.8029935956001282
+
+7) woman_wiki - 0.8010718822479248
+
+8) people_wiki - 0.7830887566155951
+
+9) house_wiki - 0.7794015407562256
+
+10) money_wiki - 0.7664430141448975
+
+11) night_wiki - 0.7367341800611286
+
+12) thing_wiki - 0.7104464518491733
+
+13) year_wiki - 0.7076117432962454
+
+14) room_wiki - 0.6738318800926208
+
+15) life_wiki - 0.6300628560818955
+
+16) time_wiki - 0.6012461185455322
+
+Result for the vector: year, coming from part a of the book
+Rank: 7 out of 16 characters
+Cosine similarity to the co-referring vector: 0.7286853411401991
+
+1) work_wiki - 0.8197217691110524
+
+2) child_wiki - 0.8011920213344123
+
+3) family_wiki - 0.7707348006525768
+
+4) night_wiki - 0.7559928152557026
+
+5) man_wiki - 0.7476024031639152
+
+6) one_wiki - 0.7416781937075752
+
+7) year_wiki - 0.7286853411401991
+
+8) city_wiki - 0.7226850124973044
+
+9) house_wiki - 0.7088236982331468
+
+10) woman_wiki - 0.6939208689975233
+
+11) thing_wiki - 0.6843473283623478
+
+12) money_wiki - 0.6765720441000447
+
+13) people_wiki - 0.6758940606243539
+
+14) room_wiki - 0.619191371250668
+
+15) life_wiki - 0.5858663320541423
+
+16) time_wiki - 0.5561105873518842
+
+Result for the vector: city, coming from part a of the book
+Rank: 5 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8035202973746736
+
+1) family_wiki - 0.8739022166845603
+
+2) work_wiki - 0.8623224660965902
+
+3) child_wiki - 0.8428147277699748
+
+4) man_wiki - 0.8274387820101643
+
+5) city_wiki - 0.8035202973746736
+
+6) one_wiki - 0.7812577746799316
+
+7) house_wiki - 0.7795953417306787
+
+8) woman_wiki - 0.7583501627027849
+
+9) people_wiki - 0.746652112009745
+
+10) money_wiki - 0.7249353259879013
+
+11) night_wiki - 0.7134698629379476
+
+12) year_wiki - 0.70411536979333
+
+13) thing_wiki - 0.6934213177153307
+
+14) room_wiki - 0.6844358820395658
+
+15) life_wiki - 0.6266060694094955
+
+16) time_wiki - 0.6129106744634345
+

@@ -1,0 +1,9 @@
+Test: doppelganger test
+Results for: The_Adventures_of_Tom_Sawyer_by_Mark_Twa
+Model used: common nouns matched
+
+Within-novel median: 1.0
+Within-novel average: 2.78125
+Within-novel MRR: 0.7447989944083694
+Within-novel standard deviation of the scores: 3.4976275441361677
+Amount of entities considered: 16.0

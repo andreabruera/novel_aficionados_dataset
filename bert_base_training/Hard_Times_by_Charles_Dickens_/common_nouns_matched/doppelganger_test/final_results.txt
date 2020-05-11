@@ -1,0 +1,9 @@
+Test: doppelganger test
+Results for: Hard_Times_by_Charles_Dickens_
+Model used: common nouns matched
+
+Within-novel median: 1.0
+Within-novel average: 1.3
+Within-novel MRR: 0.9239583333333334
+Within-novel standard deviation of the scores: 1.1445523142259597
+Amount of entities considered: 20.0

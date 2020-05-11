@@ -1,0 +1,140 @@
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9312855282809002
+
+1) man_a - 0.9312855282809002
+
+2) philosopher_a - 0.8956544007946051
+
+3) woman_a - 0.876422874714309
+
+4) thing_a - 0.8639706969261169
+
+5) day_a - 0.8408304452896118
+
+Result for the vector: woman, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9350397625541979
+
+1) woman_a - 0.9350397625541979
+
+2) man_a - 0.9242425330660565
+
+3) philosopher_a - 0.8879456851498772
+
+4) day_a - 0.8222875806942544
+
+5) thing_a - 0.8204465126459046
+
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8879731428583277
+
+1) day_a - 0.8879731428583277
+
+2) man_a - 0.8301763230877559
+
+3) thing_a - 0.8287711782412589
+
+4) philosopher_a - 0.8209909965970522
+
+5) woman_a - 0.7890682674490803
+
+Result for the vector: thing, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8413424993361547
+
+1) thing_a - 0.8413424993361547
+
+2) philosopher_a - 0.797865509668814
+
+3) man_a - 0.7760769822666335
+
+4) day_a - 0.7506385893010266
+
+5) woman_a - 0.722694602333856
+
+Result for the vector: philosopher, coming from part i of the book
+Rank: 2 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8812056517241893
+
+1) man_a - 0.8952598963445617
+
+2) philosopher_a - 0.8812056517241893
+
+3) thing_a - 0.867974773886833
+
+4) woman_a - 0.8504896849102106
+
+5) day_a - 0.8472321215591346
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9312855282809002
+
+1) man_wiki - 0.9312855282809002
+
+2) woman_wiki - 0.9242425330660565
+
+3) philosopher_wiki - 0.8952598963445617
+
+4) day_wiki - 0.8301763230877559
+
+5) thing_wiki - 0.7760769822666335
+
+Result for the vector: woman, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9350397625541979
+
+1) woman_wiki - 0.9350397625541979
+
+2) man_wiki - 0.876422874714309
+
+3) philosopher_wiki - 0.8504896849102106
+
+4) day_wiki - 0.7890682674490803
+
+5) thing_wiki - 0.722694602333856
+
+Result for the vector: day, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8879731428583277
+
+1) day_wiki - 0.8879731428583277
+
+2) philosopher_wiki - 0.8472321215591346
+
+3) man_wiki - 0.8408304452896118
+
+4) woman_wiki - 0.8222875806942544
+
+5) thing_wiki - 0.7506385893010266
+
+Result for the vector: thing, coming from part a of the book
+Rank: 3 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8413424993361547
+
+1) philosopher_wiki - 0.867974773886833
+
+2) man_wiki - 0.8639706969261169
+
+3) thing_wiki - 0.8413424993361547
+
+4) day_wiki - 0.8287711782412589
+
+5) woman_wiki - 0.8204465126459046
+
+Result for the vector: philosopher, coming from part a of the book
+Rank: 3 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8812056517241893
+
+1) man_wiki - 0.8956544007946051
+
+2) woman_wiki - 0.8879456851498772
+
+3) philosopher_wiki - 0.8812056517241893
+
+4) day_wiki - 0.8209909965970522
+
+5) thing_wiki - 0.797865509668814
+

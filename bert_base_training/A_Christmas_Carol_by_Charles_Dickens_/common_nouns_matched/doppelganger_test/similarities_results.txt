@@ -1,0 +1,140 @@
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9727600861620767
+
+1) man_b - 0.9727600861620767
+
+2) gentleman_b - 0.9212566018104619
+
+3) spirit_b - 0.8711600303649965
+
+4) day_b - 0.8598511898606321
+
+5) door_b - 0.8291165828704893
+
+Result for the vector: door, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9683946948286726
+
+1) door_b - 0.9683946948286726
+
+2) man_b - 0.8527066883198455
+
+3) day_b - 0.8309440612792969
+
+4) spirit_b - 0.8239641084649643
+
+5) gentleman_b - 0.7843702903014609
+
+Result for the vector: day, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.930692617255891
+
+1) day_b - 0.930692617255891
+
+2) man_b - 0.8943192551757253
+
+3) spirit_b - 0.8847380876541201
+
+4) door_b - 0.842536985874182
+
+5) gentleman_b - 0.7856897115707453
+
+Result for the vector: gentleman, coming from part a of the book
+Rank: 2 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9000651121217146
+
+1) man_b - 0.9512653379878352
+
+2) gentleman_b - 0.9000651121217146
+
+3) spirit_b - 0.8924555650300461
+
+4) day_b - 0.8884919815356737
+
+5) door_b - 0.8454477602777195
+
+Result for the vector: spirit, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.877846491015925
+
+1) spirit_b - 0.877846491015925
+
+2) man_b - 0.8608030420302626
+
+3) day_b - 0.8544088173874189
+
+4) door_b - 0.7845515585767568
+
+5) gentleman_b - 0.7647487468643113
+
+Result for the vector: man, coming from part b of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9727600861620767
+
+1) man_a - 0.9727600861620767
+
+2) gentleman_a - 0.9512653379878352
+
+3) day_a - 0.8943192551757253
+
+4) spirit_a - 0.8608030420302626
+
+5) door_a - 0.8527066883198455
+
+Result for the vector: door, coming from part b of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9683946948286726
+
+1) door_a - 0.9683946948286726
+
+2) gentleman_a - 0.8454477602777195
+
+3) day_a - 0.842536985874182
+
+4) man_a - 0.8291165828704893
+
+5) spirit_a - 0.7845515585767568
+
+Result for the vector: day, coming from part b of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.930692617255891
+
+1) day_a - 0.930692617255891
+
+2) gentleman_a - 0.8884919815356737
+
+3) man_a - 0.8598511898606321
+
+4) spirit_a - 0.8544088173874189
+
+5) door_a - 0.8309440612792969
+
+Result for the vector: gentleman, coming from part b of the book
+Rank: 2 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9000651121217146
+
+1) man_a - 0.9212566018104619
+
+2) gentleman_a - 0.9000651121217146
+
+3) day_a - 0.7856897115707453
+
+4) door_a - 0.7843702903014609
+
+5) spirit_a - 0.7647487468643113
+
+Result for the vector: spirit, coming from part b of the book
+Rank: 3 out of 5 characters
+Cosine similarity to the co-referring vector: 0.877846491015925
+
+1) gentleman_a - 0.8924555650300461
+
+2) day_a - 0.8847380876541201
+
+3) spirit_a - 0.877846491015925
+
+4) man_a - 0.8711600303649965
+
+5) door_a - 0.8239641084649643
+

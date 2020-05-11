@@ -1,0 +1,12 @@
+95	night_nights_Night_NIGHT
+55	cottage_cottages
+50	voice_voices
+45	sun
+27	kindness
+25	body_bodies
+25	discovery_discoveries
+23	kind_kinds
+22	account_accounts
+13	cheek_cheeks
+12	success
+10	enterprise

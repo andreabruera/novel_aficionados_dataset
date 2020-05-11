@@ -1,0 +1,396 @@
+Result for the vector: girl, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9320933182295171
+
+1) girl_a - 0.9320933182295171
+
+2) woman_a - 0.8640545106015374
+
+3) daughter_a - 0.8614160418510498
+
+4) man_a - 0.8536765997024297
+
+5) thing_a - 0.8395704185578605
+
+6) people_a - 0.8348017039540492
+
+7) way_a - 0.8315278887748777
+
+8) sir_a - 0.8219095958417427
+
+9) flower_a - 0.7429020098330986
+
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8996645748415352
+
+1) man_a - 0.8996645748415352
+
+2) woman_a - 0.8881318171142212
+
+3) daughter_a - 0.8870914645736553
+
+4) people_a - 0.8602982592938316
+
+5) sir_a - 0.8514378070831299
+
+6) thing_a - 0.849825824791963
+
+7) girl_a - 0.8498246073722839
+
+8) way_a - 0.8469159098317692
+
+9) flower_a - 0.7826189865242845
+
+Result for the vector: way, coming from part i of the book
+Rank: 2 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7665795366073207
+
+1) thing_a - 0.7696898946258488
+
+2) way_a - 0.7665795366073207
+
+3) people_a - 0.7335866530887395
+
+4) daughter_a - 0.7183124162778358
+
+5) woman_a - 0.7109889003929247
+
+6) man_a - 0.7035782337188771
+
+7) girl_a - 0.6785057974752321
+
+8) sir_a - 0.6669269998713148
+
+9) flower_a - 0.6218363046646163
+
+Result for the vector: woman, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8896632393893551
+
+1) woman_a - 0.8896632393893551
+
+2) man_a - 0.8599694883805223
+
+3) daughter_a - 0.8585772002591386
+
+4) thing_a - 0.8313976774036196
+
+5) girl_a - 0.8248335123062134
+
+6) people_a - 0.8239916353215795
+
+7) way_a - 0.8085118050270211
+
+8) sir_a - 0.7708941698074341
+
+9) flower_a - 0.74039737822994
+
+Result for the vector: thing, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7101781791554796
+
+1) thing_a - 0.7101781791554796
+
+2) way_a - 0.7076344279159804
+
+3) daughter_a - 0.6776026881455601
+
+4) man_a - 0.6682515741811613
+
+5) woman_a - 0.6681869230493227
+
+6) people_a - 0.6484630478118457
+
+7) girl_a - 0.6319467017634723
+
+8) sir_a - 0.6036442698134267
+
+9) flower_a - 0.5894303848830212
+
+Result for the vector: daughter, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8231619105838606
+
+1) daughter_a - 0.8231619105838606
+
+2) woman_a - 0.7726816629780856
+
+3) people_a - 0.7626216128613541
+
+4) man_a - 0.7515168637941412
+
+5) thing_a - 0.7343881945129694
+
+6) way_a - 0.7324300567847469
+
+7) girl_a - 0.7165663838386536
+
+8) sir_a - 0.7069737911224365
+
+9) flower_a - 0.6964374003671062
+
+Result for the vector: flower, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9226868748664921
+
+1) flower_a - 0.9226868748664921
+
+2) daughter_a - 0.8190244055957311
+
+3) thing_a - 0.8091808316355729
+
+4) woman_a - 0.8082155230109639
+
+5) people_a - 0.8021420122469799
+
+6) man_a - 0.7990664243698177
+
+7) way_a - 0.7932923086533179
+
+8) girl_a - 0.7741919294481333
+
+9) sir_a - 0.7526577262486396
+
+Result for the vector: sir, coming from part i of the book
+Rank: 4 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7415944337844849
+
+1) people_a - 0.7561425275972572
+
+2) daughter_a - 0.7464606317007179
+
+3) thing_a - 0.7419877273436707
+
+4) sir_a - 0.7415944337844849
+
+5) girl_a - 0.7373561859130859
+
+6) way_a - 0.7340542832580649
+
+7) man_a - 0.7323303063112693
+
+8) woman_a - 0.7266762310275074
+
+9) flower_a - 0.6299297589021788
+
+Result for the vector: people, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7670088589803338
+
+1) people_a - 0.7670088589803338
+
+2) thing_a - 0.7064436113634958
+
+3) daughter_a - 0.7019288539886525
+
+4) woman_a - 0.694457396038979
+
+5) man_a - 0.6934258572370836
+
+6) girl_a - 0.6798516917140313
+
+7) way_a - 0.669913589954381
+
+8) sir_a - 0.6391594194864892
+
+9) flower_a - 0.6124263539822523
+
+Result for the vector: girl, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9320933182295171
+
+1) girl_wiki - 0.9320933182295171
+
+2) man_wiki - 0.8498246073722839
+
+3) woman_wiki - 0.8248335123062134
+
+4) flower_wiki - 0.7741919294481333
+
+5) sir_wiki - 0.7373561859130859
+
+6) daughter_wiki - 0.7165663838386536
+
+7) people_wiki - 0.6798516917140313
+
+8) way_wiki - 0.6785057974752321
+
+9) thing_wiki - 0.6319467017634723
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8996645748415352
+
+1) man_wiki - 0.8996645748415352
+
+2) woman_wiki - 0.8599694883805223
+
+3) girl_wiki - 0.8536765997024297
+
+4) flower_wiki - 0.7990664243698177
+
+5) daughter_wiki - 0.7515168637941412
+
+6) sir_wiki - 0.7323303063112693
+
+7) way_wiki - 0.7035782337188771
+
+8) people_wiki - 0.6934258572370836
+
+9) thing_wiki - 0.6682515741811613
+
+Result for the vector: way, coming from part a of the book
+Rank: 5 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7665795366073207
+
+1) man_wiki - 0.8469159098317692
+
+2) girl_wiki - 0.8315278887748777
+
+3) woman_wiki - 0.8085118050270211
+
+4) flower_wiki - 0.7932923086533179
+
+5) way_wiki - 0.7665795366073207
+
+6) sir_wiki - 0.7340542832580649
+
+7) daughter_wiki - 0.7324300567847469
+
+8) thing_wiki - 0.7076344279159804
+
+9) people_wiki - 0.669913589954381
+
+Result for the vector: woman, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8896632393893551
+
+1) woman_wiki - 0.8896632393893551
+
+2) man_wiki - 0.8881318171142212
+
+3) girl_wiki - 0.8640545106015374
+
+4) flower_wiki - 0.8082155230109639
+
+5) daughter_wiki - 0.7726816629780856
+
+6) sir_wiki - 0.7266762310275074
+
+7) way_wiki - 0.7109889003929247
+
+8) people_wiki - 0.694457396038979
+
+9) thing_wiki - 0.6681869230493227
+
+Result for the vector: thing, coming from part a of the book
+Rank: 8 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7101781791554796
+
+1) man_wiki - 0.849825824791963
+
+2) girl_wiki - 0.8395704185578605
+
+3) woman_wiki - 0.8313976774036196
+
+4) flower_wiki - 0.8091808316355729
+
+5) way_wiki - 0.7696898946258488
+
+6) sir_wiki - 0.7419877273436707
+
+7) daughter_wiki - 0.7343881945129694
+
+8) thing_wiki - 0.7101781791554796
+
+9) people_wiki - 0.7064436113634958
+
+Result for the vector: daughter, coming from part a of the book
+Rank: 4 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8231619105838606
+
+1) man_wiki - 0.8870914645736553
+
+2) girl_wiki - 0.8614160418510498
+
+3) woman_wiki - 0.8585772002591386
+
+4) daughter_wiki - 0.8231619105838606
+
+5) flower_wiki - 0.8190244055957311
+
+6) sir_wiki - 0.7464606317007179
+
+7) way_wiki - 0.7183124162778358
+
+8) people_wiki - 0.7019288539886525
+
+9) thing_wiki - 0.6776026881455601
+
+Result for the vector: flower, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9226868748664921
+
+1) flower_wiki - 0.9226868748664921
+
+2) man_wiki - 0.7826189865242845
+
+3) girl_wiki - 0.7429020098330986
+
+4) woman_wiki - 0.74039737822994
+
+5) daughter_wiki - 0.6964374003671062
+
+6) sir_wiki - 0.6299297589021788
+
+7) way_wiki - 0.6218363046646163
+
+8) people_wiki - 0.6124263539822523
+
+9) thing_wiki - 0.5894303848830212
+
+Result for the vector: sir, coming from part a of the book
+Rank: 5 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7415944337844849
+
+1) man_wiki - 0.8514378070831299
+
+2) girl_wiki - 0.8219095958417427
+
+3) woman_wiki - 0.7708941698074341
+
+4) flower_wiki - 0.7526577262486396
+
+5) sir_wiki - 0.7415944337844849
+
+6) daughter_wiki - 0.7069737911224365
+
+7) way_wiki - 0.6669269998713148
+
+8) people_wiki - 0.6391594194864892
+
+9) thing_wiki - 0.6036442698134267
+
+Result for the vector: people, coming from part a of the book
+Rank: 5 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7670088589803338
+
+1) man_wiki - 0.8602982592938316
+
+2) girl_wiki - 0.8348017039540492
+
+3) woman_wiki - 0.8239916353215795
+
+4) flower_wiki - 0.8021420122469799
+
+5) people_wiki - 0.7670088589803338
+
+6) daughter_wiki - 0.7626216128613541
+
+7) sir_wiki - 0.7561425275972572
+
+8) way_wiki - 0.7335866530887395
+
+9) thing_wiki - 0.6484630478118457
+

@@ -1,0 +1,1932 @@
+Result for the vector: room, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9807567596435617
+
+1) room_b - 0.9807567596435617
+
+2) case_b - 0.9062474481764498
+
+3) way_b - 0.8943614426635852
+
+4) paper_b - 0.8740339875221315
+
+5) hand_b - 0.8724057674408021
+
+6) time_b - 0.8670813520502254
+
+7) bottle_b - 0.865197368550459
+
+8) day_b - 0.8636929474059986
+
+9) fellow_b - 0.8575779625866612
+
+10) household_b - 0.8452835175226038
+
+11) sir_b - 0.8452440592501144
+
+12) face_b - 0.8430647002737347
+
+13) tragedy_b - 0.842725396156317
+
+14) mother_b - 0.8351675271987974
+
+15) witness_b - 0.8328557710137519
+
+16) man_b - 0.8318418760205566
+
+17) conversation_b - 0.8311203323459229
+
+18) friend_b - 0.8284059967510704
+
+19) manner_b - 0.8217497574240128
+
+20) surprise_b - 0.749624028824329
+
+21) year_b - 0.6943219486283106
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9659301906165689
+
+1) time_b - 0.9659301906165689
+
+2) day_b - 0.9100504139110852
+
+3) way_b - 0.8993165104970232
+
+4) case_b - 0.8834753895841753
+
+5) paper_b - 0.8666017750802305
+
+6) witness_b - 0.8632534322071198
+
+7) room_b - 0.8609914870547488
+
+8) conversation_b - 0.8571522491321734
+
+9) fellow_b - 0.8569421086454121
+
+10) hand_b - 0.8511269764791398
+
+11) tragedy_b - 0.8488847090132104
+
+12) manner_b - 0.8440371910366918
+
+13) man_b - 0.8425256579422837
+
+14) sir_b - 0.841671065241495
+
+15) friend_b - 0.8337270865955173
+
+16) face_b - 0.826314249791415
+
+17) mother_b - 0.8239284789455654
+
+18) bottle_b - 0.8155874147046314
+
+19) household_b - 0.8152331842690606
+
+20) surprise_b - 0.8037525537984899
+
+21) year_b - 0.770018944443969
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9736396654629663
+
+1) man_b - 0.9736396654629663
+
+2) fellow_b - 0.9263655455548485
+
+3) witness_b - 0.8906151121488163
+
+4) friend_b - 0.8542733366163567
+
+5) paper_b - 0.8531367778778137
+
+6) mother_b - 0.851569950580603
+
+7) way_b - 0.851028391657569
+
+8) tragedy_b - 0.850750982761389
+
+9) case_b - 0.8468531552728229
+
+10) manner_b - 0.8461262675448512
+
+11) household_b - 0.8459383937157173
+
+12) time_b - 0.8440448138687141
+
+13) face_b - 0.8403661596665964
+
+14) hand_b - 0.8388223648071349
+
+15) sir_b - 0.838376829720926
+
+16) room_b - 0.8368660807609618
+
+17) day_b - 0.835762212529052
+
+18) conversation_b - 0.8297809565328411
+
+19) bottle_b - 0.8238696560937386
+
+20) surprise_b - 0.7710080879325828
+
+21) year_b - 0.7160526087252743
+
+Result for the vector: sir, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9295121431350708
+
+1) sir_b - 0.9295121431350708
+
+2) friend_b - 0.8643639764568835
+
+3) time_b - 0.8590459823608398
+
+4) day_b - 0.8548624515533447
+
+5) case_b - 0.8518475382418923
+
+6) room_b - 0.8479044346752441
+
+7) fellow_b - 0.8433055001447634
+
+8) way_b - 0.835961103439331
+
+9) paper_b - 0.829374362789058
+
+10) man_b - 0.8270289691721223
+
+11) hand_b - 0.8231140865751572
+
+12) face_b - 0.8174850588287434
+
+13) witness_b - 0.8120102882385254
+
+14) tragedy_b - 0.8009152889797277
+
+15) mother_b - 0.7923079009239629
+
+16) manner_b - 0.7870780825614929
+
+17) conversation_b - 0.784560395207383
+
+18) bottle_b - 0.7735375761985779
+
+19) household_b - 0.7577400207519531
+
+20) surprise_b - 0.7560313940048218
+
+21) year_b - 0.6704554557800293
+
+Result for the vector: hand, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9680095295911764
+
+1) hand_b - 0.9680095295911764
+
+2) face_b - 0.8989345103184737
+
+3) room_b - 0.852146080264217
+
+4) paper_b - 0.851146927544293
+
+5) way_b - 0.8448673486709595
+
+6) manner_b - 0.8398401737213135
+
+7) case_b - 0.8389947510364815
+
+8) mother_b - 0.8291930454488439
+
+9) friend_b - 0.8244935378734164
+
+10) time_b - 0.819992184638977
+
+11) bottle_b - 0.819953978061676
+
+12) man_b - 0.8123191967391068
+
+13) fellow_b - 0.8119188806865728
+
+14) day_b - 0.8111184239387512
+
+15) witness_b - 0.8110221028327942
+
+16) sir_b - 0.7933989763259888
+
+17) conversation_b - 0.7914329295496401
+
+18) tragedy_b - 0.7888417118097386
+
+19) household_b - 0.7662282586097717
+
+20) surprise_b - 0.7626274228096008
+
+21) year_b - 0.6714271306991577
+
+Result for the vector: friend, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9785766627101108
+
+1) friend_b - 0.9785766627101108
+
+2) mother_b - 0.9117153286933963
+
+3) man_b - 0.8839092781489799
+
+4) fellow_b - 0.8735579101512573
+
+5) hand_b - 0.8698979616165223
+
+6) way_b - 0.8497706741231293
+
+7) face_b - 0.8495331749459188
+
+8) witness_b - 0.8468235226378741
+
+9) sir_b - 0.8448163959493417
+
+10) room_b - 0.837022066116339
+
+11) manner_b - 0.8322439889762423
+
+12) case_b - 0.8288495744646103
+
+13) time_b - 0.8243983492613838
+
+14) day_b - 0.8218534694997403
+
+15) paper_b - 0.8160418868064938
+
+16) surprise_b - 0.8154004922270496
+
+17) tragedy_b - 0.8105843067169247
+
+18) conversation_b - 0.7973401788067604
+
+19) household_b - 0.7973069669421349
+
+20) bottle_b - 0.7705747025862527
+
+21) year_b - 0.6833146403244365
+
+Result for the vector: way, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9688469786139161
+
+1) way_b - 0.9688469786139161
+
+2) case_b - 0.9348507005154252
+
+3) time_b - 0.9342337885955715
+
+4) room_b - 0.9153585433960026
+
+5) day_b - 0.9077315981548089
+
+6) manner_b - 0.8961589994335787
+
+7) fellow_b - 0.8889331089178706
+
+8) paper_b - 0.8848166465759341
+
+9) hand_b - 0.8814440965652528
+
+10) man_b - 0.8743362351856512
+
+11) friend_b - 0.8704338228185388
+
+12) witness_b - 0.8699138838104095
+
+13) conversation_b - 0.8663437525816259
+
+14) tragedy_b - 0.8654783964157166
+
+15) face_b - 0.8613655906508721
+
+16) sir_b - 0.8543760863318407
+
+17) bottle_b - 0.8450811001610116
+
+18) mother_b - 0.8377633094787658
+
+19) household_b - 0.8320298891049704
+
+20) surprise_b - 0.8052061912294527
+
+21) year_b - 0.7424699817615772
+
+Result for the vector: case, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9548030522583113
+
+1) case_b - 0.9548030522583113
+
+2) way_b - 0.9266272187232971
+
+3) paper_b - 0.9172789405154567
+
+4) room_b - 0.9138691373985508
+
+5) bottle_b - 0.8994136452674866
+
+6) hand_b - 0.8984928666647013
+
+7) time_b - 0.8918407559394836
+
+8) manner_b - 0.8851833343505859
+
+9) witness_b - 0.8848938941955566
+
+10) man_b - 0.8827591994713845
+
+11) tragedy_b - 0.8803554702017007
+
+12) conversation_b - 0.8765042497811184
+
+13) day_b - 0.8759680986404419
+
+14) fellow_b - 0.8713685640159801
+
+15) face_b - 0.8626174587791404
+
+16) sir_b - 0.8483349680900574
+
+17) household_b - 0.8363967537879944
+
+18) friend_b - 0.8360707261520206
+
+19) mother_b - 0.8345715304953787
+
+20) surprise_b - 0.795182466506958
+
+21) year_b - 0.7199360728263855
+
+Result for the vector: day, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9570893594133159
+
+1) day_b - 0.9570893594133159
+
+2) time_b - 0.9515708031142783
+
+3) way_b - 0.9153774875852516
+
+4) case_b - 0.9065073076789112
+
+5) tragedy_b - 0.8876511253686787
+
+6) room_b - 0.8814011600138847
+
+7) fellow_b - 0.8811621311790158
+
+8) conversation_b - 0.8758509681136133
+
+9) man_b - 0.8744576274055547
+
+10) paper_b - 0.8721947441449319
+
+11) witness_b - 0.8637605743122847
+
+12) hand_b - 0.8599816906419454
+
+13) manner_b - 0.8583764861078903
+
+14) year_b - 0.8473643478589533
+
+15) mother_b - 0.8423988537309519
+
+16) friend_b - 0.8414887691431638
+
+17) sir_b - 0.8398596453499431
+
+18) face_b - 0.8370207603306745
+
+19) bottle_b - 0.835241536526869
+
+20) household_b - 0.8302506602109324
+
+21) surprise_b - 0.8016083004007755
+
+Result for the vector: face, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9644959302697351
+
+1) face_b - 0.9644959302697351
+
+2) manner_b - 0.9074615946457933
+
+3) hand_b - 0.9063034113464852
+
+4) room_b - 0.8857837983498835
+
+5) case_b - 0.8740486727865939
+
+6) way_b - 0.8721613440321335
+
+7) paper_b - 0.8580688918788039
+
+8) friend_b - 0.8577445999840633
+
+9) fellow_b - 0.8556353959820291
+
+10) man_b - 0.8546175956726317
+
+11) time_b - 0.8532492097319175
+
+12) day_b - 0.8509940682656744
+
+13) mother_b - 0.8428813908767006
+
+14) witness_b - 0.8370130852445322
+
+15) conversation_b - 0.831766873878205
+
+16) sir_b - 0.8284753765493241
+
+17) tragedy_b - 0.8237228498624188
+
+18) bottle_b - 0.8111215458963517
+
+19) surprise_b - 0.8047203058337858
+
+20) household_b - 0.7844782728578775
+
+21) year_b - 0.6771911767493324
+
+Result for the vector: paper, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9591239690780707
+
+1) paper_b - 0.9591239690780707
+
+2) case_b - 0.8983209850405472
+
+3) room_b - 0.8837766051292483
+
+4) bottle_b - 0.8835604260229826
+
+5) hand_b - 0.8719167709350648
+
+6) way_b - 0.8640845498988315
+
+7) fellow_b - 0.857998175382421
+
+8) time_b - 0.8559572186495547
+
+9) conversation_b - 0.8529239472241464
+
+10) day_b - 0.842109808796061
+
+11) witness_b - 0.8368304469090448
+
+12) man_b - 0.8323685426931837
+
+13) face_b - 0.8287856331829571
+
+14) tragedy_b - 0.8243298530578672
+
+15) sir_b - 0.8139513841896439
+
+16) manner_b - 0.8101551049855303
+
+17) friend_b - 0.8052995437026568
+
+18) mother_b - 0.801070153713232
+
+19) household_b - 0.7774959339203887
+
+20) surprise_b - 0.7366332568744877
+
+21) year_b - 0.6707565980698718
+
+Result for the vector: mother, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9723776578903267
+
+1) mother_b - 0.9723776578903267
+
+2) friend_b - 0.9140142900926721
+
+3) hand_b - 0.8633795380592407
+
+4) man_b - 0.8549805793154721
+
+5) witness_b - 0.84550709453183
+
+6) fellow_b - 0.8391317533411924
+
+7) room_b - 0.8327937722206175
+
+8) face_b - 0.8289667716930311
+
+9) sir_b - 0.8282238943443376
+
+10) manner_b - 0.8265173538614912
+
+11) way_b - 0.825061689313551
+
+12) day_b - 0.8240501985520021
+
+13) tragedy_b - 0.8237705826759397
+
+14) case_b - 0.8201423501798689
+
+15) time_b - 0.813777696265121
+
+16) paper_b - 0.8109951615333615
+
+17) household_b - 0.8021009682356749
+
+18) conversation_b - 0.8002267718044791
+
+19) surprise_b - 0.7708059089895555
+
+20) bottle_b - 0.759123756937758
+
+21) year_b - 0.7123326234619258
+
+Result for the vector: manner, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9543462991714478
+
+1) manner_b - 0.9543462991714478
+
+2) face_b - 0.9023044378252164
+
+3) way_b - 0.8916357755661011
+
+4) hand_b - 0.8663456360307731
+
+5) case_b - 0.8591678822536554
+
+6) conversation_b - 0.8522949306789097
+
+7) time_b - 0.8444117307662964
+
+8) room_b - 0.8423278237776666
+
+9) man_b - 0.8323963680739901
+
+10) paper_b - 0.8319341440161567
+
+11) day_b - 0.8289973735809326
+
+12) friend_b - 0.8249212011741891
+
+13) witness_b - 0.8214932084083557
+
+14) fellow_b - 0.8208595193969476
+
+15) surprise_b - 0.817722499370575
+
+16) mother_b - 0.8159900794023337
+
+17) tragedy_b - 0.8152937779005648
+
+18) sir_b - 0.798201858997345
+
+19) bottle_b - 0.7904642820358276
+
+20) household_b - 0.7666192650794983
+
+21) year_b - 0.6776034832000732
+
+Result for the vector: tragedy, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9485168487717751
+
+1) tragedy_b - 0.9485168487717751
+
+2) case_b - 0.9028052265396325
+
+3) fellow_b - 0.8735014124811925
+
+4) way_b - 0.8682186760641785
+
+5) room_b - 0.8597933733586584
+
+6) conversation_b - 0.8592557562728379
+
+7) household_b - 0.8519817767165034
+
+8) time_b - 0.8438398428154239
+
+9) day_b - 0.8359614210174834
+
+10) paper_b - 0.8339793185008112
+
+11) man_b - 0.8323543071747063
+
+12) manner_b - 0.8155642371697202
+
+13) witness_b - 0.8123840317268392
+
+14) bottle_b - 0.8067586056281856
+
+15) hand_b - 0.7893537408498806
+
+16) mother_b - 0.7844527492253459
+
+17) friend_b - 0.7780239382939463
+
+18) face_b - 0.776815404580655
+
+19) sir_b - 0.7506313621245244
+
+20) surprise_b - 0.7390249086588783
+
+21) year_b - 0.7139909608374931
+
+Result for the vector: year, coming from part a of the book
+Rank: 2 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8458700936320541
+
+1) time_b - 0.8575695327731584
+
+2) year_b - 0.8458700936320541
+
+3) day_b - 0.8326447754482758
+
+4) way_b - 0.8087905176392692
+
+5) case_b - 0.7843131656740147
+
+6) fellow_b - 0.7789838019268013
+
+7) room_b - 0.7742678484719769
+
+8) sir_b - 0.7741026378365761
+
+9) conversation_b - 0.7725739709310012
+
+10) witness_b - 0.7716079448111038
+
+11) tragedy_b - 0.7666820834103354
+
+12) friend_b - 0.7652885545876277
+
+13) man_b - 0.7647942708003493
+
+14) paper_b - 0.7625951115183702
+
+15) hand_b - 0.7612636627649761
+
+16) mother_b - 0.754770749028139
+
+17) manner_b - 0.7498456910114638
+
+18) face_b - 0.7479325232425373
+
+19) household_b - 0.7405669755250521
+
+20) bottle_b - 0.7144851727323417
+
+21) surprise_b - 0.7062515651808616
+
+Result for the vector: fellow, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9332019011023192
+
+1) fellow_b - 0.9332019011023192
+
+2) man_b - 0.9249059513155341
+
+3) friend_b - 0.9027911540518816
+
+4) sir_b - 0.9018685876209401
+
+5) case_b - 0.887537194784022
+
+6) time_b - 0.8830806682657812
+
+7) way_b - 0.8796014857529724
+
+8) paper_b - 0.8786872625351014
+
+9) day_b - 0.8749343827405955
+
+10) room_b - 0.8722338080406251
+
+11) witness_b - 0.8700636106691608
+
+12) mother_b - 0.8661439418792786
+
+13) tragedy_b - 0.863772213459021
+
+14) hand_b - 0.8617362380027832
+
+15) face_b - 0.8522079333005005
+
+16) manner_b - 0.8489099234992327
+
+17) conversation_b - 0.8464169685343541
+
+18) bottle_b - 0.8354186513770445
+
+19) household_b - 0.8272283776266365
+
+20) surprise_b - 0.7860694655138587
+
+21) year_b - 0.7118743233755647
+
+Result for the vector: conversation, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9226504656493109
+
+1) conversation_b - 0.9226504656493109
+
+2) paper_b - 0.9005902409553592
+
+3) case_b - 0.8906876575127056
+
+4) way_b - 0.8789772463454473
+
+5) fellow_b - 0.8705156887192602
+
+6) time_b - 0.8680988032758965
+
+7) room_b - 0.8625605702400269
+
+8) manner_b - 0.8623964272501229
+
+9) tragedy_b - 0.8567005395889343
+
+10) day_b - 0.8559406485592947
+
+11) witness_b - 0.8529298393172137
+
+12) man_b - 0.850919476206285
+
+13) hand_b - 0.8401771783828795
+
+14) face_b - 0.8348698367217265
+
+15) friend_b - 0.8239420266220537
+
+16) bottle_b - 0.8229172335316415
+
+17) mother_b - 0.8110021352768002
+
+18) surprise_b - 0.8046806571077924
+
+19) sir_b - 0.7975804926407057
+
+20) household_b - 0.7869659193178478
+
+21) year_b - 0.693723518030435
+
+Result for the vector: witness, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9171072840690613
+
+1) witness_b - 0.9171072840690613
+
+2) man_b - 0.8654445845418735
+
+3) household_b - 0.847755491733551
+
+4) day_b - 0.84715735912323
+
+5) case_b - 0.8330202798235264
+
+6) time_b - 0.832496702671051
+
+7) fellow_b - 0.8280125548862152
+
+8) tragedy_b - 0.826289166586947
+
+9) sir_b - 0.8216197490692139
+
+10) way_b - 0.8180137276649475
+
+11) paper_b - 0.8086518531234191
+
+12) mother_b - 0.8076596741473495
+
+13) room_b - 0.8076227192653861
+
+14) conversation_b - 0.8060317155103868
+
+15) hand_b - 0.8015302897411771
+
+16) manner_b - 0.7995279431343079
+
+17) friend_b - 0.7982882381505838
+
+18) face_b - 0.7940113185051481
+
+19) bottle_b - 0.7708687782287598
+
+20) surprise_b - 0.750707745552063
+
+21) year_b - 0.6932849884033203
+
+Result for the vector: surprise, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9212820623776904
+
+1) surprise_b - 0.9212820623776904
+
+2) friend_b - 0.79661104739707
+
+3) manner_b - 0.7781926657923913
+
+4) face_b - 0.7746178411289085
+
+5) hand_b - 0.757358505883318
+
+6) mother_b - 0.7491527349261919
+
+7) way_b - 0.7416796396160608
+
+8) witness_b - 0.7385171963552055
+
+9) time_b - 0.7369032815810158
+
+10) conversation_b - 0.7268579494611128
+
+11) man_b - 0.7210345268249717
+
+12) day_b - 0.7137965901140514
+
+13) case_b - 0.7134562647122876
+
+14) paper_b - 0.7100449377271684
+
+15) tragedy_b - 0.7053197797942405
+
+16) fellow_b - 0.6985887705438907
+
+17) room_b - 0.6952077332015307
+
+18) sir_b - 0.68931893237604
+
+19) household_b - 0.6761111407147526
+
+20) bottle_b - 0.6497306645237654
+
+21) year_b - 0.5964969281557927
+
+Result for the vector: bottle, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8849939635392421
+
+1) bottle_b - 0.8849939635392421
+
+2) paper_b - 0.8815297939216845
+
+3) case_b - 0.8704039454460206
+
+4) fellow_b - 0.8386478039378712
+
+5) room_b - 0.8323286571894476
+
+6) way_b - 0.832109858519428
+
+7) hand_b - 0.8272735866634353
+
+8) tragedy_b - 0.8255694896661627
+
+9) time_b - 0.8244138851412481
+
+10) conversation_b - 0.8152242898941098
+
+11) man_b - 0.8003559351603883
+
+12) day_b - 0.7982933997090711
+
+13) witness_b - 0.7964870808414879
+
+14) face_b - 0.7844283090020698
+
+15) household_b - 0.7705578667257958
+
+16) manner_b - 0.7684822540570663
+
+17) friend_b - 0.7623607516288812
+
+18) mother_b - 0.7503649294811403
+
+19) sir_b - 0.7367740712627228
+
+20) surprise_b - 0.7170221636904588
+
+21) year_b - 0.6603019035042479
+
+Result for the vector: household, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8988568843092407
+
+1) household_b - 0.8988568843092407
+
+2) man_b - 0.8463259247735829
+
+3) case_b - 0.8436598368096546
+
+4) fellow_b - 0.8384956524963203
+
+5) witness_b - 0.8347119191460672
+
+6) room_b - 0.8336395025253355
+
+7) way_b - 0.830393205261637
+
+8) tragedy_b - 0.8263213634491026
+
+9) time_b - 0.8170682896931013
+
+10) paper_b - 0.8081116676330624
+
+11) day_b - 0.8008648871859989
+
+12) manner_b - 0.799186599303092
+
+13) conversation_b - 0.7976921441922016
+
+14) face_b - 0.7851980690599095
+
+15) mother_b - 0.7783600687980707
+
+16) friend_b - 0.7780509259640067
+
+17) hand_b - 0.7753015756607111
+
+18) bottle_b - 0.7737115756445198
+
+19) sir_b - 0.7638691208440603
+
+20) surprise_b - 0.7438221726523548
+
+21) year_b - 0.6869450398120273
+
+Result for the vector: room, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9807567596435617
+
+1) room_a - 0.9807567596435617
+
+2) way_a - 0.9153585433960026
+
+3) case_a - 0.9138691373985508
+
+4) face_a - 0.8857837983498835
+
+5) paper_a - 0.8837766051292483
+
+6) day_a - 0.8814011600138847
+
+7) fellow_a - 0.8722338080406251
+
+8) conversation_a - 0.8625605702400269
+
+9) time_a - 0.8609914870547488
+
+10) tragedy_a - 0.8597933733586584
+
+11) hand_a - 0.852146080264217
+
+12) sir_a - 0.8479044346752441
+
+13) manner_a - 0.8423278237776666
+
+14) friend_a - 0.837022066116339
+
+15) man_a - 0.8368660807609618
+
+16) household_a - 0.8336395025253355
+
+17) mother_a - 0.8327937722206175
+
+18) bottle_a - 0.8323286571894476
+
+19) witness_a - 0.8076227192653861
+
+20) year_a - 0.7742678484719769
+
+21) surprise_a - 0.6952077332015307
+
+Result for the vector: time, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9659301906165689
+
+1) time_a - 0.9659301906165689
+
+2) day_a - 0.9515708031142783
+
+3) way_a - 0.9342337885955715
+
+4) case_a - 0.8918407559394836
+
+5) fellow_a - 0.8830806682657812
+
+6) conversation_a - 0.8680988032758965
+
+7) room_a - 0.8670813520502254
+
+8) sir_a - 0.8590459823608398
+
+9) year_a - 0.8575695327731584
+
+10) paper_a - 0.8559572186495547
+
+11) face_a - 0.8532492097319175
+
+12) manner_a - 0.8444117307662964
+
+13) man_a - 0.8440448138687141
+
+14) tragedy_a - 0.8438398428154239
+
+15) witness_a - 0.832496702671051
+
+16) bottle_a - 0.8244138851412481
+
+17) friend_a - 0.8243983492613838
+
+18) hand_a - 0.819992184638977
+
+19) household_a - 0.8170682896931013
+
+20) mother_a - 0.813777696265121
+
+21) surprise_a - 0.7369032815810158
+
+Result for the vector: man, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9736396654629663
+
+1) man_a - 0.9736396654629663
+
+2) fellow_a - 0.9249059513155341
+
+3) friend_a - 0.8839092781489799
+
+4) case_a - 0.8827591994713845
+
+5) day_a - 0.8744576274055547
+
+6) way_a - 0.8743362351856512
+
+7) witness_a - 0.8654445845418735
+
+8) mother_a - 0.8549805793154721
+
+9) face_a - 0.8546175956726317
+
+10) conversation_a - 0.850919476206285
+
+11) household_a - 0.8463259247735829
+
+12) time_a - 0.8425256579422837
+
+13) manner_a - 0.8323963680739901
+
+14) paper_a - 0.8323685426931837
+
+15) tragedy_a - 0.8323543071747063
+
+16) room_a - 0.8318418760205566
+
+17) sir_a - 0.8270289691721223
+
+18) hand_a - 0.8123191967391068
+
+19) bottle_a - 0.8003559351603883
+
+20) year_a - 0.7647942708003493
+
+21) surprise_a - 0.7210345268249717
+
+Result for the vector: sir, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9295121431350708
+
+1) sir_a - 0.9295121431350708
+
+2) fellow_a - 0.9018685876209401
+
+3) way_a - 0.8543760863318407
+
+4) case_a - 0.8483349680900574
+
+5) room_a - 0.8452440592501144
+
+6) friend_a - 0.8448163959493417
+
+7) time_a - 0.841671065241495
+
+8) day_a - 0.8398596453499431
+
+9) man_a - 0.838376829720926
+
+10) face_a - 0.8284753765493241
+
+11) mother_a - 0.8282238943443376
+
+12) witness_a - 0.8216197490692139
+
+13) paper_a - 0.8139513841896439
+
+14) manner_a - 0.798201858997345
+
+15) conversation_a - 0.7975804926407057
+
+16) hand_a - 0.7933989763259888
+
+17) year_a - 0.7741026378365761
+
+18) household_a - 0.7638691208440603
+
+19) tragedy_a - 0.7506313621245244
+
+20) bottle_a - 0.7367740712627228
+
+21) surprise_a - 0.68931893237604
+
+Result for the vector: hand, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9680095295911764
+
+1) hand_a - 0.9680095295911764
+
+2) face_a - 0.9063034113464852
+
+3) case_a - 0.8984928666647013
+
+4) way_a - 0.8814440965652528
+
+5) room_a - 0.8724057674408021
+
+6) paper_a - 0.8719167709350648
+
+7) friend_a - 0.8698979616165223
+
+8) manner_a - 0.8663456360307731
+
+9) mother_a - 0.8633795380592407
+
+10) fellow_a - 0.8617362380027832
+
+11) day_a - 0.8599816906419454
+
+12) time_a - 0.8511269764791398
+
+13) conversation_a - 0.8401771783828795
+
+14) man_a - 0.8388223648071349
+
+15) bottle_a - 0.8272735866634353
+
+16) sir_a - 0.8231140865751572
+
+17) witness_a - 0.8015302897411771
+
+18) tragedy_a - 0.7893537408498806
+
+19) household_a - 0.7753015756607111
+
+20) year_a - 0.7612636627649761
+
+21) surprise_a - 0.757358505883318
+
+Result for the vector: friend, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9785766627101108
+
+1) friend_a - 0.9785766627101108
+
+2) mother_a - 0.9140142900926721
+
+3) fellow_a - 0.9027911540518816
+
+4) way_a - 0.8704338228185388
+
+5) sir_a - 0.8643639764568835
+
+6) face_a - 0.8577445999840633
+
+7) man_a - 0.8542733366163567
+
+8) day_a - 0.8414887691431638
+
+9) case_a - 0.8360707261520206
+
+10) time_a - 0.8337270865955173
+
+11) room_a - 0.8284059967510704
+
+12) manner_a - 0.8249212011741891
+
+13) hand_a - 0.8244935378734164
+
+14) conversation_a - 0.8239420266220537
+
+15) paper_a - 0.8052995437026568
+
+16) witness_a - 0.7982882381505838
+
+17) surprise_a - 0.79661104739707
+
+18) household_a - 0.7780509259640067
+
+19) tragedy_a - 0.7780239382939463
+
+20) year_a - 0.7652885545876277
+
+21) bottle_a - 0.7623607516288812
+
+Result for the vector: way, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9688469786139161
+
+1) way_a - 0.9688469786139161
+
+2) case_a - 0.9266272187232971
+
+3) day_a - 0.9153774875852516
+
+4) time_a - 0.8993165104970232
+
+5) room_a - 0.8943614426635852
+
+6) manner_a - 0.8916357755661011
+
+7) fellow_a - 0.8796014857529724
+
+8) conversation_a - 0.8789772463454473
+
+9) face_a - 0.8721613440321335
+
+10) tragedy_a - 0.8682186760641785
+
+11) paper_a - 0.8640845498988315
+
+12) man_a - 0.851028391657569
+
+13) friend_a - 0.8497706741231293
+
+14) hand_a - 0.8448673486709595
+
+15) sir_a - 0.835961103439331
+
+16) bottle_a - 0.832109858519428
+
+17) household_a - 0.830393205261637
+
+18) mother_a - 0.825061689313551
+
+19) witness_a - 0.8180137276649475
+
+20) year_a - 0.8087905176392692
+
+21) surprise_a - 0.7416796396160608
+
+Result for the vector: case, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9548030522583113
+
+1) case_a - 0.9548030522583113
+
+2) way_a - 0.9348507005154252
+
+3) day_a - 0.9065073076789112
+
+4) room_a - 0.9062474481764498
+
+5) tragedy_a - 0.9028052265396325
+
+6) paper_a - 0.8983209850405472
+
+7) conversation_a - 0.8906876575127056
+
+8) fellow_a - 0.887537194784022
+
+9) time_a - 0.8834753895841753
+
+10) face_a - 0.8740486727865939
+
+11) bottle_a - 0.8704039454460206
+
+12) manner_a - 0.8591678822536554
+
+13) sir_a - 0.8518475382418923
+
+14) man_a - 0.8468531552728229
+
+15) household_a - 0.8436598368096546
+
+16) hand_a - 0.8389947510364815
+
+17) witness_a - 0.8330202798235264
+
+18) friend_a - 0.8288495744646103
+
+19) mother_a - 0.8201423501798689
+
+20) year_a - 0.7843131656740147
+
+21) surprise_a - 0.7134562647122876
+
+Result for the vector: day, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9570893594133159
+
+1) day_a - 0.9570893594133159
+
+2) time_a - 0.9100504139110852
+
+3) way_a - 0.9077315981548089
+
+4) case_a - 0.8759680986404419
+
+5) fellow_a - 0.8749343827405955
+
+6) room_a - 0.8636929474059986
+
+7) conversation_a - 0.8559406485592947
+
+8) sir_a - 0.8548624515533447
+
+9) face_a - 0.8509940682656744
+
+10) witness_a - 0.84715735912323
+
+11) paper_a - 0.842109808796061
+
+12) tragedy_a - 0.8359614210174834
+
+13) man_a - 0.835762212529052
+
+14) year_a - 0.8326447754482758
+
+15) manner_a - 0.8289973735809326
+
+16) mother_a - 0.8240501985520021
+
+17) friend_a - 0.8218534694997403
+
+18) hand_a - 0.8111184239387512
+
+19) household_a - 0.8008648871859989
+
+20) bottle_a - 0.7982933997090711
+
+21) surprise_a - 0.7137965901140514
+
+Result for the vector: face, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9644959302697351
+
+1) face_a - 0.9644959302697351
+
+2) manner_a - 0.9023044378252164
+
+3) hand_a - 0.8989345103184737
+
+4) case_a - 0.8626174587791404
+
+5) way_a - 0.8613655906508721
+
+6) fellow_a - 0.8522079333005005
+
+7) friend_a - 0.8495331749459188
+
+8) room_a - 0.8430647002737347
+
+9) man_a - 0.8403661596665964
+
+10) day_a - 0.8370207603306745
+
+11) conversation_a - 0.8348698367217265
+
+12) mother_a - 0.8289667716930311
+
+13) paper_a - 0.8287856331829571
+
+14) time_a - 0.826314249791415
+
+15) sir_a - 0.8174850588287434
+
+16) witness_a - 0.7940113185051481
+
+17) household_a - 0.7851980690599095
+
+18) bottle_a - 0.7844283090020698
+
+19) tragedy_a - 0.776815404580655
+
+20) surprise_a - 0.7746178411289085
+
+21) year_a - 0.7479325232425373
+
+Result for the vector: paper, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9591239690780707
+
+1) paper_a - 0.9591239690780707
+
+2) case_a - 0.9172789405154567
+
+3) conversation_a - 0.9005902409553592
+
+4) way_a - 0.8848166465759341
+
+5) bottle_a - 0.8815297939216845
+
+6) fellow_a - 0.8786872625351014
+
+7) room_a - 0.8740339875221315
+
+8) day_a - 0.8721947441449319
+
+9) time_a - 0.8666017750802305
+
+10) face_a - 0.8580688918788039
+
+11) man_a - 0.8531367778778137
+
+12) hand_a - 0.851146927544293
+
+13) tragedy_a - 0.8339793185008112
+
+14) manner_a - 0.8319341440161567
+
+15) sir_a - 0.829374362789058
+
+16) friend_a - 0.8160418868064938
+
+17) mother_a - 0.8109951615333615
+
+18) witness_a - 0.8086518531234191
+
+19) household_a - 0.8081116676330624
+
+20) year_a - 0.7625951115183702
+
+21) surprise_a - 0.7100449377271684
+
+Result for the vector: mother, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9723776578903267
+
+1) mother_a - 0.9723776578903267
+
+2) friend_a - 0.9117153286933963
+
+3) fellow_a - 0.8661439418792786
+
+4) man_a - 0.851569950580603
+
+5) face_a - 0.8428813908767006
+
+6) day_a - 0.8423988537309519
+
+7) way_a - 0.8377633094787658
+
+8) room_a - 0.8351675271987974
+
+9) case_a - 0.8345715304953787
+
+10) hand_a - 0.8291930454488439
+
+11) time_a - 0.8239284789455654
+
+12) manner_a - 0.8159900794023337
+
+13) conversation_a - 0.8110021352768002
+
+14) witness_a - 0.8076596741473495
+
+15) paper_a - 0.801070153713232
+
+16) sir_a - 0.7923079009239629
+
+17) tragedy_a - 0.7844527492253459
+
+18) household_a - 0.7783600687980707
+
+19) year_a - 0.754770749028139
+
+20) bottle_a - 0.7503649294811403
+
+21) surprise_a - 0.7491527349261919
+
+Result for the vector: manner, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9543462991714478
+
+1) manner_a - 0.9543462991714478
+
+2) face_a - 0.9074615946457933
+
+3) way_a - 0.8961589994335787
+
+4) case_a - 0.8851833343505859
+
+5) conversation_a - 0.8623964272501229
+
+6) day_a - 0.8583764861078903
+
+7) fellow_a - 0.8489099234992327
+
+8) man_a - 0.8461262675448512
+
+9) time_a - 0.8440371910366918
+
+10) hand_a - 0.8398401737213135
+
+11) friend_a - 0.8322439889762423
+
+12) mother_a - 0.8265173538614912
+
+13) room_a - 0.8217497574240128
+
+14) tragedy_a - 0.8155642371697202
+
+15) paper_a - 0.8101551049855303
+
+16) witness_a - 0.7995279431343079
+
+17) household_a - 0.799186599303092
+
+18) sir_a - 0.7870780825614929
+
+19) surprise_a - 0.7781926657923913
+
+20) bottle_a - 0.7684822540570663
+
+21) year_a - 0.7498456910114638
+
+Result for the vector: tragedy, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9485168487717751
+
+1) tragedy_a - 0.9485168487717751
+
+2) day_a - 0.8876511253686787
+
+3) case_a - 0.8803554702017007
+
+4) way_a - 0.8654783964157166
+
+5) fellow_a - 0.863772213459021
+
+6) conversation_a - 0.8567005395889343
+
+7) man_a - 0.850750982761389
+
+8) time_a - 0.8488847090132104
+
+9) room_a - 0.842725396156317
+
+10) household_a - 0.8263213634491026
+
+11) witness_a - 0.826289166586947
+
+12) bottle_a - 0.8255694896661627
+
+13) paper_a - 0.8243298530578672
+
+14) mother_a - 0.8237705826759397
+
+15) face_a - 0.8237228498624188
+
+16) manner_a - 0.8152937779005648
+
+17) friend_a - 0.8105843067169247
+
+18) sir_a - 0.8009152889797277
+
+19) hand_a - 0.7888417118097386
+
+20) year_a - 0.7666820834103354
+
+21) surprise_a - 0.7053197797942405
+
+Result for the vector: year, coming from part b of the book
+Rank: 2 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8458700936320541
+
+1) day_a - 0.8473643478589533
+
+2) year_a - 0.8458700936320541
+
+3) time_a - 0.770018944443969
+
+4) way_a - 0.7424699817615772
+
+5) case_a - 0.7199360728263855
+
+6) man_a - 0.7160526087252743
+
+7) tragedy_a - 0.7139909608374931
+
+8) mother_a - 0.7123326234619258
+
+9) fellow_a - 0.7118743233755647
+
+10) room_a - 0.6943219486283106
+
+11) conversation_a - 0.693723518030435
+
+12) witness_a - 0.6932849884033203
+
+13) household_a - 0.6869450398120273
+
+14) friend_a - 0.6833146403244365
+
+15) manner_a - 0.6776034832000732
+
+16) face_a - 0.6771911767493324
+
+17) hand_a - 0.6714271306991577
+
+18) paper_a - 0.6707565980698718
+
+19) sir_a - 0.6704554557800293
+
+20) bottle_a - 0.6603019035042479
+
+21) surprise_a - 0.5964969281557927
+
+Result for the vector: fellow, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9332019011023192
+
+1) fellow_a - 0.9332019011023192
+
+2) man_a - 0.9263655455548485
+
+3) way_a - 0.8889331089178706
+
+4) day_a - 0.8811621311790158
+
+5) friend_a - 0.8735579101512573
+
+6) tragedy_a - 0.8735014124811925
+
+7) case_a - 0.8713685640159801
+
+8) conversation_a - 0.8705156887192602
+
+9) paper_a - 0.857998175382421
+
+10) room_a - 0.8575779625866612
+
+11) time_a - 0.8569421086454121
+
+12) face_a - 0.8556353959820291
+
+13) sir_a - 0.8433055001447634
+
+14) mother_a - 0.8391317533411924
+
+15) bottle_a - 0.8386478039378712
+
+16) household_a - 0.8384956524963203
+
+17) witness_a - 0.8280125548862152
+
+18) manner_a - 0.8208595193969476
+
+19) hand_a - 0.8119188806865728
+
+20) year_a - 0.7789838019268013
+
+21) surprise_a - 0.6985887705438907
+
+Result for the vector: conversation, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9226504656493109
+
+1) conversation_a - 0.9226504656493109
+
+2) case_a - 0.8765042497811184
+
+3) day_a - 0.8758509681136133
+
+4) way_a - 0.8663437525816259
+
+5) tragedy_a - 0.8592557562728379
+
+6) time_a - 0.8571522491321734
+
+7) paper_a - 0.8529239472241464
+
+8) manner_a - 0.8522949306789097
+
+9) fellow_a - 0.8464169685343541
+
+10) face_a - 0.831766873878205
+
+11) room_a - 0.8311203323459229
+
+12) man_a - 0.8297809565328411
+
+13) bottle_a - 0.8152242898941098
+
+14) witness_a - 0.8060317155103868
+
+15) mother_a - 0.8002267718044791
+
+16) household_a - 0.7976921441922016
+
+17) friend_a - 0.7973401788067604
+
+18) hand_a - 0.7914329295496401
+
+19) sir_a - 0.784560395207383
+
+20) year_a - 0.7725739709310012
+
+21) surprise_a - 0.7268579494611128
+
+Result for the vector: witness, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9171072840690613
+
+1) witness_a - 0.9171072840690613
+
+2) man_a - 0.8906151121488163
+
+3) case_a - 0.8848938941955566
+
+4) fellow_a - 0.8700636106691608
+
+5) way_a - 0.8699138838104095
+
+6) day_a - 0.8637605743122847
+
+7) time_a - 0.8632534322071198
+
+8) conversation_a - 0.8529298393172137
+
+9) friend_a - 0.8468235226378741
+
+10) mother_a - 0.84550709453183
+
+11) face_a - 0.8370130852445322
+
+12) paper_a - 0.8368304469090448
+
+13) household_a - 0.8347119191460672
+
+14) room_a - 0.8328557710137519
+
+15) manner_a - 0.8214932084083557
+
+16) tragedy_a - 0.8123840317268392
+
+17) sir_a - 0.8120102882385254
+
+18) hand_a - 0.8110221028327942
+
+19) bottle_a - 0.7964870808414879
+
+20) year_a - 0.7716079448111038
+
+21) surprise_a - 0.7385171963552055
+
+Result for the vector: surprise, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9212820623776904
+
+1) surprise_a - 0.9212820623776904
+
+2) manner_a - 0.817722499370575
+
+3) friend_a - 0.8154004922270496
+
+4) way_a - 0.8052061912294527
+
+5) face_a - 0.8047203058337858
+
+6) conversation_a - 0.8046806571077924
+
+7) time_a - 0.8037525537984899
+
+8) day_a - 0.8016083004007755
+
+9) case_a - 0.795182466506958
+
+10) fellow_a - 0.7860694655138587
+
+11) man_a - 0.7710080879325828
+
+12) mother_a - 0.7708059089895555
+
+13) hand_a - 0.7626274228096008
+
+14) sir_a - 0.7560313940048218
+
+15) witness_a - 0.750707745552063
+
+16) room_a - 0.749624028824329
+
+17) household_a - 0.7438221726523548
+
+18) tragedy_a - 0.7390249086588783
+
+19) paper_a - 0.7366332568744877
+
+20) bottle_a - 0.7170221636904588
+
+21) year_a - 0.7062515651808616
+
+Result for the vector: bottle, coming from part b of the book
+Rank: 2 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8849939635392421
+
+1) case_a - 0.8994136452674866
+
+2) bottle_a - 0.8849939635392421
+
+3) paper_a - 0.8835604260229826
+
+4) room_a - 0.865197368550459
+
+5) way_a - 0.8450811001610116
+
+6) fellow_a - 0.8354186513770445
+
+7) day_a - 0.835241536526869
+
+8) man_a - 0.8238696560937386
+
+9) conversation_a - 0.8229172335316415
+
+10) hand_a - 0.819953978061676
+
+11) time_a - 0.8155874147046314
+
+12) face_a - 0.8111215458963517
+
+13) tragedy_a - 0.8067586056281856
+
+14) manner_a - 0.7904642820358276
+
+15) household_a - 0.7737115756445198
+
+16) sir_a - 0.7735375761985779
+
+17) witness_a - 0.7708687782287598
+
+18) friend_a - 0.7705747025862527
+
+19) mother_a - 0.759123756937758
+
+20) year_a - 0.7144851727323417
+
+21) surprise_a - 0.6497306645237654
+
+Result for the vector: household, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8988568843092407
+
+1) household_a - 0.8988568843092407
+
+2) tragedy_a - 0.8519817767165034
+
+3) witness_a - 0.847755491733551
+
+4) man_a - 0.8459383937157173
+
+5) room_a - 0.8452835175226038
+
+6) case_a - 0.8363967537879944
+
+7) way_a - 0.8320298891049704
+
+8) day_a - 0.8302506602109324
+
+9) fellow_a - 0.8272283776266365
+
+10) time_a - 0.8152331842690606
+
+11) mother_a - 0.8021009682356749
+
+12) friend_a - 0.7973069669421349
+
+13) conversation_a - 0.7869659193178478
+
+14) face_a - 0.7844782728578775
+
+15) paper_a - 0.7774959339203887
+
+16) bottle_a - 0.7705578667257958
+
+17) manner_a - 0.7666192650794983
+
+18) hand_a - 0.7662282586097717
+
+19) sir_a - 0.7577400207519531
+
+20) year_a - 0.7405669755250521
+
+21) surprise_a - 0.6761111407147526
+

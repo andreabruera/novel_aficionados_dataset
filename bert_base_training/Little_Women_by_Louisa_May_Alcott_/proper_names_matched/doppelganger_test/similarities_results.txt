@@ -1,0 +1,2700 @@
+Result for the vector: miss_jo, coming from part a of the book
+Rank: 1 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9787494552880868
+
+1) miss_jo_b - 0.9787494552880868
+
+2) amy_march_b - 0.9762375368930395
+
+3) beth_b - 0.973880115284906
+
+4) meg_b - 0.9726719292793359
+
+5) hannah_b - 0.9656598567962715
+
+6) daisy_b - 0.9582414651965239
+
+7) mr_laurie_b - 0.956071200604965
+
+8) demi_b - 0.9491052940754543
+
+9) mrs_john_brooke_b - 0.9475550086763512
+
+10) mr_laurence_b - 0.947405702184951
+
+11) mother_bhaer_b - 0.9451878948565795
+
+12) miss_sallie_b - 0.9441982011440649
+
+13) teddy_b - 0.9411031638918438
+
+14) marmee_b - 0.938745021820075
+
+15) fred_vaughn_b - 0.9151185256101458
+
+16) mrs_scott_b - 0.8995234638310611
+
+17) ned_moffat_b - 0.8955758400721852
+
+18) frank_b - 0.8954712810831514
+
+19) polly_b - 0.8597938501957759
+
+20) miss_kate_b - 0.8473275990886943
+
+21) annie_moffat_b - 0.7939676642417964
+
+22) mr_davis_b - 0.7712283866865418
+
+23) miss_margaret_b - 0.7374506969019592
+
+24) esther_b - 0.7216193841922663
+
+25) miss_belle_b - 0.6660555800166392
+
+Result for the vector: meg, coming from part a of the book
+Rank: 3 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9727727190987653
+
+1) amy_march_b - 0.9799799919128418
+
+2) miss_jo_b - 0.9792826771736145
+
+3) meg_b - 0.9727727190987653
+
+4) beth_b - 0.9724273698075211
+
+5) mr_laurie_b - 0.9622689485549927
+
+6) hannah_b - 0.9605162716219604
+
+7) mr_laurence_b - 0.9541949061039163
+
+8) demi_b - 0.9528444097293741
+
+9) mother_bhaer_b - 0.9489137782675463
+
+10) mrs_john_brooke_b - 0.9464966654777527
+
+11) teddy_b - 0.9414573907852173
+
+12) daisy_b - 0.9399889707565308
+
+13) marmee_b - 0.9395338260849627
+
+14) miss_sallie_b - 0.9287380065038262
+
+15) fred_vaughn_b - 0.9169319917600176
+
+16) ned_moffat_b - 0.9020265457598576
+
+17) mrs_scott_b - 0.8982474414927496
+
+18) frank_b - 0.8971258401870728
+
+19) polly_b - 0.8470650911331177
+
+20) miss_kate_b - 0.8380761742591858
+
+21) annie_moffat_b - 0.8028758646771842
+
+22) mr_davis_b - 0.7771489024162292
+
+23) miss_margaret_b - 0.7599224674678587
+
+24) esther_b - 0.7133533954620361
+
+25) miss_belle_b - 0.6536593437194824
+
+Result for the vector: amy_march, coming from part a of the book
+Rank: 2 out of 25 characters
+Cosine similarity to the co-referring vector: 0.981905996799469
+
+1) miss_jo_b - 0.9822219014167786
+
+2) amy_march_b - 0.981905996799469
+
+3) beth_b - 0.9794101131313989
+
+4) meg_b - 0.9777995957255622
+
+5) hannah_b - 0.9736907466465697
+
+6) daisy_b - 0.964358925819397
+
+7) mr_laurie_b - 0.9617753028869629
+
+8) demi_b - 0.9581918405947641
+
+9) mother_bhaer_b - 0.953154172285278
+
+10) mrs_john_brooke_b - 0.9523541927337646
+
+11) miss_sallie_b - 0.9516170082548915
+
+12) mr_laurence_b - 0.9503577381159241
+
+13) teddy_b - 0.945307731628418
+
+14) marmee_b - 0.9426288570540479
+
+15) fred_vaughn_b - 0.919919853215228
+
+16) mrs_scott_b - 0.910211227257067
+
+17) frank_b - 0.9050052762031555
+
+18) ned_moffat_b - 0.9042847866672596
+
+19) miss_kate_b - 0.8524191379547119
+
+20) polly_b - 0.8408761620521545
+
+21) annie_moffat_b - 0.8044780376242436
+
+22) mr_davis_b - 0.7877053022384644
+
+23) miss_margaret_b - 0.7533838973457786
+
+24) esther_b - 0.7201106548309326
+
+25) miss_belle_b - 0.6746087074279785
+
+Result for the vector: mr_laurie, coming from part a of the book
+Rank: 1 out of 25 characters
+Cosine similarity to the co-referring vector: 0.975587010383606
+
+1) mr_laurie_b - 0.975587010383606
+
+2) mrs_john_brooke_b - 0.9716769456863403
+
+3) demi_b - 0.9697845271165533
+
+4) beth_b - 0.9619787358058269
+
+5) fred_vaughn_b - 0.9577651645085135
+
+6) miss_jo_b - 0.9571781158447266
+
+7) meg_b - 0.9564822938154778
+
+8) hannah_b - 0.9562604997313338
+
+9) amy_march_b - 0.9489611983299255
+
+10) mr_laurence_b - 0.9443002376377457
+
+11) teddy_b - 0.9415276646614075
+
+12) miss_sallie_b - 0.9308995686889275
+
+13) mother_bhaer_b - 0.9296967026320169
+
+14) daisy_b - 0.9295080900192261
+
+15) frank_b - 0.9268769025802612
+
+16) marmee_b - 0.9169828246225626
+
+17) mrs_scott_b - 0.9150469525200421
+
+18) ned_moffat_b - 0.8883111013995352
+
+19) polly_b - 0.8441135883331299
+
+20) miss_kate_b - 0.8230754137039185
+
+21) annie_moffat_b - 0.7996516108305236
+
+22) mr_davis_b - 0.7534681558609009
+
+23) miss_margaret_b - 0.728595099705312
+
+24) esther_b - 0.6920856833457947
+
+25) miss_belle_b - 0.6322117447853088
+
+Result for the vector: beth, coming from part a of the book
+Rank: 2 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9789099718439612
+
+1) meg_b - 0.9792142535192664
+
+2) beth_b - 0.9789099718439612
+
+3) miss_jo_b - 0.9783964169981249
+
+4) amy_march_b - 0.9768338813284724
+
+5) hannah_b - 0.9642377495765755
+
+6) daisy_b - 0.961729826824081
+
+7) miss_sallie_b - 0.9500670522331519
+
+8) mr_laurie_b - 0.9477853806146769
+
+9) mother_bhaer_b - 0.9447402639609759
+
+10) demi_b - 0.9439857916836243
+
+11) mrs_john_brooke_b - 0.9432043467042256
+
+12) mr_laurence_b - 0.9395394993377328
+
+13) marmee_b - 0.9362501502037115
+
+14) teddy_b - 0.9319970052244081
+
+15) fred_vaughn_b - 0.9104246007889986
+
+16) mrs_scott_b - 0.8995967179416732
+
+17) frank_b - 0.8937450710687015
+
+18) ned_moffat_b - 0.891647239032883
+
+19) miss_kate_b - 0.8570568050708306
+
+20) polly_b - 0.8382613159262364
+
+21) annie_moffat_b - 0.7985830307006893
+
+22) mr_davis_b - 0.7714989917576928
+
+23) miss_margaret_b - 0.7489679828593766
+
+24) esther_b - 0.724130587331619
+
+25) miss_belle_b - 0.6648463210555136
+
+Result for the vector: mrs_john_brooke, coming from part a of the book
+Rank: 4 out of 25 characters
+Cosine similarity to the co-referring vector: 0.845797061920166
+
+1) annie_moffat_b - 0.9242675855319269
+
+2) mrs_scott_b - 0.9108458975713793
+
+3) mr_laurence_b - 0.8743984178067212
+
+4) mrs_john_brooke_b - 0.845797061920166
+
+5) mr_laurie_b - 0.8377683162689209
+
+6) teddy_b - 0.8278464674949646
+
+7) fred_vaughn_b - 0.8252845510670825
+
+8) demi_b - 0.8212841993953053
+
+9) frank_b - 0.8142471313476562
+
+10) hannah_b - 0.8118165023217515
+
+11) beth_b - 0.8095919603352585
+
+12) miss_jo_b - 0.8057428598403931
+
+13) meg_b - 0.8030834911415895
+
+14) amy_march_b - 0.8000919222831726
+
+15) marmee_b - 0.7955212471199793
+
+16) mother_bhaer_b - 0.7930321210353515
+
+17) daisy_b - 0.7839345932006836
+
+18) miss_sallie_b - 0.772512284217806
+
+19) ned_moffat_b - 0.760388760520373
+
+20) polly_b - 0.722297728061676
+
+21) miss_kate_b - 0.6962853670120239
+
+22) mr_davis_b - 0.6886109113693237
+
+23) miss_margaret_b - 0.6372806023740951
+
+24) esther_b - 0.612806499004364
+
+25) miss_belle_b - 0.5755094289779663
+
+Result for the vector: hannah, coming from part a of the book
+Rank: 1 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9803759420590314
+
+1) hannah_b - 0.9803759420590314
+
+2) beth_b - 0.9774785624431863
+
+3) meg_b - 0.9692757707402725
+
+4) mrs_john_brooke_b - 0.9646184998295971
+
+5) miss_sallie_b - 0.9628983139992034
+
+6) miss_jo_b - 0.9586525510135422
+
+7) amy_march_b - 0.9576165625592017
+
+8) daisy_b - 0.9547520821991132
+
+9) fred_vaughn_b - 0.9515414805139145
+
+10) mr_laurie_b - 0.9498966872569017
+
+11) demi_b - 0.9467060188511079
+
+12) mother_bhaer_b - 0.9402087504107137
+
+13) mr_laurence_b - 0.9378748499080599
+
+14) frank_b - 0.9230182079098538
+
+15) marmee_b - 0.9204848266514842
+
+16) mrs_scott_b - 0.9156540754311843
+
+17) teddy_b - 0.9120570912429268
+
+18) ned_moffat_b - 0.8903672099113717
+
+19) miss_kate_b - 0.8822196581625593
+
+20) polly_b - 0.8284578118870093
+
+21) annie_moffat_b - 0.7947607269455317
+
+22) mr_davis_b - 0.7512180508635158
+
+23) esther_b - 0.7357239408164006
+
+24) miss_margaret_b - 0.7256820091131372
+
+25) miss_belle_b - 0.6621223881390604
+
+Result for the vector: mother_bhaer, coming from part a of the book
+Rank: 1 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9721743431299159
+
+1) mother_bhaer_b - 0.9721743431299159
+
+2) beth_b - 0.9605439615087559
+
+3) hannah_b - 0.9588213824172068
+
+4) meg_b - 0.9493928864779246
+
+5) miss_jo_b - 0.945882050570311
+
+6) amy_march_b - 0.94409492445275
+
+7) daisy_b - 0.9422583860831976
+
+8) miss_sallie_b - 0.9410876386385392
+
+9) marmee_b - 0.9367788079481255
+
+10) teddy_b - 0.9359498302921606
+
+11) mrs_john_brooke_b - 0.9341033975512806
+
+12) mr_laurence_b - 0.9332919438692385
+
+13) mr_laurie_b - 0.9305658617784344
+
+14) demi_b - 0.9302501040846172
+
+15) fred_vaughn_b - 0.9208122217413158
+
+16) frank_b - 0.9041713149598637
+
+17) mrs_scott_b - 0.8978916284908821
+
+18) ned_moffat_b - 0.8876798551368942
+
+19) miss_kate_b - 0.8456485523476769
+
+20) annie_moffat_b - 0.7912725321596148
+
+21) mr_davis_b - 0.7892138001088443
+
+22) polly_b - 0.7833317751685317
+
+23) miss_margaret_b - 0.7557148191758882
+
+24) esther_b - 0.7216345286856455
+
+25) miss_belle_b - 0.7128294918784351
+
+Result for the vector: mr_laurence, coming from part a of the book
+Rank: 1 out of 25 characters
+Cosine similarity to the co-referring vector: 0.971200173282594
+
+1) mr_laurence_b - 0.971200173282594
+
+2) mrs_john_brooke_b - 0.9654378932192521
+
+3) mr_laurie_b - 0.9653670829097002
+
+4) demi_b - 0.9632107350339936
+
+5) hannah_b - 0.9606666588386058
+
+6) beth_b - 0.9595250559702433
+
+7) fred_vaughn_b - 0.9546504697828662
+
+8) miss_jo_b - 0.9517670331279068
+
+9) teddy_b - 0.9498391807271094
+
+10) meg_b - 0.949182579067486
+
+11) amy_march_b - 0.9450388616277211
+
+12) mother_bhaer_b - 0.9443121867087038
+
+13) mrs_scott_b - 0.9359435756223532
+
+14) daisy_b - 0.9349536377246879
+
+15) frank_b - 0.9315585575630067
+
+16) marmee_b - 0.931012157737499
+
+17) miss_sallie_b - 0.9280750922977704
+
+18) ned_moffat_b - 0.905135892597224
+
+19) annie_moffat_b - 0.8367412783657876
+
+20) miss_kate_b - 0.835352857666873
+
+21) mr_davis_b - 0.8246075124016448
+
+22) polly_b - 0.815145097357625
+
+23) miss_margaret_b - 0.7630640778186336
+
+24) esther_b - 0.7130881889953439
+
+25) miss_belle_b - 0.689577914526716
+
+Result for the vector: fred_vaughn, coming from part a of the book
+Rank: 12 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9330270370212749
+
+1) mr_laurie_b - 0.9674838204691534
+
+2) demi_b - 0.9538324191024217
+
+3) beth_b - 0.9535847957629209
+
+4) mr_laurence_b - 0.9516975937250145
+
+5) miss_jo_b - 0.9505211144375154
+
+6) teddy_b - 0.9494458467098583
+
+7) hannah_b - 0.9485450983047553
+
+8) mrs_john_brooke_b - 0.9442113075130415
+
+9) amy_march_b - 0.9426682625610688
+
+10) mother_bhaer_b - 0.9389914554057063
+
+11) meg_b - 0.9389157368045167
+
+12) fred_vaughn_b - 0.9330270370212749
+
+13) marmee_b - 0.9328303337097235
+
+14) daisy_b - 0.927208308743937
+
+15) frank_b - 0.9173493434578588
+
+16) mrs_scott_b - 0.9084883603003233
+
+17) miss_sallie_b - 0.90629829651744
+
+18) ned_moffat_b - 0.8984981956783199
+
+19) polly_b - 0.8330814341854209
+
+20) miss_kate_b - 0.8092724198536637
+
+21) annie_moffat_b - 0.8077677488327084
+
+22) mr_davis_b - 0.7667103548818629
+
+23) miss_margaret_b - 0.7489639893482957
+
+24) esther_b - 0.7077604110383755
+
+25) miss_belle_b - 0.6527708975809289
+
+Result for the vector: demi, coming from part a of the book
+Rank: 4 out of 25 characters
+Cosine similarity to the co-referring vector: 0.7802832955206426
+
+1) mrs_john_brooke_b - 0.7960844039916992
+
+2) frank_b - 0.7854305505752563
+
+3) fred_vaughn_b - 0.783946348193507
+
+4) demi_b - 0.7802832955206426
+
+5) hannah_b - 0.7765166030238048
+
+6) beth_b - 0.7756865158267919
+
+7) daisy_b - 0.774091362953186
+
+8) mr_laurence_b - 0.7621720574991683
+
+9) mr_laurie_b - 0.7617594599723816
+
+10) meg_b - 0.7559990432263004
+
+11) mother_bhaer_b - 0.7545785982530085
+
+12) miss_jo_b - 0.7502366304397583
+
+13) mrs_scott_b - 0.749519415156792
+
+14) miss_sallie_b - 0.7454057043307233
+
+15) amy_march_b - 0.7425296306610107
+
+16) marmee_b - 0.7393385612570395
+
+17) teddy_b - 0.73161780834198
+
+18) miss_kate_b - 0.7136473059654236
+
+19) ned_moffat_b - 0.71280101385105
+
+20) polly_b - 0.6851620674133301
+
+21) annie_moffat_b - 0.6504958063659564
+
+22) mr_davis_b - 0.6202386617660522
+
+23) miss_margaret_b - 0.5891812619322917
+
+24) esther_b - 0.5845714211463928
+
+25) miss_belle_b - 0.5520111918449402
+
+Result for the vector: miss_sallie, coming from part a of the book
+Rank: 8 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9546347910601217
+
+1) beth_b - 0.9732457415315084
+
+2) miss_jo_b - 0.9721012711524963
+
+3) hannah_b - 0.9694446903136206
+
+4) meg_b - 0.9653942009571688
+
+5) amy_march_b - 0.9645721912384033
+
+6) mr_laurie_b - 0.9592702388763428
+
+7) mrs_john_brooke_b - 0.9549845457077026
+
+8) miss_sallie_b - 0.9546347910601217
+
+9) daisy_b - 0.9545774459838867
+
+10) teddy_b - 0.9529862403869629
+
+11) demi_b - 0.9527706787815896
+
+12) mother_bhaer_b - 0.9526961701538753
+
+13) mr_laurence_b - 0.9525166182210094
+
+14) marmee_b - 0.9522207350862482
+
+15) fred_vaughn_b - 0.9374696649629094
+
+16) frank_b - 0.9151687026023865
+
+17) mrs_scott_b - 0.9132298451569575
+
+18) ned_moffat_b - 0.9048675412097589
+
+19) miss_kate_b - 0.8641356229782104
+
+20) polly_b - 0.8299115896224976
+
+21) annie_moffat_b - 0.8097286707001147
+
+22) mr_davis_b - 0.7749167680740356
+
+23) miss_margaret_b - 0.7534551248984079
+
+24) esther_b - 0.7168976664543152
+
+25) miss_belle_b - 0.6705042719841003
+
+Result for the vector: marmee, coming from part a of the book
+Rank: 2 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9636444097227473
+
+1) teddy_b - 0.9674170286134247
+
+2) marmee_b - 0.9636444097227473
+
+3) hannah_b - 0.955282830489104
+
+4) beth_b - 0.9539758251302296
+
+5) meg_b - 0.9431415481311649
+
+6) mother_bhaer_b - 0.9413089647249516
+
+7) miss_jo_b - 0.9412469513339097
+
+8) mr_laurie_b - 0.9398815876139668
+
+9) mr_laurence_b - 0.9375938456533609
+
+10) mrs_john_brooke_b - 0.9373260382407379
+
+11) amy_march_b - 0.9371587875925448
+
+12) daisy_b - 0.9362182262138964
+
+13) miss_sallie_b - 0.9346314390113725
+
+14) demi_b - 0.9330598632168623
+
+15) fred_vaughn_b - 0.9289671459486333
+
+16) frank_b - 0.8968897071680201
+
+17) mrs_scott_b - 0.887760261492776
+
+18) ned_moffat_b - 0.8825732206531591
+
+19) miss_kate_b - 0.8327397852605423
+
+20) annie_moffat_b - 0.7898817643347035
+
+21) polly_b - 0.7747041679654303
+
+22) mr_davis_b - 0.7556964238610677
+
+23) miss_margaret_b - 0.7347778361770925
+
+24) esther_b - 0.7145417375452908
+
+25) miss_belle_b - 0.6584552519132448
+
+Result for the vector: miss_margaret, coming from part a of the book
+Rank: 23 out of 25 characters
+Cosine similarity to the co-referring vector: 0.7361298046189431
+
+1) meg_b - 0.9701467463330443
+
+2) miss_jo_b - 0.9639280725696113
+
+3) amy_march_b - 0.9633853722627577
+
+4) beth_b - 0.9583489013210305
+
+5) hannah_b - 0.9434736022478587
+
+6) daisy_b - 0.941587356972318
+
+7) mrs_john_brooke_b - 0.9351806919330569
+
+8) miss_sallie_b - 0.9338627814773323
+
+9) demi_b - 0.9242001726746663
+
+10) mother_bhaer_b - 0.9220281150374566
+
+11) mr_laurence_b - 0.9217781745857582
+
+12) mr_laurie_b - 0.9158221160120407
+
+13) marmee_b - 0.9141494256987658
+
+14) teddy_b - 0.9072776707195546
+
+15) fred_vaughn_b - 0.8999371260423361
+
+16) mrs_scott_b - 0.887032137755412
+
+17) frank_b - 0.8816812897229583
+
+18) ned_moffat_b - 0.8744277172302357
+
+19) miss_kate_b - 0.8634888191070804
+
+20) polly_b - 0.8241955883561254
+
+21) annie_moffat_b - 0.7861780631105364
+
+22) mr_davis_b - 0.7499171718930359
+
+23) miss_margaret_b - 0.7361298046189431
+
+24) esther_b - 0.6985559671686881
+
+25) miss_belle_b - 0.6690225204534093
+
+Result for the vector: annie_moffat, coming from part a of the book
+Rank: 11 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9237899138802255
+
+1) mrs_scott_b - 0.9509852186726268
+
+2) mr_laurence_b - 0.9507007032215193
+
+3) beth_b - 0.9372162260284306
+
+4) hannah_b - 0.935601409411516
+
+5) mrs_john_brooke_b - 0.9351910352706909
+
+6) mr_laurie_b - 0.9349477291107178
+
+7) miss_jo_b - 0.93086838722229
+
+8) meg_b - 0.9305664342304226
+
+9) amy_march_b - 0.9286786317825317
+
+10) demi_b - 0.925057319553415
+
+11) annie_moffat_b - 0.9237899138802255
+
+12) teddy_b - 0.9234761595726013
+
+13) daisy_b - 0.9185393452644348
+
+14) miss_sallie_b - 0.9172236422033802
+
+15) fred_vaughn_b - 0.9135589055085851
+
+16) mother_bhaer_b - 0.9111557821472724
+
+17) marmee_b - 0.9054038468244
+
+18) frank_b - 0.8961260318756104
+
+19) ned_moffat_b - 0.8762638716383195
+
+20) miss_kate_b - 0.8211092948913574
+
+21) polly_b - 0.803398609161377
+
+22) mr_davis_b - 0.7850266695022583
+
+23) miss_margaret_b - 0.7241741634659223
+
+24) esther_b - 0.6982383728027344
+
+25) miss_belle_b - 0.6611770391464233
+
+Result for the vector: ned_moffat, coming from part a of the book
+Rank: 18 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9015103695976358
+
+1) mr_laurence_b - 0.9615059517916487
+
+2) mr_laurie_b - 0.9589742422103882
+
+3) beth_b - 0.9557203676867283
+
+4) hannah_b - 0.9549863311640239
+
+5) miss_jo_b - 0.9531028270721436
+
+6) teddy_b - 0.9520828127861023
+
+7) demi_b - 0.9509365842025458
+
+8) mrs_john_brooke_b - 0.9495633244514465
+
+9) meg_b - 0.9486293823343901
+
+10) amy_march_b - 0.9433671236038208
+
+11) fred_vaughn_b - 0.9419258271499992
+
+12) mother_bhaer_b - 0.9397834783598947
+
+13) miss_sallie_b - 0.9359508233129064
+
+14) daisy_b - 0.9357839822769165
+
+15) marmee_b - 0.9354930481608555
+
+16) frank_b - 0.9296344518661499
+
+17) mrs_scott_b - 0.9204165566340027
+
+18) ned_moffat_b - 0.9015103695976358
+
+19) miss_kate_b - 0.8443963527679443
+
+20) annie_moffat_b - 0.8292527097018203
+
+21) polly_b - 0.8198620676994324
+
+22) mr_davis_b - 0.7754089832305908
+
+23) miss_margaret_b - 0.7525333390394852
+
+24) esther_b - 0.7090564370155334
+
+25) miss_belle_b - 0.6728894114494324
+
+Result for the vector: mr_davis, coming from part a of the book
+Rank: 22 out of 25 characters
+Cosine similarity to the co-referring vector: 0.7587166880796379
+
+1) mr_laurie_b - 0.9673082212989479
+
+2) mrs_john_brooke_b - 0.9647666194895892
+
+3) demi_b - 0.9621978070316742
+
+4) fred_vaughn_b - 0.9541913866996833
+
+5) mr_laurence_b - 0.9504910111427375
+
+6) miss_jo_b - 0.9500089854007372
+
+7) hannah_b - 0.9474501547157949
+
+8) beth_b - 0.9449093341827459
+
+9) amy_march_b - 0.9378690086525104
+
+10) meg_b - 0.9358735084533758
+
+11) frank_b - 0.9205213737798572
+
+12) teddy_b - 0.9175276111082815
+
+13) mother_bhaer_b - 0.9148863725194895
+
+14) mrs_scott_b - 0.9145537785520824
+
+15) daisy_b - 0.9143566438172264
+
+16) miss_sallie_b - 0.9090125018946971
+
+17) marmee_b - 0.8905670512398542
+
+18) ned_moffat_b - 0.886741406515767
+
+19) polly_b - 0.8193793189155664
+
+20) miss_kate_b - 0.8140164502868935
+
+21) annie_moffat_b - 0.8057824141719835
+
+22) mr_davis_b - 0.7587166880796379
+
+23) miss_margaret_b - 0.7094791569840158
+
+24) esther_b - 0.7074473325876804
+
+25) miss_belle_b - 0.6440439608123291
+
+Result for the vector: miss_kate, coming from part a of the book
+Rank: 19 out of 25 characters
+Cosine similarity to the co-referring vector: 0.8678747415542603
+
+1) miss_jo_b - 0.978841245174408
+
+2) meg_b - 0.9779683364648636
+
+3) beth_b - 0.9767923368935402
+
+4) amy_march_b - 0.9758890867233276
+
+5) hannah_b - 0.9668045024159271
+
+6) daisy_b - 0.9567842483520508
+
+7) mr_laurie_b - 0.9527444243431091
+
+8) miss_sallie_b - 0.9509241639466158
+
+9) mrs_john_brooke_b - 0.9504818916320801
+
+10) mr_laurence_b - 0.9487054378565902
+
+11) demi_b - 0.9470621629673891
+
+12) mother_bhaer_b - 0.9414717204694536
+
+13) marmee_b - 0.9375758729920328
+
+14) teddy_b - 0.9365849494934082
+
+15) fred_vaughn_b - 0.9279990835190383
+
+16) frank_b - 0.9129928946495056
+
+17) mrs_scott_b - 0.9113577227018264
+
+18) ned_moffat_b - 0.8975526812609878
+
+19) miss_kate_b - 0.8678747415542603
+
+20) polly_b - 0.8362223505973816
+
+21) annie_moffat_b - 0.8153411635959856
+
+22) mr_davis_b - 0.7674321532249451
+
+23) miss_margaret_b - 0.7465731128028966
+
+24) esther_b - 0.7167659401893616
+
+25) miss_belle_b - 0.6589912176132202
+
+Result for the vector: miss_belle, coming from part a of the book
+Rank: 25 out of 25 characters
+Cosine similarity to the co-referring vector: 0.6890127248160419
+
+1) amy_march_b - 0.9732697622019212
+
+2) miss_jo_b - 0.972389878488192
+
+3) beth_b - 0.9675469437185593
+
+4) meg_b - 0.9673169890264286
+
+5) hannah_b - 0.9631167054176399
+
+6) mr_laurie_b - 0.9536663321455536
+
+7) daisy_b - 0.9520519404380374
+
+8) miss_sallie_b - 0.9471888040562639
+
+9) mrs_john_brooke_b - 0.9460631045065476
+
+10) demi_b - 0.9451697783121571
+
+11) mother_bhaer_b - 0.9437465948983117
+
+12) mr_laurence_b - 0.9381806924127707
+
+13) teddy_b - 0.922444825026703
+
+14) marmee_b - 0.9211337566375798
+
+15) fred_vaughn_b - 0.9165701965605978
+
+16) mrs_scott_b - 0.9028148920182952
+
+17) ned_moffat_b - 0.8992515982535619
+
+18) frank_b - 0.8963829936752935
+
+19) miss_kate_b - 0.8567072834547008
+
+20) polly_b - 0.8458363505699441
+
+21) annie_moffat_b - 0.7962706089019832
+
+22) mr_davis_b - 0.7748514548032622
+
+23) miss_margaret_b - 0.740920998426649
+
+24) esther_b - 0.7014235436067866
+
+25) miss_belle_b - 0.6890127248160419
+
+Result for the vector: frank, coming from part a of the book
+Rank: 16 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9156057188275901
+
+1) mr_laurie_b - 0.9654861071995577
+
+2) mr_laurence_b - 0.9572800397872993
+
+3) demi_b - 0.9547392983501527
+
+4) miss_jo_b - 0.9544011327267385
+
+5) beth_b - 0.9525036215782233
+
+6) amy_march_b - 0.9514183373104552
+
+7) mrs_john_brooke_b - 0.951128897138174
+
+8) hannah_b - 0.9503455698902095
+
+9) teddy_b - 0.9488159983644502
+
+10) meg_b - 0.9460155963897773
+
+11) mother_bhaer_b - 0.9367191995261911
+
+12) marmee_b - 0.9333290974294063
+
+13) fred_vaughn_b - 0.9320284128189154
+
+14) daisy_b - 0.9247984841345853
+
+15) miss_sallie_b - 0.9171206404495004
+
+16) frank_b - 0.9156057188275901
+
+17) mrs_scott_b - 0.9075775902833928
+
+18) ned_moffat_b - 0.8949897947913674
+
+19) polly_b - 0.8301567334030127
+
+20) miss_kate_b - 0.8258678809325639
+
+21) annie_moffat_b - 0.811544515078606
+
+22) mr_davis_b - 0.7828492988854243
+
+23) miss_margaret_b - 0.7493776156941908
+
+24) esther_b - 0.7027108492082876
+
+25) miss_belle_b - 0.6641208925319262
+
+Result for the vector: polly, coming from part a of the book
+Rank: 17 out of 25 characters
+Cosine similarity to the co-referring vector: 0.8903221553372068
+
+1) mrs_john_brooke_b - 0.9522760538890347
+
+2) mr_laurie_b - 0.9475321204941217
+
+3) demi_b - 0.9427478628531772
+
+4) beth_b - 0.9388105346190292
+
+5) miss_jo_b - 0.9338470736833188
+
+6) hannah_b - 0.9331073760986395
+
+7) fred_vaughn_b - 0.9312289439166851
+
+8) mr_laurence_b - 0.9295835578938058
+
+9) meg_b - 0.9253552048974985
+
+10) amy_march_b - 0.9245758697643374
+
+11) daisy_b - 0.9233944461706627
+
+12) mrs_scott_b - 0.9088182124143407
+
+13) miss_sallie_b - 0.8965596145582905
+
+14) mother_bhaer_b - 0.8957101373586199
+
+15) frank_b - 0.8938032451985348
+
+16) teddy_b - 0.8918022577880483
+
+17) polly_b - 0.8903221553372068
+
+18) ned_moffat_b - 0.8828489989908355
+
+19) marmee_b - 0.87351822853089
+
+20) miss_kate_b - 0.8090613598190942
+
+21) annie_moffat_b - 0.7742229700088556
+
+22) mr_davis_b - 0.7361413397704769
+
+23) esther_b - 0.7185074258740303
+
+24) miss_margaret_b - 0.695570865405477
+
+25) miss_belle_b - 0.6257925256614383
+
+Result for the vector: esther, coming from part a of the book
+Rank: 24 out of 25 characters
+Cosine similarity to the co-referring vector: 0.7026087400187614
+
+1) amy_march_b - 0.9605558561616183
+
+2) miss_jo_b - 0.9589834858198847
+
+3) hannah_b - 0.9577313686769539
+
+4) meg_b - 0.9567286449559983
+
+5) beth_b - 0.9557698448115882
+
+6) mrs_john_brooke_b - 0.9427310296617778
+
+7) mr_laurence_b - 0.937267910730618
+
+8) demi_b - 0.9356544373344492
+
+9) miss_sallie_b - 0.9340780534558168
+
+10) mother_bhaer_b - 0.9331669529328861
+
+11) mr_laurie_b - 0.9327679952659679
+
+12) daisy_b - 0.9326573690584524
+
+13) fred_vaughn_b - 0.9264484179410204
+
+14) frank_b - 0.9060390107585243
+
+15) marmee_b - 0.9014169036497676
+
+16) teddy_b - 0.8995438337869907
+
+17) mrs_scott_b - 0.8966576189799021
+
+18) ned_moffat_b - 0.8827933948532594
+
+19) miss_kate_b - 0.8634385629369603
+
+20) polly_b - 0.8285973872426345
+
+21) annie_moffat_b - 0.7919322376291736
+
+22) mr_davis_b - 0.7698533809359867
+
+23) miss_margaret_b - 0.729037279274715
+
+24) esther_b - 0.7026087400187614
+
+25) miss_belle_b - 0.6746914178500918
+
+Result for the vector: teddy, coming from part a of the book
+Rank: 1 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9650788882421801
+
+1) teddy_b - 0.9650788882421801
+
+2) marmee_b - 0.9587194870375976
+
+3) mr_laurie_b - 0.9447457161394205
+
+4) hannah_b - 0.9430418542673414
+
+5) demi_b - 0.9427429088422281
+
+6) mother_bhaer_b - 0.9424498889520603
+
+7) mr_laurence_b - 0.9412457346916265
+
+8) beth_b - 0.9391750693321295
+
+9) mrs_john_brooke_b - 0.9355059227648944
+
+10) miss_jo_b - 0.9343574604009085
+
+11) amy_march_b - 0.9282945351776221
+
+12) fred_vaughn_b - 0.9263873100280827
+
+13) meg_b - 0.9263501167297429
+
+14) daisy_b - 0.9140431233670205
+
+15) miss_sallie_b - 0.9117786936892003
+
+16) frank_b - 0.9043328705032406
+
+17) mrs_scott_b - 0.8959240460282637
+
+18) ned_moffat_b - 0.8829429219399282
+
+19) annie_moffat_b - 0.8070015677215537
+
+20) miss_kate_b - 0.8061672929625104
+
+21) polly_b - 0.7849697342496966
+
+22) mr_davis_b - 0.7646490791230859
+
+23) miss_margaret_b - 0.7379157010837529
+
+24) esther_b - 0.7065927211399521
+
+25) miss_belle_b - 0.6467271832661153
+
+Result for the vector: daisy, coming from part a of the book
+Rank: 7 out of 25 characters
+Cosine similarity to the co-referring vector: 0.8949982523918152
+
+1) teddy_b - 0.9361448287963867
+
+2) marmee_b - 0.9200213503850327
+
+3) mr_laurence_b - 0.9101067238982501
+
+4) mr_laurie_b - 0.9001662135124207
+
+5) miss_jo_b - 0.8988327383995056
+
+6) beth_b - 0.8959135475210237
+
+7) daisy_b - 0.8949982523918152
+
+8) demi_b - 0.8939217595434718
+
+9) hannah_b - 0.8934542473229333
+
+10) amy_march_b - 0.8894882798194885
+
+11) meg_b - 0.8893531030802085
+
+12) mother_bhaer_b - 0.8883586724125188
+
+13) mrs_john_brooke_b - 0.8851285576820374
+
+14) fred_vaughn_b - 0.8704693990666048
+
+15) miss_sallie_b - 0.8610214160655302
+
+16) frank_b - 0.8512683510780334
+
+17) ned_moffat_b - 0.8456791227246436
+
+18) mrs_scott_b - 0.8397919094376517
+
+19) miss_kate_b - 0.7721443176269531
+
+20) annie_moffat_b - 0.7608391500019535
+
+21) mr_davis_b - 0.7470349073410034
+
+22) polly_b - 0.7340771555900574
+
+23) miss_margaret_b - 0.7160777066969192
+
+24) esther_b - 0.6535638570785522
+
+25) miss_belle_b - 0.6504359245300293
+
+Result for the vector: mrs_scott, coming from part a of the book
+Rank: 2 out of 25 characters
+Cosine similarity to the co-referring vector: 0.8125631343629811
+
+1) mr_laurence_b - 0.8341875771172313
+
+2) mrs_scott_b - 0.8125631343629811
+
+3) mr_laurie_b - 0.8084720969200134
+
+4) miss_jo_b - 0.806446373462677
+
+5) demi_b - 0.8055646063555664
+
+6) beth_b - 0.8049702760594933
+
+7) hannah_b - 0.8030402542972731
+
+8) amy_march_b - 0.8029019236564636
+
+9) annie_moffat_b - 0.7953773018942669
+
+10) mother_bhaer_b - 0.795174967811257
+
+11) meg_b - 0.7946018699048849
+
+12) mrs_john_brooke_b - 0.7933486700057983
+
+13) frank_b - 0.79253089427948
+
+14) fred_vaughn_b - 0.7877693898815294
+
+15) teddy_b - 0.7833057045936584
+
+16) marmee_b - 0.7812361586830724
+
+17) daisy_b - 0.780576765537262
+
+18) ned_moffat_b - 0.7603494810641485
+
+19) miss_sallie_b - 0.752197772002491
+
+20) mr_davis_b - 0.7001714706420898
+
+21) miss_kate_b - 0.6922533512115479
+
+22) polly_b - 0.6871876120567322
+
+23) miss_margaret_b - 0.6758545242504637
+
+24) miss_belle_b - 0.5961132645606995
+
+25) esther_b - 0.5710757970809937
+
+Result for the vector: miss_jo, coming from part b of the book
+Rank: 4 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9787494552880868
+
+1) amy_march_a - 0.9822219014167786
+
+2) meg_a - 0.9792826771736145
+
+3) miss_kate_a - 0.978841245174408
+
+4) miss_jo_a - 0.9787494552880868
+
+5) beth_a - 0.9783964169981249
+
+6) miss_belle_a - 0.972389878488192
+
+7) miss_sallie_a - 0.9721012711524963
+
+8) miss_margaret_a - 0.9639280725696113
+
+9) esther_a - 0.9589834858198847
+
+10) hannah_a - 0.9586525510135422
+
+11) mr_laurie_a - 0.9571781158447266
+
+12) frank_a - 0.9544011327267385
+
+13) ned_moffat_a - 0.9531028270721436
+
+14) mr_laurence_a - 0.9517670331279068
+
+15) fred_vaughn_a - 0.9505211144375154
+
+16) mr_davis_a - 0.9500089854007372
+
+17) mother_bhaer_a - 0.945882050570311
+
+18) marmee_a - 0.9412469513339097
+
+19) teddy_a - 0.9343574604009085
+
+20) polly_a - 0.9338470736833188
+
+21) annie_moffat_a - 0.93086838722229
+
+22) daisy_a - 0.8988327383995056
+
+23) mrs_scott_a - 0.806446373462677
+
+24) mrs_john_brooke_a - 0.8057428598403931
+
+25) demi_a - 0.7502366304397583
+
+Result for the vector: meg, coming from part b of the book
+Rank: 4 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9727727190987653
+
+1) beth_a - 0.9792142535192664
+
+2) miss_kate_a - 0.9779683364648636
+
+3) amy_march_a - 0.9777995957255622
+
+4) meg_a - 0.9727727190987653
+
+5) miss_jo_a - 0.9726719292793359
+
+6) miss_margaret_a - 0.9701467463330443
+
+7) hannah_a - 0.9692757707402725
+
+8) miss_belle_a - 0.9673169890264286
+
+9) miss_sallie_a - 0.9653942009571688
+
+10) esther_a - 0.9567286449559983
+
+11) mr_laurie_a - 0.9564822938154778
+
+12) mother_bhaer_a - 0.9493928864779246
+
+13) mr_laurence_a - 0.949182579067486
+
+14) ned_moffat_a - 0.9486293823343901
+
+15) frank_a - 0.9460155963897773
+
+16) marmee_a - 0.9431415481311649
+
+17) fred_vaughn_a - 0.9389157368045167
+
+18) mr_davis_a - 0.9358735084533758
+
+19) annie_moffat_a - 0.9305664342304226
+
+20) teddy_a - 0.9263501167297429
+
+21) polly_a - 0.9253552048974985
+
+22) daisy_a - 0.8893531030802085
+
+23) mrs_john_brooke_a - 0.8030834911415895
+
+24) mrs_scott_a - 0.7946018699048849
+
+25) demi_a - 0.7559990432263004
+
+Result for the vector: amy_march, coming from part b of the book
+Rank: 1 out of 25 characters
+Cosine similarity to the co-referring vector: 0.981905996799469
+
+1) amy_march_a - 0.981905996799469
+
+2) meg_a - 0.9799799919128418
+
+3) beth_a - 0.9768338813284724
+
+4) miss_jo_a - 0.9762375368930395
+
+5) miss_kate_a - 0.9758890867233276
+
+6) miss_belle_a - 0.9732697622019212
+
+7) miss_sallie_a - 0.9645721912384033
+
+8) miss_margaret_a - 0.9633853722627577
+
+9) esther_a - 0.9605558561616183
+
+10) hannah_a - 0.9576165625592017
+
+11) frank_a - 0.9514183373104552
+
+12) mr_laurie_a - 0.9489611983299255
+
+13) mr_laurence_a - 0.9450388616277211
+
+14) mother_bhaer_a - 0.94409492445275
+
+15) ned_moffat_a - 0.9433671236038208
+
+16) fred_vaughn_a - 0.9426682625610688
+
+17) mr_davis_a - 0.9378690086525104
+
+18) marmee_a - 0.9371587875925448
+
+19) annie_moffat_a - 0.9286786317825317
+
+20) teddy_a - 0.9282945351776221
+
+21) polly_a - 0.9245758697643374
+
+22) daisy_a - 0.8894882798194885
+
+23) mrs_scott_a - 0.8029019236564636
+
+24) mrs_john_brooke_a - 0.8000919222831726
+
+25) demi_a - 0.7425296306610107
+
+Result for the vector: mr_laurie, coming from part b of the book
+Rank: 1 out of 25 characters
+Cosine similarity to the co-referring vector: 0.975587010383606
+
+1) mr_laurie_a - 0.975587010383606
+
+2) fred_vaughn_a - 0.9674838204691534
+
+3) mr_davis_a - 0.9673082212989479
+
+4) frank_a - 0.9654861071995577
+
+5) mr_laurence_a - 0.9653670829097002
+
+6) meg_a - 0.9622689485549927
+
+7) amy_march_a - 0.9617753028869629
+
+8) miss_sallie_a - 0.9592702388763428
+
+9) ned_moffat_a - 0.9589742422103882
+
+10) miss_jo_a - 0.956071200604965
+
+11) miss_belle_a - 0.9536663321455536
+
+12) miss_kate_a - 0.9527444243431091
+
+13) hannah_a - 0.9498966872569017
+
+14) beth_a - 0.9477853806146769
+
+15) polly_a - 0.9475321204941217
+
+16) teddy_a - 0.9447457161394205
+
+17) marmee_a - 0.9398815876139668
+
+18) annie_moffat_a - 0.9349477291107178
+
+19) esther_a - 0.9327679952659679
+
+20) mother_bhaer_a - 0.9305658617784344
+
+21) miss_margaret_a - 0.9158221160120407
+
+22) daisy_a - 0.9001662135124207
+
+23) mrs_john_brooke_a - 0.8377683162689209
+
+24) mrs_scott_a - 0.8084720969200134
+
+25) demi_a - 0.7617594599723816
+
+Result for the vector: beth, coming from part b of the book
+Rank: 2 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9789099718439612
+
+1) amy_march_a - 0.9794101131313989
+
+2) beth_a - 0.9789099718439612
+
+3) hannah_a - 0.9774785624431863
+
+4) miss_kate_a - 0.9767923368935402
+
+5) miss_jo_a - 0.973880115284906
+
+6) miss_sallie_a - 0.9732457415315084
+
+7) meg_a - 0.9724273698075211
+
+8) miss_belle_a - 0.9675469437185593
+
+9) mr_laurie_a - 0.9619787358058269
+
+10) mother_bhaer_a - 0.9605439615087559
+
+11) mr_laurence_a - 0.9595250559702433
+
+12) miss_margaret_a - 0.9583489013210305
+
+13) esther_a - 0.9557698448115882
+
+14) ned_moffat_a - 0.9557203676867283
+
+15) marmee_a - 0.9539758251302296
+
+16) fred_vaughn_a - 0.9535847957629209
+
+17) frank_a - 0.9525036215782233
+
+18) mr_davis_a - 0.9449093341827459
+
+19) teddy_a - 0.9391750693321295
+
+20) polly_a - 0.9388105346190292
+
+21) annie_moffat_a - 0.9372162260284306
+
+22) daisy_a - 0.8959135475210237
+
+23) mrs_john_brooke_a - 0.8095919603352585
+
+24) mrs_scott_a - 0.8049702760594933
+
+25) demi_a - 0.7756865158267919
+
+Result for the vector: mrs_john_brooke, coming from part b of the book
+Rank: 23 out of 25 characters
+Cosine similarity to the co-referring vector: 0.845797061920166
+
+1) mr_laurie_a - 0.9716769456863403
+
+2) mr_laurence_a - 0.9654378932192521
+
+3) mr_davis_a - 0.9647666194895892
+
+4) hannah_a - 0.9646184998295971
+
+5) miss_sallie_a - 0.9549845457077026
+
+6) amy_march_a - 0.9523541927337646
+
+7) polly_a - 0.9522760538890347
+
+8) frank_a - 0.951128897138174
+
+9) miss_kate_a - 0.9504818916320801
+
+10) ned_moffat_a - 0.9495633244514465
+
+11) miss_jo_a - 0.9475550086763512
+
+12) meg_a - 0.9464966654777527
+
+13) miss_belle_a - 0.9460631045065476
+
+14) fred_vaughn_a - 0.9442113075130415
+
+15) beth_a - 0.9432043467042256
+
+16) esther_a - 0.9427310296617778
+
+17) marmee_a - 0.9373260382407379
+
+18) teddy_a - 0.9355059227648944
+
+19) annie_moffat_a - 0.9351910352706909
+
+20) miss_margaret_a - 0.9351806919330569
+
+21) mother_bhaer_a - 0.9341033975512806
+
+22) daisy_a - 0.8851285576820374
+
+23) mrs_john_brooke_a - 0.845797061920166
+
+24) demi_a - 0.7960844039916992
+
+25) mrs_scott_a - 0.7933486700057983
+
+Result for the vector: hannah, coming from part b of the book
+Rank: 1 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9803759420590314
+
+1) hannah_a - 0.9803759420590314
+
+2) amy_march_a - 0.9736907466465697
+
+3) miss_sallie_a - 0.9694446903136206
+
+4) miss_kate_a - 0.9668045024159271
+
+5) miss_jo_a - 0.9656598567962715
+
+6) beth_a - 0.9642377495765755
+
+7) miss_belle_a - 0.9631167054176399
+
+8) mr_laurence_a - 0.9606666588386058
+
+9) meg_a - 0.9605162716219604
+
+10) mother_bhaer_a - 0.9588213824172068
+
+11) esther_a - 0.9577313686769539
+
+12) mr_laurie_a - 0.9562604997313338
+
+13) marmee_a - 0.955282830489104
+
+14) ned_moffat_a - 0.9549863311640239
+
+15) frank_a - 0.9503455698902095
+
+16) fred_vaughn_a - 0.9485450983047553
+
+17) mr_davis_a - 0.9474501547157949
+
+18) miss_margaret_a - 0.9434736022478587
+
+19) teddy_a - 0.9430418542673414
+
+20) annie_moffat_a - 0.935601409411516
+
+21) polly_a - 0.9331073760986395
+
+22) daisy_a - 0.8934542473229333
+
+23) mrs_john_brooke_a - 0.8118165023217515
+
+24) mrs_scott_a - 0.8030402542972731
+
+25) demi_a - 0.7765166030238048
+
+Result for the vector: mother_bhaer, coming from part b of the book
+Rank: 1 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9721743431299159
+
+1) mother_bhaer_a - 0.9721743431299159
+
+2) amy_march_a - 0.953154172285278
+
+3) miss_sallie_a - 0.9526961701538753
+
+4) meg_a - 0.9489137782675463
+
+5) miss_jo_a - 0.9451878948565795
+
+6) beth_a - 0.9447402639609759
+
+7) mr_laurence_a - 0.9443121867087038
+
+8) miss_belle_a - 0.9437465948983117
+
+9) teddy_a - 0.9424498889520603
+
+10) miss_kate_a - 0.9414717204694536
+
+11) marmee_a - 0.9413089647249516
+
+12) hannah_a - 0.9402087504107137
+
+13) ned_moffat_a - 0.9397834783598947
+
+14) fred_vaughn_a - 0.9389914554057063
+
+15) frank_a - 0.9367191995261911
+
+16) esther_a - 0.9331669529328861
+
+17) mr_laurie_a - 0.9296967026320169
+
+18) miss_margaret_a - 0.9220281150374566
+
+19) mr_davis_a - 0.9148863725194895
+
+20) annie_moffat_a - 0.9111557821472724
+
+21) polly_a - 0.8957101373586199
+
+22) daisy_a - 0.8883586724125188
+
+23) mrs_scott_a - 0.795174967811257
+
+24) mrs_john_brooke_a - 0.7930321210353515
+
+25) demi_a - 0.7545785982530085
+
+Result for the vector: mr_laurence, coming from part b of the book
+Rank: 1 out of 25 characters
+Cosine similarity to the co-referring vector: 0.971200173282594
+
+1) mr_laurence_a - 0.971200173282594
+
+2) ned_moffat_a - 0.9615059517916487
+
+3) frank_a - 0.9572800397872993
+
+4) meg_a - 0.9541949061039163
+
+5) miss_sallie_a - 0.9525166182210094
+
+6) fred_vaughn_a - 0.9516975937250145
+
+7) annie_moffat_a - 0.9507007032215193
+
+8) mr_davis_a - 0.9504910111427375
+
+9) amy_march_a - 0.9503577381159241
+
+10) miss_kate_a - 0.9487054378565902
+
+11) miss_jo_a - 0.947405702184951
+
+12) mr_laurie_a - 0.9443002376377457
+
+13) teddy_a - 0.9412457346916265
+
+14) beth_a - 0.9395394993377328
+
+15) miss_belle_a - 0.9381806924127707
+
+16) hannah_a - 0.9378748499080599
+
+17) marmee_a - 0.9375938456533609
+
+18) esther_a - 0.937267910730618
+
+19) mother_bhaer_a - 0.9332919438692385
+
+20) polly_a - 0.9295835578938058
+
+21) miss_margaret_a - 0.9217781745857582
+
+22) daisy_a - 0.9101067238982501
+
+23) mrs_john_brooke_a - 0.8743984178067212
+
+24) mrs_scott_a - 0.8341875771172313
+
+25) demi_a - 0.7621720574991683
+
+Result for the vector: fred_vaughn, coming from part b of the book
+Rank: 7 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9330270370212749
+
+1) mr_laurie_a - 0.9577651645085135
+
+2) mr_laurence_a - 0.9546504697828662
+
+3) mr_davis_a - 0.9541913866996833
+
+4) hannah_a - 0.9515414805139145
+
+5) ned_moffat_a - 0.9419258271499992
+
+6) miss_sallie_a - 0.9374696649629094
+
+7) fred_vaughn_a - 0.9330270370212749
+
+8) frank_a - 0.9320284128189154
+
+9) polly_a - 0.9312289439166851
+
+10) marmee_a - 0.9289671459486333
+
+11) miss_kate_a - 0.9279990835190383
+
+12) esther_a - 0.9264484179410204
+
+13) teddy_a - 0.9263873100280827
+
+14) mother_bhaer_a - 0.9208122217413158
+
+15) amy_march_a - 0.919919853215228
+
+16) meg_a - 0.9169319917600176
+
+17) miss_belle_a - 0.9165701965605978
+
+18) miss_jo_a - 0.9151185256101458
+
+19) annie_moffat_a - 0.9135589055085851
+
+20) beth_a - 0.9104246007889986
+
+21) miss_margaret_a - 0.8999371260423361
+
+22) daisy_a - 0.8704693990666048
+
+23) mrs_john_brooke_a - 0.8252845510670825
+
+24) mrs_scott_a - 0.7877693898815294
+
+25) demi_a - 0.783946348193507
+
+Result for the vector: demi, coming from part b of the book
+Rank: 25 out of 25 characters
+Cosine similarity to the co-referring vector: 0.7802832955206426
+
+1) mr_laurie_a - 0.9697845271165533
+
+2) mr_laurence_a - 0.9632107350339936
+
+3) mr_davis_a - 0.9621978070316742
+
+4) amy_march_a - 0.9581918405947641
+
+5) frank_a - 0.9547392983501527
+
+6) fred_vaughn_a - 0.9538324191024217
+
+7) meg_a - 0.9528444097293741
+
+8) miss_sallie_a - 0.9527706787815896
+
+9) ned_moffat_a - 0.9509365842025458
+
+10) miss_jo_a - 0.9491052940754543
+
+11) miss_kate_a - 0.9470621629673891
+
+12) hannah_a - 0.9467060188511079
+
+13) miss_belle_a - 0.9451697783121571
+
+14) beth_a - 0.9439857916836243
+
+15) polly_a - 0.9427478628531772
+
+16) teddy_a - 0.9427429088422281
+
+17) esther_a - 0.9356544373344492
+
+18) marmee_a - 0.9330598632168623
+
+19) mother_bhaer_a - 0.9302501040846172
+
+20) annie_moffat_a - 0.925057319553415
+
+21) miss_margaret_a - 0.9242001726746663
+
+22) daisy_a - 0.8939217595434718
+
+23) mrs_john_brooke_a - 0.8212841993953053
+
+24) mrs_scott_a - 0.8055646063555664
+
+25) demi_a - 0.7802832955206426
+
+Result for the vector: miss_sallie, coming from part b of the book
+Rank: 2 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9546347910601217
+
+1) hannah_a - 0.9628983139992034
+
+2) miss_sallie_a - 0.9546347910601217
+
+3) amy_march_a - 0.9516170082548915
+
+4) miss_kate_a - 0.9509241639466158
+
+5) beth_a - 0.9500670522331519
+
+6) miss_belle_a - 0.9471888040562639
+
+7) miss_jo_a - 0.9441982011440649
+
+8) mother_bhaer_a - 0.9410876386385392
+
+9) ned_moffat_a - 0.9359508233129064
+
+10) marmee_a - 0.9346314390113725
+
+11) esther_a - 0.9340780534558168
+
+12) miss_margaret_a - 0.9338627814773323
+
+13) mr_laurie_a - 0.9308995686889275
+
+14) meg_a - 0.9287380065038262
+
+15) mr_laurence_a - 0.9280750922977704
+
+16) annie_moffat_a - 0.9172236422033802
+
+17) frank_a - 0.9171206404495004
+
+18) teddy_a - 0.9117786936892003
+
+19) mr_davis_a - 0.9090125018946971
+
+20) fred_vaughn_a - 0.90629829651744
+
+21) polly_a - 0.8965596145582905
+
+22) daisy_a - 0.8610214160655302
+
+23) mrs_john_brooke_a - 0.772512284217806
+
+24) mrs_scott_a - 0.752197772002491
+
+25) demi_a - 0.7454057043307233
+
+Result for the vector: marmee, coming from part b of the book
+Rank: 1 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9636444097227473
+
+1) marmee_a - 0.9636444097227473
+
+2) teddy_a - 0.9587194870375976
+
+3) miss_sallie_a - 0.9522207350862482
+
+4) amy_march_a - 0.9426288570540479
+
+5) meg_a - 0.9395338260849627
+
+6) miss_jo_a - 0.938745021820075
+
+7) miss_kate_a - 0.9375758729920328
+
+8) mother_bhaer_a - 0.9367788079481255
+
+9) beth_a - 0.9362501502037115
+
+10) ned_moffat_a - 0.9354930481608555
+
+11) frank_a - 0.9333290974294063
+
+12) fred_vaughn_a - 0.9328303337097235
+
+13) mr_laurence_a - 0.931012157737499
+
+14) miss_belle_a - 0.9211337566375798
+
+15) hannah_a - 0.9204848266514842
+
+16) daisy_a - 0.9200213503850327
+
+17) mr_laurie_a - 0.9169828246225626
+
+18) miss_margaret_a - 0.9141494256987658
+
+19) annie_moffat_a - 0.9054038468244
+
+20) esther_a - 0.9014169036497676
+
+21) mr_davis_a - 0.8905670512398542
+
+22) polly_a - 0.87351822853089
+
+23) mrs_john_brooke_a - 0.7955212471199793
+
+24) mrs_scott_a - 0.7812361586830724
+
+25) demi_a - 0.7393385612570395
+
+Result for the vector: miss_margaret, coming from part b of the book
+Rank: 14 out of 25 characters
+Cosine similarity to the co-referring vector: 0.7361298046189431
+
+1) mr_laurence_a - 0.7630640778186336
+
+2) meg_a - 0.7599224674678587
+
+3) mother_bhaer_a - 0.7557148191758882
+
+4) miss_sallie_a - 0.7534551248984079
+
+5) amy_march_a - 0.7533838973457786
+
+6) ned_moffat_a - 0.7525333390394852
+
+7) frank_a - 0.7493776156941908
+
+8) beth_a - 0.7489679828593766
+
+9) fred_vaughn_a - 0.7489639893482957
+
+10) miss_kate_a - 0.7465731128028966
+
+11) miss_belle_a - 0.740920998426649
+
+12) teddy_a - 0.7379157010837529
+
+13) miss_jo_a - 0.7374506969019592
+
+14) miss_margaret_a - 0.7361298046189431
+
+15) marmee_a - 0.7347778361770925
+
+16) esther_a - 0.729037279274715
+
+17) mr_laurie_a - 0.728595099705312
+
+18) hannah_a - 0.7256820091131372
+
+19) annie_moffat_a - 0.7241741634659223
+
+20) daisy_a - 0.7160777066969192
+
+21) mr_davis_a - 0.7094791569840158
+
+22) polly_a - 0.695570865405477
+
+23) mrs_scott_a - 0.6758545242504637
+
+24) mrs_john_brooke_a - 0.6372806023740951
+
+25) demi_a - 0.5891812619322917
+
+Result for the vector: annie_moffat, coming from part b of the book
+Rank: 2 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9237899138802255
+
+1) mrs_john_brooke_a - 0.9242675855319269
+
+2) annie_moffat_a - 0.9237899138802255
+
+3) mr_laurence_a - 0.8367412783657876
+
+4) ned_moffat_a - 0.8292527097018203
+
+5) miss_kate_a - 0.8153411635959856
+
+6) frank_a - 0.811544515078606
+
+7) miss_sallie_a - 0.8097286707001147
+
+8) fred_vaughn_a - 0.8077677488327084
+
+9) teddy_a - 0.8070015677215537
+
+10) mr_davis_a - 0.8057824141719835
+
+11) amy_march_a - 0.8044780376242436
+
+12) meg_a - 0.8028758646771842
+
+13) mr_laurie_a - 0.7996516108305236
+
+14) beth_a - 0.7985830307006893
+
+15) miss_belle_a - 0.7962706089019832
+
+16) mrs_scott_a - 0.7953773018942669
+
+17) hannah_a - 0.7947607269455317
+
+18) miss_jo_a - 0.7939676642417964
+
+19) esther_a - 0.7919322376291736
+
+20) mother_bhaer_a - 0.7912725321596148
+
+21) marmee_a - 0.7898817643347035
+
+22) miss_margaret_a - 0.7861780631105364
+
+23) polly_a - 0.7742229700088556
+
+24) daisy_a - 0.7608391500019535
+
+25) demi_a - 0.6504958063659564
+
+Result for the vector: ned_moffat, coming from part b of the book
+Rank: 5 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9015103695976358
+
+1) mr_laurence_a - 0.905135892597224
+
+2) miss_sallie_a - 0.9048675412097589
+
+3) amy_march_a - 0.9042847866672596
+
+4) meg_a - 0.9020265457598576
+
+5) ned_moffat_a - 0.9015103695976358
+
+6) miss_belle_a - 0.8992515982535619
+
+7) fred_vaughn_a - 0.8984981956783199
+
+8) miss_kate_a - 0.8975526812609878
+
+9) miss_jo_a - 0.8955758400721852
+
+10) frank_a - 0.8949897947913674
+
+11) beth_a - 0.891647239032883
+
+12) hannah_a - 0.8903672099113717
+
+13) mr_laurie_a - 0.8883111013995352
+
+14) mother_bhaer_a - 0.8876798551368942
+
+15) mr_davis_a - 0.886741406515767
+
+16) teddy_a - 0.8829429219399282
+
+17) polly_a - 0.8828489989908355
+
+18) esther_a - 0.8827933948532594
+
+19) marmee_a - 0.8825732206531591
+
+20) annie_moffat_a - 0.8762638716383195
+
+21) miss_margaret_a - 0.8744277172302357
+
+22) daisy_a - 0.8456791227246436
+
+23) mrs_john_brooke_a - 0.760388760520373
+
+24) mrs_scott_a - 0.7603494810641485
+
+25) demi_a - 0.71280101385105
+
+Result for the vector: mr_davis, coming from part b of the book
+Rank: 16 out of 25 characters
+Cosine similarity to the co-referring vector: 0.7587166880796379
+
+1) mr_laurence_a - 0.8246075124016448
+
+2) mother_bhaer_a - 0.7892138001088443
+
+3) amy_march_a - 0.7877053022384644
+
+4) annie_moffat_a - 0.7850266695022583
+
+5) frank_a - 0.7828492988854243
+
+6) meg_a - 0.7771489024162292
+
+7) ned_moffat_a - 0.7754089832305908
+
+8) miss_sallie_a - 0.7749167680740356
+
+9) miss_belle_a - 0.7748514548032622
+
+10) beth_a - 0.7714989917576928
+
+11) miss_jo_a - 0.7712283866865418
+
+12) esther_a - 0.7698533809359867
+
+13) miss_kate_a - 0.7674321532249451
+
+14) fred_vaughn_a - 0.7667103548818629
+
+15) teddy_a - 0.7646490791230859
+
+16) mr_davis_a - 0.7587166880796379
+
+17) marmee_a - 0.7556964238610677
+
+18) mr_laurie_a - 0.7534681558609009
+
+19) hannah_a - 0.7512180508635158
+
+20) miss_margaret_a - 0.7499171718930359
+
+21) daisy_a - 0.7470349073410034
+
+22) polly_a - 0.7361413397704769
+
+23) mrs_scott_a - 0.7001714706420898
+
+24) mrs_john_brooke_a - 0.6886109113693237
+
+25) demi_a - 0.6202386617660522
+
+Result for the vector: miss_kate, coming from part b of the book
+Rank: 2 out of 25 characters
+Cosine similarity to the co-referring vector: 0.8678747415542603
+
+1) hannah_a - 0.8822196581625593
+
+2) miss_kate_a - 0.8678747415542603
+
+3) miss_sallie_a - 0.8641356229782104
+
+4) miss_margaret_a - 0.8634888191070804
+
+5) esther_a - 0.8634385629369603
+
+6) beth_a - 0.8570568050708306
+
+7) miss_belle_a - 0.8567072834547008
+
+8) amy_march_a - 0.8524191379547119
+
+9) miss_jo_a - 0.8473275990886943
+
+10) mother_bhaer_a - 0.8456485523476769
+
+11) ned_moffat_a - 0.8443963527679443
+
+12) meg_a - 0.8380761742591858
+
+13) mr_laurence_a - 0.835352857666873
+
+14) marmee_a - 0.8327397852605423
+
+15) frank_a - 0.8258678809325639
+
+16) mr_laurie_a - 0.8230754137039185
+
+17) annie_moffat_a - 0.8211092948913574
+
+18) mr_davis_a - 0.8140164502868935
+
+19) fred_vaughn_a - 0.8092724198536637
+
+20) polly_a - 0.8090613598190942
+
+21) teddy_a - 0.8061672929625104
+
+22) daisy_a - 0.7721443176269531
+
+23) demi_a - 0.7136473059654236
+
+24) mrs_john_brooke_a - 0.6962853670120239
+
+25) mrs_scott_a - 0.6922533512115479
+
+Result for the vector: miss_belle, coming from part b of the book
+Rank: 3 out of 25 characters
+Cosine similarity to the co-referring vector: 0.6890127248160419
+
+1) mother_bhaer_a - 0.7128294918784351
+
+2) mr_laurence_a - 0.689577914526716
+
+3) miss_belle_a - 0.6890127248160419
+
+4) esther_a - 0.6746914178500918
+
+5) amy_march_a - 0.6746087074279785
+
+6) ned_moffat_a - 0.6728894114494324
+
+7) miss_sallie_a - 0.6705042719841003
+
+8) miss_margaret_a - 0.6690225204534093
+
+9) miss_jo_a - 0.6660555800166392
+
+10) beth_a - 0.6648463210555136
+
+11) frank_a - 0.6641208925319262
+
+12) hannah_a - 0.6621223881390604
+
+13) annie_moffat_a - 0.6611770391464233
+
+14) miss_kate_a - 0.6589912176132202
+
+15) marmee_a - 0.6584552519132448
+
+16) meg_a - 0.6536593437194824
+
+17) fred_vaughn_a - 0.6527708975809289
+
+18) daisy_a - 0.6504359245300293
+
+19) teddy_a - 0.6467271832661153
+
+20) mr_davis_a - 0.6440439608123291
+
+21) mr_laurie_a - 0.6322117447853088
+
+22) polly_a - 0.6257925256614383
+
+23) mrs_scott_a - 0.5961132645606995
+
+24) mrs_john_brooke_a - 0.5755094289779663
+
+25) demi_a - 0.5520111918449402
+
+Result for the vector: frank, coming from part b of the book
+Rank: 7 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9156057188275901
+
+1) mr_laurence_a - 0.9315585575630067
+
+2) ned_moffat_a - 0.9296344518661499
+
+3) mr_laurie_a - 0.9268769025802612
+
+4) hannah_a - 0.9230182079098538
+
+5) mr_davis_a - 0.9205213737798572
+
+6) fred_vaughn_a - 0.9173493434578588
+
+7) frank_a - 0.9156057188275901
+
+8) miss_sallie_a - 0.9151687026023865
+
+9) miss_kate_a - 0.9129928946495056
+
+10) esther_a - 0.9060390107585243
+
+11) amy_march_a - 0.9050052762031555
+
+12) teddy_a - 0.9043328705032406
+
+13) mother_bhaer_a - 0.9041713149598637
+
+14) meg_a - 0.8971258401870728
+
+15) marmee_a - 0.8968897071680201
+
+16) miss_belle_a - 0.8963829936752935
+
+17) annie_moffat_a - 0.8961260318756104
+
+18) miss_jo_a - 0.8954712810831514
+
+19) polly_a - 0.8938032451985348
+
+20) beth_a - 0.8937450710687015
+
+21) miss_margaret_a - 0.8816812897229583
+
+22) daisy_a - 0.8512683510780334
+
+23) mrs_john_brooke_a - 0.8142471313476562
+
+24) mrs_scott_a - 0.79253089427948
+
+25) demi_a - 0.7854305505752563
+
+Result for the vector: polly, coming from part b of the book
+Rank: 1 out of 25 characters
+Cosine similarity to the co-referring vector: 0.8903221553372068
+
+1) polly_a - 0.8903221553372068
+
+2) miss_jo_a - 0.8597938501957759
+
+3) meg_a - 0.8470650911331177
+
+4) miss_belle_a - 0.8458363505699441
+
+5) mr_laurie_a - 0.8441135883331299
+
+6) amy_march_a - 0.8408761620521545
+
+7) beth_a - 0.8382613159262364
+
+8) miss_kate_a - 0.8362223505973816
+
+9) fred_vaughn_a - 0.8330814341854209
+
+10) frank_a - 0.8301567334030127
+
+11) miss_sallie_a - 0.8299115896224976
+
+12) esther_a - 0.8285973872426345
+
+13) hannah_a - 0.8284578118870093
+
+14) miss_margaret_a - 0.8241955883561254
+
+15) ned_moffat_a - 0.8198620676994324
+
+16) mr_davis_a - 0.8193793189155664
+
+17) mr_laurence_a - 0.815145097357625
+
+18) annie_moffat_a - 0.803398609161377
+
+19) teddy_a - 0.7849697342496966
+
+20) mother_bhaer_a - 0.7833317751685317
+
+21) marmee_a - 0.7747041679654303
+
+22) daisy_a - 0.7340771555900574
+
+23) mrs_john_brooke_a - 0.722297728061676
+
+24) mrs_scott_a - 0.6871876120567322
+
+25) demi_a - 0.6851620674133301
+
+Result for the vector: esther, coming from part b of the book
+Rank: 17 out of 25 characters
+Cosine similarity to the co-referring vector: 0.7026087400187614
+
+1) hannah_a - 0.7357239408164006
+
+2) beth_a - 0.724130587331619
+
+3) mother_bhaer_a - 0.7216345286856455
+
+4) miss_jo_a - 0.7216193841922663
+
+5) amy_march_a - 0.7201106548309326
+
+6) polly_a - 0.7185074258740303
+
+7) miss_sallie_a - 0.7168976664543152
+
+8) miss_kate_a - 0.7167659401893616
+
+9) marmee_a - 0.7145417375452908
+
+10) meg_a - 0.7133533954620361
+
+11) mr_laurence_a - 0.7130881889953439
+
+12) ned_moffat_a - 0.7090564370155334
+
+13) fred_vaughn_a - 0.7077604110383755
+
+14) mr_davis_a - 0.7074473325876804
+
+15) teddy_a - 0.7065927211399521
+
+16) frank_a - 0.7027108492082876
+
+17) esther_a - 0.7026087400187614
+
+18) miss_belle_a - 0.7014235436067866
+
+19) miss_margaret_a - 0.6985559671686881
+
+20) annie_moffat_a - 0.6982383728027344
+
+21) mr_laurie_a - 0.6920856833457947
+
+22) daisy_a - 0.6535638570785522
+
+23) mrs_john_brooke_a - 0.612806499004364
+
+24) demi_a - 0.5845714211463928
+
+25) mrs_scott_a - 0.5710757970809937
+
+Result for the vector: teddy, coming from part b of the book
+Rank: 2 out of 25 characters
+Cosine similarity to the co-referring vector: 0.9650788882421801
+
+1) marmee_a - 0.9674170286134247
+
+2) teddy_a - 0.9650788882421801
+
+3) miss_sallie_a - 0.9529862403869629
+
+4) ned_moffat_a - 0.9520828127861023
+
+5) mr_laurence_a - 0.9498391807271094
+
+6) fred_vaughn_a - 0.9494458467098583
+
+7) frank_a - 0.9488159983644502
+
+8) amy_march_a - 0.945307731628418
+
+9) mr_laurie_a - 0.9415276646614075
+
+10) meg_a - 0.9414573907852173
+
+11) miss_jo_a - 0.9411031638918438
+
+12) miss_kate_a - 0.9365849494934082
+
+13) daisy_a - 0.9361448287963867
+
+14) mother_bhaer_a - 0.9359498302921606
+
+15) beth_a - 0.9319970052244081
+
+16) annie_moffat_a - 0.9234761595726013
+
+17) miss_belle_a - 0.922444825026703
+
+18) mr_davis_a - 0.9175276111082815
+
+19) hannah_a - 0.9120570912429268
+
+20) miss_margaret_a - 0.9072776707195546
+
+21) esther_a - 0.8995438337869907
+
+22) polly_a - 0.8918022577880483
+
+23) mrs_john_brooke_a - 0.8278464674949646
+
+24) mrs_scott_a - 0.7833057045936584
+
+25) demi_a - 0.73161780834198
+
+Result for the vector: daisy, coming from part b of the book
+Rank: 22 out of 25 characters
+Cosine similarity to the co-referring vector: 0.8949982523918152
+
+1) amy_march_a - 0.964358925819397
+
+2) beth_a - 0.961729826824081
+
+3) miss_jo_a - 0.9582414651965239
+
+4) miss_kate_a - 0.9567842483520508
+
+5) hannah_a - 0.9547520821991132
+
+6) miss_sallie_a - 0.9545774459838867
+
+7) miss_belle_a - 0.9520519404380374
+
+8) mother_bhaer_a - 0.9422583860831976
+
+9) miss_margaret_a - 0.941587356972318
+
+10) meg_a - 0.9399889707565308
+
+11) marmee_a - 0.9362182262138964
+
+12) ned_moffat_a - 0.9357839822769165
+
+13) mr_laurence_a - 0.9349536377246879
+
+14) esther_a - 0.9326573690584524
+
+15) mr_laurie_a - 0.9295080900192261
+
+16) fred_vaughn_a - 0.927208308743937
+
+17) frank_a - 0.9247984841345853
+
+18) polly_a - 0.9233944461706627
+
+19) annie_moffat_a - 0.9185393452644348
+
+20) mr_davis_a - 0.9143566438172264
+
+21) teddy_a - 0.9140431233670205
+
+22) daisy_a - 0.8949982523918152
+
+23) mrs_john_brooke_a - 0.7839345932006836
+
+24) mrs_scott_a - 0.780576765537262
+
+25) demi_a - 0.774091362953186
+
+Result for the vector: mrs_scott, coming from part b of the book
+Rank: 24 out of 25 characters
+Cosine similarity to the co-referring vector: 0.8125631343629811
+
+1) annie_moffat_a - 0.9509852186726268
+
+2) mr_laurence_a - 0.9359435756223532
+
+3) ned_moffat_a - 0.9204165566340027
+
+4) hannah_a - 0.9156540754311843
+
+5) mr_laurie_a - 0.9150469525200421
+
+6) mr_davis_a - 0.9145537785520824
+
+7) miss_sallie_a - 0.9132298451569575
+
+8) miss_kate_a - 0.9113577227018264
+
+9) mrs_john_brooke_a - 0.9108458975713793
+
+10) amy_march_a - 0.910211227257067
+
+11) polly_a - 0.9088182124143407
+
+12) fred_vaughn_a - 0.9084883603003233
+
+13) frank_a - 0.9075775902833928
+
+14) miss_belle_a - 0.9028148920182952
+
+15) beth_a - 0.8995967179416732
+
+16) miss_jo_a - 0.8995234638310611
+
+17) meg_a - 0.8982474414927496
+
+18) mother_bhaer_a - 0.8978916284908821
+
+19) esther_a - 0.8966576189799021
+
+20) teddy_a - 0.8959240460282637
+
+21) marmee_a - 0.887760261492776
+
+22) miss_margaret_a - 0.887032137755412
+
+23) daisy_a - 0.8397919094376517
+
+24) mrs_scott_a - 0.8125631343629811
+
+25) demi_a - 0.749519415156792
+

@@ -1,0 +1,9 @@
+Test: quality test
+Results for: Et_dukkehjem_English_by_Henrik_Ibsen_
+Model used: proper names matched
+
+Within-novel median: 1.0
+Within-novel average: 1.8
+Within-novel MRR: 0.7533333333333333
+Within-novel standard deviation of the scores: 1.2489995996796797
+Amount of entities considered: 5.0

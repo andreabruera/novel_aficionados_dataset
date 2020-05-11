@@ -1,0 +1,192 @@
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9346719228439213
+
+1) man_a - 0.9346719228439213
+
+2) lawyer_a - 0.865235968260309
+
+3) thing_a - 0.8263168024391311
+
+4) hand_a - 0.8233657759486168
+
+5) door_a - 0.8211633870839259
+
+6) morning_a - 0.7025208150638929
+
+Result for the vector: lawyer, coming from part i of the book
+Rank: 2 out of 6 characters
+Cosine similarity to the co-referring vector: 0.7088920647566292
+
+1) man_a - 0.7375727735503194
+
+2) lawyer_a - 0.7088920647566292
+
+3) hand_a - 0.6591665744781494
+
+4) door_a - 0.6568487669302249
+
+5) thing_a - 0.644221305847168
+
+6) morning_a - 0.5622459817602036
+
+Result for the vector: hand, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.7075107097625732
+
+1) hand_a - 0.7075107097625732
+
+2) door_a - 0.6902064517448102
+
+3) man_a - 0.6810088563566731
+
+4) lawyer_a - 0.6690486866802772
+
+5) thing_a - 0.6608065366744995
+
+6) morning_a - 0.6103820982689293
+
+Result for the vector: door, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8408081246867463
+
+1) door_a - 0.8408081246867463
+
+2) man_a - 0.7983977912424024
+
+3) lawyer_a - 0.7857081655946953
+
+4) thing_a - 0.7833470935626955
+
+5) hand_a - 0.7733074061068123
+
+6) morning_a - 0.7382040463807611
+
+Result for the vector: thing, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.6705046892166138
+
+1) thing_a - 0.6705046892166138
+
+2) man_a - 0.5449307289678302
+
+3) hand_a - 0.5401962995529175
+
+4) lawyer_a - 0.5020575820173283
+
+5) door_a - 0.49673102747366793
+
+6) morning_a - 0.46198479717924607
+
+Result for the vector: morning, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8084827420567682
+
+1) morning_a - 0.8084827420567682
+
+2) lawyer_a - 0.6958918933997281
+
+3) door_a - 0.695738496995449
+
+4) man_a - 0.693504512310033
+
+5) hand_a - 0.6744147733202723
+
+6) thing_a - 0.6736985639513406
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9346719228439213
+
+1) man_wiki - 0.9346719228439213
+
+2) door_wiki - 0.7983977912424024
+
+3) lawyer_wiki - 0.7375727735503194
+
+4) morning_wiki - 0.693504512310033
+
+5) hand_wiki - 0.6810088563566731
+
+6) thing_wiki - 0.5449307289678302
+
+Result for the vector: lawyer, coming from part a of the book
+Rank: 3 out of 6 characters
+Cosine similarity to the co-referring vector: 0.7088920647566292
+
+1) man_wiki - 0.865235968260309
+
+2) door_wiki - 0.7857081655946953
+
+3) lawyer_wiki - 0.7088920647566292
+
+4) morning_wiki - 0.6958918933997281
+
+5) hand_wiki - 0.6690486866802772
+
+6) thing_wiki - 0.5020575820173283
+
+Result for the vector: hand, coming from part a of the book
+Rank: 3 out of 6 characters
+Cosine similarity to the co-referring vector: 0.7075107097625732
+
+1) man_wiki - 0.8233657759486168
+
+2) door_wiki - 0.7733074061068123
+
+3) hand_wiki - 0.7075107097625732
+
+4) morning_wiki - 0.6744147733202723
+
+5) lawyer_wiki - 0.6591665744781494
+
+6) thing_wiki - 0.5401962995529175
+
+Result for the vector: door, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8408081246867463
+
+1) door_wiki - 0.8408081246867463
+
+2) man_wiki - 0.8211633870839259
+
+3) morning_wiki - 0.695738496995449
+
+4) hand_wiki - 0.6902064517448102
+
+5) lawyer_wiki - 0.6568487669302249
+
+6) thing_wiki - 0.49673102747366793
+
+Result for the vector: thing, coming from part a of the book
+Rank: 4 out of 6 characters
+Cosine similarity to the co-referring vector: 0.6705046892166138
+
+1) man_wiki - 0.8263168024391311
+
+2) door_wiki - 0.7833470935626955
+
+3) morning_wiki - 0.6736985639513406
+
+4) thing_wiki - 0.6705046892166138
+
+5) hand_wiki - 0.6608065366744995
+
+6) lawyer_wiki - 0.644221305847168
+
+Result for the vector: morning, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8084827420567682
+
+1) morning_wiki - 0.8084827420567682
+
+2) door_wiki - 0.7382040463807611
+
+3) man_wiki - 0.7025208150638929
+
+4) hand_wiki - 0.6103820982689293
+
+5) lawyer_wiki - 0.5622459817602036
+
+6) thing_wiki - 0.46198479717924607
+

@@ -1,0 +1,228 @@
+869	King Arthur 's Court_King Arthur_Arthur_King
+851	Tristram de Liones_Tristram_Liones
+632	Launcelot du Lake_Launcelot
+335	Sir Gawaine_Gawaine_GAWAINE
+224	Merlin gat Excalibur_Excalibur_Merlin
+192	Gareth of Orkney_Gareth
+182	Balin le Savage_Savage_Balin
+179	Kay the Seneschal_Kay seneschal_Seneschal_Kay
+156	Lamorak de Galis_Lamorak
+152	King Mark_Mark
+147	Beaumains
+141	Marhaus
+115	lady La Beale Isoud_La Beale Isoud_Beale Isoud_Isoud
+107	Palomides
+86	Dinadan
+85	Gaheris
+76	Queen Morgan le Fay_Morgan le Fay_Queen Morgan_Morgan_Fay
+75	Uwaine les Avoutres_Uwaine
+71	Bleoberis de Ganis_Bleoberis_Ganis
+70	King Pellinore_Pellinore
+60	Bors de Ganis_Bors
+59	La Cote Male Taile_Taile
+58	Tor
+52	Accolon
+50	Ector de Maris_Ector
+49	Palamides the Saracen_Palamides_Saracen
+45	lady Dame Lionesse_Lady Dame Lionesse_Dame Lionesse_Lady Lionesse
+43	Persant
+43	Gouvernail
+36	Griflet
+34	lord Sir Tristram_Sir Tristram
+33	Dame Guenever_Guenever
+33	Segwarides
+33	King Lot of Orkney_King Lot_Orkney
+32	Gringamore
+31	Blamore de Ganis_Blamore
+31	Dame Linet_Linet
+31	King Meliodas_Meliodas
+31	Pelleas
+31	Kehydius
+30	Balan
+30	King Carados_Carados
+30	Andred
+29	Dame Bragwaine_Bragwaine
+29	Lucius the Emperor_Lucius
+26	Turquine
+26	Uther Pendragon_Pendragon_Uther
+26	Galahad
+24	Lionel
+23	Tramtrist
+23	Persides
+23	King Bagdemagus_Bagdemagus
+22	Ulfius
+22	Nabon
+22	Dinas
+21	Brastias
+21	Black Knight_Knight_knight
+21	Breunor le Noire_Breunor_Noire
+20	WILLIAM CAXTON_William Caxton_Caxton_CAXTON
+20	Queen Guenever
+18	Breuse Saunce Pite_Breuse
+18	King Ban_Ban
+18	Sir Damas_Damas
+17	O Jesu_Jesu
+17	Darras
+17	Green Knight
+17	Ontzlake
+16	Sagramore
+16	Mordred
+15	Plenorius
+14	King Pellam_Pellam
+14	Lucas
+14	lady Igraine_Igraine
+13	Lucan
+13	Frol
+13	Damosel of the Lake_Damosel
+13	Priamus
+13	lord King Arthur_lord Arthur_Lord Arthur
+12	Lady Ettard_Ettard
+12	King Claudas_Claudas
+11	Dagonet
+11	Ironside
+11	Lambegus
+11	Brian de les Isles_Brian
+11	Meliagaunce
+11	Thomas Malory_Malory
+11	King Leodegrance_Leodegrance
+10	Isoud la Blanche Mains_Blanche Mains
+9	Earl Fergus_Fergus
+9	King Howel_Howel
+9	Ye
+9	Queen La Beale Isoud_Queen Isoud
+9	Nero
+9	Belliance
+9	Saracens
+8	King Uriens_Uriens
+8	Brittany
+8	Gaul
+8	Brandiles
+8	Pertolepe
+8	Meliot de Logres_Meliot
+7	King Bors
+7	Garlon
+7	Lord Jesus Christ_Lord Jesus_Christ_Jesus
+7	Baudwin
+7	Nerovens de Lile_Nerovens
+7	Tintagil
+7	Bedivere
+7	Percivale de Galis_Percivale
+7	Edward Strachey_Edward
+7	King of Northgalis_Northgalis
+7	XII
+7	Gore
+6	Dodinas le Savage_Dodinas
+6	Hemison
+6	Phelot
+6	King Agwisance_Agwisance
+6	Raynold
+6	Lanceor
+6	Safere
+6	Gaunter
+6	Driant
+6	Gilbert the Bastard_Gilbert
+6	Agravaine
+5	Hue
+5	Suppinabiles
+5	Briant
+5	XXIII
+5	Lord Belleus_lord Belleus_Belleus
+5	Placidas
+5	Pellounes
+5	Howell
+5	Hebes
+5	King Clariance_Clariance
+4	Pedivere
+4	Gramercy
+4	Gahalantine
+4	Abelleus
+4	Duke de la Rowse
+4	Sadok
+4	Daname
+4	Canterbury
+4	Mador de la Porte_Mador
+4	Nimue
+4	Madam
+4	Gingalin
+4	Launcelot de Lake
+4	Gracian
+4	Queen Igraine
+3	Fise de Dieu_Dieu
+3	Lorraine
+3	Petipase
+3	Bendelaine
+3	Tauleas
+3	Hontzlake
+3	Wynkyn de Worde_Wynkyn
+3	Cornish
+3	Damosel Bienpensant
+3	Dame Morgawse_Morgawse
+3	Castle of Maidens
+3	Sagramour
+3	Florence
+3	Adtherp
+3	Lady of the Lake
+3	Gilmere
+3	Black Shield
+3	Duke Eustace
+3	Red Launds
+3	W. de Worde
+3	Constantine
+3	Bleise
+3	Grummore Grummursum
+3	Elizabeth
+3	Perimones
+3	King Uther
+3	Berel
+3	Romans
+3	King Idres_Idres
+3	King Brandegoris_Brandegoris
+3	Humber
+3	Lady Lile_lady Lile
+3	Malegrine
+2	Elaine
+2	Galihodin
+2	Wisshard
+2	Galatine
+2	Dame Laurel
+2	Ladinas
+2	Kink Kenadon
+2	Brewnor
+2	Flanders
+2	Dole
+2	Stephen
+2	Burgoyne
+2	Black Launds
+2	Aglovale
+2	Gwinas
+2	Ferant
+2	Epinogrus
+2	Lord Jesu
+2	King Nentres
+2	Dinant
+2	Jordanus
+2	Launcelot wroth
+2	Senate
+2	Servage
+2	Galihud
+2	Lionses
+2	Margawse
+2	Felot
+2	Uwaine le Blanchemains
+2	Morganore
+2	Almaine
+2	Percard
+2	Queen Morgawse
+2	Gauter
+2	Galahault
+2	Morte D'Arthur
+2	King Cradelment
+2	Manassen
+2	Morganor
+2	Joseph
+2	Steven
+2	Hector
+2	Lancelot
+2	Arnold
+2	Phariance
+2	Cornwall

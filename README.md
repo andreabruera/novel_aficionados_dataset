@@ -4,6 +4,12 @@ Welcome! This is the Novel Aficionados dataset. It was created for the experimen
 
 This dataset contains a collection of 59 out-of-copyright novels, that we obtained from Project Gutenberg (http://www.gutenberg.org/), an online library of free eBooks. 
 
+## Why this dataset?
+
+This dataset was created for a specific, original NLP task, the Doppelgänger test, which focuses on evaluating the distributional representations of individual entities (the characters present in the novels). The Doppelgänger test evaluates whether each entity representation learned in one subcorpus (one half of a novel) can be correctly matched to its co-referring entity representation from another subcorpus (the second half of the same novel), choosing among all the other entity representations. The task is challenging in that the model must distinguish between very similar entities (people and entities engaged in shared activities in a common universe) using scarce data.
+
+## Main features
+
 The main features of this dataset are the following:
 
 - Only novels having a Wikipedia entry were selected, in order to carry out a cross-document referential task (see the paper);

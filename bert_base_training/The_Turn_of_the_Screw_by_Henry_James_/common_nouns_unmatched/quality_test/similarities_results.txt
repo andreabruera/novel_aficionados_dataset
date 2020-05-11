@@ -1,0 +1,96 @@
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8080707306819733
+
+1) time_a - 0.8080707306819733
+
+2) way_a - 0.797114801578833
+
+3) child_a - 0.7710923825392322
+
+4) face_a - 0.7533053159713745
+
+Result for the vector: child, coming from part i of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8980062007904308
+
+1) child_a - 0.8980062007904308
+
+2) time_a - 0.8277700440746705
+
+3) way_a - 0.8164546380314146
+
+4) face_a - 0.8049453860456269
+
+Result for the vector: way, coming from part i of the book
+Rank: 2 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8153115157875961
+
+1) face_a - 0.831969931599793
+
+2) way_a - 0.8153115157875961
+
+3) child_a - 0.7996591687304203
+
+4) time_a - 0.762547694520592
+
+Result for the vector: face, coming from part i of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.6157850027084351
+
+1) face_a - 0.6157850027084351
+
+2) way_a - 0.5900324231366869
+
+3) child_a - 0.5628480836334169
+
+4) time_a - 0.5392094529146292
+
+Result for the vector: time, coming from part a of the book
+Rank: 2 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8080707306819733
+
+1) child_wiki - 0.8277700440746705
+
+2) time_wiki - 0.8080707306819733
+
+3) way_wiki - 0.762547694520592
+
+4) face_wiki - 0.5392094529146292
+
+Result for the vector: child, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8980062007904308
+
+1) child_wiki - 0.8980062007904308
+
+2) way_wiki - 0.7996591687304203
+
+3) time_wiki - 0.7710923825392322
+
+4) face_wiki - 0.5628480836334169
+
+Result for the vector: way, coming from part a of the book
+Rank: 2 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8153115157875961
+
+1) child_wiki - 0.8164546380314146
+
+2) way_wiki - 0.8153115157875961
+
+3) time_wiki - 0.797114801578833
+
+4) face_wiki - 0.5900324231366869
+
+Result for the vector: face, coming from part a of the book
+Rank: 4 out of 4 characters
+Cosine similarity to the co-referring vector: 0.6157850027084351
+
+1) way_wiki - 0.831969931599793
+
+2) child_wiki - 0.8049453860456269
+
+3) time_wiki - 0.7533053159713745
+
+4) face_wiki - 0.6157850027084351
+

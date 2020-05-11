@@ -1,0 +1,896 @@
+Result for the vector: room, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.88722858168994
+
+1) room_a - 0.88722858168994
+
+2) case_a - 0.8600425380481049
+
+3) mother_a - 0.8260445348607175
+
+4) way_a - 0.8123890515449959
+
+5) hand_a - 0.8094790819132058
+
+6) day_a - 0.8081251990981729
+
+7) time_a - 0.7948485368309675
+
+8) friend_a - 0.7904783847785509
+
+9) man_a - 0.7774893409762014
+
+10) sir_a - 0.7622340548704286
+
+11) household_a - 0.7441056148974444
+
+12) affair_a - 0.726294138243972
+
+13) year_a - 0.7049079781661021
+
+14) surprise_a - 0.6633211377274046
+
+Result for the vector: time, coming from part i of the book
+Rank: 2 out of 14 characters
+Cosine similarity to the co-referring vector: 0.811467541289411
+
+1) day_a - 0.8138304726875449
+
+2) time_a - 0.811467541289411
+
+3) way_a - 0.7957940223339797
+
+4) case_a - 0.7924837470054626
+
+5) man_a - 0.7625869058020781
+
+6) room_a - 0.760229780660286
+
+7) mother_a - 0.7508465200158061
+
+8) hand_a - 0.7420560121536255
+
+9) friend_a - 0.7393363273539361
+
+10) household_a - 0.7335264841600381
+
+11) affair_a - 0.7237257526084345
+
+12) year_a - 0.717332606077132
+
+13) sir_a - 0.7132954597473145
+
+14) surprise_a - 0.6583701779401137
+
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8800036382673018
+
+1) man_a - 0.8800036382673018
+
+2) friend_a - 0.8117597811365272
+
+3) mother_a - 0.8102676981528
+
+4) day_a - 0.8003257871062559
+
+5) way_a - 0.7899551516798062
+
+6) case_a - 0.7826184630393982
+
+7) time_a - 0.7818620307918249
+
+8) sir_a - 0.7756837010383606
+
+9) year_a - 0.7587377511326479
+
+10) room_a - 0.7583991433144139
+
+11) hand_a - 0.7514976263046265
+
+12) household_a - 0.7421767269267616
+
+13) affair_a - 0.7355311670582804
+
+14) surprise_a - 0.6525609907435236
+
+Result for the vector: sir, coming from part i of the book
+Rank: 6 out of 14 characters
+Cosine similarity to the co-referring vector: 0.6809243965699922
+
+1) man_a - 0.7322216629982047
+
+2) friend_a - 0.6947327852249194
+
+3) mother_a - 0.6853164434433032
+
+4) case_a - 0.6841084768836795
+
+5) day_a - 0.6809922482357481
+
+6) sir_a - 0.6809243965699922
+
+7) room_a - 0.6734775304794359
+
+8) way_a - 0.6662524342536974
+
+9) time_a - 0.6646320618140793
+
+10) hand_a - 0.6379601143574795
+
+11) household_a - 0.629511952400212
+
+12) affair_a - 0.6158967018127485
+
+13) year_a - 0.6066728542257631
+
+14) surprise_a - 0.5438465747924788
+
+Result for the vector: hand, coming from part i of the book
+Rank: 6 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7157594561576843
+
+1) case_a - 0.7703777551651001
+
+2) mother_a - 0.753918841247629
+
+3) way_a - 0.7486099750632076
+
+4) friend_a - 0.7450281533582133
+
+5) time_a - 0.7162759944447302
+
+6) hand_a - 0.7157594561576843
+
+7) day_a - 0.7154771942469164
+
+8) household_a - 0.7103166752864924
+
+9) man_a - 0.7073556955244735
+
+10) room_a - 0.6990982473434075
+
+11) affair_a - 0.6837812254559276
+
+12) sir_a - 0.6642858982086182
+
+13) surprise_a - 0.6512777624991269
+
+14) year_a - 0.5888760616370519
+
+Result for the vector: friend, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8765214232776852
+
+1) friend_a - 0.8765214232776852
+
+2) mother_a - 0.8748328238924952
+
+3) man_a - 0.862146215182994
+
+4) way_a - 0.8551448756283669
+
+5) day_a - 0.8411946202036646
+
+6) affair_a - 0.8334822853228706
+
+7) case_a - 0.8265926345233554
+
+8) room_a - 0.8265152780395415
+
+9) sir_a - 0.8155021181403342
+
+10) time_a - 0.8122472409083707
+
+11) hand_a - 0.7938541296807464
+
+12) year_a - 0.7644739974878515
+
+13) household_a - 0.7569406322311601
+
+14) surprise_a - 0.6992317975941079
+
+Result for the vector: way, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7558483176412204
+
+1) way_a - 0.7558483176412204
+
+2) case_a - 0.7362116136424784
+
+3) day_a - 0.6931069310371349
+
+4) time_a - 0.6844801510715606
+
+5) room_a - 0.6579868605152535
+
+6) hand_a - 0.6486883372850228
+
+7) year_a - 0.6480875804450459
+
+8) man_a - 0.6363824443361229
+
+9) sir_a - 0.6288306338291993
+
+10) friend_a - 0.6265520302591288
+
+11) affair_a - 0.6261247246116728
+
+12) household_a - 0.6207360481338443
+
+13) mother_a - 0.6174009302376592
+
+14) surprise_a - 0.5783765473884568
+
+Result for the vector: case, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9013072193448094
+
+1) case_a - 0.9013072193448094
+
+2) room_a - 0.8450771570205748
+
+3) day_a - 0.8389625857405533
+
+4) way_a - 0.8236592411994993
+
+5) hand_a - 0.8191545497867211
+
+6) time_a - 0.8113652484663205
+
+7) mother_a - 0.8074730038642941
+
+8) man_a - 0.7996830940246639
+
+9) affair_a - 0.7928605675697383
+
+10) friend_a - 0.7924386262893733
+
+11) household_a - 0.7834722399711664
+
+12) sir_a - 0.7646900275164873
+
+13) year_a - 0.727224279526514
+
+14) surprise_a - 0.6780348612049413
+
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.6451984220979763
+
+1) day_a - 0.6451984220979763
+
+2) time_a - 0.5889785220305814
+
+3) case_a - 0.582198977470398
+
+4) way_a - 0.5686503905862347
+
+5) affair_a - 0.539450851711581
+
+6) mother_a - 0.5302844327518691
+
+7) household_a - 0.5263161941578282
+
+8) hand_a - 0.5200073719024658
+
+9) room_a - 0.512410252546654
+
+10) man_a - 0.5099227720545079
+
+11) sir_a - 0.5023993253707886
+
+12) friend_a - 0.493773162736109
+
+13) year_a - 0.4886602302187907
+
+14) surprise_a - 0.4861120002136265
+
+Result for the vector: mother, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8664409856068829
+
+1) mother_a - 0.8664409856068829
+
+2) friend_a - 0.8364530552490669
+
+3) man_a - 0.7219505094900605
+
+4) hand_a - 0.6940888969328673
+
+5) sir_a - 0.6910668221434006
+
+6) day_a - 0.6865567395920691
+
+7) way_a - 0.6856219564192931
+
+8) room_a - 0.6808537041886564
+
+9) time_a - 0.6756599754881841
+
+10) case_a - 0.6732124290827644
+
+11) surprise_a - 0.6673443912853919
+
+12) household_a - 0.6538625164669029
+
+13) affair_a - 0.6343195845389515
+
+14) year_a - 0.623802795863486
+
+Result for the vector: year, coming from part i of the book
+Rank: 2 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7862883785796733
+
+1) day_a - 0.7954622737399843
+
+2) year_a - 0.7862883785796733
+
+3) way_a - 0.7639880180358941
+
+4) affair_a - 0.7495793700218254
+
+5) time_a - 0.745266310165273
+
+6) case_a - 0.7243466212956097
+
+7) room_a - 0.7001067399978688
+
+8) sir_a - 0.6893489771693347
+
+9) hand_a - 0.6674960653481534
+
+10) man_a - 0.6640262603759812
+
+11) mother_a - 0.6623568534851121
+
+12) friend_a - 0.6610462665557908
+
+13) household_a - 0.6161862015724225
+
+14) surprise_a - 0.571973051311201
+
+Result for the vector: surprise, coming from part i of the book
+Rank: 14 out of 14 characters
+Cosine similarity to the co-referring vector: 0.5229738015579349
+
+1) case_a - 0.6613266669913145
+
+2) way_a - 0.6453947251564592
+
+3) time_a - 0.6318294594237117
+
+4) day_a - 0.6270966903625046
+
+5) man_a - 0.6256136744482905
+
+6) friend_a - 0.6138704879438296
+
+7) mother_a - 0.611227320286355
+
+8) hand_a - 0.6077496643215629
+
+9) room_a - 0.6036096687782205
+
+10) sir_a - 0.5903072601373647
+
+11) household_a - 0.5861512915907751
+
+12) affair_a - 0.5767444876737013
+
+13) year_a - 0.5538574622231027
+
+14) surprise_a - 0.5229738015579349
+
+Result for the vector: household, coming from part i of the book
+Rank: 8 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7381431176491835
+
+1) mother_a - 0.8194169617394255
+
+2) friend_a - 0.776418950984603
+
+3) day_a - 0.7578161810527076
+
+4) room_a - 0.7501831948538786
+
+5) time_a - 0.7495337352017765
+
+6) way_a - 0.7449661797325396
+
+7) case_a - 0.7449377927221197
+
+8) household_a - 0.7381431176491835
+
+9) man_a - 0.7346912342678029
+
+10) hand_a - 0.7251158520510298
+
+11) sir_a - 0.7039709863680026
+
+12) year_a - 0.7021036953361022
+
+13) affair_a - 0.6911562453322118
+
+14) surprise_a - 0.6604421149893805
+
+Result for the vector: affair, coming from part i of the book
+Rank: 4 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7747574121049151
+
+1) case_a - 0.7937977436901498
+
+2) man_a - 0.7847145456415956
+
+3) day_a - 0.7791867720596183
+
+4) affair_a - 0.7747574121049151
+
+5) room_a - 0.7567255190938093
+
+6) way_a - 0.7565914682636895
+
+7) time_a - 0.750326178977682
+
+8) household_a - 0.7280096735942753
+
+9) mother_a - 0.7208844756025701
+
+10) friend_a - 0.7208043669695416
+
+11) hand_a - 0.7130553297367508
+
+12) sir_a - 0.698084968442622
+
+13) year_a - 0.6848620380420176
+
+14) surprise_a - 0.6341238080041763
+
+Result for the vector: room, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.88722858168994
+
+1) room_wiki - 0.88722858168994
+
+2) case_wiki - 0.8450771570205748
+
+3) friend_wiki - 0.8265152780395415
+
+4) time_wiki - 0.760229780660286
+
+5) man_wiki - 0.7583991433144139
+
+6) affair_wiki - 0.7567255190938093
+
+7) household_wiki - 0.7501831948538786
+
+8) year_wiki - 0.7001067399978688
+
+9) hand_wiki - 0.6990982473434075
+
+10) mother_wiki - 0.6808537041886564
+
+11) sir_wiki - 0.6734775304794359
+
+12) way_wiki - 0.6579868605152535
+
+13) surprise_wiki - 0.6036096687782205
+
+14) day_wiki - 0.512410252546654
+
+Result for the vector: time, coming from part a of the book
+Rank: 2 out of 14 characters
+Cosine similarity to the co-referring vector: 0.811467541289411
+
+1) friend_wiki - 0.8122472409083707
+
+2) time_wiki - 0.811467541289411
+
+3) case_wiki - 0.8113652484663205
+
+4) room_wiki - 0.7948485368309675
+
+5) man_wiki - 0.7818620307918249
+
+6) affair_wiki - 0.750326178977682
+
+7) household_wiki - 0.7495337352017765
+
+8) year_wiki - 0.745266310165273
+
+9) hand_wiki - 0.7162759944447302
+
+10) way_wiki - 0.6844801510715606
+
+11) mother_wiki - 0.6756599754881841
+
+12) sir_wiki - 0.6646320618140793
+
+13) surprise_wiki - 0.6318294594237117
+
+14) day_wiki - 0.5889785220305814
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8800036382673018
+
+1) man_wiki - 0.8800036382673018
+
+2) friend_wiki - 0.862146215182994
+
+3) case_wiki - 0.7996830940246639
+
+4) affair_wiki - 0.7847145456415956
+
+5) room_wiki - 0.7774893409762014
+
+6) time_wiki - 0.7625869058020781
+
+7) household_wiki - 0.7346912342678029
+
+8) sir_wiki - 0.7322216629982047
+
+9) mother_wiki - 0.7219505094900605
+
+10) hand_wiki - 0.7073556955244735
+
+11) year_wiki - 0.6640262603759812
+
+12) way_wiki - 0.6363824443361229
+
+13) surprise_wiki - 0.6256136744482905
+
+14) day_wiki - 0.5099227720545079
+
+Result for the vector: sir, coming from part a of the book
+Rank: 10 out of 14 characters
+Cosine similarity to the co-referring vector: 0.6809243965699922
+
+1) friend_wiki - 0.8155021181403342
+
+2) man_wiki - 0.7756837010383606
+
+3) case_wiki - 0.7646900275164873
+
+4) room_wiki - 0.7622340548704286
+
+5) time_wiki - 0.7132954597473145
+
+6) household_wiki - 0.7039709863680026
+
+7) affair_wiki - 0.698084968442622
+
+8) mother_wiki - 0.6910668221434006
+
+9) year_wiki - 0.6893489771693347
+
+10) sir_wiki - 0.6809243965699922
+
+11) hand_wiki - 0.6642858982086182
+
+12) way_wiki - 0.6288306338291993
+
+13) surprise_wiki - 0.5903072601373647
+
+14) day_wiki - 0.5023993253707886
+
+Result for the vector: hand, coming from part a of the book
+Rank: 7 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7157594561576843
+
+1) case_wiki - 0.8191545497867211
+
+2) room_wiki - 0.8094790819132058
+
+3) friend_wiki - 0.7938541296807464
+
+4) man_wiki - 0.7514976263046265
+
+5) time_wiki - 0.7420560121536255
+
+6) household_wiki - 0.7251158520510298
+
+7) hand_wiki - 0.7157594561576843
+
+8) affair_wiki - 0.7130553297367508
+
+9) mother_wiki - 0.6940888969328673
+
+10) year_wiki - 0.6674960653481534
+
+11) way_wiki - 0.6486883372850228
+
+12) sir_wiki - 0.6379601143574795
+
+13) surprise_wiki - 0.6077496643215629
+
+14) day_wiki - 0.5200073719024658
+
+Result for the vector: friend, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8765214232776852
+
+1) friend_wiki - 0.8765214232776852
+
+2) mother_wiki - 0.8364530552490669
+
+3) man_wiki - 0.8117597811365272
+
+4) case_wiki - 0.7924386262893733
+
+5) room_wiki - 0.7904783847785509
+
+6) household_wiki - 0.776418950984603
+
+7) hand_wiki - 0.7450281533582133
+
+8) time_wiki - 0.7393363273539361
+
+9) affair_wiki - 0.7208043669695416
+
+10) sir_wiki - 0.6947327852249194
+
+11) year_wiki - 0.6610462665557908
+
+12) way_wiki - 0.6265520302591288
+
+13) surprise_wiki - 0.6138704879438296
+
+14) day_wiki - 0.493773162736109
+
+Result for the vector: way, coming from part a of the book
+Rank: 8 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7558483176412204
+
+1) friend_wiki - 0.8551448756283669
+
+2) case_wiki - 0.8236592411994993
+
+3) room_wiki - 0.8123890515449959
+
+4) time_wiki - 0.7957940223339797
+
+5) man_wiki - 0.7899551516798062
+
+6) year_wiki - 0.7639880180358941
+
+7) affair_wiki - 0.7565914682636895
+
+8) way_wiki - 0.7558483176412204
+
+9) hand_wiki - 0.7486099750632076
+
+10) household_wiki - 0.7449661797325396
+
+11) mother_wiki - 0.6856219564192931
+
+12) sir_wiki - 0.6662524342536974
+
+13) surprise_wiki - 0.6453947251564592
+
+14) day_wiki - 0.5686503905862347
+
+Result for the vector: case, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9013072193448094
+
+1) case_wiki - 0.9013072193448094
+
+2) room_wiki - 0.8600425380481049
+
+3) friend_wiki - 0.8265926345233554
+
+4) affair_wiki - 0.7937977436901498
+
+5) time_wiki - 0.7924837470054626
+
+6) man_wiki - 0.7826184630393982
+
+7) hand_wiki - 0.7703777551651001
+
+8) household_wiki - 0.7449377927221197
+
+9) way_wiki - 0.7362116136424784
+
+10) year_wiki - 0.7243466212956097
+
+11) sir_wiki - 0.6841084768836795
+
+12) mother_wiki - 0.6732124290827644
+
+13) surprise_wiki - 0.6613266669913145
+
+14) day_wiki - 0.582198977470398
+
+Result for the vector: day, coming from part a of the book
+Rank: 13 out of 14 characters
+Cosine similarity to the co-referring vector: 0.6451984220979763
+
+1) friend_wiki - 0.8411946202036646
+
+2) case_wiki - 0.8389625857405533
+
+3) time_wiki - 0.8138304726875449
+
+4) room_wiki - 0.8081251990981729
+
+5) man_wiki - 0.8003257871062559
+
+6) year_wiki - 0.7954622737399843
+
+7) affair_wiki - 0.7791867720596183
+
+8) household_wiki - 0.7578161810527076
+
+9) hand_wiki - 0.7154771942469164
+
+10) way_wiki - 0.6931069310371349
+
+11) mother_wiki - 0.6865567395920691
+
+12) sir_wiki - 0.6809922482357481
+
+13) day_wiki - 0.6451984220979763
+
+14) surprise_wiki - 0.6270966903625046
+
+Result for the vector: mother, coming from part a of the book
+Rank: 2 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8664409856068829
+
+1) friend_wiki - 0.8748328238924952
+
+2) mother_wiki - 0.8664409856068829
+
+3) room_wiki - 0.8260445348607175
+
+4) household_wiki - 0.8194169617394255
+
+5) man_wiki - 0.8102676981528
+
+6) case_wiki - 0.8074730038642941
+
+7) hand_wiki - 0.753918841247629
+
+8) time_wiki - 0.7508465200158061
+
+9) affair_wiki - 0.7208844756025701
+
+10) sir_wiki - 0.6853164434433032
+
+11) year_wiki - 0.6623568534851121
+
+12) way_wiki - 0.6174009302376592
+
+13) surprise_wiki - 0.611227320286355
+
+14) day_wiki - 0.5302844327518691
+
+Result for the vector: year, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7862883785796733
+
+1) year_wiki - 0.7862883785796733
+
+2) friend_wiki - 0.7644739974878515
+
+3) man_wiki - 0.7587377511326479
+
+4) case_wiki - 0.727224279526514
+
+5) time_wiki - 0.717332606077132
+
+6) room_wiki - 0.7049079781661021
+
+7) household_wiki - 0.7021036953361022
+
+8) affair_wiki - 0.6848620380420176
+
+9) way_wiki - 0.6480875804450459
+
+10) mother_wiki - 0.623802795863486
+
+11) sir_wiki - 0.6066728542257631
+
+12) hand_wiki - 0.5888760616370519
+
+13) surprise_wiki - 0.5538574622231027
+
+14) day_wiki - 0.4886602302187907
+
+Result for the vector: surprise, coming from part a of the book
+Rank: 13 out of 14 characters
+Cosine similarity to the co-referring vector: 0.5229738015579349
+
+1) friend_wiki - 0.6992317975941079
+
+2) case_wiki - 0.6780348612049413
+
+3) mother_wiki - 0.6673443912853919
+
+4) room_wiki - 0.6633211377274046
+
+5) household_wiki - 0.6604421149893805
+
+6) time_wiki - 0.6583701779401137
+
+7) man_wiki - 0.6525609907435236
+
+8) hand_wiki - 0.6512777624991269
+
+9) affair_wiki - 0.6341238080041763
+
+10) way_wiki - 0.5783765473884568
+
+11) year_wiki - 0.571973051311201
+
+12) sir_wiki - 0.5438465747924788
+
+13) surprise_wiki - 0.5229738015579349
+
+14) day_wiki - 0.4861120002136265
+
+Result for the vector: household, coming from part a of the book
+Rank: 5 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7381431176491835
+
+1) case_wiki - 0.7834722399711664
+
+2) friend_wiki - 0.7569406322311601
+
+3) room_wiki - 0.7441056148974444
+
+4) man_wiki - 0.7421767269267616
+
+5) household_wiki - 0.7381431176491835
+
+6) time_wiki - 0.7335264841600381
+
+7) affair_wiki - 0.7280096735942753
+
+8) hand_wiki - 0.7103166752864924
+
+9) mother_wiki - 0.6538625164669029
+
+10) sir_wiki - 0.629511952400212
+
+11) way_wiki - 0.6207360481338443
+
+12) year_wiki - 0.6161862015724225
+
+13) surprise_wiki - 0.5861512915907751
+
+14) day_wiki - 0.5263161941578282
+
+Result for the vector: affair, coming from part a of the book
+Rank: 3 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7747574121049151
+
+1) friend_wiki - 0.8334822853228706
+
+2) case_wiki - 0.7928605675697383
+
+3) affair_wiki - 0.7747574121049151
+
+4) year_wiki - 0.7495793700218254
+
+5) man_wiki - 0.7355311670582804
+
+6) room_wiki - 0.726294138243972
+
+7) time_wiki - 0.7237257526084345
+
+8) household_wiki - 0.6911562453322118
+
+9) hand_wiki - 0.6837812254559276
+
+10) mother_wiki - 0.6343195845389515
+
+11) way_wiki - 0.6261247246116728
+
+12) sir_wiki - 0.6158967018127485
+
+13) surprise_wiki - 0.5767444876737013
+
+14) day_wiki - 0.539450851711581
+

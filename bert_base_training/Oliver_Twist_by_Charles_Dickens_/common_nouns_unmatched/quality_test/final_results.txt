@@ -1,0 +1,9 @@
+Test: quality test
+Results for: Oliver_Twist_by_Charles_Dickens_
+Model used: common nouns unmatched
+
+Within-novel median: 2.5
+Within-novel average: 3.0833333333333335
+Within-novel MRR: 0.48888888888888893
+Within-novel standard deviation of the scores: 1.8008485654145259
+Amount of entities considered: 6.0

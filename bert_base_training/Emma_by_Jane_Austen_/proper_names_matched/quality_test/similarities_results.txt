@@ -1,0 +1,3840 @@
+Result for the vector: emma_woodhouse, coming from part i of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9455995213031345
+
+1) emma_woodhouse_a - 0.9455995213031345
+
+2) isabella_a - 0.9380534533906094
+
+3) harriet_smith_a - 0.9332867781265726
+
+4) miss_jane_fairfax_a - 0.9325962344585731
+
+5) miss_bates_a - 0.9211960160375866
+
+6) mr_elton_a - 0.9200755631946199
+
+7) mr_woodhouse_a - 0.9184196865087658
+
+8) mr_frank_churchill_a - 0.9176433906832393
+
+9) miss_taylor_a - 0.9170827493443567
+
+10) miss_hawkins_a - 0.9085717472008396
+
+11) mr_john_knightley_a - 0.9082773057139759
+
+12) henry_a - 0.9075988260627179
+
+13) mr_perry_a - 0.9022212180824939
+
+14) james_a - 0.9010598273032753
+
+15) mr_dixon_a - 0.9001116097039944
+
+16) mr_robert_martin_a - 0.8958120675143019
+
+17) mrs_goddard_a - 0.8928968842564157
+
+18) william_larkins_a - 0.8844944502262612
+
+19) mr_cole_a - 0.8742326908499674
+
+20) mr_wingfield_a - 0.8739938996432397
+
+21) mrs_weston_a - 0.8727168885131957
+
+22) mrs_campbell_a - 0.8378800403440014
+
+23) hartfield_a - 0.8229238741718601
+
+24) enscombe_a - 0.8204889435013187
+
+25) donwell_a - 0.809308362839374
+
+26) martins_a - 0.8084329607615761
+
+27) coles_a - 0.8062258603044115
+
+28) churchills_a - 0.7886341449211286
+
+29) campbells_a - 0.7830746536530688
+
+30) eltons_a - 0.7528288588770887
+
+Result for the vector: harriet_smith, coming from part i of the book
+Rank: 2 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9355502609402407
+
+1) isabella_a - 0.941545149914198
+
+2) harriet_smith_a - 0.9355502609402407
+
+3) miss_jane_fairfax_a - 0.9294769402870817
+
+4) miss_taylor_a - 0.9258573838855902
+
+5) mr_elton_a - 0.9235489002062924
+
+6) emma_woodhouse_a - 0.9234208052487385
+
+7) mr_frank_churchill_a - 0.9165631706361731
+
+8) miss_bates_a - 0.913668302108903
+
+9) henry_a - 0.9128283534296958
+
+10) mr_woodhouse_a - 0.90875788707357
+
+11) miss_hawkins_a - 0.907225868751935
+
+12) mr_john_knightley_a - 0.9015339881638981
+
+13) mrs_goddard_a - 0.8994890331612881
+
+14) james_a - 0.8990691451831382
+
+15) mr_dixon_a - 0.8965003367066801
+
+16) mr_robert_martin_a - 0.8937458066268605
+
+17) mr_perry_a - 0.8862161100957627
+
+18) mrs_weston_a - 0.8743524922762798
+
+19) mr_cole_a - 0.8703593352330119
+
+20) william_larkins_a - 0.8681321324228202
+
+21) mr_wingfield_a - 0.8560922911249693
+
+22) hartfield_a - 0.8368747483752685
+
+23) mrs_campbell_a - 0.8335588723622778
+
+24) enscombe_a - 0.8283394021301574
+
+25) donwell_a - 0.8238964116418979
+
+26) martins_a - 0.8154366745445172
+
+27) coles_a - 0.8108859191136917
+
+28) churchills_a - 0.7954924221777133
+
+29) campbells_a - 0.7837501997873334
+
+30) eltons_a - 0.7564020237090043
+
+Result for the vector: mr_john_knightley, coming from part i of the book
+Rank: 8 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9302478987126439
+
+1) mr_frank_churchill_a - 0.943947960844273
+
+2) mr_elton_a - 0.9433644346433271
+
+3) isabella_a - 0.9395426999704914
+
+4) mr_woodhouse_a - 0.9382316992559141
+
+5) henry_a - 0.9324775297926533
+
+6) mr_robert_martin_a - 0.9318218786610442
+
+7) mr_perry_a - 0.9306453301060986
+
+8) mr_john_knightley_a - 0.9302478987126439
+
+9) harriet_smith_a - 0.9301628622752443
+
+10) miss_bates_a - 0.9262297705549013
+
+11) mr_dixon_a - 0.9235258882531394
+
+12) james_a - 0.9224120239756166
+
+13) miss_jane_fairfax_a - 0.9212669040282916
+
+14) william_larkins_a - 0.914177526733587
+
+15) emma_woodhouse_a - 0.913846298547919
+
+16) miss_hawkins_a - 0.9129205838347242
+
+17) miss_taylor_a - 0.910297794991339
+
+18) mrs_weston_a - 0.9102398863935237
+
+19) mr_wingfield_a - 0.9017085911880308
+
+20) mrs_goddard_a - 0.8953269862125829
+
+21) mr_cole_a - 0.8952895402908579
+
+22) mrs_campbell_a - 0.8690779053065726
+
+23) donwell_a - 0.8515324327109649
+
+24) enscombe_a - 0.8443016727510121
+
+25) hartfield_a - 0.8421537782045605
+
+26) coles_a - 0.8264426382115707
+
+27) martins_a - 0.8166866083963701
+
+28) churchills_a - 0.8122873082503506
+
+29) campbells_a - 0.798278617756297
+
+30) eltons_a - 0.7923689237080778
+
+Result for the vector: miss_jane_fairfax, coming from part i of the book
+Rank: 2 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9242599010467529
+
+1) isabella_a - 0.9302050429704828
+
+2) miss_jane_fairfax_a - 0.9242599010467529
+
+3) harriet_smith_a - 0.9207357991399622
+
+4) emma_woodhouse_a - 0.9132769652174111
+
+5) mr_elton_a - 0.9079974293708801
+
+6) miss_taylor_a - 0.9071949069020113
+
+7) miss_bates_a - 0.9036967811765221
+
+8) miss_hawkins_a - 0.9034214615821838
+
+9) mr_frank_churchill_a - 0.9025709570986619
+
+10) henry_a - 0.8999467551739974
+
+11) mr_woodhouse_a - 0.8985005617141724
+
+12) mr_john_knightley_a - 0.8896605438196351
+
+13) mr_dixon_a - 0.8853418494862874
+
+14) mrs_goddard_a - 0.8852315212855201
+
+15) james_a - 0.8832987477361425
+
+16) mr_robert_martin_a - 0.8792042208192232
+
+17) mr_perry_a - 0.870290502344436
+
+18) william_larkins_a - 0.8611713647842407
+
+19) mrs_weston_a - 0.8602023297729225
+
+20) mr_cole_a - 0.8522970256451399
+
+21) mr_wingfield_a - 0.8463901281356812
+
+22) hartfield_a - 0.8218878613777257
+
+23) donwell_a - 0.8210633290447803
+
+24) mrs_campbell_a - 0.8175941109657288
+
+25) enscombe_a - 0.8145154007980481
+
+26) coles_a - 0.8096753358840942
+
+27) martins_a - 0.8032227754592896
+
+28) churchills_a - 0.7869399189949036
+
+29) campbells_a - 0.7783205641317045
+
+30) eltons_a - 0.7416408061981201
+
+Result for the vector: mrs_weston, coming from part i of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9167716180316198
+
+1) mrs_weston_a - 0.9167716180316198
+
+2) miss_bates_a - 0.9100525486406625
+
+3) mr_dixon_a - 0.9095608320963171
+
+4) mr_cole_a - 0.9048724940647211
+
+5) mr_frank_churchill_a - 0.8994871973991458
+
+6) mr_robert_martin_a - 0.8868748084455957
+
+7) mrs_campbell_a - 0.8814420174692874
+
+8) isabella_a - 0.8787764310836854
+
+9) miss_hawkins_a - 0.8768652750930042
+
+10) henry_a - 0.8759433178969243
+
+11) mr_john_knightley_a - 0.8754275589671661
+
+12) mr_elton_a - 0.8740869239516915
+
+13) william_larkins_a - 0.8740564659800267
+
+14) harriet_smith_a - 0.8740175030832835
+
+15) mr_perry_a - 0.8708921593959565
+
+16) mr_woodhouse_a - 0.8658358534672363
+
+17) miss_jane_fairfax_a - 0.8639602742218823
+
+18) miss_taylor_a - 0.8473258018493712
+
+19) emma_woodhouse_a - 0.8466095924377501
+
+20) james_a - 0.8421076536178649
+
+21) mrs_goddard_a - 0.8395784843093642
+
+22) mr_wingfield_a - 0.8298114043586624
+
+23) donwell_a - 0.8121041059494076
+
+24) eltons_a - 0.8093943113449641
+
+25) hartfield_a - 0.7814104817616365
+
+26) enscombe_a - 0.7796317338943537
+
+27) coles_a - 0.7791197431612181
+
+28) martins_a - 0.7686644334397071
+
+29) churchills_a - 0.7554528262941358
+
+30) campbells_a - 0.7526322898110998
+
+Result for the vector: mr_elton, coming from part i of the book
+Rank: 9 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8847102522850037
+
+1) mr_cole_a - 0.9513074217668337
+
+2) mrs_weston_a - 0.9497686281593446
+
+3) mr_frank_churchill_a - 0.9322723109884464
+
+4) mr_dixon_a - 0.9305827894980551
+
+5) mrs_campbell_a - 0.9269128441810608
+
+6) miss_bates_a - 0.9232228444085826
+
+7) mr_robert_martin_a - 0.9032403288340388
+
+8) harriet_smith_a - 0.8858328657596921
+
+9) mr_elton_a - 0.8847102522850037
+
+10) mr_perry_a - 0.8844314675845528
+
+11) mr_woodhouse_a - 0.8813288807868958
+
+12) henry_a - 0.8784873557992381
+
+13) mr_john_knightley_a - 0.8780373407580069
+
+14) isabella_a - 0.8738318606514863
+
+15) eltons_a - 0.8635071516036987
+
+16) william_larkins_a - 0.8625186681747437
+
+17) james_a - 0.862074545745526
+
+18) miss_hawkins_a - 0.8612635135650635
+
+19) miss_jane_fairfax_a - 0.8593026995658875
+
+20) mrs_goddard_a - 0.8569700377276555
+
+21) emma_woodhouse_a - 0.8476027755500556
+
+22) miss_taylor_a - 0.8443745877966055
+
+23) mr_wingfield_a - 0.8414758443832397
+
+24) donwell_a - 0.8390721582813372
+
+25) hartfield_a - 0.7993906259899972
+
+26) enscombe_a - 0.7914031619669906
+
+27) coles_a - 0.7805331945419312
+
+28) martins_a - 0.7751611471176147
+
+29) churchills_a - 0.7667722702026367
+
+30) campbells_a - 0.7559507038622688
+
+Result for the vector: mr_frank_churchill, coming from part i of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9471088898577298
+
+1) mr_frank_churchill_a - 0.9471088898577298
+
+2) mr_elton_a - 0.9383198302483512
+
+3) henry_a - 0.9322952946336517
+
+4) mr_woodhouse_a - 0.9296015778065202
+
+5) mr_robert_martin_a - 0.9275324664255279
+
+6) isabella_a - 0.9251979820607292
+
+7) mr_dixon_a - 0.9224622799433637
+
+8) mrs_weston_a - 0.9201170110842019
+
+9) mr_john_knightley_a - 0.9195822799330307
+
+10) harriet_smith_a - 0.9193766020985383
+
+11) miss_bates_a - 0.9155156339551356
+
+12) mr_perry_a - 0.9149255923815991
+
+13) james_a - 0.9132617932494101
+
+14) miss_jane_fairfax_a - 0.9050063164534071
+
+15) miss_hawkins_a - 0.9025271207847337
+
+16) mr_cole_a - 0.9000957995567601
+
+17) william_larkins_a - 0.8998865753378448
+
+18) mrs_goddard_a - 0.8916350538513097
+
+19) miss_taylor_a - 0.890901406785972
+
+20) emma_woodhouse_a - 0.8896063765531523
+
+21) mr_wingfield_a - 0.887235012270064
+
+22) mrs_campbell_a - 0.8771791719549652
+
+23) donwell_a - 0.8537154960974008
+
+24) hartfield_a - 0.8348688830474386
+
+25) enscombe_a - 0.829283550019582
+
+26) coles_a - 0.8185740953258904
+
+27) martins_a - 0.8141088132294663
+
+28) eltons_a - 0.8086197021192227
+
+29) churchills_a - 0.8034926892367811
+
+30) campbells_a - 0.7907787325746231
+
+Result for the vector: mr_woodhouse, coming from part i of the book
+Rank: 2 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9204275608062744
+
+1) mr_elton_a - 0.9247050285339355
+
+2) mr_woodhouse_a - 0.9204275608062744
+
+3) mr_frank_churchill_a - 0.9198940348562039
+
+4) isabella_a - 0.9172947953519119
+
+5) mr_robert_martin_a - 0.9153944900396787
+
+6) henry_a - 0.9106133633486428
+
+7) mr_john_knightley_a - 0.9105696135419854
+
+8) harriet_smith_a - 0.9100034454468029
+
+9) mr_dixon_a - 0.9028322965750787
+
+10) miss_jane_fairfax_a - 0.9018137454986572
+
+11) miss_hawkins_a - 0.8992667198181152
+
+12) mr_perry_a - 0.8962507720292598
+
+13) james_a - 0.887819700707181
+
+14) mrs_weston_a - 0.8875558573802618
+
+15) william_larkins_a - 0.8854677677154541
+
+16) miss_bates_a - 0.8853088089639674
+
+17) miss_taylor_a - 0.8822107840902096
+
+18) mrs_goddard_a - 0.8785454296632244
+
+19) mr_wingfield_a - 0.8785224556922913
+
+20) emma_woodhouse_a - 0.8743652626493745
+
+21) mr_cole_a - 0.8521461067025595
+
+22) hartfield_a - 0.8408622836552704
+
+23) donwell_a - 0.8392045998099222
+
+24) enscombe_a - 0.8352306386965909
+
+25) coles_a - 0.8288537859916687
+
+26) mrs_campbell_a - 0.8253147006034851
+
+27) martins_a - 0.8171206712722778
+
+28) churchills_a - 0.8124784827232361
+
+29) campbells_a - 0.7935127142958229
+
+30) eltons_a - 0.7719592452049255
+
+Result for the vector: miss_bates, coming from part i of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9270748539522393
+
+1) miss_bates_a - 0.9270748539522393
+
+2) mr_robert_martin_a - 0.9074277932984969
+
+3) miss_taylor_a - 0.9051280561165859
+
+4) isabella_a - 0.9049119892663965
+
+5) mr_dixon_a - 0.9044380457531828
+
+6) mr_frank_churchill_a - 0.8986807405162315
+
+7) mr_perry_a - 0.8983425376823653
+
+8) miss_jane_fairfax_a - 0.8926462531089783
+
+9) harriet_smith_a - 0.8890166481450219
+
+10) miss_hawkins_a - 0.8883829116821289
+
+11) mr_elton_a - 0.887118935585022
+
+12) mr_cole_a - 0.8810906551968333
+
+13) mrs_weston_a - 0.878965217974656
+
+14) henry_a - 0.874645955881719
+
+15) emma_woodhouse_a - 0.8742396160506989
+
+16) mr_woodhouse_a - 0.8735426664352417
+
+17) mr_john_knightley_a - 0.8678870875902736
+
+18) william_larkins_a - 0.8614320755004883
+
+19) mrs_campbell_a - 0.8607216477394104
+
+20) mrs_goddard_a - 0.8541211144364216
+
+21) james_a - 0.852549365314805
+
+22) enscombe_a - 0.8342724343700683
+
+23) donwell_a - 0.8253751293048355
+
+24) mr_wingfield_a - 0.8205752372741699
+
+25) coles_a - 0.8125622868537903
+
+26) hartfield_a - 0.8087389583147208
+
+27) churchills_a - 0.7951691150665283
+
+28) eltons_a - 0.7943521738052368
+
+29) campbells_a - 0.7913695698160204
+
+30) martins_a - 0.7901085019111633
+
+Result for the vector: hartfield, coming from part i of the book
+Rank: 2 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8663605531239196
+
+1) donwell_a - 0.874025098921366
+
+2) hartfield_a - 0.8663605531239196
+
+3) mrs_goddard_a - 0.8645794649296843
+
+4) enscombe_a - 0.853563955638646
+
+5) mr_frank_churchill_a - 0.8370929263289542
+
+6) mr_robert_martin_a - 0.8364784218979837
+
+7) miss_bates_a - 0.8310315113644906
+
+8) isabella_a - 0.8270569340620613
+
+9) mr_john_knightley_a - 0.8248054489609347
+
+10) harriet_smith_a - 0.820958151306944
+
+11) miss_hawkins_a - 0.8208239674568176
+
+12) mr_perry_a - 0.8207343603055965
+
+13) miss_jane_fairfax_a - 0.8202275037765503
+
+14) mr_dixon_a - 0.8187712674966836
+
+15) mr_elton_a - 0.8184558153152466
+
+16) miss_taylor_a - 0.8135563620064489
+
+17) mr_woodhouse_a - 0.8096861839294434
+
+18) mrs_weston_a - 0.8078463799816146
+
+19) henry_a - 0.8023321746389777
+
+20) coles_a - 0.7927246689796448
+
+21) james_a - 0.7912352556726503
+
+22) mr_cole_a - 0.7873357787924132
+
+23) william_larkins_a - 0.7823748588562012
+
+24) emma_woodhouse_a - 0.7791268693880374
+
+25) mr_wingfield_a - 0.7725613117218018
+
+26) churchills_a - 0.7669382691383362
+
+27) martins_a - 0.7657402753829956
+
+28) campbells_a - 0.7629575870658419
+
+29) mrs_campbell_a - 0.7581220269203186
+
+30) eltons_a - 0.7320804595947266
+
+Result for the vector: isabella, coming from part i of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8963580665801819
+
+1) isabella_a - 0.8963580665801819
+
+2) miss_hawkins_a - 0.880577802658081
+
+3) miss_taylor_a - 0.8776760028407591
+
+4) miss_jane_fairfax_a - 0.8722568154335022
+
+5) harriet_smith_a - 0.8688594879680449
+
+6) emma_woodhouse_a - 0.8673557560059895
+
+7) miss_bates_a - 0.8666228135452994
+
+8) henry_a - 0.8582452024075283
+
+9) mr_elton_a - 0.84627765417099
+
+10) mr_john_knightley_a - 0.8447358104744086
+
+11) mr_frank_churchill_a - 0.8407242799236956
+
+12) mr_dixon_a - 0.8333419809741376
+
+13) mr_woodhouse_a - 0.8313518762588501
+
+14) william_larkins_a - 0.8310337066650391
+
+15) mrs_goddard_a - 0.8295361050825154
+
+16) mr_robert_martin_a - 0.8239632353804582
+
+17) mr_perry_a - 0.8225856807930148
+
+18) james_a - 0.8216147316464636
+
+19) mr_cole_a - 0.7989268542615405
+
+20) mrs_weston_a - 0.7984658001481744
+
+21) coles_a - 0.7825092673301697
+
+22) mr_wingfield_a - 0.7774987816810608
+
+23) mrs_campbell_a - 0.7739458680152893
+
+24) donwell_a - 0.7707027060212331
+
+25) hartfield_a - 0.7683213491248294
+
+26) enscombe_a - 0.7673560838315551
+
+27) martins_a - 0.7646403312683105
+
+28) campbells_a - 0.749337092081483
+
+29) churchills_a - 0.7437160015106201
+
+30) eltons_a - 0.7027475237846375
+
+Result for the vector: mr_robert_martin, coming from part i of the book
+Rank: 9 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9111355649071259
+
+1) mr_elton_a - 0.9283235711858545
+
+2) isabella_a - 0.9263767004013127
+
+3) mr_frank_churchill_a - 0.9257512688636845
+
+4) harriet_smith_a - 0.9232574976461483
+
+5) henry_a - 0.9194511271177379
+
+6) mr_john_knightley_a - 0.9189760781555083
+
+7) mr_woodhouse_a - 0.9140661410053901
+
+8) miss_jane_fairfax_a - 0.9124298743945451
+
+9) mr_robert_martin_a - 0.9111355649071259
+
+10) mr_dixon_a - 0.9105414476829372
+
+11) miss_hawkins_a - 0.9052243289217768
+
+12) miss_bates_a - 0.902204286789383
+
+13) mrs_goddard_a - 0.899021062284084
+
+14) james_a - 0.8989043831825321
+
+15) mr_perry_a - 0.895545536014186
+
+16) miss_taylor_a - 0.8931087255477969
+
+17) mrs_weston_a - 0.8903252151705487
+
+18) william_larkins_a - 0.88890809482884
+
+19) emma_woodhouse_a - 0.8867437243461672
+
+20) mr_wingfield_a - 0.8733154014757052
+
+21) mr_cole_a - 0.8689111705581256
+
+22) donwell_a - 0.8567927479744019
+
+23) mrs_campbell_a - 0.8476105423205783
+
+24) hartfield_a - 0.8474489632309719
+
+25) enscombe_a - 0.8390184044838012
+
+26) coles_a - 0.8315311174672191
+
+27) martins_a - 0.8245026573835235
+
+28) churchills_a - 0.8102022522567375
+
+29) campbells_a - 0.8000734090717543
+
+30) eltons_a - 0.7876327760438471
+
+Result for the vector: mr_perry, coming from part i of the book
+Rank: 7 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8994382499978905
+
+1) mr_dixon_a - 0.9174809133255758
+
+2) mr_frank_churchill_a - 0.91691803436983
+
+3) miss_bates_a - 0.9105870777018636
+
+4) mr_robert_martin_a - 0.9080897028392747
+
+5) mrs_weston_a - 0.9078484393222761
+
+6) mr_elton_a - 0.9061733484268188
+
+7) mr_perry_a - 0.8994382499978905
+
+8) mr_john_knightley_a - 0.8986991108239243
+
+9) mr_cole_a - 0.8982591750312898
+
+10) isabella_a - 0.8970788655924137
+
+11) harriet_smith_a - 0.8969869223523405
+
+12) miss_hawkins_a - 0.8951618671417236
+
+13) henry_a - 0.8899191087532591
+
+14) mr_woodhouse_a - 0.8899150490760803
+
+15) miss_jane_fairfax_a - 0.8863939046859741
+
+16) william_larkins_a - 0.8830696940422058
+
+17) james_a - 0.8739784880863735
+
+18) mrs_campbell_a - 0.8715012073516846
+
+19) mrs_goddard_a - 0.8675056954474958
+
+20) emma_woodhouse_a - 0.8672547857317217
+
+21) miss_taylor_a - 0.8666102210647015
+
+22) mr_wingfield_a - 0.8620829582214355
+
+23) donwell_a - 0.8291693227988093
+
+24) enscombe_a - 0.8115364200792577
+
+25) eltons_a - 0.8111482858657837
+
+26) hartfield_a - 0.8096668833692754
+
+27) coles_a - 0.800025463104248
+
+28) martins_a - 0.7864089012145996
+
+29) churchills_a - 0.7777919173240662
+
+30) campbells_a - 0.7712867396302988
+
+Result for the vector: mrs_goddard, coming from part i of the book
+Rank: 10 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8318113832305122
+
+1) miss_jane_fairfax_a - 0.8581334863980717
+
+2) harriet_smith_a - 0.8550852619238591
+
+3) miss_hawkins_a - 0.8517869622580402
+
+4) miss_bates_a - 0.8513271808624328
+
+5) isabella_a - 0.8507789195512437
+
+6) emma_woodhouse_a - 0.846892338620703
+
+7) mr_frank_churchill_a - 0.8409921933403246
+
+8) henry_a - 0.8391357064247191
+
+9) mr_elton_a - 0.8358500502020165
+
+10) mrs_goddard_a - 0.8318113832305122
+
+11) miss_taylor_a - 0.8317450680428824
+
+12) mr_dixon_a - 0.8290657546281003
+
+13) mr_woodhouse_a - 0.8273435132112228
+
+14) william_larkins_a - 0.8255713478071316
+
+15) mr_john_knightley_a - 0.8223061561584531
+
+16) mr_robert_martin_a - 0.820470094680792
+
+17) mr_perry_a - 0.8183378252395094
+
+18) mr_cole_a - 0.811386179245355
+
+19) james_a - 0.807707107985867
+
+20) mrs_weston_a - 0.8005459309437771
+
+21) donwell_a - 0.7851595026444796
+
+22) mr_wingfield_a - 0.7830640544333505
+
+23) mrs_campbell_a - 0.7795376050196664
+
+24) hartfield_a - 0.7590577602386529
+
+25) martins_a - 0.7526338549038099
+
+26) coles_a - 0.7464766351268683
+
+27) enscombe_a - 0.7463358338279527
+
+28) campbells_a - 0.7339760661125235
+
+29) churchills_a - 0.72092376476072
+
+30) eltons_a - 0.71022562445555
+
+Result for the vector: miss_taylor, coming from part i of the book
+Rank: 2 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8971774188140711
+
+1) isabella_a - 0.9074723935847638
+
+2) miss_taylor_a - 0.8971774188140711
+
+3) miss_jane_fairfax_a - 0.890732016883255
+
+4) henry_a - 0.8893117639627562
+
+5) harriet_smith_a - 0.8859863145335112
+
+6) emma_woodhouse_a - 0.8844146327151033
+
+7) mr_elton_a - 0.8746972940771969
+
+8) miss_bates_a - 0.8730064370332264
+
+9) mr_frank_churchill_a - 0.8686956943895547
+
+10) james_a - 0.8681228340974008
+
+11) mr_john_knightley_a - 0.8655737380512469
+
+12) miss_hawkins_a - 0.8645314831892101
+
+13) mr_woodhouse_a - 0.8634248037166838
+
+14) mrs_goddard_a - 0.8587242876722984
+
+15) mr_dixon_a - 0.8506440431263472
+
+16) mr_robert_martin_a - 0.8446180568749325
+
+17) mr_perry_a - 0.843201524496309
+
+18) william_larkins_a - 0.837230528510527
+
+19) mr_wingfield_a - 0.8231703884354353
+
+20) mrs_weston_a - 0.8173742076604629
+
+21) mr_cole_a - 0.8121097553870391
+
+22) coles_a - 0.8097468259855163
+
+23) martins_a - 0.8089722039989298
+
+24) hartfield_a - 0.800282573691533
+
+25) enscombe_a - 0.7938467973929764
+
+26) campbells_a - 0.7893492940262202
+
+27) donwell_a - 0.7848582969479234
+
+28) churchills_a - 0.780435227764703
+
+29) mrs_campbell_a - 0.7747702233424852
+
+30) eltons_a - 0.7443065269084733
+
+Result for the vector: mrs_campbell, coming from part i of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.933758556842804
+
+1) mrs_campbell_a - 0.933758556842804
+
+2) mr_cole_a - 0.8999140381915588
+
+3) mrs_weston_a - 0.898143252564367
+
+4) mr_dixon_a - 0.8861263658442015
+
+5) miss_bates_a - 0.8798043799516944
+
+6) mr_frank_churchill_a - 0.8767036722125827
+
+7) mr_robert_martin_a - 0.8518549888220451
+
+8) mr_john_knightley_a - 0.847401687657734
+
+9) henry_a - 0.845074245627271
+
+10) mr_perry_a - 0.8427779487106799
+
+11) harriet_smith_a - 0.8405447757731211
+
+12) mr_elton_a - 0.8401528596878052
+
+13) william_larkins_a - 0.8368818759918213
+
+14) mr_woodhouse_a - 0.8365521430969238
+
+15) isabella_a - 0.8349650999882892
+
+16) miss_hawkins_a - 0.8332752585411072
+
+17) eltons_a - 0.8246128559112549
+
+18) james_a - 0.817510295957942
+
+19) miss_jane_fairfax_a - 0.8174875378608704
+
+20) mrs_goddard_a - 0.8149059061678028
+
+21) mr_wingfield_a - 0.812383770942688
+
+22) emma_woodhouse_a - 0.8014455319312546
+
+23) donwell_a - 0.7924904103571435
+
+24) miss_taylor_a - 0.7919838900556513
+
+25) coles_a - 0.761733889579773
+
+26) martins_a - 0.7540022730827332
+
+27) hartfield_a - 0.7528829125831789
+
+28) campbells_a - 0.7470758112027771
+
+29) enscombe_a - 0.7459531871052509
+
+30) churchills_a - 0.7362109422683716
+
+Result for the vector: mr_dixon, coming from part i of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8289886160177944
+
+1) mr_dixon_a - 0.8289886160177944
+
+2) miss_bates_a - 0.8247213855219845
+
+3) mrs_weston_a - 0.8176236666251921
+
+4) miss_hawkins_a - 0.8119938149444894
+
+5) mr_cole_a - 0.8118195533752672
+
+6) mr_frank_churchill_a - 0.8094756858603407
+
+7) mrs_campbell_a - 0.795300042068969
+
+8) isabella_a - 0.7933286654940855
+
+9) mr_robert_martin_a - 0.7931019540490012
+
+10) william_larkins_a - 0.7927104583633549
+
+11) harriet_smith_a - 0.7908133726028687
+
+12) miss_jane_fairfax_a - 0.787525628510198
+
+13) mrs_goddard_a - 0.7863171080227389
+
+14) henry_a - 0.7847860327235605
+
+15) mr_john_knightley_a - 0.7837396135175123
+
+16) mr_elton_a - 0.782317910470719
+
+17) mr_woodhouse_a - 0.7630657271225182
+
+18) donwell_a - 0.7628177576335249
+
+19) mr_perry_a - 0.7628064782158085
+
+20) miss_taylor_a - 0.7598740029109735
+
+21) coles_a - 0.7504408062029899
+
+22) hartfield_a - 0.74093465452998
+
+23) emma_woodhouse_a - 0.740169895917756
+
+24) james_a - 0.7393167148798804
+
+25) eltons_a - 0.7294724857178365
+
+26) campbells_a - 0.7283006148517615
+
+27) enscombe_a - 0.726748834863098
+
+28) martins_a - 0.725333240667973
+
+29) mr_wingfield_a - 0.722340550701689
+
+30) churchills_a - 0.7191981338498803
+
+Result for the vector: mr_cole, coming from part i of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8959938349727634
+
+1) mr_cole_a - 0.8959938349727634
+
+2) mrs_campbell_a - 0.8856716683907327
+
+3) mrs_weston_a - 0.8790366767401515
+
+4) mr_dixon_a - 0.8574993184953322
+
+5) eltons_a - 0.8563315186698165
+
+6) miss_bates_a - 0.8452365398407042
+
+7) mr_frank_churchill_a - 0.840854983431695
+
+8) mr_robert_martin_a - 0.8048269748687802
+
+9) harriet_smith_a - 0.7866276482682899
+
+10) mr_perry_a - 0.7852015707257233
+
+11) mrs_goddard_a - 0.7810451490621405
+
+12) mr_woodhouse_a - 0.7774516211421277
+
+13) mr_john_knightley_a - 0.7766317725181635
+
+14) mr_elton_a - 0.7756749853894119
+
+15) donwell_a - 0.7702464187438988
+
+16) isabella_a - 0.7681284866486175
+
+17) miss_hawkins_a - 0.7679208974791122
+
+18) miss_jane_fairfax_a - 0.7622408129120372
+
+19) henry_a - 0.7600928544998223
+
+20) william_larkins_a - 0.7556316110868235
+
+21) james_a - 0.7513343395393299
+
+22) coles_a - 0.7427130188174869
+
+23) mr_wingfield_a - 0.7409588540171907
+
+24) miss_taylor_a - 0.7408348012965681
+
+25) emma_woodhouse_a - 0.738786904667247
+
+26) hartfield_a - 0.7358074784278922
+
+27) martins_a - 0.7292737799450041
+
+28) enscombe_a - 0.7269017966868635
+
+29) campbells_a - 0.7264807224273733
+
+30) churchills_a - 0.7155657837132099
+
+Result for the vector: campbells, coming from part i of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8716986851871813
+
+1) campbells_a - 0.8716986851871813
+
+2) coles_a - 0.8572786450386047
+
+3) martins_a - 0.8559666872024536
+
+4) churchills_a - 0.8331778049468994
+
+5) isabella_a - 0.7957203862500435
+
+6) miss_hawkins_a - 0.7942284345626831
+
+7) harriet_smith_a - 0.7902728429680655
+
+8) mr_frank_churchill_a - 0.786998616874137
+
+9) mr_elton_a - 0.7814806699752808
+
+10) miss_jane_fairfax_a - 0.7809697389602661
+
+11) mrs_goddard_a - 0.7763893835660635
+
+12) mr_dixon_a - 0.7738471261813383
+
+13) mr_john_knightley_a - 0.7738257185324612
+
+14) miss_bates_a - 0.7738238111839421
+
+15) james_a - 0.7733771069870669
+
+16) mr_woodhouse_a - 0.7701611518859863
+
+17) henry_a - 0.7683127660564933
+
+18) mr_robert_martin_a - 0.7639096520000918
+
+19) miss_taylor_a - 0.758456931022224
+
+20) mrs_weston_a - 0.7521346287847753
+
+21) emma_woodhouse_a - 0.751906141752372
+
+22) mr_perry_a - 0.7472272810014874
+
+23) eltons_a - 0.7469643354415894
+
+24) mr_cole_a - 0.7370624259635947
+
+25) mr_wingfield_a - 0.7358131408691406
+
+26) hartfield_a - 0.7351870098598606
+
+27) william_larkins_a - 0.7321838140487671
+
+28) enscombe_a - 0.7171726058228389
+
+29) mrs_campbell_a - 0.7081378698348999
+
+30) donwell_a - 0.6935224350406203
+
+Result for the vector: henry, coming from part i of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8421747088432372
+
+1) henry_a - 0.8421747088432372
+
+2) mr_frank_churchill_a - 0.8395877289280568
+
+3) miss_bates_a - 0.8380285501480162
+
+4) william_larkins_a - 0.8356495401650408
+
+5) isabella_a - 0.832071880349145
+
+6) mr_dixon_a - 0.8311297444519176
+
+7) mrs_weston_a - 0.8289462967136948
+
+8) mr_john_knightley_a - 0.8288859128952085
+
+9) miss_hawkins_a - 0.8244354024192946
+
+10) mr_robert_martin_a - 0.8240275979042112
+
+11) mr_elton_a - 0.8230531706245658
+
+12) mr_woodhouse_a - 0.8216044200423028
+
+13) mr_cole_a - 0.814199399101783
+
+14) mr_perry_a - 0.8139979506727383
+
+15) harriet_smith_a - 0.8117607253433359
+
+16) miss_jane_fairfax_a - 0.8016052127841256
+
+17) james_a - 0.7949204796457863
+
+18) miss_taylor_a - 0.79372236653833
+
+19) emma_woodhouse_a - 0.7892251955539221
+
+20) mrs_campbell_a - 0.7881922595615556
+
+21) mrs_goddard_a - 0.7851380811755138
+
+22) mr_wingfield_a - 0.7835731973393691
+
+23) donwell_a - 0.760559470720228
+
+24) hartfield_a - 0.7408643960952811
+
+25) enscombe_a - 0.7339511196555042
+
+26) coles_a - 0.7284483151703082
+
+27) eltons_a - 0.7155209610176672
+
+28) martins_a - 0.7054788294719965
+
+29) churchills_a - 0.7019564331743988
+
+30) campbells_a - 0.6958013772964527
+
+Result for the vector: james, coming from part i of the book
+Rank: 15 out of 30 characters
+Cosine similarity to the co-referring vector: 0.6980864433723492
+
+1) mr_cole_a - 0.7710755970112532
+
+2) mrs_weston_a - 0.758387656019648
+
+3) mrs_campbell_a - 0.7566930877176851
+
+4) mr_frank_churchill_a - 0.7481967879709713
+
+5) miss_bates_a - 0.7328204890245082
+
+6) mr_dixon_a - 0.7303824264039055
+
+7) henry_a - 0.7120035078524526
+
+8) mr_robert_martin_a - 0.7115329888006182
+
+9) mr_woodhouse_a - 0.7087946149347611
+
+10) mr_perry_a - 0.7076602440566216
+
+11) mr_elton_a - 0.7075964423297778
+
+12) harriet_smith_a - 0.7049181109569218
+
+13) eltons_a - 0.7044211835986731
+
+14) mr_john_knightley_a - 0.6993495017484007
+
+15) james_a - 0.6980864433723492
+
+16) isabella_a - 0.6950821305884839
+
+17) william_larkins_a - 0.6913947669087284
+
+18) emma_woodhouse_a - 0.6829900756171416
+
+19) miss_hawkins_a - 0.6765141092692053
+
+20) miss_jane_fairfax_a - 0.6761951648055069
+
+21) donwell_a - 0.6760588892750942
+
+22) mrs_goddard_a - 0.6754255697384817
+
+23) mr_wingfield_a - 0.6750562988238427
+
+24) miss_taylor_a - 0.6677879692126488
+
+25) hartfield_a - 0.6201526933862981
+
+26) enscombe_a - 0.6097628423359553
+
+27) coles_a - 0.5955313621619752
+
+28) martins_a - 0.5914174494569736
+
+29) churchills_a - 0.5773122482690888
+
+30) campbells_a - 0.5671752522237546
+
+Result for the vector: miss_hawkins, coming from part i of the book
+Rank: 5 out of 30 characters
+Cosine similarity to the co-referring vector: 0.6940395649695149
+
+1) henry_a - 0.719393014907842
+
+2) mr_john_knightley_a - 0.713331699371343
+
+3) mr_elton_a - 0.7053519311757059
+
+4) harriet_smith_a - 0.6974097933485799
+
+5) miss_hawkins_a - 0.6940395649695149
+
+6) isabella_a - 0.6936533681933127
+
+7) mr_robert_martin_a - 0.692307949066167
+
+8) mr_frank_churchill_a - 0.6895943510048808
+
+9) mr_dixon_a - 0.6876038927677777
+
+10) mr_woodhouse_a - 0.6864192894947118
+
+11) william_larkins_a - 0.6858485749869702
+
+12) miss_jane_fairfax_a - 0.6857585719679947
+
+13) mr_perry_a - 0.6846786173603459
+
+14) james_a - 0.6805334902445662
+
+15) mr_wingfield_a - 0.6728613777674077
+
+16) miss_bates_a - 0.6706851720809984
+
+17) mrs_weston_a - 0.6692116065638675
+
+18) emma_woodhouse_a - 0.6636850432974152
+
+19) mrs_goddard_a - 0.6630356308551699
+
+20) miss_taylor_a - 0.6516022266867431
+
+21) coles_a - 0.6462409285450547
+
+22) mr_cole_a - 0.6381816483627869
+
+23) hartfield_a - 0.6368796825408981
+
+24) mrs_campbell_a - 0.6351759216294253
+
+25) martins_a - 0.6349127075024084
+
+26) campbells_a - 0.630331397056584
+
+27) donwell_a - 0.629510060490377
+
+28) enscombe_a - 0.6260177643320279
+
+29) churchills_a - 0.6166290412324107
+
+30) eltons_a - 0.5927960629937696
+
+Result for the vector: eltons, coming from part i of the book
+Rank: 5 out of 30 characters
+Cosine similarity to the co-referring vector: 0.7798127794488987
+
+1) coles_a - 0.8717489991487327
+
+2) campbells_a - 0.8581319108965572
+
+3) churchills_a - 0.8546425277420906
+
+4) martins_a - 0.8524669584671369
+
+5) eltons_a - 0.7798127794488987
+
+6) isabella_a - 0.7712069886203539
+
+7) mr_john_knightley_a - 0.7653320851328235
+
+8) harriet_smith_a - 0.7574507964417266
+
+9) mr_woodhouse_a - 0.7543359095649881
+
+10) mr_frank_churchill_a - 0.7522344140866868
+
+11) mr_elton_a - 0.7498473227206137
+
+12) mrs_goddard_a - 0.7488287613843082
+
+13) miss_hawkins_a - 0.7463873927131476
+
+14) henry_a - 0.7462427473826277
+
+15) james_a - 0.7449885162718107
+
+16) miss_jane_fairfax_a - 0.7423851797121602
+
+17) miss_bates_a - 0.7401700484448598
+
+18) mr_robert_martin_a - 0.7375655643524723
+
+19) miss_taylor_a - 0.7372813977431536
+
+20) mr_dixon_a - 0.7366120752741113
+
+21) donwell_a - 0.7279762787833164
+
+22) hartfield_a - 0.7274313460413208
+
+23) mrs_weston_a - 0.727212228560099
+
+24) enscombe_a - 0.7245688602585396
+
+25) emma_woodhouse_a - 0.7223107384258184
+
+26) mr_wingfield_a - 0.7195877767100651
+
+27) mr_perry_a - 0.7185482978821005
+
+28) william_larkins_a - 0.7169356087523024
+
+29) mr_cole_a - 0.7066049083221178
+
+30) mrs_campbell_a - 0.6857669728080116
+
+Result for the vector: william_larkins, coming from part i of the book
+Rank: 9 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8274385969994453
+
+1) mrs_weston_a - 0.8680153770483454
+
+2) mr_cole_a - 0.8669560213970264
+
+3) mr_frank_churchill_a - 0.8580709697752268
+
+4) mrs_campbell_a - 0.8564022863510773
+
+5) miss_bates_a - 0.8509689138206054
+
+6) mr_dixon_a - 0.8463350259664761
+
+7) henry_a - 0.8327941447014523
+
+8) mr_perry_a - 0.829012556705267
+
+9) william_larkins_a - 0.8274385969994453
+
+10) mr_robert_martin_a - 0.8270597005242022
+
+11) mr_woodhouse_a - 0.825590495108151
+
+12) mr_elton_a - 0.822292808039914
+
+13) mr_john_knightley_a - 0.8188626306232359
+
+14) isabella_a - 0.8168459450579204
+
+15) harriet_smith_a - 0.8165524164563233
+
+16) james_a - 0.8076000706315221
+
+17) miss_hawkins_a - 0.8033906226442281
+
+18) emma_woodhouse_a - 0.7945026624655349
+
+19) miss_jane_fairfax_a - 0.7939863792041597
+
+20) mr_wingfield_a - 0.7862341979495073
+
+21) miss_taylor_a - 0.7832537735335982
+
+22) mrs_goddard_a - 0.7818339672983882
+
+23) eltons_a - 0.7782796588956887
+
+24) donwell_a - 0.7748059458625831
+
+25) hartfield_a - 0.7173699781927603
+
+26) enscombe_a - 0.705265788342375
+
+27) coles_a - 0.6931482394260602
+
+28) martins_a - 0.6883690190865205
+
+29) churchills_a - 0.6675792139141654
+
+30) campbells_a - 0.6641762254395831
+
+Result for the vector: donwell, coming from part i of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9458706942719651
+
+1) donwell_a - 0.9458706942719651
+
+2) mrs_goddard_a - 0.7960356115113385
+
+3) hartfield_a - 0.7888842350909584
+
+4) mr_frank_churchill_a - 0.7728420956636738
+
+5) enscombe_a - 0.7687226396037735
+
+6) mrs_weston_a - 0.7586361848088699
+
+7) mr_cole_a - 0.7545827919742171
+
+8) miss_bates_a - 0.7486624271474835
+
+9) harriet_smith_a - 0.7475292754944541
+
+10) mrs_campbell_a - 0.7449692487716675
+
+11) henry_a - 0.7440419349645429
+
+12) mr_dixon_a - 0.743152640555878
+
+13) mr_john_knightley_a - 0.7417852436432111
+
+14) mr_robert_martin_a - 0.7382704175549509
+
+15) mr_woodhouse_a - 0.7377150058746338
+
+16) mr_elton_a - 0.7359081506729126
+
+17) isabella_a - 0.7333129485436064
+
+18) miss_hawkins_a - 0.7320218086242676
+
+19) miss_jane_fairfax_a - 0.7302557229995728
+
+20) eltons_a - 0.7175225019454956
+
+21) mr_perry_a - 0.7146044033294255
+
+22) james_a - 0.7123906440967718
+
+23) coles_a - 0.710344135761261
+
+24) miss_taylor_a - 0.7081645553210125
+
+25) mr_wingfield_a - 0.7012342214584351
+
+26) martins_a - 0.7008807063102722
+
+27) emma_woodhouse_a - 0.6961953458902458
+
+28) william_larkins_a - 0.694138765335083
+
+29) churchills_a - 0.6924949884414673
+
+30) campbells_a - 0.6847034284649248
+
+Result for the vector: churchills, coming from part i of the book
+Rank: 2 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8517741726435015
+
+1) campbells_a - 0.8729068897040848
+
+2) churchills_a - 0.8517741726435015
+
+3) coles_a - 0.8504753277130752
+
+4) martins_a - 0.830336883396231
+
+5) eltons_a - 0.7954679246665204
+
+6) mr_frank_churchill_a - 0.7627227250818502
+
+7) isabella_a - 0.7584384617862797
+
+8) donwell_a - 0.754354529731651
+
+9) mr_john_knightley_a - 0.7532862053300883
+
+10) henry_a - 0.7524062619330448
+
+11) mr_dixon_a - 0.7519038619880525
+
+12) miss_bates_a - 0.7516760454081394
+
+13) mrs_weston_a - 0.7507605106998403
+
+14) miss_hawkins_a - 0.7505326942085678
+
+15) mr_robert_martin_a - 0.7464913948324822
+
+16) mr_woodhouse_a - 0.7458609413380303
+
+17) james_a - 0.7415321978229582
+
+18) harriet_smith_a - 0.7413333191871618
+
+19) mr_elton_a - 0.7409796185177253
+
+20) mrs_goddard_a - 0.7402755904526236
+
+21) miss_jane_fairfax_a - 0.7328681408943093
+
+22) mr_cole_a - 0.7327373405475376
+
+23) mr_perry_a - 0.7274314490562723
+
+24) miss_taylor_a - 0.7271363626623697
+
+25) mr_wingfield_a - 0.7251871280539477
+
+26) mrs_campbell_a - 0.7231968095776595
+
+27) william_larkins_a - 0.7171555206616717
+
+28) hartfield_a - 0.7118071529807871
+
+29) enscombe_a - 0.7091445787466438
+
+30) emma_woodhouse_a - 0.7081153255872916
+
+Result for the vector: enscombe, coming from part i of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.853669447144204
+
+1) enscombe_a - 0.853669447144204
+
+2) hartfield_a - 0.8343209624290525
+
+3) donwell_a - 0.8138156311292208
+
+4) mr_robert_martin_a - 0.8047671914100705
+
+5) mrs_goddard_a - 0.7990489124401435
+
+6) mr_perry_a - 0.791466198825754
+
+7) mr_dixon_a - 0.7862452375512041
+
+8) miss_bates_a - 0.785659790039068
+
+9) mr_frank_churchill_a - 0.7852790695761526
+
+10) miss_hawkins_a - 0.7818266023294107
+
+11) isabella_a - 0.7805931306592382
+
+12) miss_taylor_a - 0.7804115748896092
+
+13) mr_john_knightley_a - 0.7801938652992304
+
+14) miss_jane_fairfax_a - 0.7777790890800423
+
+15) mr_elton_a - 0.7773063050095038
+
+16) harriet_smith_a - 0.7716265278498128
+
+17) henry_a - 0.7661265134811456
+
+18) mr_woodhouse_a - 0.7648295023935751
+
+19) mrs_weston_a - 0.7611654939004028
+
+20) coles_a - 0.7590128635771802
+
+21) william_larkins_a - 0.7515058965388488
+
+22) james_a - 0.7414957572812745
+
+23) churchills_a - 0.7403694832545225
+
+24) mr_cole_a - 0.7376387871719248
+
+25) emma_woodhouse_a - 0.7345136087553035
+
+26) mr_wingfield_a - 0.7309807974684727
+
+27) martins_a - 0.7227166725824293
+
+28) campbells_a - 0.7222167253494314
+
+29) mrs_campbell_a - 0.7087587540601954
+
+30) eltons_a - 0.6811971474407416
+
+Result for the vector: coles, coming from part i of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8041410925472449
+
+1) coles_a - 0.8041410925472449
+
+2) churchills_a - 0.7960254428401867
+
+3) campbells_a - 0.7893047332763728
+
+4) martins_a - 0.7812998760521352
+
+5) isabella_a - 0.7349743527143422
+
+6) henry_a - 0.7339240312576346
+
+7) mrs_goddard_a - 0.7308161316051605
+
+8) miss_hawkins_a - 0.7304516870052641
+
+9) mr_john_knightley_a - 0.7249282598495534
+
+10) harriet_smith_a - 0.7248033173089206
+
+11) james_a - 0.7229162124295488
+
+12) miss_jane_fairfax_a - 0.7227806879747337
+
+13) mr_elton_a - 0.7220878435425678
+
+14) mr_frank_churchill_a - 0.7192705535019104
+
+15) hartfield_a - 0.717292070388799
+
+16) mr_robert_martin_a - 0.7159515023231557
+
+17) mr_woodhouse_a - 0.7122785277532666
+
+18) miss_taylor_a - 0.7083985457895453
+
+19) mr_wingfield_a - 0.7077826683391744
+
+20) mr_dixon_a - 0.7007426053949543
+
+21) enscombe_a - 0.6998546361749931
+
+22) mr_perry_a - 0.6955413273944856
+
+23) miss_bates_a - 0.6946399211883594
+
+24) donwell_a - 0.6925062766678663
+
+25) william_larkins_a - 0.6881208829951825
+
+26) mrs_weston_a - 0.683081311446624
+
+27) emma_woodhouse_a - 0.6818824627259329
+
+28) eltons_a - 0.6712116999156308
+
+29) mr_cole_a - 0.6545608845614964
+
+30) mrs_campbell_a - 0.6298044699313932
+
+Result for the vector: martins, coming from part i of the book
+Rank: 4 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8502676158665049
+
+1) churchills_a - 0.8909345464227557
+
+2) campbells_a - 0.8631987897875871
+
+3) coles_a - 0.8552658220650412
+
+4) martins_a - 0.8502676158665049
+
+5) isabella_a - 0.7531043585414673
+
+6) miss_hawkins_a - 0.748619601377332
+
+7) harriet_smith_a - 0.7463967132809985
+
+8) mr_robert_martin_a - 0.7412971874959075
+
+9) mr_elton_a - 0.7406723366965764
+
+10) miss_jane_fairfax_a - 0.7404404150652262
+
+11) miss_taylor_a - 0.7362847642559304
+
+12) mr_frank_churchill_a - 0.7326641401453059
+
+13) mr_dixon_a - 0.7321761947607863
+
+14) mr_john_knightley_a - 0.7314873381883343
+
+15) mrs_goddard_a - 0.7291073308725321
+
+16) james_a - 0.7277615394876759
+
+17) henry_a - 0.7254886685636885
+
+18) mr_woodhouse_a - 0.7253282561311379
+
+19) miss_bates_a - 0.71176857667719
+
+20) emma_woodhouse_a - 0.7089827407619271
+
+21) mr_wingfield_a - 0.7079311535481649
+
+22) mrs_weston_a - 0.7069767677506968
+
+23) eltons_a - 0.7059599686932733
+
+24) mr_perry_a - 0.7045606550836485
+
+25) hartfield_a - 0.702649664247121
+
+26) enscombe_a - 0.7018648145360176
+
+27) william_larkins_a - 0.6873598061752776
+
+28) mr_cole_a - 0.6721439146566657
+
+29) donwell_a - 0.6658890049590056
+
+30) mrs_campbell_a - 0.6473898326057599
+
+Result for the vector: mr_wingfield, coming from part i of the book
+Rank: 23 out of 30 characters
+Cosine similarity to the co-referring vector: 0.5758771643565406
+
+1) mr_robert_martin_a - 0.7091642022132923
+
+2) mr_perry_a - 0.6860692535762657
+
+3) enscombe_a - 0.6668437322191872
+
+4) miss_bates_a - 0.6626300811767625
+
+5) miss_taylor_a - 0.6616982414362719
+
+6) mr_dixon_a - 0.6509190187679846
+
+7) mr_elton_a - 0.6383957051274612
+
+8) isabella_a - 0.6335606138182418
+
+9) mr_frank_churchill_a - 0.6330544511144699
+
+10) miss_hawkins_a - 0.6314372796676933
+
+11) miss_jane_fairfax_a - 0.6239259018853855
+
+12) mrs_weston_a - 0.6178861585089803
+
+13) mr_woodhouse_a - 0.6164915929133661
+
+14) william_larkins_a - 0.6109896070354953
+
+15) henry_a - 0.6055061817169233
+
+16) harriet_smith_a - 0.6028701965317426
+
+17) mr_john_knightley_a - 0.6001897454261822
+
+18) james_a - 0.5922748556464739
+
+19) emma_woodhouse_a - 0.5916662921507707
+
+20) donwell_a - 0.5905385125325338
+
+21) mr_cole_a - 0.5880225546346666
+
+22) hartfield_a - 0.5840392112731975
+
+23) mr_wingfield_a - 0.5758771643565406
+
+24) mrs_goddard_a - 0.5751616872991643
+
+25) coles_a - 0.5732279165523013
+
+26) churchills_a - 0.5722580297147063
+
+27) mrs_campbell_a - 0.5718483073620989
+
+28) campbells_a - 0.5630987882614176
+
+29) eltons_a - 0.5199033927859907
+
+30) martins_a - 0.5161096165245552
+
+Result for the vector: emma_woodhouse, coming from part a of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9455995213031345
+
+1) emma_woodhouse_wiki - 0.9455995213031345
+
+2) harriet_smith_wiki - 0.9234208052487385
+
+3) mr_john_knightley_wiki - 0.913846298547919
+
+4) miss_jane_fairfax_wiki - 0.9132769652174111
+
+5) mr_frank_churchill_wiki - 0.8896063765531523
+
+6) mr_robert_martin_wiki - 0.8867437243461672
+
+7) miss_taylor_wiki - 0.8844146327151033
+
+8) mr_woodhouse_wiki - 0.8743652626493745
+
+9) miss_bates_wiki - 0.8742396160506989
+
+10) isabella_wiki - 0.8673557560059895
+
+11) mr_perry_wiki - 0.8672547857317217
+
+12) mr_elton_wiki - 0.8476027755500556
+
+13) mrs_goddard_wiki - 0.846892338620703
+
+14) mrs_weston_wiki - 0.8466095924377501
+
+15) mrs_campbell_wiki - 0.8014455319312546
+
+16) william_larkins_wiki - 0.7945026624655349
+
+17) henry_wiki - 0.7892251955539221
+
+18) hartfield_wiki - 0.7791268693880374
+
+19) campbells_wiki - 0.751906141752372
+
+20) mr_dixon_wiki - 0.740169895917756
+
+21) mr_cole_wiki - 0.738786904667247
+
+22) enscombe_wiki - 0.7345136087553035
+
+23) eltons_wiki - 0.7223107384258184
+
+24) martins_wiki - 0.7089827407619271
+
+25) churchills_wiki - 0.7081153255872916
+
+26) donwell_wiki - 0.6961953458902458
+
+27) james_wiki - 0.6829900756171416
+
+28) coles_wiki - 0.6818824627259329
+
+29) miss_hawkins_wiki - 0.6636850432974152
+
+30) mr_wingfield_wiki - 0.5916662921507707
+
+Result for the vector: harriet_smith, coming from part a of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9355502609402407
+
+1) harriet_smith_wiki - 0.9355502609402407
+
+2) emma_woodhouse_wiki - 0.9332867781265726
+
+3) mr_john_knightley_wiki - 0.9301628622752443
+
+4) mr_robert_martin_wiki - 0.9232574976461483
+
+5) miss_jane_fairfax_wiki - 0.9207357991399622
+
+6) mr_frank_churchill_wiki - 0.9193766020985383
+
+7) mr_woodhouse_wiki - 0.9100034454468029
+
+8) mr_perry_wiki - 0.8969869223523405
+
+9) miss_bates_wiki - 0.8890166481450219
+
+10) miss_taylor_wiki - 0.8859863145335112
+
+11) mr_elton_wiki - 0.8858328657596921
+
+12) mrs_weston_wiki - 0.8740175030832835
+
+13) isabella_wiki - 0.8688594879680449
+
+14) mrs_goddard_wiki - 0.8550852619238591
+
+15) mrs_campbell_wiki - 0.8405447757731211
+
+16) hartfield_wiki - 0.820958151306944
+
+17) william_larkins_wiki - 0.8165524164563233
+
+18) henry_wiki - 0.8117607253433359
+
+19) mr_dixon_wiki - 0.7908133726028687
+
+20) campbells_wiki - 0.7902728429680655
+
+21) mr_cole_wiki - 0.7866276482682899
+
+22) enscombe_wiki - 0.7716265278498128
+
+23) eltons_wiki - 0.7574507964417266
+
+24) donwell_wiki - 0.7475292754944541
+
+25) martins_wiki - 0.7463967132809985
+
+26) churchills_wiki - 0.7413333191871618
+
+27) coles_wiki - 0.7248033173089206
+
+28) james_wiki - 0.7049181109569218
+
+29) miss_hawkins_wiki - 0.6974097933485799
+
+30) mr_wingfield_wiki - 0.6028701965317426
+
+Result for the vector: mr_john_knightley, coming from part a of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9302478987126439
+
+1) mr_john_knightley_wiki - 0.9302478987126439
+
+2) mr_frank_churchill_wiki - 0.9195822799330307
+
+3) mr_robert_martin_wiki - 0.9189760781555083
+
+4) mr_woodhouse_wiki - 0.9105696135419854
+
+5) emma_woodhouse_wiki - 0.9082773057139759
+
+6) harriet_smith_wiki - 0.9015339881638981
+
+7) mr_perry_wiki - 0.8986991108239243
+
+8) miss_jane_fairfax_wiki - 0.8896605438196351
+
+9) mr_elton_wiki - 0.8780373407580069
+
+10) mrs_weston_wiki - 0.8754275589671661
+
+11) miss_bates_wiki - 0.8678870875902736
+
+12) miss_taylor_wiki - 0.8655737380512469
+
+13) mrs_campbell_wiki - 0.847401687657734
+
+14) isabella_wiki - 0.8447358104744086
+
+15) henry_wiki - 0.8288859128952085
+
+16) hartfield_wiki - 0.8248054489609347
+
+17) mrs_goddard_wiki - 0.8223061561584531
+
+18) william_larkins_wiki - 0.8188626306232359
+
+19) mr_dixon_wiki - 0.7837396135175123
+
+20) enscombe_wiki - 0.7801938652992304
+
+21) mr_cole_wiki - 0.7766317725181635
+
+22) campbells_wiki - 0.7738257185324612
+
+23) eltons_wiki - 0.7653320851328235
+
+24) churchills_wiki - 0.7532862053300883
+
+25) donwell_wiki - 0.7417852436432111
+
+26) martins_wiki - 0.7314873381883343
+
+27) coles_wiki - 0.7249282598495534
+
+28) miss_hawkins_wiki - 0.713331699371343
+
+29) james_wiki - 0.6993495017484007
+
+30) mr_wingfield_wiki - 0.6001897454261822
+
+Result for the vector: miss_jane_fairfax, coming from part a of the book
+Rank: 3 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9242599010467529
+
+1) emma_woodhouse_wiki - 0.9325962344585731
+
+2) harriet_smith_wiki - 0.9294769402870817
+
+3) miss_jane_fairfax_wiki - 0.9242599010467529
+
+4) mr_john_knightley_wiki - 0.9212669040282916
+
+5) mr_robert_martin_wiki - 0.9124298743945451
+
+6) mr_frank_churchill_wiki - 0.9050063164534071
+
+7) mr_woodhouse_wiki - 0.9018137454986572
+
+8) miss_bates_wiki - 0.8926462531089783
+
+9) miss_taylor_wiki - 0.890732016883255
+
+10) mr_perry_wiki - 0.8863939046859741
+
+11) isabella_wiki - 0.8722568154335022
+
+12) mrs_weston_wiki - 0.8639602742218823
+
+13) mr_elton_wiki - 0.8593026995658875
+
+14) mrs_goddard_wiki - 0.8581334863980717
+
+15) hartfield_wiki - 0.8202275037765503
+
+16) mrs_campbell_wiki - 0.8174875378608704
+
+17) henry_wiki - 0.8016052127841256
+
+18) william_larkins_wiki - 0.7939863792041597
+
+19) mr_dixon_wiki - 0.787525628510198
+
+20) campbells_wiki - 0.7809697389602661
+
+21) enscombe_wiki - 0.7777790890800423
+
+22) mr_cole_wiki - 0.7622408129120372
+
+23) eltons_wiki - 0.7423851797121602
+
+24) martins_wiki - 0.7404404150652262
+
+25) churchills_wiki - 0.7328681408943093
+
+26) donwell_wiki - 0.7302557229995728
+
+27) coles_wiki - 0.7227806879747337
+
+28) miss_hawkins_wiki - 0.6857585719679947
+
+29) james_wiki - 0.6761951648055069
+
+30) mr_wingfield_wiki - 0.6239259018853855
+
+Result for the vector: mrs_weston, coming from part a of the book
+Rank: 3 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9167716180316198
+
+1) mr_elton_wiki - 0.9497686281593446
+
+2) mr_frank_churchill_wiki - 0.9201170110842019
+
+3) mrs_weston_wiki - 0.9167716180316198
+
+4) mr_john_knightley_wiki - 0.9102398863935237
+
+5) mr_perry_wiki - 0.9078484393222761
+
+6) mrs_campbell_wiki - 0.898143252564367
+
+7) mr_robert_martin_wiki - 0.8903252151705487
+
+8) mr_woodhouse_wiki - 0.8875558573802618
+
+9) mr_cole_wiki - 0.8790366767401515
+
+10) miss_bates_wiki - 0.878965217974656
+
+11) harriet_smith_wiki - 0.8743524922762798
+
+12) emma_woodhouse_wiki - 0.8727168885131957
+
+13) william_larkins_wiki - 0.8680153770483454
+
+14) miss_jane_fairfax_wiki - 0.8602023297729225
+
+15) henry_wiki - 0.8289462967136948
+
+16) mr_dixon_wiki - 0.8176236666251921
+
+17) miss_taylor_wiki - 0.8173742076604629
+
+18) hartfield_wiki - 0.8078463799816146
+
+19) mrs_goddard_wiki - 0.8005459309437771
+
+20) isabella_wiki - 0.7984658001481744
+
+21) enscombe_wiki - 0.7611654939004028
+
+22) donwell_wiki - 0.7586361848088699
+
+23) james_wiki - 0.758387656019648
+
+24) campbells_wiki - 0.7521346287847753
+
+25) churchills_wiki - 0.7507605106998403
+
+26) eltons_wiki - 0.727212228560099
+
+27) martins_wiki - 0.7069767677506968
+
+28) coles_wiki - 0.683081311446624
+
+29) miss_hawkins_wiki - 0.6692116065638675
+
+30) mr_wingfield_wiki - 0.6178861585089803
+
+Result for the vector: mr_elton, coming from part a of the book
+Rank: 10 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8847102522850037
+
+1) mr_john_knightley_wiki - 0.9433644346433271
+
+2) mr_frank_churchill_wiki - 0.9383198302483512
+
+3) mr_robert_martin_wiki - 0.9283235711858545
+
+4) mr_woodhouse_wiki - 0.9247050285339355
+
+5) harriet_smith_wiki - 0.9235489002062924
+
+6) emma_woodhouse_wiki - 0.9200755631946199
+
+7) miss_jane_fairfax_wiki - 0.9079974293708801
+
+8) mr_perry_wiki - 0.9061733484268188
+
+9) miss_bates_wiki - 0.887118935585022
+
+10) mr_elton_wiki - 0.8847102522850037
+
+11) miss_taylor_wiki - 0.8746972940771969
+
+12) mrs_weston_wiki - 0.8740869239516915
+
+13) isabella_wiki - 0.84627765417099
+
+14) mrs_campbell_wiki - 0.8401528596878052
+
+15) mrs_goddard_wiki - 0.8358500502020165
+
+16) henry_wiki - 0.8230531706245658
+
+17) william_larkins_wiki - 0.822292808039914
+
+18) hartfield_wiki - 0.8184558153152466
+
+19) mr_dixon_wiki - 0.782317910470719
+
+20) campbells_wiki - 0.7814806699752808
+
+21) enscombe_wiki - 0.7773063050095038
+
+22) mr_cole_wiki - 0.7756749853894119
+
+23) eltons_wiki - 0.7498473227206137
+
+24) churchills_wiki - 0.7409796185177253
+
+25) martins_wiki - 0.7406723366965764
+
+26) donwell_wiki - 0.7359081506729126
+
+27) coles_wiki - 0.7220878435425678
+
+28) james_wiki - 0.7075964423297778
+
+29) miss_hawkins_wiki - 0.7053519311757059
+
+30) mr_wingfield_wiki - 0.6383957051274612
+
+Result for the vector: mr_frank_churchill, coming from part a of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9471088898577298
+
+1) mr_frank_churchill_wiki - 0.9471088898577298
+
+2) mr_john_knightley_wiki - 0.943947960844273
+
+3) mr_elton_wiki - 0.9322723109884464
+
+4) mr_robert_martin_wiki - 0.9257512688636845
+
+5) mr_woodhouse_wiki - 0.9198940348562039
+
+6) emma_woodhouse_wiki - 0.9176433906832393
+
+7) mr_perry_wiki - 0.91691803436983
+
+8) harriet_smith_wiki - 0.9165631706361731
+
+9) miss_jane_fairfax_wiki - 0.9025709570986619
+
+10) mrs_weston_wiki - 0.8994871973991458
+
+11) miss_bates_wiki - 0.8986807405162315
+
+12) mrs_campbell_wiki - 0.8767036722125827
+
+13) miss_taylor_wiki - 0.8686956943895547
+
+14) william_larkins_wiki - 0.8580709697752268
+
+15) mrs_goddard_wiki - 0.8409921933403246
+
+16) mr_cole_wiki - 0.840854983431695
+
+17) isabella_wiki - 0.8407242799236956
+
+18) henry_wiki - 0.8395877289280568
+
+19) hartfield_wiki - 0.8370929263289542
+
+20) mr_dixon_wiki - 0.8094756858603407
+
+21) campbells_wiki - 0.786998616874137
+
+22) enscombe_wiki - 0.7852790695761526
+
+23) donwell_wiki - 0.7728420956636738
+
+24) churchills_wiki - 0.7627227250818502
+
+25) eltons_wiki - 0.7522344140866868
+
+26) james_wiki - 0.7481967879709713
+
+27) martins_wiki - 0.7326641401453059
+
+28) coles_wiki - 0.7192705535019104
+
+29) miss_hawkins_wiki - 0.6895943510048808
+
+30) mr_wingfield_wiki - 0.6330544511144699
+
+Result for the vector: mr_woodhouse, coming from part a of the book
+Rank: 3 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9204275608062744
+
+1) mr_john_knightley_wiki - 0.9382316992559141
+
+2) mr_frank_churchill_wiki - 0.9296015778065202
+
+3) mr_woodhouse_wiki - 0.9204275608062744
+
+4) emma_woodhouse_wiki - 0.9184196865087658
+
+5) mr_robert_martin_wiki - 0.9140661410053901
+
+6) harriet_smith_wiki - 0.90875788707357
+
+7) miss_jane_fairfax_wiki - 0.8985005617141724
+
+8) mr_perry_wiki - 0.8899150490760803
+
+9) mr_elton_wiki - 0.8813288807868958
+
+10) miss_bates_wiki - 0.8735426664352417
+
+11) mrs_weston_wiki - 0.8658358534672363
+
+12) miss_taylor_wiki - 0.8634248037166838
+
+13) mrs_campbell_wiki - 0.8365521430969238
+
+14) isabella_wiki - 0.8313518762588501
+
+15) mrs_goddard_wiki - 0.8273435132112228
+
+16) william_larkins_wiki - 0.825590495108151
+
+17) henry_wiki - 0.8216044200423028
+
+18) hartfield_wiki - 0.8096861839294434
+
+19) mr_cole_wiki - 0.7774516211421277
+
+20) campbells_wiki - 0.7701611518859863
+
+21) enscombe_wiki - 0.7648295023935751
+
+22) mr_dixon_wiki - 0.7630657271225182
+
+23) eltons_wiki - 0.7543359095649881
+
+24) churchills_wiki - 0.7458609413380303
+
+25) donwell_wiki - 0.7377150058746338
+
+26) martins_wiki - 0.7253282561311379
+
+27) coles_wiki - 0.7122785277532666
+
+28) james_wiki - 0.7087946149347611
+
+29) miss_hawkins_wiki - 0.6864192894947118
+
+30) mr_wingfield_wiki - 0.6164915929133661
+
+Result for the vector: miss_bates, coming from part a of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9270748539522393
+
+1) miss_bates_wiki - 0.9270748539522393
+
+2) mr_john_knightley_wiki - 0.9262297705549013
+
+3) mr_elton_wiki - 0.9232228444085826
+
+4) emma_woodhouse_wiki - 0.9211960160375866
+
+5) mr_frank_churchill_wiki - 0.9155156339551356
+
+6) harriet_smith_wiki - 0.913668302108903
+
+7) mr_perry_wiki - 0.9105870777018636
+
+8) mrs_weston_wiki - 0.9100525486406625
+
+9) miss_jane_fairfax_wiki - 0.9036967811765221
+
+10) mr_robert_martin_wiki - 0.902204286789383
+
+11) mr_woodhouse_wiki - 0.8853088089639674
+
+12) mrs_campbell_wiki - 0.8798043799516944
+
+13) miss_taylor_wiki - 0.8730064370332264
+
+14) isabella_wiki - 0.8666228135452994
+
+15) mrs_goddard_wiki - 0.8513271808624328
+
+16) william_larkins_wiki - 0.8509689138206054
+
+17) mr_cole_wiki - 0.8452365398407042
+
+18) henry_wiki - 0.8380285501480162
+
+19) hartfield_wiki - 0.8310315113644906
+
+20) mr_dixon_wiki - 0.8247213855219845
+
+21) enscombe_wiki - 0.785659790039068
+
+22) campbells_wiki - 0.7738238111839421
+
+23) churchills_wiki - 0.7516760454081394
+
+24) donwell_wiki - 0.7486624271474835
+
+25) eltons_wiki - 0.7401700484448598
+
+26) james_wiki - 0.7328204890245082
+
+27) martins_wiki - 0.71176857667719
+
+28) coles_wiki - 0.6946399211883594
+
+29) miss_hawkins_wiki - 0.6706851720809984
+
+30) mr_wingfield_wiki - 0.6626300811767625
+
+Result for the vector: hartfield, coming from part a of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8663605531239196
+
+1) hartfield_wiki - 0.8663605531239196
+
+2) mr_robert_martin_wiki - 0.8474489632309719
+
+3) mr_john_knightley_wiki - 0.8421537782045605
+
+4) mr_woodhouse_wiki - 0.8408622836552704
+
+5) harriet_smith_wiki - 0.8368747483752685
+
+6) mr_frank_churchill_wiki - 0.8348688830474386
+
+7) enscombe_wiki - 0.8343209624290525
+
+8) emma_woodhouse_wiki - 0.8229238741718601
+
+9) miss_jane_fairfax_wiki - 0.8218878613777257
+
+10) mr_perry_wiki - 0.8096668833692754
+
+11) miss_bates_wiki - 0.8087389583147208
+
+12) miss_taylor_wiki - 0.800282573691533
+
+13) mr_elton_wiki - 0.7993906259899972
+
+14) donwell_wiki - 0.7888842350909584
+
+15) mrs_weston_wiki - 0.7814104817616365
+
+16) isabella_wiki - 0.7683213491248294
+
+17) mrs_goddard_wiki - 0.7590577602386529
+
+18) mrs_campbell_wiki - 0.7528829125831789
+
+19) mr_dixon_wiki - 0.74093465452998
+
+20) henry_wiki - 0.7408643960952811
+
+21) mr_cole_wiki - 0.7358074784278922
+
+22) campbells_wiki - 0.7351870098598606
+
+23) eltons_wiki - 0.7274313460413208
+
+24) william_larkins_wiki - 0.7173699781927603
+
+25) coles_wiki - 0.717292070388799
+
+26) churchills_wiki - 0.7118071529807871
+
+27) martins_wiki - 0.702649664247121
+
+28) miss_hawkins_wiki - 0.6368796825408981
+
+29) james_wiki - 0.6201526933862981
+
+30) mr_wingfield_wiki - 0.5840392112731975
+
+Result for the vector: isabella, coming from part a of the book
+Rank: 11 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8963580665801819
+
+1) harriet_smith_wiki - 0.941545149914198
+
+2) mr_john_knightley_wiki - 0.9395426999704914
+
+3) emma_woodhouse_wiki - 0.9380534533906094
+
+4) miss_jane_fairfax_wiki - 0.9302050429704828
+
+5) mr_robert_martin_wiki - 0.9263767004013127
+
+6) mr_frank_churchill_wiki - 0.9251979820607292
+
+7) mr_woodhouse_wiki - 0.9172947953519119
+
+8) miss_taylor_wiki - 0.9074723935847638
+
+9) miss_bates_wiki - 0.9049119892663965
+
+10) mr_perry_wiki - 0.8970788655924137
+
+11) isabella_wiki - 0.8963580665801819
+
+12) mrs_weston_wiki - 0.8787764310836854
+
+13) mr_elton_wiki - 0.8738318606514863
+
+14) mrs_goddard_wiki - 0.8507789195512437
+
+15) mrs_campbell_wiki - 0.8349650999882892
+
+16) henry_wiki - 0.832071880349145
+
+17) hartfield_wiki - 0.8270569340620613
+
+18) william_larkins_wiki - 0.8168459450579204
+
+19) campbells_wiki - 0.7957203862500435
+
+20) mr_dixon_wiki - 0.7933286654940855
+
+21) enscombe_wiki - 0.7805931306592382
+
+22) eltons_wiki - 0.7712069886203539
+
+23) mr_cole_wiki - 0.7681284866486175
+
+24) churchills_wiki - 0.7584384617862797
+
+25) martins_wiki - 0.7531043585414673
+
+26) coles_wiki - 0.7349743527143422
+
+27) donwell_wiki - 0.7333129485436064
+
+28) james_wiki - 0.6950821305884839
+
+29) miss_hawkins_wiki - 0.6936533681933127
+
+30) mr_wingfield_wiki - 0.6335606138182418
+
+Result for the vector: mr_robert_martin, coming from part a of the book
+Rank: 4 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9111355649071259
+
+1) mr_john_knightley_wiki - 0.9318218786610442
+
+2) mr_frank_churchill_wiki - 0.9275324664255279
+
+3) mr_woodhouse_wiki - 0.9153944900396787
+
+4) mr_robert_martin_wiki - 0.9111355649071259
+
+5) mr_perry_wiki - 0.9080897028392747
+
+6) miss_bates_wiki - 0.9074277932984969
+
+7) mr_elton_wiki - 0.9032403288340388
+
+8) emma_woodhouse_wiki - 0.8958120675143019
+
+9) harriet_smith_wiki - 0.8937458066268605
+
+10) mrs_weston_wiki - 0.8868748084455957
+
+11) miss_jane_fairfax_wiki - 0.8792042208192232
+
+12) mrs_campbell_wiki - 0.8518549888220451
+
+13) miss_taylor_wiki - 0.8446180568749325
+
+14) hartfield_wiki - 0.8364784218979837
+
+15) william_larkins_wiki - 0.8270597005242022
+
+16) henry_wiki - 0.8240275979042112
+
+17) isabella_wiki - 0.8239632353804582
+
+18) mrs_goddard_wiki - 0.820470094680792
+
+19) mr_cole_wiki - 0.8048269748687802
+
+20) enscombe_wiki - 0.8047671914100705
+
+21) mr_dixon_wiki - 0.7931019540490012
+
+22) campbells_wiki - 0.7639096520000918
+
+23) churchills_wiki - 0.7464913948324822
+
+24) martins_wiki - 0.7412971874959075
+
+25) donwell_wiki - 0.7382704175549509
+
+26) eltons_wiki - 0.7375655643524723
+
+27) coles_wiki - 0.7159515023231557
+
+28) james_wiki - 0.7115329888006182
+
+29) mr_wingfield_wiki - 0.7091642022132923
+
+30) miss_hawkins_wiki - 0.692307949066167
+
+Result for the vector: mr_perry, coming from part a of the book
+Rank: 4 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8994382499978905
+
+1) mr_john_knightley_wiki - 0.9306453301060986
+
+2) mr_frank_churchill_wiki - 0.9149255923815991
+
+3) emma_woodhouse_wiki - 0.9022212180824939
+
+4) mr_perry_wiki - 0.8994382499978905
+
+5) miss_bates_wiki - 0.8983425376823653
+
+6) mr_woodhouse_wiki - 0.8962507720292598
+
+7) mr_robert_martin_wiki - 0.895545536014186
+
+8) harriet_smith_wiki - 0.8862161100957627
+
+9) mr_elton_wiki - 0.8844314675845528
+
+10) mrs_weston_wiki - 0.8708921593959565
+
+11) miss_jane_fairfax_wiki - 0.870290502344436
+
+12) miss_taylor_wiki - 0.843201524496309
+
+13) mrs_campbell_wiki - 0.8427779487106799
+
+14) william_larkins_wiki - 0.829012556705267
+
+15) isabella_wiki - 0.8225856807930148
+
+16) hartfield_wiki - 0.8207343603055965
+
+17) mrs_goddard_wiki - 0.8183378252395094
+
+18) henry_wiki - 0.8139979506727383
+
+19) enscombe_wiki - 0.791466198825754
+
+20) mr_cole_wiki - 0.7852015707257233
+
+21) mr_dixon_wiki - 0.7628064782158085
+
+22) campbells_wiki - 0.7472272810014874
+
+23) churchills_wiki - 0.7274314490562723
+
+24) eltons_wiki - 0.7185482978821005
+
+25) donwell_wiki - 0.7146044033294255
+
+26) james_wiki - 0.7076602440566216
+
+27) martins_wiki - 0.7045606550836485
+
+28) coles_wiki - 0.6955413273944856
+
+29) mr_wingfield_wiki - 0.6860692535762657
+
+30) miss_hawkins_wiki - 0.6846786173603459
+
+Result for the vector: mrs_goddard, coming from part a of the book
+Rank: 14 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8318113832305122
+
+1) harriet_smith_wiki - 0.8994890331612881
+
+2) mr_robert_martin_wiki - 0.899021062284084
+
+3) mr_john_knightley_wiki - 0.8953269862125829
+
+4) emma_woodhouse_wiki - 0.8928968842564157
+
+5) mr_frank_churchill_wiki - 0.8916350538513097
+
+6) miss_jane_fairfax_wiki - 0.8852315212855201
+
+7) mr_woodhouse_wiki - 0.8785454296632244
+
+8) mr_perry_wiki - 0.8675056954474958
+
+9) hartfield_wiki - 0.8645794649296843
+
+10) miss_taylor_wiki - 0.8587242876722984
+
+11) mr_elton_wiki - 0.8569700377276555
+
+12) miss_bates_wiki - 0.8541211144364216
+
+13) mrs_weston_wiki - 0.8395784843093642
+
+14) mrs_goddard_wiki - 0.8318113832305122
+
+15) isabella_wiki - 0.8295361050825154
+
+16) mrs_campbell_wiki - 0.8149059061678028
+
+17) enscombe_wiki - 0.7990489124401435
+
+18) donwell_wiki - 0.7960356115113385
+
+19) mr_dixon_wiki - 0.7863171080227389
+
+20) henry_wiki - 0.7851380811755138
+
+21) william_larkins_wiki - 0.7818339672983882
+
+22) mr_cole_wiki - 0.7810451490621405
+
+23) campbells_wiki - 0.7763893835660635
+
+24) eltons_wiki - 0.7488287613843082
+
+25) churchills_wiki - 0.7402755904526236
+
+26) coles_wiki - 0.7308161316051605
+
+27) martins_wiki - 0.7291073308725321
+
+28) james_wiki - 0.6754255697384817
+
+29) miss_hawkins_wiki - 0.6630356308551699
+
+30) mr_wingfield_wiki - 0.5751616872991643
+
+Result for the vector: miss_taylor, coming from part a of the book
+Rank: 6 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8971774188140711
+
+1) harriet_smith_wiki - 0.9258573838855902
+
+2) emma_woodhouse_wiki - 0.9170827493443567
+
+3) mr_john_knightley_wiki - 0.910297794991339
+
+4) miss_jane_fairfax_wiki - 0.9071949069020113
+
+5) miss_bates_wiki - 0.9051280561165859
+
+6) miss_taylor_wiki - 0.8971774188140711
+
+7) mr_robert_martin_wiki - 0.8931087255477969
+
+8) mr_frank_churchill_wiki - 0.890901406785972
+
+9) mr_woodhouse_wiki - 0.8822107840902096
+
+10) isabella_wiki - 0.8776760028407591
+
+11) mr_perry_wiki - 0.8666102210647015
+
+12) mrs_weston_wiki - 0.8473258018493712
+
+13) mr_elton_wiki - 0.8443745877966055
+
+14) mrs_goddard_wiki - 0.8317450680428824
+
+15) hartfield_wiki - 0.8135563620064489
+
+16) henry_wiki - 0.79372236653833
+
+17) mrs_campbell_wiki - 0.7919838900556513
+
+18) william_larkins_wiki - 0.7832537735335982
+
+19) enscombe_wiki - 0.7804115748896092
+
+20) mr_dixon_wiki - 0.7598740029109735
+
+21) campbells_wiki - 0.758456931022224
+
+22) mr_cole_wiki - 0.7408348012965681
+
+23) eltons_wiki - 0.7372813977431536
+
+24) martins_wiki - 0.7362847642559304
+
+25) churchills_wiki - 0.7271363626623697
+
+26) coles_wiki - 0.7083985457895453
+
+27) donwell_wiki - 0.7081645553210125
+
+28) james_wiki - 0.6677879692126488
+
+29) mr_wingfield_wiki - 0.6616982414362719
+
+30) miss_hawkins_wiki - 0.6516022266867431
+
+Result for the vector: mrs_campbell, coming from part a of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.933758556842804
+
+1) mrs_campbell_wiki - 0.933758556842804
+
+2) mr_elton_wiki - 0.9269128441810608
+
+3) mr_cole_wiki - 0.8856716683907327
+
+4) mrs_weston_wiki - 0.8814420174692874
+
+5) mr_frank_churchill_wiki - 0.8771791719549652
+
+6) mr_perry_wiki - 0.8715012073516846
+
+7) mr_john_knightley_wiki - 0.8690779053065726
+
+8) miss_bates_wiki - 0.8607216477394104
+
+9) william_larkins_wiki - 0.8564022863510773
+
+10) mr_robert_martin_wiki - 0.8476105423205783
+
+11) emma_woodhouse_wiki - 0.8378800403440014
+
+12) harriet_smith_wiki - 0.8335588723622778
+
+13) mr_woodhouse_wiki - 0.8253147006034851
+
+14) miss_jane_fairfax_wiki - 0.8175941109657288
+
+15) mr_dixon_wiki - 0.795300042068969
+
+16) henry_wiki - 0.7881922595615556
+
+17) mrs_goddard_wiki - 0.7795376050196664
+
+18) miss_taylor_wiki - 0.7747702233424852
+
+19) isabella_wiki - 0.7739458680152893
+
+20) hartfield_wiki - 0.7581220269203186
+
+21) james_wiki - 0.7566930877176851
+
+22) donwell_wiki - 0.7449692487716675
+
+23) churchills_wiki - 0.7231968095776595
+
+24) enscombe_wiki - 0.7087587540601954
+
+25) campbells_wiki - 0.7081378698348999
+
+26) eltons_wiki - 0.6857669728080116
+
+27) martins_wiki - 0.6473898326057599
+
+28) miss_hawkins_wiki - 0.6351759216294253
+
+29) coles_wiki - 0.6298044699313932
+
+30) mr_wingfield_wiki - 0.5718483073620989
+
+Result for the vector: mr_dixon, coming from part a of the book
+Rank: 19 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8289886160177944
+
+1) mr_elton_wiki - 0.9305827894980551
+
+2) mr_john_knightley_wiki - 0.9235258882531394
+
+3) mr_frank_churchill_wiki - 0.9224622799433637
+
+4) mr_perry_wiki - 0.9174809133255758
+
+5) mr_robert_martin_wiki - 0.9105414476829372
+
+6) mrs_weston_wiki - 0.9095608320963171
+
+7) miss_bates_wiki - 0.9044380457531828
+
+8) mr_woodhouse_wiki - 0.9028322965750787
+
+9) emma_woodhouse_wiki - 0.9001116097039944
+
+10) harriet_smith_wiki - 0.8965003367066801
+
+11) mrs_campbell_wiki - 0.8861263658442015
+
+12) miss_jane_fairfax_wiki - 0.8853418494862874
+
+13) mr_cole_wiki - 0.8574993184953322
+
+14) miss_taylor_wiki - 0.8506440431263472
+
+15) william_larkins_wiki - 0.8463350259664761
+
+16) isabella_wiki - 0.8333419809741376
+
+17) henry_wiki - 0.8311297444519176
+
+18) mrs_goddard_wiki - 0.8290657546281003
+
+19) mr_dixon_wiki - 0.8289886160177944
+
+20) hartfield_wiki - 0.8187712674966836
+
+21) enscombe_wiki - 0.7862452375512041
+
+22) campbells_wiki - 0.7738471261813383
+
+23) churchills_wiki - 0.7519038619880525
+
+24) donwell_wiki - 0.743152640555878
+
+25) eltons_wiki - 0.7366120752741113
+
+26) martins_wiki - 0.7321761947607863
+
+27) james_wiki - 0.7303824264039055
+
+28) coles_wiki - 0.7007426053949543
+
+29) miss_hawkins_wiki - 0.6876038927677777
+
+30) mr_wingfield_wiki - 0.6509190187679846
+
+Result for the vector: mr_cole, coming from part a of the book
+Rank: 6 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8959938349727634
+
+1) mr_elton_wiki - 0.9513074217668337
+
+2) mrs_weston_wiki - 0.9048724940647211
+
+3) mr_frank_churchill_wiki - 0.9000957995567601
+
+4) mrs_campbell_wiki - 0.8999140381915588
+
+5) mr_perry_wiki - 0.8982591750312898
+
+6) mr_cole_wiki - 0.8959938349727634
+
+7) mr_john_knightley_wiki - 0.8952895402908579
+
+8) miss_bates_wiki - 0.8810906551968333
+
+9) emma_woodhouse_wiki - 0.8742326908499674
+
+10) harriet_smith_wiki - 0.8703593352330119
+
+11) mr_robert_martin_wiki - 0.8689111705581256
+
+12) william_larkins_wiki - 0.8669560213970264
+
+13) miss_jane_fairfax_wiki - 0.8522970256451399
+
+14) mr_woodhouse_wiki - 0.8521461067025595
+
+15) henry_wiki - 0.814199399101783
+
+16) miss_taylor_wiki - 0.8121097553870391
+
+17) mr_dixon_wiki - 0.8118195533752672
+
+18) mrs_goddard_wiki - 0.811386179245355
+
+19) isabella_wiki - 0.7989268542615405
+
+20) hartfield_wiki - 0.7873357787924132
+
+21) james_wiki - 0.7710755970112532
+
+22) donwell_wiki - 0.7545827919742171
+
+23) enscombe_wiki - 0.7376387871719248
+
+24) campbells_wiki - 0.7370624259635947
+
+25) churchills_wiki - 0.7327373405475376
+
+26) eltons_wiki - 0.7066049083221178
+
+27) martins_wiki - 0.6721439146566657
+
+28) coles_wiki - 0.6545608845614964
+
+29) miss_hawkins_wiki - 0.6381816483627869
+
+30) mr_wingfield_wiki - 0.5880225546346666
+
+Result for the vector: campbells, coming from part a of the book
+Rank: 2 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8716986851871813
+
+1) churchills_wiki - 0.8729068897040848
+
+2) campbells_wiki - 0.8716986851871813
+
+3) martins_wiki - 0.8631987897875871
+
+4) eltons_wiki - 0.8581319108965572
+
+5) mr_robert_martin_wiki - 0.8000734090717543
+
+6) mr_john_knightley_wiki - 0.798278617756297
+
+7) mr_woodhouse_wiki - 0.7935127142958229
+
+8) miss_bates_wiki - 0.7913695698160204
+
+9) mr_frank_churchill_wiki - 0.7907787325746231
+
+10) miss_taylor_wiki - 0.7893492940262202
+
+11) coles_wiki - 0.7893047332763728
+
+12) harriet_smith_wiki - 0.7837501997873334
+
+13) emma_woodhouse_wiki - 0.7830746536530688
+
+14) miss_jane_fairfax_wiki - 0.7783205641317045
+
+15) mr_perry_wiki - 0.7712867396302988
+
+16) hartfield_wiki - 0.7629575870658419
+
+17) mr_elton_wiki - 0.7559507038622688
+
+18) mrs_weston_wiki - 0.7526322898110998
+
+19) isabella_wiki - 0.749337092081483
+
+20) mrs_campbell_wiki - 0.7470758112027771
+
+21) mrs_goddard_wiki - 0.7339760661125235
+
+22) mr_dixon_wiki - 0.7283006148517615
+
+23) mr_cole_wiki - 0.7264807224273733
+
+24) enscombe_wiki - 0.7222167253494314
+
+25) henry_wiki - 0.6958013772964527
+
+26) donwell_wiki - 0.6847034284649248
+
+27) william_larkins_wiki - 0.6641762254395831
+
+28) miss_hawkins_wiki - 0.630331397056584
+
+29) james_wiki - 0.5671752522237546
+
+30) mr_wingfield_wiki - 0.5630987882614176
+
+Result for the vector: henry, coming from part a of the book
+Rank: 15 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8421747088432372
+
+1) mr_john_knightley_wiki - 0.9324775297926533
+
+2) mr_frank_churchill_wiki - 0.9322952946336517
+
+3) mr_robert_martin_wiki - 0.9194511271177379
+
+4) harriet_smith_wiki - 0.9128283534296958
+
+5) mr_woodhouse_wiki - 0.9106133633486428
+
+6) emma_woodhouse_wiki - 0.9075988260627179
+
+7) miss_jane_fairfax_wiki - 0.8999467551739974
+
+8) mr_perry_wiki - 0.8899191087532591
+
+9) miss_taylor_wiki - 0.8893117639627562
+
+10) mr_elton_wiki - 0.8784873557992381
+
+11) mrs_weston_wiki - 0.8759433178969243
+
+12) miss_bates_wiki - 0.874645955881719
+
+13) isabella_wiki - 0.8582452024075283
+
+14) mrs_campbell_wiki - 0.845074245627271
+
+15) henry_wiki - 0.8421747088432372
+
+16) mrs_goddard_wiki - 0.8391357064247191
+
+17) william_larkins_wiki - 0.8327941447014523
+
+18) hartfield_wiki - 0.8023321746389777
+
+19) mr_dixon_wiki - 0.7847860327235605
+
+20) campbells_wiki - 0.7683127660564933
+
+21) enscombe_wiki - 0.7661265134811456
+
+22) mr_cole_wiki - 0.7600928544998223
+
+23) churchills_wiki - 0.7524062619330448
+
+24) eltons_wiki - 0.7462427473826277
+
+25) donwell_wiki - 0.7440419349645429
+
+26) coles_wiki - 0.7339240312576346
+
+27) martins_wiki - 0.7254886685636885
+
+28) miss_hawkins_wiki - 0.719393014907842
+
+29) james_wiki - 0.7120035078524526
+
+30) mr_wingfield_wiki - 0.6055061817169233
+
+Result for the vector: james, coming from part a of the book
+Rank: 28 out of 30 characters
+Cosine similarity to the co-referring vector: 0.6980864433723492
+
+1) mr_john_knightley_wiki - 0.9224120239756166
+
+2) mr_frank_churchill_wiki - 0.9132617932494101
+
+3) emma_woodhouse_wiki - 0.9010598273032753
+
+4) harriet_smith_wiki - 0.8990691451831382
+
+5) mr_robert_martin_wiki - 0.8989043831825321
+
+6) mr_woodhouse_wiki - 0.887819700707181
+
+7) miss_jane_fairfax_wiki - 0.8832987477361425
+
+8) mr_perry_wiki - 0.8739784880863735
+
+9) miss_taylor_wiki - 0.8681228340974008
+
+10) mr_elton_wiki - 0.862074545745526
+
+11) miss_bates_wiki - 0.852549365314805
+
+12) mrs_weston_wiki - 0.8421076536178649
+
+13) isabella_wiki - 0.8216147316464636
+
+14) mrs_campbell_wiki - 0.817510295957942
+
+15) mrs_goddard_wiki - 0.807707107985867
+
+16) william_larkins_wiki - 0.8076000706315221
+
+17) henry_wiki - 0.7949204796457863
+
+18) hartfield_wiki - 0.7912352556726503
+
+19) campbells_wiki - 0.7733771069870669
+
+20) mr_cole_wiki - 0.7513343395393299
+
+21) eltons_wiki - 0.7449885162718107
+
+22) churchills_wiki - 0.7415321978229582
+
+23) enscombe_wiki - 0.7414957572812745
+
+24) mr_dixon_wiki - 0.7393167148798804
+
+25) martins_wiki - 0.7277615394876759
+
+26) coles_wiki - 0.7229162124295488
+
+27) donwell_wiki - 0.7123906440967718
+
+28) james_wiki - 0.6980864433723492
+
+29) miss_hawkins_wiki - 0.6805334902445662
+
+30) mr_wingfield_wiki - 0.5922748556464739
+
+Result for the vector: miss_hawkins, coming from part a of the book
+Rank: 28 out of 30 characters
+Cosine similarity to the co-referring vector: 0.6940395649695149
+
+1) mr_john_knightley_wiki - 0.9129205838347242
+
+2) emma_woodhouse_wiki - 0.9085717472008396
+
+3) harriet_smith_wiki - 0.907225868751935
+
+4) mr_robert_martin_wiki - 0.9052243289217768
+
+5) miss_jane_fairfax_wiki - 0.9034214615821838
+
+6) mr_frank_churchill_wiki - 0.9025271207847337
+
+7) mr_woodhouse_wiki - 0.8992667198181152
+
+8) mr_perry_wiki - 0.8951618671417236
+
+9) miss_bates_wiki - 0.8883829116821289
+
+10) isabella_wiki - 0.880577802658081
+
+11) mrs_weston_wiki - 0.8768652750930042
+
+12) miss_taylor_wiki - 0.8645314831892101
+
+13) mr_elton_wiki - 0.8612635135650635
+
+14) mrs_goddard_wiki - 0.8517869622580402
+
+15) mrs_campbell_wiki - 0.8332752585411072
+
+16) henry_wiki - 0.8244354024192946
+
+17) hartfield_wiki - 0.8208239674568176
+
+18) mr_dixon_wiki - 0.8119938149444894
+
+19) william_larkins_wiki - 0.8033906226442281
+
+20) campbells_wiki - 0.7942284345626831
+
+21) enscombe_wiki - 0.7818266023294107
+
+22) mr_cole_wiki - 0.7679208974791122
+
+23) churchills_wiki - 0.7505326942085678
+
+24) martins_wiki - 0.748619601377332
+
+25) eltons_wiki - 0.7463873927131476
+
+26) donwell_wiki - 0.7320218086242676
+
+27) coles_wiki - 0.7304516870052641
+
+28) miss_hawkins_wiki - 0.6940395649695149
+
+29) james_wiki - 0.6765141092692053
+
+30) mr_wingfield_wiki - 0.6314372796676933
+
+Result for the vector: eltons, coming from part a of the book
+Rank: 11 out of 30 characters
+Cosine similarity to the co-referring vector: 0.7798127794488987
+
+1) mr_elton_wiki - 0.8635071516036987
+
+2) mr_cole_wiki - 0.8563315186698165
+
+3) mrs_campbell_wiki - 0.8246128559112549
+
+4) mr_perry_wiki - 0.8111482858657837
+
+5) mrs_weston_wiki - 0.8093943113449641
+
+6) mr_frank_churchill_wiki - 0.8086197021192227
+
+7) churchills_wiki - 0.7954679246665204
+
+8) miss_bates_wiki - 0.7943521738052368
+
+9) mr_john_knightley_wiki - 0.7923689237080778
+
+10) mr_robert_martin_wiki - 0.7876327760438471
+
+11) eltons_wiki - 0.7798127794488987
+
+12) william_larkins_wiki - 0.7782796588956887
+
+13) mr_woodhouse_wiki - 0.7719592452049255
+
+14) harriet_smith_wiki - 0.7564020237090043
+
+15) emma_woodhouse_wiki - 0.7528288588770887
+
+16) campbells_wiki - 0.7469643354415894
+
+17) miss_taylor_wiki - 0.7443065269084733
+
+18) miss_jane_fairfax_wiki - 0.7416408061981201
+
+19) hartfield_wiki - 0.7320804595947266
+
+20) mr_dixon_wiki - 0.7294724857178365
+
+21) donwell_wiki - 0.7175225019454956
+
+22) henry_wiki - 0.7155209610176672
+
+23) mrs_goddard_wiki - 0.71022562445555
+
+24) martins_wiki - 0.7059599686932733
+
+25) james_wiki - 0.7044211835986731
+
+26) isabella_wiki - 0.7027475237846375
+
+27) enscombe_wiki - 0.6811971474407416
+
+28) coles_wiki - 0.6712116999156308
+
+29) miss_hawkins_wiki - 0.5927960629937696
+
+30) mr_wingfield_wiki - 0.5199033927859907
+
+Result for the vector: william_larkins, coming from part a of the book
+Rank: 16 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8274385969994453
+
+1) mr_john_knightley_wiki - 0.914177526733587
+
+2) mr_frank_churchill_wiki - 0.8998865753378448
+
+3) mr_robert_martin_wiki - 0.88890809482884
+
+4) mr_woodhouse_wiki - 0.8854677677154541
+
+5) emma_woodhouse_wiki - 0.8844944502262612
+
+6) mr_perry_wiki - 0.8830696940422058
+
+7) mrs_weston_wiki - 0.8740564659800267
+
+8) harriet_smith_wiki - 0.8681321324228202
+
+9) mr_elton_wiki - 0.8625186681747437
+
+10) miss_bates_wiki - 0.8614320755004883
+
+11) miss_jane_fairfax_wiki - 0.8611713647842407
+
+12) miss_taylor_wiki - 0.837230528510527
+
+13) mrs_campbell_wiki - 0.8368818759918213
+
+14) henry_wiki - 0.8356495401650408
+
+15) isabella_wiki - 0.8310337066650391
+
+16) william_larkins_wiki - 0.8274385969994453
+
+17) mrs_goddard_wiki - 0.8255713478071316
+
+18) mr_dixon_wiki - 0.7927104583633549
+
+19) hartfield_wiki - 0.7823748588562012
+
+20) mr_cole_wiki - 0.7556316110868235
+
+21) enscombe_wiki - 0.7515058965388488
+
+22) campbells_wiki - 0.7321838140487671
+
+23) churchills_wiki - 0.7171555206616717
+
+24) eltons_wiki - 0.7169356087523024
+
+25) donwell_wiki - 0.694138765335083
+
+26) james_wiki - 0.6913947669087284
+
+27) coles_wiki - 0.6881208829951825
+
+28) martins_wiki - 0.6873598061752776
+
+29) miss_hawkins_wiki - 0.6858485749869702
+
+30) mr_wingfield_wiki - 0.6109896070354953
+
+Result for the vector: donwell, coming from part a of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9458706942719651
+
+1) donwell_wiki - 0.9458706942719651
+
+2) hartfield_wiki - 0.874025098921366
+
+3) mr_robert_martin_wiki - 0.8567927479744019
+
+4) mr_frank_churchill_wiki - 0.8537154960974008
+
+5) mr_john_knightley_wiki - 0.8515324327109649
+
+6) mr_woodhouse_wiki - 0.8392045998099222
+
+7) mr_elton_wiki - 0.8390721582813372
+
+8) mr_perry_wiki - 0.8291693227988093
+
+9) miss_bates_wiki - 0.8253751293048355
+
+10) harriet_smith_wiki - 0.8238964116418979
+
+11) miss_jane_fairfax_wiki - 0.8210633290447803
+
+12) enscombe_wiki - 0.8138156311292208
+
+13) mrs_weston_wiki - 0.8121041059494076
+
+14) emma_woodhouse_wiki - 0.809308362839374
+
+15) mrs_campbell_wiki - 0.7924904103571435
+
+16) mrs_goddard_wiki - 0.7851595026444796
+
+17) miss_taylor_wiki - 0.7848582969479234
+
+18) william_larkins_wiki - 0.7748059458625831
+
+19) isabella_wiki - 0.7707027060212331
+
+20) mr_cole_wiki - 0.7702464187438988
+
+21) mr_dixon_wiki - 0.7628177576335249
+
+22) henry_wiki - 0.760559470720228
+
+23) churchills_wiki - 0.754354529731651
+
+24) eltons_wiki - 0.7279762787833164
+
+25) campbells_wiki - 0.6935224350406203
+
+26) coles_wiki - 0.6925062766678663
+
+27) james_wiki - 0.6760588892750942
+
+28) martins_wiki - 0.6658890049590056
+
+29) miss_hawkins_wiki - 0.629510060490377
+
+30) mr_wingfield_wiki - 0.5905385125325338
+
+Result for the vector: churchills, coming from part a of the book
+Rank: 3 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8517741726435015
+
+1) martins_wiki - 0.8909345464227557
+
+2) eltons_wiki - 0.8546425277420906
+
+3) churchills_wiki - 0.8517741726435015
+
+4) campbells_wiki - 0.8331778049468994
+
+5) mr_woodhouse_wiki - 0.8124784827232361
+
+6) mr_john_knightley_wiki - 0.8122873082503506
+
+7) mr_robert_martin_wiki - 0.8102022522567375
+
+8) mr_frank_churchill_wiki - 0.8034926892367811
+
+9) coles_wiki - 0.7960254428401867
+
+10) harriet_smith_wiki - 0.7954924221777133
+
+11) miss_bates_wiki - 0.7951691150665283
+
+12) emma_woodhouse_wiki - 0.7886341449211286
+
+13) miss_jane_fairfax_wiki - 0.7869399189949036
+
+14) miss_taylor_wiki - 0.780435227764703
+
+15) mr_perry_wiki - 0.7777919173240662
+
+16) hartfield_wiki - 0.7669382691383362
+
+17) mr_elton_wiki - 0.7667722702026367
+
+18) mrs_weston_wiki - 0.7554528262941358
+
+19) isabella_wiki - 0.7437160015106201
+
+20) enscombe_wiki - 0.7403694832545225
+
+21) mrs_campbell_wiki - 0.7362109422683716
+
+22) mrs_goddard_wiki - 0.72092376476072
+
+23) mr_dixon_wiki - 0.7191981338498803
+
+24) mr_cole_wiki - 0.7155657837132099
+
+25) henry_wiki - 0.7019564331743988
+
+26) donwell_wiki - 0.6924949884414673
+
+27) william_larkins_wiki - 0.6675792139141654
+
+28) miss_hawkins_wiki - 0.6166290412324107
+
+29) james_wiki - 0.5773122482690888
+
+30) mr_wingfield_wiki - 0.5722580297147063
+
+Result for the vector: enscombe, coming from part a of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.853669447144204
+
+1) enscombe_wiki - 0.853669447144204
+
+2) hartfield_wiki - 0.853563955638646
+
+3) mr_john_knightley_wiki - 0.8443016727510121
+
+4) mr_robert_martin_wiki - 0.8390184044838012
+
+5) mr_woodhouse_wiki - 0.8352306386965909
+
+6) miss_bates_wiki - 0.8342724343700683
+
+7) mr_frank_churchill_wiki - 0.829283550019582
+
+8) harriet_smith_wiki - 0.8283394021301574
+
+9) emma_woodhouse_wiki - 0.8204889435013187
+
+10) miss_jane_fairfax_wiki - 0.8145154007980481
+
+11) mr_perry_wiki - 0.8115364200792577
+
+12) miss_taylor_wiki - 0.7938467973929764
+
+13) mr_elton_wiki - 0.7914031619669906
+
+14) mrs_weston_wiki - 0.7796317338943537
+
+15) donwell_wiki - 0.7687226396037735
+
+16) isabella_wiki - 0.7673560838315551
+
+17) mrs_goddard_wiki - 0.7463358338279527
+
+18) mrs_campbell_wiki - 0.7459531871052509
+
+19) henry_wiki - 0.7339511196555042
+
+20) mr_cole_wiki - 0.7269017966868635
+
+21) mr_dixon_wiki - 0.726748834863098
+
+22) eltons_wiki - 0.7245688602585396
+
+23) campbells_wiki - 0.7171726058228389
+
+24) churchills_wiki - 0.7091445787466438
+
+25) william_larkins_wiki - 0.705265788342375
+
+26) martins_wiki - 0.7018648145360176
+
+27) coles_wiki - 0.6998546361749931
+
+28) mr_wingfield_wiki - 0.6668437322191872
+
+29) miss_hawkins_wiki - 0.6260177643320279
+
+30) james_wiki - 0.6097628423359553
+
+Result for the vector: coles, coming from part a of the book
+Rank: 14 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8041410925472449
+
+1) eltons_wiki - 0.8717489991487327
+
+2) campbells_wiki - 0.8572786450386047
+
+3) martins_wiki - 0.8552658220650412
+
+4) churchills_wiki - 0.8504753277130752
+
+5) mr_robert_martin_wiki - 0.8315311174672191
+
+6) mr_woodhouse_wiki - 0.8288537859916687
+
+7) mr_john_knightley_wiki - 0.8264426382115707
+
+8) mr_frank_churchill_wiki - 0.8185740953258904
+
+9) miss_bates_wiki - 0.8125622868537903
+
+10) harriet_smith_wiki - 0.8108859191136917
+
+11) miss_taylor_wiki - 0.8097468259855163
+
+12) miss_jane_fairfax_wiki - 0.8096753358840942
+
+13) emma_woodhouse_wiki - 0.8062258603044115
+
+14) coles_wiki - 0.8041410925472449
+
+15) mr_perry_wiki - 0.800025463104248
+
+16) hartfield_wiki - 0.7927246689796448
+
+17) isabella_wiki - 0.7825092673301697
+
+18) mr_elton_wiki - 0.7805331945419312
+
+19) mrs_weston_wiki - 0.7791197431612181
+
+20) mrs_campbell_wiki - 0.761733889579773
+
+21) enscombe_wiki - 0.7590128635771802
+
+22) mr_dixon_wiki - 0.7504408062029899
+
+23) mrs_goddard_wiki - 0.7464766351268683
+
+24) mr_cole_wiki - 0.7427130188174869
+
+25) henry_wiki - 0.7284483151703082
+
+26) donwell_wiki - 0.710344135761261
+
+27) william_larkins_wiki - 0.6931482394260602
+
+28) miss_hawkins_wiki - 0.6462409285450547
+
+29) james_wiki - 0.5955313621619752
+
+30) mr_wingfield_wiki - 0.5732279165523013
+
+Result for the vector: martins, coming from part a of the book
+Rank: 3 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8502676158665049
+
+1) campbells_wiki - 0.8559666872024536
+
+2) eltons_wiki - 0.8524669584671369
+
+3) martins_wiki - 0.8502676158665049
+
+4) churchills_wiki - 0.830336883396231
+
+5) mr_robert_martin_wiki - 0.8245026573835235
+
+6) mr_woodhouse_wiki - 0.8171206712722778
+
+7) mr_john_knightley_wiki - 0.8166866083963701
+
+8) harriet_smith_wiki - 0.8154366745445172
+
+9) mr_frank_churchill_wiki - 0.8141088132294663
+
+10) miss_taylor_wiki - 0.8089722039989298
+
+11) emma_woodhouse_wiki - 0.8084329607615761
+
+12) miss_jane_fairfax_wiki - 0.8032227754592896
+
+13) miss_bates_wiki - 0.7901085019111633
+
+14) mr_perry_wiki - 0.7864089012145996
+
+15) coles_wiki - 0.7812998760521352
+
+16) mr_elton_wiki - 0.7751611471176147
+
+17) mrs_weston_wiki - 0.7686644334397071
+
+18) hartfield_wiki - 0.7657402753829956
+
+19) isabella_wiki - 0.7646403312683105
+
+20) mrs_campbell_wiki - 0.7540022730827332
+
+21) mrs_goddard_wiki - 0.7526338549038099
+
+22) mr_cole_wiki - 0.7292737799450041
+
+23) mr_dixon_wiki - 0.725333240667973
+
+24) enscombe_wiki - 0.7227166725824293
+
+25) henry_wiki - 0.7054788294719965
+
+26) donwell_wiki - 0.7008807063102722
+
+27) william_larkins_wiki - 0.6883690190865205
+
+28) miss_hawkins_wiki - 0.6349127075024084
+
+29) james_wiki - 0.5914174494569736
+
+30) mr_wingfield_wiki - 0.5161096165245552
+
+Result for the vector: mr_wingfield, coming from part a of the book
+Rank: 30 out of 30 characters
+Cosine similarity to the co-referring vector: 0.5758771643565406
+
+1) mr_john_knightley_wiki - 0.9017085911880308
+
+2) mr_frank_churchill_wiki - 0.887235012270064
+
+3) mr_woodhouse_wiki - 0.8785224556922913
+
+4) emma_woodhouse_wiki - 0.8739938996432397
+
+5) mr_robert_martin_wiki - 0.8733154014757052
+
+6) mr_perry_wiki - 0.8620829582214355
+
+7) harriet_smith_wiki - 0.8560922911249693
+
+8) miss_jane_fairfax_wiki - 0.8463901281356812
+
+9) mr_elton_wiki - 0.8414758443832397
+
+10) mrs_weston_wiki - 0.8298114043586624
+
+11) miss_taylor_wiki - 0.8231703884354353
+
+12) miss_bates_wiki - 0.8205752372741699
+
+13) mrs_campbell_wiki - 0.812383770942688
+
+14) william_larkins_wiki - 0.7862341979495073
+
+15) henry_wiki - 0.7835731973393691
+
+16) mrs_goddard_wiki - 0.7830640544333505
+
+17) isabella_wiki - 0.7774987816810608
+
+18) hartfield_wiki - 0.7725613117218018
+
+19) mr_cole_wiki - 0.7409588540171907
+
+20) campbells_wiki - 0.7358131408691406
+
+21) enscombe_wiki - 0.7309807974684727
+
+22) churchills_wiki - 0.7251871280539477
+
+23) mr_dixon_wiki - 0.722340550701689
+
+24) eltons_wiki - 0.7195877767100651
+
+25) martins_wiki - 0.7079311535481649
+
+26) coles_wiki - 0.7077826683391744
+
+27) donwell_wiki - 0.7012342214584351
+
+28) james_wiki - 0.6750562988238427
+
+29) miss_hawkins_wiki - 0.6728613777674077
+
+30) mr_wingfield_wiki - 0.5758771643565406
+

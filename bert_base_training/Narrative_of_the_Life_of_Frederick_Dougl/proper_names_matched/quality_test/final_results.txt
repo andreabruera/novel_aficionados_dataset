@@ -1,0 +1,9 @@
+Test: quality test
+Results for: Narrative_of_the_Life_of_Frederick_Dougl
+Model used: proper names matched
+
+Within-novel median: 2.0
+Within-novel average: 2.5833333333333335
+Within-novel MRR: 0.5652777777777778
+Within-novel standard deviation of the scores: 1.6051133570215186
+Amount of entities considered: 6.0

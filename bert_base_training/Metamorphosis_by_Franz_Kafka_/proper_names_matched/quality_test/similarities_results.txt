@@ -1,0 +1,60 @@
+Result for the vector: gregor, coming from part i of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9308436040561924
+
+1) gregor_a - 0.9308436040561924
+
+2) mr_samsa_a - 0.8287617419277157
+
+3) grete_a - 0.7410326533586477
+
+Result for the vector: grete, coming from part i of the book
+Rank: 3 out of 3 characters
+Cosine similarity to the co-referring vector: 0.7079166210815273
+
+1) gregor_a - 0.864474117755896
+
+2) mr_samsa_a - 0.7980468986672374
+
+3) grete_a - 0.7079166210815273
+
+Result for the vector: mr_samsa, coming from part i of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.8365018617064319
+
+1) mr_samsa_a - 0.8365018617064319
+
+2) gregor_a - 0.786747825935614
+
+3) grete_a - 0.6605693298747939
+
+Result for the vector: gregor, coming from part a of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9308436040561924
+
+1) gregor_wiki - 0.9308436040561924
+
+2) grete_wiki - 0.864474117755896
+
+3) mr_samsa_wiki - 0.786747825935614
+
+Result for the vector: grete, coming from part a of the book
+Rank: 2 out of 3 characters
+Cosine similarity to the co-referring vector: 0.7079166210815273
+
+1) gregor_wiki - 0.7410326533586477
+
+2) grete_wiki - 0.7079166210815273
+
+3) mr_samsa_wiki - 0.6605693298747939
+
+Result for the vector: mr_samsa, coming from part a of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.8365018617064319
+
+1) mr_samsa_wiki - 0.8365018617064319
+
+2) gregor_wiki - 0.8287617419277157
+
+3) grete_wiki - 0.7980468986672374
+

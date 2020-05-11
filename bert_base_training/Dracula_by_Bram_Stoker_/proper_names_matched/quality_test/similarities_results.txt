@@ -1,0 +1,672 @@
+Result for the vector: miss_lucy_westenra, coming from part i of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.9041329736551142
+
+1) miss_lucy_westenra_a - 0.9041329736551142
+
+2) arthur_holmwood_a - 0.8878034155544664
+
+3) jonathan_harker_a - 0.8863163793713383
+
+4) mr_renfield_a - 0.8821892668122008
+
+5) mr_quincey_morris_a - 0.8725932988413279
+
+6) count_dracula_a - 0.8725750002175632
+
+7) viii_mina_murray_a - 0.8719557004001458
+
+8) dr_john_seward_a - 0.8657853345339089
+
+9) abraham_van_helsing_a - 0.8559020502596669
+
+10) jack_seward_a - 0.8378869585000962
+
+11) whitby_a - 0.8138236251297891
+
+12) journal_a - 0.8125972971204223
+
+Result for the vector: abraham_van_helsing, coming from part i of the book
+Rank: 5 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8903528121219022
+
+1) arthur_holmwood_a - 0.9057920305194882
+
+2) jonathan_harker_a - 0.89761794833923
+
+3) count_dracula_a - 0.893599337720912
+
+4) mr_quincey_morris_a - 0.893457717093367
+
+5) abraham_van_helsing_a - 0.8903528121219022
+
+6) mr_renfield_a - 0.8899918663492297
+
+7) miss_lucy_westenra_a - 0.8740523532597824
+
+8) dr_john_seward_a - 0.8586073177637946
+
+9) viii_mina_murray_a - 0.854257106781012
+
+10) jack_seward_a - 0.8222518179116466
+
+11) journal_a - 0.8129004947602468
+
+12) whitby_a - 0.8124869801127365
+
+Result for the vector: jonathan_harker, coming from part i of the book
+Rank: 5 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8849129149369663
+
+1) arthur_holmwood_a - 0.894286599585015
+
+2) mr_renfield_a - 0.8923372433788758
+
+3) mr_quincey_morris_a - 0.8895595073699951
+
+4) count_dracula_a - 0.8891241550445557
+
+5) jonathan_harker_a - 0.8849129149369663
+
+6) abraham_van_helsing_a - 0.8813343836070081
+
+7) miss_lucy_westenra_a - 0.8626643419265747
+
+8) dr_john_seward_a - 0.8609878594566492
+
+9) viii_mina_murray_a - 0.8544999870359905
+
+10) jack_seward_a - 0.8332240680918668
+
+11) journal_a - 0.811898946762085
+
+12) whitby_a - 0.7930391081525014
+
+Result for the vector: dr_john_seward, coming from part i of the book
+Rank: 8 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8861096757977298
+
+1) arthur_holmwood_a - 0.9090723178559252
+
+2) mr_renfield_a - 0.9061461621493138
+
+3) jonathan_harker_a - 0.9032777105685962
+
+4) count_dracula_a - 0.9021861051113425
+
+5) mr_quincey_morris_a - 0.8999236315329694
+
+6) abraham_van_helsing_a - 0.8929503837080017
+
+7) viii_mina_murray_a - 0.8895120622399119
+
+8) dr_john_seward_a - 0.8861096757977298
+
+9) miss_lucy_westenra_a - 0.8781411691602714
+
+10) jack_seward_a - 0.8736740460506465
+
+11) whitby_a - 0.8345318586706245
+
+12) journal_a - 0.8275857506126422
+
+Result for the vector: arthur_holmwood, coming from part i of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8859523202762704
+
+1) arthur_holmwood_a - 0.8859523202762704
+
+2) jonathan_harker_a - 0.8818762968852358
+
+3) dr_john_seward_a - 0.8787781189779781
+
+4) viii_mina_murray_a - 0.8763682172517921
+
+5) count_dracula_a - 0.8724064826965332
+
+6) mr_quincey_morris_a - 0.8548587560653687
+
+7) abraham_van_helsing_a - 0.8547123838704009
+
+8) jack_seward_a - 0.8534153787246136
+
+9) miss_lucy_westenra_a - 0.8487705588340759
+
+10) mr_renfield_a - 0.8479100193816593
+
+11) journal_a - 0.8287239670753479
+
+12) whitby_a - 0.821267447320533
+
+Result for the vector: mr_quincey_morris, coming from part i of the book
+Rank: 6 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8765773250712574
+
+1) arthur_holmwood_a - 0.9001651734064504
+
+2) jonathan_harker_a - 0.8976552012377738
+
+3) count_dracula_a - 0.8942362729170176
+
+4) abraham_van_helsing_a - 0.8812605405229589
+
+5) dr_john_seward_a - 0.8801672720959067
+
+6) mr_quincey_morris_a - 0.8765773250712574
+
+7) mr_renfield_a - 0.8754627556160646
+
+8) viii_mina_murray_a - 0.8655720353126587
+
+9) journal_a - 0.8544261542304677
+
+10) miss_lucy_westenra_a - 0.8467596860671246
+
+11) whitby_a - 0.8405841874031701
+
+12) jack_seward_a - 0.8384033038135404
+
+Result for the vector: viii_mina_murray, coming from part i of the book
+Rank: 4 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8642050462013539
+
+1) miss_lucy_westenra_a - 0.90283947603938
+
+2) arthur_holmwood_a - 0.8737971967873455
+
+3) jonathan_harker_a - 0.8726198673248353
+
+4) viii_mina_murray_a - 0.8642050462013539
+
+5) dr_john_seward_a - 0.8589902012035554
+
+6) mr_quincey_morris_a - 0.8530247719898699
+
+7) count_dracula_a - 0.8514184267174275
+
+8) mr_renfield_a - 0.846936666235135
+
+9) abraham_van_helsing_a - 0.8363790566293984
+
+10) journal_a - 0.8238486542611527
+
+11) jack_seward_a - 0.8209667801857053
+
+12) whitby_a - 0.7916298036796098
+
+Result for the vector: mr_renfield, coming from part i of the book
+Rank: 2 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8728201313508023
+
+1) count_dracula_a - 0.8785801674628121
+
+2) mr_renfield_a - 0.8728201313508023
+
+3) jonathan_harker_a - 0.8711874119304294
+
+4) arthur_holmwood_a - 0.8685632763597516
+
+5) viii_mina_murray_a - 0.8667450626644594
+
+6) dr_john_seward_a - 0.8622048240243139
+
+7) mr_quincey_morris_a - 0.8453254884093477
+
+8) abraham_van_helsing_a - 0.8428354608167754
+
+9) jack_seward_a - 0.833896309036678
+
+10) miss_lucy_westenra_a - 0.8319377503469347
+
+11) journal_a - 0.8307223521802064
+
+12) whitby_a - 0.791745891154792
+
+Result for the vector: journal, coming from part i of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.7750159136955715
+
+1) journal_a - 0.7750159136955715
+
+2) viii_mina_murray_a - 0.7483791185956409
+
+3) count_dracula_a - 0.7453939540801634
+
+4) dr_john_seward_a - 0.7432121328368358
+
+5) jonathan_harker_a - 0.7185189509833201
+
+6) jack_seward_a - 0.7147053267149558
+
+7) arthur_holmwood_a - 0.7125233836485972
+
+8) whitby_a - 0.7115548808972723
+
+9) mr_renfield_a - 0.7031181729384504
+
+10) mr_quincey_morris_a - 0.6759616934049637
+
+11) miss_lucy_westenra_a - 0.6719416580182811
+
+12) abraham_van_helsing_a - 0.6677978238818447
+
+Result for the vector: whitby, coming from part i of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8526975258381098
+
+1) whitby_a - 0.8526975258381098
+
+2) count_dracula_a - 0.808146727813491
+
+3) jonathan_harker_a - 0.795770192020252
+
+4) arthur_holmwood_a - 0.7875907167900477
+
+5) dr_john_seward_a - 0.7874971248204335
+
+6) mr_renfield_a - 0.7818457793179786
+
+7) viii_mina_murray_a - 0.7814954491697924
+
+8) mr_quincey_morris_a - 0.7646588770740251
+
+9) abraham_van_helsing_a - 0.7599299716824243
+
+10) journal_a - 0.75107026854786
+
+11) jack_seward_a - 0.7476092203739136
+
+12) miss_lucy_westenra_a - 0.7447838257059924
+
+Result for the vector: jack_seward, coming from part i of the book
+Rank: 10 out of 12 characters
+Cosine similarity to the co-referring vector: 0.6226030217049716
+
+1) miss_lucy_westenra_a - 0.6745157837867737
+
+2) mr_quincey_morris_a - 0.6659709811210632
+
+3) arthur_holmwood_a - 0.651742418162299
+
+4) abraham_van_helsing_a - 0.649057207917324
+
+5) mr_renfield_a - 0.6475152935115132
+
+6) jonathan_harker_a - 0.6453311058681556
+
+7) viii_mina_murray_a - 0.6329442043867244
+
+8) dr_john_seward_a - 0.631842014060203
+
+9) count_dracula_a - 0.6290998458862305
+
+10) jack_seward_a - 0.6226030217049716
+
+11) whitby_a - 0.5746121317610624
+
+12) journal_a - 0.5739020109176636
+
+Result for the vector: count_dracula, coming from part i of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.9332966248216273
+
+1) count_dracula_a - 0.9332966248216273
+
+2) jonathan_harker_a - 0.9215925429353067
+
+3) mr_renfield_a - 0.9211677218875816
+
+4) arthur_holmwood_a - 0.9187948429943704
+
+5) dr_john_seward_a - 0.8977467685266466
+
+6) mr_quincey_morris_a - 0.8961306276243567
+
+7) abraham_van_helsing_a - 0.893324342171093
+
+8) viii_mina_murray_a - 0.8930474519729678
+
+9) miss_lucy_westenra_a - 0.8696656900843582
+
+10) whitby_a - 0.8624646313551743
+
+11) jack_seward_a - 0.8576167395571781
+
+12) journal_a - 0.8563468541892273
+
+Result for the vector: miss_lucy_westenra, coming from part a of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.9041329736551142
+
+1) miss_lucy_westenra_wiki - 0.9041329736551142
+
+2) viii_mina_murray_wiki - 0.90283947603938
+
+3) dr_john_seward_wiki - 0.8781411691602714
+
+4) abraham_van_helsing_wiki - 0.8740523532597824
+
+5) count_dracula_wiki - 0.8696656900843582
+
+6) jonathan_harker_wiki - 0.8626643419265747
+
+7) arthur_holmwood_wiki - 0.8487705588340759
+
+8) mr_quincey_morris_wiki - 0.8467596860671246
+
+9) mr_renfield_wiki - 0.8319377503469347
+
+10) whitby_wiki - 0.7447838257059924
+
+11) jack_seward_wiki - 0.6745157837867737
+
+12) journal_wiki - 0.6719416580182811
+
+Result for the vector: abraham_van_helsing, coming from part a of the book
+Rank: 3 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8903528121219022
+
+1) count_dracula_wiki - 0.893324342171093
+
+2) dr_john_seward_wiki - 0.8929503837080017
+
+3) abraham_van_helsing_wiki - 0.8903528121219022
+
+4) jonathan_harker_wiki - 0.8813343836070081
+
+5) mr_quincey_morris_wiki - 0.8812605405229589
+
+6) miss_lucy_westenra_wiki - 0.8559020502596669
+
+7) arthur_holmwood_wiki - 0.8547123838704009
+
+8) mr_renfield_wiki - 0.8428354608167754
+
+9) viii_mina_murray_wiki - 0.8363790566293984
+
+10) whitby_wiki - 0.7599299716824243
+
+11) journal_wiki - 0.6677978238818447
+
+12) jack_seward_wiki - 0.649057207917324
+
+Result for the vector: jonathan_harker, coming from part a of the book
+Rank: 6 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8849129149369663
+
+1) count_dracula_wiki - 0.9215925429353067
+
+2) dr_john_seward_wiki - 0.9032777105685962
+
+3) mr_quincey_morris_wiki - 0.8976552012377738
+
+4) abraham_van_helsing_wiki - 0.89761794833923
+
+5) miss_lucy_westenra_wiki - 0.8863163793713383
+
+6) jonathan_harker_wiki - 0.8849129149369663
+
+7) arthur_holmwood_wiki - 0.8818762968852358
+
+8) viii_mina_murray_wiki - 0.8726198673248353
+
+9) mr_renfield_wiki - 0.8711874119304294
+
+10) whitby_wiki - 0.795770192020252
+
+11) journal_wiki - 0.7185189509833201
+
+12) jack_seward_wiki - 0.6453311058681556
+
+Result for the vector: dr_john_seward, coming from part a of the book
+Rank: 2 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8861096757977298
+
+1) count_dracula_wiki - 0.8977467685266466
+
+2) dr_john_seward_wiki - 0.8861096757977298
+
+3) mr_quincey_morris_wiki - 0.8801672720959067
+
+4) arthur_holmwood_wiki - 0.8787781189779781
+
+5) miss_lucy_westenra_wiki - 0.8657853345339089
+
+6) mr_renfield_wiki - 0.8622048240243139
+
+7) jonathan_harker_wiki - 0.8609878594566492
+
+8) viii_mina_murray_wiki - 0.8589902012035554
+
+9) abraham_van_helsing_wiki - 0.8586073177637946
+
+10) whitby_wiki - 0.7874971248204335
+
+11) journal_wiki - 0.7432121328368358
+
+12) jack_seward_wiki - 0.631842014060203
+
+Result for the vector: arthur_holmwood, coming from part a of the book
+Rank: 7 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8859523202762704
+
+1) count_dracula_wiki - 0.9187948429943704
+
+2) dr_john_seward_wiki - 0.9090723178559252
+
+3) abraham_van_helsing_wiki - 0.9057920305194882
+
+4) mr_quincey_morris_wiki - 0.9001651734064504
+
+5) jonathan_harker_wiki - 0.894286599585015
+
+6) miss_lucy_westenra_wiki - 0.8878034155544664
+
+7) arthur_holmwood_wiki - 0.8859523202762704
+
+8) viii_mina_murray_wiki - 0.8737971967873455
+
+9) mr_renfield_wiki - 0.8685632763597516
+
+10) whitby_wiki - 0.7875907167900477
+
+11) journal_wiki - 0.7125233836485972
+
+12) jack_seward_wiki - 0.651742418162299
+
+Result for the vector: mr_quincey_morris, coming from part a of the book
+Rank: 5 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8765773250712574
+
+1) dr_john_seward_wiki - 0.8999236315329694
+
+2) count_dracula_wiki - 0.8961306276243567
+
+3) abraham_van_helsing_wiki - 0.893457717093367
+
+4) jonathan_harker_wiki - 0.8895595073699951
+
+5) mr_quincey_morris_wiki - 0.8765773250712574
+
+6) miss_lucy_westenra_wiki - 0.8725932988413279
+
+7) arthur_holmwood_wiki - 0.8548587560653687
+
+8) viii_mina_murray_wiki - 0.8530247719898699
+
+9) mr_renfield_wiki - 0.8453254884093477
+
+10) whitby_wiki - 0.7646588770740251
+
+11) journal_wiki - 0.6759616934049637
+
+12) jack_seward_wiki - 0.6659709811210632
+
+Result for the vector: viii_mina_murray, coming from part a of the book
+Rank: 7 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8642050462013539
+
+1) count_dracula_wiki - 0.8930474519729678
+
+2) dr_john_seward_wiki - 0.8895120622399119
+
+3) arthur_holmwood_wiki - 0.8763682172517921
+
+4) miss_lucy_westenra_wiki - 0.8719557004001458
+
+5) mr_renfield_wiki - 0.8667450626644594
+
+6) mr_quincey_morris_wiki - 0.8655720353126587
+
+7) viii_mina_murray_wiki - 0.8642050462013539
+
+8) jonathan_harker_wiki - 0.8544999870359905
+
+9) abraham_van_helsing_wiki - 0.854257106781012
+
+10) whitby_wiki - 0.7814954491697924
+
+11) journal_wiki - 0.7483791185956409
+
+12) jack_seward_wiki - 0.6329442043867244
+
+Result for the vector: mr_renfield, coming from part a of the book
+Rank: 7 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8728201313508023
+
+1) count_dracula_wiki - 0.9211677218875816
+
+2) dr_john_seward_wiki - 0.9061461621493138
+
+3) jonathan_harker_wiki - 0.8923372433788758
+
+4) abraham_van_helsing_wiki - 0.8899918663492297
+
+5) miss_lucy_westenra_wiki - 0.8821892668122008
+
+6) mr_quincey_morris_wiki - 0.8754627556160646
+
+7) mr_renfield_wiki - 0.8728201313508023
+
+8) arthur_holmwood_wiki - 0.8479100193816593
+
+9) viii_mina_murray_wiki - 0.846936666235135
+
+10) whitby_wiki - 0.7818457793179786
+
+11) journal_wiki - 0.7031181729384504
+
+12) jack_seward_wiki - 0.6475152935115132
+
+Result for the vector: journal, coming from part a of the book
+Rank: 10 out of 12 characters
+Cosine similarity to the co-referring vector: 0.7750159136955715
+
+1) count_dracula_wiki - 0.8563468541892273
+
+2) mr_quincey_morris_wiki - 0.8544261542304677
+
+3) mr_renfield_wiki - 0.8307223521802064
+
+4) arthur_holmwood_wiki - 0.8287239670753479
+
+5) dr_john_seward_wiki - 0.8275857506126422
+
+6) viii_mina_murray_wiki - 0.8238486542611527
+
+7) abraham_van_helsing_wiki - 0.8129004947602468
+
+8) miss_lucy_westenra_wiki - 0.8125972971204223
+
+9) jonathan_harker_wiki - 0.811898946762085
+
+10) journal_wiki - 0.7750159136955715
+
+11) whitby_wiki - 0.75107026854786
+
+12) jack_seward_wiki - 0.5739020109176636
+
+Result for the vector: whitby, coming from part a of the book
+Rank: 2 out of 12 characters
+Cosine similarity to the co-referring vector: 0.8526975258381098
+
+1) count_dracula_wiki - 0.8624646313551743
+
+2) whitby_wiki - 0.8526975258381098
+
+3) mr_quincey_morris_wiki - 0.8405841874031701
+
+4) dr_john_seward_wiki - 0.8345318586706245
+
+5) arthur_holmwood_wiki - 0.821267447320533
+
+6) miss_lucy_westenra_wiki - 0.8138236251297891
+
+7) abraham_van_helsing_wiki - 0.8124869801127365
+
+8) jonathan_harker_wiki - 0.7930391081525014
+
+9) mr_renfield_wiki - 0.791745891154792
+
+10) viii_mina_murray_wiki - 0.7916298036796098
+
+11) journal_wiki - 0.7115548808972723
+
+12) jack_seward_wiki - 0.5746121317610624
+
+Result for the vector: jack_seward, coming from part a of the book
+Rank: 12 out of 12 characters
+Cosine similarity to the co-referring vector: 0.6226030217049716
+
+1) dr_john_seward_wiki - 0.8736740460506465
+
+2) count_dracula_wiki - 0.8576167395571781
+
+3) arthur_holmwood_wiki - 0.8534153787246136
+
+4) mr_quincey_morris_wiki - 0.8384033038135404
+
+5) miss_lucy_westenra_wiki - 0.8378869585000962
+
+6) mr_renfield_wiki - 0.833896309036678
+
+7) jonathan_harker_wiki - 0.8332240680918668
+
+8) abraham_van_helsing_wiki - 0.8222518179116466
+
+9) viii_mina_murray_wiki - 0.8209667801857053
+
+10) whitby_wiki - 0.7476092203739136
+
+11) journal_wiki - 0.7147053267149558
+
+12) jack_seward_wiki - 0.6226030217049716
+
+Result for the vector: count_dracula, coming from part a of the book
+Rank: 1 out of 12 characters
+Cosine similarity to the co-referring vector: 0.9332966248216273
+
+1) count_dracula_wiki - 0.9332966248216273
+
+2) dr_john_seward_wiki - 0.9021861051113425
+
+3) mr_quincey_morris_wiki - 0.8942362729170176
+
+4) abraham_van_helsing_wiki - 0.893599337720912
+
+5) jonathan_harker_wiki - 0.8891241550445557
+
+6) mr_renfield_wiki - 0.8785801674628121
+
+7) miss_lucy_westenra_wiki - 0.8725750002175632
+
+8) arthur_holmwood_wiki - 0.8724064826965332
+
+9) viii_mina_murray_wiki - 0.8514184267174275
+
+10) whitby_wiki - 0.808146727813491
+
+11) journal_wiki - 0.7453939540801634
+
+12) jack_seward_wiki - 0.6290998458862305
+

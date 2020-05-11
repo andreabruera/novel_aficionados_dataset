@@ -1,0 +1,1152 @@
+Result for the vector: boy, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9817457784262781
+
+1) boy_b - 0.9817457784262781
+
+2) child_b - 0.9679078478868115
+
+3) man_b - 0.9566302973097184
+
+4) girl_b - 0.9539799094200134
+
+5) mother_b - 0.9433752298355103
+
+6) one_b - 0.9312263408668743
+
+7) home_b - 0.9280483999266748
+
+8) time_b - 0.9040895700454712
+
+9) tree_b - 0.8871849775314331
+
+10) baby_b - 0.8839589884256729
+
+11) year_b - 0.8749432042274965
+
+12) everything_b - 0.8667064309120178
+
+13) cry_b - 0.8603212403868211
+
+14) room_b - 0.8407816195953872
+
+15) week_b - 0.8307632409616481
+
+16) knee_b - 0.7872233986854553
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9780863814975738
+
+1) time_b - 0.9780863814975738
+
+2) year_b - 0.8989479273871241
+
+3) home_b - 0.8889983826278676
+
+4) one_b - 0.8852838209440601
+
+5) boy_b - 0.8758249469838993
+
+6) man_b - 0.8739138731488965
+
+7) girl_b - 0.8737809322411103
+
+8) mother_b - 0.8716647884745836
+
+9) week_b - 0.8653107107898054
+
+10) everything_b - 0.8587390440326648
+
+11) tree_b - 0.8493536367819801
+
+12) child_b - 0.8457541809751371
+
+13) cry_b - 0.8335575312175666
+
+14) room_b - 0.8250178836302061
+
+15) baby_b - 0.7927215808083043
+
+16) knee_b - 0.7494752630435012
+
+Result for the vector: mother, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9788979317071589
+
+1) mother_b - 0.9788979317071589
+
+2) girl_b - 0.9515128789528821
+
+3) man_b - 0.9484959994268436
+
+4) boy_b - 0.9353627601049835
+
+5) one_b - 0.9183494223639987
+
+6) child_b - 0.9182753709062287
+
+7) home_b - 0.9155643955858693
+
+8) baby_b - 0.9136836580226771
+
+9) time_b - 0.9008915542493462
+
+10) year_b - 0.8956521340038552
+
+11) tree_b - 0.8755586891700462
+
+12) everything_b - 0.8732552083426528
+
+13) week_b - 0.8654614411684415
+
+14) cry_b - 0.84177628951638
+
+15) room_b - 0.8264060123916989
+
+16) knee_b - 0.7689883388294825
+
+Result for the vector: child, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9799020314333401
+
+1) child_b - 0.9799020314333401
+
+2) boy_b - 0.970155358314521
+
+3) mother_b - 0.9376434124920735
+
+4) girl_b - 0.9311137836507705
+
+5) man_b - 0.9160052738177189
+
+6) one_b - 0.9064421383606787
+
+7) home_b - 0.9048860399459029
+
+8) tree_b - 0.8706505375712805
+
+9) time_b - 0.8705349045673085
+
+10) baby_b - 0.8539927601814331
+
+11) year_b - 0.8520622429773518
+
+12) everything_b - 0.8508609622203746
+
+13) room_b - 0.8379583358764708
+
+14) cry_b - 0.818769904595036
+
+15) week_b - 0.817674431024595
+
+16) knee_b - 0.7837223539517921
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.978251225277418
+
+1) man_b - 0.978251225277418
+
+2) boy_b - 0.9309860509046435
+
+3) mother_b - 0.9276124921307043
+
+4) girl_b - 0.9251089185346528
+
+5) child_b - 0.9149710092000365
+
+6) one_b - 0.9090963385317123
+
+7) baby_b - 0.8820420573924886
+
+8) home_b - 0.8780326058239493
+
+9) time_b - 0.8686844267029316
+
+10) tree_b - 0.8437575288108017
+
+11) everything_b - 0.8261987178088822
+
+12) cry_b - 0.8222001618861766
+
+13) year_b - 0.8168354957993946
+
+14) week_b - 0.7955066453202616
+
+15) room_b - 0.7814734112338304
+
+16) knee_b - 0.7657819073460267
+
+Result for the vector: tree, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9439151287078857
+
+1) tree_b - 0.9439151287078857
+
+2) home_b - 0.928758827708925
+
+3) boy_b - 0.9168987224637717
+
+4) man_b - 0.899292427427945
+
+5) girl_b - 0.8988633751869202
+
+6) mother_b - 0.8979625105857849
+
+7) child_b - 0.8958540620890835
+
+8) one_b - 0.8924384979140315
+
+9) time_b - 0.8789598941802979
+
+10) room_b - 0.873091153686713
+
+11) year_b - 0.8544821229885758
+
+12) everything_b - 0.8449738025665283
+
+13) cry_b - 0.8403634023233232
+
+14) knee_b - 0.8309624195098877
+
+15) baby_b - 0.8182787786888363
+
+16) week_b - 0.8150103908764907
+
+Result for the vector: one, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9794242065630148
+
+1) one_b - 0.9794242065630148
+
+2) man_b - 0.9220120403752541
+
+3) mother_b - 0.9196429800774459
+
+4) boy_b - 0.91910194386267
+
+5) girl_b - 0.9139081784432057
+
+6) home_b - 0.9081591583632674
+
+7) child_b - 0.8992830514907901
+
+8) time_b - 0.8928060467723652
+
+9) everything_b - 0.8760943338927245
+
+10) baby_b - 0.8721806850648743
+
+11) year_b - 0.87176942825318
+
+12) tree_b - 0.8567185912560592
+
+13) cry_b - 0.8321548800376262
+
+14) week_b - 0.8250810012173188
+
+15) room_b - 0.8143208401585627
+
+16) knee_b - 0.7670087079410989
+
+Result for the vector: room, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9573458096992208
+
+1) room_b - 0.9573458096992208
+
+2) tree_b - 0.9251750983350012
+
+3) home_b - 0.920910949761328
+
+4) boy_b - 0.8671993792533323
+
+5) time_b - 0.8666750450931506
+
+6) man_b - 0.8558887756036743
+
+7) girl_b - 0.8525343791405675
+
+8) one_b - 0.8490380554817948
+
+9) mother_b - 0.8487319007137988
+
+10) child_b - 0.8378951895864285
+
+11) year_b - 0.8377305019578222
+
+12) everything_b - 0.8125267867006898
+
+13) cry_b - 0.7968888762394687
+
+14) week_b - 0.7934206610840056
+
+15) baby_b - 0.7858174549774044
+
+16) knee_b - 0.7685218682444656
+
+Result for the vector: home, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9527604267823827
+
+1) home_b - 0.9527604267823827
+
+2) tree_b - 0.9009949564933777
+
+3) mother_b - 0.8924673199653625
+
+4) child_b - 0.887057132300311
+
+5) boy_b - 0.8861231736018181
+
+6) room_b - 0.8803629207827417
+
+7) one_b - 0.8784895801094054
+
+8) man_b - 0.874152206036068
+
+9) girl_b - 0.8733086585998535
+
+10) time_b - 0.8719097375869751
+
+11) year_b - 0.8475291819853094
+
+12) everything_b - 0.8446410298347473
+
+13) week_b - 0.8258303015434442
+
+14) cry_b - 0.8178696849501567
+
+15) baby_b - 0.8100982195197489
+
+16) knee_b - 0.7963616251945496
+
+Result for the vector: girl, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9475389122962952
+
+1) girl_b - 0.9475389122962952
+
+2) man_b - 0.9464594817532187
+
+3) mother_b - 0.9234856963157654
+
+4) boy_b - 0.9138068505410479
+
+5) one_b - 0.8955534963474724
+
+6) baby_b - 0.8926458890823076
+
+7) home_b - 0.8866290118285723
+
+8) child_b - 0.8843810627233364
+
+9) time_b - 0.874579668045044
+
+10) year_b - 0.8722952680411791
+
+11) tree_b - 0.8550651669502258
+
+12) week_b - 0.8424784728910419
+
+13) everything_b - 0.8406358957290649
+
+14) cry_b - 0.8176700690186
+
+15) room_b - 0.7939021464527947
+
+16) knee_b - 0.7372556924819946
+
+Result for the vector: cry, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9203376316420515
+
+1) cry_b - 0.9203376316420515
+
+2) mother_b - 0.846270749195175
+
+3) home_b - 0.8408999192446528
+
+4) time_b - 0.8362547852841162
+
+5) one_b - 0.8347471703664345
+
+6) man_b - 0.833091418006088
+
+7) girl_b - 0.8314634065947901
+
+8) boy_b - 0.8302003145217954
+
+9) everything_b - 0.8129078261311172
+
+10) tree_b - 0.8024495957821863
+
+11) child_b - 0.7981917502651512
+
+12) year_b - 0.7921663770477322
+
+13) baby_b - 0.7867355942726191
+
+14) week_b - 0.7662718713989501
+
+15) room_b - 0.740785062313085
+
+16) knee_b - 0.7232787177992644
+
+Result for the vector: knee, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8961538014503615
+
+1) knee_b - 0.8961538014503615
+
+2) tree_b - 0.8337885042302924
+
+3) mother_b - 0.8253177300284955
+
+4) home_b - 0.8165769711056627
+
+5) man_b - 0.7941605694102788
+
+6) girl_b - 0.7913557762715697
+
+7) boy_b - 0.7905179608485652
+
+8) child_b - 0.7814337015152033
+
+9) one_b - 0.7810234529695025
+
+10) time_b - 0.7677541236730901
+
+11) room_b - 0.7668436487726746
+
+12) cry_b - 0.7483729274050757
+
+13) everything_b - 0.7479763476834518
+
+14) year_b - 0.7451141476631218
+
+15) baby_b - 0.7424896648513871
+
+16) week_b - 0.7364148058644171
+
+Result for the vector: year, coming from part a of the book
+Rank: 4 out of 16 characters
+Cosine similarity to the co-referring vector: 0.7117572002555621
+
+1) week_b - 0.7609892176402602
+
+2) time_b - 0.731819212436676
+
+3) mother_b - 0.7135388255119324
+
+4) year_b - 0.7117572002555621
+
+5) boy_b - 0.706182879578048
+
+6) child_b - 0.7052553471770688
+
+7) girl_b - 0.7007104754447937
+
+8) one_b - 0.6963378994565579
+
+9) home_b - 0.6909638253141592
+
+10) man_b - 0.6857188309933955
+
+11) everything_b - 0.6645249724388123
+
+12) tree_b - 0.6538097858428955
+
+13) room_b - 0.6384669326822133
+
+14) baby_b - 0.625812567818915
+
+15) cry_b - 0.62415568540625
+
+16) knee_b - 0.5813290476799011
+
+Result for the vector: baby, coming from part a of the book
+Rank: 10 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8615770853505796
+
+1) mother_b - 0.9213606119155884
+
+2) boy_b - 0.9161753008470135
+
+3) child_b - 0.9137705019849256
+
+4) man_b - 0.9056623150714217
+
+5) girl_b - 0.9050341248512268
+
+6) one_b - 0.9035607845652341
+
+7) home_b - 0.8974584608512662
+
+8) everything_b - 0.876558780670166
+
+9) time_b - 0.8690797686576843
+
+10) baby_b - 0.8615770853505796
+
+11) tree_b - 0.855013906955719
+
+12) year_b - 0.8349674442429889
+
+13) cry_b - 0.8313014112351702
+
+14) room_b - 0.8270469204811421
+
+15) week_b - 0.817350588160689
+
+16) knee_b - 0.7790515422821045
+
+Result for the vector: week, coming from part a of the book
+Rank: 3 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8564060160750827
+
+1) time_b - 0.8959170250867915
+
+2) year_b - 0.8782542682214335
+
+3) week_b - 0.8564060160750827
+
+4) home_b - 0.8241332664569179
+
+5) man_b - 0.8235989773871217
+
+6) girl_b - 0.8189921027121578
+
+7) boy_b - 0.8131639492360312
+
+8) mother_b - 0.807055258961179
+
+9) tree_b - 0.8048393370163247
+
+10) one_b - 0.8016818047572258
+
+11) cry_b - 0.784167279228522
+
+12) child_b - 0.7797686225244844
+
+13) everything_b - 0.7656554211871455
+
+14) room_b - 0.7542727667933199
+
+15) baby_b - 0.7223274161512333
+
+16) knee_b - 0.6627683241000275
+
+Result for the vector: everything, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.914534618203005
+
+1) everything_b - 0.914534618203005
+
+2) mother_b - 0.8790864800317922
+
+3) one_b - 0.8783112881051468
+
+4) home_b - 0.8616892191304627
+
+5) boy_b - 0.855956469051208
+
+6) child_b - 0.8518462092784904
+
+7) girl_b - 0.8476301846063418
+
+8) man_b - 0.8475017042457418
+
+9) time_b - 0.8368732138721066
+
+10) baby_b - 0.8186607036579928
+
+11) year_b - 0.7954819676567424
+
+12) tree_b - 0.795222496416872
+
+13) cry_b - 0.7791631817817909
+
+14) room_b - 0.7737266612756256
+
+15) week_b - 0.760662734508536
+
+16) knee_b - 0.7307704366171932
+
+Result for the vector: boy, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9817457784262781
+
+1) boy_a - 0.9817457784262781
+
+2) child_a - 0.970155358314521
+
+3) mother_a - 0.9353627601049835
+
+4) man_a - 0.9309860509046435
+
+5) one_a - 0.91910194386267
+
+6) tree_a - 0.9168987224637717
+
+7) baby_a - 0.9161753008470135
+
+8) girl_a - 0.9138068505410479
+
+9) home_a - 0.8861231736018181
+
+10) time_a - 0.8758249469838993
+
+11) room_a - 0.8671993792533323
+
+12) everything_a - 0.855956469051208
+
+13) cry_a - 0.8302003145217954
+
+14) week_a - 0.8131639492360312
+
+15) knee_a - 0.7905179608485652
+
+16) year_a - 0.706182879578048
+
+Result for the vector: time, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9780863814975738
+
+1) time_a - 0.9780863814975738
+
+2) boy_a - 0.9040895700454712
+
+3) mother_a - 0.9008915542493462
+
+4) week_a - 0.8959170250867915
+
+5) one_a - 0.8928060467723652
+
+6) tree_a - 0.8789598941802979
+
+7) girl_a - 0.874579668045044
+
+8) home_a - 0.8719097375869751
+
+9) child_a - 0.8705349045673085
+
+10) baby_a - 0.8690797686576843
+
+11) man_a - 0.8686844267029316
+
+12) room_a - 0.8666750450931506
+
+13) everything_a - 0.8368732138721066
+
+14) cry_a - 0.8362547852841162
+
+15) knee_a - 0.7677541236730901
+
+16) year_a - 0.731819212436676
+
+Result for the vector: mother, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9788979317071589
+
+1) mother_a - 0.9788979317071589
+
+2) boy_a - 0.9433752298355103
+
+3) child_a - 0.9376434124920735
+
+4) man_a - 0.9276124921307043
+
+5) girl_a - 0.9234856963157654
+
+6) baby_a - 0.9213606119155884
+
+7) one_a - 0.9196429800774459
+
+8) tree_a - 0.8979625105857849
+
+9) home_a - 0.8924673199653625
+
+10) everything_a - 0.8790864800317922
+
+11) time_a - 0.8716647884745836
+
+12) room_a - 0.8487319007137988
+
+13) cry_a - 0.846270749195175
+
+14) knee_a - 0.8253177300284955
+
+15) week_a - 0.807055258961179
+
+16) year_a - 0.7135388255119324
+
+Result for the vector: child, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9799020314333401
+
+1) child_a - 0.9799020314333401
+
+2) boy_a - 0.9679078478868115
+
+3) mother_a - 0.9182753709062287
+
+4) man_a - 0.9149710092000365
+
+5) baby_a - 0.9137705019849256
+
+6) one_a - 0.8992830514907901
+
+7) tree_a - 0.8958540620890835
+
+8) home_a - 0.887057132300311
+
+9) girl_a - 0.8843810627233364
+
+10) everything_a - 0.8518462092784904
+
+11) time_a - 0.8457541809751371
+
+12) room_a - 0.8378951895864285
+
+13) cry_a - 0.7981917502651512
+
+14) knee_a - 0.7814337015152033
+
+15) week_a - 0.7797686225244844
+
+16) year_a - 0.7052553471770688
+
+Result for the vector: man, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.978251225277418
+
+1) man_a - 0.978251225277418
+
+2) boy_a - 0.9566302973097184
+
+3) mother_a - 0.9484959994268436
+
+4) girl_a - 0.9464594817532187
+
+5) one_a - 0.9220120403752541
+
+6) child_a - 0.9160052738177189
+
+7) baby_a - 0.9056623150714217
+
+8) tree_a - 0.899292427427945
+
+9) home_a - 0.874152206036068
+
+10) time_a - 0.8739138731488965
+
+11) room_a - 0.8558887756036743
+
+12) everything_a - 0.8475017042457418
+
+13) cry_a - 0.833091418006088
+
+14) week_a - 0.8235989773871217
+
+15) knee_a - 0.7941605694102788
+
+16) year_a - 0.6857188309933955
+
+Result for the vector: tree, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9439151287078857
+
+1) tree_a - 0.9439151287078857
+
+2) room_a - 0.9251750983350012
+
+3) home_a - 0.9009949564933777
+
+4) boy_a - 0.8871849775314331
+
+5) mother_a - 0.8755586891700462
+
+6) child_a - 0.8706505375712805
+
+7) one_a - 0.8567185912560592
+
+8) girl_a - 0.8550651669502258
+
+9) baby_a - 0.855013906955719
+
+10) time_a - 0.8493536367819801
+
+11) man_a - 0.8437575288108017
+
+12) knee_a - 0.8337885042302924
+
+13) week_a - 0.8048393370163247
+
+14) cry_a - 0.8024495957821863
+
+15) everything_a - 0.795222496416872
+
+16) year_a - 0.6538097858428955
+
+Result for the vector: one, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9794242065630148
+
+1) one_a - 0.9794242065630148
+
+2) boy_a - 0.9312263408668743
+
+3) mother_a - 0.9183494223639987
+
+4) man_a - 0.9090963385317123
+
+5) child_a - 0.9064421383606787
+
+6) baby_a - 0.9035607845652341
+
+7) girl_a - 0.8955534963474724
+
+8) tree_a - 0.8924384979140315
+
+9) time_a - 0.8852838209440601
+
+10) home_a - 0.8784895801094054
+
+11) everything_a - 0.8783112881051468
+
+12) room_a - 0.8490380554817948
+
+13) cry_a - 0.8347471703664345
+
+14) week_a - 0.8016818047572258
+
+15) knee_a - 0.7810234529695025
+
+16) year_a - 0.6963378994565579
+
+Result for the vector: room, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9573458096992208
+
+1) room_a - 0.9573458096992208
+
+2) home_a - 0.8803629207827417
+
+3) tree_a - 0.873091153686713
+
+4) boy_a - 0.8407816195953872
+
+5) child_a - 0.8379583358764708
+
+6) baby_a - 0.8270469204811421
+
+7) mother_a - 0.8264060123916989
+
+8) time_a - 0.8250178836302061
+
+9) one_a - 0.8143208401585627
+
+10) girl_a - 0.7939021464527947
+
+11) man_a - 0.7814734112338304
+
+12) everything_a - 0.7737266612756256
+
+13) knee_a - 0.7668436487726746
+
+14) week_a - 0.7542727667933199
+
+15) cry_a - 0.740785062313085
+
+16) year_a - 0.6384669326822133
+
+Result for the vector: home, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9527604267823827
+
+1) home_a - 0.9527604267823827
+
+2) tree_a - 0.928758827708925
+
+3) boy_a - 0.9280483999266748
+
+4) room_a - 0.920910949761328
+
+5) mother_a - 0.9155643955858693
+
+6) one_a - 0.9081591583632674
+
+7) child_a - 0.9048860399459029
+
+8) baby_a - 0.8974584608512662
+
+9) time_a - 0.8889983826278676
+
+10) girl_a - 0.8866290118285723
+
+11) man_a - 0.8780326058239493
+
+12) everything_a - 0.8616892191304627
+
+13) cry_a - 0.8408999192446528
+
+14) week_a - 0.8241332664569179
+
+15) knee_a - 0.8165769711056627
+
+16) year_a - 0.6909638253141592
+
+Result for the vector: girl, coming from part b of the book
+Rank: 3 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9475389122962952
+
+1) boy_a - 0.9539799094200134
+
+2) mother_a - 0.9515128789528821
+
+3) girl_a - 0.9475389122962952
+
+4) child_a - 0.9311137836507705
+
+5) man_a - 0.9251089185346528
+
+6) one_a - 0.9139081784432057
+
+7) baby_a - 0.9050341248512268
+
+8) tree_a - 0.8988633751869202
+
+9) time_a - 0.8737809322411103
+
+10) home_a - 0.8733086585998535
+
+11) room_a - 0.8525343791405675
+
+12) everything_a - 0.8476301846063418
+
+13) cry_a - 0.8314634065947901
+
+14) week_a - 0.8189921027121578
+
+15) knee_a - 0.7913557762715697
+
+16) year_a - 0.7007104754447937
+
+Result for the vector: cry, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9203376316420515
+
+1) cry_a - 0.9203376316420515
+
+2) boy_a - 0.8603212403868211
+
+3) mother_a - 0.84177628951638
+
+4) tree_a - 0.8403634023233232
+
+5) time_a - 0.8335575312175666
+
+6) one_a - 0.8321548800376262
+
+7) baby_a - 0.8313014112351702
+
+8) man_a - 0.8222001618861766
+
+9) child_a - 0.818769904595036
+
+10) home_a - 0.8178696849501567
+
+11) girl_a - 0.8176700690186
+
+12) room_a - 0.7968888762394687
+
+13) week_a - 0.784167279228522
+
+14) everything_a - 0.7791631817817909
+
+15) knee_a - 0.7483729274050757
+
+16) year_a - 0.62415568540625
+
+Result for the vector: knee, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8961538014503615
+
+1) knee_a - 0.8961538014503615
+
+2) tree_a - 0.8309624195098877
+
+3) home_a - 0.7963616251945496
+
+4) boy_a - 0.7872233986854553
+
+5) child_a - 0.7837223539517921
+
+6) baby_a - 0.7790515422821045
+
+7) mother_a - 0.7689883388294825
+
+8) room_a - 0.7685218682444656
+
+9) one_a - 0.7670087079410989
+
+10) man_a - 0.7657819073460267
+
+11) time_a - 0.7494752630435012
+
+12) girl_a - 0.7372556924819946
+
+13) everything_a - 0.7307704366171932
+
+14) cry_a - 0.7232787177992644
+
+15) week_a - 0.6627683241000275
+
+16) year_a - 0.5813290476799011
+
+Result for the vector: year, coming from part b of the book
+Rank: 16 out of 16 characters
+Cosine similarity to the co-referring vector: 0.7117572002555621
+
+1) time_a - 0.8989479273871241
+
+2) mother_a - 0.8956521340038552
+
+3) week_a - 0.8782542682214335
+
+4) boy_a - 0.8749432042274965
+
+5) girl_a - 0.8722952680411791
+
+6) one_a - 0.87176942825318
+
+7) tree_a - 0.8544821229885758
+
+8) child_a - 0.8520622429773518
+
+9) home_a - 0.8475291819853094
+
+10) room_a - 0.8377305019578222
+
+11) baby_a - 0.8349674442429889
+
+12) man_a - 0.8168354957993946
+
+13) everything_a - 0.7954819676567424
+
+14) cry_a - 0.7921663770477322
+
+15) knee_a - 0.7451141476631218
+
+16) year_a - 0.7117572002555621
+
+Result for the vector: baby, coming from part b of the book
+Rank: 6 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8615770853505796
+
+1) mother_a - 0.9136836580226771
+
+2) girl_a - 0.8926458890823076
+
+3) boy_a - 0.8839589884256729
+
+4) man_a - 0.8820420573924886
+
+5) one_a - 0.8721806850648743
+
+6) baby_a - 0.8615770853505796
+
+7) child_a - 0.8539927601814331
+
+8) everything_a - 0.8186607036579928
+
+9) tree_a - 0.8182787786888363
+
+10) home_a - 0.8100982195197489
+
+11) time_a - 0.7927215808083043
+
+12) cry_a - 0.7867355942726191
+
+13) room_a - 0.7858174549774044
+
+14) knee_a - 0.7424896648513871
+
+15) week_a - 0.7223274161512333
+
+16) year_a - 0.625812567818915
+
+Result for the vector: week, coming from part b of the book
+Rank: 3 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8564060160750827
+
+1) mother_a - 0.8654614411684415
+
+2) time_a - 0.8653107107898054
+
+3) week_a - 0.8564060160750827
+
+4) girl_a - 0.8424784728910419
+
+5) boy_a - 0.8307632409616481
+
+6) home_a - 0.8258303015434442
+
+7) one_a - 0.8250810012173188
+
+8) child_a - 0.817674431024595
+
+9) baby_a - 0.817350588160689
+
+10) tree_a - 0.8150103908764907
+
+11) man_a - 0.7955066453202616
+
+12) room_a - 0.7934206610840056
+
+13) cry_a - 0.7662718713989501
+
+14) year_a - 0.7609892176402602
+
+15) everything_a - 0.760662734508536
+
+16) knee_a - 0.7364148058644171
+
+Result for the vector: everything, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.914534618203005
+
+1) everything_a - 0.914534618203005
+
+2) baby_a - 0.876558780670166
+
+3) one_a - 0.8760943338927245
+
+4) mother_a - 0.8732552083426528
+
+5) boy_a - 0.8667064309120178
+
+6) time_a - 0.8587390440326648
+
+7) child_a - 0.8508609622203746
+
+8) tree_a - 0.8449738025665283
+
+9) home_a - 0.8446410298347473
+
+10) girl_a - 0.8406358957290649
+
+11) man_a - 0.8261987178088822
+
+12) cry_a - 0.8129078261311172
+
+13) room_a - 0.8125267867006898
+
+14) week_a - 0.7656554211871455
+
+15) knee_a - 0.7479763476834518
+
+16) year_a - 0.6645249724388123
+

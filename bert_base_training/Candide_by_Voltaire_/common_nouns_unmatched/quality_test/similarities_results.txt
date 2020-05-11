@@ -1,0 +1,252 @@
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9311931133270264
+
+1) man_a - 0.9311931133270264
+
+2) woman_a - 0.8763056993484497
+
+3) thing_a - 0.8643678861102984
+
+4) day_a - 0.8427732178243199
+
+5) world_a - 0.8401705026626587
+
+6) country_a - 0.8378474019674913
+
+7) time_a - 0.8368812106180927
+
+Result for the vector: woman, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9350408276939902
+
+1) woman_a - 0.9350408276939902
+
+2) man_a - 0.9242750957176162
+
+3) country_a - 0.8395254420668413
+
+4) time_a - 0.8350000184774421
+
+5) world_a - 0.8319702644330436
+
+6) day_a - 0.82331390241899
+
+7) thing_a - 0.8202788508437023
+
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.888096405494648
+
+1) day_a - 0.888096405494648
+
+2) time_a - 0.8678577463542088
+
+3) country_a - 0.8474401740694165
+
+4) world_a - 0.835759162902832
+
+5) man_a - 0.8263891935348511
+
+6) thing_a - 0.8247349053305333
+
+7) woman_a - 0.784806489944458
+
+Result for the vector: world, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9220818923662981
+
+1) world_a - 0.9220818923662981
+
+2) country_a - 0.890499830245978
+
+3) thing_a - 0.861694625717095
+
+4) time_a - 0.857546091079718
+
+5) man_a - 0.8297169906069657
+
+6) day_a - 0.8123740889357184
+
+7) woman_a - 0.795969438793098
+
+Result for the vector: country, coming from part i of the book
+Rank: 4 out of 7 characters
+Cosine similarity to the co-referring vector: 0.5888751675672982
+
+1) day_a - 0.6226251760758371
+
+2) world_a - 0.5959582506405788
+
+3) thing_a - 0.5918962645376147
+
+4) country_a - 0.5888751675672982
+
+5) time_a - 0.5874288607325134
+
+6) man_a - 0.5731401614290527
+
+7) woman_a - 0.5295884767052079
+
+Result for the vector: thing, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8424863282570766
+
+1) thing_a - 0.8424863282570766
+
+2) country_a - 0.8330943137193606
+
+3) world_a - 0.83243306971887
+
+4) time_a - 0.8317367582085814
+
+5) man_a - 0.7782982223718832
+
+6) day_a - 0.7538464587468179
+
+7) woman_a - 0.724246940739362
+
+Result for the vector: time, coming from part i of the book
+Rank: 2 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8592764139175476
+
+1) day_a - 0.8622634657150285
+
+2) time_a - 0.8592764139175476
+
+3) country_a - 0.8210217356681883
+
+4) thing_a - 0.813709247929422
+
+5) world_a - 0.8066631670794998
+
+6) man_a - 0.7814824115346439
+
+7) woman_a - 0.7385493076712318
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9311931133270264
+
+1) man_wiki - 0.9311931133270264
+
+2) woman_wiki - 0.9242750957176162
+
+3) world_wiki - 0.8297169906069657
+
+4) day_wiki - 0.8263891935348511
+
+5) time_wiki - 0.7814824115346439
+
+6) thing_wiki - 0.7782982223718832
+
+7) country_wiki - 0.5731401614290527
+
+Result for the vector: woman, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9350408276939902
+
+1) woman_wiki - 0.9350408276939902
+
+2) man_wiki - 0.8763056993484497
+
+3) world_wiki - 0.795969438793098
+
+4) day_wiki - 0.784806489944458
+
+5) time_wiki - 0.7385493076712318
+
+6) thing_wiki - 0.724246940739362
+
+7) country_wiki - 0.5295884767052079
+
+Result for the vector: day, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.888096405494648
+
+1) day_wiki - 0.888096405494648
+
+2) time_wiki - 0.8622634657150285
+
+3) man_wiki - 0.8427732178243199
+
+4) woman_wiki - 0.82331390241899
+
+5) world_wiki - 0.8123740889357184
+
+6) thing_wiki - 0.7538464587468179
+
+7) country_wiki - 0.6226251760758371
+
+Result for the vector: world, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9220818923662981
+
+1) world_wiki - 0.9220818923662981
+
+2) man_wiki - 0.8401705026626587
+
+3) day_wiki - 0.835759162902832
+
+4) thing_wiki - 0.83243306971887
+
+5) woman_wiki - 0.8319702644330436
+
+6) time_wiki - 0.8066631670794998
+
+7) country_wiki - 0.5959582506405788
+
+Result for the vector: country, coming from part a of the book
+Rank: 7 out of 7 characters
+Cosine similarity to the co-referring vector: 0.5888751675672982
+
+1) world_wiki - 0.890499830245978
+
+2) day_wiki - 0.8474401740694165
+
+3) woman_wiki - 0.8395254420668413
+
+4) man_wiki - 0.8378474019674913
+
+5) thing_wiki - 0.8330943137193606
+
+6) time_wiki - 0.8210217356681883
+
+7) country_wiki - 0.5888751675672982
+
+Result for the vector: thing, coming from part a of the book
+Rank: 3 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8424863282570766
+
+1) man_wiki - 0.8643678861102984
+
+2) world_wiki - 0.861694625717095
+
+3) thing_wiki - 0.8424863282570766
+
+4) day_wiki - 0.8247349053305333
+
+5) woman_wiki - 0.8202788508437023
+
+6) time_wiki - 0.813709247929422
+
+7) country_wiki - 0.5918962645376147
+
+Result for the vector: time, coming from part a of the book
+Rank: 2 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8592764139175476
+
+1) day_wiki - 0.8678577463542088
+
+2) time_wiki - 0.8592764139175476
+
+3) world_wiki - 0.857546091079718
+
+4) man_wiki - 0.8368812106180927
+
+5) woman_wiki - 0.8350000184774421
+
+6) thing_wiki - 0.8317367582085814
+
+7) country_wiki - 0.5874288607325134
+

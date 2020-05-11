@@ -1,0 +1,32 @@
+Result for the vector: woking, coming from part a of the book
+Rank: 1 out of 2 characters
+Cosine similarity to the co-referring vector: 0.9251352041798653
+
+1) woking_b - 0.9251352041798653
+
+2) maybury_hill_b - 0.7897354364395142
+
+Result for the vector: maybury_hill, coming from part a of the book
+Rank: 2 out of 2 characters
+Cosine similarity to the co-referring vector: 0.7610980272293091
+
+1) woking_b - 0.8969059709422686
+
+2) maybury_hill_b - 0.7610980272293091
+
+Result for the vector: woking, coming from part b of the book
+Rank: 1 out of 2 characters
+Cosine similarity to the co-referring vector: 0.9251352041798653
+
+1) woking_a - 0.9251352041798653
+
+2) maybury_hill_a - 0.8969059709422686
+
+Result for the vector: maybury_hill, coming from part b of the book
+Rank: 2 out of 2 characters
+Cosine similarity to the co-referring vector: 0.7610980272293091
+
+1) woking_a - 0.7897354364395142
+
+2) maybury_hill_a - 0.7610980272293091
+

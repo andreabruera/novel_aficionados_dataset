@@ -1,0 +1,9 @@
+Test: quality test
+Results for: Siddhartha_by_Hermann_Hesse_
+Model used: proper names matched
+
+Within-novel median: 2.0
+Within-novel average: 2.625
+Within-novel MRR: 0.5928571428571427
+Within-novel standard deviation of the scores: 1.964529205687714
+Amount of entities considered: 8.0

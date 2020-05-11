@@ -1,0 +1,13 @@
+224	man_men_Man
+147	moor
+101	sir
+92	time_times
+80	face_faces
+75	hand_hands
+65	way_ways
+22	voice_voices
+18	mark_marks
+18	power_powers
+13	stick
+11	occasion_occasions
+11	breakfast

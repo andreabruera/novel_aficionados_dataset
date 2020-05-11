@@ -1,0 +1,9 @@
+Test: quality test
+Results for: The_Hound_of_the_Baskervilles_by_Arthur_
+Model used: common nouns unmatched
+
+Within-novel median: 1.0
+Within-novel average: 2.111111111111111
+Within-novel MRR: 0.7894179894179894
+Within-novel standard deviation of the scores: 1.9969111950679366
+Amount of entities considered: 9.0

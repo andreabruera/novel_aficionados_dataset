@@ -1,0 +1,9 @@
+Test: quality test
+Results for: Alices_Adventures_in_Wonderland_by_Lewi
+Model used: common nouns unmatched
+
+Within-novel median: 1.0
+Within-novel average: 1.4
+Within-novel MRR: 0.875
+Within-novel standard deviation of the scores: 0.9165151389911679
+Amount of entities considered: 5.0

@@ -1,0 +1,5180 @@
+Result for the vector: mrs_joe_gargery, coming from part a of the book
+Rank: 4 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9644464254379272
+
+1) mr_pumblechook_b - 0.9756960868835449
+
+2) mr_wemmick_b - 0.9735172986984253
+
+3) herbert_pocket_b - 0.9730299711227417
+
+4) mrs_joe_gargery_b - 0.9644464254379272
+
+5) mr_jaggers_b - 0.9641494750976562
+
+6) biddy_b - 0.9593051671981812
+
+7) miss_estella_b - 0.9569074796708671
+
+8) mr_drummle_b - 0.956661102572747
+
+9) mr_matthew_pocket_b - 0.9565979242324829
+
+10) mr_wopsle_b - 0.9561842964942547
+
+11) startop_b - 0.9484855501941192
+
+12) miss_havisham_b - 0.9473773868455077
+
+13) old_orlick_b - 0.934168346623386
+
+14) mr_pip_b - 0.9274806337047018
+
+15) handel_b - 0.9115970678089318
+
+16) joseph_gargery_b - 0.9058944751213084
+
+17) mrs_pocket_b - 0.9027084112167358
+
+18) newgate_b - 0.9002759069451046
+
+19) mike_b - 0.8775607943534851
+
+20) bill_barley_b - 0.8736331462860107
+
+21) mr_trabb_b - 0.8732713611994614
+
+22) jack_b - 0.8725302815437317
+
+23) walworth_b - 0.8636214651835853
+
+24) richard_b - 0.8589289868516349
+
+25) mrs_camilla_b - 0.8498166799545288
+
+26) miss_sarah_pocket_b - 0.8488607316530202
+
+27) miss_georgiana_b - 0.8454577830706721
+
+28) mrs_bentley_drummle_b - 0.8087446917599864
+
+29) tom_b - 0.801327109336853
+
+30) miss_jane_b - 0.7971634506333907
+
+31) blue_boar_b - 0.7617300606805136
+
+32) barnard_b - 0.7455917445177893
+
+33) jolly_bargemen_b - 0.7455696534129698
+
+34) mrs_hubble_b - 0.7208585953968348
+
+35) flopson_b - 0.5676471590995789
+
+Result for the vector: herbert_pocket, coming from part a of the book
+Rank: 2 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9830105910890959
+
+1) mr_wemmick_b - 0.9847891935831806
+
+2) herbert_pocket_b - 0.9830105910890959
+
+3) mr_pumblechook_b - 0.9785913837795642
+
+4) mrs_joe_gargery_b - 0.9773392690813995
+
+5) mr_jaggers_b - 0.9772614254199626
+
+6) mr_drummle_b - 0.9686759114265511
+
+7) mr_wopsle_b - 0.9682594249171229
+
+8) mr_matthew_pocket_b - 0.9669849892267608
+
+9) biddy_b - 0.9660798927497944
+
+10) miss_estella_b - 0.9612823438262279
+
+11) startop_b - 0.9591577053070136
+
+12) miss_havisham_b - 0.9499679863491075
+
+13) old_orlick_b - 0.9495621413775447
+
+14) mr_pip_b - 0.9396796822547979
+
+15) joseph_gargery_b - 0.9287547042954739
+
+16) handel_b - 0.924445271492011
+
+17) newgate_b - 0.9195614135134743
+
+18) walworth_b - 0.8953239321708742
+
+19) mike_b - 0.8869947858455921
+
+20) jack_b - 0.8833355973162906
+
+21) bill_barley_b - 0.8820695351320798
+
+22) mr_trabb_b - 0.8811719034006784
+
+23) mrs_pocket_b - 0.8736841157863087
+
+24) richard_b - 0.8719402704310095
+
+25) miss_sarah_pocket_b - 0.855199158191687
+
+26) miss_georgiana_b - 0.852538824081427
+
+27) mrs_camilla_b - 0.8524374453760731
+
+28) mrs_bentley_drummle_b - 0.8267618131467452
+
+29) tom_b - 0.8207674729366631
+
+30) blue_boar_b - 0.7798976302146967
+
+31) miss_jane_b - 0.7790959841282403
+
+32) jolly_bargemen_b - 0.7695554724203276
+
+33) barnard_b - 0.766199648380285
+
+34) mrs_hubble_b - 0.7297724267908237
+
+35) flopson_b - 0.5975595356488516
+
+Result for the vector: miss_estella, coming from part a of the book
+Rank: 2 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9606765198909204
+
+1) biddy_b - 0.9676496982574463
+
+2) miss_estella_b - 0.9606765198909204
+
+3) herbert_pocket_b - 0.9586794376373291
+
+4) mr_wemmick_b - 0.9582874178886414
+
+5) mrs_joe_gargery_b - 0.9582776427268982
+
+6) miss_havisham_b - 0.9557341363588507
+
+7) mr_pumblechook_b - 0.9536824822425842
+
+8) mr_jaggers_b - 0.9517062902450562
+
+9) startop_b - 0.9495645731428028
+
+10) mr_drummle_b - 0.9402194583546809
+
+11) mr_matthew_pocket_b - 0.9398956298828125
+
+12) mr_wopsle_b - 0.9316244403011934
+
+13) old_orlick_b - 0.9286484803380459
+
+14) mrs_pocket_b - 0.9179368615150452
+
+15) mr_pip_b - 0.9166507671267268
+
+16) joseph_gargery_b - 0.9006558834333772
+
+17) handel_b - 0.9005339682420489
+
+18) newgate_b - 0.89955433305094
+
+19) bill_barley_b - 0.870307207107544
+
+20) walworth_b - 0.8675130526729273
+
+21) richard_b - 0.8651775798095731
+
+22) mike_b - 0.8631777167320251
+
+23) miss_sarah_pocket_b - 0.8623846687307771
+
+24) mr_trabb_b - 0.860758142380942
+
+25) mrs_camilla_b - 0.8602033853530884
+
+26) jack_b - 0.8589258193969727
+
+27) miss_georgiana_b - 0.8399780297266277
+
+28) mrs_bentley_drummle_b - 0.8062066666833617
+
+29) miss_jane_b - 0.7999801874154866
+
+30) tom_b - 0.791289746761322
+
+31) blue_boar_b - 0.7685245137527309
+
+32) jolly_bargemen_b - 0.7540322620301511
+
+33) mrs_hubble_b - 0.7534952388255373
+
+34) barnard_b - 0.7468330113192221
+
+35) flopson_b - 0.5688937306404114
+
+Result for the vector: mr_jaggers, coming from part a of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9820123314857483
+
+1) mr_jaggers_b - 0.9820123314857483
+
+2) mr_wemmick_b - 0.9818971753120422
+
+3) mr_pumblechook_b - 0.9791315197944641
+
+4) mr_drummle_b - 0.9788878547482421
+
+5) herbert_pocket_b - 0.9742454886436462
+
+6) miss_estella_b - 0.9645495106145598
+
+7) mr_wopsle_b - 0.9628867793943523
+
+8) mr_pip_b - 0.9624536611112171
+
+9) mrs_joe_gargery_b - 0.9616376161575317
+
+10) biddy_b - 0.9610720872879028
+
+11) old_orlick_b - 0.9541571194938346
+
+12) miss_havisham_b - 0.9485039741692576
+
+13) joseph_gargery_b - 0.9438133936262174
+
+14) mr_matthew_pocket_b - 0.9435261487960815
+
+15) handel_b - 0.939390178882492
+
+16) startop_b - 0.9380157552966942
+
+17) newgate_b - 0.923086487330782
+
+18) mike_b - 0.9030627608299255
+
+19) walworth_b - 0.9026281775610568
+
+20) mr_trabb_b - 0.8925602564143892
+
+21) jack_b - 0.8888362646102905
+
+22) bill_barley_b - 0.8813862204551697
+
+23) miss_georgiana_b - 0.874397329950175
+
+24) mrs_camilla_b - 0.8479291796684265
+
+25) richard_b - 0.8478541464892554
+
+26) miss_sarah_pocket_b - 0.8470262793914262
+
+27) mrs_bentley_drummle_b - 0.8456160014133511
+
+28) tom_b - 0.8419160842895508
+
+29) mrs_pocket_b - 0.8298077583312988
+
+30) blue_boar_b - 0.7774481044678764
+
+31) barnard_b - 0.7709828478683752
+
+32) jolly_bargemen_b - 0.7669056743597128
+
+33) miss_jane_b - 0.7641604770469811
+
+34) mrs_hubble_b - 0.6939435808045742
+
+35) flopson_b - 0.5810173749923706
+
+Result for the vector: mr_wemmick, coming from part a of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9839065690152037
+
+1) mr_wemmick_b - 0.9839065690152037
+
+2) mr_jaggers_b - 0.9834668059984747
+
+3) herbert_pocket_b - 0.9799824976942015
+
+4) mr_drummle_b - 0.9793409121429533
+
+5) mr_pumblechook_b - 0.9774884012355396
+
+6) mr_pip_b - 0.9633794448745736
+
+7) mrs_joe_gargery_b - 0.9610554622345681
+
+8) mr_wopsle_b - 0.9589653349847899
+
+9) biddy_b - 0.958615546391548
+
+10) miss_estella_b - 0.9569077828311029
+
+11) old_orlick_b - 0.950058710561106
+
+12) mr_matthew_pocket_b - 0.9488997520327931
+
+13) joseph_gargery_b - 0.9419696503968106
+
+14) startop_b - 0.9369905628567748
+
+15) miss_havisham_b - 0.936691951151143
+
+16) handel_b - 0.9362664260705605
+
+17) newgate_b - 0.908279630295069
+
+18) walworth_b - 0.8891878194101106
+
+19) jack_b - 0.8816505811631049
+
+20) mike_b - 0.8804509186207216
+
+21) bill_barley_b - 0.876350655990767
+
+22) mr_trabb_b - 0.873767763670024
+
+23) miss_georgiana_b - 0.8544278827650753
+
+24) richard_b - 0.8487527640904029
+
+25) miss_sarah_pocket_b - 0.8403925990824477
+
+26) mrs_camilla_b - 0.8367598251390725
+
+27) mrs_pocket_b - 0.834690054095983
+
+28) tom_b - 0.8218744609505639
+
+29) mrs_bentley_drummle_b - 0.8207174967008837
+
+30) blue_boar_b - 0.7684908647244776
+
+31) miss_jane_b - 0.7627319607676387
+
+32) jolly_bargemen_b - 0.7588090670463886
+
+33) barnard_b - 0.7471954377177217
+
+34) mrs_hubble_b - 0.6905890085766683
+
+35) flopson_b - 0.5789405609440176
+
+Result for the vector: biddy, coming from part a of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9664693762799916
+
+1) biddy_b - 0.9664693762799916
+
+2) miss_estella_b - 0.9644389131330796
+
+3) miss_havisham_b - 0.9564124060746348
+
+4) herbert_pocket_b - 0.9505564257668387
+
+5) mr_pumblechook_b - 0.9428954405455426
+
+6) mr_wemmick_b - 0.9399699252834898
+
+7) mrs_joe_gargery_b - 0.9386759680114979
+
+8) mr_jaggers_b - 0.9362596552449366
+
+9) mr_drummle_b - 0.9266838663831833
+
+10) mr_matthew_pocket_b - 0.9239715613118283
+
+11) startop_b - 0.923896335711748
+
+12) mrs_pocket_b - 0.9221548116849311
+
+13) mr_pip_b - 0.91542419035055
+
+14) mr_wopsle_b - 0.9147439548220607
+
+15) old_orlick_b - 0.9058937812542616
+
+16) handel_b - 0.9012583107881231
+
+17) joseph_gargery_b - 0.8886558877444628
+
+18) newgate_b - 0.8771835419158405
+
+19) mike_b - 0.855617250669517
+
+20) walworth_b - 0.852217810054226
+
+21) miss_sarah_pocket_b - 0.8493618532444708
+
+22) mrs_camilla_b - 0.846041466177746
+
+23) bill_barley_b - 0.8451613439667629
+
+24) jack_b - 0.8397037637145452
+
+25) mr_trabb_b - 0.8345661609262773
+
+26) miss_georgiana_b - 0.833699360522571
+
+27) richard_b - 0.8315176119948179
+
+28) miss_jane_b - 0.78844838073542
+
+29) mrs_bentley_drummle_b - 0.7856170428737749
+
+30) tom_b - 0.7772338025937621
+
+31) blue_boar_b - 0.7570169052794793
+
+32) jolly_bargemen_b - 0.7426060727365117
+
+33) mrs_hubble_b - 0.7352775177524995
+
+34) barnard_b - 0.7320657430946005
+
+35) flopson_b - 0.5464458628429733
+
+Result for the vector: mr_pip, coming from part a of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.966665621598437
+
+1) mr_pip_b - 0.966665621598437
+
+2) joseph_gargery_b - 0.9570414475153424
+
+3) mr_drummle_b - 0.9567469306882537
+
+4) handel_b - 0.9481503305614388
+
+5) biddy_b - 0.9337328632910783
+
+6) old_orlick_b - 0.9329561035063354
+
+7) miss_estella_b - 0.9316532252716926
+
+8) mrs_joe_gargery_b - 0.9312833506633865
+
+9) mr_jaggers_b - 0.9258362606666259
+
+10) herbert_pocket_b - 0.9221136523552942
+
+11) mr_pumblechook_b - 0.9212102247005851
+
+12) miss_havisham_b - 0.9197846055030888
+
+13) mr_wemmick_b - 0.9196909022147017
+
+14) walworth_b - 0.8892067538746302
+
+15) mr_matthew_pocket_b - 0.8816342283269318
+
+16) startop_b - 0.8806266046317345
+
+17) mr_wopsle_b - 0.8800344657928768
+
+18) jack_b - 0.8630824603487542
+
+19) newgate_b - 0.8593810885222392
+
+20) miss_georgiana_b - 0.8584071825036028
+
+21) bill_barley_b - 0.8541396173321988
+
+22) mike_b - 0.8536837013771371
+
+23) mrs_bentley_drummle_b - 0.8482661337693985
+
+24) tom_b - 0.8400117659575814
+
+25) mr_trabb_b - 0.8360861637541092
+
+26) miss_sarah_pocket_b - 0.835713724579063
+
+27) mrs_camilla_b - 0.8254116669542606
+
+28) richard_b - 0.8085132241249142
+
+29) mrs_pocket_b - 0.7634952523407504
+
+30) blue_boar_b - 0.7456876332387486
+
+31) jolly_bargemen_b - 0.7410029084984825
+
+32) miss_jane_b - 0.7332744061894187
+
+33) barnard_b - 0.7048241740255563
+
+34) flopson_b - 0.6757311031658126
+
+35) mrs_hubble_b - 0.6547406305140824
+
+Result for the vector: miss_havisham, coming from part a of the book
+Rank: 3 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9680929260032423
+
+1) miss_estella_b - 0.9739400485247514
+
+2) biddy_b - 0.9689752515002791
+
+3) miss_havisham_b - 0.9680929260032423
+
+4) mrs_joe_gargery_b - 0.9668515979913155
+
+5) mr_wemmick_b - 0.9628664917588701
+
+6) mr_pumblechook_b - 0.9610300133770834
+
+7) mr_jaggers_b - 0.9592862798059831
+
+8) herbert_pocket_b - 0.9589701368266252
+
+9) mr_drummle_b - 0.9561966709856459
+
+10) old_orlick_b - 0.9464802901505576
+
+11) mr_matthew_pocket_b - 0.9403935181391059
+
+12) mr_wopsle_b - 0.9397672802556838
+
+13) mr_pip_b - 0.9356890993489174
+
+14) newgate_b - 0.9341869115066646
+
+15) joseph_gargery_b - 0.9329973102817618
+
+16) startop_b - 0.9308756672292416
+
+17) handel_b - 0.9195830917855653
+
+18) walworth_b - 0.9060881845846214
+
+19) mr_trabb_b - 0.8878251052424013
+
+20) mike_b - 0.8810207460485696
+
+21) bill_barley_b - 0.8778788069703468
+
+22) mrs_pocket_b - 0.8772040825121395
+
+23) mrs_camilla_b - 0.8639075999425311
+
+24) jack_b - 0.8621905692475154
+
+25) miss_georgiana_b - 0.8602000641584564
+
+26) richard_b - 0.8511840459861706
+
+27) miss_sarah_pocket_b - 0.8505402385544735
+
+28) mrs_bentley_drummle_b - 0.8286012325879253
+
+29) tom_b - 0.8228574711935405
+
+30) barnard_b - 0.8034455414479554
+
+31) blue_boar_b - 0.7987791539694115
+
+32) miss_jane_b - 0.7850481294023969
+
+33) jolly_bargemen_b - 0.7719102407774392
+
+34) mrs_hubble_b - 0.7157548791535534
+
+35) flopson_b - 0.5982504013329122
+
+Result for the vector: mr_pumblechook, coming from part a of the book
+Rank: 2 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9599320888519287
+
+1) mr_wemmick_b - 0.9625552892684937
+
+2) mr_pumblechook_b - 0.9599320888519287
+
+3) mrs_joe_gargery_b - 0.9583287835121155
+
+4) mr_jaggers_b - 0.9541640281677246
+
+5) herbert_pocket_b - 0.9530044198036194
+
+6) mr_wopsle_b - 0.9486149236147087
+
+7) mr_drummle_b - 0.9459939566847076
+
+8) mr_matthew_pocket_b - 0.9447357058525085
+
+9) startop_b - 0.9382774197028546
+
+10) biddy_b - 0.9374678134918213
+
+11) old_orlick_b - 0.9274618712113123
+
+12) miss_estella_b - 0.923084286543259
+
+13) mr_pip_b - 0.9223564816925829
+
+14) miss_havisham_b - 0.9169114281587958
+
+15) handel_b - 0.91465740887269
+
+16) joseph_gargery_b - 0.9096771640162916
+
+17) newgate_b - 0.895024975689502
+
+18) bill_barley_b - 0.8885537385940552
+
+19) jack_b - 0.8881033658981323
+
+20) mike_b - 0.8806687593460083
+
+21) mr_trabb_b - 0.8795332456191548
+
+22) walworth_b - 0.8704669994394199
+
+23) richard_b - 0.8621778570307593
+
+24) miss_georgiana_b - 0.8483433633055323
+
+25) miss_sarah_pocket_b - 0.8465900925749611
+
+26) mrs_pocket_b - 0.8429561853408813
+
+27) mrs_camilla_b - 0.8357051014900208
+
+28) mrs_bentley_drummle_b - 0.8335099418747554
+
+29) tom_b - 0.8203977346420288
+
+30) miss_jane_b - 0.7993350267212105
+
+31) blue_boar_b - 0.7557685825686815
+
+32) barnard_b - 0.7443651404598453
+
+33) jolly_bargemen_b - 0.7407000727087354
+
+34) mrs_hubble_b - 0.7266890027132337
+
+35) flopson_b - 0.5781072378158569
+
+Result for the vector: mr_wopsle, coming from part a of the book
+Rank: 3 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9664704491636296
+
+1) mr_pumblechook_b - 0.97116619348526
+
+2) mr_wemmick_b - 0.9701418280601501
+
+3) mr_wopsle_b - 0.9664704491636296
+
+4) herbert_pocket_b - 0.9648776650428772
+
+5) mrs_joe_gargery_b - 0.9644830226898193
+
+6) mr_jaggers_b - 0.9637299180030823
+
+7) mr_drummle_b - 0.9636957027730781
+
+8) biddy_b - 0.9592971801757812
+
+9) miss_estella_b - 0.955873637076427
+
+10) mr_matthew_pocket_b - 0.955819308757782
+
+11) miss_havisham_b - 0.9536030320165751
+
+12) startop_b - 0.9510129064925275
+
+13) old_orlick_b - 0.9455842440624014
+
+14) mr_pip_b - 0.9406606519616055
+
+15) handel_b - 0.925611729956374
+
+16) joseph_gargery_b - 0.9247104660194426
+
+17) newgate_b - 0.9176023826839707
+
+18) mike_b - 0.9149051308631897
+
+19) mr_trabb_b - 0.9068216792557686
+
+20) walworth_b - 0.8965291319208836
+
+21) bill_barley_b - 0.8840190768241882
+
+22) jack_b - 0.8814907670021057
+
+23) miss_georgiana_b - 0.8793936299916301
+
+24) miss_sarah_pocket_b - 0.8651952067133923
+
+25) mrs_pocket_b - 0.8618795871734619
+
+26) richard_b - 0.860461720200676
+
+27) mrs_bentley_drummle_b - 0.8568149379712479
+
+28) tom_b - 0.8498345017433167
+
+29) mrs_camilla_b - 0.8464274406433105
+
+30) blue_boar_b - 0.7770585284864039
+
+31) barnard_b - 0.7770471439985732
+
+32) miss_jane_b - 0.7760935657052271
+
+33) jolly_bargemen_b - 0.7663204163003371
+
+34) mrs_hubble_b - 0.7189390873592824
+
+35) flopson_b - 0.5914467573165894
+
+Result for the vector: mr_matthew_pocket, coming from part a of the book
+Rank: 6 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9707565000878726
+
+1) mr_wemmick_b - 0.9791263037659621
+
+2) herbert_pocket_b - 0.9770806126916596
+
+3) mrs_joe_gargery_b - 0.9748941354422018
+
+4) mr_pumblechook_b - 0.9746920160857449
+
+5) mr_jaggers_b - 0.9729800514274856
+
+6) mr_matthew_pocket_b - 0.9707565000878726
+
+7) mr_wopsle_b - 0.9672771672771673
+
+8) biddy_b - 0.9653179933225515
+
+9) mr_drummle_b - 0.960177805439634
+
+10) startop_b - 0.9592029713871756
+
+11) miss_estella_b - 0.9558285448448983
+
+12) miss_havisham_b - 0.9504438355432836
+
+13) old_orlick_b - 0.9442317833693326
+
+14) mr_pip_b - 0.9423616178955099
+
+15) handel_b - 0.9353583695314861
+
+16) joseph_gargery_b - 0.9219298181042547
+
+17) newgate_b - 0.9213934447042297
+
+18) mike_b - 0.9002391368221984
+
+19) mr_trabb_b - 0.895246842928523
+
+20) bill_barley_b - 0.8944064645292306
+
+21) walworth_b - 0.8892343839318504
+
+22) jack_b - 0.8848198915964337
+
+23) mrs_pocket_b - 0.8818753028474843
+
+24) miss_sarah_pocket_b - 0.868896681269707
+
+25) richard_b - 0.8680047134159625
+
+26) miss_georgiana_b - 0.8677534044760533
+
+27) mrs_camilla_b - 0.8554517881706893
+
+28) mrs_bentley_drummle_b - 0.8443289240304691
+
+29) tom_b - 0.8307761797540245
+
+30) miss_jane_b - 0.8028160812149097
+
+31) blue_boar_b - 0.7820932968342275
+
+32) barnard_b - 0.7702854964392335
+
+33) jolly_bargemen_b - 0.7691620313122324
+
+34) mrs_hubble_b - 0.7344218334211012
+
+35) flopson_b - 0.5729111603770008
+
+Result for the vector: old_orlick, coming from part a of the book
+Rank: 7 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9627079102956244
+
+1) mr_drummle_b - 0.978900520107197
+
+2) mr_pumblechook_b - 0.9746761612497621
+
+3) mr_wemmick_b - 0.9720705441257524
+
+4) mrs_joe_gargery_b - 0.9707716992727433
+
+5) mr_jaggers_b - 0.9706571391420709
+
+6) herbert_pocket_b - 0.9688355019341564
+
+7) old_orlick_b - 0.9627079102956244
+
+8) miss_estella_b - 0.9601490473836093
+
+9) biddy_b - 0.9581095265778762
+
+10) mr_pip_b - 0.9537984985529038
+
+11) mr_wopsle_b - 0.9532514782697844
+
+12) miss_havisham_b - 0.9504341795911178
+
+13) joseph_gargery_b - 0.9486641066277075
+
+14) mr_matthew_pocket_b - 0.9471137209866564
+
+15) startop_b - 0.9407505042031862
+
+16) handel_b - 0.9332420468248771
+
+17) newgate_b - 0.9089760075778986
+
+18) walworth_b - 0.908752343841107
+
+19) jack_b - 0.8913123873267293
+
+20) mike_b - 0.8907679584851257
+
+21) bill_barley_b - 0.8884117272022886
+
+22) mr_trabb_b - 0.8775951673750527
+
+23) miss_georgiana_b - 0.8624326761751784
+
+24) richard_b - 0.8600615602713393
+
+25) miss_sarah_pocket_b - 0.8433868446993991
+
+26) mrs_camilla_b - 0.8377055775435445
+
+27) mrs_bentley_drummle_b - 0.8364139047491133
+
+28) mrs_pocket_b - 0.8354815493667591
+
+29) tom_b - 0.833722616247017
+
+30) blue_boar_b - 0.7908172122374668
+
+31) jolly_bargemen_b - 0.7710689629398554
+
+32) miss_jane_b - 0.7632470585851108
+
+33) barnard_b - 0.7558681448580159
+
+34) mrs_hubble_b - 0.6923091824239005
+
+35) flopson_b - 0.649794538312988
+
+Result for the vector: mr_drummle, coming from part a of the book
+Rank: 9 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9582066746785298
+
+1) mr_wemmick_b - 0.9732328315426266
+
+2) mr_pumblechook_b - 0.9723477620404712
+
+3) mr_jaggers_b - 0.9698442473775625
+
+4) herbert_pocket_b - 0.9682945859871295
+
+5) mr_wopsle_b - 0.9681805911387139
+
+6) mr_matthew_pocket_b - 0.9651643283910156
+
+7) mrs_joe_gargery_b - 0.9622117522674537
+
+8) startop_b - 0.962202868921167
+
+9) mr_drummle_b - 0.9582066746785298
+
+10) biddy_b - 0.9580524799306022
+
+11) miss_estella_b - 0.9476773049254434
+
+12) mr_pip_b - 0.9374904204140028
+
+13) old_orlick_b - 0.9361570160436078
+
+14) miss_havisham_b - 0.9349666477710196
+
+15) handel_b - 0.9274917987717007
+
+16) joseph_gargery_b - 0.9222469054983484
+
+17) newgate_b - 0.9207949449527149
+
+18) mike_b - 0.9077152174286969
+
+19) bill_barley_b - 0.8963472986738928
+
+20) jack_b - 0.8946681759757165
+
+21) walworth_b - 0.891784377172314
+
+22) mr_trabb_b - 0.8889766600423376
+
+23) richard_b - 0.8692578258447085
+
+24) mrs_pocket_b - 0.8637881374043527
+
+25) miss_georgiana_b - 0.8634850396035729
+
+26) mrs_camilla_b - 0.8570723618674913
+
+27) miss_sarah_pocket_b - 0.8512227522897535
+
+28) mrs_bentley_drummle_b - 0.8489569678592084
+
+29) tom_b - 0.8245287574125556
+
+30) miss_jane_b - 0.7905830366461994
+
+31) blue_boar_b - 0.7849055377941987
+
+32) jolly_bargemen_b - 0.7704746771990497
+
+33) barnard_b - 0.7684787922904387
+
+34) mrs_hubble_b - 0.7196366881674617
+
+35) flopson_b - 0.552160822177062
+
+Result for the vector: handel, coming from part a of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.951766905293878
+
+1) handel_b - 0.951766905293878
+
+2) herbert_pocket_b - 0.9484994411468506
+
+3) mr_pip_b - 0.943850752344774
+
+4) mr_jaggers_b - 0.9390705823898315
+
+5) mr_wemmick_b - 0.9369022846221924
+
+6) biddy_b - 0.9368718266487122
+
+7) mr_pumblechook_b - 0.9321600198745728
+
+8) mr_drummle_b - 0.9299437361922124
+
+9) mrs_joe_gargery_b - 0.9270035624504089
+
+10) miss_estella_b - 0.9203031337351545
+
+11) mr_wopsle_b - 0.916548756258153
+
+12) mr_matthew_pocket_b - 0.9133272171020508
+
+13) startop_b - 0.9099470323292649
+
+14) joseph_gargery_b - 0.9082271620821212
+
+15) miss_havisham_b - 0.9003410994803266
+
+16) old_orlick_b - 0.8899557125621248
+
+17) mike_b - 0.873699426651001
+
+18) bill_barley_b - 0.8699238300323486
+
+19) newgate_b - 0.8690473022205241
+
+20) jack_b - 0.8658324480056763
+
+21) walworth_b - 0.8526710184020426
+
+22) miss_georgiana_b - 0.8514022142530823
+
+23) miss_sarah_pocket_b - 0.8410289788859489
+
+24) mr_trabb_b - 0.8337112863408045
+
+25) mrs_bentley_drummle_b - 0.8268474546852821
+
+26) richard_b - 0.8157519807963397
+
+27) mrs_camilla_b - 0.8147878646850586
+
+28) mrs_pocket_b - 0.8098297119140625
+
+29) tom_b - 0.8040332198143005
+
+30) jolly_bargemen_b - 0.7674036116066855
+
+31) miss_jane_b - 0.7604344117770917
+
+32) blue_boar_b - 0.7539344283303291
+
+33) barnard_b - 0.7136854358724032
+
+34) mrs_hubble_b - 0.6954804270112644
+
+35) flopson_b - 0.5230620503425598
+
+Result for the vector: mr_trabb, coming from part a of the book
+Rank: 13 out of 35 characters
+Cosine similarity to the co-referring vector: 0.921590484238532
+
+1) mr_wemmick_b - 0.9718355230043989
+
+2) mr_pumblechook_b - 0.9701621225524586
+
+3) mr_jaggers_b - 0.9658840586508535
+
+4) herbert_pocket_b - 0.9640049029590165
+
+5) mr_wopsle_b - 0.9620884038262608
+
+6) mr_drummle_b - 0.9553901811292934
+
+7) mrs_joe_gargery_b - 0.9510072753133562
+
+8) mr_matthew_pocket_b - 0.9433937949953618
+
+9) biddy_b - 0.9412427825106023
+
+10) miss_estella_b - 0.937558051202181
+
+11) mr_pip_b - 0.9363014343054389
+
+12) startop_b - 0.9340697169962277
+
+13) mr_trabb_b - 0.921590484238532
+
+14) miss_havisham_b - 0.920361908663458
+
+15) old_orlick_b - 0.9187405480080455
+
+16) handel_b - 0.9178818688883073
+
+17) newgate_b - 0.9107910288323214
+
+18) joseph_gargery_b - 0.9103288486110097
+
+19) mike_b - 0.8910405305338068
+
+20) bill_barley_b - 0.8865297104874171
+
+21) jack_b - 0.8816207910067083
+
+22) walworth_b - 0.8766363450857714
+
+23) miss_georgiana_b - 0.8518639372465558
+
+24) richard_b - 0.8386974680811955
+
+25) mrs_pocket_b - 0.8367897521492769
+
+26) mrs_camilla_b - 0.8338222752160516
+
+27) miss_sarah_pocket_b - 0.8337988406835953
+
+28) tom_b - 0.8280089148285665
+
+29) mrs_bentley_drummle_b - 0.8242753603212305
+
+30) miss_jane_b - 0.7781685458522168
+
+31) blue_boar_b - 0.7718672846437057
+
+32) barnard_b - 0.7660671561420405
+
+33) jolly_bargemen_b - 0.7602559042282003
+
+34) mrs_hubble_b - 0.6940797385024868
+
+35) flopson_b - 0.5380018513799267
+
+Result for the vector: joseph_gargery, coming from part a of the book
+Rank: 5 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9378735571209122
+
+1) mr_pip_b - 0.9589230418205329
+
+2) handel_b - 0.9546265006065436
+
+3) mr_drummle_b - 0.9449183940887518
+
+4) biddy_b - 0.9382101930254599
+
+5) joseph_gargery_b - 0.9378735571209122
+
+6) mr_jaggers_b - 0.9309918921594701
+
+7) herbert_pocket_b - 0.9282928151909836
+
+8) miss_estella_b - 0.9269977531731836
+
+9) mr_wemmick_b - 0.9266160174241072
+
+10) mr_pumblechook_b - 0.9262610121809849
+
+11) mrs_joe_gargery_b - 0.9235889361149723
+
+12) miss_havisham_b - 0.9109289752329618
+
+13) old_orlick_b - 0.9080420300885401
+
+14) mr_wopsle_b - 0.8957832784717333
+
+15) startop_b - 0.8905398249626223
+
+16) mr_matthew_pocket_b - 0.8901112145119198
+
+17) walworth_b - 0.8826671838760438
+
+18) mike_b - 0.8756474926681836
+
+19) miss_georgiana_b - 0.8725149035453859
+
+20) mrs_bentley_drummle_b - 0.8671755432172654
+
+21) newgate_b - 0.8649029393465298
+
+22) jack_b - 0.8616198979842739
+
+23) bill_barley_b - 0.8559011902868053
+
+24) miss_sarah_pocket_b - 0.8466925024986327
+
+25) mr_trabb_b - 0.8398914027408252
+
+26) tom_b - 0.839249441668426
+
+27) mrs_camilla_b - 0.8176692236859083
+
+28) richard_b - 0.8047391408992838
+
+29) mrs_pocket_b - 0.76965077104266
+
+30) jolly_bargemen_b - 0.7581475603028489
+
+31) blue_boar_b - 0.7495281100273186
+
+32) miss_jane_b - 0.7318858286176404
+
+33) barnard_b - 0.7164647579193166
+
+34) mrs_hubble_b - 0.6846393142748111
+
+35) flopson_b - 0.6044903633302244
+
+Result for the vector: jack, coming from part a of the book
+Rank: 16 out of 35 characters
+Cosine similarity to the co-referring vector: 0.726656025051122
+
+1) walworth_b - 0.7738404235006013
+
+2) old_orlick_b - 0.7580786121464355
+
+3) mr_drummle_b - 0.7534664799968127
+
+4) miss_havisham_b - 0.7522627935487948
+
+5) mrs_joe_gargery_b - 0.7495619132723165
+
+6) joseph_gargery_b - 0.7470316219003807
+
+7) miss_estella_b - 0.7457157070297858
+
+8) bill_barley_b - 0.7397545641441283
+
+9) mr_pumblechook_b - 0.7375416819043501
+
+10) mr_jaggers_b - 0.7359207334447592
+
+11) newgate_b - 0.7337032676404597
+
+12) mr_matthew_pocket_b - 0.7322216688592763
+
+13) mr_pip_b - 0.7307767764891354
+
+14) mr_wemmick_b - 0.7299460825275882
+
+15) biddy_b - 0.7274472767812589
+
+16) jack_b - 0.726656025051122
+
+17) mr_trabb_b - 0.7240233205550077
+
+18) mr_wopsle_b - 0.7237490682302807
+
+19) startop_b - 0.7227286581290752
+
+20) handel_b - 0.7178215858074408
+
+21) herbert_pocket_b - 0.7148512644932833
+
+22) mike_b - 0.7110633889791448
+
+23) miss_georgiana_b - 0.7061271527599029
+
+24) tom_b - 0.7015460164737148
+
+25) blue_boar_b - 0.6952767216081506
+
+26) richard_b - 0.6742635570247116
+
+27) mrs_bentley_drummle_b - 0.6657241980515805
+
+28) mrs_camilla_b - 0.650221763571065
+
+29) miss_sarah_pocket_b - 0.6493657602914813
+
+30) jolly_bargemen_b - 0.6422139958525889
+
+31) miss_jane_b - 0.6283343587320289
+
+32) barnard_b - 0.6270977597084286
+
+33) mrs_pocket_b - 0.6100435802379496
+
+34) flopson_b - 0.5933099323490225
+
+35) mrs_hubble_b - 0.5118768229337729
+
+Result for the vector: miss_sarah_pocket, coming from part a of the book
+Rank: 23 out of 35 characters
+Cosine similarity to the co-referring vector: 0.8632837452461583
+
+1) biddy_b - 0.9672091007232666
+
+2) miss_estella_b - 0.9644549180404822
+
+3) miss_havisham_b - 0.9600451016399221
+
+4) mr_wemmick_b - 0.9598296284675598
+
+5) mrs_joe_gargery_b - 0.9596223831176758
+
+6) mr_pumblechook_b - 0.9583101868629456
+
+7) herbert_pocket_b - 0.9576624631881714
+
+8) startop_b - 0.9469758240566165
+
+9) mr_jaggers_b - 0.9465479850769043
+
+10) mr_drummle_b - 0.9433506693453012
+
+11) mr_matthew_pocket_b - 0.9397760033607483
+
+12) mr_wopsle_b - 0.9339174310540391
+
+13) old_orlick_b - 0.9271307674490556
+
+14) mr_pip_b - 0.9224386765026273
+
+15) handel_b - 0.9126713819903975
+
+16) joseph_gargery_b - 0.9101234835165616
+
+17) mrs_pocket_b - 0.9061740040779114
+
+18) newgate_b - 0.8941572511932813
+
+19) mike_b - 0.8833093643188477
+
+20) mr_trabb_b - 0.8683024801847424
+
+21) bill_barley_b - 0.8674724102020264
+
+22) walworth_b - 0.8667694250803859
+
+23) miss_sarah_pocket_b - 0.8632837452461583
+
+24) jack_b - 0.8603072762489319
+
+25) richard_b - 0.8509136527232154
+
+26) mrs_camilla_b - 0.8485369682312012
+
+27) miss_georgiana_b - 0.841030826630047
+
+28) mrs_bentley_drummle_b - 0.8152840357680337
+
+29) miss_jane_b - 0.7947402237278294
+
+30) tom_b - 0.7941461205482483
+
+31) blue_boar_b - 0.772654102602847
+
+32) jolly_bargemen_b - 0.7559852679954739
+
+33) barnard_b - 0.7387139045425609
+
+34) mrs_hubble_b - 0.7370178323095394
+
+35) flopson_b - 0.5915887355804443
+
+Result for the vector: mrs_camilla, coming from part a of the book
+Rank: 23 out of 35 characters
+Cosine similarity to the co-referring vector: 0.8427687444778188
+
+1) miss_estella_b - 0.9579180428884098
+
+2) miss_havisham_b - 0.9531281278469707
+
+3) mrs_joe_gargery_b - 0.9490221395214362
+
+4) biddy_b - 0.948422874369286
+
+5) mr_drummle_b - 0.9482909065918489
+
+6) herbert_pocket_b - 0.9425860294031565
+
+7) mr_wemmick_b - 0.9372321609168234
+
+8) mr_pumblechook_b - 0.9365983250676125
+
+9) mr_jaggers_b - 0.9356276037360113
+
+10) mr_pip_b - 0.9293137981465163
+
+11) old_orlick_b - 0.9250368796278178
+
+12) joseph_gargery_b - 0.9220708976324922
+
+13) startop_b - 0.9200707852945906
+
+14) handel_b - 0.9151039295053381
+
+15) mr_matthew_pocket_b - 0.9111934522861385
+
+16) mr_wopsle_b - 0.9021029355648695
+
+17) walworth_b - 0.8910972015704519
+
+18) newgate_b - 0.8686113122602663
+
+19) mike_b - 0.8580971531358831
+
+20) jack_b - 0.854906993052992
+
+21) mrs_pocket_b - 0.8545534778732224
+
+22) richard_b - 0.8476698651215488
+
+23) mrs_camilla_b - 0.8427687444778188
+
+24) bill_barley_b - 0.8398372685763812
+
+25) miss_georgiana_b - 0.8393515407072817
+
+26) mr_trabb_b - 0.8351620186817226
+
+27) miss_sarah_pocket_b - 0.8300272271077677
+
+28) mrs_bentley_drummle_b - 0.820494806155735
+
+29) tom_b - 0.7964492556258402
+
+30) miss_jane_b - 0.7690680943808682
+
+31) mrs_hubble_b - 0.7584495256483003
+
+32) blue_boar_b - 0.7545581988331975
+
+33) jolly_bargemen_b - 0.7389791141115035
+
+34) barnard_b - 0.725079167646046
+
+35) flopson_b - 0.6639270780021347
+
+Result for the vector: startop, coming from part a of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9476633636750812
+
+1) startop_b - 0.9476633636750812
+
+2) mr_matthew_pocket_b - 0.9395656585693359
+
+3) mr_wemmick_b - 0.9380824565887451
+
+4) mr_pumblechook_b - 0.9362275004386902
+
+5) mrs_joe_gargery_b - 0.9358895421028137
+
+6) herbert_pocket_b - 0.9333146810531616
+
+7) mr_jaggers_b - 0.927683413028717
+
+8) mr_wopsle_b - 0.9255746878854841
+
+9) mr_drummle_b - 0.918749744817601
+
+10) biddy_b - 0.9144875407218933
+
+11) miss_havisham_b - 0.9123470239432456
+
+12) miss_estella_b - 0.9100373658549005
+
+13) old_orlick_b - 0.9011091111768416
+
+14) mrs_pocket_b - 0.8799970746040344
+
+15) mr_pip_b - 0.8751450702634511
+
+16) richard_b - 0.8659303864282155
+
+17) newgate_b - 0.8655452310036363
+
+18) handel_b - 0.8611525214405386
+
+19) joseph_gargery_b - 0.8582916513160036
+
+20) mr_trabb_b - 0.8562482170762817
+
+21) mike_b - 0.8544799089431763
+
+22) jack_b - 0.852175235748291
+
+23) walworth_b - 0.8457354215225844
+
+24) bill_barley_b - 0.8425388336181641
+
+25) miss_sarah_pocket_b - 0.8275534407826344
+
+26) miss_georgiana_b - 0.813835788597811
+
+27) mrs_camilla_b - 0.8135184049606323
+
+28) mrs_bentley_drummle_b - 0.7943468339029806
+
+29) tom_b - 0.7743946313858032
+
+30) miss_jane_b - 0.7708202830201475
+
+31) blue_boar_b - 0.7337580760573207
+
+32) barnard_b - 0.7277813391555167
+
+33) mrs_hubble_b - 0.7239032007426981
+
+34) jolly_bargemen_b - 0.712859157877492
+
+35) flopson_b - 0.5730239748954773
+
+Result for the vector: flopson, coming from part a of the book
+Rank: 35 out of 35 characters
+Cosine similarity to the co-referring vector: 0.5548255608923903
+
+1) biddy_b - 0.9512052223445545
+
+2) mrs_joe_gargery_b - 0.9426912350264564
+
+3) mr_wemmick_b - 0.941463021679611
+
+4) mr_jaggers_b - 0.9384177606826357
+
+5) mr_pumblechook_b - 0.9382524173931012
+
+6) mr_drummle_b - 0.9380950574363823
+
+7) herbert_pocket_b - 0.9373910706457819
+
+8) mr_pip_b - 0.9373620394493977
+
+9) miss_estella_b - 0.9333652218201889
+
+10) handel_b - 0.9288374419961077
+
+11) startop_b - 0.9237184158311862
+
+12) miss_havisham_b - 0.9197834456031524
+
+13) joseph_gargery_b - 0.9181258502415246
+
+14) mr_wopsle_b - 0.9098640030541422
+
+15) old_orlick_b - 0.9097361347315291
+
+16) mr_matthew_pocket_b - 0.9092589887755812
+
+17) bill_barley_b - 0.8818673158248463
+
+18) newgate_b - 0.8797656154353176
+
+19) jack_b - 0.8787186407661037
+
+20) miss_sarah_pocket_b - 0.8689748229659939
+
+21) miss_georgiana_b - 0.8685561002990101
+
+22) mike_b - 0.8667824526662369
+
+23) walworth_b - 0.8580079249746736
+
+24) mrs_camilla_b - 0.8491176619862817
+
+25) mrs_pocket_b - 0.8470450892163843
+
+26) richard_b - 0.8470318661024644
+
+27) mr_trabb_b - 0.8463534552139029
+
+28) mrs_bentley_drummle_b - 0.8381470288502939
+
+29) tom_b - 0.8172628527063985
+
+30) miss_jane_b - 0.7818182576786433
+
+31) blue_boar_b - 0.7649281112785442
+
+32) jolly_bargemen_b - 0.7592702817046991
+
+33) mrs_hubble_b - 0.7358853659561495
+
+34) barnard_b - 0.7347828806742625
+
+35) flopson_b - 0.5548255608923903
+
+Result for the vector: barnard, coming from part a of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9377584383199737
+
+1) barnard_b - 0.9377584383199737
+
+2) newgate_b - 0.9117735194822434
+
+3) mrs_joe_gargery_b - 0.882399969244003
+
+4) mr_wopsle_b - 0.8813197208630793
+
+5) mr_matthew_pocket_b - 0.87897580140685
+
+6) mr_pumblechook_b - 0.8786127494938836
+
+7) mr_jaggers_b - 0.8757008836091107
+
+8) mr_wemmick_b - 0.8743749186024037
+
+9) miss_havisham_b - 0.8717536330223146
+
+10) miss_estella_b - 0.8687868895042146
+
+11) biddy_b - 0.8663679281692478
+
+12) startop_b - 0.8622356488985596
+
+13) mr_trabb_b - 0.8611965262176815
+
+14) herbert_pocket_b - 0.8581403409326295
+
+15) mr_drummle_b - 0.8548273867162927
+
+16) old_orlick_b - 0.8534341541866108
+
+17) walworth_b - 0.8446490579425165
+
+18) bill_barley_b - 0.8380312823075835
+
+19) mr_pip_b - 0.837372104808343
+
+20) mike_b - 0.8338011404157379
+
+21) joseph_gargery_b - 0.8320237002344725
+
+22) handel_b - 0.8273360523386064
+
+23) miss_georgiana_b - 0.8121077790388798
+
+24) jack_b - 0.8088067059997756
+
+25) mrs_camilla_b - 0.8054547789963963
+
+26) mrs_pocket_b - 0.7934698935431193
+
+27) mrs_bentley_drummle_b - 0.7929715637581736
+
+28) richard_b - 0.7904070615768489
+
+29) blue_boar_b - 0.7791483138976472
+
+30) tom_b - 0.7623557902786621
+
+31) miss_sarah_pocket_b - 0.7566726513710799
+
+32) miss_jane_b - 0.7271418625541209
+
+33) jolly_bargemen_b - 0.7229937796285423
+
+34) mrs_hubble_b - 0.6413884736348817
+
+35) flopson_b - 0.49528285832899055
+
+Result for the vector: mrs_bentley_drummle, coming from part a of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9239119932704124
+
+1) mrs_bentley_drummle_b - 0.9239119932704124
+
+2) handel_b - 0.9029813293196356
+
+3) mr_pip_b - 0.894865738733499
+
+4) mr_drummle_b - 0.8870489462672408
+
+5) mr_pumblechook_b - 0.8745522424311798
+
+6) mr_jaggers_b - 0.8741883560531367
+
+7) mike_b - 0.8721926732178151
+
+8) biddy_b - 0.871874742023633
+
+9) mr_wemmick_b - 0.8716566486154005
+
+10) joseph_gargery_b - 0.8706089412440379
+
+11) mrs_joe_gargery_b - 0.8697547834965473
+
+12) mr_wopsle_b - 0.8597769313851239
+
+13) herbert_pocket_b - 0.8595113074488242
+
+14) startop_b - 0.8594752978653071
+
+15) miss_georgiana_b - 0.8592833708862508
+
+16) miss_estella_b - 0.8585762553134196
+
+17) miss_havisham_b - 0.8538504838943543
+
+18) old_orlick_b - 0.8528555123296211
+
+19) tom_b - 0.8494931965764297
+
+20) walworth_b - 0.8436234406976033
+
+21) newgate_b - 0.8424794141172494
+
+22) mr_matthew_pocket_b - 0.842022707582875
+
+23) mr_trabb_b - 0.8370617129170007
+
+24) bill_barley_b - 0.8287840383520164
+
+25) miss_sarah_pocket_b - 0.8286079560050912
+
+26) jack_b - 0.8199363839588408
+
+27) mrs_camilla_b - 0.8023983718394277
+
+28) richard_b - 0.7619063854217584
+
+29) blue_boar_b - 0.7341304104483617
+
+30) jolly_bargemen_b - 0.7298776998933706
+
+31) barnard_b - 0.7284941349618596
+
+32) mrs_pocket_b - 0.7267509535998687
+
+33) miss_jane_b - 0.7100852170662779
+
+34) mrs_hubble_b - 0.6485774500886309
+
+35) flopson_b - 0.5230874134950297
+
+Result for the vector: blue_boar, coming from part a of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9261106252670354
+
+1) blue_boar_b - 0.9261106252670354
+
+2) jolly_bargemen_b - 0.8504518523947051
+
+3) walworth_b - 0.8172888755798398
+
+4) newgate_b - 0.813123488817328
+
+5) mrs_joe_gargery_b - 0.7950798395228496
+
+6) bill_barley_b - 0.7943366888560852
+
+7) jack_b - 0.7865773566617171
+
+8) mr_drummle_b - 0.7816385626792963
+
+9) mr_wemmick_b - 0.7808565628018057
+
+10) joseph_gargery_b - 0.7805286573103347
+
+11) mr_pumblechook_b - 0.7802751195266785
+
+12) mr_jaggers_b - 0.7800237667546425
+
+13) startop_b - 0.779107809066778
+
+14) mr_matthew_pocket_b - 0.7788716686444493
+
+15) miss_havisham_b - 0.7758554487400712
+
+16) miss_estella_b - 0.7729135521378085
+
+17) biddy_b - 0.7709682124276048
+
+18) mr_wopsle_b - 0.7701359757740536
+
+19) mr_pip_b - 0.769796192646032
+
+20) old_orlick_b - 0.7696086580261021
+
+21) herbert_pocket_b - 0.7618469737859398
+
+22) mike_b - 0.759373500384481
+
+23) barnard_b - 0.7543047070503288
+
+24) handel_b - 0.7531132102012688
+
+25) mr_trabb_b - 0.7411093578739135
+
+26) miss_georgiana_b - 0.7369400262832694
+
+27) mrs_bentley_drummle_b - 0.7201728129077901
+
+28) richard_b - 0.7062686435856051
+
+29) tom_b - 0.7055723842637323
+
+30) mrs_camilla_b - 0.6960618677102418
+
+31) miss_sarah_pocket_b - 0.695053994655614
+
+32) mrs_pocket_b - 0.671316106837029
+
+33) miss_jane_b - 0.6347346116681538
+
+34) mrs_hubble_b - 0.5621789526290036
+
+35) flopson_b - 0.5191293049377627
+
+Result for the vector: miss_jane, coming from part a of the book
+Rank: 30 out of 35 characters
+Cosine similarity to the co-referring vector: 0.815926776892542
+
+1) biddy_b - 0.954332953174961
+
+2) mrs_joe_gargery_b - 0.9499089777578209
+
+3) miss_estella_b - 0.9451449264456503
+
+4) miss_havisham_b - 0.943399618256162
+
+5) herbert_pocket_b - 0.9419432947703316
+
+6) mr_drummle_b - 0.9419020448981648
+
+7) mr_pumblechook_b - 0.9402396750164487
+
+8) mr_jaggers_b - 0.9392288995708413
+
+9) mr_wemmick_b - 0.9384080841054883
+
+10) mr_pip_b - 0.9359206595468278
+
+11) startop_b - 0.9324008266687049
+
+12) old_orlick_b - 0.9324003619193167
+
+13) handel_b - 0.9301403206503349
+
+14) joseph_gargery_b - 0.9247389064017234
+
+15) mr_matthew_pocket_b - 0.9212107156263994
+
+16) mr_wopsle_b - 0.9150479809897064
+
+17) newgate_b - 0.8837224577748235
+
+18) mike_b - 0.8798668527761936
+
+19) bill_barley_b - 0.8793149734360074
+
+20) jack_b - 0.8723037991161647
+
+21) walworth_b - 0.8720206694590785
+
+22) mrs_pocket_b - 0.8575073650470598
+
+23) miss_georgiana_b - 0.8565323438327245
+
+24) mr_trabb_b - 0.8554017888541725
+
+25) miss_sarah_pocket_b - 0.8546736923054776
+
+26) richard_b - 0.852603581082182
+
+27) mrs_camilla_b - 0.8371011212943708
+
+28) mrs_bentley_drummle_b - 0.8261998710155795
+
+29) tom_b - 0.822519561944066
+
+30) miss_jane_b - 0.815926776892542
+
+31) blue_boar_b - 0.7662715455131924
+
+32) jolly_bargemen_b - 0.7606107961949634
+
+33) mrs_hubble_b - 0.7262194103402507
+
+34) barnard_b - 0.7225065992768761
+
+35) flopson_b - 0.6208143686277471
+
+Result for the vector: mrs_pocket, coming from part a of the book
+Rank: 16 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9134484581083995
+
+1) biddy_b - 0.9641518614201645
+
+2) miss_estella_b - 0.9609387826639815
+
+3) miss_havisham_b - 0.9571157744984896
+
+4) mrs_joe_gargery_b - 0.9502915769641669
+
+5) herbert_pocket_b - 0.9463328751127215
+
+6) mr_wemmick_b - 0.9443383846081282
+
+7) mr_pumblechook_b - 0.9441173109938333
+
+8) startop_b - 0.9380406141281195
+
+9) mr_jaggers_b - 0.9374191202271526
+
+10) mr_drummle_b - 0.9359942674636907
+
+11) mr_matthew_pocket_b - 0.9258190437663187
+
+12) mr_pip_b - 0.9210367798805302
+
+13) old_orlick_b - 0.9185961034424136
+
+14) mr_wopsle_b - 0.9169921005668646
+
+15) handel_b - 0.9146272540092534
+
+16) mrs_pocket_b - 0.9134484581083995
+
+17) joseph_gargery_b - 0.9015231367294526
+
+18) newgate_b - 0.875989820837681
+
+19) mike_b - 0.8720769362403804
+
+20) richard_b - 0.8692323721370253
+
+21) walworth_b - 0.8642892241478027
+
+22) miss_sarah_pocket_b - 0.8623167276382507
+
+23) bill_barley_b - 0.8575402583157877
+
+24) mrs_camilla_b - 0.8551820602904537
+
+25) miss_georgiana_b - 0.851727843284613
+
+26) jack_b - 0.8512005298614201
+
+27) mr_trabb_b - 0.8503465324020641
+
+28) mrs_bentley_drummle_b - 0.8204147540781356
+
+29) miss_jane_b - 0.8105111476626683
+
+30) mrs_hubble_b - 0.8028858660791588
+
+31) tom_b - 0.8007394790208664
+
+32) blue_boar_b - 0.7500349283218437
+
+33) jolly_bargemen_b - 0.739952943919695
+
+34) barnard_b - 0.7376856207847647
+
+35) flopson_b - 0.5841930756453837
+
+Result for the vector: mrs_hubble, coming from part a of the book
+Rank: 8 out of 35 characters
+Cosine similarity to the co-referring vector: 0.8662404755878341
+
+1) biddy_b - 0.8947712245719911
+
+2) miss_estella_b - 0.8820859526966264
+
+3) mrs_joe_gargery_b - 0.8769925310020146
+
+4) mr_pumblechook_b - 0.8750622943006594
+
+5) miss_havisham_b - 0.8741845638531967
+
+6) herbert_pocket_b - 0.871421285186931
+
+7) mr_wemmick_b - 0.8698371726371559
+
+8) mrs_hubble_b - 0.8662404755878341
+
+9) startop_b - 0.8658230304718079
+
+10) mr_jaggers_b - 0.8642120442264069
+
+11) mrs_pocket_b - 0.8539857355364734
+
+12) mr_drummle_b - 0.8522583842277588
+
+13) mr_matthew_pocket_b - 0.8518033712027463
+
+14) mr_pip_b - 0.8464559316635192
+
+15) mr_wopsle_b - 0.8443636642586126
+
+16) handel_b - 0.8393625617027343
+
+17) old_orlick_b - 0.834324866355981
+
+18) richard_b - 0.8334127863153474
+
+19) joseph_gargery_b - 0.8233147088731088
+
+20) miss_sarah_pocket_b - 0.8182603120803891
+
+21) newgate_b - 0.8137407545370179
+
+22) bill_barley_b - 0.8098239415988971
+
+23) mrs_camilla_b - 0.8076326365689867
+
+24) mike_b - 0.8036086676354025
+
+25) jack_b - 0.7987353325643951
+
+26) miss_georgiana_b - 0.7982118129730281
+
+27) walworth_b - 0.7974545955658016
+
+28) mr_trabb_b - 0.7848117736318531
+
+29) miss_jane_b - 0.7735714681872319
+
+30) mrs_bentley_drummle_b - 0.7620119281985902
+
+31) tom_b - 0.744555369344035
+
+32) blue_boar_b - 0.7093933820724537
+
+33) jolly_bargemen_b - 0.7086594912010359
+
+34) barnard_b - 0.6993950009346058
+
+35) flopson_b - 0.4878197319615056
+
+Result for the vector: mike, coming from part a of the book
+Rank: 19 out of 35 characters
+Cosine similarity to the co-referring vector: 0.857890784740448
+
+1) mr_wemmick_b - 0.9502875804901123
+
+2) mr_pumblechook_b - 0.9451080560684204
+
+3) herbert_pocket_b - 0.9436995983123779
+
+4) mr_jaggers_b - 0.9408298134803772
+
+5) mr_drummle_b - 0.9345767459021076
+
+6) mr_pip_b - 0.9322292764323535
+
+7) mr_wopsle_b - 0.9205749309234305
+
+8) miss_estella_b - 0.9123335156540134
+
+9) mrs_joe_gargery_b - 0.9102302193641663
+
+10) biddy_b - 0.9100804328918457
+
+11) handel_b - 0.9006853640488023
+
+12) startop_b - 0.8988175927887928
+
+13) mr_matthew_pocket_b - 0.8974097967147827
+
+14) joseph_gargery_b - 0.8915811970982938
+
+15) old_orlick_b - 0.8840130705817917
+
+16) miss_havisham_b - 0.8812937211219254
+
+17) newgate_b - 0.868340271860985
+
+18) jack_b - 0.8632045984268188
+
+19) mike_b - 0.857890784740448
+
+20) bill_barley_b - 0.8475239276885986
+
+21) walworth_b - 0.8376648925343106
+
+22) mr_trabb_b - 0.828021368024192
+
+23) miss_sarah_pocket_b - 0.8132523186953272
+
+24) miss_georgiana_b - 0.812540698798938
+
+25) mrs_pocket_b - 0.8098211288452148
+
+26) richard_b - 0.8060097810024168
+
+27) mrs_camilla_b - 0.804366946220398
+
+28) mrs_bentley_drummle_b - 0.7881966485742805
+
+29) tom_b - 0.7833565473556519
+
+30) blue_boar_b - 0.7428167905102261
+
+31) miss_jane_b - 0.732529721633486
+
+32) jolly_bargemen_b - 0.7221975972233083
+
+33) barnard_b - 0.7072823469211083
+
+34) mrs_hubble_b - 0.6665594776439514
+
+35) flopson_b - 0.5132418274879456
+
+Result for the vector: jolly_bargemen, coming from part a of the book
+Rank: 2 out of 35 characters
+Cosine similarity to the co-referring vector: 0.83538195000238
+
+1) blue_boar_b - 0.9199393987655705
+
+2) jolly_bargemen_b - 0.83538195000238
+
+3) bill_barley_b - 0.8165102710419746
+
+4) newgate_b - 0.8112306836614307
+
+5) jack_b - 0.7926647190651479
+
+6) walworth_b - 0.7899009585380611
+
+7) startop_b - 0.7894673943519649
+
+8) mrs_joe_gargery_b - 0.7877895958549039
+
+9) biddy_b - 0.7860196360337965
+
+10) mr_jaggers_b - 0.7859718927161772
+
+11) mr_wemmick_b - 0.7857046255049347
+
+12) mr_pumblechook_b - 0.7850760945632416
+
+13) miss_estella_b - 0.781276321969145
+
+14) mr_drummle_b - 0.7799878716468867
+
+15) mr_matthew_pocket_b - 0.778945459190283
+
+16) mr_pip_b - 0.7771914601326044
+
+17) mr_wopsle_b - 0.7770655519644782
+
+18) joseph_gargery_b - 0.7761055168854013
+
+19) mike_b - 0.7729775444878625
+
+20) herbert_pocket_b - 0.7711942332271212
+
+21) miss_havisham_b - 0.7673127332552989
+
+22) handel_b - 0.76612931489945
+
+23) old_orlick_b - 0.7598550153037892
+
+24) mr_trabb_b - 0.750474914823489
+
+25) miss_georgiana_b - 0.740446984767919
+
+26) mrs_bentley_drummle_b - 0.7157575400309206
+
+27) mrs_camilla_b - 0.7119491868049403
+
+28) barnard_b - 0.711160182952886
+
+29) tom_b - 0.7059894975430085
+
+30) richard_b - 0.7017154453139967
+
+31) miss_sarah_pocket_b - 0.7016806602478077
+
+32) mrs_pocket_b - 0.682790417504883
+
+33) miss_jane_b - 0.6505393192011347
+
+34) mrs_hubble_b - 0.5884237710111233
+
+35) flopson_b - 0.43922999863445844
+
+Result for the vector: bill_barley, coming from part a of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.8764331340789795
+
+1) bill_barley_b - 0.8764331340789795
+
+2) handel_b - 0.854577473078817
+
+3) mr_jaggers_b - 0.8437784910202026
+
+4) mr_pip_b - 0.8425712491614386
+
+5) mrs_joe_gargery_b - 0.8317207098007202
+
+6) mr_wemmick_b - 0.8300290703773499
+
+7) mr_drummle_b - 0.8295839327325796
+
+8) mr_pumblechook_b - 0.8281236290931702
+
+9) mr_matthew_pocket_b - 0.8250414133071899
+
+10) startop_b - 0.8235744132741951
+
+11) jack_b - 0.8235485553741455
+
+12) joseph_gargery_b - 0.8234842735259176
+
+13) biddy_b - 0.8231900334358215
+
+14) herbert_pocket_b - 0.8227382302284241
+
+15) miss_estella_b - 0.821061516435788
+
+16) mr_wopsle_b - 0.8184460645450973
+
+17) old_orlick_b - 0.8173380115821406
+
+18) walworth_b - 0.8134147413620213
+
+19) newgate_b - 0.8099797496181534
+
+20) miss_georgiana_b - 0.8094640856661862
+
+21) miss_havisham_b - 0.806867730208176
+
+22) mike_b - 0.7962867021560669
+
+23) mr_trabb_b - 0.7760374813035208
+
+24) tom_b - 0.7679283618927002
+
+25) mrs_bentley_drummle_b - 0.7604298281157276
+
+26) jolly_bargemen_b - 0.758200355607306
+
+27) richard_b - 0.7551739957824961
+
+28) blue_boar_b - 0.7443578686927492
+
+29) miss_sarah_pocket_b - 0.7430123533613906
+
+30) mrs_camilla_b - 0.7283344268798828
+
+31) miss_jane_b - 0.7120604727286245
+
+32) mrs_pocket_b - 0.7056010961532593
+
+33) barnard_b - 0.6721622152425191
+
+34) mrs_hubble_b - 0.6265516467854875
+
+35) flopson_b - 0.5004132390022278
+
+Result for the vector: newgate, coming from part a of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.8869301873681152
+
+1) newgate_b - 0.8869301873681152
+
+2) walworth_b - 0.8420938755329788
+
+3) mr_wopsle_b - 0.8373732220343719
+
+4) mr_jaggers_b - 0.8359906673431396
+
+5) mr_pumblechook_b - 0.8328711986541748
+
+6) mr_wemmick_b - 0.8309993147850037
+
+7) mrs_joe_gargery_b - 0.8302956819534302
+
+8) miss_estella_b - 0.829296673217317
+
+9) miss_havisham_b - 0.8271188242960692
+
+10) bill_barley_b - 0.824035108089447
+
+11) mr_matthew_pocket_b - 0.8237637877464294
+
+12) old_orlick_b - 0.8227732392819893
+
+13) biddy_b - 0.8213685750961304
+
+14) joseph_gargery_b - 0.8143199418211218
+
+15) mr_drummle_b - 0.8141536005826965
+
+16) herbert_pocket_b - 0.8119339942932129
+
+17) startop_b - 0.805359530768368
+
+18) mr_pip_b - 0.8053271058396775
+
+19) mr_trabb_b - 0.8042071099034473
+
+20) handel_b - 0.8017225743366836
+
+21) mike_b - 0.7982314825057983
+
+22) miss_georgiana_b - 0.7901041978659762
+
+23) blue_boar_b - 0.7740626796521367
+
+24) jack_b - 0.7740450501441956
+
+25) barnard_b - 0.7665635804273846
+
+26) tom_b - 0.7465165853500366
+
+27) mrs_camilla_b - 0.7416456937789917
+
+28) mrs_bentley_drummle_b - 0.7386123253569268
+
+29) richard_b - 0.729382352269749
+
+30) miss_sarah_pocket_b - 0.7233318521578237
+
+31) mrs_pocket_b - 0.720765233039856
+
+32) jolly_bargemen_b - 0.7135995668410896
+
+33) miss_jane_b - 0.6941505281374019
+
+34) mrs_hubble_b - 0.5959598599660357
+
+35) flopson_b - 0.48191726207733154
+
+Result for the vector: tom, coming from part a of the book
+Rank: 11 out of 35 characters
+Cosine similarity to the co-referring vector: 0.7756308584653363
+
+1) mr_trabb_b - 0.8251281201533984
+
+2) newgate_b - 0.8054496405884906
+
+3) mr_wopsle_b - 0.7997159838930472
+
+4) mike_b - 0.7860457556193222
+
+5) mr_pumblechook_b - 0.7850202578282105
+
+6) mr_wemmick_b - 0.783865954415094
+
+7) mr_matthew_pocket_b - 0.7810616754219974
+
+8) miss_georgiana_b - 0.7802156936993906
+
+9) mr_jaggers_b - 0.7761185436107519
+
+10) mrs_joe_gargery_b - 0.775818195841533
+
+11) tom_b - 0.7756308584653363
+
+12) mr_drummle_b - 0.7747842803726153
+
+13) miss_havisham_b - 0.7714071682559561
+
+14) bill_barley_b - 0.766931740411318
+
+15) startop_b - 0.7651519915371069
+
+16) walworth_b - 0.7639771244539666
+
+17) old_orlick_b - 0.763559874639541
+
+18) mr_pip_b - 0.7619743489042434
+
+19) miss_estella_b - 0.7585233963856128
+
+20) herbert_pocket_b - 0.7567075184932383
+
+21) biddy_b - 0.7533042128915587
+
+22) mrs_bentley_drummle_b - 0.750284969738729
+
+23) handel_b - 0.7471615822815072
+
+24) joseph_gargery_b - 0.7391002359687592
+
+25) jack_b - 0.7362909035335946
+
+26) barnard_b - 0.7301011246382636
+
+27) mrs_camilla_b - 0.7069505802451923
+
+28) miss_sarah_pocket_b - 0.6994205296385084
+
+29) richard_b - 0.6987692060287238
+
+30) blue_boar_b - 0.6945139351776988
+
+31) jolly_bargemen_b - 0.6803177988434642
+
+32) mrs_pocket_b - 0.6690010226963778
+
+33) miss_jane_b - 0.6597136265295555
+
+34) mrs_hubble_b - 0.5676072328441892
+
+35) flopson_b - 0.44370020107028785
+
+Result for the vector: miss_georgiana, coming from part a of the book
+Rank: 2 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9224039912223881
+
+1) biddy_b - 0.929895464784179
+
+2) miss_georgiana_b - 0.9224039912223881
+
+3) mr_jaggers_b - 0.9202372479297387
+
+4) startop_b - 0.9186838865280217
+
+5) miss_estella_b - 0.916907044741305
+
+6) mr_pumblechook_b - 0.916228120551819
+
+7) mr_wemmick_b - 0.9144765785648494
+
+8) handel_b - 0.9138658046722477
+
+9) mrs_joe_gargery_b - 0.9131434015546218
+
+10) herbert_pocket_b - 0.9110136085144531
+
+11) mr_pip_b - 0.9105503559112613
+
+12) mr_drummle_b - 0.9105452895164554
+
+13) miss_havisham_b - 0.9053037875528589
+
+14) mr_wopsle_b - 0.9023263185523094
+
+15) mr_matthew_pocket_b - 0.9008477389307193
+
+16) joseph_gargery_b - 0.8909450433385332
+
+17) old_orlick_b - 0.8849098888200736
+
+18) mike_b - 0.8795267415328791
+
+19) newgate_b - 0.8778208755797506
+
+20) bill_barley_b - 0.8735737279907643
+
+21) walworth_b - 0.8573052883148254
+
+22) mr_trabb_b - 0.8570465701139162
+
+23) mrs_bentley_drummle_b - 0.8536618017562998
+
+24) jack_b - 0.8534841028759433
+
+25) miss_sarah_pocket_b - 0.8532274961471619
+
+26) mrs_camilla_b - 0.847069212968994
+
+27) mrs_pocket_b - 0.833784649742566
+
+28) richard_b - 0.8334882457866376
+
+29) tom_b - 0.804945301714821
+
+30) miss_jane_b - 0.783991134643822
+
+31) blue_boar_b - 0.7693965435028131
+
+32) jolly_bargemen_b - 0.7613792646342381
+
+33) barnard_b - 0.7490991950035149
+
+34) mrs_hubble_b - 0.7114158656771251
+
+35) flopson_b - 0.5081366593756291
+
+Result for the vector: walworth, coming from part a of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.8831133772798421
+
+1) walworth_b - 0.8831133772798421
+
+2) newgate_b - 0.8630221661647145
+
+3) mrs_joe_gargery_b - 0.8562092781066895
+
+4) mr_matthew_pocket_b - 0.834495484828949
+
+5) joseph_gargery_b - 0.8280033180707853
+
+6) mr_jaggers_b - 0.8249384760856628
+
+7) miss_havisham_b - 0.8241209492611334
+
+8) mr_wemmick_b - 0.8219916224479675
+
+9) mr_drummle_b - 0.8209618819333259
+
+10) miss_estella_b - 0.819410408121658
+
+11) old_orlick_b - 0.8189069248548894
+
+12) mr_pumblechook_b - 0.8135157823562622
+
+13) biddy_b - 0.8132005333900452
+
+14) startop_b - 0.810082424287942
+
+15) herbert_pocket_b - 0.8080179691314697
+
+16) mr_wopsle_b - 0.8025338888923497
+
+17) mr_pip_b - 0.7992054104331394
+
+18) barnard_b - 0.7935486312835607
+
+19) handel_b - 0.7886634343065893
+
+20) mr_trabb_b - 0.7764289049590994
+
+21) bill_barley_b - 0.7743759155273438
+
+22) blue_boar_b - 0.7616708732647238
+
+23) mike_b - 0.7589121460914612
+
+24) richard_b - 0.7522632031283867
+
+25) miss_georgiana_b - 0.7512969226418105
+
+26) jack_b - 0.7508686780929565
+
+27) mrs_camilla_b - 0.7440050840377808
+
+28) tom_b - 0.7331933379173279
+
+29) mrs_bentley_drummle_b - 0.7283039416904571
+
+30) jolly_bargemen_b - 0.7154824181332394
+
+31) mrs_pocket_b - 0.7127004861831665
+
+32) miss_sarah_pocket_b - 0.7107869810335041
+
+33) miss_jane_b - 0.6474945142118491
+
+34) flopson_b - 0.6016372442245483
+
+35) mrs_hubble_b - 0.5984171807294246
+
+Result for the vector: richard, coming from part a of the book
+Rank: 25 out of 35 characters
+Cosine similarity to the co-referring vector: 0.6089726686477704
+
+1) mr_wopsle_b - 0.7069832718655416
+
+2) mr_pumblechook_b - 0.6898393446111301
+
+3) mr_jaggers_b - 0.6877446584549355
+
+4) mr_matthew_pocket_b - 0.6862053088072139
+
+5) herbert_pocket_b - 0.6851504853457514
+
+6) mr_wemmick_b - 0.6835419347013209
+
+7) mrs_joe_gargery_b - 0.6813234496905488
+
+8) biddy_b - 0.6791103887027746
+
+9) startop_b - 0.6754442662530262
+
+10) miss_estella_b - 0.6716445688883578
+
+11) mr_drummle_b - 0.6684902511227431
+
+12) newgate_b - 0.6646508372799813
+
+13) miss_havisham_b - 0.6619729399681138
+
+14) mike_b - 0.6611965692756527
+
+15) old_orlick_b - 0.6592770421935996
+
+16) handel_b - 0.6585777590963553
+
+17) bill_barley_b - 0.6526432426359213
+
+18) mr_pip_b - 0.650862592561554
+
+19) joseph_gargery_b - 0.6430206128334451
+
+20) walworth_b - 0.6252458840901713
+
+21) jack_b - 0.6215587628816832
+
+22) mr_trabb_b - 0.6172403325295349
+
+23) miss_georgiana_b - 0.6123073234924463
+
+24) mrs_camilla_b - 0.6090566878948632
+
+25) richard_b - 0.6089726686477704
+
+26) mrs_bentley_drummle_b - 0.6074708338099318
+
+27) mrs_pocket_b - 0.6021466018048894
+
+28) miss_sarah_pocket_b - 0.5953956956143016
+
+29) tom_b - 0.5934279318706959
+
+30) miss_jane_b - 0.5814774556288831
+
+31) blue_boar_b - 0.5565346546810453
+
+32) barnard_b - 0.5505542815392352
+
+33) jolly_bargemen_b - 0.5298515155690189
+
+34) mrs_hubble_b - 0.5203553903420621
+
+35) flopson_b - 0.3798928785260254
+
+Result for the vector: mrs_joe_gargery, coming from part b of the book
+Rank: 6 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9644464254379272
+
+1) herbert_pocket_a - 0.9773392690813995
+
+2) mr_matthew_pocket_a - 0.9748941354422018
+
+3) old_orlick_a - 0.9707716992727433
+
+4) miss_havisham_a - 0.9668515979913155
+
+5) mr_wopsle_a - 0.9644830226898193
+
+6) mrs_joe_gargery_a - 0.9644464254379272
+
+7) mr_drummle_a - 0.9622117522674537
+
+8) mr_jaggers_a - 0.9616376161575317
+
+9) mr_wemmick_a - 0.9610554622345681
+
+10) miss_sarah_pocket_a - 0.9596223831176758
+
+11) mr_pumblechook_a - 0.9583287835121155
+
+12) miss_estella_a - 0.9582776427268982
+
+13) mr_trabb_a - 0.9510072753133562
+
+14) mrs_pocket_a - 0.9502915769641669
+
+15) miss_jane_a - 0.9499089777578209
+
+16) mrs_camilla_a - 0.9490221395214362
+
+17) flopson_a - 0.9426912350264564
+
+18) biddy_a - 0.9386759680114979
+
+19) startop_a - 0.9358895421028137
+
+20) mr_pip_a - 0.9312833506633865
+
+21) handel_a - 0.9270035624504089
+
+22) joseph_gargery_a - 0.9235889361149723
+
+23) miss_georgiana_a - 0.9131434015546218
+
+24) mike_a - 0.9102302193641663
+
+25) barnard_a - 0.882399969244003
+
+26) mrs_hubble_a - 0.8769925310020146
+
+27) mrs_bentley_drummle_a - 0.8697547834965473
+
+28) walworth_a - 0.8562092781066895
+
+29) bill_barley_a - 0.8317207098007202
+
+30) newgate_a - 0.8302956819534302
+
+31) blue_boar_a - 0.7950798395228496
+
+32) jolly_bargemen_a - 0.7877895958549039
+
+33) tom_a - 0.775818195841533
+
+34) jack_a - 0.7495619132723165
+
+35) richard_a - 0.6813234496905488
+
+Result for the vector: herbert_pocket, coming from part b of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9830105910890959
+
+1) herbert_pocket_a - 0.9830105910890959
+
+2) mr_wemmick_a - 0.9799824976942015
+
+3) mr_matthew_pocket_a - 0.9770806126916596
+
+4) mr_jaggers_a - 0.9742454886436462
+
+5) mrs_joe_gargery_a - 0.9730299711227417
+
+6) old_orlick_a - 0.9688355019341564
+
+7) mr_drummle_a - 0.9682945859871295
+
+8) mr_wopsle_a - 0.9648776650428772
+
+9) mr_trabb_a - 0.9640049029590165
+
+10) miss_havisham_a - 0.9589701368266252
+
+11) miss_estella_a - 0.9586794376373291
+
+12) miss_sarah_pocket_a - 0.9576624631881714
+
+13) mr_pumblechook_a - 0.9530044198036194
+
+14) biddy_a - 0.9505564257668387
+
+15) handel_a - 0.9484994411468506
+
+16) mrs_pocket_a - 0.9463328751127215
+
+17) mike_a - 0.9436995983123779
+
+18) mrs_camilla_a - 0.9425860294031565
+
+19) miss_jane_a - 0.9419432947703316
+
+20) flopson_a - 0.9373910706457819
+
+21) startop_a - 0.9333146810531616
+
+22) joseph_gargery_a - 0.9282928151909836
+
+23) mr_pip_a - 0.9221136523552942
+
+24) miss_georgiana_a - 0.9110136085144531
+
+25) mrs_hubble_a - 0.871421285186931
+
+26) mrs_bentley_drummle_a - 0.8595113074488242
+
+27) barnard_a - 0.8581403409326295
+
+28) bill_barley_a - 0.8227382302284241
+
+29) newgate_a - 0.8119339942932129
+
+30) walworth_a - 0.8080179691314697
+
+31) jolly_bargemen_a - 0.7711942332271212
+
+32) blue_boar_a - 0.7618469737859398
+
+33) tom_a - 0.7567075184932383
+
+34) jack_a - 0.7148512644932833
+
+35) richard_a - 0.6851504853457514
+
+Result for the vector: miss_estella, coming from part b of the book
+Rank: 7 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9606765198909204
+
+1) miss_havisham_a - 0.9739400485247514
+
+2) mr_jaggers_a - 0.9645495106145598
+
+3) miss_sarah_pocket_a - 0.9644549180404822
+
+4) biddy_a - 0.9644389131330796
+
+5) herbert_pocket_a - 0.9612823438262279
+
+6) mrs_pocket_a - 0.9609387826639815
+
+7) miss_estella_a - 0.9606765198909204
+
+8) old_orlick_a - 0.9601490473836093
+
+9) mrs_camilla_a - 0.9579180428884098
+
+10) mr_wemmick_a - 0.9569077828311029
+
+11) mrs_joe_gargery_a - 0.9569074796708671
+
+12) mr_wopsle_a - 0.955873637076427
+
+13) mr_matthew_pocket_a - 0.9558285448448983
+
+14) mr_drummle_a - 0.9476773049254434
+
+15) miss_jane_a - 0.9451449264456503
+
+16) mr_trabb_a - 0.937558051202181
+
+17) flopson_a - 0.9333652218201889
+
+18) mr_pip_a - 0.9316532252716926
+
+19) joseph_gargery_a - 0.9269977531731836
+
+20) mr_pumblechook_a - 0.923084286543259
+
+21) handel_a - 0.9203031337351545
+
+22) miss_georgiana_a - 0.916907044741305
+
+23) mike_a - 0.9123335156540134
+
+24) startop_a - 0.9100373658549005
+
+25) mrs_hubble_a - 0.8820859526966264
+
+26) barnard_a - 0.8687868895042146
+
+27) mrs_bentley_drummle_a - 0.8585762553134196
+
+28) newgate_a - 0.829296673217317
+
+29) bill_barley_a - 0.821061516435788
+
+30) walworth_a - 0.819410408121658
+
+31) jolly_bargemen_a - 0.781276321969145
+
+32) blue_boar_a - 0.7729135521378085
+
+33) tom_a - 0.7585233963856128
+
+34) jack_a - 0.7457157070297858
+
+35) richard_a - 0.6716445688883578
+
+Result for the vector: mr_jaggers, coming from part b of the book
+Rank: 2 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9820123314857483
+
+1) mr_wemmick_a - 0.9834668059984747
+
+2) mr_jaggers_a - 0.9820123314857483
+
+3) herbert_pocket_a - 0.9772614254199626
+
+4) mr_matthew_pocket_a - 0.9729800514274856
+
+5) old_orlick_a - 0.9706571391420709
+
+6) mr_drummle_a - 0.9698442473775625
+
+7) mr_trabb_a - 0.9658840586508535
+
+8) mrs_joe_gargery_a - 0.9641494750976562
+
+9) mr_wopsle_a - 0.9637299180030823
+
+10) miss_havisham_a - 0.9592862798059831
+
+11) mr_pumblechook_a - 0.9541640281677246
+
+12) miss_estella_a - 0.9517062902450562
+
+13) miss_sarah_pocket_a - 0.9465479850769043
+
+14) mike_a - 0.9408298134803772
+
+15) miss_jane_a - 0.9392288995708413
+
+16) handel_a - 0.9390705823898315
+
+17) flopson_a - 0.9384177606826357
+
+18) mrs_pocket_a - 0.9374191202271526
+
+19) biddy_a - 0.9362596552449366
+
+20) mrs_camilla_a - 0.9356276037360113
+
+21) joseph_gargery_a - 0.9309918921594701
+
+22) startop_a - 0.927683413028717
+
+23) mr_pip_a - 0.9258362606666259
+
+24) miss_georgiana_a - 0.9202372479297387
+
+25) barnard_a - 0.8757008836091107
+
+26) mrs_bentley_drummle_a - 0.8741883560531367
+
+27) mrs_hubble_a - 0.8642120442264069
+
+28) bill_barley_a - 0.8437784910202026
+
+29) newgate_a - 0.8359906673431396
+
+30) walworth_a - 0.8249384760856628
+
+31) jolly_bargemen_a - 0.7859718927161772
+
+32) blue_boar_a - 0.7800237667546425
+
+33) tom_a - 0.7761185436107519
+
+34) jack_a - 0.7359207334447592
+
+35) richard_a - 0.6877446584549355
+
+Result for the vector: mr_wemmick, coming from part b of the book
+Rank: 2 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9839065690152037
+
+1) herbert_pocket_a - 0.9847891935831806
+
+2) mr_wemmick_a - 0.9839065690152037
+
+3) mr_jaggers_a - 0.9818971753120422
+
+4) mr_matthew_pocket_a - 0.9791263037659621
+
+5) mrs_joe_gargery_a - 0.9735172986984253
+
+6) mr_drummle_a - 0.9732328315426266
+
+7) old_orlick_a - 0.9720705441257524
+
+8) mr_trabb_a - 0.9718355230043989
+
+9) mr_wopsle_a - 0.9701418280601501
+
+10) miss_havisham_a - 0.9628664917588701
+
+11) mr_pumblechook_a - 0.9625552892684937
+
+12) miss_sarah_pocket_a - 0.9598296284675598
+
+13) miss_estella_a - 0.9582874178886414
+
+14) mike_a - 0.9502875804901123
+
+15) mrs_pocket_a - 0.9443383846081282
+
+16) flopson_a - 0.941463021679611
+
+17) biddy_a - 0.9399699252834898
+
+18) miss_jane_a - 0.9384080841054883
+
+19) startop_a - 0.9380824565887451
+
+20) mrs_camilla_a - 0.9372321609168234
+
+21) handel_a - 0.9369022846221924
+
+22) joseph_gargery_a - 0.9266160174241072
+
+23) mr_pip_a - 0.9196909022147017
+
+24) miss_georgiana_a - 0.9144765785648494
+
+25) barnard_a - 0.8743749186024037
+
+26) mrs_bentley_drummle_a - 0.8716566486154005
+
+27) mrs_hubble_a - 0.8698371726371559
+
+28) newgate_a - 0.8309993147850037
+
+29) bill_barley_a - 0.8300290703773499
+
+30) walworth_a - 0.8219916224479675
+
+31) jolly_bargemen_a - 0.7857046255049347
+
+32) tom_a - 0.783865954415094
+
+33) blue_boar_a - 0.7808565628018057
+
+34) jack_a - 0.7299460825275882
+
+35) richard_a - 0.6835419347013209
+
+Result for the vector: biddy, coming from part b of the book
+Rank: 4 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9664693762799916
+
+1) miss_havisham_a - 0.9689752515002791
+
+2) miss_estella_a - 0.9676496982574463
+
+3) miss_sarah_pocket_a - 0.9672091007232666
+
+4) biddy_a - 0.9664693762799916
+
+5) herbert_pocket_a - 0.9660798927497944
+
+6) mr_matthew_pocket_a - 0.9653179933225515
+
+7) mrs_pocket_a - 0.9641518614201645
+
+8) mr_jaggers_a - 0.9610720872879028
+
+9) mrs_joe_gargery_a - 0.9593051671981812
+
+10) mr_wopsle_a - 0.9592971801757812
+
+11) mr_wemmick_a - 0.958615546391548
+
+12) old_orlick_a - 0.9581095265778762
+
+13) mr_drummle_a - 0.9580524799306022
+
+14) miss_jane_a - 0.954332953174961
+
+15) flopson_a - 0.9512052223445545
+
+16) mrs_camilla_a - 0.948422874369286
+
+17) mr_trabb_a - 0.9412427825106023
+
+18) joseph_gargery_a - 0.9382101930254599
+
+19) mr_pumblechook_a - 0.9374678134918213
+
+20) handel_a - 0.9368718266487122
+
+21) mr_pip_a - 0.9337328632910783
+
+22) miss_georgiana_a - 0.929895464784179
+
+23) startop_a - 0.9144875407218933
+
+24) mike_a - 0.9100804328918457
+
+25) mrs_hubble_a - 0.8947712245719911
+
+26) mrs_bentley_drummle_a - 0.871874742023633
+
+27) barnard_a - 0.8663679281692478
+
+28) bill_barley_a - 0.8231900334358215
+
+29) newgate_a - 0.8213685750961304
+
+30) walworth_a - 0.8132005333900452
+
+31) jolly_bargemen_a - 0.7860196360337965
+
+32) blue_boar_a - 0.7709682124276048
+
+33) tom_a - 0.7533042128915587
+
+34) jack_a - 0.7274472767812589
+
+35) richard_a - 0.6791103887027746
+
+Result for the vector: mr_pip, coming from part b of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.966665621598437
+
+1) mr_pip_a - 0.966665621598437
+
+2) mr_wemmick_a - 0.9633794448745736
+
+3) mr_jaggers_a - 0.9624536611112171
+
+4) joseph_gargery_a - 0.9589230418205329
+
+5) old_orlick_a - 0.9537984985529038
+
+6) handel_a - 0.943850752344774
+
+7) mr_matthew_pocket_a - 0.9423616178955099
+
+8) mr_wopsle_a - 0.9406606519616055
+
+9) herbert_pocket_a - 0.9396796822547979
+
+10) mr_drummle_a - 0.9374904204140028
+
+11) flopson_a - 0.9373620394493977
+
+12) mr_trabb_a - 0.9363014343054389
+
+13) miss_jane_a - 0.9359206595468278
+
+14) miss_havisham_a - 0.9356890993489174
+
+15) mike_a - 0.9322292764323535
+
+16) mrs_camilla_a - 0.9293137981465163
+
+17) mrs_joe_gargery_a - 0.9274806337047018
+
+18) miss_sarah_pocket_a - 0.9224386765026273
+
+19) mr_pumblechook_a - 0.9223564816925829
+
+20) mrs_pocket_a - 0.9210367798805302
+
+21) miss_estella_a - 0.9166507671267268
+
+22) biddy_a - 0.91542419035055
+
+23) miss_georgiana_a - 0.9105503559112613
+
+24) mrs_bentley_drummle_a - 0.894865738733499
+
+25) startop_a - 0.8751450702634511
+
+26) mrs_hubble_a - 0.8464559316635192
+
+27) bill_barley_a - 0.8425712491614386
+
+28) barnard_a - 0.837372104808343
+
+29) newgate_a - 0.8053271058396775
+
+30) walworth_a - 0.7992054104331394
+
+31) jolly_bargemen_a - 0.7771914601326044
+
+32) blue_boar_a - 0.769796192646032
+
+33) tom_a - 0.7619743489042434
+
+34) jack_a - 0.7307767764891354
+
+35) richard_a - 0.650862592561554
+
+Result for the vector: miss_havisham, coming from part b of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9680929260032423
+
+1) miss_havisham_a - 0.9680929260032423
+
+2) miss_sarah_pocket_a - 0.9600451016399221
+
+3) mrs_pocket_a - 0.9571157744984896
+
+4) biddy_a - 0.9564124060746348
+
+5) miss_estella_a - 0.9557341363588507
+
+6) mr_wopsle_a - 0.9536030320165751
+
+7) mrs_camilla_a - 0.9531281278469707
+
+8) mr_matthew_pocket_a - 0.9504438355432836
+
+9) old_orlick_a - 0.9504341795911178
+
+10) herbert_pocket_a - 0.9499679863491075
+
+11) mr_jaggers_a - 0.9485039741692576
+
+12) mrs_joe_gargery_a - 0.9473773868455077
+
+13) miss_jane_a - 0.943399618256162
+
+14) mr_wemmick_a - 0.936691951151143
+
+15) mr_drummle_a - 0.9349666477710196
+
+16) mr_trabb_a - 0.920361908663458
+
+17) mr_pip_a - 0.9197846055030888
+
+18) flopson_a - 0.9197834456031524
+
+19) mr_pumblechook_a - 0.9169114281587958
+
+20) startop_a - 0.9123470239432456
+
+21) joseph_gargery_a - 0.9109289752329618
+
+22) miss_georgiana_a - 0.9053037875528589
+
+23) handel_a - 0.9003410994803266
+
+24) mike_a - 0.8812937211219254
+
+25) mrs_hubble_a - 0.8741845638531967
+
+26) barnard_a - 0.8717536330223146
+
+27) mrs_bentley_drummle_a - 0.8538504838943543
+
+28) newgate_a - 0.8271188242960692
+
+29) walworth_a - 0.8241209492611334
+
+30) bill_barley_a - 0.806867730208176
+
+31) blue_boar_a - 0.7758554487400712
+
+32) tom_a - 0.7714071682559561
+
+33) jolly_bargemen_a - 0.7673127332552989
+
+34) jack_a - 0.7522627935487948
+
+35) richard_a - 0.6619729399681138
+
+Result for the vector: mr_pumblechook, coming from part b of the book
+Rank: 11 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9599320888519287
+
+1) mr_jaggers_a - 0.9791315197944641
+
+2) herbert_pocket_a - 0.9785913837795642
+
+3) mr_wemmick_a - 0.9774884012355396
+
+4) mrs_joe_gargery_a - 0.9756960868835449
+
+5) mr_matthew_pocket_a - 0.9746920160857449
+
+6) old_orlick_a - 0.9746761612497621
+
+7) mr_drummle_a - 0.9723477620404712
+
+8) mr_wopsle_a - 0.97116619348526
+
+9) mr_trabb_a - 0.9701621225524586
+
+10) miss_havisham_a - 0.9610300133770834
+
+11) mr_pumblechook_a - 0.9599320888519287
+
+12) miss_sarah_pocket_a - 0.9583101868629456
+
+13) miss_estella_a - 0.9536824822425842
+
+14) mike_a - 0.9451080560684204
+
+15) mrs_pocket_a - 0.9441173109938333
+
+16) biddy_a - 0.9428954405455426
+
+17) miss_jane_a - 0.9402396750164487
+
+18) flopson_a - 0.9382524173931012
+
+19) mrs_camilla_a - 0.9365983250676125
+
+20) startop_a - 0.9362275004386902
+
+21) handel_a - 0.9321600198745728
+
+22) joseph_gargery_a - 0.9262610121809849
+
+23) mr_pip_a - 0.9212102247005851
+
+24) miss_georgiana_a - 0.916228120551819
+
+25) barnard_a - 0.8786127494938836
+
+26) mrs_hubble_a - 0.8750622943006594
+
+27) mrs_bentley_drummle_a - 0.8745522424311798
+
+28) newgate_a - 0.8328711986541748
+
+29) bill_barley_a - 0.8281236290931702
+
+30) walworth_a - 0.8135157823562622
+
+31) jolly_bargemen_a - 0.7850760945632416
+
+32) tom_a - 0.7850202578282105
+
+33) blue_boar_a - 0.7802751195266785
+
+34) jack_a - 0.7375416819043501
+
+35) richard_a - 0.6898393446111301
+
+Result for the vector: mr_wopsle, coming from part b of the book
+Rank: 4 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9664704491636296
+
+1) herbert_pocket_a - 0.9682594249171229
+
+2) mr_drummle_a - 0.9681805911387139
+
+3) mr_matthew_pocket_a - 0.9672771672771673
+
+4) mr_wopsle_a - 0.9664704491636296
+
+5) mr_jaggers_a - 0.9628867793943523
+
+6) mr_trabb_a - 0.9620884038262608
+
+7) mr_wemmick_a - 0.9589653349847899
+
+8) mrs_joe_gargery_a - 0.9561842964942547
+
+9) old_orlick_a - 0.9532514782697844
+
+10) mr_pumblechook_a - 0.9486149236147087
+
+11) miss_havisham_a - 0.9397672802556838
+
+12) miss_sarah_pocket_a - 0.9339174310540391
+
+13) miss_estella_a - 0.9316244403011934
+
+14) startop_a - 0.9255746878854841
+
+15) mike_a - 0.9205749309234305
+
+16) mrs_pocket_a - 0.9169921005668646
+
+17) handel_a - 0.916548756258153
+
+18) miss_jane_a - 0.9150479809897064
+
+19) biddy_a - 0.9147439548220607
+
+20) flopson_a - 0.9098640030541422
+
+21) miss_georgiana_a - 0.9023263185523094
+
+22) mrs_camilla_a - 0.9021029355648695
+
+23) joseph_gargery_a - 0.8957832784717333
+
+24) barnard_a - 0.8813197208630793
+
+25) mr_pip_a - 0.8800344657928768
+
+26) mrs_bentley_drummle_a - 0.8597769313851239
+
+27) mrs_hubble_a - 0.8443636642586126
+
+28) newgate_a - 0.8373732220343719
+
+29) bill_barley_a - 0.8184460645450973
+
+30) walworth_a - 0.8025338888923497
+
+31) tom_a - 0.7997159838930472
+
+32) jolly_bargemen_a - 0.7770655519644782
+
+33) blue_boar_a - 0.7701359757740536
+
+34) jack_a - 0.7237490682302807
+
+35) richard_a - 0.7069832718655416
+
+Result for the vector: mr_matthew_pocket, coming from part b of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9707565000878726
+
+1) mr_matthew_pocket_a - 0.9707565000878726
+
+2) herbert_pocket_a - 0.9669849892267608
+
+3) mr_drummle_a - 0.9651643283910156
+
+4) mrs_joe_gargery_a - 0.9565979242324829
+
+5) mr_wopsle_a - 0.955819308757782
+
+6) mr_wemmick_a - 0.9488997520327931
+
+7) old_orlick_a - 0.9471137209866564
+
+8) mr_pumblechook_a - 0.9447357058525085
+
+9) mr_jaggers_a - 0.9435261487960815
+
+10) mr_trabb_a - 0.9433937949953618
+
+11) miss_havisham_a - 0.9403935181391059
+
+12) miss_estella_a - 0.9398956298828125
+
+13) miss_sarah_pocket_a - 0.9397760033607483
+
+14) startop_a - 0.9395656585693359
+
+15) mrs_pocket_a - 0.9258190437663187
+
+16) biddy_a - 0.9239715613118283
+
+17) miss_jane_a - 0.9212107156263994
+
+18) handel_a - 0.9133272171020508
+
+19) mrs_camilla_a - 0.9111934522861385
+
+20) flopson_a - 0.9092589887755812
+
+21) miss_georgiana_a - 0.9008477389307193
+
+22) mike_a - 0.8974097967147827
+
+23) joseph_gargery_a - 0.8901112145119198
+
+24) mr_pip_a - 0.8816342283269318
+
+25) barnard_a - 0.87897580140685
+
+26) mrs_hubble_a - 0.8518033712027463
+
+27) mrs_bentley_drummle_a - 0.842022707582875
+
+28) walworth_a - 0.834495484828949
+
+29) bill_barley_a - 0.8250414133071899
+
+30) newgate_a - 0.8237637877464294
+
+31) tom_a - 0.7810616754219974
+
+32) jolly_bargemen_a - 0.778945459190283
+
+33) blue_boar_a - 0.7788716686444493
+
+34) jack_a - 0.7322216688592763
+
+35) richard_a - 0.6862053088072139
+
+Result for the vector: old_orlick, coming from part b of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9627079102956244
+
+1) old_orlick_a - 0.9627079102956244
+
+2) mr_jaggers_a - 0.9541571194938346
+
+3) mr_wemmick_a - 0.950058710561106
+
+4) herbert_pocket_a - 0.9495621413775447
+
+5) miss_havisham_a - 0.9464802901505576
+
+6) mr_wopsle_a - 0.9455842440624014
+
+7) mr_matthew_pocket_a - 0.9442317833693326
+
+8) mr_drummle_a - 0.9361570160436078
+
+9) mrs_joe_gargery_a - 0.934168346623386
+
+10) mr_pip_a - 0.9329561035063354
+
+11) miss_jane_a - 0.9324003619193167
+
+12) miss_estella_a - 0.9286484803380459
+
+13) mr_pumblechook_a - 0.9274618712113123
+
+14) miss_sarah_pocket_a - 0.9271307674490556
+
+15) mrs_camilla_a - 0.9250368796278178
+
+16) mr_trabb_a - 0.9187405480080455
+
+17) mrs_pocket_a - 0.9185961034424136
+
+18) flopson_a - 0.9097361347315291
+
+19) joseph_gargery_a - 0.9080420300885401
+
+20) biddy_a - 0.9058937812542616
+
+21) startop_a - 0.9011091111768416
+
+22) handel_a - 0.8899557125621248
+
+23) miss_georgiana_a - 0.8849098888200736
+
+24) mike_a - 0.8840130705817917
+
+25) barnard_a - 0.8534341541866108
+
+26) mrs_bentley_drummle_a - 0.8528555123296211
+
+27) mrs_hubble_a - 0.834324866355981
+
+28) newgate_a - 0.8227732392819893
+
+29) walworth_a - 0.8189069248548894
+
+30) bill_barley_a - 0.8173380115821406
+
+31) blue_boar_a - 0.7696086580261021
+
+32) tom_a - 0.763559874639541
+
+33) jolly_bargemen_a - 0.7598550153037892
+
+34) jack_a - 0.7580786121464355
+
+35) richard_a - 0.6592770421935996
+
+Result for the vector: mr_drummle, coming from part b of the book
+Rank: 7 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9582066746785298
+
+1) mr_wemmick_a - 0.9793409121429533
+
+2) old_orlick_a - 0.978900520107197
+
+3) mr_jaggers_a - 0.9788878547482421
+
+4) herbert_pocket_a - 0.9686759114265511
+
+5) mr_wopsle_a - 0.9636957027730781
+
+6) mr_matthew_pocket_a - 0.960177805439634
+
+7) mr_drummle_a - 0.9582066746785298
+
+8) mr_pip_a - 0.9567469306882537
+
+9) mrs_joe_gargery_a - 0.956661102572747
+
+10) miss_havisham_a - 0.9561966709856459
+
+11) mr_trabb_a - 0.9553901811292934
+
+12) mrs_camilla_a - 0.9482909065918489
+
+13) mr_pumblechook_a - 0.9459939566847076
+
+14) joseph_gargery_a - 0.9449183940887518
+
+15) miss_sarah_pocket_a - 0.9433506693453012
+
+16) miss_jane_a - 0.9419020448981648
+
+17) miss_estella_a - 0.9402194583546809
+
+18) flopson_a - 0.9380950574363823
+
+19) mrs_pocket_a - 0.9359942674636907
+
+20) mike_a - 0.9345767459021076
+
+21) handel_a - 0.9299437361922124
+
+22) biddy_a - 0.9266838663831833
+
+23) startop_a - 0.918749744817601
+
+24) miss_georgiana_a - 0.9105452895164554
+
+25) mrs_bentley_drummle_a - 0.8870489462672408
+
+26) barnard_a - 0.8548273867162927
+
+27) mrs_hubble_a - 0.8522583842277588
+
+28) bill_barley_a - 0.8295839327325796
+
+29) walworth_a - 0.8209618819333259
+
+30) newgate_a - 0.8141536005826965
+
+31) blue_boar_a - 0.7816385626792963
+
+32) jolly_bargemen_a - 0.7799878716468867
+
+33) tom_a - 0.7747842803726153
+
+34) jack_a - 0.7534664799968127
+
+35) richard_a - 0.6684902511227431
+
+Result for the vector: handel, coming from part b of the book
+Rank: 2 out of 35 characters
+Cosine similarity to the co-referring vector: 0.951766905293878
+
+1) joseph_gargery_a - 0.9546265006065436
+
+2) handel_a - 0.951766905293878
+
+3) mr_pip_a - 0.9481503305614388
+
+4) mr_jaggers_a - 0.939390178882492
+
+5) mr_wemmick_a - 0.9362664260705605
+
+6) mr_matthew_pocket_a - 0.9353583695314861
+
+7) old_orlick_a - 0.9332420468248771
+
+8) miss_jane_a - 0.9301403206503349
+
+9) flopson_a - 0.9288374419961077
+
+10) mr_drummle_a - 0.9274917987717007
+
+11) mr_wopsle_a - 0.925611729956374
+
+12) herbert_pocket_a - 0.924445271492011
+
+13) miss_havisham_a - 0.9195830917855653
+
+14) mr_trabb_a - 0.9178818688883073
+
+15) mrs_camilla_a - 0.9151039295053381
+
+16) mr_pumblechook_a - 0.91465740887269
+
+17) mrs_pocket_a - 0.9146272540092534
+
+18) miss_georgiana_a - 0.9138658046722477
+
+19) miss_sarah_pocket_a - 0.9126713819903975
+
+20) mrs_joe_gargery_a - 0.9115970678089318
+
+21) mrs_bentley_drummle_a - 0.9029813293196356
+
+22) biddy_a - 0.9012583107881231
+
+23) mike_a - 0.9006853640488023
+
+24) miss_estella_a - 0.9005339682420489
+
+25) startop_a - 0.8611525214405386
+
+26) bill_barley_a - 0.854577473078817
+
+27) mrs_hubble_a - 0.8393625617027343
+
+28) barnard_a - 0.8273360523386064
+
+29) newgate_a - 0.8017225743366836
+
+30) walworth_a - 0.7886634343065893
+
+31) jolly_bargemen_a - 0.76612931489945
+
+32) blue_boar_a - 0.7531132102012688
+
+33) tom_a - 0.7471615822815072
+
+34) jack_a - 0.7178215858074408
+
+35) richard_a - 0.6585777590963553
+
+Result for the vector: mr_trabb, coming from part b of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.921590484238532
+
+1) mr_trabb_a - 0.921590484238532
+
+2) mr_wopsle_a - 0.9068216792557686
+
+3) mr_matthew_pocket_a - 0.895246842928523
+
+4) mr_jaggers_a - 0.8925602564143892
+
+5) mr_drummle_a - 0.8889766600423376
+
+6) miss_havisham_a - 0.8878251052424013
+
+7) herbert_pocket_a - 0.8811719034006784
+
+8) mr_pumblechook_a - 0.8795332456191548
+
+9) old_orlick_a - 0.8775951673750527
+
+10) mr_wemmick_a - 0.873767763670024
+
+11) mrs_joe_gargery_a - 0.8732713611994614
+
+12) miss_sarah_pocket_a - 0.8683024801847424
+
+13) barnard_a - 0.8611965262176815
+
+14) miss_estella_a - 0.860758142380942
+
+15) miss_georgiana_a - 0.8570465701139162
+
+16) startop_a - 0.8562482170762817
+
+17) miss_jane_a - 0.8554017888541725
+
+18) mrs_pocket_a - 0.8503465324020641
+
+19) flopson_a - 0.8463534552139029
+
+20) joseph_gargery_a - 0.8398914027408252
+
+21) mrs_bentley_drummle_a - 0.8370617129170007
+
+22) mr_pip_a - 0.8360861637541092
+
+23) mrs_camilla_a - 0.8351620186817226
+
+24) biddy_a - 0.8345661609262773
+
+25) handel_a - 0.8337112863408045
+
+26) mike_a - 0.828021368024192
+
+27) tom_a - 0.8251281201533984
+
+28) newgate_a - 0.8042071099034473
+
+29) mrs_hubble_a - 0.7848117736318531
+
+30) walworth_a - 0.7764289049590994
+
+31) bill_barley_a - 0.7760374813035208
+
+32) jolly_bargemen_a - 0.750474914823489
+
+33) blue_boar_a - 0.7411093578739135
+
+34) jack_a - 0.7240233205550077
+
+35) richard_a - 0.6172403325295349
+
+Result for the vector: joseph_gargery, coming from part b of the book
+Rank: 5 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9378735571209122
+
+1) mr_pip_a - 0.9570414475153424
+
+2) old_orlick_a - 0.9486641066277075
+
+3) mr_jaggers_a - 0.9438133936262174
+
+4) mr_wemmick_a - 0.9419696503968106
+
+5) joseph_gargery_a - 0.9378735571209122
+
+6) miss_havisham_a - 0.9329973102817618
+
+7) herbert_pocket_a - 0.9287547042954739
+
+8) miss_jane_a - 0.9247389064017234
+
+9) mr_wopsle_a - 0.9247104660194426
+
+10) mr_drummle_a - 0.9222469054983484
+
+11) mrs_camilla_a - 0.9220708976324922
+
+12) mr_matthew_pocket_a - 0.9219298181042547
+
+13) flopson_a - 0.9181258502415246
+
+14) mr_trabb_a - 0.9103288486110097
+
+15) miss_sarah_pocket_a - 0.9101234835165616
+
+16) mr_pumblechook_a - 0.9096771640162916
+
+17) handel_a - 0.9082271620821212
+
+18) mrs_joe_gargery_a - 0.9058944751213084
+
+19) mrs_pocket_a - 0.9015231367294526
+
+20) miss_estella_a - 0.9006558834333772
+
+21) mike_a - 0.8915811970982938
+
+22) miss_georgiana_a - 0.8909450433385332
+
+23) biddy_a - 0.8886558877444628
+
+24) mrs_bentley_drummle_a - 0.8706089412440379
+
+25) startop_a - 0.8582916513160036
+
+26) barnard_a - 0.8320237002344725
+
+27) walworth_a - 0.8280033180707853
+
+28) bill_barley_a - 0.8234842735259176
+
+29) mrs_hubble_a - 0.8233147088731088
+
+30) newgate_a - 0.8143199418211218
+
+31) blue_boar_a - 0.7805286573103347
+
+32) jolly_bargemen_a - 0.7761055168854013
+
+33) jack_a - 0.7470316219003807
+
+34) tom_a - 0.7391002359687592
+
+35) richard_a - 0.6430206128334451
+
+Result for the vector: jack, coming from part b of the book
+Rank: 34 out of 35 characters
+Cosine similarity to the co-referring vector: 0.726656025051122
+
+1) mr_drummle_a - 0.8946681759757165
+
+2) old_orlick_a - 0.8913123873267293
+
+3) mr_jaggers_a - 0.8888362646102905
+
+4) mr_pumblechook_a - 0.8881033658981323
+
+5) mr_matthew_pocket_a - 0.8848198915964337
+
+6) herbert_pocket_a - 0.8833355973162906
+
+7) mr_wemmick_a - 0.8816505811631049
+
+8) mr_trabb_a - 0.8816207910067083
+
+9) mr_wopsle_a - 0.8814907670021057
+
+10) flopson_a - 0.8787186407661037
+
+11) mrs_joe_gargery_a - 0.8725302815437317
+
+12) miss_jane_a - 0.8723037991161647
+
+13) handel_a - 0.8658324480056763
+
+14) mike_a - 0.8632045984268188
+
+15) mr_pip_a - 0.8630824603487542
+
+16) miss_havisham_a - 0.8621905692475154
+
+17) joseph_gargery_a - 0.8616198979842739
+
+18) miss_sarah_pocket_a - 0.8603072762489319
+
+19) miss_estella_a - 0.8589258193969727
+
+20) mrs_camilla_a - 0.854906993052992
+
+21) miss_georgiana_a - 0.8534841028759433
+
+22) startop_a - 0.852175235748291
+
+23) mrs_pocket_a - 0.8512005298614201
+
+24) biddy_a - 0.8397037637145452
+
+25) bill_barley_a - 0.8235485553741455
+
+26) mrs_bentley_drummle_a - 0.8199363839588408
+
+27) barnard_a - 0.8088067059997756
+
+28) mrs_hubble_a - 0.7987353325643951
+
+29) jolly_bargemen_a - 0.7926647190651479
+
+30) blue_boar_a - 0.7865773566617171
+
+31) newgate_a - 0.7740450501441956
+
+32) walworth_a - 0.7508686780929565
+
+33) tom_a - 0.7362909035335946
+
+34) jack_a - 0.726656025051122
+
+35) richard_a - 0.6215587628816832
+
+Result for the vector: miss_sarah_pocket, coming from part b of the book
+Rank: 4 out of 35 characters
+Cosine similarity to the co-referring vector: 0.8632837452461583
+
+1) flopson_a - 0.8689748229659939
+
+2) mr_matthew_pocket_a - 0.868896681269707
+
+3) mr_wopsle_a - 0.8651952067133923
+
+4) miss_sarah_pocket_a - 0.8632837452461583
+
+5) miss_estella_a - 0.8623846687307771
+
+6) mrs_pocket_a - 0.8623167276382507
+
+7) herbert_pocket_a - 0.855199158191687
+
+8) miss_jane_a - 0.8546736923054776
+
+9) miss_georgiana_a - 0.8532274961471619
+
+10) mr_drummle_a - 0.8512227522897535
+
+11) miss_havisham_a - 0.8505402385544735
+
+12) biddy_a - 0.8493618532444708
+
+13) mrs_joe_gargery_a - 0.8488607316530202
+
+14) mr_jaggers_a - 0.8470262793914262
+
+15) joseph_gargery_a - 0.8466925024986327
+
+16) mr_pumblechook_a - 0.8465900925749611
+
+17) old_orlick_a - 0.8433868446993991
+
+18) handel_a - 0.8410289788859489
+
+19) mr_wemmick_a - 0.8403925990824477
+
+20) mr_pip_a - 0.835713724579063
+
+21) mr_trabb_a - 0.8337988406835953
+
+22) mrs_camilla_a - 0.8300272271077677
+
+23) mrs_bentley_drummle_a - 0.8286079560050912
+
+24) startop_a - 0.8275534407826344
+
+25) mrs_hubble_a - 0.8182603120803891
+
+26) mike_a - 0.8132523186953272
+
+27) barnard_a - 0.7566726513710799
+
+28) bill_barley_a - 0.7430123533613906
+
+29) newgate_a - 0.7233318521578237
+
+30) walworth_a - 0.7107869810335041
+
+31) jolly_bargemen_a - 0.7016806602478077
+
+32) tom_a - 0.6994205296385084
+
+33) blue_boar_a - 0.695053994655614
+
+34) jack_a - 0.6493657602914813
+
+35) richard_a - 0.5953956956143016
+
+Result for the vector: mrs_camilla, coming from part b of the book
+Rank: 14 out of 35 characters
+Cosine similarity to the co-referring vector: 0.8427687444778188
+
+1) miss_havisham_a - 0.8639075999425311
+
+2) miss_estella_a - 0.8602033853530884
+
+3) mr_drummle_a - 0.8570723618674913
+
+4) mr_matthew_pocket_a - 0.8554517881706893
+
+5) mrs_pocket_a - 0.8551820602904537
+
+6) herbert_pocket_a - 0.8524374453760731
+
+7) mrs_joe_gargery_a - 0.8498166799545288
+
+8) flopson_a - 0.8491176619862817
+
+9) miss_sarah_pocket_a - 0.8485369682312012
+
+10) mr_jaggers_a - 0.8479291796684265
+
+11) miss_georgiana_a - 0.847069212968994
+
+12) mr_wopsle_a - 0.8464274406433105
+
+13) biddy_a - 0.846041466177746
+
+14) mrs_camilla_a - 0.8427687444778188
+
+15) old_orlick_a - 0.8377055775435445
+
+16) miss_jane_a - 0.8371011212943708
+
+17) mr_wemmick_a - 0.8367598251390725
+
+18) mr_pumblechook_a - 0.8357051014900208
+
+19) mr_trabb_a - 0.8338222752160516
+
+20) mr_pip_a - 0.8254116669542606
+
+21) joseph_gargery_a - 0.8176692236859083
+
+22) handel_a - 0.8147878646850586
+
+23) startop_a - 0.8135184049606323
+
+24) mrs_hubble_a - 0.8076326365689867
+
+25) barnard_a - 0.8054547789963963
+
+26) mike_a - 0.804366946220398
+
+27) mrs_bentley_drummle_a - 0.8023983718394277
+
+28) walworth_a - 0.7440050840377808
+
+29) newgate_a - 0.7416456937789917
+
+30) bill_barley_a - 0.7283344268798828
+
+31) jolly_bargemen_a - 0.7119491868049403
+
+32) tom_a - 0.7069505802451923
+
+33) blue_boar_a - 0.6960618677102418
+
+34) jack_a - 0.650221763571065
+
+35) richard_a - 0.6090566878948632
+
+Result for the vector: startop, coming from part b of the book
+Rank: 7 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9476633636750812
+
+1) mr_drummle_a - 0.962202868921167
+
+2) mr_matthew_pocket_a - 0.9592029713871756
+
+3) herbert_pocket_a - 0.9591577053070136
+
+4) mr_wopsle_a - 0.9510129064925275
+
+5) miss_estella_a - 0.9495645731428028
+
+6) mrs_joe_gargery_a - 0.9484855501941192
+
+7) startop_a - 0.9476633636750812
+
+8) miss_sarah_pocket_a - 0.9469758240566165
+
+9) old_orlick_a - 0.9407505042031862
+
+10) mr_pumblechook_a - 0.9382774197028546
+
+11) mrs_pocket_a - 0.9380406141281195
+
+12) mr_jaggers_a - 0.9380157552966942
+
+13) mr_wemmick_a - 0.9369905628567748
+
+14) mr_trabb_a - 0.9340697169962277
+
+15) miss_jane_a - 0.9324008266687049
+
+16) miss_havisham_a - 0.9308756672292416
+
+17) biddy_a - 0.923896335711748
+
+18) flopson_a - 0.9237184158311862
+
+19) mrs_camilla_a - 0.9200707852945906
+
+20) miss_georgiana_a - 0.9186838865280217
+
+21) handel_a - 0.9099470323292649
+
+22) mike_a - 0.8988175927887928
+
+23) joseph_gargery_a - 0.8905398249626223
+
+24) mr_pip_a - 0.8806266046317345
+
+25) mrs_hubble_a - 0.8658230304718079
+
+26) barnard_a - 0.8622356488985596
+
+27) mrs_bentley_drummle_a - 0.8594752978653071
+
+28) bill_barley_a - 0.8235744132741951
+
+29) walworth_a - 0.810082424287942
+
+30) newgate_a - 0.805359530768368
+
+31) jolly_bargemen_a - 0.7894673943519649
+
+32) blue_boar_a - 0.779107809066778
+
+33) tom_a - 0.7651519915371069
+
+34) jack_a - 0.7227286581290752
+
+35) richard_a - 0.6754442662530262
+
+Result for the vector: flopson, coming from part b of the book
+Rank: 20 out of 35 characters
+Cosine similarity to the co-referring vector: 0.5548255608923903
+
+1) mr_pip_a - 0.6757311031658126
+
+2) mrs_camilla_a - 0.6639270780021347
+
+3) old_orlick_a - 0.649794538312988
+
+4) miss_jane_a - 0.6208143686277471
+
+5) joseph_gargery_a - 0.6044903633302244
+
+6) walworth_a - 0.6016372442245483
+
+7) miss_havisham_a - 0.5982504013329122
+
+8) herbert_pocket_a - 0.5975595356488516
+
+9) jack_a - 0.5933099323490225
+
+10) miss_sarah_pocket_a - 0.5915887355804443
+
+11) mr_wopsle_a - 0.5914467573165894
+
+12) mrs_pocket_a - 0.5841930756453837
+
+13) mr_jaggers_a - 0.5810173749923706
+
+14) mr_wemmick_a - 0.5789405609440176
+
+15) mr_pumblechook_a - 0.5781072378158569
+
+16) startop_a - 0.5730239748954773
+
+17) mr_matthew_pocket_a - 0.5729111603770008
+
+18) miss_estella_a - 0.5688937306404114
+
+19) mrs_joe_gargery_a - 0.5676471590995789
+
+20) flopson_a - 0.5548255608923903
+
+21) mr_drummle_a - 0.552160822177062
+
+22) biddy_a - 0.5464458628429733
+
+23) mr_trabb_a - 0.5380018513799267
+
+24) mrs_bentley_drummle_a - 0.5230874134950297
+
+25) handel_a - 0.5230620503425598
+
+26) blue_boar_a - 0.5191293049377627
+
+27) mike_a - 0.5132418274879456
+
+28) miss_georgiana_a - 0.5081366593756291
+
+29) bill_barley_a - 0.5004132390022278
+
+30) barnard_a - 0.49528285832899055
+
+31) mrs_hubble_a - 0.4878197319615056
+
+32) newgate_a - 0.48191726207733154
+
+33) tom_a - 0.44370020107028785
+
+34) jolly_bargemen_a - 0.43922999863445844
+
+35) richard_a - 0.3798928785260254
+
+Result for the vector: barnard, coming from part b of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9377584383199737
+
+1) barnard_a - 0.9377584383199737
+
+2) miss_havisham_a - 0.8034455414479554
+
+3) walworth_a - 0.7935486312835607
+
+4) mr_wopsle_a - 0.7770471439985732
+
+5) mr_jaggers_a - 0.7709828478683752
+
+6) mr_matthew_pocket_a - 0.7702854964392335
+
+7) mr_drummle_a - 0.7684787922904387
+
+8) newgate_a - 0.7665635804273846
+
+9) herbert_pocket_a - 0.766199648380285
+
+10) mr_trabb_a - 0.7660671561420405
+
+11) old_orlick_a - 0.7558681448580159
+
+12) blue_boar_a - 0.7543047070503288
+
+13) miss_georgiana_a - 0.7490991950035149
+
+14) mr_wemmick_a - 0.7471954377177217
+
+15) miss_estella_a - 0.7468330113192221
+
+16) mrs_joe_gargery_a - 0.7455917445177893
+
+17) mr_pumblechook_a - 0.7443651404598453
+
+18) miss_sarah_pocket_a - 0.7387139045425609
+
+19) mrs_pocket_a - 0.7376856207847647
+
+20) flopson_a - 0.7347828806742625
+
+21) biddy_a - 0.7320657430946005
+
+22) tom_a - 0.7301011246382636
+
+23) mrs_bentley_drummle_a - 0.7284941349618596
+
+24) startop_a - 0.7277813391555167
+
+25) mrs_camilla_a - 0.725079167646046
+
+26) miss_jane_a - 0.7225065992768761
+
+27) joseph_gargery_a - 0.7164647579193166
+
+28) handel_a - 0.7136854358724032
+
+29) jolly_bargemen_a - 0.711160182952886
+
+30) mike_a - 0.7072823469211083
+
+31) mr_pip_a - 0.7048241740255563
+
+32) mrs_hubble_a - 0.6993950009346058
+
+33) bill_barley_a - 0.6721622152425191
+
+34) jack_a - 0.6270977597084286
+
+35) richard_a - 0.5505542815392352
+
+Result for the vector: mrs_bentley_drummle, coming from part b of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9239119932704124
+
+1) mrs_bentley_drummle_a - 0.9239119932704124
+
+2) joseph_gargery_a - 0.8671755432172654
+
+3) mr_wopsle_a - 0.8568149379712479
+
+4) miss_georgiana_a - 0.8536618017562998
+
+5) mr_drummle_a - 0.8489569678592084
+
+6) mr_pip_a - 0.8482661337693985
+
+7) mr_jaggers_a - 0.8456160014133511
+
+8) mr_matthew_pocket_a - 0.8443289240304691
+
+9) flopson_a - 0.8381470288502939
+
+10) old_orlick_a - 0.8364139047491133
+
+11) mr_pumblechook_a - 0.8335099418747554
+
+12) miss_havisham_a - 0.8286012325879253
+
+13) handel_a - 0.8268474546852821
+
+14) herbert_pocket_a - 0.8267618131467452
+
+15) miss_jane_a - 0.8261998710155795
+
+16) mr_trabb_a - 0.8242753603212305
+
+17) mr_wemmick_a - 0.8207174967008837
+
+18) mrs_camilla_a - 0.820494806155735
+
+19) mrs_pocket_a - 0.8204147540781356
+
+20) miss_sarah_pocket_a - 0.8152840357680337
+
+21) mrs_joe_gargery_a - 0.8087446917599864
+
+22) miss_estella_a - 0.8062066666833617
+
+23) startop_a - 0.7943468339029806
+
+24) barnard_a - 0.7929715637581736
+
+25) mike_a - 0.7881966485742805
+
+26) biddy_a - 0.7856170428737749
+
+27) mrs_hubble_a - 0.7620119281985902
+
+28) bill_barley_a - 0.7604298281157276
+
+29) tom_a - 0.750284969738729
+
+30) newgate_a - 0.7386123253569268
+
+31) walworth_a - 0.7283039416904571
+
+32) blue_boar_a - 0.7201728129077901
+
+33) jolly_bargemen_a - 0.7157575400309206
+
+34) jack_a - 0.6657241980515805
+
+35) richard_a - 0.6074708338099318
+
+Result for the vector: blue_boar, coming from part b of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9261106252670354
+
+1) blue_boar_a - 0.9261106252670354
+
+2) jolly_bargemen_a - 0.9199393987655705
+
+3) miss_havisham_a - 0.7987791539694115
+
+4) old_orlick_a - 0.7908172122374668
+
+5) mr_drummle_a - 0.7849055377941987
+
+6) mr_matthew_pocket_a - 0.7820932968342275
+
+7) herbert_pocket_a - 0.7798976302146967
+
+8) barnard_a - 0.7791483138976472
+
+9) mr_jaggers_a - 0.7774481044678764
+
+10) mr_wopsle_a - 0.7770585284864039
+
+11) newgate_a - 0.7740626796521367
+
+12) miss_sarah_pocket_a - 0.772654102602847
+
+13) mr_trabb_a - 0.7718672846437057
+
+14) miss_georgiana_a - 0.7693965435028131
+
+15) miss_estella_a - 0.7685245137527309
+
+16) mr_wemmick_a - 0.7684908647244776
+
+17) miss_jane_a - 0.7662715455131924
+
+18) flopson_a - 0.7649281112785442
+
+19) mrs_joe_gargery_a - 0.7617300606805136
+
+20) walworth_a - 0.7616708732647238
+
+21) biddy_a - 0.7570169052794793
+
+22) mr_pumblechook_a - 0.7557685825686815
+
+23) mrs_camilla_a - 0.7545581988331975
+
+24) handel_a - 0.7539344283303291
+
+25) mrs_pocket_a - 0.7500349283218437
+
+26) joseph_gargery_a - 0.7495281100273186
+
+27) mr_pip_a - 0.7456876332387486
+
+28) bill_barley_a - 0.7443578686927492
+
+29) mike_a - 0.7428167905102261
+
+30) mrs_bentley_drummle_a - 0.7341304104483617
+
+31) startop_a - 0.7337580760573207
+
+32) mrs_hubble_a - 0.7093933820724537
+
+33) jack_a - 0.6952767216081506
+
+34) tom_a - 0.6945139351776988
+
+35) richard_a - 0.5565346546810453
+
+Result for the vector: miss_jane, coming from part b of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.815926776892542
+
+1) miss_jane_a - 0.815926776892542
+
+2) mrs_pocket_a - 0.8105111476626683
+
+3) mr_matthew_pocket_a - 0.8028160812149097
+
+4) miss_estella_a - 0.7999801874154866
+
+5) mr_pumblechook_a - 0.7993350267212105
+
+6) mrs_joe_gargery_a - 0.7971634506333907
+
+7) miss_sarah_pocket_a - 0.7947402237278294
+
+8) mr_drummle_a - 0.7905830366461994
+
+9) biddy_a - 0.78844838073542
+
+10) miss_havisham_a - 0.7850481294023969
+
+11) miss_georgiana_a - 0.783991134643822
+
+12) flopson_a - 0.7818182576786433
+
+13) herbert_pocket_a - 0.7790959841282403
+
+14) mr_trabb_a - 0.7781685458522168
+
+15) mr_wopsle_a - 0.7760935657052271
+
+16) mrs_hubble_a - 0.7735714681872319
+
+17) startop_a - 0.7708202830201475
+
+18) mrs_camilla_a - 0.7690680943808682
+
+19) mr_jaggers_a - 0.7641604770469811
+
+20) old_orlick_a - 0.7632470585851108
+
+21) mr_wemmick_a - 0.7627319607676387
+
+22) handel_a - 0.7604344117770917
+
+23) mr_pip_a - 0.7332744061894187
+
+24) mike_a - 0.732529721633486
+
+25) joseph_gargery_a - 0.7318858286176404
+
+26) barnard_a - 0.7271418625541209
+
+27) bill_barley_a - 0.7120604727286245
+
+28) mrs_bentley_drummle_a - 0.7100852170662779
+
+29) newgate_a - 0.6941505281374019
+
+30) tom_a - 0.6597136265295555
+
+31) jolly_bargemen_a - 0.6505393192011347
+
+32) walworth_a - 0.6474945142118491
+
+33) blue_boar_a - 0.6347346116681538
+
+34) jack_a - 0.6283343587320289
+
+35) richard_a - 0.5814774556288831
+
+Result for the vector: mrs_pocket, coming from part b of the book
+Rank: 3 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9134484581083995
+
+1) biddy_a - 0.9221548116849311
+
+2) miss_estella_a - 0.9179368615150452
+
+3) mrs_pocket_a - 0.9134484581083995
+
+4) miss_sarah_pocket_a - 0.9061740040779114
+
+5) mrs_joe_gargery_a - 0.9027084112167358
+
+6) mr_matthew_pocket_a - 0.8818753028474843
+
+7) startop_a - 0.8799970746040344
+
+8) miss_havisham_a - 0.8772040825121395
+
+9) herbert_pocket_a - 0.8736841157863087
+
+10) mr_drummle_a - 0.8637881374043527
+
+11) mr_wopsle_a - 0.8618795871734619
+
+12) miss_jane_a - 0.8575073650470598
+
+13) mrs_camilla_a - 0.8545534778732224
+
+14) mrs_hubble_a - 0.8539857355364734
+
+15) flopson_a - 0.8470450892163843
+
+16) mr_pumblechook_a - 0.8429561853408813
+
+17) mr_trabb_a - 0.8367897521492769
+
+18) old_orlick_a - 0.8354815493667591
+
+19) mr_wemmick_a - 0.834690054095983
+
+20) miss_georgiana_a - 0.833784649742566
+
+21) mr_jaggers_a - 0.8298077583312988
+
+22) handel_a - 0.8098297119140625
+
+23) mike_a - 0.8098211288452148
+
+24) barnard_a - 0.7934698935431193
+
+25) joseph_gargery_a - 0.76965077104266
+
+26) mr_pip_a - 0.7634952523407504
+
+27) mrs_bentley_drummle_a - 0.7267509535998687
+
+28) newgate_a - 0.720765233039856
+
+29) walworth_a - 0.7127004861831665
+
+30) bill_barley_a - 0.7056010961532593
+
+31) jolly_bargemen_a - 0.682790417504883
+
+32) blue_boar_a - 0.671316106837029
+
+33) tom_a - 0.6690010226963778
+
+34) jack_a - 0.6100435802379496
+
+35) richard_a - 0.6021466018048894
+
+Result for the vector: mrs_hubble, coming from part b of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.8662404755878341
+
+1) mrs_hubble_a - 0.8662404755878341
+
+2) mrs_pocket_a - 0.8028858660791588
+
+3) mrs_camilla_a - 0.7584495256483003
+
+4) miss_estella_a - 0.7534952388255373
+
+5) miss_sarah_pocket_a - 0.7370178323095394
+
+6) flopson_a - 0.7358853659561495
+
+7) biddy_a - 0.7352775177524995
+
+8) mr_matthew_pocket_a - 0.7344218334211012
+
+9) herbert_pocket_a - 0.7297724267908237
+
+10) mr_pumblechook_a - 0.7266890027132337
+
+11) miss_jane_a - 0.7262194103402507
+
+12) startop_a - 0.7239032007426981
+
+13) mrs_joe_gargery_a - 0.7208585953968348
+
+14) mr_drummle_a - 0.7196366881674617
+
+15) mr_wopsle_a - 0.7189390873592824
+
+16) miss_havisham_a - 0.7157548791535534
+
+17) miss_georgiana_a - 0.7114158656771251
+
+18) handel_a - 0.6954804270112644
+
+19) mr_trabb_a - 0.6940797385024868
+
+20) mr_jaggers_a - 0.6939435808045742
+
+21) old_orlick_a - 0.6923091824239005
+
+22) mr_wemmick_a - 0.6905890085766683
+
+23) joseph_gargery_a - 0.6846393142748111
+
+24) mike_a - 0.6665594776439514
+
+25) mr_pip_a - 0.6547406305140824
+
+26) mrs_bentley_drummle_a - 0.6485774500886309
+
+27) barnard_a - 0.6413884736348817
+
+28) bill_barley_a - 0.6265516467854875
+
+29) walworth_a - 0.5984171807294246
+
+30) newgate_a - 0.5959598599660357
+
+31) jolly_bargemen_a - 0.5884237710111233
+
+32) tom_a - 0.5676072328441892
+
+33) blue_boar_a - 0.5621789526290036
+
+34) richard_a - 0.5203553903420621
+
+35) jack_a - 0.5118768229337729
+
+Result for the vector: mike, coming from part b of the book
+Rank: 22 out of 35 characters
+Cosine similarity to the co-referring vector: 0.857890784740448
+
+1) mr_wopsle_a - 0.9149051308631897
+
+2) mr_drummle_a - 0.9077152174286969
+
+3) mr_jaggers_a - 0.9030627608299255
+
+4) mr_matthew_pocket_a - 0.9002391368221984
+
+5) mr_trabb_a - 0.8910405305338068
+
+6) old_orlick_a - 0.8907679584851257
+
+7) herbert_pocket_a - 0.8869947858455921
+
+8) miss_sarah_pocket_a - 0.8833093643188477
+
+9) miss_havisham_a - 0.8810207460485696
+
+10) mr_pumblechook_a - 0.8806687593460083
+
+11) mr_wemmick_a - 0.8804509186207216
+
+12) miss_jane_a - 0.8798668527761936
+
+13) miss_georgiana_a - 0.8795267415328791
+
+14) mrs_joe_gargery_a - 0.8775607943534851
+
+15) joseph_gargery_a - 0.8756474926681836
+
+16) handel_a - 0.873699426651001
+
+17) mrs_bentley_drummle_a - 0.8721926732178151
+
+18) mrs_pocket_a - 0.8720769362403804
+
+19) flopson_a - 0.8667824526662369
+
+20) miss_estella_a - 0.8631777167320251
+
+21) mrs_camilla_a - 0.8580971531358831
+
+22) mike_a - 0.857890784740448
+
+23) biddy_a - 0.855617250669517
+
+24) startop_a - 0.8544799089431763
+
+25) mr_pip_a - 0.8536837013771371
+
+26) barnard_a - 0.8338011404157379
+
+27) mrs_hubble_a - 0.8036086676354025
+
+28) newgate_a - 0.7982314825057983
+
+29) bill_barley_a - 0.7962867021560669
+
+30) tom_a - 0.7860457556193222
+
+31) jolly_bargemen_a - 0.7729775444878625
+
+32) blue_boar_a - 0.759373500384481
+
+33) walworth_a - 0.7589121460914612
+
+34) jack_a - 0.7110633889791448
+
+35) richard_a - 0.6611965692756527
+
+Result for the vector: jolly_bargemen, coming from part b of the book
+Rank: 2 out of 35 characters
+Cosine similarity to the co-referring vector: 0.83538195000238
+
+1) blue_boar_a - 0.8504518523947051
+
+2) jolly_bargemen_a - 0.83538195000238
+
+3) miss_havisham_a - 0.7719102407774392
+
+4) old_orlick_a - 0.7710689629398554
+
+5) mr_drummle_a - 0.7704746771990497
+
+6) herbert_pocket_a - 0.7695554724203276
+
+7) mr_matthew_pocket_a - 0.7691620313122324
+
+8) handel_a - 0.7674036116066855
+
+9) mr_jaggers_a - 0.7669056743597128
+
+10) mr_wopsle_a - 0.7663204163003371
+
+11) miss_georgiana_a - 0.7613792646342381
+
+12) miss_jane_a - 0.7606107961949634
+
+13) mr_trabb_a - 0.7602559042282003
+
+14) flopson_a - 0.7592702817046991
+
+15) mr_wemmick_a - 0.7588090670463886
+
+16) bill_barley_a - 0.758200355607306
+
+17) joseph_gargery_a - 0.7581475603028489
+
+18) miss_sarah_pocket_a - 0.7559852679954739
+
+19) miss_estella_a - 0.7540322620301511
+
+20) mrs_joe_gargery_a - 0.7455696534129698
+
+21) biddy_a - 0.7426060727365117
+
+22) mr_pip_a - 0.7410029084984825
+
+23) mr_pumblechook_a - 0.7407000727087354
+
+24) mrs_pocket_a - 0.739952943919695
+
+25) mrs_camilla_a - 0.7389791141115035
+
+26) mrs_bentley_drummle_a - 0.7298776998933706
+
+27) barnard_a - 0.7229937796285423
+
+28) mike_a - 0.7221975972233083
+
+29) walworth_a - 0.7154824181332394
+
+30) newgate_a - 0.7135995668410896
+
+31) startop_a - 0.712859157877492
+
+32) mrs_hubble_a - 0.7086594912010359
+
+33) tom_a - 0.6803177988434642
+
+34) jack_a - 0.6422139958525889
+
+35) richard_a - 0.5298515155690189
+
+Result for the vector: bill_barley, coming from part b of the book
+Rank: 12 out of 35 characters
+Cosine similarity to the co-referring vector: 0.8764331340789795
+
+1) mr_drummle_a - 0.8963472986738928
+
+2) mr_matthew_pocket_a - 0.8944064645292306
+
+3) mr_pumblechook_a - 0.8885537385940552
+
+4) old_orlick_a - 0.8884117272022886
+
+5) mr_trabb_a - 0.8865297104874171
+
+6) mr_wopsle_a - 0.8840190768241882
+
+7) herbert_pocket_a - 0.8820695351320798
+
+8) flopson_a - 0.8818673158248463
+
+9) mr_jaggers_a - 0.8813862204551697
+
+10) miss_jane_a - 0.8793149734360074
+
+11) miss_havisham_a - 0.8778788069703468
+
+12) bill_barley_a - 0.8764331340789795
+
+13) mr_wemmick_a - 0.876350655990767
+
+14) mrs_joe_gargery_a - 0.8736331462860107
+
+15) miss_georgiana_a - 0.8735737279907643
+
+16) miss_estella_a - 0.870307207107544
+
+17) handel_a - 0.8699238300323486
+
+18) miss_sarah_pocket_a - 0.8674724102020264
+
+19) mrs_pocket_a - 0.8575402583157877
+
+20) joseph_gargery_a - 0.8559011902868053
+
+21) mr_pip_a - 0.8541396173321988
+
+22) mike_a - 0.8475239276885986
+
+23) biddy_a - 0.8451613439667629
+
+24) startop_a - 0.8425388336181641
+
+25) mrs_camilla_a - 0.8398372685763812
+
+26) barnard_a - 0.8380312823075835
+
+27) mrs_bentley_drummle_a - 0.8287840383520164
+
+28) newgate_a - 0.824035108089447
+
+29) jolly_bargemen_a - 0.8165102710419746
+
+30) mrs_hubble_a - 0.8098239415988971
+
+31) blue_boar_a - 0.7943366888560852
+
+32) walworth_a - 0.7743759155273438
+
+33) tom_a - 0.766931740411318
+
+34) jack_a - 0.7397545641441283
+
+35) richard_a - 0.6526432426359213
+
+Result for the vector: newgate, coming from part b of the book
+Rank: 15 out of 35 characters
+Cosine similarity to the co-referring vector: 0.8869301873681152
+
+1) miss_havisham_a - 0.9341869115066646
+
+2) mr_jaggers_a - 0.923086487330782
+
+3) mr_matthew_pocket_a - 0.9213934447042297
+
+4) mr_drummle_a - 0.9207949449527149
+
+5) herbert_pocket_a - 0.9195614135134743
+
+6) mr_wopsle_a - 0.9176023826839707
+
+7) barnard_a - 0.9117735194822434
+
+8) mr_trabb_a - 0.9107910288323214
+
+9) old_orlick_a - 0.9089760075778986
+
+10) mr_wemmick_a - 0.908279630295069
+
+11) mrs_joe_gargery_a - 0.9002759069451046
+
+12) miss_estella_a - 0.89955433305094
+
+13) mr_pumblechook_a - 0.895024975689502
+
+14) miss_sarah_pocket_a - 0.8941572511932813
+
+15) newgate_a - 0.8869301873681152
+
+16) miss_jane_a - 0.8837224577748235
+
+17) flopson_a - 0.8797656154353176
+
+18) miss_georgiana_a - 0.8778208755797506
+
+19) biddy_a - 0.8771835419158405
+
+20) mrs_pocket_a - 0.875989820837681
+
+21) handel_a - 0.8690473022205241
+
+22) mrs_camilla_a - 0.8686113122602663
+
+23) mike_a - 0.868340271860985
+
+24) startop_a - 0.8655452310036363
+
+25) joseph_gargery_a - 0.8649029393465298
+
+26) walworth_a - 0.8630221661647145
+
+27) mr_pip_a - 0.8593810885222392
+
+28) mrs_bentley_drummle_a - 0.8424794141172494
+
+29) mrs_hubble_a - 0.8137407545370179
+
+30) blue_boar_a - 0.813123488817328
+
+31) jolly_bargemen_a - 0.8112306836614307
+
+32) bill_barley_a - 0.8099797496181534
+
+33) tom_a - 0.8054496405884906
+
+34) jack_a - 0.7337032676404597
+
+35) richard_a - 0.6646508372799813
+
+Result for the vector: tom, coming from part b of the book
+Rank: 25 out of 35 characters
+Cosine similarity to the co-referring vector: 0.7756308584653363
+
+1) mr_wopsle_a - 0.8498345017433167
+
+2) mrs_bentley_drummle_a - 0.8494931965764297
+
+3) mr_jaggers_a - 0.8419160842895508
+
+4) mr_pip_a - 0.8400117659575814
+
+5) joseph_gargery_a - 0.839249441668426
+
+6) old_orlick_a - 0.833722616247017
+
+7) mr_matthew_pocket_a - 0.8307761797540245
+
+8) mr_trabb_a - 0.8280089148285665
+
+9) mr_drummle_a - 0.8245287574125556
+
+10) miss_havisham_a - 0.8228574711935405
+
+11) miss_jane_a - 0.822519561944066
+
+12) mr_wemmick_a - 0.8218744609505639
+
+13) herbert_pocket_a - 0.8207674729366631
+
+14) mr_pumblechook_a - 0.8203977346420288
+
+15) flopson_a - 0.8172628527063985
+
+16) miss_georgiana_a - 0.804945301714821
+
+17) handel_a - 0.8040332198143005
+
+18) mrs_joe_gargery_a - 0.801327109336853
+
+19) mrs_pocket_a - 0.8007394790208664
+
+20) mrs_camilla_a - 0.7964492556258402
+
+21) miss_sarah_pocket_a - 0.7941461205482483
+
+22) miss_estella_a - 0.791289746761322
+
+23) mike_a - 0.7833565473556519
+
+24) biddy_a - 0.7772338025937621
+
+25) tom_a - 0.7756308584653363
+
+26) startop_a - 0.7743946313858032
+
+27) bill_barley_a - 0.7679283618927002
+
+28) barnard_a - 0.7623557902786621
+
+29) newgate_a - 0.7465165853500366
+
+30) mrs_hubble_a - 0.744555369344035
+
+31) walworth_a - 0.7331933379173279
+
+32) jolly_bargemen_a - 0.7059894975430085
+
+33) blue_boar_a - 0.7055723842637323
+
+34) jack_a - 0.7015460164737148
+
+35) richard_a - 0.5934279318706959
+
+Result for the vector: miss_georgiana, coming from part b of the book
+Rank: 1 out of 35 characters
+Cosine similarity to the co-referring vector: 0.9224039912223881
+
+1) miss_georgiana_a - 0.9224039912223881
+
+2) mr_wopsle_a - 0.8793936299916301
+
+3) mr_jaggers_a - 0.874397329950175
+
+4) joseph_gargery_a - 0.8725149035453859
+
+5) flopson_a - 0.8685561002990101
+
+6) mr_matthew_pocket_a - 0.8677534044760533
+
+7) mr_drummle_a - 0.8634850396035729
+
+8) old_orlick_a - 0.8624326761751784
+
+9) miss_havisham_a - 0.8602000641584564
+
+10) mrs_bentley_drummle_a - 0.8592833708862508
+
+11) mr_pip_a - 0.8584071825036028
+
+12) miss_jane_a - 0.8565323438327245
+
+13) mr_wemmick_a - 0.8544278827650753
+
+14) herbert_pocket_a - 0.852538824081427
+
+15) mr_trabb_a - 0.8518639372465558
+
+16) mrs_pocket_a - 0.851727843284613
+
+17) handel_a - 0.8514022142530823
+
+18) mr_pumblechook_a - 0.8483433633055323
+
+19) mrs_joe_gargery_a - 0.8454577830706721
+
+20) miss_sarah_pocket_a - 0.841030826630047
+
+21) miss_estella_a - 0.8399780297266277
+
+22) mrs_camilla_a - 0.8393515407072817
+
+23) biddy_a - 0.833699360522571
+
+24) startop_a - 0.813835788597811
+
+25) mike_a - 0.812540698798938
+
+26) barnard_a - 0.8121077790388798
+
+27) bill_barley_a - 0.8094640856661862
+
+28) mrs_hubble_a - 0.7982118129730281
+
+29) newgate_a - 0.7901041978659762
+
+30) tom_a - 0.7802156936993906
+
+31) walworth_a - 0.7512969226418105
+
+32) jolly_bargemen_a - 0.740446984767919
+
+33) blue_boar_a - 0.7369400262832694
+
+34) jack_a - 0.7061271527599029
+
+35) richard_a - 0.6123073234924463
+
+Result for the vector: walworth, coming from part b of the book
+Rank: 11 out of 35 characters
+Cosine similarity to the co-referring vector: 0.8831133772798421
+
+1) old_orlick_a - 0.908752343841107
+
+2) miss_havisham_a - 0.9060881845846214
+
+3) mr_jaggers_a - 0.9026281775610568
+
+4) mr_wopsle_a - 0.8965291319208836
+
+5) herbert_pocket_a - 0.8953239321708742
+
+6) mr_drummle_a - 0.891784377172314
+
+7) mrs_camilla_a - 0.8910972015704519
+
+8) mr_matthew_pocket_a - 0.8892343839318504
+
+9) mr_pip_a - 0.8892067538746302
+
+10) mr_wemmick_a - 0.8891878194101106
+
+11) walworth_a - 0.8831133772798421
+
+12) joseph_gargery_a - 0.8826671838760438
+
+13) mr_trabb_a - 0.8766363450857714
+
+14) miss_jane_a - 0.8720206694590785
+
+15) mr_pumblechook_a - 0.8704669994394199
+
+16) miss_estella_a - 0.8675130526729273
+
+17) miss_sarah_pocket_a - 0.8667694250803859
+
+18) mrs_pocket_a - 0.8642892241478027
+
+19) mrs_joe_gargery_a - 0.8636214651835853
+
+20) flopson_a - 0.8580079249746736
+
+21) miss_georgiana_a - 0.8573052883148254
+
+22) handel_a - 0.8526710184020426
+
+23) biddy_a - 0.852217810054226
+
+24) startop_a - 0.8457354215225844
+
+25) barnard_a - 0.8446490579425165
+
+26) mrs_bentley_drummle_a - 0.8436234406976033
+
+27) newgate_a - 0.8420938755329788
+
+28) mike_a - 0.8376648925343106
+
+29) blue_boar_a - 0.8172888755798398
+
+30) bill_barley_a - 0.8134147413620213
+
+31) mrs_hubble_a - 0.7974545955658016
+
+32) jolly_bargemen_a - 0.7899009585380611
+
+33) jack_a - 0.7738404235006013
+
+34) tom_a - 0.7639771244539666
+
+35) richard_a - 0.6252458840901713
+
+Result for the vector: richard, coming from part b of the book
+Rank: 35 out of 35 characters
+Cosine similarity to the co-referring vector: 0.6089726686477704
+
+1) herbert_pocket_a - 0.8719402704310095
+
+2) mr_drummle_a - 0.8692578258447085
+
+3) mrs_pocket_a - 0.8692323721370253
+
+4) mr_matthew_pocket_a - 0.8680047134159625
+
+5) startop_a - 0.8659303864282155
+
+6) miss_estella_a - 0.8651775798095731
+
+7) mr_pumblechook_a - 0.8621778570307593
+
+8) mr_wopsle_a - 0.860461720200676
+
+9) old_orlick_a - 0.8600615602713393
+
+10) mrs_joe_gargery_a - 0.8589289868516349
+
+11) miss_jane_a - 0.852603581082182
+
+12) miss_havisham_a - 0.8511840459861706
+
+13) miss_sarah_pocket_a - 0.8509136527232154
+
+14) mr_wemmick_a - 0.8487527640904029
+
+15) mr_jaggers_a - 0.8478541464892554
+
+16) mrs_camilla_a - 0.8476698651215488
+
+17) flopson_a - 0.8470318661024644
+
+18) mr_trabb_a - 0.8386974680811955
+
+19) miss_georgiana_a - 0.8334882457866376
+
+20) mrs_hubble_a - 0.8334127863153474
+
+21) biddy_a - 0.8315176119948179
+
+22) handel_a - 0.8157519807963397
+
+23) mr_pip_a - 0.8085132241249142
+
+24) mike_a - 0.8060097810024168
+
+25) joseph_gargery_a - 0.8047391408992838
+
+26) barnard_a - 0.7904070615768489
+
+27) mrs_bentley_drummle_a - 0.7619063854217584
+
+28) bill_barley_a - 0.7551739957824961
+
+29) walworth_a - 0.7522632031283867
+
+30) newgate_a - 0.729382352269749
+
+31) blue_boar_a - 0.7062686435856051
+
+32) jolly_bargemen_a - 0.7017154453139967
+
+33) tom_a - 0.6987692060287238
+
+34) jack_a - 0.6742635570247116
+
+35) richard_a - 0.6089726686477704
+

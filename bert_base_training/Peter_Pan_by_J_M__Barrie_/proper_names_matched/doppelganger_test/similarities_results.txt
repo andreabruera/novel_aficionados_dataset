@@ -1,0 +1,1020 @@
+Result for the vector: peter_pan, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9772920899776252
+
+1) peter_pan_b - 0.9772920899776252
+
+2) john_b - 0.9744008749009239
+
+3) wendy_b - 0.9736787370943651
+
+4) michael_b - 0.9700638309216286
+
+5) tinker_bell_b - 0.9608749437592912
+
+6) james_hook_b - 0.9537033722908314
+
+7) starkey_b - 0.9457771995331682
+
+8) nana_b - 0.9408752006553177
+
+9) smee_b - 0.9384061414478416
+
+10) george_darling_b - 0.9374217074341095
+
+11) cecco_b - 0.9294849315132184
+
+12) mr_darling_b - 0.9286167344863233
+
+13) mrs_darling_b - 0.9099251791723376
+
+14) tiger_lily_b - 0.8899756404764795
+
+15) liza_b - 0.8420151879805565
+
+Result for the vector: wendy, coming from part a of the book
+Rank: 4 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9630154371261597
+
+1) michael_b - 0.9740765063853937
+
+2) john_b - 0.9659244685701589
+
+3) peter_pan_b - 0.9630522131919861
+
+4) wendy_b - 0.9630154371261597
+
+5) nana_b - 0.9585599899291992
+
+6) mrs_darling_b - 0.9576468417223571
+
+7) tinker_bell_b - 0.9489994645118713
+
+8) smee_b - 0.9438621435247591
+
+9) mr_darling_b - 0.9432185326088366
+
+10) james_hook_b - 0.9318434000015259
+
+11) starkey_b - 0.9305465138610088
+
+12) cecco_b - 0.9165058135986328
+
+13) tiger_lily_b - 0.8990586460197795
+
+14) george_darling_b - 0.8978516459465027
+
+15) liza_b - 0.8655826627239019
+
+Result for the vector: john, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9829539949582327
+
+1) john_b - 0.9829539949582327
+
+2) michael_b - 0.9822493184953679
+
+3) wendy_b - 0.9670874496050226
+
+4) peter_pan_b - 0.9653617760323436
+
+5) tinker_bell_b - 0.9541760114326487
+
+6) starkey_b - 0.9512954325256161
+
+7) smee_b - 0.9443168706516182
+
+8) james_hook_b - 0.9406027233241382
+
+9) nana_b - 0.9346056619521598
+
+10) mr_darling_b - 0.9337558229260656
+
+11) cecco_b - 0.9317920844678845
+
+12) mrs_darling_b - 0.9241669728855623
+
+13) george_darling_b - 0.9078477676005519
+
+14) tiger_lily_b - 0.8964752082258215
+
+15) liza_b - 0.8471365227442037
+
+Result for the vector: michael, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9838188564507488
+
+1) michael_b - 0.9838188564507488
+
+2) john_b - 0.9756126970783128
+
+3) peter_pan_b - 0.9678107788506387
+
+4) wendy_b - 0.96305051335843
+
+5) smee_b - 0.9528972818584098
+
+6) starkey_b - 0.9516000377535915
+
+7) tinker_bell_b - 0.9504223153120973
+
+8) james_hook_b - 0.9475279136755445
+
+9) nana_b - 0.9423431438905941
+
+10) mr_darling_b - 0.9419871287945806
+
+11) cecco_b - 0.9354436080289966
+
+12) mrs_darling_b - 0.9263013193460322
+
+13) george_darling_b - 0.9114560756521252
+
+14) tiger_lily_b - 0.9031238882802795
+
+15) liza_b - 0.8516742410271471
+
+Result for the vector: nana, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.965316357295732
+
+1) nana_b - 0.965316357295732
+
+2) wendy_b - 0.9594155574193282
+
+3) peter_pan_b - 0.9593674564738615
+
+4) michael_b - 0.9582433079626301
+
+5) mrs_darling_b - 0.9544088813310347
+
+6) john_b - 0.9528004215002291
+
+7) tinker_bell_b - 0.9439102444702258
+
+8) smee_b - 0.9420603582787087
+
+9) james_hook_b - 0.9381683505673216
+
+10) starkey_b - 0.9367660842398605
+
+11) mr_darling_b - 0.9330342491824329
+
+12) cecco_b - 0.9244135067216468
+
+13) george_darling_b - 0.9116450004789249
+
+14) tiger_lily_b - 0.9024675008693337
+
+15) liza_b - 0.8782897257295267
+
+Result for the vector: smee, coming from part a of the book
+Rank: 9 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9433005171030644
+
+1) wendy_b - 0.973502962991684
+
+2) peter_pan_b - 0.9643380333285942
+
+3) john_b - 0.9630523876014235
+
+4) starkey_b - 0.9603151917927292
+
+5) michael_b - 0.9573291178538119
+
+6) james_hook_b - 0.9557284997620735
+
+7) cecco_b - 0.9486322089622087
+
+8) tinker_bell_b - 0.9448185248618882
+
+9) smee_b - 0.9433005171030644
+
+10) george_darling_b - 0.928975967436313
+
+11) nana_b - 0.9098959240286332
+
+12) mr_darling_b - 0.8987216085576568
+
+13) tiger_lily_b - 0.8865233991586184
+
+14) mrs_darling_b - 0.8765184993324463
+
+15) liza_b - 0.8351283472929429
+
+Result for the vector: mrs_darling, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9757305340285082
+
+1) mrs_darling_b - 0.9757305340285082
+
+2) nana_b - 0.945697900396462
+
+3) michael_b - 0.9389987478850049
+
+4) john_b - 0.927100200518996
+
+5) wendy_b - 0.9254477575688234
+
+6) peter_pan_b - 0.9215047908726226
+
+7) tinker_bell_b - 0.91583531593295
+
+8) mr_darling_b - 0.9150233864784306
+
+9) smee_b - 0.9023621082305973
+
+10) starkey_b - 0.8909610910942137
+
+11) james_hook_b - 0.8870851330211854
+
+12) cecco_b - 0.8756683394711235
+
+13) tiger_lily_b - 0.8673387169838014
+
+14) george_darling_b - 0.8607304609257272
+
+15) liza_b - 0.8575352516077838
+
+Result for the vector: mr_darling, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9678036589739543
+
+1) mr_darling_b - 0.9678036589739543
+
+2) michael_b - 0.9672044476514465
+
+3) peter_pan_b - 0.964085578918457
+
+4) john_b - 0.9601675534398195
+
+5) james_hook_b - 0.9463076591491699
+
+6) smee_b - 0.9417966042878284
+
+7) wendy_b - 0.9383416175842285
+
+8) tinker_bell_b - 0.9352725744247437
+
+9) starkey_b - 0.9273660692413002
+
+10) nana_b - 0.9223072528839111
+
+11) cecco_b - 0.9088730216026306
+
+12) mrs_darling_b - 0.9085351715725929
+
+13) george_darling_b - 0.8826080560684204
+
+14) tiger_lily_b - 0.8630238257036328
+
+15) liza_b - 0.8239509603933391
+
+Result for the vector: starkey, coming from part a of the book
+Rank: 2 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9518180715766694
+
+1) wendy_b - 0.9545941041289007
+
+2) starkey_b - 0.9518180715766694
+
+3) peter_pan_b - 0.9417205137527146
+
+4) john_b - 0.9381475970921053
+
+5) james_hook_b - 0.9357133190546433
+
+6) cecco_b - 0.934588817792798
+
+7) michael_b - 0.932700415358013
+
+8) tinker_bell_b - 0.9247020758599666
+
+9) smee_b - 0.921236487590183
+
+10) george_darling_b - 0.9193365251820248
+
+11) nana_b - 0.8946844606007479
+
+12) tiger_lily_b - 0.8810983037621324
+
+13) mr_darling_b - 0.8661697844812373
+
+14) mrs_darling_b - 0.8539314946430203
+
+15) liza_b - 0.8223764088602568
+
+Result for the vector: james_hook, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9651244261935028
+
+1) james_hook_b - 0.9651244261935028
+
+2) peter_pan_b - 0.9632494427710456
+
+3) wendy_b - 0.9619132257648262
+
+4) starkey_b - 0.95991169689507
+
+5) john_b - 0.9487701280072527
+
+6) cecco_b - 0.9454777804301863
+
+7) smee_b - 0.9449486732482977
+
+8) michael_b - 0.9430814283635803
+
+9) tinker_bell_b - 0.9409229124142492
+
+10) george_darling_b - 0.9218500806003873
+
+11) nana_b - 0.9144131490238414
+
+12) tiger_lily_b - 0.9011763334274356
+
+13) mr_darling_b - 0.9009931087493961
+
+14) mrs_darling_b - 0.8714514144870203
+
+15) liza_b - 0.8222693238063643
+
+Result for the vector: george_darling, coming from part a of the book
+Rank: 3 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9239665865898132
+
+1) wendy_b - 0.9436748027801514
+
+2) john_b - 0.9251467816662928
+
+3) george_darling_b - 0.9239665865898132
+
+4) michael_b - 0.9139188425444241
+
+5) tinker_bell_b - 0.9102210998535156
+
+6) peter_pan_b - 0.9026278257369995
+
+7) starkey_b - 0.8876762852282927
+
+8) nana_b - 0.8787533044815063
+
+9) james_hook_b - 0.8786228895187378
+
+10) cecco_b - 0.8701596856117249
+
+11) smee_b - 0.8655155381253057
+
+12) mrs_darling_b - 0.8572809526063209
+
+13) mr_darling_b - 0.8466972800077645
+
+14) tiger_lily_b - 0.8442178461421835
+
+15) liza_b - 0.8009994746148149
+
+Result for the vector: tinker_bell, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9497912496203946
+
+1) tinker_bell_b - 0.9497912496203946
+
+2) peter_pan_b - 0.946548995169939
+
+3) michael_b - 0.9455900691014668
+
+4) john_b - 0.9451673247169446
+
+5) wendy_b - 0.9447004166066911
+
+6) nana_b - 0.9444361295960043
+
+7) starkey_b - 0.9320150492218241
+
+8) james_hook_b - 0.9243240907385419
+
+9) mrs_darling_b - 0.9240309460218469
+
+10) smee_b - 0.9168431758880681
+
+11) cecco_b - 0.9102405852222808
+
+12) george_darling_b - 0.9036539139541352
+
+13) mr_darling_b - 0.8963832259178225
+
+14) tiger_lily_b - 0.8853610157966677
+
+15) liza_b - 0.8447080917221448
+
+Result for the vector: tiger_lily, coming from part a of the book
+Rank: 12 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8253420203516459
+
+1) wendy_b - 0.8747288659376597
+
+2) george_darling_b - 0.8703976350785727
+
+3) peter_pan_b - 0.8655178031016721
+
+4) starkey_b - 0.8627018250645433
+
+5) tinker_bell_b - 0.8583586896444163
+
+6) james_hook_b - 0.8578992570698719
+
+7) john_b - 0.84978541284161
+
+8) nana_b - 0.8473988862395966
+
+9) michael_b - 0.8356435200955715
+
+10) cecco_b - 0.8345768550290567
+
+11) smee_b - 0.8313647113603697
+
+12) tiger_lily_b - 0.8253420203516459
+
+13) mrs_darling_b - 0.7973446129169957
+
+14) liza_b - 0.7747307054618298
+
+15) mr_darling_b - 0.7668585459162538
+
+Result for the vector: cecco, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7392483509034914
+
+1) cecco_b - 0.7392483509034914
+
+2) james_hook_b - 0.7367349423924135
+
+3) smee_b - 0.7342406828116557
+
+4) starkey_b - 0.7221557332370238
+
+5) george_darling_b - 0.7139430216584801
+
+6) john_b - 0.7049153061185947
+
+7) peter_pan_b - 0.7008880555100421
+
+8) wendy_b - 0.6982658089240916
+
+9) michael_b - 0.6923378522597574
+
+10) mr_darling_b - 0.6896759641556782
+
+11) tinker_bell_b - 0.6795597267413315
+
+12) tiger_lily_b - 0.675841489333929
+
+13) nana_b - 0.6504193156707706
+
+14) mrs_darling_b - 0.6069335703214248
+
+15) liza_b - 0.5974373399447669
+
+Result for the vector: liza, coming from part a of the book
+Rank: 15 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8570126550499492
+
+1) nana_b - 0.9387797153723426
+
+2) mrs_darling_b - 0.9361545405480142
+
+3) peter_pan_b - 0.9346890488452303
+
+4) wendy_b - 0.9263523860959793
+
+5) michael_b - 0.9242816522289455
+
+6) john_b - 0.9170831715191458
+
+7) mr_darling_b - 0.915084372152761
+
+8) smee_b - 0.9147265059081905
+
+9) james_hook_b - 0.909464007051946
+
+10) tinker_bell_b - 0.9055939969066399
+
+11) starkey_b - 0.9029350222906628
+
+12) cecco_b - 0.8898964589895945
+
+13) tiger_lily_b - 0.8795664454023308
+
+14) george_darling_b - 0.8611792408717146
+
+15) liza_b - 0.8570126550499492
+
+Result for the vector: peter_pan, coming from part b of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9772920899776252
+
+1) peter_pan_a - 0.9772920899776252
+
+2) michael_a - 0.9678107788506387
+
+3) john_a - 0.9653617760323436
+
+4) smee_a - 0.9643380333285942
+
+5) mr_darling_a - 0.964085578918457
+
+6) james_hook_a - 0.9632494427710456
+
+7) wendy_a - 0.9630522131919861
+
+8) nana_a - 0.9593674564738615
+
+9) tinker_bell_a - 0.946548995169939
+
+10) starkey_a - 0.9417205137527146
+
+11) liza_a - 0.9346890488452303
+
+12) mrs_darling_a - 0.9215047908726226
+
+13) george_darling_a - 0.9026278257369995
+
+14) tiger_lily_a - 0.8655178031016721
+
+15) cecco_a - 0.7008880555100421
+
+Result for the vector: wendy, coming from part b of the book
+Rank: 5 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9630154371261597
+
+1) peter_pan_a - 0.9736787370943651
+
+2) smee_a - 0.973502962991684
+
+3) john_a - 0.9670874496050226
+
+4) michael_a - 0.96305051335843
+
+5) wendy_a - 0.9630154371261597
+
+6) james_hook_a - 0.9619132257648262
+
+7) nana_a - 0.9594155574193282
+
+8) starkey_a - 0.9545941041289007
+
+9) tinker_bell_a - 0.9447004166066911
+
+10) george_darling_a - 0.9436748027801514
+
+11) mr_darling_a - 0.9383416175842285
+
+12) liza_a - 0.9263523860959793
+
+13) mrs_darling_a - 0.9254477575688234
+
+14) tiger_lily_a - 0.8747288659376597
+
+15) cecco_a - 0.6982658089240916
+
+Result for the vector: john, coming from part b of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9829539949582327
+
+1) john_a - 0.9829539949582327
+
+2) michael_a - 0.9756126970783128
+
+3) peter_pan_a - 0.9744008749009239
+
+4) wendy_a - 0.9659244685701589
+
+5) smee_a - 0.9630523876014235
+
+6) mr_darling_a - 0.9601675534398195
+
+7) nana_a - 0.9528004215002291
+
+8) james_hook_a - 0.9487701280072527
+
+9) tinker_bell_a - 0.9451673247169446
+
+10) starkey_a - 0.9381475970921053
+
+11) mrs_darling_a - 0.927100200518996
+
+12) george_darling_a - 0.9251467816662928
+
+13) liza_a - 0.9170831715191458
+
+14) tiger_lily_a - 0.84978541284161
+
+15) cecco_a - 0.7049153061185947
+
+Result for the vector: michael, coming from part b of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9838188564507488
+
+1) michael_a - 0.9838188564507488
+
+2) john_a - 0.9822493184953679
+
+3) wendy_a - 0.9740765063853937
+
+4) peter_pan_a - 0.9700638309216286
+
+5) mr_darling_a - 0.9672044476514465
+
+6) nana_a - 0.9582433079626301
+
+7) smee_a - 0.9573291178538119
+
+8) tinker_bell_a - 0.9455900691014668
+
+9) james_hook_a - 0.9430814283635803
+
+10) mrs_darling_a - 0.9389987478850049
+
+11) starkey_a - 0.932700415358013
+
+12) liza_a - 0.9242816522289455
+
+13) george_darling_a - 0.9139188425444241
+
+14) tiger_lily_a - 0.8356435200955715
+
+15) cecco_a - 0.6923378522597574
+
+Result for the vector: nana, coming from part b of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.965316357295732
+
+1) nana_a - 0.965316357295732
+
+2) wendy_a - 0.9585599899291992
+
+3) mrs_darling_a - 0.945697900396462
+
+4) tinker_bell_a - 0.9444361295960043
+
+5) michael_a - 0.9423431438905941
+
+6) peter_pan_a - 0.9408752006553177
+
+7) liza_a - 0.9387797153723426
+
+8) john_a - 0.9346056619521598
+
+9) mr_darling_a - 0.9223072528839111
+
+10) james_hook_a - 0.9144131490238414
+
+11) smee_a - 0.9098959240286332
+
+12) starkey_a - 0.8946844606007479
+
+13) george_darling_a - 0.8787533044815063
+
+14) tiger_lily_a - 0.8473988862395966
+
+15) cecco_a - 0.6504193156707706
+
+Result for the vector: smee, coming from part b of the book
+Rank: 5 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9433005171030644
+
+1) michael_a - 0.9528972818584098
+
+2) james_hook_a - 0.9449486732482977
+
+3) john_a - 0.9443168706516182
+
+4) wendy_a - 0.9438621435247591
+
+5) smee_a - 0.9433005171030644
+
+6) nana_a - 0.9420603582787087
+
+7) mr_darling_a - 0.9417966042878284
+
+8) peter_pan_a - 0.9384061414478416
+
+9) starkey_a - 0.921236487590183
+
+10) tinker_bell_a - 0.9168431758880681
+
+11) liza_a - 0.9147265059081905
+
+12) mrs_darling_a - 0.9023621082305973
+
+13) george_darling_a - 0.8655155381253057
+
+14) tiger_lily_a - 0.8313647113603697
+
+15) cecco_a - 0.7342406828116557
+
+Result for the vector: mrs_darling, coming from part b of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9757305340285082
+
+1) mrs_darling_a - 0.9757305340285082
+
+2) wendy_a - 0.9576468417223571
+
+3) nana_a - 0.9544088813310347
+
+4) liza_a - 0.9361545405480142
+
+5) michael_a - 0.9263013193460322
+
+6) john_a - 0.9241669728855623
+
+7) tinker_bell_a - 0.9240309460218469
+
+8) peter_pan_a - 0.9099251791723376
+
+9) mr_darling_a - 0.9085351715725929
+
+10) smee_a - 0.8765184993324463
+
+11) james_hook_a - 0.8714514144870203
+
+12) george_darling_a - 0.8572809526063209
+
+13) starkey_a - 0.8539314946430203
+
+14) tiger_lily_a - 0.7973446129169957
+
+15) cecco_a - 0.6069335703214248
+
+Result for the vector: mr_darling, coming from part b of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9678036589739543
+
+1) mr_darling_a - 0.9678036589739543
+
+2) wendy_a - 0.9432185326088366
+
+3) michael_a - 0.9419871287945806
+
+4) john_a - 0.9337558229260656
+
+5) nana_a - 0.9330342491824329
+
+6) peter_pan_a - 0.9286167344863233
+
+7) liza_a - 0.915084372152761
+
+8) mrs_darling_a - 0.9150233864784306
+
+9) james_hook_a - 0.9009931087493961
+
+10) smee_a - 0.8987216085576568
+
+11) tinker_bell_a - 0.8963832259178225
+
+12) starkey_a - 0.8661697844812373
+
+13) george_darling_a - 0.8466972800077645
+
+14) tiger_lily_a - 0.7668585459162538
+
+15) cecco_a - 0.6896759641556782
+
+Result for the vector: starkey, coming from part b of the book
+Rank: 3 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9518180715766694
+
+1) smee_a - 0.9603151917927292
+
+2) james_hook_a - 0.95991169689507
+
+3) starkey_a - 0.9518180715766694
+
+4) michael_a - 0.9516000377535915
+
+5) john_a - 0.9512954325256161
+
+6) peter_pan_a - 0.9457771995331682
+
+7) nana_a - 0.9367660842398605
+
+8) tinker_bell_a - 0.9320150492218241
+
+9) wendy_a - 0.9305465138610088
+
+10) mr_darling_a - 0.9273660692413002
+
+11) liza_a - 0.9029350222906628
+
+12) mrs_darling_a - 0.8909610910942137
+
+13) george_darling_a - 0.8876762852282927
+
+14) tiger_lily_a - 0.8627018250645433
+
+15) cecco_a - 0.7221557332370238
+
+Result for the vector: james_hook, coming from part b of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9651244261935028
+
+1) james_hook_a - 0.9651244261935028
+
+2) smee_a - 0.9557284997620735
+
+3) peter_pan_a - 0.9537033722908314
+
+4) michael_a - 0.9475279136755445
+
+5) mr_darling_a - 0.9463076591491699
+
+6) john_a - 0.9406027233241382
+
+7) nana_a - 0.9381683505673216
+
+8) starkey_a - 0.9357133190546433
+
+9) wendy_a - 0.9318434000015259
+
+10) tinker_bell_a - 0.9243240907385419
+
+11) liza_a - 0.909464007051946
+
+12) mrs_darling_a - 0.8870851330211854
+
+13) george_darling_a - 0.8786228895187378
+
+14) tiger_lily_a - 0.8578992570698719
+
+15) cecco_a - 0.7367349423924135
+
+Result for the vector: george_darling, coming from part b of the book
+Rank: 3 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9239665865898132
+
+1) peter_pan_a - 0.9374217074341095
+
+2) smee_a - 0.928975967436313
+
+3) george_darling_a - 0.9239665865898132
+
+4) james_hook_a - 0.9218500806003873
+
+5) starkey_a - 0.9193365251820248
+
+6) nana_a - 0.9116450004789249
+
+7) michael_a - 0.9114560756521252
+
+8) john_a - 0.9078477676005519
+
+9) tinker_bell_a - 0.9036539139541352
+
+10) wendy_a - 0.8978516459465027
+
+11) mr_darling_a - 0.8826080560684204
+
+12) tiger_lily_a - 0.8703976350785727
+
+13) liza_a - 0.8611792408717146
+
+14) mrs_darling_a - 0.8607304609257272
+
+15) cecco_a - 0.7139430216584801
+
+Result for the vector: tinker_bell, coming from part b of the book
+Rank: 4 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9497912496203946
+
+1) peter_pan_a - 0.9608749437592912
+
+2) john_a - 0.9541760114326487
+
+3) michael_a - 0.9504223153120973
+
+4) tinker_bell_a - 0.9497912496203946
+
+5) wendy_a - 0.9489994645118713
+
+6) smee_a - 0.9448185248618882
+
+7) nana_a - 0.9439102444702258
+
+8) james_hook_a - 0.9409229124142492
+
+9) mr_darling_a - 0.9352725744247437
+
+10) starkey_a - 0.9247020758599666
+
+11) mrs_darling_a - 0.91583531593295
+
+12) george_darling_a - 0.9102210998535156
+
+13) liza_a - 0.9055939969066399
+
+14) tiger_lily_a - 0.8583586896444163
+
+15) cecco_a - 0.6795597267413315
+
+Result for the vector: tiger_lily, coming from part b of the book
+Rank: 14 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8253420203516459
+
+1) michael_a - 0.9031238882802795
+
+2) nana_a - 0.9024675008693337
+
+3) james_hook_a - 0.9011763334274356
+
+4) wendy_a - 0.8990586460197795
+
+5) john_a - 0.8964752082258215
+
+6) peter_pan_a - 0.8899756404764795
+
+7) smee_a - 0.8865233991586184
+
+8) tinker_bell_a - 0.8853610157966677
+
+9) starkey_a - 0.8810983037621324
+
+10) liza_a - 0.8795664454023308
+
+11) mrs_darling_a - 0.8673387169838014
+
+12) mr_darling_a - 0.8630238257036328
+
+13) george_darling_a - 0.8442178461421835
+
+14) tiger_lily_a - 0.8253420203516459
+
+15) cecco_a - 0.675841489333929
+
+Result for the vector: cecco, coming from part b of the book
+Rank: 15 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7392483509034914
+
+1) smee_a - 0.9486322089622087
+
+2) james_hook_a - 0.9454777804301863
+
+3) michael_a - 0.9354436080289966
+
+4) starkey_a - 0.934588817792798
+
+5) john_a - 0.9317920844678845
+
+6) peter_pan_a - 0.9294849315132184
+
+7) nana_a - 0.9244135067216468
+
+8) wendy_a - 0.9165058135986328
+
+9) tinker_bell_a - 0.9102405852222808
+
+10) mr_darling_a - 0.9088730216026306
+
+11) liza_a - 0.8898964589895945
+
+12) mrs_darling_a - 0.8756683394711235
+
+13) george_darling_a - 0.8701596856117249
+
+14) tiger_lily_a - 0.8345768550290567
+
+15) cecco_a - 0.7392483509034914
+
+Result for the vector: liza, coming from part b of the book
+Rank: 4 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8570126550499492
+
+1) nana_a - 0.8782897257295267
+
+2) wendy_a - 0.8655826627239019
+
+3) mrs_darling_a - 0.8575352516077838
+
+4) liza_a - 0.8570126550499492
+
+5) michael_a - 0.8516742410271471
+
+6) john_a - 0.8471365227442037
+
+7) tinker_bell_a - 0.8447080917221448
+
+8) peter_pan_a - 0.8420151879805565
+
+9) smee_a - 0.8351283472929429
+
+10) mr_darling_a - 0.8239509603933391
+
+11) starkey_a - 0.8223764088602568
+
+12) james_hook_a - 0.8222693238063643
+
+13) george_darling_a - 0.8009994746148149
+
+14) tiger_lily_a - 0.7747307054618298
+
+15) cecco_a - 0.5974373399447669
+

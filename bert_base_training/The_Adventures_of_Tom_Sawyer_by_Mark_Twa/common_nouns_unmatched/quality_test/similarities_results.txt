@@ -1,0 +1,572 @@
+Result for the vector: boy, coming from part i of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9281256284563985
+
+1) boy_a - 0.9281256284563985
+
+2) man_a - 0.927551576190999
+
+3) day_a - 0.859763017878726
+
+4) school_a - 0.8565943751689556
+
+5) house_a - 0.8452715621807739
+
+6) way_a - 0.8382485105695116
+
+7) night_a - 0.8338871796265627
+
+8) time_a - 0.8253346397874418
+
+9) place_a - 0.8180884122848568
+
+10) face_a - 0.813829623004243
+
+11) moment_a - 0.7347651878139277
+
+Result for the vector: time, coming from part i of the book
+Rank: 3 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8393453801263622
+
+1) day_a - 0.8500541523179673
+
+2) way_a - 0.8422973500997651
+
+3) time_a - 0.8393453801263622
+
+4) school_a - 0.8318244862294955
+
+5) boy_a - 0.82033500610784
+
+6) house_a - 0.8154743203803492
+
+7) night_a - 0.8144695516088771
+
+8) place_a - 0.7983899830332387
+
+9) man_a - 0.7930299999406966
+
+10) face_a - 0.7712388404834647
+
+11) moment_a - 0.7442739231668095
+
+Result for the vector: way, coming from part i of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8203234183595541
+
+1) way_a - 0.8203234183595541
+
+2) day_a - 0.8058354623121632
+
+3) place_a - 0.8042732360525883
+
+4) boy_a - 0.7986339450696753
+
+5) school_a - 0.7904257524521112
+
+6) time_a - 0.7882813467644095
+
+7) man_a - 0.7844875583358089
+
+8) night_a - 0.77717961208942
+
+9) house_a - 0.7749389640968732
+
+10) face_a - 0.7695707220094979
+
+11) moment_a - 0.6993977427482605
+
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8668953538349919
+
+1) day_a - 0.8668953538349919
+
+2) night_a - 0.8471072912216246
+
+3) time_a - 0.8366734482840762
+
+4) school_a - 0.7934190261517228
+
+5) house_a - 0.7707467768263919
+
+6) boy_a - 0.7686890363693292
+
+7) moment_a - 0.7618169046531277
+
+8) way_a - 0.7613855004310662
+
+9) man_a - 0.7601660490036065
+
+10) place_a - 0.75699368202611
+
+11) face_a - 0.7152187824249319
+
+Result for the vector: man, coming from part i of the book
+Rank: 10 out of 11 characters
+Cosine similarity to the co-referring vector: 0.55135337855359
+
+1) way_a - 0.6500812575196872
+
+2) house_a - 0.6206875217370702
+
+3) school_a - 0.6201424330685212
+
+4) day_a - 0.6107016519757611
+
+5) night_a - 0.5979058564333386
+
+6) boy_a - 0.5827854698066297
+
+7) face_a - 0.5767610497247883
+
+8) place_a - 0.5643606690490847
+
+9) time_a - 0.558387289191435
+
+10) man_a - 0.55135337855359
+
+11) moment_a - 0.49526382968616
+
+Result for the vector: night, coming from part i of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.774164272894606
+
+1) night_a - 0.774164272894606
+
+2) day_a - 0.7698711478556626
+
+3) time_a - 0.7671224156472242
+
+4) moment_a - 0.7287636399269104
+
+5) way_a - 0.671515245943354
+
+6) boy_a - 0.6677107412987517
+
+7) school_a - 0.659860093576924
+
+8) man_a - 0.656880756802515
+
+9) house_a - 0.6474331810305474
+
+10) place_a - 0.6431904222482706
+
+11) face_a - 0.6091491216928301
+
+Result for the vector: face, coming from part i of the book
+Rank: 3 out of 11 characters
+Cosine similarity to the co-referring vector: 0.5880648143252851
+
+1) house_a - 0.5897213396346971
+
+2) man_a - 0.5888125545494236
+
+3) face_a - 0.5880648143252851
+
+4) place_a - 0.5814167607675063
+
+5) way_a - 0.5812995683372288
+
+6) boy_a - 0.5804966342153182
+
+7) day_a - 0.5775069090732269
+
+8) night_a - 0.5758124842755517
+
+9) school_a - 0.5733522860231781
+
+10) time_a - 0.5651761811761681
+
+11) moment_a - 0.5014262795448303
+
+Result for the vector: place, coming from part i of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8740501924783122
+
+1) place_a - 0.8740501924783122
+
+2) house_a - 0.865648593474883
+
+3) way_a - 0.8390402293777344
+
+4) school_a - 0.837953250164187
+
+5) day_a - 0.8331370154782611
+
+6) boy_a - 0.8286082846755827
+
+7) night_a - 0.8206953513207836
+
+8) man_a - 0.8104152196398261
+
+9) face_a - 0.8087866420276989
+
+10) time_a - 0.8012493489683508
+
+11) moment_a - 0.7154578566551208
+
+Result for the vector: moment, coming from part i of the book
+Rank: 3 out of 11 characters
+Cosine similarity to the co-referring vector: 0.6078258986576867
+
+1) day_a - 0.6200603616273718
+
+2) time_a - 0.6087131603873096
+
+3) moment_a - 0.6078258986576867
+
+4) place_a - 0.5857434272766154
+
+5) face_a - 0.5824203989004614
+
+6) night_a - 0.578364541725571
+
+7) school_a - 0.5759287223773525
+
+8) man_a - 0.5726134690507091
+
+9) way_a - 0.5681775727060351
+
+10) boy_a - 0.5640002412795733
+
+11) house_a - 0.5484412745105862
+
+Result for the vector: house, coming from part i of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8179058188824144
+
+1) house_a - 0.8179058188824144
+
+2) place_a - 0.7906939983367977
+
+3) school_a - 0.7752741441294164
+
+4) man_a - 0.7577593615341948
+
+5) face_a - 0.757546215349887
+
+6) way_a - 0.7491846979636314
+
+7) boy_a - 0.7463963334087929
+
+8) day_a - 0.741490527480288
+
+9) night_a - 0.7285674537935908
+
+10) time_a - 0.7164579540864324
+
+11) moment_a - 0.6426047299739891
+
+Result for the vector: school, coming from part i of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8714256806031414
+
+1) school_a - 0.8714256806031414
+
+2) house_a - 0.8068343756546299
+
+3) day_a - 0.7991760253415251
+
+4) place_a - 0.7974485158920345
+
+5) night_a - 0.7932948120481
+
+6) time_a - 0.78207228504319
+
+7) boy_a - 0.7798573041132326
+
+8) man_a - 0.7688580430915304
+
+9) way_a - 0.7623762771634726
+
+10) face_a - 0.7469525042828913
+
+11) moment_a - 0.6833992193103314
+
+Result for the vector: boy, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9281256284563985
+
+1) boy_wiki - 0.9281256284563985
+
+2) place_wiki - 0.8286082846755827
+
+3) time_wiki - 0.82033500610784
+
+4) way_wiki - 0.7986339450696753
+
+5) school_wiki - 0.7798573041132326
+
+6) day_wiki - 0.7686890363693292
+
+7) house_wiki - 0.7463963334087929
+
+8) night_wiki - 0.6677107412987517
+
+9) man_wiki - 0.5827854698066297
+
+10) face_wiki - 0.5804966342153182
+
+11) moment_wiki - 0.5640002412795733
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8393453801263622
+
+1) time_wiki - 0.8393453801263622
+
+2) day_wiki - 0.8366734482840762
+
+3) boy_wiki - 0.8253346397874418
+
+4) place_wiki - 0.8012493489683508
+
+5) way_wiki - 0.7882813467644095
+
+6) school_wiki - 0.78207228504319
+
+7) night_wiki - 0.7671224156472242
+
+8) house_wiki - 0.7164579540864324
+
+9) moment_wiki - 0.6087131603873096
+
+10) face_wiki - 0.5651761811761681
+
+11) man_wiki - 0.558387289191435
+
+Result for the vector: way, coming from part a of the book
+Rank: 4 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8203234183595541
+
+1) time_wiki - 0.8422973500997651
+
+2) place_wiki - 0.8390402293777344
+
+3) boy_wiki - 0.8382485105695116
+
+4) way_wiki - 0.8203234183595541
+
+5) school_wiki - 0.7623762771634726
+
+6) day_wiki - 0.7613855004310662
+
+7) house_wiki - 0.7491846979636314
+
+8) night_wiki - 0.671515245943354
+
+9) man_wiki - 0.6500812575196872
+
+10) face_wiki - 0.5812995683372288
+
+11) moment_wiki - 0.5681775727060351
+
+Result for the vector: day, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8668953538349919
+
+1) day_wiki - 0.8668953538349919
+
+2) boy_wiki - 0.859763017878726
+
+3) time_wiki - 0.8500541523179673
+
+4) place_wiki - 0.8331370154782611
+
+5) way_wiki - 0.8058354623121632
+
+6) school_wiki - 0.7991760253415251
+
+7) night_wiki - 0.7698711478556626
+
+8) house_wiki - 0.741490527480288
+
+9) moment_wiki - 0.6200603616273718
+
+10) man_wiki - 0.6107016519757611
+
+11) face_wiki - 0.5775069090732269
+
+Result for the vector: man, coming from part a of the book
+Rank: 11 out of 11 characters
+Cosine similarity to the co-referring vector: 0.55135337855359
+
+1) boy_wiki - 0.927551576190999
+
+2) place_wiki - 0.8104152196398261
+
+3) time_wiki - 0.7930299999406966
+
+4) way_wiki - 0.7844875583358089
+
+5) school_wiki - 0.7688580430915304
+
+6) day_wiki - 0.7601660490036065
+
+7) house_wiki - 0.7577593615341948
+
+8) night_wiki - 0.656880756802515
+
+9) face_wiki - 0.5888125545494236
+
+10) moment_wiki - 0.5726134690507091
+
+11) man_wiki - 0.55135337855359
+
+Result for the vector: night, coming from part a of the book
+Rank: 7 out of 11 characters
+Cosine similarity to the co-referring vector: 0.774164272894606
+
+1) day_wiki - 0.8471072912216246
+
+2) boy_wiki - 0.8338871796265627
+
+3) place_wiki - 0.8206953513207836
+
+4) time_wiki - 0.8144695516088771
+
+5) school_wiki - 0.7932948120481
+
+6) way_wiki - 0.77717961208942
+
+7) night_wiki - 0.774164272894606
+
+8) house_wiki - 0.7285674537935908
+
+9) man_wiki - 0.5979058564333386
+
+10) moment_wiki - 0.578364541725571
+
+11) face_wiki - 0.5758124842755517
+
+Result for the vector: face, coming from part a of the book
+Rank: 9 out of 11 characters
+Cosine similarity to the co-referring vector: 0.5880648143252851
+
+1) boy_wiki - 0.813829623004243
+
+2) place_wiki - 0.8087866420276989
+
+3) time_wiki - 0.7712388404834647
+
+4) way_wiki - 0.7695707220094979
+
+5) house_wiki - 0.757546215349887
+
+6) school_wiki - 0.7469525042828913
+
+7) day_wiki - 0.7152187824249319
+
+8) night_wiki - 0.6091491216928301
+
+9) face_wiki - 0.5880648143252851
+
+10) moment_wiki - 0.5824203989004614
+
+11) man_wiki - 0.5767610497247883
+
+Result for the vector: place, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8740501924783122
+
+1) place_wiki - 0.8740501924783122
+
+2) boy_wiki - 0.8180884122848568
+
+3) way_wiki - 0.8042732360525883
+
+4) time_wiki - 0.7983899830332387
+
+5) school_wiki - 0.7974485158920345
+
+6) house_wiki - 0.7906939983367977
+
+7) day_wiki - 0.75699368202611
+
+8) night_wiki - 0.6431904222482706
+
+9) moment_wiki - 0.5857434272766154
+
+10) face_wiki - 0.5814167607675063
+
+11) man_wiki - 0.5643606690490847
+
+Result for the vector: moment, coming from part a of the book
+Rank: 9 out of 11 characters
+Cosine similarity to the co-referring vector: 0.6078258986576867
+
+1) day_wiki - 0.7618169046531277
+
+2) time_wiki - 0.7442739231668095
+
+3) boy_wiki - 0.7347651878139277
+
+4) night_wiki - 0.7287636399269104
+
+5) place_wiki - 0.7154578566551208
+
+6) way_wiki - 0.6993977427482605
+
+7) school_wiki - 0.6833992193103314
+
+8) house_wiki - 0.6426047299739891
+
+9) moment_wiki - 0.6078258986576867
+
+10) face_wiki - 0.5014262795448303
+
+11) man_wiki - 0.49526382968616
+
+Result for the vector: house, coming from part a of the book
+Rank: 3 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8179058188824144
+
+1) place_wiki - 0.865648593474883
+
+2) boy_wiki - 0.8452715621807739
+
+3) house_wiki - 0.8179058188824144
+
+4) time_wiki - 0.8154743203803492
+
+5) school_wiki - 0.8068343756546299
+
+6) way_wiki - 0.7749389640968732
+
+7) day_wiki - 0.7707467768263919
+
+8) night_wiki - 0.6474331810305474
+
+9) man_wiki - 0.6206875217370702
+
+10) face_wiki - 0.5897213396346971
+
+11) moment_wiki - 0.5484412745105862
+
+Result for the vector: school, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8714256806031414
+
+1) school_wiki - 0.8714256806031414
+
+2) boy_wiki - 0.8565943751689556
+
+3) place_wiki - 0.837953250164187
+
+4) time_wiki - 0.8318244862294955
+
+5) day_wiki - 0.7934190261517228
+
+6) way_wiki - 0.7904257524521112
+
+7) house_wiki - 0.7752741441294164
+
+8) night_wiki - 0.659860093576924
+
+9) man_wiki - 0.6201424330685212
+
+10) moment_wiki - 0.5759287223773525
+
+11) face_wiki - 0.5733522860231781
+

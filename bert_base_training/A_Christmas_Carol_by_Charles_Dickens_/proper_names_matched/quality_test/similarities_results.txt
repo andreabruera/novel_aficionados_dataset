@@ -1,0 +1,96 @@
+Result for the vector: mr_scrooge, coming from part i of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9214862585067815
+
+1) mr_scrooge_a - 0.9214862585067815
+
+2) jacob_marley_a - 0.9197734594345158
+
+3) spirit_a - 0.8767549918147932
+
+4) tiny_tim_a - 0.8000229597091731
+
+Result for the vector: jacob_marley, coming from part i of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9307437580380601
+
+1) jacob_marley_a - 0.9307437580380601
+
+2) mr_scrooge_a - 0.9092662388523691
+
+3) spirit_a - 0.8937097787857056
+
+4) tiny_tim_a - 0.798448634240114
+
+Result for the vector: tiny_tim, coming from part i of the book
+Rank: 4 out of 4 characters
+Cosine similarity to the co-referring vector: 0.7846980819286073
+
+1) mr_scrooge_a - 0.9078044946310242
+
+2) jacob_marley_a - 0.9026092348927731
+
+3) spirit_a - 0.8710119724273682
+
+4) tiny_tim_a - 0.7846980819286073
+
+Result for the vector: spirit, coming from part i of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8952025237558784
+
+1) spirit_a - 0.8952025237558784
+
+2) jacob_marley_a - 0.8583764006642818
+
+3) mr_scrooge_a - 0.8492720902833831
+
+4) tiny_tim_a - 0.7803384327485046
+
+Result for the vector: mr_scrooge, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9214862585067815
+
+1) mr_scrooge_wiki - 0.9214862585067815
+
+2) jacob_marley_wiki - 0.9092662388523691
+
+3) tiny_tim_wiki - 0.9078044946310242
+
+4) spirit_wiki - 0.8492720902833831
+
+Result for the vector: jacob_marley, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9307437580380601
+
+1) jacob_marley_wiki - 0.9307437580380601
+
+2) mr_scrooge_wiki - 0.9197734594345158
+
+3) tiny_tim_wiki - 0.9026092348927731
+
+4) spirit_wiki - 0.8583764006642818
+
+Result for the vector: tiny_tim, coming from part a of the book
+Rank: 3 out of 4 characters
+Cosine similarity to the co-referring vector: 0.7846980819286073
+
+1) mr_scrooge_wiki - 0.8000229597091731
+
+2) jacob_marley_wiki - 0.798448634240114
+
+3) tiny_tim_wiki - 0.7846980819286073
+
+4) spirit_wiki - 0.7803384327485046
+
+Result for the vector: spirit, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8952025237558784
+
+1) spirit_wiki - 0.8952025237558784
+
+2) jacob_marley_wiki - 0.8937097787857056
+
+3) mr_scrooge_wiki - 0.8767549918147932
+
+4) tiny_tim_wiki - 0.8710119724273682
+

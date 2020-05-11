@@ -1,0 +1,480 @@
+Result for the vector: name, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9673855265838536
+
+1) name_b - 0.9673855265838536
+
+2) brother_b - 0.9175235678241657
+
+3) thing_b - 0.8704832715084134
+
+4) life_b - 0.8361131700378515
+
+5) time_b - 0.8344429285326241
+
+6) fact_b - 0.828334878186306
+
+7) tea_b - 0.8204907667929405
+
+8) hand_b - 0.8119722492678328
+
+9) work_b - 0.8088241701617357
+
+10) way_b - 0.8005643964150202
+
+Result for the vector: brother, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9491984904767949
+
+1) brother_b - 0.9491984904767949
+
+2) name_b - 0.9348093828445322
+
+3) thing_b - 0.8649409413337708
+
+4) time_b - 0.8398208868450194
+
+5) hand_b - 0.8388059139251709
+
+6) life_b - 0.8319151053403353
+
+7) tea_b - 0.8278516530990601
+
+8) fact_b - 0.7916109810339291
+
+9) way_b - 0.783889651298523
+
+10) work_b - 0.7832853198051453
+
+Result for the vector: work, coming from part a of the book
+Rank: 8 out of 10 characters
+Cosine similarity to the co-referring vector: 0.7394890499724143
+
+1) thing_b - 0.7998138308747074
+
+2) name_b - 0.7879532105950714
+
+3) hand_b - 0.7837614078806208
+
+4) brother_b - 0.7758603034352533
+
+5) time_b - 0.77115129490335
+
+6) tea_b - 0.7609275864449094
+
+7) life_b - 0.7425965598884403
+
+8) work_b - 0.7394890499724143
+
+9) fact_b - 0.7328115742655815
+
+10) way_b - 0.718077812423972
+
+Result for the vector: thing, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9484820365905762
+
+1) thing_b - 0.9484820365905762
+
+2) name_b - 0.9181829046120007
+
+3) time_b - 0.8962611227113347
+
+4) brother_b - 0.8931110628710973
+
+5) fact_b - 0.8674190798498359
+
+6) tea_b - 0.849764883518219
+
+7) way_b - 0.8492127060890198
+
+8) hand_b - 0.8434901237487793
+
+9) work_b - 0.8418753743171692
+
+10) life_b - 0.8387250554181656
+
+Result for the vector: hand, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9500197112583837
+
+1) hand_b - 0.9500197112583837
+
+2) tea_b - 0.8811669804056922
+
+3) name_b - 0.8517966005438463
+
+4) brother_b - 0.8313670158386467
+
+5) time_b - 0.8306478903663028
+
+6) thing_b - 0.8182862780435475
+
+7) fact_b - 0.8025172948837508
+
+8) work_b - 0.7939973824021136
+
+9) life_b - 0.7829036687170997
+
+10) way_b - 0.7816391326951002
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.939166752671205
+
+1) time_b - 0.939166752671205
+
+2) thing_b - 0.8762615919113159
+
+3) brother_b - 0.8692266500918152
+
+4) name_b - 0.8650873222999185
+
+5) life_b - 0.8439172161792883
+
+6) way_b - 0.8403996229171753
+
+7) tea_b - 0.8251290321350098
+
+8) fact_b - 0.8203624105021523
+
+9) hand_b - 0.8134070038795471
+
+10) work_b - 0.7698654532432556
+
+Result for the vector: life, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9305265504435629
+
+1) life_b - 0.9305265504435629
+
+2) name_b - 0.8931495153739619
+
+3) thing_b - 0.8742242119975157
+
+4) time_b - 0.8710231108083195
+
+5) brother_b - 0.8699972447755513
+
+6) fact_b - 0.8382273162996281
+
+7) way_b - 0.8283261903621615
+
+8) tea_b - 0.8244530208245824
+
+9) hand_b - 0.8173372989099417
+
+10) work_b - 0.8041760565094969
+
+Result for the vector: fact, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9468822228715922
+
+1) fact_b - 0.9468822228715922
+
+2) thing_b - 0.8964030413747744
+
+3) name_b - 0.8806062532013289
+
+4) time_b - 0.8628089942222235
+
+5) brother_b - 0.8500754669241284
+
+6) life_b - 0.834350576064025
+
+7) way_b - 0.8234311587640992
+
+8) tea_b - 0.8163974528431137
+
+9) hand_b - 0.8049916268882644
+
+10) work_b - 0.7922967312424405
+
+Result for the vector: way, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9033726992233232
+
+1) way_b - 0.9033726992233232
+
+2) thing_b - 0.8813528347821749
+
+3) time_b - 0.8710428659060183
+
+4) fact_b - 0.8623790226948982
+
+5) name_b - 0.8619075252899557
+
+6) brother_b - 0.8325913052206587
+
+7) life_b - 0.8325067906832809
+
+8) tea_b - 0.7917633528568373
+
+9) hand_b - 0.7914780254052907
+
+10) work_b - 0.7750745877668029
+
+Result for the vector: tea, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8972837267687174
+
+1) tea_b - 0.8972837267687174
+
+2) hand_b - 0.810488093524463
+
+3) name_b - 0.7894961583013723
+
+4) time_b - 0.7831368550482565
+
+5) thing_b - 0.7792093026166752
+
+6) brother_b - 0.764874174304368
+
+7) fact_b - 0.7611728452937221
+
+8) work_b - 0.7433265890673764
+
+9) life_b - 0.7323852240191604
+
+10) way_b - 0.704907042080585
+
+Result for the vector: name, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9673855265838536
+
+1) name_a - 0.9673855265838536
+
+2) brother_a - 0.9348093828445322
+
+3) thing_a - 0.9181829046120007
+
+4) life_a - 0.8931495153739619
+
+5) fact_a - 0.8806062532013289
+
+6) time_a - 0.8650873222999185
+
+7) way_a - 0.8619075252899557
+
+8) hand_a - 0.8517966005438463
+
+9) tea_a - 0.7894961583013723
+
+10) work_a - 0.7879532105950714
+
+Result for the vector: brother, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9491984904767949
+
+1) brother_a - 0.9491984904767949
+
+2) name_a - 0.9175235678241657
+
+3) thing_a - 0.8931110628710973
+
+4) life_a - 0.8699972447755513
+
+5) time_a - 0.8692266500918152
+
+6) fact_a - 0.8500754669241284
+
+7) way_a - 0.8325913052206587
+
+8) hand_a - 0.8313670158386467
+
+9) work_a - 0.7758603034352533
+
+10) tea_a - 0.764874174304368
+
+Result for the vector: work, coming from part b of the book
+Rank: 10 out of 10 characters
+Cosine similarity to the co-referring vector: 0.7394890499724143
+
+1) thing_a - 0.8418753743171692
+
+2) name_a - 0.8088241701617357
+
+3) life_a - 0.8041760565094969
+
+4) hand_a - 0.7939973824021136
+
+5) fact_a - 0.7922967312424405
+
+6) brother_a - 0.7832853198051453
+
+7) way_a - 0.7750745877668029
+
+8) time_a - 0.7698654532432556
+
+9) tea_a - 0.7433265890673764
+
+10) work_a - 0.7394890499724143
+
+Result for the vector: thing, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9484820365905762
+
+1) thing_a - 0.9484820365905762
+
+2) fact_a - 0.8964030413747744
+
+3) way_a - 0.8813528347821749
+
+4) time_a - 0.8762615919113159
+
+5) life_a - 0.8742242119975157
+
+6) name_a - 0.8704832715084134
+
+7) brother_a - 0.8649409413337708
+
+8) hand_a - 0.8182862780435475
+
+9) work_a - 0.7998138308747074
+
+10) tea_a - 0.7792093026166752
+
+Result for the vector: hand, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9500197112583837
+
+1) hand_a - 0.9500197112583837
+
+2) thing_a - 0.8434901237487793
+
+3) brother_a - 0.8388059139251709
+
+4) life_a - 0.8173372989099417
+
+5) time_a - 0.8134070038795471
+
+6) name_a - 0.8119722492678328
+
+7) tea_a - 0.810488093524463
+
+8) fact_a - 0.8049916268882644
+
+9) way_a - 0.7914780254052907
+
+10) work_a - 0.7837614078806208
+
+Result for the vector: time, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.939166752671205
+
+1) time_a - 0.939166752671205
+
+2) thing_a - 0.8962611227113347
+
+3) way_a - 0.8710428659060183
+
+4) life_a - 0.8710231108083195
+
+5) fact_a - 0.8628089942222235
+
+6) brother_a - 0.8398208868450194
+
+7) name_a - 0.8344429285326241
+
+8) hand_a - 0.8306478903663028
+
+9) tea_a - 0.7831368550482565
+
+10) work_a - 0.77115129490335
+
+Result for the vector: life, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9305265504435629
+
+1) life_a - 0.9305265504435629
+
+2) time_a - 0.8439172161792883
+
+3) thing_a - 0.8387250554181656
+
+4) name_a - 0.8361131700378515
+
+5) fact_a - 0.834350576064025
+
+6) way_a - 0.8325067906832809
+
+7) brother_a - 0.8319151053403353
+
+8) hand_a - 0.7829036687170997
+
+9) work_a - 0.7425965598884403
+
+10) tea_a - 0.7323852240191604
+
+Result for the vector: fact, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9468822228715922
+
+1) fact_a - 0.9468822228715922
+
+2) thing_a - 0.8674190798498359
+
+3) way_a - 0.8623790226948982
+
+4) life_a - 0.8382273162996281
+
+5) name_a - 0.828334878186306
+
+6) time_a - 0.8203624105021523
+
+7) hand_a - 0.8025172948837508
+
+8) brother_a - 0.7916109810339291
+
+9) tea_a - 0.7611728452937221
+
+10) work_a - 0.7328115742655815
+
+Result for the vector: way, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9033726992233232
+
+1) way_a - 0.9033726992233232
+
+2) thing_a - 0.8492127060890198
+
+3) time_a - 0.8403996229171753
+
+4) life_a - 0.8283261903621615
+
+5) fact_a - 0.8234311587640992
+
+6) name_a - 0.8005643964150202
+
+7) brother_a - 0.783889651298523
+
+8) hand_a - 0.7816391326951002
+
+9) work_a - 0.718077812423972
+
+10) tea_a - 0.704907042080585
+
+Result for the vector: tea, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8972837267687174
+
+1) tea_a - 0.8972837267687174
+
+2) hand_a - 0.8811669804056922
+
+3) thing_a - 0.849764883518219
+
+4) brother_a - 0.8278516530990601
+
+5) time_a - 0.8251290321350098
+
+6) life_a - 0.8244530208245824
+
+7) name_a - 0.8204907667929405
+
+8) fact_a - 0.8163974528431137
+
+9) way_a - 0.7917633528568373
+
+10) work_a - 0.7609275864449094
+

@@ -1,0 +1,3840 @@
+Result for the vector: mr_raskolnikov, coming from part a of the book
+Rank: 3 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9695186018943787
+
+1) mr_razumihin_b - 0.9810736775398254
+
+2) porfiry_petrovitch_b - 0.9741762280464172
+
+3) mr_raskolnikov_b - 0.9695186018943787
+
+4) mr_svidrigaïlov_b - 0.9656090140342712
+
+5) andrey_semyonovitch_lebeziatnikov_b - 0.9629287719726562
+
+6) nikolay_b - 0.9575047778339622
+
+7) pyotr_petrovitch_luzhin_b - 0.955949964764718
+
+8) pulcheria_alexandrovna_b - 0.9557720475468647
+
+9) ilya_petrovitch_b - 0.9536030237201548
+
+10) sonia_b - 0.9498122930526733
+
+11) katerina_ivanovna_b - 0.9436224136577614
+
+12) dounia_b - 0.9394136667251587
+
+13) sofya_semyonovna_marmeladov_b - 0.9377749525174487
+
+14) rodya_b - 0.9336328506469727
+
+15) avdotya_romanovna_b - 0.9329633076765141
+
+16) mr_zametov_b - 0.9298965889153848
+
+17) marfa_petrovna_b - 0.923251748085022
+
+18) dmitri_prokofitch_b - 0.9156832695007324
+
+19) polenka_b - 0.9141131639480591
+
+20) lizaveta_ivanovna_b - 0.9067775066627575
+
+21) kolya_b - 0.9020918701482936
+
+22) rodion_romanovitch_raskolnikov_b - 0.8985703112399271
+
+23) madame_resslich_b - 0.896302342414856
+
+24) napoleon_b - 0.8924554586410522
+
+25) nastasya_b - 0.8527704056775147
+
+26) amalia_ludwigovna_b - 0.8282264573439102
+
+27) zossimov_b - 0.799194908046121
+
+28) nikodim_fomitch_b - 0.7422140836715698
+
+29) semyon_zaharovitch_b - 0.7030990542828486
+
+30) koch_b - 0.6740196152937195
+
+Result for the vector: sonia, coming from part a of the book
+Rank: 4 out of 30 characters
+Cosine similarity to the co-referring vector: 0.97291722813002
+
+1) pulcheria_alexandrovna_b - 0.9765554985503515
+
+2) katerina_ivanovna_b - 0.9744301743975269
+
+3) sofya_semyonovna_marmeladov_b - 0.9739269888931805
+
+4) sonia_b - 0.97291722813002
+
+5) avdotya_romanovna_b - 0.9683952005262857
+
+6) dounia_b - 0.9681365778486906
+
+7) mr_razumihin_b - 0.9654788662635947
+
+8) polenka_b - 0.964569299357215
+
+9) marfa_petrovna_b - 0.9642402221036028
+
+10) mr_svidrigaïlov_b - 0.9632504273429645
+
+11) lizaveta_ivanovna_b - 0.9576590371829596
+
+12) porfiry_petrovitch_b - 0.9570513056829965
+
+13) pyotr_petrovitch_luzhin_b - 0.9570333672453988
+
+14) rodya_b - 0.9561406658929789
+
+15) nikolay_b - 0.9541654559472476
+
+16) mr_raskolnikov_b - 0.9504193350797697
+
+17) madame_resslich_b - 0.9494803234779935
+
+18) andrey_semyonovitch_lebeziatnikov_b - 0.9459801598185352
+
+19) dmitri_prokofitch_b - 0.9458464665963197
+
+20) mr_zametov_b - 0.9390407448149397
+
+21) kolya_b - 0.936347707831328
+
+22) ilya_petrovitch_b - 0.9247342533967313
+
+23) rodion_romanovitch_raskolnikov_b - 0.9243067868673797
+
+24) napoleon_b - 0.8879170682405556
+
+25) nastasya_b - 0.8876194160324956
+
+26) amalia_ludwigovna_b - 0.8795850610856729
+
+27) zossimov_b - 0.8227353725933126
+
+28) nikodim_fomitch_b - 0.7421852571423432
+
+29) semyon_zaharovitch_b - 0.7079508937553374
+
+30) koch_b - 0.6987450747560034
+
+Result for the vector: dounia, coming from part a of the book
+Rank: 6 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9549917578697205
+
+1) marfa_petrovna_b - 0.9806273579597473
+
+2) sofya_semyonovna_marmeladov_b - 0.9750995621144528
+
+3) katerina_ivanovna_b - 0.9717761891021633
+
+4) avdotya_romanovna_b - 0.9714760167286424
+
+5) pulcheria_alexandrovna_b - 0.9661392013860769
+
+6) dounia_b - 0.9549917578697205
+
+7) mr_razumihin_b - 0.949167788028717
+
+8) sonia_b - 0.9479168057441711
+
+9) nikolay_b - 0.9478597923475446
+
+10) andrey_semyonovitch_lebeziatnikov_b - 0.9429676532745361
+
+11) rodya_b - 0.9428122043609619
+
+12) mr_svidrigaïlov_b - 0.9421027898788452
+
+13) pyotr_petrovitch_luzhin_b - 0.9419018660842277
+
+14) dmitri_prokofitch_b - 0.9410070180892944
+
+15) polenka_b - 0.9403294324874878
+
+16) madame_resslich_b - 0.9384469389915466
+
+17) lizaveta_ivanovna_b - 0.9369214214729432
+
+18) mr_zametov_b - 0.9367230496837543
+
+19) porfiry_petrovitch_b - 0.9341183304786682
+
+20) mr_raskolnikov_b - 0.9301534295082092
+
+21) kolya_b - 0.9236926575258159
+
+22) rodion_romanovitch_raskolnikov_b - 0.9066279641833412
+
+23) ilya_petrovitch_b - 0.9055157191176144
+
+24) napoleon_b - 0.885797381401062
+
+25) nastasya_b - 0.8694983280303149
+
+26) amalia_ludwigovna_b - 0.8686139065853429
+
+27) zossimov_b - 0.8250055104500722
+
+28) nikodim_fomitch_b - 0.7292181849479675
+
+29) semyon_zaharovitch_b - 0.7181773017750575
+
+30) koch_b - 0.6703990501403254
+
+Result for the vector: mr_razumihin, coming from part a of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9829577217723314
+
+1) mr_razumihin_b - 0.9829577217723314
+
+2) porfiry_petrovitch_b - 0.9818283926350854
+
+3) mr_svidrigaïlov_b - 0.980322362165312
+
+4) mr_raskolnikov_b - 0.9740338937023959
+
+5) pyotr_petrovitch_luzhin_b - 0.9721927079924693
+
+6) nikolay_b - 0.971956224085209
+
+7) andrey_semyonovitch_lebeziatnikov_b - 0.9701141732863102
+
+8) pulcheria_alexandrovna_b - 0.9693475420449617
+
+9) sofya_semyonovna_marmeladov_b - 0.9616224765777657
+
+10) dounia_b - 0.961108269625411
+
+11) rodya_b - 0.9591113949351688
+
+12) avdotya_romanovna_b - 0.9584206342697211
+
+13) ilya_petrovitch_b - 0.957353887400278
+
+14) katerina_ivanovna_b - 0.956637268467275
+
+15) sonia_b - 0.9552807834577111
+
+16) mr_zametov_b - 0.954104959964759
+
+17) marfa_petrovna_b - 0.9451186093617331
+
+18) dmitri_prokofitch_b - 0.9404647981843489
+
+19) polenka_b - 0.9374356307127713
+
+20) lizaveta_ivanovna_b - 0.9350167590359737
+
+21) rodion_romanovitch_raskolnikov_b - 0.9338353990610737
+
+22) madame_resslich_b - 0.9256638928852161
+
+23) kolya_b - 0.9151870779972224
+
+24) napoleon_b - 0.9097875410445027
+
+25) nastasya_b - 0.8726318706336268
+
+26) amalia_ludwigovna_b - 0.8614962862138407
+
+27) zossimov_b - 0.8167487273662655
+
+28) nikodim_fomitch_b - 0.7757945790413286
+
+29) semyon_zaharovitch_b - 0.7167876362800649
+
+30) koch_b - 0.6961373090744069
+
+Result for the vector: pyotr_petrovitch_luzhin, coming from part a of the book
+Rank: 2 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9718713197861528
+
+1) andrey_semyonovitch_lebeziatnikov_b - 0.9782859695979392
+
+2) pyotr_petrovitch_luzhin_b - 0.9718713197861528
+
+3) porfiry_petrovitch_b - 0.954969468416605
+
+4) mr_razumihin_b - 0.9546622660957433
+
+5) nikolay_b - 0.9502995923072259
+
+6) mr_svidrigaïlov_b - 0.9497743874922777
+
+7) ilya_petrovitch_b - 0.9409990275501776
+
+8) sofya_semyonovna_marmeladov_b - 0.9405394792556829
+
+9) avdotya_romanovna_b - 0.93943232297898
+
+10) mr_raskolnikov_b - 0.936313215713907
+
+11) katerina_ivanovna_b - 0.9334034999127984
+
+12) pulcheria_alexandrovna_b - 0.9323696615034963
+
+13) mr_zametov_b - 0.9319960474968023
+
+14) dounia_b - 0.9315589111114214
+
+15) marfa_petrovna_b - 0.9254152819266763
+
+16) rodya_b - 0.9233573720838222
+
+17) lizaveta_ivanovna_b - 0.9116134748919636
+
+18) rodion_romanovitch_raskolnikov_b - 0.9106384079506876
+
+19) dmitri_prokofitch_b - 0.9106119328372535
+
+20) sonia_b - 0.907302027505517
+
+21) napoleon_b - 0.9021955190780465
+
+22) madame_resslich_b - 0.8949118319206354
+
+23) polenka_b - 0.8903501099139403
+
+24) kolya_b - 0.879558575087605
+
+25) amalia_ludwigovna_b - 0.8470255318849644
+
+26) zossimov_b - 0.8278487818151119
+
+27) nastasya_b - 0.8156292768187638
+
+28) nikodim_fomitch_b - 0.7312269371016672
+
+29) semyon_zaharovitch_b - 0.7259997129440359
+
+30) koch_b - 0.6556795239448594
+
+Result for the vector: katerina_ivanovna, coming from part a of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.97194660044353
+
+1) katerina_ivanovna_b - 0.97194660044353
+
+2) polenka_b - 0.9699845927962921
+
+3) sofya_semyonovna_marmeladov_b - 0.9690901041030953
+
+4) pulcheria_alexandrovna_b - 0.9657326401950186
+
+5) avdotya_romanovna_b - 0.9649971723556587
+
+6) madame_resslich_b - 0.9620707653718747
+
+7) dounia_b - 0.9593090439254632
+
+8) rodya_b - 0.9591634297869562
+
+9) marfa_petrovna_b - 0.956670525272459
+
+10) sonia_b - 0.955055656727813
+
+11) lizaveta_ivanovna_b - 0.9549971276525107
+
+12) pyotr_petrovitch_luzhin_b - 0.9535375292852486
+
+13) mr_svidrigaïlov_b - 0.9478371770478994
+
+14) mr_razumihin_b - 0.9470504553884013
+
+15) rodion_romanovitch_raskolnikov_b - 0.9429259402288322
+
+16) nikolay_b - 0.9410548525734327
+
+17) kolya_b - 0.9404183239368425
+
+18) dmitri_prokofitch_b - 0.936149660578392
+
+19) porfiry_petrovitch_b - 0.9352924266283275
+
+20) andrey_semyonovitch_lebeziatnikov_b - 0.9337897936231038
+
+21) mr_raskolnikov_b - 0.9337205926346442
+
+22) mr_zametov_b - 0.9292598366737431
+
+23) ilya_petrovitch_b - 0.9103119319863424
+
+24) napoleon_b - 0.8859838911304555
+
+25) amalia_ludwigovna_b - 0.8830436011500834
+
+26) nastasya_b - 0.8613658795298569
+
+27) zossimov_b - 0.8162620554126665
+
+28) nikodim_fomitch_b - 0.7588039184329571
+
+29) semyon_zaharovitch_b - 0.7340962290763907
+
+30) koch_b - 0.6993722915649464
+
+Result for the vector: porfiry_petrovitch, coming from part a of the book
+Rank: 2 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9821809540879175
+
+1) mr_svidrigaïlov_b - 0.983589054132162
+
+2) porfiry_petrovitch_b - 0.9821809540879175
+
+3) mr_razumihin_b - 0.9790138018719093
+
+4) pyotr_petrovitch_luzhin_b - 0.9770184782721426
+
+5) nikolay_b - 0.9725534626080593
+
+6) mr_raskolnikov_b - 0.972336591938939
+
+7) andrey_semyonovitch_lebeziatnikov_b - 0.9688212890135491
+
+8) pulcheria_alexandrovna_b - 0.9660411537812095
+
+9) avdotya_romanovna_b - 0.9652870893478462
+
+10) dounia_b - 0.9633691928762695
+
+11) sofya_semyonovna_marmeladov_b - 0.9608008861541816
+
+12) mr_zametov_b - 0.9602189064025947
+
+13) rodya_b - 0.9589505220085088
+
+14) ilya_petrovitch_b - 0.9531381102286796
+
+15) katerina_ivanovna_b - 0.9501519858655947
+
+16) sonia_b - 0.944897476142797
+
+17) rodion_romanovitch_raskolnikov_b - 0.9428607923637421
+
+18) marfa_petrovna_b - 0.9414252673730111
+
+19) dmitri_prokofitch_b - 0.9406684076387656
+
+20) lizaveta_ivanovna_b - 0.9343670684853711
+
+21) polenka_b - 0.9321627657316484
+
+22) madame_resslich_b - 0.9198064255829812
+
+23) kolya_b - 0.9113856123962749
+
+24) napoleon_b - 0.908227091537293
+
+25) amalia_ludwigovna_b - 0.8711635623975322
+
+26) nastasya_b - 0.8576658622623944
+
+27) zossimov_b - 0.8219164503763122
+
+28) nikodim_fomitch_b - 0.7734960452618586
+
+29) semyon_zaharovitch_b - 0.7228353619575552
+
+30) koch_b - 0.6947261691093494
+
+Result for the vector: mr_svidrigaïlov, coming from part a of the book
+Rank: 10 out of 30 characters
+Cosine similarity to the co-referring vector: 0.92693692881245
+
+1) mr_razumihin_b - 0.9461839827189472
+
+2) andrey_semyonovitch_lebeziatnikov_b - 0.9426765476061988
+
+3) nikolay_b - 0.9406556206746252
+
+4) pyotr_petrovitch_luzhin_b - 0.9354221897814048
+
+5) sofya_semyonovna_marmeladov_b - 0.9351781606674261
+
+6) rodya_b - 0.9308109920733593
+
+7) katerina_ivanovna_b - 0.9291163171391109
+
+8) avdotya_romanovna_b - 0.9282959699630803
+
+9) porfiry_petrovitch_b - 0.9275141401580506
+
+10) mr_svidrigaïlov_b - 0.92693692881245
+
+11) marfa_petrovna_b - 0.9260188981283384
+
+12) pulcheria_alexandrovna_b - 0.9240290658422011
+
+13) ilya_petrovitch_b - 0.9204914522464096
+
+14) dmitri_prokofitch_b - 0.9198216843711342
+
+15) mr_zametov_b - 0.9187883138656682
+
+16) mr_raskolnikov_b - 0.9147733500734971
+
+17) kolya_b - 0.9113905595825285
+
+18) dounia_b - 0.9111909919267318
+
+19) polenka_b - 0.9061417039548351
+
+20) madame_resslich_b - 0.900815790843024
+
+21) lizaveta_ivanovna_b - 0.8962987784983184
+
+22) sonia_b - 0.8956650557717664
+
+23) napoleon_b - 0.8952207627760925
+
+24) rodion_romanovitch_raskolnikov_b - 0.894557494898292
+
+25) amalia_ludwigovna_b - 0.8387124730691345
+
+26) nastasya_b - 0.8155326577068598
+
+27) zossimov_b - 0.8120714910073107
+
+28) nikodim_fomitch_b - 0.7312033932683842
+
+29) semyon_zaharovitch_b - 0.7180655598640493
+
+30) koch_b - 0.6633074879646348
+
+Result for the vector: pulcheria_alexandrovna, coming from part a of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9851936413174701
+
+1) pulcheria_alexandrovna_b - 0.9851936413174701
+
+2) sonia_b - 0.9768830232883405
+
+3) dounia_b - 0.9754245571918658
+
+4) mr_svidrigaïlov_b - 0.9735043935032013
+
+5) mr_raskolnikov_b - 0.9678471376850353
+
+6) mr_razumihin_b - 0.9661200334465518
+
+7) pyotr_petrovitch_luzhin_b - 0.9650538872166348
+
+8) avdotya_romanovna_b - 0.9629317786930606
+
+9) porfiry_petrovitch_b - 0.9627214957094643
+
+10) katerina_ivanovna_b - 0.9615438293950647
+
+11) rodya_b - 0.9581561374114796
+
+12) sofya_semyonovna_marmeladov_b - 0.958029475035919
+
+13) marfa_petrovna_b - 0.9474246784277168
+
+14) andrey_semyonovitch_lebeziatnikov_b - 0.9442122263971638
+
+15) polenka_b - 0.9434081597151808
+
+16) nikolay_b - 0.9396747314736087
+
+17) lizaveta_ivanovna_b - 0.9386737662949073
+
+18) dmitri_prokofitch_b - 0.9335181991314355
+
+19) mr_zametov_b - 0.9323664545148426
+
+20) rodion_romanovitch_raskolnikov_b - 0.930600619560435
+
+21) madame_resslich_b - 0.9244595445531475
+
+22) ilya_petrovitch_b - 0.920136827250846
+
+23) kolya_b - 0.914873222082444
+
+24) amalia_ludwigovna_b - 0.8733054139225096
+
+25) nastasya_b - 0.8709039505508087
+
+26) napoleon_b - 0.8643766303174687
+
+27) zossimov_b - 0.8198306590066374
+
+28) nikodim_fomitch_b - 0.7387681227555315
+
+29) semyon_zaharovitch_b - 0.7013914616159914
+
+30) koch_b - 0.6861762421884756
+
+Result for the vector: avdotya_romanovna, coming from part a of the book
+Rank: 5 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9693488731010074
+
+1) pulcheria_alexandrovna_b - 0.9783012575417596
+
+2) sonia_b - 0.9773409644372173
+
+3) katerina_ivanovna_b - 0.9726242712922285
+
+4) dounia_b - 0.9712972317305751
+
+5) avdotya_romanovna_b - 0.9693488731010074
+
+6) sofya_semyonovna_marmeladov_b - 0.9693351640306662
+
+7) marfa_petrovna_b - 0.9663337140977761
+
+8) mr_svidrigaïlov_b - 0.9634944465900501
+
+9) mr_razumihin_b - 0.9624294903066337
+
+10) pyotr_petrovitch_luzhin_b - 0.9570329474518687
+
+11) porfiry_petrovitch_b - 0.956166889324808
+
+12) mr_raskolnikov_b - 0.954119052361169
+
+13) nikolay_b - 0.9524844828229543
+
+14) polenka_b - 0.951792206030391
+
+15) rodya_b - 0.9491993441461969
+
+16) andrey_semyonovitch_lebeziatnikov_b - 0.9454543839801335
+
+17) lizaveta_ivanovna_b - 0.9439570589052859
+
+18) madame_resslich_b - 0.9417935259753676
+
+19) mr_zametov_b - 0.935516258406082
+
+20) dmitri_prokofitch_b - 0.9334537029374014
+
+21) kolya_b - 0.9228985675867168
+
+22) ilya_petrovitch_b - 0.9204706681756584
+
+23) rodion_romanovitch_raskolnikov_b - 0.919341298361402
+
+24) napoleon_b - 0.8799949479098607
+
+25) nastasya_b - 0.8799805378919872
+
+26) amalia_ludwigovna_b - 0.8734417818022402
+
+27) zossimov_b - 0.8223819064102578
+
+28) nikodim_fomitch_b - 0.7502507642135737
+
+29) semyon_zaharovitch_b - 0.7158540361902175
+
+30) koch_b - 0.6851827927206151
+
+Result for the vector: rodion_romanovitch_raskolnikov, coming from part a of the book
+Rank: 6 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9269985643627037
+
+1) sofya_semyonovna_marmeladov_b - 0.9418258632317716
+
+2) avdotya_romanovna_b - 0.9409654701331555
+
+3) pyotr_petrovitch_luzhin_b - 0.9363421835695412
+
+4) nikolay_b - 0.9355016033500915
+
+5) rodya_b - 0.9325413107872009
+
+6) rodion_romanovitch_raskolnikov_b - 0.9269985643627037
+
+7) mr_razumihin_b - 0.9244023561477661
+
+8) dmitri_prokofitch_b - 0.9243890047073364
+
+9) pulcheria_alexandrovna_b - 0.9240098090160186
+
+10) mr_svidrigaïlov_b - 0.9233521223068237
+
+11) marfa_petrovna_b - 0.9202996492385864
+
+12) andrey_semyonovitch_lebeziatnikov_b - 0.919806718826294
+
+13) dounia_b - 0.9196739792823792
+
+14) mr_zametov_b - 0.9164136002310292
+
+15) porfiry_petrovitch_b - 0.9154440760612488
+
+16) katerina_ivanovna_b - 0.910846000263335
+
+17) madame_resslich_b - 0.9099084138870239
+
+18) polenka_b - 0.9045698642730713
+
+19) lizaveta_ivanovna_b - 0.9014908134048708
+
+20) mr_raskolnikov_b - 0.9003502726554871
+
+21) ilya_petrovitch_b - 0.8987116692914633
+
+22) kolya_b - 0.8925916626495806
+
+23) napoleon_b - 0.8869935870170593
+
+24) sonia_b - 0.8826978802680969
+
+25) amalia_ludwigovna_b - 0.8549872127182968
+
+26) zossimov_b - 0.8160801310634828
+
+27) nastasya_b - 0.8003419279644632
+
+28) semyon_zaharovitch_b - 0.7588926410015024
+
+29) nikodim_fomitch_b - 0.7492119073867798
+
+30) koch_b - 0.6838428189660811
+
+Result for the vector: rodya, coming from part a of the book
+Rank: 2 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9669991135597229
+
+1) rodion_romanovitch_raskolnikov_b - 0.974894526613418
+
+2) rodya_b - 0.9669991135597229
+
+3) avdotya_romanovna_b - 0.9636358597061567
+
+4) sofya_semyonovna_marmeladov_b - 0.9579246019080061
+
+5) pyotr_petrovitch_luzhin_b - 0.9486911327426968
+
+6) dounia_b - 0.948182225227356
+
+7) pulcheria_alexandrovna_b - 0.9408149789792392
+
+8) polenka_b - 0.9405912160873413
+
+9) nikolay_b - 0.9397388380688086
+
+10) mr_svidrigaïlov_b - 0.9369800686836243
+
+11) mr_zametov_b - 0.935122545666848
+
+12) mr_razumihin_b - 0.9347047209739685
+
+13) lizaveta_ivanovna_b - 0.9345317521970437
+
+14) katerina_ivanovna_b - 0.9332505504339622
+
+15) marfa_petrovna_b - 0.9294027090072632
+
+16) andrey_semyonovitch_lebeziatnikov_b - 0.9270579218864441
+
+17) porfiry_petrovitch_b - 0.9264841079711914
+
+18) madame_resslich_b - 0.9250723719596863
+
+19) dmitri_prokofitch_b - 0.9228217601776123
+
+20) mr_raskolnikov_b - 0.9221662878990173
+
+21) kolya_b - 0.9217633143765889
+
+22) sonia_b - 0.9093798995018005
+
+23) ilya_petrovitch_b - 0.9028996709465652
+
+24) napoleon_b - 0.885513961315155
+
+25) amalia_ludwigovna_b - 0.8662038525221452
+
+26) nastasya_b - 0.7981513979254543
+
+27) zossimov_b - 0.7913479556260112
+
+28) semyon_zaharovitch_b - 0.7648432114626905
+
+29) nikodim_fomitch_b - 0.7510788440704346
+
+30) koch_b - 0.6782055305365057
+
+Result for the vector: mr_zametov, coming from part a of the book
+Rank: 9 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9640762188480048
+
+1) porfiry_petrovitch_b - 0.9810490012168884
+
+2) mr_svidrigaïlov_b - 0.9806526899337769
+
+3) mr_razumihin_b - 0.9758155345916748
+
+4) mr_raskolnikov_b - 0.9717029333114624
+
+5) pyotr_petrovitch_luzhin_b - 0.9704846757361504
+
+6) nikolay_b - 0.9702160051529414
+
+7) avdotya_romanovna_b - 0.965319929440019
+
+8) dounia_b - 0.9652160406112671
+
+9) mr_zametov_b - 0.9640762188480048
+
+10) andrey_semyonovitch_lebeziatnikov_b - 0.9631185531616211
+
+11) sofya_semyonovna_marmeladov_b - 0.9617691613298172
+
+12) pulcheria_alexandrovna_b - 0.9614656017463751
+
+13) rodya_b - 0.9560922384262085
+
+14) sonia_b - 0.9483568668365479
+
+15) katerina_ivanovna_b - 0.9479129345468934
+
+16) lizaveta_ivanovna_b - 0.9462898405617587
+
+17) rodion_romanovitch_raskolnikov_b - 0.9449341958839726
+
+18) ilya_petrovitch_b - 0.9437377981827085
+
+19) marfa_petrovna_b - 0.9381633996963501
+
+20) polenka_b - 0.9349014759063721
+
+21) dmitri_prokofitch_b - 0.9299161434173584
+
+22) madame_resslich_b - 0.9195663928985596
+
+23) kolya_b - 0.9129126784321492
+
+24) napoleon_b - 0.9086071848869324
+
+25) amalia_ludwigovna_b - 0.8716088609928587
+
+26) nastasya_b - 0.8570451906865669
+
+27) zossimov_b - 0.8073497184931954
+
+28) nikodim_fomitch_b - 0.7754533290863037
+
+29) semyon_zaharovitch_b - 0.7135636039712205
+
+30) koch_b - 0.696587604080893
+
+Result for the vector: nastasya, coming from part a of the book
+Rank: 24 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9053017013905469
+
+1) sonia_b - 0.9701013565063477
+
+2) pulcheria_alexandrovna_b - 0.9673358240919392
+
+3) mr_razumihin_b - 0.9650317430496216
+
+4) mr_raskolnikov_b - 0.962392270565033
+
+5) mr_svidrigaïlov_b - 0.9612789154052734
+
+6) porfiry_petrovitch_b - 0.9592076539993286
+
+7) katerina_ivanovna_b - 0.9583892251021149
+
+8) sofya_semyonovna_marmeladov_b - 0.9546480747847619
+
+9) marfa_petrovna_b - 0.9506313800811768
+
+10) polenka_b - 0.9505648612976074
+
+11) pyotr_petrovitch_luzhin_b - 0.9498106867187823
+
+12) dounia_b - 0.9494240283966064
+
+13) avdotya_romanovna_b - 0.9484670727531375
+
+14) rodya_b - 0.9464137554168701
+
+15) andrey_semyonovitch_lebeziatnikov_b - 0.945563793182373
+
+16) nikolay_b - 0.9444698376795605
+
+17) ilya_petrovitch_b - 0.9407856393797035
+
+18) madame_resslich_b - 0.9373800158500671
+
+19) lizaveta_ivanovna_b - 0.934678260405169
+
+20) mr_zametov_b - 0.9341443141784872
+
+21) dmitri_prokofitch_b - 0.931718647480011
+
+22) kolya_b - 0.9218006864966595
+
+23) rodion_romanovitch_raskolnikov_b - 0.9167763690023047
+
+24) nastasya_b - 0.9053017013905469
+
+25) napoleon_b - 0.8831750154495239
+
+26) amalia_ludwigovna_b - 0.8526937453333306
+
+27) zossimov_b - 0.796359276337543
+
+28) nikodim_fomitch_b - 0.7496024370193481
+
+29) koch_b - 0.6990973174033963
+
+30) semyon_zaharovitch_b - 0.6884156875858133
+
+Result for the vector: sofya_semyonovna_marmeladov, coming from part a of the book
+Rank: 12 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9510954218407893
+
+1) mr_razumihin_b - 0.9787326721448817
+
+2) porfiry_petrovitch_b - 0.9775752689801666
+
+3) pyotr_petrovitch_luzhin_b - 0.9748727358764088
+
+4) mr_svidrigaïlov_b - 0.9740708133683929
+
+5) andrey_semyonovitch_lebeziatnikov_b - 0.968060995349447
+
+6) mr_raskolnikov_b - 0.9651996143459807
+
+7) nikolay_b - 0.9630326562582304
+
+8) pulcheria_alexandrovna_b - 0.9629013825327917
+
+9) ilya_petrovitch_b - 0.9594899605336684
+
+10) dounia_b - 0.9548058740505494
+
+11) rodya_b - 0.9524707425342223
+
+12) sofya_semyonovna_marmeladov_b - 0.9510954218407893
+
+13) avdotya_romanovna_b - 0.9493059708220339
+
+14) katerina_ivanovna_b - 0.9486509217606025
+
+15) sonia_b - 0.9478347521774206
+
+16) mr_zametov_b - 0.939643340632424
+
+17) rodion_romanovitch_raskolnikov_b - 0.9335547963844515
+
+18) dmitri_prokofitch_b - 0.9323620397392078
+
+19) marfa_petrovna_b - 0.9314484792126042
+
+20) lizaveta_ivanovna_b - 0.9304654238044306
+
+21) polenka_b - 0.9273674677860047
+
+22) madame_resslich_b - 0.9204708517299474
+
+23) kolya_b - 0.9135436702526837
+
+24) napoleon_b - 0.9020112904923198
+
+25) amalia_ludwigovna_b - 0.8692308249382111
+
+26) nastasya_b - 0.8382467281296175
+
+27) zossimov_b - 0.8100727585153233
+
+28) nikodim_fomitch_b - 0.7490132375081321
+
+29) semyon_zaharovitch_b - 0.7322388030788815
+
+30) koch_b - 0.6877888683832338
+
+Result for the vector: zossimov, coming from part a of the book
+Rank: 27 out of 30 characters
+Cosine similarity to the co-referring vector: 0.817057612099891
+
+1) mr_razumihin_b - 0.9812380963932905
+
+2) porfiry_petrovitch_b - 0.9753904037293917
+
+3) mr_svidrigaïlov_b - 0.9749301962533656
+
+4) nikolay_b - 0.9743041976871608
+
+5) pyotr_petrovitch_luzhin_b - 0.9704993674010266
+
+6) andrey_semyonovitch_lebeziatnikov_b - 0.9695824077600963
+
+7) mr_raskolnikov_b - 0.9686758806906908
+
+8) avdotya_romanovna_b - 0.962775674114437
+
+9) mr_zametov_b - 0.9610964919116941
+
+10) pulcheria_alexandrovna_b - 0.9607687329558777
+
+11) sofya_semyonovna_marmeladov_b - 0.9605224991311881
+
+12) rodya_b - 0.9551880644317888
+
+13) ilya_petrovitch_b - 0.954247020817853
+
+14) dounia_b - 0.9534038589419088
+
+15) marfa_petrovna_b - 0.9453382177751729
+
+16) dmitri_prokofitch_b - 0.9445997162043968
+
+17) katerina_ivanovna_b - 0.9436083750841544
+
+18) sonia_b - 0.940783409499628
+
+19) polenka_b - 0.9320351163159349
+
+20) rodion_romanovitch_raskolnikov_b - 0.9309361936805178
+
+21) lizaveta_ivanovna_b - 0.9302159270579874
+
+22) madame_resslich_b - 0.9180780326747312
+
+23) kolya_b - 0.9164442816840036
+
+24) napoleon_b - 0.9154198442524629
+
+25) nastasya_b - 0.8710254844106398
+
+26) amalia_ludwigovna_b - 0.8548859103058042
+
+27) zossimov_b - 0.817057612099891
+
+28) nikodim_fomitch_b - 0.7639390457850413
+
+29) semyon_zaharovitch_b - 0.7171081945694863
+
+30) koch_b - 0.6886718888883494
+
+Result for the vector: andrey_semyonovitch_lebeziatnikov, coming from part a of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8863612481140363
+
+1) andrey_semyonovitch_lebeziatnikov_b - 0.8863612481140363
+
+2) pyotr_petrovitch_luzhin_b - 0.8674420872399703
+
+3) mr_razumihin_b - 0.826437543246894
+
+4) ilya_petrovitch_b - 0.8238385214709486
+
+5) porfiry_petrovitch_b - 0.8166478385539165
+
+6) nikolay_b - 0.8150177951151822
+
+7) mr_svidrigaïlov_b - 0.8096693867642067
+
+8) sofya_semyonovna_marmeladov_b - 0.8075317144393979
+
+9) zossimov_b - 0.8003447532859426
+
+10) katerina_ivanovna_b - 0.797277415123294
+
+11) dmitri_prokofitch_b - 0.7971543194559636
+
+12) mr_zametov_b - 0.7970792055130062
+
+13) marfa_petrovna_b - 0.7964921714966209
+
+14) avdotya_romanovna_b - 0.7946872711181697
+
+15) pulcheria_alexandrovna_b - 0.7939961920983462
+
+16) mr_raskolnikov_b - 0.7915719275729713
+
+17) napoleon_b - 0.7908715134339637
+
+18) rodya_b - 0.7906146770349352
+
+19) dounia_b - 0.7905593639278805
+
+20) lizaveta_ivanovna_b - 0.7837420959780101
+
+21) rodion_romanovitch_raskolnikov_b - 0.7744061754215655
+
+22) madame_resslich_b - 0.7741919294481333
+
+23) kolya_b - 0.7672916602033146
+
+24) sonia_b - 0.7636321923952002
+
+25) polenka_b - 0.7557998445153342
+
+26) amalia_ludwigovna_b - 0.7229667040149327
+
+27) nastasya_b - 0.7142838750570056
+
+28) semyon_zaharovitch_b - 0.6539056897163438
+
+29) nikodim_fomitch_b - 0.6082681650955589
+
+30) koch_b - 0.5544501543045083
+
+Result for the vector: marfa_petrovna, coming from part a of the book
+Rank: 3 out of 30 characters
+Cosine similarity to the co-referring vector: 0.966446222874749
+
+1) katerina_ivanovna_b - 0.9674489536942299
+
+2) sofya_semyonovna_marmeladov_b - 0.9670088291168282
+
+3) marfa_petrovna_b - 0.966446222874749
+
+4) avdotya_romanovna_b - 0.9615328907966683
+
+5) pulcheria_alexandrovna_b - 0.9612259338094131
+
+6) nikolay_b - 0.9537121369328496
+
+7) lizaveta_ivanovna_b - 0.9508135377390936
+
+8) dounia_b - 0.950699809151901
+
+9) mr_razumihin_b - 0.95029026566206
+
+10) mr_svidrigaïlov_b - 0.9500733643726507
+
+11) polenka_b - 0.9499043852147844
+
+12) rodya_b - 0.9478549392309837
+
+13) madame_resslich_b - 0.9460378321386692
+
+14) dmitri_prokofitch_b - 0.9458148511758552
+
+15) pyotr_petrovitch_luzhin_b - 0.9450682467140857
+
+16) andrey_semyonovitch_lebeziatnikov_b - 0.9445467624338427
+
+17) sonia_b - 0.9434117708556805
+
+18) porfiry_petrovitch_b - 0.9384108222478155
+
+19) mr_zametov_b - 0.9343222379684515
+
+20) kolya_b - 0.9335056742289513
+
+21) mr_raskolnikov_b - 0.9285249156639047
+
+22) rodion_romanovitch_raskolnikov_b - 0.9136201893770373
+
+23) ilya_petrovitch_b - 0.9101851528993485
+
+24) napoleon_b - 0.9054014739154906
+
+25) amalia_ludwigovna_b - 0.8893492949784643
+
+26) nastasya_b - 0.8765813928995041
+
+27) zossimov_b - 0.8372885487847789
+
+28) nikodim_fomitch_b - 0.7462313922505754
+
+29) semyon_zaharovitch_b - 0.7231882810592702
+
+30) koch_b - 0.6910831928253223
+
+Result for the vector: nikolay, coming from part a of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9616615462798346
+
+1) nikolay_b - 0.9616615462798346
+
+2) mr_razumihin_b - 0.9541601538658142
+
+3) sofya_semyonovna_marmeladov_b - 0.9495990842341848
+
+4) andrey_semyonovitch_lebeziatnikov_b - 0.948586106300354
+
+5) mr_zametov_b - 0.9417661989787952
+
+6) mr_svidrigaïlov_b - 0.9402012825012207
+
+7) avdotya_romanovna_b - 0.9382585846339829
+
+8) marfa_petrovna_b - 0.9366408586502075
+
+9) dmitri_prokofitch_b - 0.9360942840576172
+
+10) pyotr_petrovitch_luzhin_b - 0.9352904000705259
+
+11) porfiry_petrovitch_b - 0.9320679306983948
+
+12) pulcheria_alexandrovna_b - 0.9296866143123437
+
+13) katerina_ivanovna_b - 0.9295762819304315
+
+14) dounia_b - 0.9251359105110168
+
+15) rodya_b - 0.9221867322921753
+
+16) mr_raskolnikov_b - 0.9207236766815186
+
+17) lizaveta_ivanovna_b - 0.9153679063696933
+
+18) madame_resslich_b - 0.9152064919471741
+
+19) kolya_b - 0.9144029736763681
+
+20) ilya_petrovitch_b - 0.9138816492416505
+
+21) polenka_b - 0.9128285646438599
+
+22) napoleon_b - 0.9102493524551392
+
+23) sonia_b - 0.8993784189224243
+
+24) rodion_romanovitch_raskolnikov_b - 0.8983218791101186
+
+25) amalia_ludwigovna_b - 0.8608234011636152
+
+26) nastasya_b - 0.8526812967441981
+
+27) zossimov_b - 0.8348616164757807
+
+28) nikodim_fomitch_b - 0.7452396154403687
+
+29) semyon_zaharovitch_b - 0.7186330389161741
+
+30) koch_b - 0.6873460225669171
+
+Result for the vector: dmitri_prokofitch, coming from part a of the book
+Rank: 18 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9449626836202946
+
+1) avdotya_romanovna_b - 0.9677234888076851
+
+2) sofya_semyonovna_marmeladov_b - 0.9666651487350533
+
+3) rodya_b - 0.9627829216252033
+
+4) mr_svidrigaïlov_b - 0.9602744006947057
+
+5) mr_zametov_b - 0.9594774246215888
+
+6) nikolay_b - 0.9580559445006902
+
+7) mr_razumihin_b - 0.9570924665276743
+
+8) marfa_petrovna_b - 0.9512595563376232
+
+9) pyotr_petrovitch_luzhin_b - 0.9497136533601698
+
+10) dounia_b - 0.9494410783385605
+
+11) porfiry_petrovitch_b - 0.9490797550034686
+
+12) pulcheria_alexandrovna_b - 0.9481294247872682
+
+13) lizaveta_ivanovna_b - 0.9480164113025175
+
+14) rodion_romanovitch_raskolnikov_b - 0.9475124572195206
+
+15) polenka_b - 0.9469050796684592
+
+16) mr_raskolnikov_b - 0.9453062447723021
+
+17) andrey_semyonovitch_lebeziatnikov_b - 0.9452784690094923
+
+18) dmitri_prokofitch_b - 0.9449626836202946
+
+19) katerina_ivanovna_b - 0.9436119862065332
+
+20) sonia_b - 0.9288930935327372
+
+21) madame_resslich_b - 0.9281090540820941
+
+22) kolya_b - 0.9275703024224231
+
+23) ilya_petrovitch_b - 0.9225135995455889
+
+24) napoleon_b - 0.9058292564255458
+
+25) amalia_ludwigovna_b - 0.8723585161735397
+
+26) nastasya_b - 0.870314859691587
+
+27) zossimov_b - 0.8056583884750965
+
+28) nikodim_fomitch_b - 0.7695004481374964
+
+29) semyon_zaharovitch_b - 0.7276713848114066
+
+30) koch_b - 0.702597975730901
+
+Result for the vector: lizaveta_ivanovna, coming from part a of the book
+Rank: 5 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9544175578827432
+
+1) sofya_semyonovna_marmeladov_b - 0.9628208544392162
+
+2) katerina_ivanovna_b - 0.9627371143479053
+
+3) pulcheria_alexandrovna_b - 0.9587530232590821
+
+4) dounia_b - 0.9563209103441513
+
+5) lizaveta_ivanovna_b - 0.9544175578827432
+
+6) avdotya_romanovna_b - 0.9542183537082397
+
+7) marfa_petrovna_b - 0.9538832591141245
+
+8) madame_resslich_b - 0.9521540091083652
+
+9) sonia_b - 0.9521135375533566
+
+10) polenka_b - 0.9487064167471656
+
+11) mr_svidrigaïlov_b - 0.9407758993141625
+
+12) pyotr_petrovitch_luzhin_b - 0.940419049846562
+
+13) mr_razumihin_b - 0.9383385461073684
+
+14) rodya_b - 0.9368532579199454
+
+15) nikolay_b - 0.9328450520542295
+
+16) porfiry_petrovitch_b - 0.9324912706759955
+
+17) andrey_semyonovitch_lebeziatnikov_b - 0.9258967913954498
+
+18) kolya_b - 0.9222752862633105
+
+19) dmitri_prokofitch_b - 0.9188699996134643
+
+20) mr_raskolnikov_b - 0.9173416172665844
+
+21) mr_zametov_b - 0.9157461150657642
+
+22) rodion_romanovitch_raskolnikov_b - 0.9118469734328812
+
+23) ilya_petrovitch_b - 0.8987592009841241
+
+24) amalia_ludwigovna_b - 0.8857620094489488
+
+25) napoleon_b - 0.8750093244018954
+
+26) nastasya_b - 0.8682183443112758
+
+27) zossimov_b - 0.8195366292501466
+
+28) nikodim_fomitch_b - 0.7294144251768123
+
+29) semyon_zaharovitch_b - 0.7184981154052722
+
+30) koch_b - 0.6986659793853148
+
+Result for the vector: ilya_petrovitch, coming from part a of the book
+Rank: 14 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9407384009269515
+
+1) mr_razumihin_b - 0.972268193133718
+
+2) pyotr_petrovitch_luzhin_b - 0.972079128859073
+
+3) porfiry_petrovitch_b - 0.9695072463007945
+
+4) mr_svidrigaïlov_b - 0.9694953253714842
+
+5) nikolay_b - 0.9689053874555461
+
+6) andrey_semyonovitch_lebeziatnikov_b - 0.9644181419735598
+
+7) pulcheria_alexandrovna_b - 0.9598643517615587
+
+8) dounia_b - 0.95812138790254
+
+9) sofya_semyonovna_marmeladov_b - 0.9542429108240827
+
+10) avdotya_romanovna_b - 0.9499975100157423
+
+11) mr_raskolnikov_b - 0.94927641598214
+
+12) rodya_b - 0.946301309654156
+
+13) katerina_ivanovna_b - 0.9424712973096617
+
+14) ilya_petrovitch_b - 0.9407384009269515
+
+15) mr_zametov_b - 0.939610386455988
+
+16) dmitri_prokofitch_b - 0.9357679169108847
+
+17) sonia_b - 0.9336689988872114
+
+18) marfa_petrovna_b - 0.9323057810159264
+
+19) rodion_romanovitch_raskolnikov_b - 0.9303849699749183
+
+20) polenka_b - 0.9297158399139599
+
+21) lizaveta_ivanovna_b - 0.9250509463235491
+
+22) madame_resslich_b - 0.9247585810648976
+
+23) kolya_b - 0.9170386593434146
+
+24) napoleon_b - 0.9039655001153205
+
+25) amalia_ludwigovna_b - 0.874821338807904
+
+26) zossimov_b - 0.8403922975647926
+
+27) nastasya_b - 0.8346256463564448
+
+28) nikodim_fomitch_b - 0.7690926423398451
+
+29) semyon_zaharovitch_b - 0.7302169856623103
+
+30) koch_b - 0.7070540821898657
+
+Result for the vector: nikodim_fomitch, coming from part a of the book
+Rank: 28 out of 30 characters
+Cosine similarity to the co-referring vector: 0.7547519431934343
+
+1) mr_razumihin_b - 0.975687413683159
+
+2) porfiry_petrovitch_b - 0.9745166592155896
+
+3) mr_svidrigaïlov_b - 0.9702263167567948
+
+4) andrey_semyonovitch_lebeziatnikov_b - 0.9701600363898293
+
+5) pyotr_petrovitch_luzhin_b - 0.9649917195739868
+
+6) nikolay_b - 0.9636910536105069
+
+7) ilya_petrovitch_b - 0.9540007343889415
+
+8) mr_raskolnikov_b - 0.9539144323442711
+
+9) pulcheria_alexandrovna_b - 0.9535730820679995
+
+10) sofya_semyonovna_marmeladov_b - 0.9484399212992125
+
+11) dounia_b - 0.9482912107792861
+
+12) avdotya_romanovna_b - 0.9425378092412187
+
+13) mr_zametov_b - 0.9405645972995104
+
+14) katerina_ivanovna_b - 0.9385604578685661
+
+15) marfa_petrovna_b - 0.9343145768140134
+
+16) sonia_b - 0.9328739921115042
+
+17) dmitri_prokofitch_b - 0.9323637167323747
+
+18) rodya_b - 0.9315716901889951
+
+19) lizaveta_ivanovna_b - 0.9155931795956773
+
+20) polenka_b - 0.9137463245912295
+
+21) rodion_romanovitch_raskolnikov_b - 0.9074197792333663
+
+22) madame_resslich_b - 0.9058347018311833
+
+23) kolya_b - 0.9051535499462153
+
+24) napoleon_b - 0.8936307696590061
+
+25) nastasya_b - 0.8727177793337997
+
+26) amalia_ludwigovna_b - 0.8580111009475295
+
+27) zossimov_b - 0.8360688740117693
+
+28) nikodim_fomitch_b - 0.7547519431934343
+
+29) semyon_zaharovitch_b - 0.709951762254694
+
+30) koch_b - 0.6949941541249297
+
+Result for the vector: koch, coming from part a of the book
+Rank: 30 out of 30 characters
+Cosine similarity to the co-referring vector: 0.6933284242940584
+
+1) mr_razumihin_b - 0.9633670714527769
+
+2) andrey_semyonovitch_lebeziatnikov_b - 0.9626311328379371
+
+3) nikolay_b - 0.9588163445969056
+
+4) pyotr_petrovitch_luzhin_b - 0.9499433323724177
+
+5) mr_svidrigaïlov_b - 0.947206939507155
+
+6) porfiry_petrovitch_b - 0.9444126735102578
+
+7) pulcheria_alexandrovna_b - 0.9389733392306372
+
+8) sofya_semyonovna_marmeladov_b - 0.9381296840503345
+
+9) dmitri_prokofitch_b - 0.9361848476098379
+
+10) ilya_petrovitch_b - 0.9334905902872725
+
+11) dounia_b - 0.9319626330103882
+
+12) mr_raskolnikov_b - 0.9317242144099703
+
+13) katerina_ivanovna_b - 0.9312059560777636
+
+14) mr_zametov_b - 0.9285718394177916
+
+15) avdotya_romanovna_b - 0.9279577922758154
+
+16) marfa_petrovna_b - 0.9256643288431499
+
+17) rodya_b - 0.9245316020725647
+
+18) napoleon_b - 0.914748452432319
+
+19) lizaveta_ivanovna_b - 0.9115577611791521
+
+20) polenka_b - 0.9086116172622136
+
+21) kolya_b - 0.9069923481322437
+
+22) sonia_b - 0.9066833472266842
+
+23) madame_resslich_b - 0.9034473511678629
+
+24) rodion_romanovitch_raskolnikov_b - 0.8966927261146286
+
+25) amalia_ludwigovna_b - 0.8605410117072264
+
+26) zossimov_b - 0.8407250608526301
+
+27) nastasya_b - 0.8390550363345616
+
+28) nikodim_fomitch_b - 0.7387440269062573
+
+29) semyon_zaharovitch_b - 0.7202801585614921
+
+30) koch_b - 0.6933284242940584
+
+Result for the vector: polenka, coming from part a of the book
+Rank: 2 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9537615803622275
+
+1) sonia_b - 0.9568589951480051
+
+2) polenka_b - 0.9537615803622275
+
+3) pulcheria_alexandrovna_b - 0.9474510048417457
+
+4) rodya_b - 0.9380536712376092
+
+5) dounia_b - 0.9369447864923025
+
+6) sofya_semyonovna_marmeladov_b - 0.9362353086471624
+
+7) katerina_ivanovna_b - 0.9357144313199006
+
+8) avdotya_romanovna_b - 0.9341781139373846
+
+9) lizaveta_ivanovna_b - 0.9313839755792647
+
+10) madame_resslich_b - 0.928395692801734
+
+11) marfa_petrovna_b - 0.9245402261888862
+
+12) mr_svidrigaïlov_b - 0.9200366187073832
+
+13) mr_razumihin_b - 0.9189122367553586
+
+14) mr_raskolnikov_b - 0.916964476289484
+
+15) rodion_romanovitch_raskolnikov_b - 0.9167813807520798
+
+16) pyotr_petrovitch_luzhin_b - 0.9163940052516454
+
+17) kolya_b - 0.9125797916322964
+
+18) porfiry_petrovitch_b - 0.9098382645941832
+
+19) dmitri_prokofitch_b - 0.9007557689693128
+
+20) nikolay_b - 0.8968029947041608
+
+21) mr_zametov_b - 0.8965908288955752
+
+22) andrey_semyonovitch_lebeziatnikov_b - 0.8875336714068863
+
+23) ilya_petrovitch_b - 0.8781676219801818
+
+24) nastasya_b - 0.8637512569872293
+
+25) amalia_ludwigovna_b - 0.8529964860681908
+
+26) napoleon_b - 0.8318624596677759
+
+27) zossimov_b - 0.763930485482853
+
+28) nikodim_fomitch_b - 0.7228525446145223
+
+29) semyon_zaharovitch_b - 0.6882118582725574
+
+30) koch_b - 0.6790761351585436
+
+Result for the vector: napoleon, coming from part a of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8437957167625427
+
+1) napoleon_b - 0.8437957167625427
+
+2) nikolay_b - 0.8109845164711633
+
+3) pyotr_petrovitch_luzhin_b - 0.795154106905813
+
+4) andrey_semyonovitch_lebeziatnikov_b - 0.7946564555168152
+
+5) katerina_ivanovna_b - 0.7901282435579169
+
+6) madame_resslich_b - 0.7862797975540161
+
+7) mr_svidrigaïlov_b - 0.7843859195709229
+
+8) dmitri_prokofitch_b - 0.7826340198516846
+
+9) sofya_semyonovna_marmeladov_b - 0.7821208704782066
+
+10) mr_razumihin_b - 0.7806183695793152
+
+11) avdotya_romanovna_b - 0.7804472911624499
+
+12) pulcheria_alexandrovna_b - 0.7790392304612179
+
+13) marfa_petrovna_b - 0.7753060460090637
+
+14) porfiry_petrovitch_b - 0.7748308181762695
+
+15) ilya_petrovitch_b - 0.7739516823234235
+
+16) mr_zametov_b - 0.7733018263162285
+
+17) rodya_b - 0.772848904132843
+
+18) rodion_romanovitch_raskolnikov_b - 0.7726275595870598
+
+19) amalia_ludwigovna_b - 0.7686592478359208
+
+20) dounia_b - 0.7680373191833496
+
+21) kolya_b - 0.7618241111269395
+
+22) lizaveta_ivanovna_b - 0.7605152272871015
+
+23) polenka_b - 0.76048344373703
+
+24) mr_raskolnikov_b - 0.7542886137962341
+
+25) sonia_b - 0.7298069596290588
+
+26) zossimov_b - 0.7000640273170553
+
+27) semyon_zaharovitch_b - 0.6707042259397653
+
+28) nastasya_b - 0.6608993219257256
+
+29) nikodim_fomitch_b - 0.6392133235931396
+
+30) koch_b - 0.5802864778212604
+
+Result for the vector: semyon_zaharovitch, coming from part a of the book
+Rank: 28 out of 30 characters
+Cosine similarity to the co-referring vector: 0.7470689710460867
+
+1) mr_razumihin_b - 0.9385814034093279
+
+2) nikolay_b - 0.9373106602410076
+
+3) andrey_semyonovitch_lebeziatnikov_b - 0.9322783310579276
+
+4) pyotr_petrovitch_luzhin_b - 0.9279645085334843
+
+5) rodya_b - 0.9266351417681675
+
+6) sofya_semyonovna_marmeladov_b - 0.9252833038906221
+
+7) avdotya_romanovna_b - 0.9244831114391221
+
+8) mr_svidrigaïlov_b - 0.9220823003102736
+
+9) pulcheria_alexandrovna_b - 0.9215065287645887
+
+10) porfiry_petrovitch_b - 0.9204026413203876
+
+11) mr_zametov_b - 0.9190410875130997
+
+12) dmitri_prokofitch_b - 0.9186567019615608
+
+13) katerina_ivanovna_b - 0.9156995415687627
+
+14) marfa_petrovna_b - 0.9148708531183529
+
+15) dounia_b - 0.9132859059146603
+
+16) polenka_b - 0.9122137375005344
+
+17) mr_raskolnikov_b - 0.9083301370340684
+
+18) lizaveta_ivanovna_b - 0.9072836637497013
+
+19) ilya_petrovitch_b - 0.9042985268172984
+
+20) kolya_b - 0.9041434567359521
+
+21) rodion_romanovitch_raskolnikov_b - 0.9003164231588732
+
+22) sonia_b - 0.8946641620793455
+
+23) madame_resslich_b - 0.8937376674257335
+
+24) napoleon_b - 0.8888367944262517
+
+25) amalia_ludwigovna_b - 0.8404088616371215
+
+26) nastasya_b - 0.8001861095317665
+
+27) zossimov_b - 0.785482964304025
+
+28) semyon_zaharovitch_b - 0.7470689710460867
+
+29) nikodim_fomitch_b - 0.7203657460430722
+
+30) koch_b - 0.663034994964003
+
+Result for the vector: madame_resslich, coming from part a of the book
+Rank: 12 out of 30 characters
+Cosine similarity to the co-referring vector: 0.6585005129277413
+
+1) lizaveta_ivanovna_b - 0.7175653317492805
+
+2) dounia_b - 0.6920707409339714
+
+3) avdotya_romanovna_b - 0.6844878196716357
+
+4) pyotr_petrovitch_luzhin_b - 0.6744293362582521
+
+5) amalia_ludwigovna_b - 0.6728520187315918
+
+6) sofya_semyonovna_marmeladov_b - 0.6704635620117235
+
+7) mr_svidrigaïlov_b - 0.6676958997430873
+
+8) rodya_b - 0.6645176014591705
+
+9) andrey_semyonovitch_lebeziatnikov_b - 0.6636781296921903
+
+10) mr_zametov_b - 0.6630739569664048
+
+11) rodion_romanovitch_raskolnikov_b - 0.6625603444766394
+
+12) madame_resslich_b - 0.6585005129277413
+
+13) porfiry_petrovitch_b - 0.6574651207050621
+
+14) katerina_ivanovna_b - 0.6540344173867205
+
+15) mr_razumihin_b - 0.6446387979603542
+
+16) marfa_petrovna_b - 0.6392085171217622
+
+17) pulcheria_alexandrovna_b - 0.6387056758334035
+
+18) mr_raskolnikov_b - 0.6347529509810845
+
+19) polenka_b - 0.6337295392912912
+
+20) dmitri_prokofitch_b - 0.6296585422957823
+
+21) sonia_b - 0.6249156817844115
+
+22) nikolay_b - 0.6219106727269116
+
+23) kolya_b - 0.6050831981127477
+
+24) ilya_petrovitch_b - 0.5941776391373753
+
+25) napoleon_b - 0.583635593436028
+
+26) zossimov_b - 0.5733496292441954
+
+27) nastasya_b - 0.5700169974535122
+
+28) nikodim_fomitch_b - 0.4954827728579785
+
+29) semyon_zaharovitch_b - 0.4844421446323429
+
+30) koch_b - 0.4562422633171114
+
+Result for the vector: kolya, coming from part a of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8020135763308063
+
+1) kolya_b - 0.8020135763308063
+
+2) marfa_petrovna_b - 0.7836549411025693
+
+3) dmitri_prokofitch_b - 0.7804273497803612
+
+4) polenka_b - 0.7778001560091893
+
+5) mr_razumihin_b - 0.7755503192215981
+
+6) sofya_semyonovna_marmeladov_b - 0.773871779441839
+
+7) nastasya_b - 0.7660660565973433
+
+8) sonia_b - 0.765454723509866
+
+9) pulcheria_alexandrovna_b - 0.758282049009435
+
+10) avdotya_romanovna_b - 0.7563452124595695
+
+11) katerina_ivanovna_b - 0.7563428573199681
+
+12) andrey_semyonovitch_lebeziatnikov_b - 0.7532524613587595
+
+13) rodya_b - 0.7491361648359214
+
+14) lizaveta_ivanovna_b - 0.7457306688152946
+
+15) porfiry_petrovitch_b - 0.7441313419263769
+
+16) pyotr_petrovitch_luzhin_b - 0.7436138697130835
+
+17) dounia_b - 0.741658881803819
+
+18) madame_resslich_b - 0.7413156186750176
+
+19) mr_svidrigaïlov_b - 0.7377796925437646
+
+20) nikolay_b - 0.7376374382484752
+
+21) ilya_petrovitch_b - 0.7369906149501093
+
+22) mr_zametov_b - 0.7321934700012259
+
+23) mr_raskolnikov_b - 0.7318863432475137
+
+24) napoleon_b - 0.6847394892728645
+
+25) rodion_romanovitch_raskolnikov_b - 0.6796880937180364
+
+26) amalia_ludwigovna_b - 0.6747281939115293
+
+27) zossimov_b - 0.6680417459036068
+
+28) koch_b - 0.5338298082351722
+
+29) nikodim_fomitch_b - 0.5236026332615246
+
+30) semyon_zaharovitch_b - 0.5132405161857642
+
+Result for the vector: amalia_ludwigovna, coming from part a of the book
+Rank: 23 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8386724091367492
+
+1) avdotya_romanovna_b - 0.9190179061304291
+
+2) rodion_romanovitch_raskolnikov_b - 0.9127901300442128
+
+3) rodya_b - 0.9124195575714111
+
+4) sofya_semyonovna_marmeladov_b - 0.9071666542987038
+
+5) dounia_b - 0.902356743812561
+
+6) pyotr_petrovitch_luzhin_b - 0.8965297403019837
+
+7) pulcheria_alexandrovna_b - 0.8888793124104429
+
+8) lizaveta_ivanovna_b - 0.8819777439845968
+
+9) polenka_b - 0.8757376074790955
+
+10) marfa_petrovna_b - 0.8732420802116394
+
+11) mr_svidrigaïlov_b - 0.8728237748146057
+
+12) mr_zametov_b - 0.8721803946602595
+
+13) dmitri_prokofitch_b - 0.8706653118133545
+
+14) katerina_ivanovna_b - 0.8692388612485626
+
+15) mr_razumihin_b - 0.8683350682258606
+
+16) madame_resslich_b - 0.8640769720077515
+
+17) mr_raskolnikov_b - 0.8637753129005432
+
+18) porfiry_petrovitch_b - 0.8576781749725342
+
+19) sonia_b - 0.8571422696113586
+
+20) nikolay_b - 0.8567661898364485
+
+21) andrey_semyonovitch_lebeziatnikov_b - 0.856071412563324
+
+22) kolya_b - 0.8455337857823705
+
+23) amalia_ludwigovna_b - 0.8386724091367492
+
+24) ilya_petrovitch_b - 0.8171523591461668
+
+25) napoleon_b - 0.7965238690376282
+
+26) zossimov_b - 0.7500353753608966
+
+27) nastasya_b - 0.7384734465511558
+
+28) nikodim_fomitch_b - 0.6875040531158447
+
+29) semyon_zaharovitch_b - 0.6863838843336049
+
+30) koch_b - 0.629122473545223
+
+Result for the vector: mr_raskolnikov, coming from part b of the book
+Rank: 4 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9695186018943787
+
+1) mr_razumihin_a - 0.9740338937023959
+
+2) porfiry_petrovitch_a - 0.972336591938939
+
+3) mr_zametov_a - 0.9717029333114624
+
+4) mr_raskolnikov_a - 0.9695186018943787
+
+5) zossimov_a - 0.9686758806906908
+
+6) pulcheria_alexandrovna_a - 0.9678471376850353
+
+7) sofya_semyonovna_marmeladov_a - 0.9651996143459807
+
+8) nastasya_a - 0.962392270565033
+
+9) avdotya_romanovna_a - 0.954119052361169
+
+10) nikodim_fomitch_a - 0.9539144323442711
+
+11) sonia_a - 0.9504193350797697
+
+12) ilya_petrovitch_a - 0.94927641598214
+
+13) dmitri_prokofitch_a - 0.9453062447723021
+
+14) pyotr_petrovitch_luzhin_a - 0.936313215713907
+
+15) katerina_ivanovna_a - 0.9337205926346442
+
+16) koch_a - 0.9317242144099703
+
+17) dounia_a - 0.9301534295082092
+
+18) marfa_petrovna_a - 0.9285249156639047
+
+19) rodya_a - 0.9221662878990173
+
+20) nikolay_a - 0.9207236766815186
+
+21) lizaveta_ivanovna_a - 0.9173416172665844
+
+22) polenka_a - 0.916964476289484
+
+23) mr_svidrigaïlov_a - 0.9147733500734971
+
+24) semyon_zaharovitch_a - 0.9083301370340684
+
+25) rodion_romanovitch_raskolnikov_a - 0.9003502726554871
+
+26) amalia_ludwigovna_a - 0.8637753129005432
+
+27) andrey_semyonovitch_lebeziatnikov_a - 0.7915719275729713
+
+28) napoleon_a - 0.7542886137962341
+
+29) kolya_a - 0.7318863432475137
+
+30) madame_resslich_a - 0.6347529509810845
+
+Result for the vector: sonia, coming from part b of the book
+Rank: 3 out of 30 characters
+Cosine similarity to the co-referring vector: 0.97291722813002
+
+1) avdotya_romanovna_a - 0.9773409644372173
+
+2) pulcheria_alexandrovna_a - 0.9768830232883405
+
+3) sonia_a - 0.97291722813002
+
+4) nastasya_a - 0.9701013565063477
+
+5) polenka_a - 0.9568589951480051
+
+6) mr_razumihin_a - 0.9552807834577111
+
+7) katerina_ivanovna_a - 0.955055656727813
+
+8) lizaveta_ivanovna_a - 0.9521135375533566
+
+9) mr_raskolnikov_a - 0.9498122930526733
+
+10) mr_zametov_a - 0.9483568668365479
+
+11) dounia_a - 0.9479168057441711
+
+12) sofya_semyonovna_marmeladov_a - 0.9478347521774206
+
+13) porfiry_petrovitch_a - 0.944897476142797
+
+14) marfa_petrovna_a - 0.9434117708556805
+
+15) zossimov_a - 0.940783409499628
+
+16) ilya_petrovitch_a - 0.9336689988872114
+
+17) nikodim_fomitch_a - 0.9328739921115042
+
+18) dmitri_prokofitch_a - 0.9288930935327372
+
+19) rodya_a - 0.9093798995018005
+
+20) pyotr_petrovitch_luzhin_a - 0.907302027505517
+
+21) koch_a - 0.9066833472266842
+
+22) nikolay_a - 0.8993784189224243
+
+23) mr_svidrigaïlov_a - 0.8956650557717664
+
+24) semyon_zaharovitch_a - 0.8946641620793455
+
+25) rodion_romanovitch_raskolnikov_a - 0.8826978802680969
+
+26) amalia_ludwigovna_a - 0.8571422696113586
+
+27) kolya_a - 0.765454723509866
+
+28) andrey_semyonovitch_lebeziatnikov_a - 0.7636321923952002
+
+29) napoleon_a - 0.7298069596290588
+
+30) madame_resslich_a - 0.6249156817844115
+
+Result for the vector: dounia, coming from part b of the book
+Rank: 10 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9549917578697205
+
+1) pulcheria_alexandrovna_a - 0.9754245571918658
+
+2) avdotya_romanovna_a - 0.9712972317305751
+
+3) sonia_a - 0.9681365778486906
+
+4) mr_zametov_a - 0.9652160406112671
+
+5) porfiry_petrovitch_a - 0.9633691928762695
+
+6) mr_razumihin_a - 0.961108269625411
+
+7) katerina_ivanovna_a - 0.9593090439254632
+
+8) ilya_petrovitch_a - 0.95812138790254
+
+9) lizaveta_ivanovna_a - 0.9563209103441513
+
+10) dounia_a - 0.9549917578697205
+
+11) sofya_semyonovna_marmeladov_a - 0.9548058740505494
+
+12) zossimov_a - 0.9534038589419088
+
+13) marfa_petrovna_a - 0.950699809151901
+
+14) dmitri_prokofitch_a - 0.9494410783385605
+
+15) nastasya_a - 0.9494240283966064
+
+16) nikodim_fomitch_a - 0.9482912107792861
+
+17) rodya_a - 0.948182225227356
+
+18) mr_raskolnikov_a - 0.9394136667251587
+
+19) polenka_a - 0.9369447864923025
+
+20) koch_a - 0.9319626330103882
+
+21) pyotr_petrovitch_luzhin_a - 0.9315589111114214
+
+22) nikolay_a - 0.9251359105110168
+
+23) rodion_romanovitch_raskolnikov_a - 0.9196739792823792
+
+24) semyon_zaharovitch_a - 0.9132859059146603
+
+25) mr_svidrigaïlov_a - 0.9111909919267318
+
+26) amalia_ludwigovna_a - 0.902356743812561
+
+27) andrey_semyonovitch_lebeziatnikov_a - 0.7905593639278805
+
+28) napoleon_a - 0.7680373191833496
+
+29) kolya_a - 0.741658881803819
+
+30) madame_resslich_a - 0.6920707409339714
+
+Result for the vector: mr_razumihin, coming from part b of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9829577217723314
+
+1) mr_razumihin_a - 0.9829577217723314
+
+2) zossimov_a - 0.9812380963932905
+
+3) mr_raskolnikov_a - 0.9810736775398254
+
+4) porfiry_petrovitch_a - 0.9790138018719093
+
+5) sofya_semyonovna_marmeladov_a - 0.9787326721448817
+
+6) mr_zametov_a - 0.9758155345916748
+
+7) nikodim_fomitch_a - 0.975687413683159
+
+8) ilya_petrovitch_a - 0.972268193133718
+
+9) pulcheria_alexandrovna_a - 0.9661200334465518
+
+10) sonia_a - 0.9654788662635947
+
+11) nastasya_a - 0.9650317430496216
+
+12) koch_a - 0.9633670714527769
+
+13) avdotya_romanovna_a - 0.9624294903066337
+
+14) dmitri_prokofitch_a - 0.9570924665276743
+
+15) pyotr_petrovitch_luzhin_a - 0.9546622660957433
+
+16) nikolay_a - 0.9541601538658142
+
+17) marfa_petrovna_a - 0.95029026566206
+
+18) dounia_a - 0.949167788028717
+
+19) katerina_ivanovna_a - 0.9470504553884013
+
+20) mr_svidrigaïlov_a - 0.9461839827189472
+
+21) semyon_zaharovitch_a - 0.9385814034093279
+
+22) lizaveta_ivanovna_a - 0.9383385461073684
+
+23) rodya_a - 0.9347047209739685
+
+24) rodion_romanovitch_raskolnikov_a - 0.9244023561477661
+
+25) polenka_a - 0.9189122367553586
+
+26) amalia_ludwigovna_a - 0.8683350682258606
+
+27) andrey_semyonovitch_lebeziatnikov_a - 0.826437543246894
+
+28) napoleon_a - 0.7806183695793152
+
+29) kolya_a - 0.7755503192215981
+
+30) madame_resslich_a - 0.6446387979603542
+
+Result for the vector: pyotr_petrovitch_luzhin, coming from part b of the book
+Rank: 5 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9718713197861528
+
+1) porfiry_petrovitch_a - 0.9770184782721426
+
+2) sofya_semyonovna_marmeladov_a - 0.9748727358764088
+
+3) mr_razumihin_a - 0.9721927079924693
+
+4) ilya_petrovitch_a - 0.972079128859073
+
+5) pyotr_petrovitch_luzhin_a - 0.9718713197861528
+
+6) zossimov_a - 0.9704993674010266
+
+7) mr_zametov_a - 0.9704846757361504
+
+8) pulcheria_alexandrovna_a - 0.9650538872166348
+
+9) nikodim_fomitch_a - 0.9649917195739868
+
+10) sonia_a - 0.9570333672453988
+
+11) avdotya_romanovna_a - 0.9570329474518687
+
+12) mr_raskolnikov_a - 0.955949964764718
+
+13) katerina_ivanovna_a - 0.9535375292852486
+
+14) koch_a - 0.9499433323724177
+
+15) nastasya_a - 0.9498106867187823
+
+16) dmitri_prokofitch_a - 0.9497136533601698
+
+17) rodya_a - 0.9486911327426968
+
+18) marfa_petrovna_a - 0.9450682467140857
+
+19) dounia_a - 0.9419018660842277
+
+20) lizaveta_ivanovna_a - 0.940419049846562
+
+21) rodion_romanovitch_raskolnikov_a - 0.9363421835695412
+
+22) mr_svidrigaïlov_a - 0.9354221897814048
+
+23) nikolay_a - 0.9352904000705259
+
+24) semyon_zaharovitch_a - 0.9279645085334843
+
+25) polenka_a - 0.9163940052516454
+
+26) amalia_ludwigovna_a - 0.8965297403019837
+
+27) andrey_semyonovitch_lebeziatnikov_a - 0.8674420872399703
+
+28) napoleon_a - 0.795154106905813
+
+29) kolya_a - 0.7436138697130835
+
+30) madame_resslich_a - 0.6744293362582521
+
+Result for the vector: katerina_ivanovna, coming from part b of the book
+Rank: 3 out of 30 characters
+Cosine similarity to the co-referring vector: 0.97194660044353
+
+1) sonia_a - 0.9744301743975269
+
+2) avdotya_romanovna_a - 0.9726242712922285
+
+3) katerina_ivanovna_a - 0.97194660044353
+
+4) dounia_a - 0.9717761891021633
+
+5) marfa_petrovna_a - 0.9674489536942299
+
+6) lizaveta_ivanovna_a - 0.9627371143479053
+
+7) pulcheria_alexandrovna_a - 0.9615438293950647
+
+8) nastasya_a - 0.9583892251021149
+
+9) mr_razumihin_a - 0.956637268467275
+
+10) porfiry_petrovitch_a - 0.9501519858655947
+
+11) sofya_semyonovna_marmeladov_a - 0.9486509217606025
+
+12) mr_zametov_a - 0.9479129345468934
+
+13) mr_raskolnikov_a - 0.9436224136577614
+
+14) dmitri_prokofitch_a - 0.9436119862065332
+
+15) zossimov_a - 0.9436083750841544
+
+16) ilya_petrovitch_a - 0.9424712973096617
+
+17) nikodim_fomitch_a - 0.9385604578685661
+
+18) polenka_a - 0.9357144313199006
+
+19) pyotr_petrovitch_luzhin_a - 0.9334034999127984
+
+20) rodya_a - 0.9332505504339622
+
+21) koch_a - 0.9312059560777636
+
+22) nikolay_a - 0.9295762819304315
+
+23) mr_svidrigaïlov_a - 0.9291163171391109
+
+24) semyon_zaharovitch_a - 0.9156995415687627
+
+25) rodion_romanovitch_raskolnikov_a - 0.910846000263335
+
+26) amalia_ludwigovna_a - 0.8692388612485626
+
+27) andrey_semyonovitch_lebeziatnikov_a - 0.797277415123294
+
+28) napoleon_a - 0.7901282435579169
+
+29) kolya_a - 0.7563428573199681
+
+30) madame_resslich_a - 0.6540344173867205
+
+Result for the vector: porfiry_petrovitch, coming from part b of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9821809540879175
+
+1) porfiry_petrovitch_a - 0.9821809540879175
+
+2) mr_razumihin_a - 0.9818283926350854
+
+3) mr_zametov_a - 0.9810490012168884
+
+4) sofya_semyonovna_marmeladov_a - 0.9775752689801666
+
+5) zossimov_a - 0.9753904037293917
+
+6) nikodim_fomitch_a - 0.9745166592155896
+
+7) mr_raskolnikov_a - 0.9741762280464172
+
+8) ilya_petrovitch_a - 0.9695072463007945
+
+9) pulcheria_alexandrovna_a - 0.9627214957094643
+
+10) nastasya_a - 0.9592076539993286
+
+11) sonia_a - 0.9570513056829965
+
+12) avdotya_romanovna_a - 0.956166889324808
+
+13) pyotr_petrovitch_luzhin_a - 0.954969468416605
+
+14) dmitri_prokofitch_a - 0.9490797550034686
+
+15) koch_a - 0.9444126735102578
+
+16) marfa_petrovna_a - 0.9384108222478155
+
+17) katerina_ivanovna_a - 0.9352924266283275
+
+18) dounia_a - 0.9341183304786682
+
+19) lizaveta_ivanovna_a - 0.9324912706759955
+
+20) nikolay_a - 0.9320679306983948
+
+21) mr_svidrigaïlov_a - 0.9275141401580506
+
+22) rodya_a - 0.9264841079711914
+
+23) semyon_zaharovitch_a - 0.9204026413203876
+
+24) rodion_romanovitch_raskolnikov_a - 0.9154440760612488
+
+25) polenka_a - 0.9098382645941832
+
+26) amalia_ludwigovna_a - 0.8576781749725342
+
+27) andrey_semyonovitch_lebeziatnikov_a - 0.8166478385539165
+
+28) napoleon_a - 0.7748308181762695
+
+29) kolya_a - 0.7441313419263769
+
+30) madame_resslich_a - 0.6574651207050621
+
+Result for the vector: mr_svidrigaïlov, coming from part b of the book
+Rank: 22 out of 30 characters
+Cosine similarity to the co-referring vector: 0.92693692881245
+
+1) porfiry_petrovitch_a - 0.983589054132162
+
+2) mr_zametov_a - 0.9806526899337769
+
+3) mr_razumihin_a - 0.980322362165312
+
+4) zossimov_a - 0.9749301962533656
+
+5) sofya_semyonovna_marmeladov_a - 0.9740708133683929
+
+6) pulcheria_alexandrovna_a - 0.9735043935032013
+
+7) nikodim_fomitch_a - 0.9702263167567948
+
+8) ilya_petrovitch_a - 0.9694953253714842
+
+9) mr_raskolnikov_a - 0.9656090140342712
+
+10) avdotya_romanovna_a - 0.9634944465900501
+
+11) sonia_a - 0.9632504273429645
+
+12) nastasya_a - 0.9612789154052734
+
+13) dmitri_prokofitch_a - 0.9602744006947057
+
+14) marfa_petrovna_a - 0.9500733643726507
+
+15) pyotr_petrovitch_luzhin_a - 0.9497743874922777
+
+16) katerina_ivanovna_a - 0.9478371770478994
+
+17) koch_a - 0.947206939507155
+
+18) dounia_a - 0.9421027898788452
+
+19) lizaveta_ivanovna_a - 0.9407758993141625
+
+20) nikolay_a - 0.9402012825012207
+
+21) rodya_a - 0.9369800686836243
+
+22) mr_svidrigaïlov_a - 0.92693692881245
+
+23) rodion_romanovitch_raskolnikov_a - 0.9233521223068237
+
+24) semyon_zaharovitch_a - 0.9220823003102736
+
+25) polenka_a - 0.9200366187073832
+
+26) amalia_ludwigovna_a - 0.8728237748146057
+
+27) andrey_semyonovitch_lebeziatnikov_a - 0.8096693867642067
+
+28) napoleon_a - 0.7843859195709229
+
+29) kolya_a - 0.7377796925437646
+
+30) madame_resslich_a - 0.6676958997430873
+
+Result for the vector: pulcheria_alexandrovna, coming from part b of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9851936413174701
+
+1) pulcheria_alexandrovna_a - 0.9851936413174701
+
+2) avdotya_romanovna_a - 0.9783012575417596
+
+3) sonia_a - 0.9765554985503515
+
+4) mr_razumihin_a - 0.9693475420449617
+
+5) nastasya_a - 0.9673358240919392
+
+6) dounia_a - 0.9661392013860769
+
+7) porfiry_petrovitch_a - 0.9660411537812095
+
+8) katerina_ivanovna_a - 0.9657326401950186
+
+9) sofya_semyonovna_marmeladov_a - 0.9629013825327917
+
+10) mr_zametov_a - 0.9614656017463751
+
+11) marfa_petrovna_a - 0.9612259338094131
+
+12) zossimov_a - 0.9607687329558777
+
+13) ilya_petrovitch_a - 0.9598643517615587
+
+14) lizaveta_ivanovna_a - 0.9587530232590821
+
+15) mr_raskolnikov_a - 0.9557720475468647
+
+16) nikodim_fomitch_a - 0.9535730820679995
+
+17) dmitri_prokofitch_a - 0.9481294247872682
+
+18) polenka_a - 0.9474510048417457
+
+19) rodya_a - 0.9408149789792392
+
+20) koch_a - 0.9389733392306372
+
+21) pyotr_petrovitch_luzhin_a - 0.9323696615034963
+
+22) nikolay_a - 0.9296866143123437
+
+23) mr_svidrigaïlov_a - 0.9240290658422011
+
+24) rodion_romanovitch_raskolnikov_a - 0.9240098090160186
+
+25) semyon_zaharovitch_a - 0.9215065287645887
+
+26) amalia_ludwigovna_a - 0.8888793124104429
+
+27) andrey_semyonovitch_lebeziatnikov_a - 0.7939961920983462
+
+28) napoleon_a - 0.7790392304612179
+
+29) kolya_a - 0.758282049009435
+
+30) madame_resslich_a - 0.6387056758334035
+
+Result for the vector: avdotya_romanovna, coming from part b of the book
+Rank: 2 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9693488731010074
+
+1) dounia_a - 0.9714760167286424
+
+2) avdotya_romanovna_a - 0.9693488731010074
+
+3) sonia_a - 0.9683952005262857
+
+4) dmitri_prokofitch_a - 0.9677234888076851
+
+5) mr_zametov_a - 0.965319929440019
+
+6) porfiry_petrovitch_a - 0.9652870893478462
+
+7) katerina_ivanovna_a - 0.9649971723556587
+
+8) rodya_a - 0.9636358597061567
+
+9) pulcheria_alexandrovna_a - 0.9629317786930606
+
+10) zossimov_a - 0.962775674114437
+
+11) marfa_petrovna_a - 0.9615328907966683
+
+12) mr_razumihin_a - 0.9584206342697211
+
+13) lizaveta_ivanovna_a - 0.9542183537082397
+
+14) ilya_petrovitch_a - 0.9499975100157423
+
+15) sofya_semyonovna_marmeladov_a - 0.9493059708220339
+
+16) nastasya_a - 0.9484670727531375
+
+17) nikodim_fomitch_a - 0.9425378092412187
+
+18) rodion_romanovitch_raskolnikov_a - 0.9409654701331555
+
+19) pyotr_petrovitch_luzhin_a - 0.93943232297898
+
+20) nikolay_a - 0.9382585846339829
+
+21) polenka_a - 0.9341781139373846
+
+22) mr_raskolnikov_a - 0.9329633076765141
+
+23) mr_svidrigaïlov_a - 0.9282959699630803
+
+24) koch_a - 0.9279577922758154
+
+25) semyon_zaharovitch_a - 0.9244831114391221
+
+26) amalia_ludwigovna_a - 0.9190179061304291
+
+27) andrey_semyonovitch_lebeziatnikov_a - 0.7946872711181697
+
+28) napoleon_a - 0.7804472911624499
+
+29) kolya_a - 0.7563452124595695
+
+30) madame_resslich_a - 0.6844878196716357
+
+Result for the vector: rodion_romanovitch_raskolnikov, coming from part b of the book
+Rank: 11 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9269985643627037
+
+1) rodya_a - 0.974894526613418
+
+2) dmitri_prokofitch_a - 0.9475124572195206
+
+3) mr_zametov_a - 0.9449341958839726
+
+4) katerina_ivanovna_a - 0.9429259402288322
+
+5) porfiry_petrovitch_a - 0.9428607923637421
+
+6) mr_razumihin_a - 0.9338353990610737
+
+7) sofya_semyonovna_marmeladov_a - 0.9335547963844515
+
+8) zossimov_a - 0.9309361936805178
+
+9) pulcheria_alexandrovna_a - 0.930600619560435
+
+10) ilya_petrovitch_a - 0.9303849699749183
+
+11) rodion_romanovitch_raskolnikov_a - 0.9269985643627037
+
+12) sonia_a - 0.9243067868673797
+
+13) avdotya_romanovna_a - 0.919341298361402
+
+14) polenka_a - 0.9167813807520798
+
+15) nastasya_a - 0.9167763690023047
+
+16) marfa_petrovna_a - 0.9136201893770373
+
+17) amalia_ludwigovna_a - 0.9127901300442128
+
+18) lizaveta_ivanovna_a - 0.9118469734328812
+
+19) pyotr_petrovitch_luzhin_a - 0.9106384079506876
+
+20) nikodim_fomitch_a - 0.9074197792333663
+
+21) dounia_a - 0.9066279641833412
+
+22) semyon_zaharovitch_a - 0.9003164231588732
+
+23) mr_raskolnikov_a - 0.8985703112399271
+
+24) nikolay_a - 0.8983218791101186
+
+25) koch_a - 0.8966927261146286
+
+26) mr_svidrigaïlov_a - 0.894557494898292
+
+27) andrey_semyonovitch_lebeziatnikov_a - 0.7744061754215655
+
+28) napoleon_a - 0.7726275595870598
+
+29) kolya_a - 0.6796880937180364
+
+30) madame_resslich_a - 0.6625603444766394
+
+Result for the vector: rodya, coming from part b of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9669991135597229
+
+1) rodya_a - 0.9669991135597229
+
+2) dmitri_prokofitch_a - 0.9627829216252033
+
+3) katerina_ivanovna_a - 0.9591634297869562
+
+4) mr_razumihin_a - 0.9591113949351688
+
+5) porfiry_petrovitch_a - 0.9589505220085088
+
+6) pulcheria_alexandrovna_a - 0.9581561374114796
+
+7) sonia_a - 0.9561406658929789
+
+8) mr_zametov_a - 0.9560922384262085
+
+9) zossimov_a - 0.9551880644317888
+
+10) sofya_semyonovna_marmeladov_a - 0.9524707425342223
+
+11) avdotya_romanovna_a - 0.9491993441461969
+
+12) marfa_petrovna_a - 0.9478549392309837
+
+13) nastasya_a - 0.9464137554168701
+
+14) ilya_petrovitch_a - 0.946301309654156
+
+15) dounia_a - 0.9428122043609619
+
+16) polenka_a - 0.9380536712376092
+
+17) lizaveta_ivanovna_a - 0.9368532579199454
+
+18) mr_raskolnikov_a - 0.9336328506469727
+
+19) rodion_romanovitch_raskolnikov_a - 0.9325413107872009
+
+20) nikodim_fomitch_a - 0.9315716901889951
+
+21) mr_svidrigaïlov_a - 0.9308109920733593
+
+22) semyon_zaharovitch_a - 0.9266351417681675
+
+23) koch_a - 0.9245316020725647
+
+24) pyotr_petrovitch_luzhin_a - 0.9233573720838222
+
+25) nikolay_a - 0.9221867322921753
+
+26) amalia_ludwigovna_a - 0.9124195575714111
+
+27) andrey_semyonovitch_lebeziatnikov_a - 0.7906146770349352
+
+28) napoleon_a - 0.772848904132843
+
+29) kolya_a - 0.7491361648359214
+
+30) madame_resslich_a - 0.6645176014591705
+
+Result for the vector: mr_zametov, coming from part b of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9640762188480048
+
+1) mr_zametov_a - 0.9640762188480048
+
+2) zossimov_a - 0.9610964919116941
+
+3) porfiry_petrovitch_a - 0.9602189064025947
+
+4) dmitri_prokofitch_a - 0.9594774246215888
+
+5) mr_razumihin_a - 0.954104959964759
+
+6) nikolay_a - 0.9417661989787952
+
+7) nikodim_fomitch_a - 0.9405645972995104
+
+8) sofya_semyonovna_marmeladov_a - 0.939643340632424
+
+9) ilya_petrovitch_a - 0.939610386455988
+
+10) sonia_a - 0.9390407448149397
+
+11) dounia_a - 0.9367230496837543
+
+12) avdotya_romanovna_a - 0.935516258406082
+
+13) rodya_a - 0.935122545666848
+
+14) marfa_petrovna_a - 0.9343222379684515
+
+15) nastasya_a - 0.9341443141784872
+
+16) pulcheria_alexandrovna_a - 0.9323664545148426
+
+17) pyotr_petrovitch_luzhin_a - 0.9319960474968023
+
+18) mr_raskolnikov_a - 0.9298965889153848
+
+19) katerina_ivanovna_a - 0.9292598366737431
+
+20) koch_a - 0.9285718394177916
+
+21) semyon_zaharovitch_a - 0.9190410875130997
+
+22) mr_svidrigaïlov_a - 0.9187883138656682
+
+23) rodion_romanovitch_raskolnikov_a - 0.9164136002310292
+
+24) lizaveta_ivanovna_a - 0.9157461150657642
+
+25) polenka_a - 0.8965908288955752
+
+26) amalia_ludwigovna_a - 0.8721803946602595
+
+27) andrey_semyonovitch_lebeziatnikov_a - 0.7970792055130062
+
+28) napoleon_a - 0.7733018263162285
+
+29) kolya_a - 0.7321934700012259
+
+30) madame_resslich_a - 0.6630739569664048
+
+Result for the vector: nastasya, coming from part b of the book
+Rank: 1 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9053017013905469
+
+1) nastasya_a - 0.9053017013905469
+
+2) sonia_a - 0.8876194160324956
+
+3) avdotya_romanovna_a - 0.8799805378919872
+
+4) marfa_petrovna_a - 0.8765813928995041
+
+5) nikodim_fomitch_a - 0.8727177793337997
+
+6) mr_razumihin_a - 0.8726318706336268
+
+7) zossimov_a - 0.8710254844106398
+
+8) pulcheria_alexandrovna_a - 0.8709039505508087
+
+9) dmitri_prokofitch_a - 0.870314859691587
+
+10) dounia_a - 0.8694983280303149
+
+11) lizaveta_ivanovna_a - 0.8682183443112758
+
+12) polenka_a - 0.8637512569872293
+
+13) katerina_ivanovna_a - 0.8613658795298569
+
+14) porfiry_petrovitch_a - 0.8576658622623944
+
+15) mr_zametov_a - 0.8570451906865669
+
+16) mr_raskolnikov_a - 0.8527704056775147
+
+17) nikolay_a - 0.8526812967441981
+
+18) koch_a - 0.8390550363345616
+
+19) sofya_semyonovna_marmeladov_a - 0.8382467281296175
+
+20) ilya_petrovitch_a - 0.8346256463564448
+
+21) pyotr_petrovitch_luzhin_a - 0.8156292768187638
+
+22) mr_svidrigaïlov_a - 0.8155326577068598
+
+23) rodion_romanovitch_raskolnikov_a - 0.8003419279644632
+
+24) semyon_zaharovitch_a - 0.8001861095317665
+
+25) rodya_a - 0.7981513979254543
+
+26) kolya_a - 0.7660660565973433
+
+27) amalia_ludwigovna_a - 0.7384734465511558
+
+28) andrey_semyonovitch_lebeziatnikov_a - 0.7142838750570056
+
+29) napoleon_a - 0.6608993219257256
+
+30) madame_resslich_a - 0.5700169974535122
+
+Result for the vector: sofya_semyonovna_marmeladov, coming from part b of the book
+Rank: 16 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9510954218407893
+
+1) dounia_a - 0.9750995621144528
+
+2) sonia_a - 0.9739269888931805
+
+3) avdotya_romanovna_a - 0.9693351640306662
+
+4) katerina_ivanovna_a - 0.9690901041030953
+
+5) marfa_petrovna_a - 0.9670088291168282
+
+6) dmitri_prokofitch_a - 0.9666651487350533
+
+7) lizaveta_ivanovna_a - 0.9628208544392162
+
+8) mr_zametov_a - 0.9617691613298172
+
+9) mr_razumihin_a - 0.9616224765777657
+
+10) porfiry_petrovitch_a - 0.9608008861541816
+
+11) zossimov_a - 0.9605224991311881
+
+12) pulcheria_alexandrovna_a - 0.958029475035919
+
+13) rodya_a - 0.9579246019080061
+
+14) nastasya_a - 0.9546480747847619
+
+15) ilya_petrovitch_a - 0.9542429108240827
+
+16) sofya_semyonovna_marmeladov_a - 0.9510954218407893
+
+17) nikolay_a - 0.9495990842341848
+
+18) nikodim_fomitch_a - 0.9484399212992125
+
+19) rodion_romanovitch_raskolnikov_a - 0.9418258632317716
+
+20) pyotr_petrovitch_luzhin_a - 0.9405394792556829
+
+21) koch_a - 0.9381296840503345
+
+22) mr_raskolnikov_a - 0.9377749525174487
+
+23) polenka_a - 0.9362353086471624
+
+24) mr_svidrigaïlov_a - 0.9351781606674261
+
+25) semyon_zaharovitch_a - 0.9252833038906221
+
+26) amalia_ludwigovna_a - 0.9071666542987038
+
+27) andrey_semyonovitch_lebeziatnikov_a - 0.8075317144393979
+
+28) napoleon_a - 0.7821208704782066
+
+29) kolya_a - 0.773871779441839
+
+30) madame_resslich_a - 0.6704635620117235
+
+Result for the vector: zossimov, coming from part b of the book
+Rank: 13 out of 30 characters
+Cosine similarity to the co-referring vector: 0.817057612099891
+
+1) koch_a - 0.8407250608526301
+
+2) ilya_petrovitch_a - 0.8403922975647926
+
+3) marfa_petrovna_a - 0.8372885487847789
+
+4) nikodim_fomitch_a - 0.8360688740117693
+
+5) nikolay_a - 0.8348616164757807
+
+6) pyotr_petrovitch_luzhin_a - 0.8278487818151119
+
+7) dounia_a - 0.8250055104500722
+
+8) sonia_a - 0.8227353725933126
+
+9) avdotya_romanovna_a - 0.8223819064102578
+
+10) porfiry_petrovitch_a - 0.8219164503763122
+
+11) pulcheria_alexandrovna_a - 0.8198306590066374
+
+12) lizaveta_ivanovna_a - 0.8195366292501466
+
+13) zossimov_a - 0.817057612099891
+
+14) mr_razumihin_a - 0.8167487273662655
+
+15) katerina_ivanovna_a - 0.8162620554126665
+
+16) rodion_romanovitch_raskolnikov_a - 0.8160801310634828
+
+17) mr_svidrigaïlov_a - 0.8120714910073107
+
+18) sofya_semyonovna_marmeladov_a - 0.8100727585153233
+
+19) mr_zametov_a - 0.8073497184931954
+
+20) dmitri_prokofitch_a - 0.8056583884750965
+
+21) andrey_semyonovitch_lebeziatnikov_a - 0.8003447532859426
+
+22) mr_raskolnikov_a - 0.799194908046121
+
+23) nastasya_a - 0.796359276337543
+
+24) rodya_a - 0.7913479556260112
+
+25) semyon_zaharovitch_a - 0.785482964304025
+
+26) polenka_a - 0.763930485482853
+
+27) amalia_ludwigovna_a - 0.7500353753608966
+
+28) napoleon_a - 0.7000640273170553
+
+29) kolya_a - 0.6680417459036068
+
+30) madame_resslich_a - 0.5733496292441954
+
+Result for the vector: andrey_semyonovitch_lebeziatnikov, coming from part b of the book
+Rank: 26 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8863612481140363
+
+1) pyotr_petrovitch_luzhin_a - 0.9782859695979392
+
+2) nikodim_fomitch_a - 0.9701600363898293
+
+3) mr_razumihin_a - 0.9701141732863102
+
+4) zossimov_a - 0.9695824077600963
+
+5) porfiry_petrovitch_a - 0.9688212890135491
+
+6) sofya_semyonovna_marmeladov_a - 0.968060995349447
+
+7) ilya_petrovitch_a - 0.9644181419735598
+
+8) mr_zametov_a - 0.9631185531616211
+
+9) mr_raskolnikov_a - 0.9629287719726562
+
+10) koch_a - 0.9626311328379371
+
+11) nikolay_a - 0.948586106300354
+
+12) sonia_a - 0.9459801598185352
+
+13) nastasya_a - 0.945563793182373
+
+14) avdotya_romanovna_a - 0.9454543839801335
+
+15) dmitri_prokofitch_a - 0.9452784690094923
+
+16) marfa_petrovna_a - 0.9445467624338427
+
+17) pulcheria_alexandrovna_a - 0.9442122263971638
+
+18) dounia_a - 0.9429676532745361
+
+19) mr_svidrigaïlov_a - 0.9426765476061988
+
+20) katerina_ivanovna_a - 0.9337897936231038
+
+21) semyon_zaharovitch_a - 0.9322783310579276
+
+22) rodya_a - 0.9270579218864441
+
+23) lizaveta_ivanovna_a - 0.9258967913954498
+
+24) rodion_romanovitch_raskolnikov_a - 0.919806718826294
+
+25) polenka_a - 0.8875336714068863
+
+26) andrey_semyonovitch_lebeziatnikov_a - 0.8863612481140363
+
+27) amalia_ludwigovna_a - 0.856071412563324
+
+28) napoleon_a - 0.7946564555168152
+
+29) kolya_a - 0.7532524613587595
+
+30) madame_resslich_a - 0.6636781296921903
+
+Result for the vector: marfa_petrovna, coming from part b of the book
+Rank: 2 out of 30 characters
+Cosine similarity to the co-referring vector: 0.966446222874749
+
+1) dounia_a - 0.9806273579597473
+
+2) marfa_petrovna_a - 0.966446222874749
+
+3) avdotya_romanovna_a - 0.9663337140977761
+
+4) sonia_a - 0.9642402221036028
+
+5) katerina_ivanovna_a - 0.956670525272459
+
+6) lizaveta_ivanovna_a - 0.9538832591141245
+
+7) dmitri_prokofitch_a - 0.9512595563376232
+
+8) nastasya_a - 0.9506313800811768
+
+9) pulcheria_alexandrovna_a - 0.9474246784277168
+
+10) zossimov_a - 0.9453382177751729
+
+11) mr_razumihin_a - 0.9451186093617331
+
+12) porfiry_petrovitch_a - 0.9414252673730111
+
+13) mr_zametov_a - 0.9381633996963501
+
+14) nikolay_a - 0.9366408586502075
+
+15) nikodim_fomitch_a - 0.9343145768140134
+
+16) ilya_petrovitch_a - 0.9323057810159264
+
+17) sofya_semyonovna_marmeladov_a - 0.9314484792126042
+
+18) rodya_a - 0.9294027090072632
+
+19) mr_svidrigaïlov_a - 0.9260188981283384
+
+20) koch_a - 0.9256643288431499
+
+21) pyotr_petrovitch_luzhin_a - 0.9254152819266763
+
+22) polenka_a - 0.9245402261888862
+
+23) mr_raskolnikov_a - 0.923251748085022
+
+24) rodion_romanovitch_raskolnikov_a - 0.9202996492385864
+
+25) semyon_zaharovitch_a - 0.9148708531183529
+
+26) amalia_ludwigovna_a - 0.8732420802116394
+
+27) andrey_semyonovitch_lebeziatnikov_a - 0.7964921714966209
+
+28) kolya_a - 0.7836549411025693
+
+29) napoleon_a - 0.7753060460090637
+
+30) madame_resslich_a - 0.6392085171217622
+
+Result for the vector: nikolay, coming from part b of the book
+Rank: 8 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9616615462798346
+
+1) zossimov_a - 0.9743041976871608
+
+2) porfiry_petrovitch_a - 0.9725534626080593
+
+3) mr_razumihin_a - 0.971956224085209
+
+4) mr_zametov_a - 0.9702160051529414
+
+5) ilya_petrovitch_a - 0.9689053874555461
+
+6) nikodim_fomitch_a - 0.9636910536105069
+
+7) sofya_semyonovna_marmeladov_a - 0.9630326562582304
+
+8) nikolay_a - 0.9616615462798346
+
+9) koch_a - 0.9588163445969056
+
+10) dmitri_prokofitch_a - 0.9580559445006902
+
+11) mr_raskolnikov_a - 0.9575047778339622
+
+12) sonia_a - 0.9541654559472476
+
+13) marfa_petrovna_a - 0.9537121369328496
+
+14) avdotya_romanovna_a - 0.9524844828229543
+
+15) pyotr_petrovitch_luzhin_a - 0.9502995923072259
+
+16) dounia_a - 0.9478597923475446
+
+17) nastasya_a - 0.9444698376795605
+
+18) katerina_ivanovna_a - 0.9410548525734327
+
+19) mr_svidrigaïlov_a - 0.9406556206746252
+
+20) rodya_a - 0.9397388380688086
+
+21) pulcheria_alexandrovna_a - 0.9396747314736087
+
+22) semyon_zaharovitch_a - 0.9373106602410076
+
+23) rodion_romanovitch_raskolnikov_a - 0.9355016033500915
+
+24) lizaveta_ivanovna_a - 0.9328450520542295
+
+25) polenka_a - 0.8968029947041608
+
+26) amalia_ludwigovna_a - 0.8567661898364485
+
+27) andrey_semyonovitch_lebeziatnikov_a - 0.8150177951151822
+
+28) napoleon_a - 0.8109845164711633
+
+29) kolya_a - 0.7376374382484752
+
+30) madame_resslich_a - 0.6219106727269116
+
+Result for the vector: dmitri_prokofitch, coming from part b of the book
+Rank: 3 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9449626836202946
+
+1) sonia_a - 0.9458464665963197
+
+2) marfa_petrovna_a - 0.9458148511758552
+
+3) dmitri_prokofitch_a - 0.9449626836202946
+
+4) zossimov_a - 0.9445997162043968
+
+5) dounia_a - 0.9410070180892944
+
+6) porfiry_petrovitch_a - 0.9406684076387656
+
+7) mr_razumihin_a - 0.9404647981843489
+
+8) koch_a - 0.9361848476098379
+
+9) katerina_ivanovna_a - 0.936149660578392
+
+10) nikolay_a - 0.9360942840576172
+
+11) ilya_petrovitch_a - 0.9357679169108847
+
+12) pulcheria_alexandrovna_a - 0.9335181991314355
+
+13) avdotya_romanovna_a - 0.9334537029374014
+
+14) nikodim_fomitch_a - 0.9323637167323747
+
+15) sofya_semyonovna_marmeladov_a - 0.9323620397392078
+
+16) nastasya_a - 0.931718647480011
+
+17) mr_zametov_a - 0.9299161434173584
+
+18) rodion_romanovitch_raskolnikov_a - 0.9243890047073364
+
+19) rodya_a - 0.9228217601776123
+
+20) mr_svidrigaïlov_a - 0.9198216843711342
+
+21) lizaveta_ivanovna_a - 0.9188699996134643
+
+22) semyon_zaharovitch_a - 0.9186567019615608
+
+23) mr_raskolnikov_a - 0.9156832695007324
+
+24) pyotr_petrovitch_luzhin_a - 0.9106119328372535
+
+25) polenka_a - 0.9007557689693128
+
+26) amalia_ludwigovna_a - 0.8706653118133545
+
+27) andrey_semyonovitch_lebeziatnikov_a - 0.7971543194559636
+
+28) napoleon_a - 0.7826340198516846
+
+29) kolya_a - 0.7804273497803612
+
+30) madame_resslich_a - 0.6296585422957823
+
+Result for the vector: lizaveta_ivanovna, coming from part b of the book
+Rank: 3 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9544175578827432
+
+1) sonia_a - 0.9576590371829596
+
+2) katerina_ivanovna_a - 0.9549971276525107
+
+3) lizaveta_ivanovna_a - 0.9544175578827432
+
+4) marfa_petrovna_a - 0.9508135377390936
+
+5) dmitri_prokofitch_a - 0.9480164113025175
+
+6) mr_zametov_a - 0.9462898405617587
+
+7) avdotya_romanovna_a - 0.9439570589052859
+
+8) pulcheria_alexandrovna_a - 0.9386737662949073
+
+9) dounia_a - 0.9369214214729432
+
+10) mr_razumihin_a - 0.9350167590359737
+
+11) nastasya_a - 0.934678260405169
+
+12) rodya_a - 0.9345317521970437
+
+13) porfiry_petrovitch_a - 0.9343670684853711
+
+14) polenka_a - 0.9313839755792647
+
+15) sofya_semyonovna_marmeladov_a - 0.9304654238044306
+
+16) zossimov_a - 0.9302159270579874
+
+17) ilya_petrovitch_a - 0.9250509463235491
+
+18) nikodim_fomitch_a - 0.9155931795956773
+
+19) nikolay_a - 0.9153679063696933
+
+20) pyotr_petrovitch_luzhin_a - 0.9116134748919636
+
+21) koch_a - 0.9115577611791521
+
+22) semyon_zaharovitch_a - 0.9072836637497013
+
+23) mr_raskolnikov_a - 0.9067775066627575
+
+24) rodion_romanovitch_raskolnikov_a - 0.9014908134048708
+
+25) mr_svidrigaïlov_a - 0.8962987784983184
+
+26) amalia_ludwigovna_a - 0.8819777439845968
+
+27) andrey_semyonovitch_lebeziatnikov_a - 0.7837420959780101
+
+28) napoleon_a - 0.7605152272871015
+
+29) kolya_a - 0.7457306688152946
+
+30) madame_resslich_a - 0.7175653317492805
+
+Result for the vector: ilya_petrovitch, coming from part b of the book
+Rank: 10 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9407384009269515
+
+1) sofya_semyonovna_marmeladov_a - 0.9594899605336684
+
+2) mr_razumihin_a - 0.957353887400278
+
+3) zossimov_a - 0.954247020817853
+
+4) nikodim_fomitch_a - 0.9540007343889415
+
+5) mr_raskolnikov_a - 0.9536030237201548
+
+6) porfiry_petrovitch_a - 0.9531381102286796
+
+7) mr_zametov_a - 0.9437377981827085
+
+8) pyotr_petrovitch_luzhin_a - 0.9409990275501776
+
+9) nastasya_a - 0.9407856393797035
+
+10) ilya_petrovitch_a - 0.9407384009269515
+
+11) koch_a - 0.9334905902872725
+
+12) sonia_a - 0.9247342533967313
+
+13) dmitri_prokofitch_a - 0.9225135995455889
+
+14) mr_svidrigaïlov_a - 0.9204914522464096
+
+15) avdotya_romanovna_a - 0.9204706681756584
+
+16) pulcheria_alexandrovna_a - 0.920136827250846
+
+17) nikolay_a - 0.9138816492416505
+
+18) katerina_ivanovna_a - 0.9103119319863424
+
+19) marfa_petrovna_a - 0.9101851528993485
+
+20) dounia_a - 0.9055157191176144
+
+21) semyon_zaharovitch_a - 0.9042985268172984
+
+22) rodya_a - 0.9028996709465652
+
+23) lizaveta_ivanovna_a - 0.8987592009841241
+
+24) rodion_romanovitch_raskolnikov_a - 0.8987116692914633
+
+25) polenka_a - 0.8781676219801818
+
+26) andrey_semyonovitch_lebeziatnikov_a - 0.8238385214709486
+
+27) amalia_ludwigovna_a - 0.8171523591461668
+
+28) napoleon_a - 0.7739516823234235
+
+29) kolya_a - 0.7369906149501093
+
+30) madame_resslich_a - 0.5941776391373753
+
+Result for the vector: nikodim_fomitch, coming from part b of the book
+Rank: 8 out of 30 characters
+Cosine similarity to the co-referring vector: 0.7547519431934343
+
+1) mr_razumihin_a - 0.7757945790413286
+
+2) mr_zametov_a - 0.7754533290863037
+
+3) porfiry_petrovitch_a - 0.7734960452618586
+
+4) dmitri_prokofitch_a - 0.7695004481374964
+
+5) ilya_petrovitch_a - 0.7690926423398451
+
+6) zossimov_a - 0.7639390457850413
+
+7) katerina_ivanovna_a - 0.7588039184329571
+
+8) nikodim_fomitch_a - 0.7547519431934343
+
+9) rodya_a - 0.7510788440704346
+
+10) avdotya_romanovna_a - 0.7502507642135737
+
+11) nastasya_a - 0.7496024370193481
+
+12) rodion_romanovitch_raskolnikov_a - 0.7492119073867798
+
+13) sofya_semyonovna_marmeladov_a - 0.7490132375081321
+
+14) marfa_petrovna_a - 0.7462313922505754
+
+15) nikolay_a - 0.7452396154403687
+
+16) mr_raskolnikov_a - 0.7422140836715698
+
+17) sonia_a - 0.7421852571423432
+
+18) pulcheria_alexandrovna_a - 0.7387681227555315
+
+19) koch_a - 0.7387440269062573
+
+20) pyotr_petrovitch_luzhin_a - 0.7312269371016672
+
+21) mr_svidrigaïlov_a - 0.7312033932683842
+
+22) lizaveta_ivanovna_a - 0.7294144251768123
+
+23) dounia_a - 0.7292181849479675
+
+24) polenka_a - 0.7228525446145223
+
+25) semyon_zaharovitch_a - 0.7203657460430722
+
+26) amalia_ludwigovna_a - 0.6875040531158447
+
+27) napoleon_a - 0.6392133235931396
+
+28) andrey_semyonovitch_lebeziatnikov_a - 0.6082681650955589
+
+29) kolya_a - 0.5236026332615246
+
+30) madame_resslich_a - 0.4954827728579785
+
+Result for the vector: koch, coming from part b of the book
+Rank: 11 out of 30 characters
+Cosine similarity to the co-referring vector: 0.6933284242940584
+
+1) ilya_petrovitch_a - 0.7070540821898657
+
+2) dmitri_prokofitch_a - 0.702597975730901
+
+3) katerina_ivanovna_a - 0.6993722915649464
+
+4) nastasya_a - 0.6990973174033963
+
+5) sonia_a - 0.6987450747560034
+
+6) lizaveta_ivanovna_a - 0.6986659793853148
+
+7) mr_zametov_a - 0.696587604080893
+
+8) mr_razumihin_a - 0.6961373090744069
+
+9) nikodim_fomitch_a - 0.6949941541249297
+
+10) porfiry_petrovitch_a - 0.6947261691093494
+
+11) koch_a - 0.6933284242940584
+
+12) marfa_petrovna_a - 0.6910831928253223
+
+13) zossimov_a - 0.6886718888883494
+
+14) sofya_semyonovna_marmeladov_a - 0.6877888683832338
+
+15) nikolay_a - 0.6873460225669171
+
+16) pulcheria_alexandrovna_a - 0.6861762421884756
+
+17) avdotya_romanovna_a - 0.6851827927206151
+
+18) rodion_romanovitch_raskolnikov_a - 0.6838428189660811
+
+19) polenka_a - 0.6790761351585436
+
+20) rodya_a - 0.6782055305365057
+
+21) mr_raskolnikov_a - 0.6740196152937195
+
+22) dounia_a - 0.6703990501403254
+
+23) mr_svidrigaïlov_a - 0.6633074879646348
+
+24) semyon_zaharovitch_a - 0.663034994964003
+
+25) pyotr_petrovitch_luzhin_a - 0.6556795239448594
+
+26) amalia_ludwigovna_a - 0.629122473545223
+
+27) napoleon_a - 0.5802864778212604
+
+28) andrey_semyonovitch_lebeziatnikov_a - 0.5544501543045083
+
+29) kolya_a - 0.5338298082351722
+
+30) madame_resslich_a - 0.4562422633171114
+
+Result for the vector: polenka, coming from part b of the book
+Rank: 3 out of 30 characters
+Cosine similarity to the co-referring vector: 0.9537615803622275
+
+1) katerina_ivanovna_a - 0.9699845927962921
+
+2) sonia_a - 0.964569299357215
+
+3) polenka_a - 0.9537615803622275
+
+4) avdotya_romanovna_a - 0.951792206030391
+
+5) nastasya_a - 0.9505648612976074
+
+6) marfa_petrovna_a - 0.9499043852147844
+
+7) lizaveta_ivanovna_a - 0.9487064167471656
+
+8) dmitri_prokofitch_a - 0.9469050796684592
+
+9) pulcheria_alexandrovna_a - 0.9434081597151808
+
+10) rodya_a - 0.9405912160873413
+
+11) dounia_a - 0.9403294324874878
+
+12) mr_razumihin_a - 0.9374356307127713
+
+13) mr_zametov_a - 0.9349014759063721
+
+14) porfiry_petrovitch_a - 0.9321627657316484
+
+15) zossimov_a - 0.9320351163159349
+
+16) ilya_petrovitch_a - 0.9297158399139599
+
+17) sofya_semyonovna_marmeladov_a - 0.9273674677860047
+
+18) mr_raskolnikov_a - 0.9141131639480591
+
+19) nikodim_fomitch_a - 0.9137463245912295
+
+20) nikolay_a - 0.9128285646438599
+
+21) semyon_zaharovitch_a - 0.9122137375005344
+
+22) koch_a - 0.9086116172622136
+
+23) mr_svidrigaïlov_a - 0.9061417039548351
+
+24) rodion_romanovitch_raskolnikov_a - 0.9045698642730713
+
+25) pyotr_petrovitch_luzhin_a - 0.8903501099139403
+
+26) amalia_ludwigovna_a - 0.8757376074790955
+
+27) kolya_a - 0.7778001560091893
+
+28) napoleon_a - 0.76048344373703
+
+29) andrey_semyonovitch_lebeziatnikov_a - 0.7557998445153342
+
+30) madame_resslich_a - 0.6337295392912912
+
+Result for the vector: napoleon, coming from part b of the book
+Rank: 25 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8437957167625427
+
+1) zossimov_a - 0.9154198442524629
+
+2) koch_a - 0.914748452432319
+
+3) nikolay_a - 0.9102493524551392
+
+4) mr_razumihin_a - 0.9097875410445027
+
+5) mr_zametov_a - 0.9086071848869324
+
+6) porfiry_petrovitch_a - 0.908227091537293
+
+7) dmitri_prokofitch_a - 0.9058292564255458
+
+8) marfa_petrovna_a - 0.9054014739154906
+
+9) ilya_petrovitch_a - 0.9039655001153205
+
+10) pyotr_petrovitch_luzhin_a - 0.9021955190780465
+
+11) sofya_semyonovna_marmeladov_a - 0.9020112904923198
+
+12) mr_svidrigaïlov_a - 0.8952207627760925
+
+13) nikodim_fomitch_a - 0.8936307696590061
+
+14) mr_raskolnikov_a - 0.8924554586410522
+
+15) semyon_zaharovitch_a - 0.8888367944262517
+
+16) sonia_a - 0.8879170682405556
+
+17) rodion_romanovitch_raskolnikov_a - 0.8869935870170593
+
+18) katerina_ivanovna_a - 0.8859838911304555
+
+19) dounia_a - 0.885797381401062
+
+20) rodya_a - 0.885513961315155
+
+21) nastasya_a - 0.8831750154495239
+
+22) avdotya_romanovna_a - 0.8799949479098607
+
+23) lizaveta_ivanovna_a - 0.8750093244018954
+
+24) pulcheria_alexandrovna_a - 0.8643766303174687
+
+25) napoleon_a - 0.8437957167625427
+
+26) polenka_a - 0.8318624596677759
+
+27) amalia_ludwigovna_a - 0.7965238690376282
+
+28) andrey_semyonovitch_lebeziatnikov_a - 0.7908715134339637
+
+29) kolya_a - 0.6847394892728645
+
+30) madame_resslich_a - 0.583635593436028
+
+Result for the vector: semyon_zaharovitch, coming from part b of the book
+Rank: 3 out of 30 characters
+Cosine similarity to the co-referring vector: 0.7470689710460867
+
+1) rodya_a - 0.7648432114626905
+
+2) rodion_romanovitch_raskolnikov_a - 0.7588926410015024
+
+3) semyon_zaharovitch_a - 0.7470689710460867
+
+4) katerina_ivanovna_a - 0.7340962290763907
+
+5) sofya_semyonovna_marmeladov_a - 0.7322388030788815
+
+6) ilya_petrovitch_a - 0.7302169856623103
+
+7) dmitri_prokofitch_a - 0.7276713848114066
+
+8) pyotr_petrovitch_luzhin_a - 0.7259997129440359
+
+9) marfa_petrovna_a - 0.7231882810592702
+
+10) porfiry_petrovitch_a - 0.7228353619575552
+
+11) koch_a - 0.7202801585614921
+
+12) nikolay_a - 0.7186330389161741
+
+13) lizaveta_ivanovna_a - 0.7184981154052722
+
+14) dounia_a - 0.7181773017750575
+
+15) mr_svidrigaïlov_a - 0.7180655598640493
+
+16) zossimov_a - 0.7171081945694863
+
+17) mr_razumihin_a - 0.7167876362800649
+
+18) avdotya_romanovna_a - 0.7158540361902175
+
+19) mr_zametov_a - 0.7135636039712205
+
+20) nikodim_fomitch_a - 0.709951762254694
+
+21) sonia_a - 0.7079508937553374
+
+22) mr_raskolnikov_a - 0.7030990542828486
+
+23) pulcheria_alexandrovna_a - 0.7013914616159914
+
+24) nastasya_a - 0.6884156875858133
+
+25) polenka_a - 0.6882118582725574
+
+26) amalia_ludwigovna_a - 0.6863838843336049
+
+27) napoleon_a - 0.6707042259397653
+
+28) andrey_semyonovitch_lebeziatnikov_a - 0.6539056897163438
+
+29) kolya_a - 0.5132405161857642
+
+30) madame_resslich_a - 0.4844421446323429
+
+Result for the vector: madame_resslich, coming from part b of the book
+Rank: 30 out of 30 characters
+Cosine similarity to the co-referring vector: 0.6585005129277413
+
+1) katerina_ivanovna_a - 0.9620707653718747
+
+2) lizaveta_ivanovna_a - 0.9521540091083652
+
+3) sonia_a - 0.9494803234779935
+
+4) marfa_petrovna_a - 0.9460378321386692
+
+5) avdotya_romanovna_a - 0.9417935259753676
+
+6) dounia_a - 0.9384469389915466
+
+7) nastasya_a - 0.9373800158500671
+
+8) polenka_a - 0.928395692801734
+
+9) dmitri_prokofitch_a - 0.9281090540820941
+
+10) mr_razumihin_a - 0.9256638928852161
+
+11) rodya_a - 0.9250723719596863
+
+12) ilya_petrovitch_a - 0.9247585810648976
+
+13) pulcheria_alexandrovna_a - 0.9244595445531475
+
+14) sofya_semyonovna_marmeladov_a - 0.9204708517299474
+
+15) porfiry_petrovitch_a - 0.9198064255829812
+
+16) mr_zametov_a - 0.9195663928985596
+
+17) zossimov_a - 0.9180780326747312
+
+18) nikolay_a - 0.9152064919471741
+
+19) rodion_romanovitch_raskolnikov_a - 0.9099084138870239
+
+20) nikodim_fomitch_a - 0.9058347018311833
+
+21) koch_a - 0.9034473511678629
+
+22) mr_svidrigaïlov_a - 0.900815790843024
+
+23) mr_raskolnikov_a - 0.896302342414856
+
+24) pyotr_petrovitch_luzhin_a - 0.8949118319206354
+
+25) semyon_zaharovitch_a - 0.8937376674257335
+
+26) amalia_ludwigovna_a - 0.8640769720077515
+
+27) napoleon_a - 0.7862797975540161
+
+28) andrey_semyonovitch_lebeziatnikov_a - 0.7741919294481333
+
+29) kolya_a - 0.7413156186750176
+
+30) madame_resslich_a - 0.6585005129277413
+
+Result for the vector: kolya, coming from part b of the book
+Rank: 27 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8020135763308063
+
+1) katerina_ivanovna_a - 0.9404183239368425
+
+2) sonia_a - 0.936347707831328
+
+3) marfa_petrovna_a - 0.9335056742289513
+
+4) dmitri_prokofitch_a - 0.9275703024224231
+
+5) dounia_a - 0.9236926575258159
+
+6) avdotya_romanovna_a - 0.9228985675867168
+
+7) lizaveta_ivanovna_a - 0.9222752862633105
+
+8) nastasya_a - 0.9218006864966595
+
+9) rodya_a - 0.9217633143765889
+
+10) ilya_petrovitch_a - 0.9170386593434146
+
+11) zossimov_a - 0.9164442816840036
+
+12) mr_razumihin_a - 0.9151870779972224
+
+13) pulcheria_alexandrovna_a - 0.914873222082444
+
+14) nikolay_a - 0.9144029736763681
+
+15) sofya_semyonovna_marmeladov_a - 0.9135436702526837
+
+16) mr_zametov_a - 0.9129126784321492
+
+17) polenka_a - 0.9125797916322964
+
+18) mr_svidrigaïlov_a - 0.9113905595825285
+
+19) porfiry_petrovitch_a - 0.9113856123962749
+
+20) koch_a - 0.9069923481322437
+
+21) nikodim_fomitch_a - 0.9051535499462153
+
+22) semyon_zaharovitch_a - 0.9041434567359521
+
+23) mr_raskolnikov_a - 0.9020918701482936
+
+24) rodion_romanovitch_raskolnikov_a - 0.8925916626495806
+
+25) pyotr_petrovitch_luzhin_a - 0.879558575087605
+
+26) amalia_ludwigovna_a - 0.8455337857823705
+
+27) kolya_a - 0.8020135763308063
+
+28) andrey_semyonovitch_lebeziatnikov_a - 0.7672916602033146
+
+29) napoleon_a - 0.7618241111269395
+
+30) madame_resslich_a - 0.6050831981127477
+
+Result for the vector: amalia_ludwigovna, coming from part b of the book
+Rank: 25 out of 30 characters
+Cosine similarity to the co-referring vector: 0.8386724091367492
+
+1) marfa_petrovna_a - 0.8893492949784643
+
+2) lizaveta_ivanovna_a - 0.8857620094489488
+
+3) katerina_ivanovna_a - 0.8830436011500834
+
+4) sonia_a - 0.8795850610856729
+
+5) ilya_petrovitch_a - 0.874821338807904
+
+6) avdotya_romanovna_a - 0.8734417818022402
+
+7) pulcheria_alexandrovna_a - 0.8733054139225096
+
+8) dmitri_prokofitch_a - 0.8723585161735397
+
+9) mr_zametov_a - 0.8716088609928587
+
+10) porfiry_petrovitch_a - 0.8711635623975322
+
+11) sofya_semyonovna_marmeladov_a - 0.8692308249382111
+
+12) dounia_a - 0.8686139065853429
+
+13) rodya_a - 0.8662038525221452
+
+14) mr_razumihin_a - 0.8614962862138407
+
+15) nikolay_a - 0.8608234011636152
+
+16) koch_a - 0.8605410117072264
+
+17) nikodim_fomitch_a - 0.8580111009475295
+
+18) rodion_romanovitch_raskolnikov_a - 0.8549872127182968
+
+19) zossimov_a - 0.8548859103058042
+
+20) polenka_a - 0.8529964860681908
+
+21) nastasya_a - 0.8526937453333306
+
+22) pyotr_petrovitch_luzhin_a - 0.8470255318849644
+
+23) semyon_zaharovitch_a - 0.8404088616371215
+
+24) mr_svidrigaïlov_a - 0.8387124730691345
+
+25) amalia_ludwigovna_a - 0.8386724091367492
+
+26) mr_raskolnikov_a - 0.8282264573439102
+
+27) napoleon_a - 0.7686592478359208
+
+28) andrey_semyonovitch_lebeziatnikov_a - 0.7229667040149327
+
+29) kolya_a - 0.6747281939115293
+
+30) madame_resslich_a - 0.6728520187315918
+

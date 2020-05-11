@@ -1,0 +1,9 @@
+Test: doppelganger test
+Results for: Oliver_Twist_by_Charles_Dickens_
+Model used: proper names matched
+
+Within-novel median: 3.0
+Within-novel average: 7.229166666666667
+Within-novel MRR: 0.4586360197773241
+Within-novel standard deviation of the scores: 7.520083065070195
+Amount of entities considered: 24.0

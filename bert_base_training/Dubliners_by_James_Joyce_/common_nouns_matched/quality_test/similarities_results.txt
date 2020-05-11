@@ -1,0 +1,252 @@
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9146630167961121
+
+1) time_a - 0.9146630167961121
+
+2) moment_a - 0.8656508246452124
+
+3) thing_a - 0.861033252539234
+
+4) year_a - 0.8441891074180603
+
+5) girl_a - 0.8248057857040054
+
+6) nothing_a - 0.8216058015823364
+
+7) table_a - 0.7674033641815186
+
+Result for the vector: table, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.7968699457126902
+
+1) table_a - 0.7968699457126902
+
+2) thing_a - 0.7358511090278678
+
+3) girl_a - 0.7281804084777884
+
+4) time_a - 0.7131770424141275
+
+5) nothing_a - 0.6761890246755478
+
+6) moment_a - 0.6715696454048204
+
+7) year_a - 0.643069109733755
+
+Result for the vector: girl, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8878439664840762
+
+1) girl_a - 0.8878439664840762
+
+2) thing_a - 0.8763114809989991
+
+3) year_a - 0.7958731176928822
+
+4) time_a - 0.7918112402074804
+
+5) nothing_a - 0.791022313176257
+
+6) moment_a - 0.7620605826377923
+
+7) table_a - 0.7287558478858575
+
+Result for the vector: moment, coming from part i of the book
+Rank: 2 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8081171524699263
+
+1) time_a - 0.8277184511171419
+
+2) moment_a - 0.8081171524699263
+
+3) thing_a - 0.807474614303502
+
+4) girl_a - 0.7623944226495065
+
+5) nothing_a - 0.7540571767738947
+
+6) year_a - 0.7504890636046914
+
+7) table_a - 0.722268169129032
+
+Result for the vector: thing, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8487470475579004
+
+1) thing_a - 0.8487470475579004
+
+2) nothing_a - 0.7982686517558931
+
+3) girl_a - 0.7919052467176774
+
+4) moment_a - 0.7912840469987491
+
+5) time_a - 0.7761300535357117
+
+6) year_a - 0.7725031104687639
+
+7) table_a - 0.6780946467035636
+
+Result for the vector: year, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9276428499115367
+
+1) year_a - 0.9276428499115367
+
+2) time_a - 0.7863728638402484
+
+3) moment_a - 0.772250900171778
+
+4) thing_a - 0.7640354124339297
+
+5) girl_a - 0.7504274323964807
+
+6) nothing_a - 0.716364941488652
+
+7) table_a - 0.6239457912428915
+
+Result for the vector: nothing, coming from part i of the book
+Rank: 2 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8452751728728326
+
+1) thing_a - 0.8480145931243956
+
+2) nothing_a - 0.8452751728728326
+
+3) girl_a - 0.8040189146995601
+
+4) time_a - 0.7803501617699778
+
+5) year_a - 0.7496453076812455
+
+6) moment_a - 0.7421464920043997
+
+7) table_a - 0.697892266637549
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9146630167961121
+
+1) time_wiki - 0.9146630167961121
+
+2) moment_wiki - 0.8277184511171419
+
+3) girl_wiki - 0.7918112402074804
+
+4) year_wiki - 0.7863728638402484
+
+5) nothing_wiki - 0.7803501617699778
+
+6) thing_wiki - 0.7761300535357117
+
+7) table_wiki - 0.7131770424141275
+
+Result for the vector: table, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.7968699457126902
+
+1) table_wiki - 0.7968699457126902
+
+2) time_wiki - 0.7674033641815186
+
+3) girl_wiki - 0.7287558478858575
+
+4) moment_wiki - 0.722268169129032
+
+5) nothing_wiki - 0.697892266637549
+
+6) thing_wiki - 0.6780946467035636
+
+7) year_wiki - 0.6239457912428915
+
+Result for the vector: girl, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8878439664840762
+
+1) girl_wiki - 0.8878439664840762
+
+2) time_wiki - 0.8248057857040054
+
+3) nothing_wiki - 0.8040189146995601
+
+4) thing_wiki - 0.7919052467176774
+
+5) moment_wiki - 0.7623944226495065
+
+6) year_wiki - 0.7504274323964807
+
+7) table_wiki - 0.7281804084777884
+
+Result for the vector: moment, coming from part a of the book
+Rank: 2 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8081171524699263
+
+1) time_wiki - 0.8656508246452124
+
+2) moment_wiki - 0.8081171524699263
+
+3) thing_wiki - 0.7912840469987491
+
+4) year_wiki - 0.772250900171778
+
+5) girl_wiki - 0.7620605826377923
+
+6) nothing_wiki - 0.7421464920043997
+
+7) table_wiki - 0.6715696454048204
+
+Result for the vector: thing, coming from part a of the book
+Rank: 3 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8487470475579004
+
+1) girl_wiki - 0.8763114809989991
+
+2) time_wiki - 0.861033252539234
+
+3) thing_wiki - 0.8487470475579004
+
+4) nothing_wiki - 0.8480145931243956
+
+5) moment_wiki - 0.807474614303502
+
+6) year_wiki - 0.7640354124339297
+
+7) table_wiki - 0.7358511090278678
+
+Result for the vector: year, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9276428499115367
+
+1) year_wiki - 0.9276428499115367
+
+2) time_wiki - 0.8441891074180603
+
+3) girl_wiki - 0.7958731176928822
+
+4) thing_wiki - 0.7725031104687639
+
+5) moment_wiki - 0.7504890636046914
+
+6) nothing_wiki - 0.7496453076812455
+
+7) table_wiki - 0.643069109733755
+
+Result for the vector: nothing, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8452751728728326
+
+1) nothing_wiki - 0.8452751728728326
+
+2) time_wiki - 0.8216058015823364
+
+3) thing_wiki - 0.7982686517558931
+
+4) girl_wiki - 0.791022313176257
+
+5) moment_wiki - 0.7540571767738947
+
+6) year_wiki - 0.716364941488652
+
+7) table_wiki - 0.6761890246755478
+

@@ -1,0 +1,396 @@
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9299049377441473
+
+1) man_b - 0.9299049377441473
+
+2) house_b - 0.8697566986084047
+
+3) time_b - 0.8650314453187996
+
+4) night_b - 0.8491312355320925
+
+5) face_b - 0.8438939545217795
+
+6) eye_b - 0.8317604265498606
+
+7) room_b - 0.8203138709068357
+
+8) hand_b - 0.7981607438230085
+
+9) head_b - 0.7621649645468628
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9597814751062157
+
+1) time_b - 0.9597814751062157
+
+2) night_b - 0.891672081251618
+
+3) house_b - 0.8739801645278993
+
+4) eye_b - 0.8473982992889524
+
+5) face_b - 0.833461831005704
+
+6) room_b - 0.8198063969612179
+
+7) hand_b - 0.8130012862085544
+
+8) man_b - 0.7986935973167476
+
+9) head_b - 0.7655052682456228
+
+Result for the vector: hand, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9792908405412315
+
+1) hand_b - 0.9792908405412315
+
+2) eye_b - 0.9270278767960146
+
+3) face_b - 0.9228679445824622
+
+4) head_b - 0.916173984548335
+
+5) time_b - 0.8603878617286926
+
+6) house_b - 0.8543310500975356
+
+7) night_b - 0.8182781718108917
+
+8) room_b - 0.8079271569121775
+
+9) man_b - 0.7783029875105015
+
+Result for the vector: room, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.973878768731246
+
+1) room_b - 0.973878768731246
+
+2) house_b - 0.9441386113290742
+
+3) face_b - 0.8722098133626528
+
+4) time_b - 0.8662479937450988
+
+5) eye_b - 0.8611353975196099
+
+6) night_b - 0.8514191762035843
+
+7) hand_b - 0.8399624478805798
+
+8) man_b - 0.8007254720382818
+
+9) head_b - 0.7929706213763545
+
+Result for the vector: face, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9811035990715027
+
+1) face_b - 0.9811035990715027
+
+2) eye_b - 0.9538913396661692
+
+3) hand_b - 0.9032970070838928
+
+4) house_b - 0.8746426626826935
+
+5) head_b - 0.8724685907363892
+
+6) time_b - 0.8586343695361235
+
+7) night_b - 0.8485929369926453
+
+8) room_b - 0.8453539517732845
+
+9) man_b - 0.8145324477274699
+
+Result for the vector: eye, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9800194513786183
+
+1) eye_b - 0.9800194513786183
+
+2) face_b - 0.9536516666412354
+
+3) hand_b - 0.9247792959213257
+
+4) head_b - 0.8904664516448975
+
+5) house_b - 0.8675178210447936
+
+6) time_b - 0.8547393256736666
+
+7) night_b - 0.8224189281463623
+
+8) room_b - 0.8221986187814857
+
+9) man_b - 0.8062665347019767
+
+Result for the vector: night, coming from part a of the book
+Rank: 2 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9462423606587164
+
+1) time_b - 0.9465138065951745
+
+2) night_b - 0.9462423606587164
+
+3) house_b - 0.8981785981218757
+
+4) eye_b - 0.8467915401818923
+
+5) face_b - 0.8458283795663235
+
+6) room_b - 0.8449562947412996
+
+7) man_b - 0.8165775075475137
+
+8) hand_b - 0.8131522182569573
+
+9) head_b - 0.7591748463861602
+
+Result for the vector: house, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9685385478345381
+
+1) house_b - 0.9685385478345381
+
+2) room_b - 0.9506412372948587
+
+3) time_b - 0.875726077684002
+
+4) night_b - 0.8719278757507725
+
+5) face_b - 0.8693226160993566
+
+6) eye_b - 0.8533701554945252
+
+7) man_b - 0.8263605872333929
+
+8) hand_b - 0.8254560374131269
+
+9) head_b - 0.7854550587047721
+
+Result for the vector: head, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9762950234501075
+
+1) head_b - 0.9762950234501075
+
+2) hand_b - 0.9334448854161769
+
+3) face_b - 0.9100314649948918
+
+4) eye_b - 0.9010942905815194
+
+5) time_b - 0.8147746788166841
+
+6) house_b - 0.8144802583289381
+
+7) room_b - 0.7786110739658246
+
+8) night_b - 0.7658885945644559
+
+9) man_b - 0.7562325676887546
+
+Result for the vector: man, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9299049377441473
+
+1) man_a - 0.9299049377441473
+
+2) house_a - 0.8263605872333929
+
+3) night_a - 0.8165775075475137
+
+4) face_a - 0.8145324477274699
+
+5) eye_a - 0.8062665347019767
+
+6) room_a - 0.8007254720382818
+
+7) time_a - 0.7986935973167476
+
+8) hand_a - 0.7783029875105015
+
+9) head_a - 0.7562325676887546
+
+Result for the vector: time, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9597814751062157
+
+1) time_a - 0.9597814751062157
+
+2) night_a - 0.9465138065951745
+
+3) house_a - 0.875726077684002
+
+4) room_a - 0.8662479937450988
+
+5) man_a - 0.8650314453187996
+
+6) hand_a - 0.8603878617286926
+
+7) face_a - 0.8586343695361235
+
+8) eye_a - 0.8547393256736666
+
+9) head_a - 0.8147746788166841
+
+Result for the vector: hand, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9792908405412315
+
+1) hand_a - 0.9792908405412315
+
+2) head_a - 0.9334448854161769
+
+3) eye_a - 0.9247792959213257
+
+4) face_a - 0.9032970070838928
+
+5) room_a - 0.8399624478805798
+
+6) house_a - 0.8254560374131269
+
+7) night_a - 0.8131522182569573
+
+8) time_a - 0.8130012862085544
+
+9) man_a - 0.7981607438230085
+
+Result for the vector: room, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.973878768731246
+
+1) room_a - 0.973878768731246
+
+2) house_a - 0.9506412372948587
+
+3) face_a - 0.8453539517732845
+
+4) night_a - 0.8449562947412996
+
+5) eye_a - 0.8221986187814857
+
+6) man_a - 0.8203138709068357
+
+7) time_a - 0.8198063969612179
+
+8) hand_a - 0.8079271569121775
+
+9) head_a - 0.7786110739658246
+
+Result for the vector: face, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9811035990715027
+
+1) face_a - 0.9811035990715027
+
+2) eye_a - 0.9536516666412354
+
+3) hand_a - 0.9228679445824622
+
+4) head_a - 0.9100314649948918
+
+5) room_a - 0.8722098133626528
+
+6) house_a - 0.8693226160993566
+
+7) night_a - 0.8458283795663235
+
+8) man_a - 0.8438939545217795
+
+9) time_a - 0.833461831005704
+
+Result for the vector: eye, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9800194513786183
+
+1) eye_a - 0.9800194513786183
+
+2) face_a - 0.9538913396661692
+
+3) hand_a - 0.9270278767960146
+
+4) head_a - 0.9010942905815194
+
+5) room_a - 0.8611353975196099
+
+6) house_a - 0.8533701554945252
+
+7) time_a - 0.8473982992889524
+
+8) night_a - 0.8467915401818923
+
+9) man_a - 0.8317604265498606
+
+Result for the vector: night, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9462423606587164
+
+1) night_a - 0.9462423606587164
+
+2) time_a - 0.891672081251618
+
+3) house_a - 0.8719278757507725
+
+4) room_a - 0.8514191762035843
+
+5) man_a - 0.8491312355320925
+
+6) face_a - 0.8485929369926453
+
+7) eye_a - 0.8224189281463623
+
+8) hand_a - 0.8182781718108917
+
+9) head_a - 0.7658885945644559
+
+Result for the vector: house, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9685385478345381
+
+1) house_a - 0.9685385478345381
+
+2) room_a - 0.9441386113290742
+
+3) night_a - 0.8981785981218757
+
+4) face_a - 0.8746426626826935
+
+5) time_a - 0.8739801645278993
+
+6) man_a - 0.8697566986084047
+
+7) eye_a - 0.8675178210447936
+
+8) hand_a - 0.8543310500975356
+
+9) head_a - 0.8144802583289381
+
+Result for the vector: head, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9762950234501075
+
+1) head_a - 0.9762950234501075
+
+2) hand_a - 0.916173984548335
+
+3) eye_a - 0.8904664516448975
+
+4) face_a - 0.8724685907363892
+
+5) room_a - 0.7929706213763545
+
+6) house_a - 0.7854550587047721
+
+7) time_a - 0.7655052682456228
+
+8) man_a - 0.7621649645468628
+
+9) night_a - 0.7591748463861602
+

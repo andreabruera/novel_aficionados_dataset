@@ -1,0 +1,96 @@
+Result for the vector: room, coming from part i of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.923441694398231
+
+1) room_a - 0.923441694398231
+
+2) door_a - 0.7858677123548484
+
+3) father_a - 0.7768854464419882
+
+4) sister_a - 0.7504666746219062
+
+Result for the vector: sister, coming from part i of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9200967645529855
+
+1) sister_a - 0.9200967645529855
+
+2) father_a - 0.9106786032904545
+
+3) room_a - 0.7821168433358292
+
+4) door_a - 0.7453507932811622
+
+Result for the vector: father, coming from part i of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.935939753288605
+
+1) father_a - 0.935939753288605
+
+2) sister_a - 0.931877668611866
+
+3) room_a - 0.7841843705397094
+
+4) door_a - 0.760946066492327
+
+Result for the vector: door, coming from part i of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9437963614281744
+
+1) door_a - 0.9437963614281744
+
+2) room_a - 0.814277662123233
+
+3) father_a - 0.7462517467887251
+
+4) sister_a - 0.7070856901134759
+
+Result for the vector: room, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.923441694398231
+
+1) room_wiki - 0.923441694398231
+
+2) door_wiki - 0.814277662123233
+
+3) father_wiki - 0.7841843705397094
+
+4) sister_wiki - 0.7821168433358292
+
+Result for the vector: sister, coming from part a of the book
+Rank: 2 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9200967645529855
+
+1) father_wiki - 0.931877668611866
+
+2) sister_wiki - 0.9200967645529855
+
+3) room_wiki - 0.7504666746219062
+
+4) door_wiki - 0.7070856901134759
+
+Result for the vector: father, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.935939753288605
+
+1) father_wiki - 0.935939753288605
+
+2) sister_wiki - 0.9106786032904545
+
+3) room_wiki - 0.7768854464419882
+
+4) door_wiki - 0.7462517467887251
+
+Result for the vector: door, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9437963614281744
+
+1) door_wiki - 0.9437963614281744
+
+2) room_wiki - 0.7858677123548484
+
+3) father_wiki - 0.760946066492327
+
+4) sister_wiki - 0.7453507932811622
+

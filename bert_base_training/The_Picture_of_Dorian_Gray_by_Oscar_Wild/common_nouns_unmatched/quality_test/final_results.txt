@@ -1,0 +1,9 @@
+Test: quality test
+Results for: The_Picture_of_Dorian_Gray_by_Oscar_Wild
+Model used: common nouns unmatched
+
+Within-novel median: 1.0
+Within-novel average: 2.1666666666666665
+Within-novel MRR: 0.7292328042328042
+Within-novel standard deviation of the scores: 1.8027756377319946
+Amount of entities considered: 9.0

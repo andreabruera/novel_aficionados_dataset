@@ -1,0 +1,7740 @@
+Result for the vector: alyosha_karamazov, coming from part a of the book
+Rank: 16 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9363706036055808
+
+1) kolya_krassotkin_b - 0.9773560762405465
+
+2) grigory_vassilyevitch_b - 0.9702261090278694
+
+3) ilusha_b - 0.9663783311843941
+
+4) snegiryov_b - 0.961671107114157
+
+5) smerdyakov_b - 0.9592286275438018
+
+6) mihail_makarovitch_b - 0.9588958882298374
+
+7) smurov_b - 0.9584516858131715
+
+8) mr_rakitin_b - 0.9570190284859572
+
+9) nikolay_parfenovitch_nelyudov_b - 0.9546998116195107
+
+10) pyotr_fomitch_kalganov_b - 0.9545418024063178
+
+11) fyodor_pavlovitch_karamazov_b - 0.9531913995742866
+
+12) mitya_chapter_i_kuzma_samsonov_b - 0.951866030693061
+
+13) maximov_b - 0.951834108099411
+
+14) madame_hohlakov_b - 0.9408330882092187
+
+15) fenya_b - 0.9374391958045001
+
+16) alyosha_karamazov_b - 0.9363706036055808
+
+17) katya_b - 0.9357496423422864
+
+18) grushenka_b - 0.9331584532951404
+
+19) katerina_ivanovna_b - 0.9327716389120101
+
+20) marya_kondratyevna_b - 0.9242125794760984
+
+21) lise_b - 0.920884306483527
+
+22) marfa_ignatyevna_b - 0.9191714477045223
+
+23) misha_b - 0.9141854047775334
+
+24) herzenstube_b - 0.91080801084185
+
+25) nina_b - 0.9056495315610804
+
+26) agrafena_alexandrovna_b - 0.9049992504715488
+
+27) timofey_b - 0.8870721920814744
+
+28) agafya_ivanovna_b - 0.8795915317779007
+
+29) pyotr_ilyitch_perhotin_b - 0.8755531832905536
+
+30) alexey_fyodorovitch_karamazov_b - 0.8732519074232539
+
+31) yulia_b - 0.8579030548276353
+
+32) church_of_christ_b - 0.851670673589152
+
+33) lyagavy_b - 0.843996634721557
+
+34) dmitri_fyodorovitch_karamazov_b - 0.8421919251794785
+
+35) karl_bernard_b - 0.8414016522230199
+
+36) ivan_fyodorovitch_karamazov_b - 0.8407831788063109
+
+37) pyotr_alexandrovitch_miüsov_b - 0.8373034749004375
+
+38) father_zossima_b - 0.8367230198814299
+
+39) varvara_b - 0.8262102992785334
+
+40) tchermashnya_b - 0.8254842900172735
+
+41) mokroe_b - 0.8174260880687968
+
+42) lizaveta_b - 0.760582804679876
+
+43) von_sohn_b - 0.7050042396788883
+
+Result for the vector: mitya_chapter_i_kuzma_samsonov, coming from part a of the book
+Rank: 15 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9610258983342769
+
+1) katya_b - 0.9767308235168527
+
+2) smurov_b - 0.9761933102492523
+
+3) mr_rakitin_b - 0.9754055753108534
+
+4) maximov_b - 0.9727536149992501
+
+5) ilusha_b - 0.9711642895741117
+
+6) pyotr_fomitch_kalganov_b - 0.9709657465260331
+
+7) smerdyakov_b - 0.9708122593648744
+
+8) alyosha_karamazov_b - 0.9697209000587532
+
+9) grigory_vassilyevitch_b - 0.9687850512522398
+
+10) nikolay_parfenovitch_nelyudov_b - 0.9684516806333272
+
+11) katerina_ivanovna_b - 0.9684340627581745
+
+12) lise_b - 0.9671041389045649
+
+13) grushenka_b - 0.9670009036659672
+
+14) fenya_b - 0.9630430340766976
+
+15) mitya_chapter_i_kuzma_samsonov_b - 0.9610258983342769
+
+16) mihail_makarovitch_b - 0.9602776479638362
+
+17) fyodor_pavlovitch_karamazov_b - 0.9594299841606636
+
+18) marya_kondratyevna_b - 0.9591186119701978
+
+19) agrafena_alexandrovna_b - 0.9577745820418266
+
+20) madame_hohlakov_b - 0.9535772232069257
+
+21) misha_b - 0.951598173189381
+
+22) agafya_ivanovna_b - 0.9450697997087615
+
+23) snegiryov_b - 0.9441416826332769
+
+24) kolya_krassotkin_b - 0.9434808560036593
+
+25) marfa_ignatyevna_b - 0.9398670232375267
+
+26) nina_b - 0.9342666864395208
+
+27) alexey_fyodorovitch_karamazov_b - 0.9342119136922428
+
+28) pyotr_ilyitch_perhotin_b - 0.9222474740596147
+
+29) herzenstube_b - 0.9030641855635898
+
+30) timofey_b - 0.90289610624314
+
+31) yulia_b - 0.8990764082028638
+
+32) ivan_fyodorovitch_karamazov_b - 0.8983988883019819
+
+33) pyotr_alexandrovitch_miüsov_b - 0.897905620995
+
+34) dmitri_fyodorovitch_karamazov_b - 0.8969536485103594
+
+35) father_zossima_b - 0.892495698184033
+
+36) church_of_christ_b - 0.8917821114193151
+
+37) lyagavy_b - 0.8840254018291607
+
+38) karl_bernard_b - 0.8757852054898415
+
+39) tchermashnya_b - 0.8657285313091154
+
+40) varvara_b - 0.8619619607925476
+
+41) mokroe_b - 0.851105417344145
+
+42) lizaveta_b - 0.7863673226395461
+
+43) von_sohn_b - 0.7442677617073112
+
+Result for the vector: ivan_fyodorovitch_karamazov, coming from part a of the book
+Rank: 30 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9022875486440943
+
+1) smerdyakov_b - 0.971333142677927
+
+2) mihail_makarovitch_b - 0.9681924274025095
+
+3) maximov_b - 0.9661643196989398
+
+4) nikolay_parfenovitch_nelyudov_b - 0.9655694961547852
+
+5) alyosha_karamazov_b - 0.9654026606918984
+
+6) smurov_b - 0.9643352031707764
+
+7) pyotr_fomitch_kalganov_b - 0.9638566396321886
+
+8) grigory_vassilyevitch_b - 0.9636033199069922
+
+9) fyodor_pavlovitch_karamazov_b - 0.963499667435906
+
+10) ilusha_b - 0.9613178991485911
+
+11) mr_rakitin_b - 0.9611713886260986
+
+12) snegiryov_b - 0.9532269779714387
+
+13) kolya_krassotkin_b - 0.9524386553502902
+
+14) madame_hohlakov_b - 0.9519017934799194
+
+15) katerina_ivanovna_b - 0.9516955840134107
+
+16) mitya_chapter_i_kuzma_samsonov_b - 0.94688415843939
+
+17) grushenka_b - 0.9463228583335876
+
+18) fenya_b - 0.9438278045551677
+
+19) katya_b - 0.9430313076395592
+
+20) marya_kondratyevna_b - 0.9401125979289363
+
+21) lise_b - 0.9349250793457031
+
+22) herzenstube_b - 0.9319829859713366
+
+23) misha_b - 0.9306458872171725
+
+24) agrafena_alexandrovna_b - 0.9300324320793152
+
+25) marfa_ignatyevna_b - 0.9254591464996338
+
+26) pyotr_ilyitch_perhotin_b - 0.9229216575622559
+
+27) alexey_fyodorovitch_karamazov_b - 0.9139138460159302
+
+28) agafya_ivanovna_b - 0.9100868213073293
+
+29) nina_b - 0.9084588234698088
+
+30) ivan_fyodorovitch_karamazov_b - 0.9022875486440943
+
+31) dmitri_fyodorovitch_karamazov_b - 0.8898895978927612
+
+32) pyotr_alexandrovitch_miüsov_b - 0.8837843204672436
+
+33) timofey_b - 0.8819495369165875
+
+34) karl_bernard_b - 0.8733343146244981
+
+35) yulia_b - 0.8677873611450195
+
+36) father_zossima_b - 0.862886369228363
+
+37) lyagavy_b - 0.861466109752655
+
+38) varvara_b - 0.8608342326184665
+
+39) church_of_christ_b - 0.8563834428787231
+
+40) tchermashnya_b - 0.8460507645026081
+
+41) mokroe_b - 0.8312086610086589
+
+42) lizaveta_b - 0.7856794127416975
+
+43) von_sohn_b - 0.7417981470702988
+
+Result for the vector: dmitri_fyodorovitch_karamazov, coming from part a of the book
+Rank: 25 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9284833116243313
+
+1) smurov_b - 0.9654888531274304
+
+2) mihail_makarovitch_b - 0.9636310051789618
+
+3) nikolay_parfenovitch_nelyudov_b - 0.9624446056816234
+
+4) grigory_vassilyevitch_b - 0.9618928477891865
+
+5) mr_rakitin_b - 0.9611327671329535
+
+6) pyotr_fomitch_kalganov_b - 0.9593915987740042
+
+7) smerdyakov_b - 0.9583656763056477
+
+8) maximov_b - 0.9581188870036972
+
+9) alyosha_karamazov_b - 0.955676198005683
+
+10) ilusha_b - 0.9536128695472634
+
+11) mitya_chapter_i_kuzma_samsonov_b - 0.953604644107265
+
+12) katya_b - 0.9501737356185981
+
+13) fyodor_pavlovitch_karamazov_b - 0.9492031396385264
+
+14) fenya_b - 0.944345414638526
+
+15) kolya_krassotkin_b - 0.9441833562632375
+
+16) alexey_fyodorovitch_karamazov_b - 0.9440370235421064
+
+17) snegiryov_b - 0.9426214064730203
+
+18) katerina_ivanovna_b - 0.9425454982411022
+
+19) grushenka_b - 0.9403557812955526
+
+20) agrafena_alexandrovna_b - 0.9373599328184185
+
+21) misha_b - 0.9368159250240415
+
+22) marya_kondratyevna_b - 0.9366480225357986
+
+23) lise_b - 0.9355989136934945
+
+24) madame_hohlakov_b - 0.9340590873921478
+
+25) dmitri_fyodorovitch_karamazov_b - 0.9284833116243313
+
+26) pyotr_ilyitch_perhotin_b - 0.9273806257617118
+
+27) marfa_ignatyevna_b - 0.9253726646082021
+
+28) pyotr_alexandrovitch_miüsov_b - 0.9177614176940532
+
+29) agafya_ivanovna_b - 0.9158498795300953
+
+30) ivan_fyodorovitch_karamazov_b - 0.914427350231725
+
+31) nina_b - 0.9131438136100833
+
+32) herzenstube_b - 0.9016052425864628
+
+33) timofey_b - 0.8802381753921571
+
+34) yulia_b - 0.8747466281207441
+
+35) varvara_b - 0.8659847378730835
+
+36) father_zossima_b - 0.8588058436628688
+
+37) church_of_christ_b - 0.8521743504897162
+
+38) lyagavy_b - 0.850091525906831
+
+39) karl_bernard_b - 0.8496376618850962
+
+40) tchermashnya_b - 0.8300874581906991
+
+41) mokroe_b - 0.8200789338373912
+
+42) lizaveta_b - 0.7474879327430806
+
+43) von_sohn_b - 0.7261747121810964
+
+Result for the vector: smerdyakov, coming from part a of the book
+Rank: 8 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9723646607833766
+
+1) mr_rakitin_b - 0.9799810647964478
+
+2) smurov_b - 0.9788737297058105
+
+3) nikolay_parfenovitch_nelyudov_b - 0.9785271883010864
+
+4) pyotr_fomitch_kalganov_b - 0.9774747504308986
+
+5) mihail_makarovitch_b - 0.9752072386505382
+
+6) maximov_b - 0.9751985959767882
+
+7) grigory_vassilyevitch_b - 0.9748632326803682
+
+8) smerdyakov_b - 0.9723646607833766
+
+9) ilusha_b - 0.9705501216322129
+
+10) mitya_chapter_i_kuzma_samsonov_b - 0.9652748128607997
+
+11) katya_b - 0.9647550561878135
+
+12) fenya_b - 0.964077887778158
+
+13) kolya_krassotkin_b - 0.9630957863869811
+
+14) fyodor_pavlovitch_karamazov_b - 0.9623998425960651
+
+15) alyosha_karamazov_b - 0.9619345046242793
+
+16) katerina_ivanovna_b - 0.9608236790930853
+
+17) grushenka_b - 0.9603030681610107
+
+18) marya_kondratyevna_b - 0.9590263415543694
+
+19) snegiryov_b - 0.9589070032724214
+
+20) madame_hohlakov_b - 0.9548070430755615
+
+21) lise_b - 0.9546642899513245
+
+22) misha_b - 0.9485343725362811
+
+23) agrafena_alexandrovna_b - 0.9471075534820557
+
+24) marfa_ignatyevna_b - 0.9456163644790649
+
+25) agafya_ivanovna_b - 0.9363868908420998
+
+26) nina_b - 0.9318606216824442
+
+27) herzenstube_b - 0.9231532720510157
+
+28) pyotr_ilyitch_perhotin_b - 0.9169554710388184
+
+29) alexey_fyodorovitch_karamazov_b - 0.9143707156181335
+
+30) timofey_b - 0.9132305331963635
+
+31) ivan_fyodorovitch_karamazov_b - 0.8859991499186085
+
+32) yulia_b - 0.8858789801597595
+
+33) pyotr_alexandrovitch_miüsov_b - 0.8838200832551747
+
+34) dmitri_fyodorovitch_karamazov_b - 0.8821487426757812
+
+35) lyagavy_b - 0.8755350708961487
+
+36) church_of_christ_b - 0.8751906156539917
+
+37) father_zossima_b - 0.8744906187057495
+
+38) karl_bernard_b - 0.8660872836735038
+
+39) varvara_b - 0.8657792726623594
+
+40) tchermashnya_b - 0.8558875577416292
+
+41) mokroe_b - 0.8411545909483399
+
+42) lizaveta_b - 0.7656725188688936
+
+43) von_sohn_b - 0.7270636991896463
+
+Result for the vector: fyodor_pavlovitch_karamazov, coming from part a of the book
+Rank: 4 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9656477611484813
+
+1) mihail_makarovitch_b - 0.9705825754826533
+
+2) kolya_krassotkin_b - 0.9672256151168805
+
+3) grigory_vassilyevitch_b - 0.9666565696410454
+
+4) fyodor_pavlovitch_karamazov_b - 0.9656477611484813
+
+5) ilusha_b - 0.9644984645249289
+
+6) smerdyakov_b - 0.9635860302201682
+
+7) mr_rakitin_b - 0.9603046798524468
+
+8) smurov_b - 0.9562149669995941
+
+9) maximov_b - 0.9559039784698531
+
+10) nikolay_parfenovitch_nelyudov_b - 0.9558330204586392
+
+11) pyotr_fomitch_kalganov_b - 0.9526680764355568
+
+12) snegiryov_b - 0.952274915711592
+
+13) katerina_ivanovna_b - 0.9480294240739633
+
+14) madame_hohlakov_b - 0.945636812112523
+
+15) fenya_b - 0.9437913298606939
+
+16) mitya_chapter_i_kuzma_samsonov_b - 0.9417570302776063
+
+17) alyosha_karamazov_b - 0.9415404796600408
+
+18) marya_kondratyevna_b - 0.9389071573781106
+
+19) katya_b - 0.9377177953720159
+
+20) grushenka_b - 0.9343290964168866
+
+21) lise_b - 0.9290837091753673
+
+22) herzenstube_b - 0.9252362802765685
+
+23) agrafena_alexandrovna_b - 0.9237637565276784
+
+24) marfa_ignatyevna_b - 0.9204096245521547
+
+25) misha_b - 0.9162124495253027
+
+26) nina_b - 0.9055863022804325
+
+27) agafya_ivanovna_b - 0.9003644763771652
+
+28) alexey_fyodorovitch_karamazov_b - 0.8970295848232771
+
+29) timofey_b - 0.8893968462944094
+
+30) pyotr_ilyitch_perhotin_b - 0.8884955115022967
+
+31) dmitri_fyodorovitch_karamazov_b - 0.8723077254111946
+
+32) pyotr_alexandrovitch_miüsov_b - 0.8706940153034359
+
+33) yulia_b - 0.8687464673074221
+
+34) church_of_christ_b - 0.8649391612446824
+
+35) lyagavy_b - 0.8636455021115853
+
+36) ivan_fyodorovitch_karamazov_b - 0.861272291985477
+
+37) father_zossima_b - 0.8592236125931986
+
+38) varvara_b - 0.856854021549231
+
+39) karl_bernard_b - 0.8531406863587925
+
+40) tchermashnya_b - 0.8435508953466778
+
+41) mokroe_b - 0.8403880846616149
+
+42) lizaveta_b - 0.7668946067220441
+
+43) von_sohn_b - 0.7140495777130178
+
+Result for the vector: grushenka, coming from part a of the book
+Rank: 5 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9734505383313413
+
+1) lise_b - 0.9837028364781016
+
+2) katya_b - 0.9811816777911819
+
+3) katerina_ivanovna_b - 0.9797069077897723
+
+4) fenya_b - 0.9782138427878354
+
+5) grushenka_b - 0.9734505383313413
+
+6) madame_hohlakov_b - 0.9696239196805927
+
+7) agrafena_alexandrovna_b - 0.967908378590159
+
+8) ilusha_b - 0.9671820382584511
+
+9) mr_rakitin_b - 0.9662603099656544
+
+10) marya_kondratyevna_b - 0.9655747413635528
+
+11) maximov_b - 0.9647333867450674
+
+12) pyotr_fomitch_kalganov_b - 0.9627574660037591
+
+13) smerdyakov_b - 0.9621982484336492
+
+14) smurov_b - 0.9602101993811436
+
+15) marfa_ignatyevna_b - 0.9599673700293812
+
+16) grigory_vassilyevitch_b - 0.9598463153747662
+
+17) nikolay_parfenovitch_nelyudov_b - 0.9574928233018971
+
+18) fyodor_pavlovitch_karamazov_b - 0.9555855366936798
+
+19) alyosha_karamazov_b - 0.9507698328679518
+
+20) nina_b - 0.9496560602765208
+
+21) agafya_ivanovna_b - 0.9484675526619227
+
+22) mitya_chapter_i_kuzma_samsonov_b - 0.9468652574339814
+
+23) mihail_makarovitch_b - 0.9468404869497585
+
+24) kolya_krassotkin_b - 0.9369741640671739
+
+25) misha_b - 0.9341517051548931
+
+26) snegiryov_b - 0.9300841522417431
+
+27) timofey_b - 0.917534634626146
+
+28) yulia_b - 0.9068473466452838
+
+29) alexey_fyodorovitch_karamazov_b - 0.905922520866701
+
+30) lyagavy_b - 0.904146600263912
+
+31) church_of_christ_b - 0.8956960315342051
+
+32) pyotr_ilyitch_perhotin_b - 0.8896373378798236
+
+33) herzenstube_b - 0.8863610354330624
+
+34) tchermashnya_b - 0.8804829240564924
+
+35) father_zossima_b - 0.8717543925946288
+
+36) varvara_b - 0.8640328998624519
+
+37) pyotr_alexandrovitch_miüsov_b - 0.8639084195954267
+
+38) ivan_fyodorovitch_karamazov_b - 0.8634778775857752
+
+39) dmitri_fyodorovitch_karamazov_b - 0.8633224801209607
+
+40) mokroe_b - 0.86204731566701
+
+41) karl_bernard_b - 0.8554535590788099
+
+42) lizaveta_b - 0.7785894738787223
+
+43) von_sohn_b - 0.7238873941697004
+
+Result for the vector: kolya_krassotkin, coming from part a of the book
+Rank: 21 out of 43 characters
+Cosine similarity to the co-referring vector: 0.89437760181694
+
+1) smerdyakov_b - 0.9319428760971502
+
+2) ilusha_b - 0.9261665432254621
+
+3) grigory_vassilyevitch_b - 0.9246288627828523
+
+4) pyotr_fomitch_kalganov_b - 0.91972453359073
+
+5) maximov_b - 0.9186413014340049
+
+6) alyosha_karamazov_b - 0.9157465696334904
+
+7) snegiryov_b - 0.9150331565757633
+
+8) fyodor_pavlovitch_karamazov_b - 0.9138210518573461
+
+9) mr_rakitin_b - 0.9134939364496524
+
+10) smurov_b - 0.9130715779619485
+
+11) katerina_ivanovna_b - 0.9072552538444526
+
+12) katya_b - 0.9049410223960941
+
+13) nikolay_parfenovitch_nelyudov_b - 0.9047902879243933
+
+14) lise_b - 0.9014508186906104
+
+15) grushenka_b - 0.9011306225579622
+
+16) madame_hohlakov_b - 0.9004033863304043
+
+17) marya_kondratyevna_b - 0.9000572740929249
+
+18) mihail_makarovitch_b - 0.899079176811008
+
+19) mitya_chapter_i_kuzma_samsonov_b - 0.8958212857459443
+
+20) fenya_b - 0.895127356052405
+
+21) kolya_krassotkin_b - 0.89437760181694
+
+22) timofey_b - 0.8872959613800112
+
+23) misha_b - 0.8773861673610011
+
+24) marfa_ignatyevna_b - 0.8770338966230231
+
+25) agrafena_alexandrovna_b - 0.8762162401547304
+
+26) herzenstube_b - 0.8695623200871082
+
+27) nina_b - 0.8682899475097718
+
+28) agafya_ivanovna_b - 0.8642130140877357
+
+29) karl_bernard_b - 0.8617484312728549
+
+30) alexey_fyodorovitch_karamazov_b - 0.8416069244380653
+
+31) pyotr_ilyitch_perhotin_b - 0.8299923044447732
+
+32) father_zossima_b - 0.8296232325063224
+
+33) yulia_b - 0.8254065617676654
+
+34) church_of_christ_b - 0.8210334288457987
+
+35) lizaveta_b - 0.8142801148557526
+
+36) lyagavy_b - 0.8094900960034089
+
+37) dmitri_fyodorovitch_karamazov_b - 0.8064698096233734
+
+38) tchermashnya_b - 0.8040733693816285
+
+39) ivan_fyodorovitch_karamazov_b - 0.80039455885952
+
+40) pyotr_alexandrovitch_miüsov_b - 0.7991435885684645
+
+41) mokroe_b - 0.7960989712506314
+
+42) varvara_b - 0.76702362298966
+
+43) von_sohn_b - 0.7347091436386161
+
+Result for the vector: katerina_ivanovna, coming from part a of the book
+Rank: 3 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9790473542894232
+
+1) lise_b - 0.9805406624239885
+
+2) fenya_b - 0.9804556054284225
+
+3) katerina_ivanovna_b - 0.9790473542894232
+
+4) katya_b - 0.9787084739245604
+
+5) madame_hohlakov_b - 0.9772911363032804
+
+6) grushenka_b - 0.9756348423849004
+
+7) ilusha_b - 0.9687602827322438
+
+8) maximov_b - 0.9682047944190976
+
+9) pyotr_fomitch_kalganov_b - 0.9667080352691441
+
+10) marya_kondratyevna_b - 0.9652169079884778
+
+11) mr_rakitin_b - 0.965046136529629
+
+12) smerdyakov_b - 0.9625429753278197
+
+13) fyodor_pavlovitch_karamazov_b - 0.9611162852908326
+
+14) smurov_b - 0.9606641817290842
+
+15) agrafena_alexandrovna_b - 0.9601118254694891
+
+16) nikolay_parfenovitch_nelyudov_b - 0.9597608137059459
+
+17) grigory_vassilyevitch_b - 0.9595584583414098
+
+18) marfa_ignatyevna_b - 0.9564481066598928
+
+19) nina_b - 0.9537909287623405
+
+20) mitya_chapter_i_kuzma_samsonov_b - 0.9537291838607473
+
+21) mihail_makarovitch_b - 0.9517931909437889
+
+22) alyosha_karamazov_b - 0.9509162560924524
+
+23) kolya_krassotkin_b - 0.9427482800856782
+
+24) agafya_ivanovna_b - 0.9427409521275012
+
+25) snegiryov_b - 0.9367187226889652
+
+26) misha_b - 0.931655856023558
+
+27) lyagavy_b - 0.901607063460561
+
+28) church_of_christ_b - 0.9008602768439141
+
+29) timofey_b - 0.9008172363773501
+
+30) alexey_fyodorovitch_karamazov_b - 0.8983601003396545
+
+31) yulia_b - 0.8982122212115596
+
+32) pyotr_ilyitch_perhotin_b - 0.8909663227488499
+
+33) tchermashnya_b - 0.8890234761848137
+
+34) herzenstube_b - 0.8889991773663761
+
+35) mokroe_b - 0.8807023621442766
+
+36) father_zossima_b - 0.8729694745829548
+
+37) karl_bernard_b - 0.863186768483327
+
+38) varvara_b - 0.8609348113180532
+
+39) pyotr_alexandrovitch_miüsov_b - 0.8582140718826098
+
+40) ivan_fyodorovitch_karamazov_b - 0.8579530460252485
+
+41) dmitri_fyodorovitch_karamazov_b - 0.8537633077431714
+
+42) lizaveta_b - 0.782074487743545
+
+43) von_sohn_b - 0.7248257450603618
+
+Result for the vector: grigory_vassilyevitch, coming from part a of the book
+Rank: 2 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9745836273083927
+
+1) kolya_krassotkin_b - 0.9804207098233294
+
+2) grigory_vassilyevitch_b - 0.9745836273083927
+
+3) mihail_makarovitch_b - 0.97197154080783
+
+4) mr_rakitin_b - 0.9672379493713379
+
+5) smurov_b - 0.9666940569877625
+
+6) maximov_b - 0.9654212881750257
+
+7) ilusha_b - 0.965224029706478
+
+8) pyotr_fomitch_kalganov_b - 0.964341225365329
+
+9) nikolay_parfenovitch_nelyudov_b - 0.9631240963935852
+
+10) smerdyakov_b - 0.9605246735244668
+
+11) snegiryov_b - 0.9596380543277396
+
+12) mitya_chapter_i_kuzma_samsonov_b - 0.9595794105780493
+
+13) fenya_b - 0.9550687643926616
+
+14) fyodor_pavlovitch_karamazov_b - 0.9548810151290306
+
+15) katya_b - 0.9490080445413633
+
+16) marya_kondratyevna_b - 0.9466602865862572
+
+17) madame_hohlakov_b - 0.9449090957641602
+
+18) katerina_ivanovna_b - 0.9435345744393236
+
+19) marfa_ignatyevna_b - 0.9423407316207886
+
+20) grushenka_b - 0.9420314431190491
+
+21) lise_b - 0.9366371631622314
+
+22) alyosha_karamazov_b - 0.934921797211279
+
+23) nina_b - 0.9274244265213284
+
+24) agrafena_alexandrovna_b - 0.922644317150116
+
+25) misha_b - 0.9223294900459371
+
+26) herzenstube_b - 0.9144909279931763
+
+27) timofey_b - 0.9108845538428176
+
+28) agafya_ivanovna_b - 0.9086968411568657
+
+29) alexey_fyodorovitch_karamazov_b - 0.8781153559684753
+
+30) pyotr_ilyitch_perhotin_b - 0.8774740099906921
+
+31) yulia_b - 0.8669614195823669
+
+32) church_of_christ_b - 0.85471510887146
+
+33) varvara_b - 0.8537280472354932
+
+34) lyagavy_b - 0.85224449634552
+
+35) father_zossima_b - 0.8507730960845947
+
+36) pyotr_alexandrovitch_miüsov_b - 0.849378909152118
+
+37) dmitri_fyodorovitch_karamazov_b - 0.8493094444274902
+
+38) karl_bernard_b - 0.8429417265338224
+
+39) ivan_fyodorovitch_karamazov_b - 0.8386753893688104
+
+40) tchermashnya_b - 0.8240406758797374
+
+41) mokroe_b - 0.8191049831305461
+
+42) lizaveta_b - 0.7512018232821345
+
+43) von_sohn_b - 0.695337933024046
+
+Result for the vector: mr_rakitin, coming from part a of the book
+Rank: 6 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9712439792606861
+
+1) pyotr_fomitch_kalganov_b - 0.9819290063465826
+
+2) smurov_b - 0.9802531611768525
+
+3) maximov_b - 0.9783017343788861
+
+4) nikolay_parfenovitch_nelyudov_b - 0.978186608661021
+
+5) grigory_vassilyevitch_b - 0.9739433558054739
+
+6) mr_rakitin_b - 0.9712439792606861
+
+7) mitya_chapter_i_kuzma_samsonov_b - 0.9705907141458137
+
+8) mihail_makarovitch_b - 0.9698404976773153
+
+9) ilusha_b - 0.9682487287224855
+
+10) grushenka_b - 0.9668940921488962
+
+11) kolya_krassotkin_b - 0.9662368337825735
+
+12) smerdyakov_b - 0.9655812362183032
+
+13) fenya_b - 0.9654839038848946
+
+14) snegiryov_b - 0.9608466601876567
+
+15) fyodor_pavlovitch_karamazov_b - 0.9580264141528113
+
+16) katya_b - 0.9579377174377509
+
+17) katerina_ivanovna_b - 0.9547583718382064
+
+18) madame_hohlakov_b - 0.9525554804470866
+
+19) alyosha_karamazov_b - 0.9524292349815436
+
+20) marya_kondratyevna_b - 0.9507851092603624
+
+21) lise_b - 0.9488964707317089
+
+22) agrafena_alexandrovna_b - 0.9418868457146395
+
+23) misha_b - 0.9412490199507451
+
+24) marfa_ignatyevna_b - 0.9364112057440771
+
+25) nina_b - 0.9336397647857733
+
+26) agafya_ivanovna_b - 0.9243835942059305
+
+27) herzenstube_b - 0.9142850586345973
+
+28) timofey_b - 0.9048633575439518
+
+29) pyotr_ilyitch_perhotin_b - 0.9019016085921775
+
+30) alexey_fyodorovitch_karamazov_b - 0.8945801916968724
+
+31) yulia_b - 0.8792185259331167
+
+32) pyotr_alexandrovitch_miüsov_b - 0.8706004956185704
+
+33) lyagavy_b - 0.8649608573340875
+
+34) dmitri_fyodorovitch_karamazov_b - 0.8606273614986338
+
+35) ivan_fyodorovitch_karamazov_b - 0.8584193756080418
+
+36) varvara_b - 0.8550586700439514
+
+37) church_of_christ_b - 0.8537233559058112
+
+38) father_zossima_b - 0.8515069573219459
+
+39) karl_bernard_b - 0.8508714183905332
+
+40) tchermashnya_b - 0.8388457644329771
+
+41) mokroe_b - 0.8284616121191358
+
+42) lizaveta_b - 0.7587353278714027
+
+43) von_sohn_b - 0.7064709663391163
+
+Result for the vector: alexey_fyodorovitch_karamazov, coming from part a of the book
+Rank: 1 out of 43 characters
+Cosine similarity to the co-referring vector: 0.982183574568248
+
+1) alexey_fyodorovitch_karamazov_b - 0.982183574568248
+
+2) dmitri_fyodorovitch_karamazov_b - 0.9705653769114856
+
+3) alyosha_karamazov_b - 0.9502631366566583
+
+4) pyotr_alexandrovitch_miüsov_b - 0.9406718260650483
+
+5) ivan_fyodorovitch_karamazov_b - 0.9371199607849188
+
+6) agrafena_alexandrovna_b - 0.9272509769946936
+
+7) pyotr_ilyitch_perhotin_b - 0.9261571720932245
+
+8) smerdyakov_b - 0.9256588683710475
+
+9) katya_b - 0.9255142719166602
+
+10) smurov_b - 0.9227828337420738
+
+11) maximov_b - 0.9224798312020155
+
+12) nikolay_parfenovitch_nelyudov_b - 0.9221374346099771
+
+13) mihail_makarovitch_b - 0.9212200869220577
+
+14) lise_b - 0.9209708524328994
+
+15) misha_b - 0.9204215407371586
+
+16) katerina_ivanovna_b - 0.9194594155614386
+
+17) pyotr_fomitch_kalganov_b - 0.9184687733650273
+
+18) marya_kondratyevna_b - 0.9168555786099831
+
+19) grushenka_b - 0.9143652864912339
+
+20) agafya_ivanovna_b - 0.9127612761997562
+
+21) fenya_b - 0.9121733203140879
+
+22) mr_rakitin_b - 0.9113910741443099
+
+23) fyodor_pavlovitch_karamazov_b - 0.9091317057609622
+
+24) grigory_vassilyevitch_b - 0.90800845623017
+
+25) ilusha_b - 0.9076324701309268
+
+26) madame_hohlakov_b - 0.9058143440374357
+
+27) mitya_chapter_i_kuzma_samsonov_b - 0.8983038663864199
+
+28) marfa_ignatyevna_b - 0.8902310663599428
+
+29) nina_b - 0.8901900518167081
+
+30) snegiryov_b - 0.8861005102575753
+
+31) yulia_b - 0.8725199623417847
+
+32) kolya_krassotkin_b - 0.871527433395392
+
+33) father_zossima_b - 0.864020339490197
+
+34) herzenstube_b - 0.8616432300168106
+
+35) karl_bernard_b - 0.8565811684651231
+
+36) varvara_b - 0.8458412105847848
+
+37) church_of_christ_b - 0.8321519394011476
+
+38) timofey_b - 0.8294417058756001
+
+39) lyagavy_b - 0.8226717008752659
+
+40) tchermashnya_b - 0.8167582884512805
+
+41) mokroe_b - 0.8016029598717336
+
+42) lizaveta_b - 0.7743416428566035
+
+43) von_sohn_b - 0.7572523662152727
+
+Result for the vector: lise, coming from part a of the book
+Rank: 2 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9777452349662781
+
+1) katya_b - 0.9796327340383985
+
+2) lise_b - 0.9777452349662781
+
+3) fenya_b - 0.9771944270845924
+
+4) grushenka_b - 0.9751343727111816
+
+5) marya_kondratyevna_b - 0.9671135583980679
+
+6) agrafena_alexandrovna_b - 0.9659905433654785
+
+7) katerina_ivanovna_b - 0.9652740009537448
+
+8) maximov_b - 0.9621956039129382
+
+9) nina_b - 0.9609384513460684
+
+10) pyotr_fomitch_kalganov_b - 0.9608593606436651
+
+11) madame_hohlakov_b - 0.9599159955978394
+
+12) marfa_ignatyevna_b - 0.9586281776428223
+
+13) smurov_b - 0.9575710296630859
+
+14) agafya_ivanovna_b - 0.9555274301138671
+
+15) mr_rakitin_b - 0.9553472995758057
+
+16) nikolay_parfenovitch_nelyudov_b - 0.9549631476402283
+
+17) alyosha_karamazov_b - 0.9547066661540684
+
+18) mitya_chapter_i_kuzma_samsonov_b - 0.9496540457216491
+
+19) ilusha_b - 0.949118676834187
+
+20) smerdyakov_b - 0.9482228694227846
+
+21) misha_b - 0.9450545343724187
+
+22) grigory_vassilyevitch_b - 0.9431723986165302
+
+23) mihail_makarovitch_b - 0.941485373422068
+
+24) fyodor_pavlovitch_karamazov_b - 0.9360491075486493
+
+25) snegiryov_b - 0.9227124360457052
+
+26) kolya_krassotkin_b - 0.9223965452673126
+
+27) alexey_fyodorovitch_karamazov_b - 0.914452850818634
+
+28) pyotr_ilyitch_perhotin_b - 0.9064493179321289
+
+29) yulia_b - 0.8971927165985107
+
+30) church_of_christ_b - 0.883239209651947
+
+31) timofey_b - 0.8816372681639966
+
+32) ivan_fyodorovitch_karamazov_b - 0.8785277677459871
+
+33) lyagavy_b - 0.8775240182876587
+
+34) herzenstube_b - 0.8730228987959565
+
+35) pyotr_alexandrovitch_miüsov_b - 0.8725044391305581
+
+36) dmitri_fyodorovitch_karamazov_b - 0.8685595989227295
+
+37) father_zossima_b - 0.867948591709137
+
+38) varvara_b - 0.8671812335956848
+
+39) karl_bernard_b - 0.8515830293769551
+
+40) tchermashnya_b - 0.8504638925332995
+
+41) mokroe_b - 0.8355539592105743
+
+42) lizaveta_b - 0.7783091200405897
+
+43) von_sohn_b - 0.7235391571247088
+
+Result for the vector: nikolay_parfenovitch_nelyudov, coming from part a of the book
+Rank: 9 out of 43 characters
+Cosine similarity to the co-referring vector: 0.7808744180723691
+
+1) dmitri_fyodorovitch_karamazov_b - 0.9181976269601377
+
+2) pyotr_alexandrovitch_miüsov_b - 0.9167936667913501
+
+3) alexey_fyodorovitch_karamazov_b - 0.8851725390656331
+
+4) ivan_fyodorovitch_karamazov_b - 0.8655487298965515
+
+5) pyotr_ilyitch_perhotin_b - 0.8322387833737617
+
+6) alyosha_karamazov_b - 0.8105734956948156
+
+7) mihail_makarovitch_b - 0.7976290700700052
+
+8) agrafena_alexandrovna_b - 0.7930114145881795
+
+9) nikolay_parfenovitch_nelyudov_b - 0.7808744180723691
+
+10) smurov_b - 0.7786433564807999
+
+11) maximov_b - 0.7746992207794688
+
+12) smerdyakov_b - 0.774102468628134
+
+13) varvara_b - 0.7736627785757516
+
+14) fyodor_pavlovitch_karamazov_b - 0.7736406922340449
+
+15) katerina_ivanovna_b - 0.7727555456545628
+
+16) pyotr_fomitch_kalganov_b - 0.7713800668716485
+
+17) marya_kondratyevna_b - 0.7704865473218954
+
+18) misha_b - 0.7687647342681939
+
+19) katya_b - 0.7671449502879322
+
+20) mr_rakitin_b - 0.7658011773706198
+
+21) fenya_b - 0.7657180149219054
+
+22) grushenka_b - 0.7630539395245292
+
+23) grigory_vassilyevitch_b - 0.759044468402868
+
+24) lise_b - 0.7589225029303148
+
+25) ilusha_b - 0.7584677338600213
+
+26) madame_hohlakov_b - 0.757711932522771
+
+27) herzenstube_b - 0.7497385292777783
+
+28) agafya_ivanovna_b - 0.749053970035686
+
+29) mitya_chapter_i_kuzma_samsonov_b - 0.7427244782447868
+
+30) snegiryov_b - 0.7426369922108054
+
+31) nina_b - 0.7364248319178619
+
+32) marfa_ignatyevna_b - 0.7334760268614321
+
+33) kolya_krassotkin_b - 0.7310811281204276
+
+34) yulia_b - 0.7303451138940534
+
+35) father_zossima_b - 0.7215970588682342
+
+36) timofey_b - 0.7029671910962094
+
+37) karl_bernard_b - 0.6947829152449595
+
+38) lyagavy_b - 0.6930548961791346
+
+39) von_sohn_b - 0.6892162786980007
+
+40) church_of_christ_b - 0.6863480023353113
+
+41) mokroe_b - 0.6810028971735983
+
+42) tchermashnya_b - 0.6808547390271493
+
+43) lizaveta_b - 0.6248893737793013
+
+Result for the vector: pyotr_alexandrovitch_miüsov, coming from part a of the book
+Rank: 35 out of 43 characters
+Cosine similarity to the co-referring vector: 0.8732259088850796
+
+1) nikolay_parfenovitch_nelyudov_b - 0.9823870083824456
+
+2) pyotr_fomitch_kalganov_b - 0.9816871318184515
+
+3) smurov_b - 0.9805825971862627
+
+4) maximov_b - 0.9803942757492524
+
+5) mitya_chapter_i_kuzma_samsonov_b - 0.9763562125522728
+
+6) mr_rakitin_b - 0.9760174183824825
+
+7) grigory_vassilyevitch_b - 0.9735608744214419
+
+8) smerdyakov_b - 0.9714263081550875
+
+9) ilusha_b - 0.9690384324124296
+
+10) grushenka_b - 0.968019608495289
+
+11) mihail_makarovitch_b - 0.9670547574411656
+
+12) katya_b - 0.9670130630127904
+
+13) alyosha_karamazov_b - 0.965003254115403
+
+14) kolya_krassotkin_b - 0.9624858565653837
+
+15) fenya_b - 0.9623690866012079
+
+16) snegiryov_b - 0.9604774713516508
+
+17) fyodor_pavlovitch_karamazov_b - 0.9588215424737573
+
+18) madame_hohlakov_b - 0.9581162383417867
+
+19) lise_b - 0.9557920747051218
+
+20) katerina_ivanovna_b - 0.9556097077015299
+
+21) marya_kondratyevna_b - 0.9554372536093584
+
+22) misha_b - 0.9515757647319277
+
+23) marfa_ignatyevna_b - 0.9459825818559497
+
+24) nina_b - 0.941577676440631
+
+25) agafya_ivanovna_b - 0.9413058897719646
+
+26) agrafena_alexandrovna_b - 0.9388036204810661
+
+27) herzenstube_b - 0.9155967831611893
+
+28) pyotr_ilyitch_perhotin_b - 0.9155715804610818
+
+29) alexey_fyodorovitch_karamazov_b - 0.9083402862143239
+
+30) timofey_b - 0.8989275158091024
+
+31) yulia_b - 0.8854186075426871
+
+32) karl_bernard_b - 0.8791986513854376
+
+33) ivan_fyodorovitch_karamazov_b - 0.8776464085019112
+
+34) church_of_christ_b - 0.873536899860281
+
+35) pyotr_alexandrovitch_miüsov_b - 0.8732259088850796
+
+36) dmitri_fyodorovitch_karamazov_b - 0.8730800303125408
+
+37) father_zossima_b - 0.8682366170601171
+
+38) lyagavy_b - 0.8633746071607404
+
+39) varvara_b - 0.8498058408614628
+
+40) tchermashnya_b - 0.8474706845756848
+
+41) mokroe_b - 0.8340433587419167
+
+42) lizaveta_b - 0.7849672225176308
+
+43) von_sohn_b - 0.729744152441981
+
+Result for the vector: ilusha, coming from part a of the book
+Rank: 5 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9583443428072742
+
+1) katya_b - 0.9612892843061276
+
+2) lise_b - 0.9612835645675659
+
+3) alyosha_karamazov_b - 0.9602325534959186
+
+4) smerdyakov_b - 0.9600242924719273
+
+5) ilusha_b - 0.9583443428072742
+
+6) maximov_b - 0.9563094662520134
+
+7) smurov_b - 0.9550927877426147
+
+8) pyotr_fomitch_kalganov_b - 0.953506889730283
+
+9) grigory_vassilyevitch_b - 0.9534848360130306
+
+10) mr_rakitin_b - 0.9516388773918152
+
+11) katerina_ivanovna_b - 0.9495657905289324
+
+12) grushenka_b - 0.9488465785980225
+
+13) nikolay_parfenovitch_nelyudov_b - 0.9485141038894653
+
+14) fyodor_pavlovitch_karamazov_b - 0.9448290500146733
+
+15) marya_kondratyevna_b - 0.9422789880896888
+
+16) mitya_chapter_i_kuzma_samsonov_b - 0.942053202268292
+
+17) fenya_b - 0.9414820636202151
+
+18) madame_hohlakov_b - 0.9413458108901978
+
+19) misha_b - 0.9396500623434761
+
+20) mihail_makarovitch_b - 0.9347112457368153
+
+21) snegiryov_b - 0.9297631895259911
+
+22) agrafena_alexandrovna_b - 0.929068922996521
+
+23) agafya_ivanovna_b - 0.9277899947416854
+
+24) marfa_ignatyevna_b - 0.9240740537643433
+
+25) nina_b - 0.9190370392225424
+
+26) kolya_krassotkin_b - 0.9177237798140196
+
+27) alexey_fyodorovitch_karamazov_b - 0.908324122428894
+
+28) timofey_b - 0.9055015388430098
+
+29) pyotr_ilyitch_perhotin_b - 0.8918248414993286
+
+30) father_zossima_b - 0.8912272453308105
+
+31) church_of_christ_b - 0.8910285234451294
+
+32) yulia_b - 0.8847280144691467
+
+33) karl_bernard_b - 0.8822483087256051
+
+34) herzenstube_b - 0.8731160012621944
+
+35) lyagavy_b - 0.8705502152442932
+
+36) dmitri_fyodorovitch_karamazov_b - 0.8654047250747681
+
+37) ivan_fyodorovitch_karamazov_b - 0.8643222532080276
+
+38) pyotr_alexandrovitch_miüsov_b - 0.8587224739409234
+
+39) tchermashnya_b - 0.857681896021423
+
+40) mokroe_b - 0.8445075909353162
+
+41) lizaveta_b - 0.8263583286787091
+
+42) varvara_b - 0.8096543437036495
+
+43) von_sohn_b - 0.7595828628291419
+
+Result for the vector: father_zossima, coming from part a of the book
+Rank: 1 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9481088550025925
+
+1) father_zossima_b - 0.9481088550025925
+
+2) ilusha_b - 0.9188401795816208
+
+3) mihail_makarovitch_b - 0.918511005684409
+
+4) smerdyakov_b - 0.9174462507633266
+
+5) mr_rakitin_b - 0.914527600137736
+
+6) grigory_vassilyevitch_b - 0.9135831697484053
+
+7) fyodor_pavlovitch_karamazov_b - 0.9132803185844042
+
+8) maximov_b - 0.91215989255429
+
+9) alyosha_karamazov_b - 0.9096725583076541
+
+10) smurov_b - 0.9087510759382815
+
+11) nikolay_parfenovitch_nelyudov_b - 0.9080217535482809
+
+12) katerina_ivanovna_b - 0.907410106725424
+
+13) katya_b - 0.9071038961410587
+
+14) lise_b - 0.9052189048994256
+
+15) madame_hohlakov_b - 0.9047964868070805
+
+16) pyotr_fomitch_kalganov_b - 0.9018499968230728
+
+17) fenya_b - 0.8994198441505497
+
+18) marya_kondratyevna_b - 0.8992939175437852
+
+19) grushenka_b - 0.8983296216529849
+
+20) kolya_krassotkin_b - 0.8958981161239009
+
+21) mitya_chapter_i_kuzma_samsonov_b - 0.8942541606123255
+
+22) agrafena_alexandrovna_b - 0.8941374484218704
+
+23) agafya_ivanovna_b - 0.8902266817879666
+
+24) church_of_christ_b - 0.8881053991254942
+
+25) snegiryov_b - 0.8873374991022192
+
+26) alexey_fyodorovitch_karamazov_b - 0.8855372139491328
+
+27) misha_b - 0.8838317532739933
+
+28) marfa_ignatyevna_b - 0.8836808273982524
+
+29) karl_bernard_b - 0.8791835046057884
+
+30) nina_b - 0.8777902722358766
+
+31) herzenstube_b - 0.8673444311228194
+
+32) pyotr_ilyitch_perhotin_b - 0.8583741868511342
+
+33) dmitri_fyodorovitch_karamazov_b - 0.8522979705156121
+
+34) pyotr_alexandrovitch_miüsov_b - 0.8495985612392888
+
+35) lyagavy_b - 0.8446964714112016
+
+36) ivan_fyodorovitch_karamazov_b - 0.838973183754303
+
+37) yulia_b - 0.8340018490551815
+
+38) timofey_b - 0.8306294679641782
+
+39) mokroe_b - 0.8221323735157454
+
+40) tchermashnya_b - 0.818981325060689
+
+41) varvara_b - 0.8104482889175473
+
+42) lizaveta_b - 0.7738484413804482
+
+43) von_sohn_b - 0.7208340167999319
+
+Result for the vector: pyotr_ilyitch_perhotin, coming from part a of the book
+Rank: 2 out of 43 characters
+Cosine similarity to the co-referring vector: 0.8484116286986111
+
+1) ivan_fyodorovitch_karamazov_b - 0.863392548156673
+
+2) pyotr_ilyitch_perhotin_b - 0.8484116286986111
+
+3) alexey_fyodorovitch_karamazov_b - 0.8241741762057453
+
+4) alyosha_karamazov_b - 0.8176907300949154
+
+5) dmitri_fyodorovitch_karamazov_b - 0.8147829881439826
+
+6) pyotr_alexandrovitch_miüsov_b - 0.8133601899933791
+
+7) fyodor_pavlovitch_karamazov_b - 0.7995093107808457
+
+8) katerina_ivanovna_b - 0.794659089564617
+
+9) mihail_makarovitch_b - 0.7935169698739987
+
+10) smerdyakov_b - 0.7914115066177677
+
+11) mr_rakitin_b - 0.7873250968858556
+
+12) nikolay_parfenovitch_nelyudov_b - 0.7868789561463039
+
+13) ilusha_b - 0.7828739544303471
+
+14) smurov_b - 0.7824202905642827
+
+15) agrafena_alexandrovna_b - 0.779997421503222
+
+16) pyotr_fomitch_kalganov_b - 0.7793293262327521
+
+17) marya_kondratyevna_b - 0.7781957188494723
+
+18) grigory_vassilyevitch_b - 0.7773124245032758
+
+19) katya_b - 0.7766855955123957
+
+20) maximov_b - 0.7759856946472647
+
+21) grushenka_b - 0.7723472850115739
+
+22) madame_hohlakov_b - 0.771949006798924
+
+23) lise_b - 0.7714809315514023
+
+24) misha_b - 0.7688130415900896
+
+25) fenya_b - 0.7680222988128717
+
+26) mitya_chapter_i_kuzma_samsonov_b - 0.7668686787046577
+
+27) herzenstube_b - 0.7657800773251225
+
+28) snegiryov_b - 0.757329389889812
+
+29) agafya_ivanovna_b - 0.7551305135851194
+
+30) kolya_krassotkin_b - 0.7525060471885148
+
+31) varvara_b - 0.7489795088768059
+
+32) marfa_ignatyevna_b - 0.745421305571718
+
+33) yulia_b - 0.739359334745448
+
+34) church_of_christ_b - 0.7288388771510806
+
+35) father_zossima_b - 0.7280374331452005
+
+36) nina_b - 0.7244184613227895
+
+37) timofey_b - 0.7195273637771658
+
+38) karl_bernard_b - 0.7178799296057274
+
+39) lyagavy_b - 0.7102542096224911
+
+40) tchermashnya_b - 0.7081469682411291
+
+41) mokroe_b - 0.6951344816426855
+
+42) von_sohn_b - 0.6522179841995286
+
+43) lizaveta_b - 0.6257784216668103
+
+Result for the vector: madame_hohlakov, coming from part a of the book
+Rank: 1 out of 43 characters
+Cosine similarity to the co-referring vector: 0.981198280489394
+
+1) madame_hohlakov_b - 0.981198280489394
+
+2) grushenka_b - 0.9802417451215315
+
+3) fenya_b - 0.9788467567128027
+
+4) maximov_b - 0.9729938490983158
+
+5) lise_b - 0.9728936246899855
+
+6) marya_kondratyevna_b - 0.9719474638747564
+
+7) katerina_ivanovna_b - 0.9714176007659983
+
+8) katya_b - 0.9685122044544408
+
+9) pyotr_fomitch_kalganov_b - 0.9673964688957829
+
+10) nikolay_parfenovitch_nelyudov_b - 0.9644433547390512
+
+11) smurov_b - 0.9586985396951007
+
+12) nina_b - 0.9583128355425156
+
+13) ilusha_b - 0.9576821041798003
+
+14) smerdyakov_b - 0.9576077100050056
+
+15) fyodor_pavlovitch_karamazov_b - 0.9562295986345568
+
+16) alyosha_karamazov_b - 0.9551838298306318
+
+17) marfa_ignatyevna_b - 0.9539017961592021
+
+18) agrafena_alexandrovna_b - 0.9519439027292703
+
+19) mr_rakitin_b - 0.950675396641356
+
+20) grigory_vassilyevitch_b - 0.9500978901953172
+
+21) mihail_makarovitch_b - 0.9488781064080063
+
+22) mitya_chapter_i_kuzma_samsonov_b - 0.9479793027645596
+
+23) agafya_ivanovna_b - 0.9386384840036898
+
+24) kolya_krassotkin_b - 0.9367744643457431
+
+25) snegiryov_b - 0.9357443654156313
+
+26) misha_b - 0.9288565239651084
+
+27) pyotr_ilyitch_perhotin_b - 0.9006992250889313
+
+28) herzenstube_b - 0.89373315777379
+
+29) alexey_fyodorovitch_karamazov_b - 0.8934214381403164
+
+30) timofey_b - 0.8854174213484608
+
+31) yulia_b - 0.8851768042199856
+
+32) lyagavy_b - 0.8742486499026019
+
+33) church_of_christ_b - 0.8690934440223412
+
+34) pyotr_alexandrovitch_miüsov_b - 0.8690358322284122
+
+35) ivan_fyodorovitch_karamazov_b - 0.8650406341242636
+
+36) varvara_b - 0.8646801291120172
+
+37) tchermashnya_b - 0.8633314885694676
+
+38) karl_bernard_b - 0.8621393956029055
+
+39) dmitri_fyodorovitch_karamazov_b - 0.8604247826464413
+
+40) father_zossima_b - 0.8534479395582661
+
+41) mokroe_b - 0.8472618874623656
+
+42) lizaveta_b - 0.8032328843106992
+
+43) von_sohn_b - 0.7355240644983114
+
+Result for the vector: katya, coming from part a of the book
+Rank: 4 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9545390551732844
+
+1) katerina_ivanovna_b - 0.9672902456233456
+
+2) lise_b - 0.959598062014466
+
+3) madame_hohlakov_b - 0.9547293755250814
+
+4) katya_b - 0.9545390551732844
+
+5) grushenka_b - 0.9525989861845383
+
+6) agrafena_alexandrovna_b - 0.9460486737518728
+
+7) fenya_b - 0.9433809451318914
+
+8) smerdyakov_b - 0.9423518077764184
+
+9) marya_kondratyevna_b - 0.940206173646097
+
+10) ilusha_b - 0.9397863745689459
+
+11) maximov_b - 0.9397471791279778
+
+12) alyosha_karamazov_b - 0.9387026356104178
+
+13) fyodor_pavlovitch_karamazov_b - 0.9362401366233892
+
+14) marfa_ignatyevna_b - 0.9314117390758853
+
+15) mr_rakitin_b - 0.9283174829672284
+
+16) pyotr_fomitch_kalganov_b - 0.9281720519065922
+
+17) smurov_b - 0.9269331054051597
+
+18) grigory_vassilyevitch_b - 0.9242500066757268
+
+19) nina_b - 0.9222636130170361
+
+20) nikolay_parfenovitch_nelyudov_b - 0.9164417932296884
+
+21) mihail_makarovitch_b - 0.9094946005488579
+
+22) agafya_ivanovna_b - 0.908885603613534
+
+23) mitya_chapter_i_kuzma_samsonov_b - 0.8988919854164188
+
+24) kolya_krassotkin_b - 0.8941586613655154
+
+25) snegiryov_b - 0.8915765687662204
+
+26) misha_b - 0.8871985673904482
+
+27) alexey_fyodorovitch_karamazov_b - 0.8823567558739651
+
+28) lyagavy_b - 0.8762280867235728
+
+29) church_of_christ_b - 0.8700545352729894
+
+30) timofey_b - 0.8691389404700923
+
+31) karl_bernard_b - 0.8682205857235721
+
+32) yulia_b - 0.8676648061075707
+
+33) father_zossima_b - 0.8638598241722494
+
+34) tchermashnya_b - 0.8637646612910628
+
+35) herzenstube_b - 0.8621825925438287
+
+36) pyotr_ilyitch_perhotin_b - 0.8557404193723467
+
+37) varvara_b - 0.8541315024055841
+
+38) dmitri_fyodorovitch_karamazov_b - 0.8358693621080748
+
+39) pyotr_alexandrovitch_miüsov_b - 0.833810642404316
+
+40) ivan_fyodorovitch_karamazov_b - 0.8328897953033506
+
+41) mokroe_b - 0.8238387143371577
+
+42) lizaveta_b - 0.8236973881721555
+
+43) von_sohn_b - 0.729369608088685
+
+Result for the vector: church_of_christ, coming from part a of the book
+Rank: 1 out of 43 characters
+Cosine similarity to the co-referring vector: 0.907368540763855
+
+1) church_of_christ_b - 0.907368540763855
+
+2) mr_rakitin_b - 0.8617323040962219
+
+3) father_zossima_b - 0.8578943014144897
+
+4) katya_b - 0.8537006290972623
+
+5) fyodor_pavlovitch_karamazov_b - 0.8513581841374541
+
+6) smerdyakov_b - 0.8510792673920772
+
+7) katerina_ivanovna_b - 0.8508853988178763
+
+8) grigory_vassilyevitch_b - 0.8485826940189202
+
+9) ilusha_b - 0.8473087044174267
+
+10) lise_b - 0.8465903997421265
+
+11) alyosha_karamazov_b - 0.8432921077783186
+
+12) madame_hohlakov_b - 0.8406779170036316
+
+13) fenya_b - 0.8389663600305548
+
+14) mihail_makarovitch_b - 0.8377266179837772
+
+15) grushenka_b - 0.8358243703842163
+
+16) maximov_b - 0.8353758107237763
+
+17) smurov_b - 0.8349916934967041
+
+18) nikolay_parfenovitch_nelyudov_b - 0.8336416482925415
+
+19) marya_kondratyevna_b - 0.8306595884967399
+
+20) agafya_ivanovna_b - 0.8290380443289286
+
+21) agrafena_alexandrovna_b - 0.828834593296051
+
+22) pyotr_fomitch_kalganov_b - 0.8282279474599408
+
+23) karl_bernard_b - 0.8274926193801353
+
+24) mitya_chapter_i_kuzma_samsonov_b - 0.8270950420442214
+
+25) kolya_krassotkin_b - 0.8163799156916206
+
+26) snegiryov_b - 0.8159815449692719
+
+27) marfa_ignatyevna_b - 0.8145272731781006
+
+28) misha_b - 0.8142459503265663
+
+29) lyagavy_b - 0.8103760480880737
+
+30) alexey_fyodorovitch_karamazov_b - 0.8100874423980713
+
+31) mokroe_b - 0.8063560253104026
+
+32) tchermashnya_b - 0.8049650432159023
+
+33) nina_b - 0.803166496942432
+
+34) herzenstube_b - 0.8008775473687166
+
+35) pyotr_ilyitch_perhotin_b - 0.7836470007896423
+
+36) yulia_b - 0.7774381637573242
+
+37) ivan_fyodorovitch_karamazov_b - 0.7690106171959284
+
+38) dmitri_fyodorovitch_karamazov_b - 0.7684899568557739
+
+39) pyotr_alexandrovitch_miüsov_b - 0.7678101291599911
+
+40) timofey_b - 0.764328823347619
+
+41) varvara_b - 0.7562050078037399
+
+42) lizaveta_b - 0.7172680069644459
+
+43) von_sohn_b - 0.6916217024100854
+
+Result for the vector: maximov, coming from part a of the book
+Rank: 4 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9564441727532204
+
+1) nikolay_parfenovitch_nelyudov_b - 0.9628470540046692
+
+2) smurov_b - 0.9616463780403137
+
+3) pyotr_fomitch_kalganov_b - 0.9612914942925295
+
+4) maximov_b - 0.9564441727532204
+
+5) grigory_vassilyevitch_b - 0.9549548056748642
+
+6) mitya_chapter_i_kuzma_samsonov_b - 0.9543371227778736
+
+7) mihail_makarovitch_b - 0.952795891547081
+
+8) mr_rakitin_b - 0.952739417552948
+
+9) ilusha_b - 0.9406907593792241
+
+10) smerdyakov_b - 0.9406852651459362
+
+11) misha_b - 0.9388509429186037
+
+12) fenya_b - 0.93781733142241
+
+13) grushenka_b - 0.9363740086555481
+
+14) alyosha_karamazov_b - 0.9363565407011848
+
+15) snegiryov_b - 0.9347062629111192
+
+16) kolya_krassotkin_b - 0.9341796079767001
+
+17) fyodor_pavlovitch_karamazov_b - 0.93294722241478
+
+18) katya_b - 0.9294556337270535
+
+19) marya_kondratyevna_b - 0.9283942069537459
+
+20) katerina_ivanovna_b - 0.9229029004131212
+
+21) agafya_ivanovna_b - 0.9179586269904885
+
+22) agrafena_alexandrovna_b - 0.9172458648681641
+
+23) lise_b - 0.9161500334739685
+
+24) madame_hohlakov_b - 0.9153786897659302
+
+25) pyotr_ilyitch_perhotin_b - 0.9127565622329712
+
+26) marfa_ignatyevna_b - 0.9089192152023315
+
+27) nina_b - 0.907662445763497
+
+28) alexey_fyodorovitch_karamazov_b - 0.9042931199073792
+
+29) herzenstube_b - 0.8957286352787839
+
+30) pyotr_alexandrovitch_miüsov_b - 0.8952176837687998
+
+31) dmitri_fyodorovitch_karamazov_b - 0.8833089470863342
+
+32) timofey_b - 0.8832901646667832
+
+33) ivan_fyodorovitch_karamazov_b - 0.8769199325490054
+
+34) yulia_b - 0.8619159460067749
+
+35) father_zossima_b - 0.8511936068534851
+
+36) church_of_christ_b - 0.8508926630020142
+
+37) karl_bernard_b - 0.8405946147619077
+
+38) lyagavy_b - 0.840327262878418
+
+39) varvara_b - 0.8302767771647455
+
+40) mokroe_b - 0.8184700147929833
+
+41) tchermashnya_b - 0.8157898430761652
+
+42) lizaveta_b - 0.7223678992767407
+
+43) von_sohn_b - 0.7106622881092017
+
+Result for the vector: pyotr_fomitch_kalganov, coming from part a of the book
+Rank: 4 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9239989609719561
+
+1) alyosha_karamazov_b - 0.9366000890731878
+
+2) maximov_b - 0.9355275948188463
+
+3) smerdyakov_b - 0.9256728247209235
+
+4) pyotr_fomitch_kalganov_b - 0.9239989609719561
+
+5) fyodor_pavlovitch_karamazov_b - 0.9204231595488597
+
+6) marya_kondratyevna_b - 0.9188566949027742
+
+7) madame_hohlakov_b - 0.9186614204250936
+
+8) grushenka_b - 0.9184780765486926
+
+9) nikolay_parfenovitch_nelyudov_b - 0.9163966824771967
+
+10) smurov_b - 0.914669459183846
+
+11) grigory_vassilyevitch_b - 0.9128370388940527
+
+12) pyotr_ilyitch_perhotin_b - 0.9121500306040047
+
+13) mihail_makarovitch_b - 0.9097652164171608
+
+14) katerina_ivanovna_b - 0.9079781390409195
+
+15) ilusha_b - 0.9079426040717835
+
+16) fenya_b - 0.9038760662078922
+
+17) snegiryov_b - 0.895659619311086
+
+18) mitya_chapter_i_kuzma_samsonov_b - 0.8951938277251926
+
+19) mr_rakitin_b - 0.8951830330381986
+
+20) katya_b - 0.8926442265510622
+
+21) lise_b - 0.8909322088401209
+
+22) nina_b - 0.8905975818634096
+
+23) misha_b - 0.8894350064474337
+
+24) marfa_ignatyevna_b - 0.8847190806437102
+
+25) alexey_fyodorovitch_karamazov_b - 0.8829685519356414
+
+26) agrafena_alexandrovna_b - 0.8819354246893287
+
+27) ivan_fyodorovitch_karamazov_b - 0.8807937048919553
+
+28) kolya_krassotkin_b - 0.8804142617685483
+
+29) herzenstube_b - 0.8796881961636801
+
+30) pyotr_alexandrovitch_miüsov_b - 0.8770177699024185
+
+31) karl_bernard_b - 0.8763254619739848
+
+32) agafya_ivanovna_b - 0.8757686241086813
+
+33) dmitri_fyodorovitch_karamazov_b - 0.8735179380465798
+
+34) father_zossima_b - 0.8344257572635572
+
+35) yulia_b - 0.8304011326789196
+
+36) timofey_b - 0.8262673020362913
+
+37) lizaveta_b - 0.823126933201917
+
+38) varvara_b - 0.8194572925567685
+
+39) church_of_christ_b - 0.8067060228165389
+
+40) tchermashnya_b - 0.7952072979448083
+
+41) lyagavy_b - 0.7924738650039529
+
+42) mokroe_b - 0.7775101893398308
+
+43) von_sohn_b - 0.7552288770675712
+
+Result for the vector: smurov, coming from part a of the book
+Rank: 4 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9096410924410185
+
+1) misha_b - 0.9166917304168068
+
+2) pyotr_fomitch_kalganov_b - 0.9148497086942543
+
+3) maximov_b - 0.9099820581083913
+
+4) smurov_b - 0.9096410924410185
+
+5) katya_b - 0.9076209068298404
+
+6) mitya_chapter_i_kuzma_samsonov_b - 0.9075864067570678
+
+7) grushenka_b - 0.9073048885282957
+
+8) agafya_ivanovna_b - 0.9040498309046349
+
+9) nikolay_parfenovitch_nelyudov_b - 0.9026081024045899
+
+10) alyosha_karamazov_b - 0.9005862474441593
+
+11) lise_b - 0.9003985583544653
+
+12) grigory_vassilyevitch_b - 0.8972628835126301
+
+13) mr_rakitin_b - 0.8967099847370411
+
+14) fenya_b - 0.8948373794555727
+
+15) smerdyakov_b - 0.8938005503297323
+
+16) ilusha_b - 0.8916849623101994
+
+17) marya_kondratyevna_b - 0.891159196288731
+
+18) katerina_ivanovna_b - 0.8865968781647469
+
+19) agrafena_alexandrovna_b - 0.8858075209970776
+
+20) fyodor_pavlovitch_karamazov_b - 0.8811235569568209
+
+21) mihail_makarovitch_b - 0.8766538835569094
+
+22) nina_b - 0.8741346001625123
+
+23) marfa_ignatyevna_b - 0.8713656740566702
+
+24) madame_hohlakov_b - 0.8706667500336931
+
+25) snegiryov_b - 0.8663517753095631
+
+26) alexey_fyodorovitch_karamazov_b - 0.862344273189053
+
+27) pyotr_ilyitch_perhotin_b - 0.8611973010780051
+
+28) kolya_krassotkin_b - 0.8473432246037453
+
+29) pyotr_alexandrovitch_miüsov_b - 0.8419827567940162
+
+30) church_of_christ_b - 0.8379507757454663
+
+31) timofey_b - 0.8337034583091795
+
+32) yulia_b - 0.8280129535190506
+
+33) karl_bernard_b - 0.8277982822716781
+
+34) father_zossima_b - 0.8276996715247842
+
+35) ivan_fyodorovitch_karamazov_b - 0.8265341131050452
+
+36) dmitri_fyodorovitch_karamazov_b - 0.8244913325016912
+
+37) lyagavy_b - 0.8237562880661331
+
+38) herzenstube_b - 0.8104578739677722
+
+39) tchermashnya_b - 0.8068598864418335
+
+40) mokroe_b - 0.8036493302479276
+
+41) varvara_b - 0.7598762512207086
+
+42) lizaveta_b - 0.7544337207753992
+
+43) von_sohn_b - 0.6897763609886218
+
+Result for the vector: fenya, coming from part a of the book
+Rank: 1 out of 43 characters
+Cosine similarity to the co-referring vector: 0.960608568245939
+
+1) fenya_b - 0.960608568245939
+
+2) katya_b - 0.9578762314805004
+
+3) lise_b - 0.95456680520078
+
+4) nina_b - 0.9519005672842775
+
+5) marya_kondratyevna_b - 0.9517120464105671
+
+6) grushenka_b - 0.9503404185277352
+
+7) marfa_ignatyevna_b - 0.9502110764447179
+
+8) maximov_b - 0.9433902468317894
+
+9) pyotr_fomitch_kalganov_b - 0.9422223883204978
+
+10) agrafena_alexandrovna_b - 0.9417977613746457
+
+11) smurov_b - 0.939928142426257
+
+12) katerina_ivanovna_b - 0.9396319877443359
+
+13) nikolay_parfenovitch_nelyudov_b - 0.9381534140751787
+
+14) mr_rakitin_b - 0.937288133421187
+
+15) madame_hohlakov_b - 0.9352714102051086
+
+16) mitya_chapter_i_kuzma_samsonov_b - 0.9339705427297825
+
+17) agafya_ivanovna_b - 0.9304566743561722
+
+18) grigory_vassilyevitch_b - 0.9291839918737451
+
+19) mihail_makarovitch_b - 0.9237615420676197
+
+20) alyosha_karamazov_b - 0.9231882920731571
+
+21) smerdyakov_b - 0.9217423382017558
+
+22) ilusha_b - 0.9216577136022571
+
+23) misha_b - 0.9155583108795229
+
+24) kolya_krassotkin_b - 0.9144630755644156
+
+25) snegiryov_b - 0.9102940723738219
+
+26) fyodor_pavlovitch_karamazov_b - 0.9088207212441981
+
+27) timofey_b - 0.8924075566894616
+
+28) alexey_fyodorovitch_karamazov_b - 0.8794095778289316
+
+29) pyotr_ilyitch_perhotin_b - 0.8718225619740061
+
+30) yulia_b - 0.8587044733376648
+
+31) herzenstube_b - 0.8500737026443669
+
+32) varvara_b - 0.8475602430904132
+
+33) pyotr_alexandrovitch_miüsov_b - 0.8454185036074223
+
+34) church_of_christ_b - 0.8426656974156412
+
+35) dmitri_fyodorovitch_karamazov_b - 0.8422684324463738
+
+36) ivan_fyodorovitch_karamazov_b - 0.8409238207064954
+
+37) lyagavy_b - 0.839493299707571
+
+38) father_zossima_b - 0.8386914980021569
+
+39) karl_bernard_b - 0.820776153849134
+
+40) tchermashnya_b - 0.8101168757746742
+
+41) mokroe_b - 0.799941992752791
+
+42) lizaveta_b - 0.7458129302915087
+
+43) von_sohn_b - 0.6982534556019419
+
+Result for the vector: agrafena_alexandrovna, coming from part a of the book
+Rank: 11 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9464048083311158
+
+1) katya_b - 0.9692764823335097
+
+2) lise_b - 0.9653589088152607
+
+3) katerina_ivanovna_b - 0.9609299495330322
+
+4) mr_rakitin_b - 0.9594325374880546
+
+5) ilusha_b - 0.954292294638905
+
+6) fenya_b - 0.9521997485518022
+
+7) smerdyakov_b - 0.9510407331086953
+
+8) grigory_vassilyevitch_b - 0.9502470463661731
+
+9) marfa_ignatyevna_b - 0.9495358406944152
+
+10) grushenka_b - 0.9475866493686087
+
+11) agrafena_alexandrovna_b - 0.9464048083311158
+
+12) madame_hohlakov_b - 0.9461598332118857
+
+13) smurov_b - 0.9443578653762247
+
+14) marya_kondratyevna_b - 0.9438409209251672
+
+15) pyotr_fomitch_kalganov_b - 0.9431009258688199
+
+16) maximov_b - 0.9427986357806118
+
+17) nikolay_parfenovitch_nelyudov_b - 0.9402193951868357
+
+18) alyosha_karamazov_b - 0.9393280040016199
+
+19) mihail_makarovitch_b - 0.9335022171590093
+
+20) fyodor_pavlovitch_karamazov_b - 0.9329190810274679
+
+21) agafya_ivanovna_b - 0.9296447634697225
+
+22) mitya_chapter_i_kuzma_samsonov_b - 0.929463859168536
+
+23) kolya_krassotkin_b - 0.9273800210583371
+
+24) nina_b - 0.9236042958982537
+
+25) snegiryov_b - 0.9230783994384765
+
+26) misha_b - 0.9159862349025297
+
+27) timofey_b - 0.9105784137091201
+
+28) alexey_fyodorovitch_karamazov_b - 0.8925239911704116
+
+29) church_of_christ_b - 0.8892173635026713
+
+30) lyagavy_b - 0.8752153367060886
+
+31) yulia_b - 0.8712348784488356
+
+32) herzenstube_b - 0.870208649685061
+
+33) pyotr_ilyitch_perhotin_b - 0.8663599331808072
+
+34) father_zossima_b - 0.8626324966707883
+
+35) tchermashnya_b - 0.8596742242089283
+
+36) dmitri_fyodorovitch_karamazov_b - 0.8485714016641918
+
+37) ivan_fyodorovitch_karamazov_b - 0.8483945636984581
+
+38) karl_bernard_b - 0.8462018439474503
+
+39) mokroe_b - 0.840779837532606
+
+40) pyotr_alexandrovitch_miüsov_b - 0.832354490809815
+
+41) varvara_b - 0.8322644529815545
+
+42) lizaveta_b - 0.7721530063243636
+
+43) von_sohn_b - 0.722521136257853
+
+Result for the vector: marya_kondratyevna, coming from part a of the book
+Rank: 11 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9362953381186387
+
+1) alyosha_karamazov_b - 0.9570739839717157
+
+2) grushenka_b - 0.9544841051101685
+
+3) maximov_b - 0.9536245749480899
+
+4) pyotr_fomitch_kalganov_b - 0.9515426187787897
+
+5) katya_b - 0.9512186617385561
+
+6) smurov_b - 0.9467665553092957
+
+7) lise_b - 0.9462043046951294
+
+8) agafya_ivanovna_b - 0.9439269967166256
+
+9) smerdyakov_b - 0.9428877762422362
+
+10) nikolay_parfenovitch_nelyudov_b - 0.9419279098510742
+
+11) marya_kondratyevna_b - 0.9362953381186387
+
+12) katerina_ivanovna_b - 0.9359120333063756
+
+13) mitya_chapter_i_kuzma_samsonov_b - 0.9350037017462448
+
+14) mr_rakitin_b - 0.9343882203102112
+
+15) madame_hohlakov_b - 0.933404803276062
+
+16) misha_b - 0.9316024821041552
+
+17) ilusha_b - 0.9309396188891178
+
+18) fenya_b - 0.9304864365152398
+
+19) fyodor_pavlovitch_karamazov_b - 0.9255430742774577
+
+20) grigory_vassilyevitch_b - 0.9236214802490799
+
+21) agrafena_alexandrovna_b - 0.9186862111091614
+
+22) mihail_makarovitch_b - 0.9178058778585759
+
+23) nina_b - 0.9172482441215677
+
+24) marfa_ignatyevna_b - 0.9144526720046997
+
+25) snegiryov_b - 0.910148550289703
+
+26) karl_bernard_b - 0.9100493463888574
+
+27) alexey_fyodorovitch_karamazov_b - 0.905567467212677
+
+28) pyotr_ilyitch_perhotin_b - 0.8996567726135254
+
+29) kolya_krassotkin_b - 0.8845079610044995
+
+30) father_zossima_b - 0.8730437159538269
+
+31) church_of_christ_b - 0.8672305941581726
+
+32) ivan_fyodorovitch_karamazov_b - 0.8670309861283922
+
+33) yulia_b - 0.8643968105316162
+
+34) herzenstube_b - 0.861803395963126
+
+35) pyotr_alexandrovitch_miüsov_b - 0.861522104189459
+
+36) dmitri_fyodorovitch_karamazov_b - 0.8600239753723145
+
+37) timofey_b - 0.8536475809602503
+
+38) lyagavy_b - 0.8531216382980347
+
+39) tchermashnya_b - 0.8470639242846947
+
+40) lizaveta_b - 0.8440333101729581
+
+41) mokroe_b - 0.8239416620679229
+
+42) varvara_b - 0.8070905689651128
+
+43) von_sohn_b - 0.7500271052138285
+
+Result for the vector: marfa_ignatyevna, coming from part a of the book
+Rank: 1 out of 43 characters
+Cosine similarity to the co-referring vector: 0.953666743854688
+
+1) marfa_ignatyevna_b - 0.953666743854688
+
+2) fenya_b - 0.9535829965571161
+
+3) kolya_krassotkin_b - 0.9457054734230109
+
+4) marya_kondratyevna_b - 0.9411428605829115
+
+5) mr_rakitin_b - 0.9394663536230553
+
+6) katya_b - 0.9379479811129547
+
+7) mihail_makarovitch_b - 0.9366258624159575
+
+8) madame_hohlakov_b - 0.9329590161418345
+
+9) nikolay_parfenovitch_nelyudov_b - 0.9312632042922516
+
+10) katerina_ivanovna_b - 0.930264369006476
+
+11) lise_b - 0.9300169307003593
+
+12) maximov_b - 0.9298213359553821
+
+13) grigory_vassilyevitch_b - 0.9297271966934271
+
+14) smurov_b - 0.9291513519973386
+
+15) nina_b - 0.9291011010528923
+
+16) pyotr_fomitch_kalganov_b - 0.9269776344299382
+
+17) ilusha_b - 0.9262690544128483
+
+18) grushenka_b - 0.9250687912147533
+
+19) agrafena_alexandrovna_b - 0.9214937044080336
+
+20) smerdyakov_b - 0.9214892247001947
+
+21) mitya_chapter_i_kuzma_samsonov_b - 0.9201129674911565
+
+22) snegiryov_b - 0.9126081310405981
+
+23) fyodor_pavlovitch_karamazov_b - 0.9097959399223392
+
+24) agafya_ivanovna_b - 0.901198333430404
+
+25) alyosha_karamazov_b - 0.8996885299311316
+
+26) timofey_b - 0.8933407537151281
+
+27) misha_b - 0.8890745639801089
+
+28) herzenstube_b - 0.8739623202018134
+
+29) varvara_b - 0.8611103726757017
+
+30) pyotr_ilyitch_perhotin_b - 0.8508459240702361
+
+31) alexey_fyodorovitch_karamazov_b - 0.8428023363830066
+
+32) lyagavy_b - 0.8307681578855624
+
+33) yulia_b - 0.8267996803998772
+
+34) church_of_christ_b - 0.8267784611450724
+
+35) father_zossima_b - 0.8182726394100585
+
+36) pyotr_alexandrovitch_miüsov_b - 0.8171889320482852
+
+37) ivan_fyodorovitch_karamazov_b - 0.8146952390670834
+
+38) dmitri_fyodorovitch_karamazov_b - 0.8116835243513315
+
+39) tchermashnya_b - 0.7950478906972314
+
+40) karl_bernard_b - 0.7881543148893999
+
+41) mokroe_b - 0.7875268440733622
+
+42) lizaveta_b - 0.7032725811004689
+
+43) von_sohn_b - 0.6573504993141293
+
+Result for the vector: misha, coming from part a of the book
+Rank: 3 out of 43 characters
+Cosine similarity to the co-referring vector: 0.8845574993422628
+
+1) alyosha_karamazov_b - 0.8934996128082339
+
+2) katya_b - 0.8869055509567324
+
+3) misha_b - 0.8845574993422628
+
+4) lise_b - 0.8782879782743482
+
+5) agafya_ivanovna_b - 0.8780647138241461
+
+6) smurov_b - 0.8731822447072137
+
+7) pyotr_fomitch_kalganov_b - 0.8673923769721535
+
+8) mitya_chapter_i_kuzma_samsonov_b - 0.8670967379693105
+
+9) mr_rakitin_b - 0.8665497978598016
+
+10) smerdyakov_b - 0.8646408834839532
+
+11) nikolay_parfenovitch_nelyudov_b - 0.8641415319358404
+
+12) grushenka_b - 0.8621716581480722
+
+13) alexey_fyodorovitch_karamazov_b - 0.8608609520875855
+
+14) maximov_b - 0.8608358841885397
+
+15) marya_kondratyevna_b - 0.8583840384988731
+
+16) katerina_ivanovna_b - 0.8561470081937804
+
+17) agrafena_alexandrovna_b - 0.8555518474845992
+
+18) fenya_b - 0.851350724697119
+
+19) marfa_ignatyevna_b - 0.8490576238001825
+
+20) mihail_makarovitch_b - 0.8482645497243274
+
+21) ilusha_b - 0.8467693511522589
+
+22) pyotr_ilyitch_perhotin_b - 0.8455662819405642
+
+23) grigory_vassilyevitch_b - 0.8444819635770364
+
+24) madame_hohlakov_b - 0.8387087679678951
+
+25) nina_b - 0.8349569439888059
+
+26) fyodor_pavlovitch_karamazov_b - 0.8349353867846266
+
+27) snegiryov_b - 0.8332850833705251
+
+28) ivan_fyodorovitch_karamazov_b - 0.8294202888703002
+
+29) yulia_b - 0.8212061034914208
+
+30) karl_bernard_b - 0.8077332732756983
+
+31) kolya_krassotkin_b - 0.8070133558495812
+
+32) dmitri_fyodorovitch_karamazov_b - 0.8044870612331011
+
+33) church_of_christ_b - 0.8011555194166007
+
+34) father_zossima_b - 0.7991687179107252
+
+35) timofey_b - 0.7991522550582942
+
+36) pyotr_alexandrovitch_miüsov_b - 0.7894714239397252
+
+37) herzenstube_b - 0.7804407942557933
+
+38) tchermashnya_b - 0.7715808519249931
+
+39) lyagavy_b - 0.769671930690294
+
+40) mokroe_b - 0.7438125832025069
+
+41) lizaveta_b - 0.7354996519685206
+
+42) varvara_b - 0.7318382263183646
+
+43) von_sohn_b - 0.6902152895927478
+
+Result for the vector: herzenstube, coming from part a of the book
+Rank: 26 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9161447882652544
+
+1) smerdyakov_b - 0.9537982940674099
+
+2) ilusha_b - 0.9523951496371377
+
+3) mr_rakitin_b - 0.952156370621167
+
+4) grigory_vassilyevitch_b - 0.9511044708899626
+
+5) lise_b - 0.9482751550346495
+
+6) pyotr_fomitch_kalganov_b - 0.947482178065389
+
+7) katya_b - 0.9472153218260367
+
+8) maximov_b - 0.9465068924569987
+
+9) smurov_b - 0.9455509250699439
+
+10) katerina_ivanovna_b - 0.9449119253430684
+
+11) mihail_makarovitch_b - 0.94411579274097
+
+12) nikolay_parfenovitch_nelyudov_b - 0.9419958660607565
+
+13) fyodor_pavlovitch_karamazov_b - 0.9414778456429536
+
+14) alyosha_karamazov_b - 0.9399535095719541
+
+15) fenya_b - 0.9398876464434031
+
+16) snegiryov_b - 0.9397677183151513
+
+17) madame_hohlakov_b - 0.9374024942633583
+
+18) marya_kondratyevna_b - 0.9361481818799539
+
+19) grushenka_b - 0.9340928275474581
+
+20) mitya_chapter_i_kuzma_samsonov_b - 0.9331722379018852
+
+21) kolya_krassotkin_b - 0.9302092319352825
+
+22) marfa_ignatyevna_b - 0.9271971074107823
+
+23) agafya_ivanovna_b - 0.9263981756214676
+
+24) misha_b - 0.9232254165603982
+
+25) agrafena_alexandrovna_b - 0.9216653798025459
+
+26) herzenstube_b - 0.9161447882652544
+
+27) nina_b - 0.910081570739667
+
+28) timofey_b - 0.9017905651455925
+
+29) alexey_fyodorovitch_karamazov_b - 0.8873773351457974
+
+30) church_of_christ_b - 0.8846663970152921
+
+31) father_zossima_b - 0.8763695506609084
+
+32) pyotr_ilyitch_perhotin_b - 0.8744458109801103
+
+33) yulia_b - 0.8728712352667829
+
+34) lyagavy_b - 0.8701705491339567
+
+35) tchermashnya_b - 0.8555072377168716
+
+36) karl_bernard_b - 0.8553364108202185
+
+37) dmitri_fyodorovitch_karamazov_b - 0.8491777361419576
+
+38) ivan_fyodorovitch_karamazov_b - 0.8489940436493095
+
+39) mokroe_b - 0.8473568902207532
+
+40) pyotr_alexandrovitch_miüsov_b - 0.8419355593381416
+
+41) varvara_b - 0.8228611455642626
+
+42) lizaveta_b - 0.7847535995089546
+
+43) von_sohn_b - 0.7271490855724281
+
+Result for the vector: mihail_makarovitch, coming from part a of the book
+Rank: 1 out of 43 characters
+Cosine similarity to the co-referring vector: 0.8827723001607602
+
+1) mihail_makarovitch_b - 0.8827723001607602
+
+2) nikolay_parfenovitch_nelyudov_b - 0.8711136060289395
+
+3) mr_rakitin_b - 0.8683556992795662
+
+4) alexey_fyodorovitch_karamazov_b - 0.8676673252780855
+
+5) grigory_vassilyevitch_b - 0.8643002075791112
+
+6) pyotr_fomitch_kalganov_b - 0.8598856496947229
+
+7) smurov_b - 0.8575187410403063
+
+8) maximov_b - 0.8560788972354298
+
+9) smerdyakov_b - 0.8543026360453883
+
+10) agrafena_alexandrovna_b - 0.8537737814322856
+
+11) alyosha_karamazov_b - 0.852465331554419
+
+12) dmitri_fyodorovitch_karamazov_b - 0.8515226333425875
+
+13) mitya_chapter_i_kuzma_samsonov_b - 0.8504853426831552
+
+14) fenya_b - 0.8499653339386046
+
+15) katerina_ivanovna_b - 0.8479799790364669
+
+16) katya_b - 0.8478432893753112
+
+17) snegiryov_b - 0.8467407731259465
+
+18) misha_b - 0.8447365945891625
+
+19) ilusha_b - 0.843914408217143
+
+20) kolya_krassotkin_b - 0.8421068975798014
+
+21) agafya_ivanovna_b - 0.8420335336863651
+
+22) marya_kondratyevna_b - 0.8419249936476376
+
+23) fyodor_pavlovitch_karamazov_b - 0.8416274378743842
+
+24) pyotr_alexandrovitch_miüsov_b - 0.8406075584707425
+
+25) lise_b - 0.8392589188063804
+
+26) grushenka_b - 0.8380909062569808
+
+27) nina_b - 0.8379120230674804
+
+28) marfa_ignatyevna_b - 0.8371815778504876
+
+29) pyotr_ilyitch_perhotin_b - 0.8370168902267894
+
+30) madame_hohlakov_b - 0.831243882701167
+
+31) herzenstube_b - 0.8261353865942721
+
+32) ivan_fyodorovitch_karamazov_b - 0.8237857432620831
+
+33) varvara_b - 0.818387985229498
+
+34) timofey_b - 0.7942386269569454
+
+35) yulia_b - 0.7904720431284893
+
+36) church_of_christ_b - 0.7840556035008681
+
+37) father_zossima_b - 0.7723967568637887
+
+38) lyagavy_b - 0.7612409137939876
+
+39) karl_bernard_b - 0.7409698742339083
+
+40) tchermashnya_b - 0.7379700917610528
+
+41) mokroe_b - 0.7325073102863903
+
+42) lizaveta_b - 0.6487698377645209
+
+43) von_sohn_b - 0.640814363956456
+
+Result for the vector: von_sohn, coming from part a of the book
+Rank: 43 out of 43 characters
+Cosine similarity to the co-referring vector: 0.762298711743836
+
+1) alyosha_karamazov_b - 0.9449051867340676
+
+2) smerdyakov_b - 0.927319664853765
+
+3) maximov_b - 0.9198419999982118
+
+4) lise_b - 0.9194755232177835
+
+5) katya_b - 0.9181031809541451
+
+6) smurov_b - 0.9155253444768595
+
+7) grushenka_b - 0.9141006742149796
+
+8) pyotr_fomitch_kalganov_b - 0.9126567568583299
+
+9) misha_b - 0.9107946482063971
+
+10) katerina_ivanovna_b - 0.9089369014984854
+
+11) marya_kondratyevna_b - 0.9061541343193631
+
+12) madame_hohlakov_b - 0.9052825243855279
+
+13) mr_rakitin_b - 0.9040906698730792
+
+14) agafya_ivanovna_b - 0.9039042379941827
+
+15) nikolay_parfenovitch_nelyudov_b - 0.9029090077551908
+
+16) alexey_fyodorovitch_karamazov_b - 0.9018820792997507
+
+17) ilusha_b - 0.8994739383615906
+
+18) grigory_vassilyevitch_b - 0.8992471426949793
+
+19) fyodor_pavlovitch_karamazov_b - 0.8989639014314479
+
+20) fenya_b - 0.8931190573977585
+
+21) mitya_chapter_i_kuzma_samsonov_b - 0.8929803701347038
+
+22) agrafena_alexandrovna_b - 0.8926189211791437
+
+23) mihail_makarovitch_b - 0.8909046584906971
+
+24) karl_bernard_b - 0.8842334082265739
+
+25) snegiryov_b - 0.880925309795936
+
+26) pyotr_ilyitch_perhotin_b - 0.8807443642838114
+
+27) marfa_ignatyevna_b - 0.8759398721438613
+
+28) nina_b - 0.8748340196759126
+
+29) ivan_fyodorovitch_karamazov_b - 0.8697715738483829
+
+30) dmitri_fyodorovitch_karamazov_b - 0.8637787361079081
+
+31) yulia_b - 0.8577664154102334
+
+32) father_zossima_b - 0.8511662140836187
+
+33) kolya_krassotkin_b - 0.8501119956340825
+
+34) pyotr_alexandrovitch_miüsov_b - 0.8413489366381727
+
+35) herzenstube_b - 0.8397728263993336
+
+36) church_of_christ_b - 0.8387105714890535
+
+37) tchermashnya_b - 0.8301560181472313
+
+38) lizaveta_b - 0.8249775521463918
+
+39) timofey_b - 0.8166246548257463
+
+40) lyagavy_b - 0.8087514283881021
+
+41) mokroe_b - 0.7941481821713678
+
+42) varvara_b - 0.7760993936150727
+
+43) von_sohn_b - 0.762298711743836
+
+Result for the vector: nina, coming from part a of the book
+Rank: 15 out of 43 characters
+Cosine similarity to the co-referring vector: 0.8719580540582054
+
+1) lise_b - 0.8972225066688728
+
+2) agrafena_alexandrovna_b - 0.8935006133914789
+
+3) katerina_ivanovna_b - 0.8903350833957124
+
+4) katya_b - 0.8883777061184135
+
+5) ilusha_b - 0.8855439952340265
+
+6) fenya_b - 0.8831135421598346
+
+7) mr_rakitin_b - 0.8786098812353532
+
+8) pyotr_fomitch_kalganov_b - 0.8770804927993254
+
+9) marya_kondratyevna_b - 0.8744506835937749
+
+10) grushenka_b - 0.8731008616806166
+
+11) smurov_b - 0.8730307666100048
+
+12) marfa_ignatyevna_b - 0.8729573336788876
+
+13) agafya_ivanovna_b - 0.8725514411926517
+
+14) madame_hohlakov_b - 0.8721927252045604
+
+15) nina_b - 0.8719580540582054
+
+16) maximov_b - 0.8713635312562518
+
+17) grigory_vassilyevitch_b - 0.8695945662018537
+
+18) nikolay_parfenovitch_nelyudov_b - 0.8692903958905277
+
+19) mihail_makarovitch_b - 0.8671628932897623
+
+20) alyosha_karamazov_b - 0.8664169072658269
+
+21) fyodor_pavlovitch_karamazov_b - 0.8660627523698201
+
+22) smerdyakov_b - 0.8655536450275528
+
+23) mitya_chapter_i_kuzma_samsonov_b - 0.8602377689026593
+
+24) misha_b - 0.8600488221674593
+
+25) yulia_b - 0.8595574926802568
+
+26) kolya_krassotkin_b - 0.8565584931706621
+
+27) timofey_b - 0.8500112026949902
+
+28) snegiryov_b - 0.8425173383992525
+
+29) alexey_fyodorovitch_karamazov_b - 0.8417530467215892
+
+30) church_of_christ_b - 0.8387463496621131
+
+31) lyagavy_b - 0.836273829492793
+
+32) father_zossima_b - 0.8267277272615167
+
+33) tchermashnya_b - 0.8074848066992802
+
+34) pyotr_ilyitch_perhotin_b - 0.8057993418931234
+
+35) herzenstube_b - 0.8046715985945698
+
+36) varvara_b - 0.7943323482869308
+
+37) mokroe_b - 0.7943144905627205
+
+38) dmitri_fyodorovitch_karamazov_b - 0.7934322110929797
+
+39) pyotr_alexandrovitch_miüsov_b - 0.7914378630277342
+
+40) ivan_fyodorovitch_karamazov_b - 0.7841752042874941
+
+41) karl_bernard_b - 0.7689632131104519
+
+42) lizaveta_b - 0.7212365103505077
+
+43) von_sohn_b - 0.6575019343200816
+
+Result for the vector: mokroe, coming from part a of the book
+Rank: 1 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9510904775694728
+
+1) mokroe_b - 0.9510904775694728
+
+2) tchermashnya_b - 0.883982499001846
+
+3) fyodor_pavlovitch_karamazov_b - 0.8645988106727661
+
+4) madame_hohlakov_b - 0.8561285648422593
+
+5) lise_b - 0.8533338816960995
+
+6) katerina_ivanovna_b - 0.8511524187942459
+
+7) ilusha_b - 0.8473938703537047
+
+8) church_of_christ_b - 0.8448431399371127
+
+9) fenya_b - 0.8382195637487845
+
+10) smerdyakov_b - 0.8354078832998082
+
+11) katya_b - 0.8335045973664043
+
+12) marya_kondratyevna_b - 0.8326097826594377
+
+13) alyosha_karamazov_b - 0.8309041656141478
+
+14) grushenka_b - 0.8293496268600018
+
+15) maximov_b - 0.8268475675744628
+
+16) pyotr_fomitch_kalganov_b - 0.8216183185577451
+
+17) mihail_makarovitch_b - 0.8178802863848469
+
+18) lyagavy_b - 0.8177307139474593
+
+19) grigory_vassilyevitch_b - 0.8176299929618893
+
+20) smurov_b - 0.8161986956714821
+
+21) mr_rakitin_b - 0.8157675156454766
+
+22) agrafena_alexandrovna_b - 0.8111534602137497
+
+23) nikolay_parfenovitch_nelyudov_b - 0.8080006127357863
+
+24) misha_b - 0.8078250288963376
+
+25) snegiryov_b - 0.7989647625025696
+
+26) agafya_ivanovna_b - 0.7949102047139411
+
+27) mitya_chapter_i_kuzma_samsonov_b - 0.7937327623367366
+
+28) kolya_krassotkin_b - 0.7878853082656916
+
+29) nina_b - 0.786701176965377
+
+30) timofey_b - 0.780403707075561
+
+31) yulia_b - 0.7801175582478989
+
+32) marfa_ignatyevna_b - 0.7794158327231321
+
+33) karl_bernard_b - 0.7783874373186327
+
+34) alexey_fyodorovitch_karamazov_b - 0.7759066090528149
+
+35) father_zossima_b - 0.7743320926625797
+
+36) pyotr_ilyitch_perhotin_b - 0.7699989539384232
+
+37) herzenstube_b - 0.7678966703230162
+
+38) ivan_fyodorovitch_karamazov_b - 0.7457292675972038
+
+39) pyotr_alexandrovitch_miüsov_b - 0.7452819417669129
+
+40) dmitri_fyodorovitch_karamazov_b - 0.7432977404175856
+
+41) lizaveta_b - 0.7359474301338248
+
+42) varvara_b - 0.6918046703105772
+
+43) von_sohn_b - 0.666971405383516
+
+Result for the vector: snegiryov, coming from part a of the book
+Rank: 2 out of 43 characters
+Cosine similarity to the co-referring vector: 0.8389552543679349
+
+1) mihail_makarovitch_b - 0.8419815458638862
+
+2) snegiryov_b - 0.8389552543679349
+
+3) alexey_fyodorovitch_karamazov_b - 0.8353674313645039
+
+4) alyosha_karamazov_b - 0.831069091685902
+
+5) smerdyakov_b - 0.8299430900710401
+
+6) pyotr_fomitch_kalganov_b - 0.8270709514617979
+
+7) fyodor_pavlovitch_karamazov_b - 0.8255158662796079
+
+8) grigory_vassilyevitch_b - 0.8250334262847959
+
+9) mr_rakitin_b - 0.8239356770477118
+
+10) nikolay_parfenovitch_nelyudov_b - 0.8239264979318692
+
+11) herzenstube_b - 0.8235322517512309
+
+12) ivan_fyodorovitch_karamazov_b - 0.8211160898208677
+
+13) pyotr_ilyitch_perhotin_b - 0.8209885848157769
+
+14) ilusha_b - 0.8194745779037533
+
+15) dmitri_fyodorovitch_karamazov_b - 0.8183408271277458
+
+16) agrafena_alexandrovna_b - 0.8167939672943348
+
+17) smurov_b - 0.8156067619089357
+
+18) katerina_ivanovna_b - 0.815337351183938
+
+19) kolya_krassotkin_b - 0.8146243691444455
+
+20) mitya_chapter_i_kuzma_samsonov_b - 0.8137020468711911
+
+21) maximov_b - 0.8132256996535394
+
+22) misha_b - 0.8122683763504086
+
+23) fenya_b - 0.8048034673694929
+
+24) katya_b - 0.8036442760997148
+
+25) marya_kondratyevna_b - 0.8034974453748923
+
+26) agafya_ivanovna_b - 0.8020603178703724
+
+27) lise_b - 0.8005262494400902
+
+28) madame_hohlakov_b - 0.7981875418536404
+
+29) pyotr_alexandrovitch_miüsov_b - 0.7948239560267889
+
+30) grushenka_b - 0.7940148588427831
+
+31) marfa_ignatyevna_b - 0.7825317253191322
+
+32) nina_b - 0.770752402633715
+
+33) timofey_b - 0.7683957539076511
+
+34) father_zossima_b - 0.7644304492730184
+
+35) yulia_b - 0.7635118224329857
+
+36) karl_bernard_b - 0.7525100188711306
+
+37) church_of_christ_b - 0.7442452159074091
+
+38) varvara_b - 0.7400675106129063
+
+39) lyagavy_b - 0.7297560411546268
+
+40) tchermashnya_b - 0.7268357330711844
+
+41) mokroe_b - 0.7238612657578689
+
+42) von_sohn_b - 0.6450714641894656
+
+43) lizaveta_b - 0.6295534968376204
+
+Result for the vector: lyagavy, coming from part a of the book
+Rank: 31 out of 43 characters
+Cosine similarity to the co-referring vector: 0.8897484806105046
+
+1) mr_rakitin_b - 0.9524881527569343
+
+2) ilusha_b - 0.9510475709722208
+
+3) grigory_vassilyevitch_b - 0.9508835985993305
+
+4) smurov_b - 0.9497192189013729
+
+5) pyotr_fomitch_kalganov_b - 0.9485246852480007
+
+6) fyodor_pavlovitch_karamazov_b - 0.9485019758790181
+
+7) smerdyakov_b - 0.9478439908987308
+
+8) mihail_makarovitch_b - 0.9457699028116406
+
+9) maximov_b - 0.9449264374331496
+
+10) nikolay_parfenovitch_nelyudov_b - 0.9440903944996121
+
+11) fenya_b - 0.9438328990786884
+
+12) katerina_ivanovna_b - 0.9436079162850297
+
+13) katya_b - 0.9397613650347026
+
+14) alyosha_karamazov_b - 0.9387609605873494
+
+15) mitya_chapter_i_kuzma_samsonov_b - 0.9385620075892841
+
+16) grushenka_b - 0.9376161973958078
+
+17) agrafena_alexandrovna_b - 0.9350897948470654
+
+18) lise_b - 0.9339621941435995
+
+19) marya_kondratyevna_b - 0.9332139253723196
+
+20) madame_hohlakov_b - 0.9313876310404433
+
+21) misha_b - 0.929132791485409
+
+22) snegiryov_b - 0.9229179803904899
+
+23) kolya_krassotkin_b - 0.9198810780083848
+
+24) agafya_ivanovna_b - 0.9152927772439124
+
+25) alexey_fyodorovitch_karamazov_b - 0.9088355573664776
+
+26) marfa_ignatyevna_b - 0.9017106563362679
+
+27) nina_b - 0.8965092506864001
+
+28) pyotr_ilyitch_perhotin_b - 0.8964470892085762
+
+29) church_of_christ_b - 0.8962240486211795
+
+30) herzenstube_b - 0.8925229448859348
+
+31) lyagavy_b - 0.8897484806105046
+
+32) father_zossima_b - 0.887157347415607
+
+33) pyotr_alexandrovitch_miüsov_b - 0.8839651873090975
+
+34) tchermashnya_b - 0.8799987363814554
+
+35) timofey_b - 0.8782890628238679
+
+36) yulia_b - 0.8776645921964826
+
+37) dmitri_fyodorovitch_karamazov_b - 0.8767035268754823
+
+38) ivan_fyodorovitch_karamazov_b - 0.8748373128522278
+
+39) mokroe_b - 0.8656224448230813
+
+40) karl_bernard_b - 0.8611511505336256
+
+41) varvara_b - 0.8403160131260172
+
+42) lizaveta_b - 0.7503891363624026
+
+43) von_sohn_b - 0.7273308092949521
+
+Result for the vector: agafya_ivanovna, coming from part a of the book
+Rank: 21 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9212841485400088
+
+1) lise_b - 0.9495641589164734
+
+2) katerina_ivanovna_b - 0.9494737609436857
+
+3) fenya_b - 0.9429764713630974
+
+4) madame_hohlakov_b - 0.9404241442680359
+
+5) katya_b - 0.9404174053917785
+
+6) marya_kondratyevna_b - 0.9398180914142089
+
+7) agrafena_alexandrovna_b - 0.9352209568023682
+
+8) maximov_b - 0.9351243059374189
+
+9) ilusha_b - 0.935075227315712
+
+10) grushenka_b - 0.9346308708190918
+
+11) mr_rakitin_b - 0.9309268593788147
+
+12) smerdyakov_b - 0.9298112308754071
+
+13) smurov_b - 0.9282371997833252
+
+14) pyotr_fomitch_kalganov_b - 0.9278401775455386
+
+15) fyodor_pavlovitch_karamazov_b - 0.9272893710559998
+
+16) marfa_ignatyevna_b - 0.9262695908546448
+
+17) grigory_vassilyevitch_b - 0.9252629920683524
+
+18) nikolay_parfenovitch_nelyudov_b - 0.9250507354736328
+
+19) nina_b - 0.9227015330017543
+
+20) alyosha_karamazov_b - 0.9215997410774093
+
+21) agafya_ivanovna_b - 0.9212841485400088
+
+22) mihail_makarovitch_b - 0.9207808649772667
+
+23) kolya_krassotkin_b - 0.9162707974749345
+
+24) mitya_chapter_i_kuzma_samsonov_b - 0.9043145236781539
+
+25) misha_b - 0.901042526898235
+
+26) timofey_b - 0.8935772117124342
+
+27) yulia_b - 0.8927178382873535
+
+28) snegiryov_b - 0.8926058879620958
+
+29) alexey_fyodorovitch_karamazov_b - 0.8775942325592041
+
+30) herzenstube_b - 0.8721974935767108
+
+31) lyagavy_b - 0.8637049198150635
+
+32) church_of_christ_b - 0.8606640100479126
+
+33) pyotr_ilyitch_perhotin_b - 0.8568300008773804
+
+34) tchermashnya_b - 0.8541502015039388
+
+35) varvara_b - 0.8502930313523446
+
+36) father_zossima_b - 0.8494312167167664
+
+37) dmitri_fyodorovitch_karamazov_b - 0.8347587585449219
+
+38) karl_bernard_b - 0.8313325891295851
+
+39) pyotr_alexandrovitch_miüsov_b - 0.8313214430606799
+
+40) ivan_fyodorovitch_karamazov_b - 0.8303858738907666
+
+41) mokroe_b - 0.8255071782029165
+
+42) lizaveta_b - 0.7684281606419004
+
+43) von_sohn_b - 0.6973861275545447
+
+Result for the vector: lizaveta, coming from part a of the book
+Rank: 42 out of 43 characters
+Cosine similarity to the co-referring vector: 0.7655158042907769
+
+1) fenya_b - 0.958496208011652
+
+2) katerina_ivanovna_b - 0.9471705743728324
+
+3) lise_b - 0.9460344878455708
+
+4) agrafena_alexandrovna_b - 0.9452619519985902
+
+5) nina_b - 0.9440381460235293
+
+6) madame_hohlakov_b - 0.9437093105142914
+
+7) marya_kondratyevna_b - 0.9427548085001376
+
+8) katya_b - 0.9405991960286135
+
+9) grushenka_b - 0.9387135469146713
+
+10) marfa_ignatyevna_b - 0.9352778753803911
+
+11) ilusha_b - 0.9338271617889471
+
+12) maximov_b - 0.9307110545674914
+
+13) grigory_vassilyevitch_b - 0.9263511300087041
+
+14) agafya_ivanovna_b - 0.9263401671445418
+
+15) smerdyakov_b - 0.924622283808403
+
+16) fyodor_pavlovitch_karamazov_b - 0.9225201010704106
+
+17) mr_rakitin_b - 0.9225137783595208
+
+18) pyotr_fomitch_kalganov_b - 0.9223305583000249
+
+19) smurov_b - 0.9184806298303996
+
+20) mihail_makarovitch_b - 0.9169119820218075
+
+21) alyosha_karamazov_b - 0.9157149691241943
+
+22) nikolay_parfenovitch_nelyudov_b - 0.9138035126807416
+
+23) kolya_krassotkin_b - 0.9114887714386051
+
+24) mitya_chapter_i_kuzma_samsonov_b - 0.9101309776306217
+
+25) misha_b - 0.9009695649147098
+
+26) snegiryov_b - 0.8986143884565349
+
+27) church_of_christ_b - 0.8860384753965439
+
+28) yulia_b - 0.8790627049841124
+
+29) lyagavy_b - 0.8774122522719072
+
+30) alexey_fyodorovitch_karamazov_b - 0.8746241852417118
+
+31) father_zossima_b - 0.8723900838130778
+
+32) herzenstube_b - 0.8632455819688303
+
+33) pyotr_ilyitch_perhotin_b - 0.8593701040369349
+
+34) varvara_b - 0.8579235503582419
+
+35) timofey_b - 0.8560845084291111
+
+36) mokroe_b - 0.8439650005050008
+
+37) ivan_fyodorovitch_karamazov_b - 0.8407353162765563
+
+38) pyotr_alexandrovitch_miüsov_b - 0.8390697991016332
+
+39) tchermashnya_b - 0.8384509240195985
+
+40) dmitri_fyodorovitch_karamazov_b - 0.8366760514185474
+
+41) karl_bernard_b - 0.8347268850857218
+
+42) lizaveta_b - 0.7655158042907769
+
+43) von_sohn_b - 0.7163725157228131
+
+Result for the vector: tchermashnya, coming from part a of the book
+Rank: 1 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9469217344201132
+
+1) tchermashnya_b - 0.9469217344201132
+
+2) fyodor_pavlovitch_karamazov_b - 0.9099955016377286
+
+3) mokroe_b - 0.9038198206263657
+
+4) madame_hohlakov_b - 0.9018425345420837
+
+5) katerina_ivanovna_b - 0.8963697100236679
+
+6) lise_b - 0.8907023668289185
+
+7) smerdyakov_b - 0.8870266541274436
+
+8) alyosha_karamazov_b - 0.8858608535445262
+
+9) ilusha_b - 0.8834855029889657
+
+10) katya_b - 0.8726553244981379
+
+11) grushenka_b - 0.8722809553146362
+
+12) maximov_b - 0.8690511247232895
+
+13) marya_kondratyevna_b - 0.865265206662994
+
+14) fenya_b - 0.8624817647029036
+
+15) church_of_christ_b - 0.8590852618217468
+
+16) smurov_b - 0.8576650023460388
+
+17) pyotr_fomitch_kalganov_b - 0.8567920412545195
+
+18) grigory_vassilyevitch_b - 0.8553853121170231
+
+19) mr_rakitin_b - 0.851825475692749
+
+20) lyagavy_b - 0.8483909368515015
+
+21) karl_bernard_b - 0.8464759840511082
+
+22) mihail_makarovitch_b - 0.8443382634025298
+
+23) agrafena_alexandrovna_b - 0.843083918094635
+
+24) nikolay_parfenovitch_nelyudov_b - 0.84281325340271
+
+25) misha_b - 0.8339673379679136
+
+26) snegiryov_b - 0.8306368983551201
+
+27) alexey_fyodorovitch_karamazov_b - 0.8270423412322998
+
+28) agafya_ivanovna_b - 0.8204561685972072
+
+29) mitya_chapter_i_kuzma_samsonov_b - 0.8204321968297855
+
+30) father_zossima_b - 0.8156828284263611
+
+31) lizaveta_b - 0.8152756205036881
+
+32) nina_b - 0.8126396425151626
+
+33) pyotr_ilyitch_perhotin_b - 0.8119928240776062
+
+34) herzenstube_b - 0.8079846272450298
+
+35) kolya_krassotkin_b - 0.8068528290478704
+
+36) marfa_ignatyevna_b - 0.8068370819091797
+
+37) yulia_b - 0.8022828102111816
+
+38) dmitri_fyodorovitch_karamazov_b - 0.7973708510398865
+
+39) ivan_fyodorovitch_karamazov_b - 0.7963833334217483
+
+40) pyotr_alexandrovitch_miüsov_b - 0.7922851679410094
+
+41) timofey_b - 0.7874781362699366
+
+42) varvara_b - 0.7341890772693812
+
+43) von_sohn_b - 0.7335735996707452
+
+Result for the vector: varvara, coming from part a of the book
+Rank: 39 out of 43 characters
+Cosine similarity to the co-referring vector: 0.824549008879008
+
+1) katya_b - 0.9404965007601099
+
+2) lise_b - 0.9291500449180603
+
+3) pyotr_fomitch_kalganov_b - 0.92905068820413
+
+4) maximov_b - 0.9282428302837266
+
+5) fenya_b - 0.9271926836486287
+
+6) grushenka_b - 0.926282525062561
+
+7) agafya_ivanovna_b - 0.9260803549193979
+
+8) nikolay_parfenovitch_nelyudov_b - 0.9254403114318848
+
+9) mr_rakitin_b - 0.9250925779342651
+
+10) smurov_b - 0.9237936735153198
+
+11) mitya_chapter_i_kuzma_samsonov_b - 0.9227095292383729
+
+12) alyosha_karamazov_b - 0.9202939224418372
+
+13) marya_kondratyevna_b - 0.9201976752045607
+
+14) misha_b - 0.9168496181458479
+
+15) marfa_ignatyevna_b - 0.9167601466178894
+
+16) katerina_ivanovna_b - 0.9166006619633332
+
+17) agrafena_alexandrovna_b - 0.9137400984764099
+
+18) smerdyakov_b - 0.912772168251541
+
+19) grigory_vassilyevitch_b - 0.9125968865992511
+
+20) madame_hohlakov_b - 0.9107550978660583
+
+21) nina_b - 0.9104226178182748
+
+22) mihail_makarovitch_b - 0.9097652706433917
+
+23) ilusha_b - 0.9095205122518251
+
+24) snegiryov_b - 0.8982936022631711
+
+25) kolya_krassotkin_b - 0.895157999088885
+
+26) fyodor_pavlovitch_karamazov_b - 0.8934367362596566
+
+27) alexey_fyodorovitch_karamazov_b - 0.878582775592804
+
+28) pyotr_ilyitch_perhotin_b - 0.8690791726112366
+
+29) church_of_christ_b - 0.8553698658943176
+
+30) timofey_b - 0.8522144467958493
+
+31) yulia_b - 0.8510000109672546
+
+32) herzenstube_b - 0.8474116143478948
+
+33) karl_bernard_b - 0.8422137749854859
+
+34) ivan_fyodorovitch_karamazov_b - 0.8389330006281748
+
+35) lyagavy_b - 0.8342782855033875
+
+36) father_zossima_b - 0.831357479095459
+
+37) dmitri_fyodorovitch_karamazov_b - 0.8312969207763672
+
+38) pyotr_alexandrovitch_miüsov_b - 0.827532018051506
+
+39) varvara_b - 0.824549008879008
+
+40) tchermashnya_b - 0.8093725684098179
+
+41) mokroe_b - 0.7979099271813002
+
+42) lizaveta_b - 0.7474225910054106
+
+43) von_sohn_b - 0.6948205646765581
+
+Result for the vector: timofey, coming from part a of the book
+Rank: 36 out of 43 characters
+Cosine similarity to the co-referring vector: 0.6726967497287255
+
+1) agafya_ivanovna_b - 0.7580049326414005
+
+2) misha_b - 0.7469367535748046
+
+3) marya_kondratyevna_b - 0.737586291124076
+
+4) lise_b - 0.7327073812484741
+
+5) alyosha_karamazov_b - 0.7325369556270228
+
+6) smurov_b - 0.7308545112609863
+
+7) mitya_chapter_i_kuzma_samsonov_b - 0.7290350956299857
+
+8) pyotr_fomitch_kalganov_b - 0.7279052300509686
+
+9) maximov_b - 0.7271613099325097
+
+10) grushenka_b - 0.7271302342414856
+
+11) nikolay_parfenovitch_nelyudov_b - 0.7223652005195618
+
+12) pyotr_ilyitch_perhotin_b - 0.7216887474060059
+
+13) katya_b - 0.7207169366310214
+
+14) fenya_b - 0.7187751960024368
+
+15) mr_rakitin_b - 0.7171681523323059
+
+16) agrafena_alexandrovna_b - 0.71709805727005
+
+17) smerdyakov_b - 0.716965283985773
+
+18) mihail_makarovitch_b - 0.7154247973985913
+
+19) alexey_fyodorovitch_karamazov_b - 0.7132741212844849
+
+20) katerina_ivanovna_b - 0.711797462671625
+
+21) ilusha_b - 0.7114914827649914
+
+22) nina_b - 0.7111102766460358
+
+23) marfa_ignatyevna_b - 0.7104322910308838
+
+24) grigory_vassilyevitch_b - 0.7094651037773441
+
+25) madame_hohlakov_b - 0.7092238664627075
+
+26) fyodor_pavlovitch_karamazov_b - 0.7028666315754288
+
+27) ivan_fyodorovitch_karamazov_b - 0.6952231708035975
+
+28) dmitri_fyodorovitch_karamazov_b - 0.6916362643241882
+
+29) father_zossima_b - 0.6836522221565247
+
+30) snegiryov_b - 0.6835946063512143
+
+31) kolya_krassotkin_b - 0.6835869739301829
+
+32) church_of_christ_b - 0.6832551956176758
+
+33) yulia_b - 0.6826961040496826
+
+34) pyotr_alexandrovitch_miüsov_b - 0.6755261026479635
+
+35) karl_bernard_b - 0.6729958854018419
+
+36) timofey_b - 0.6726967497287255
+
+37) lyagavy_b - 0.6713695526123047
+
+38) tchermashnya_b - 0.6616639096040702
+
+39) herzenstube_b - 0.6556099838745622
+
+40) mokroe_b - 0.653536258954074
+
+41) varvara_b - 0.6187543641778459
+
+42) lizaveta_b - 0.5777874244578238
+
+43) von_sohn_b - 0.5675896744483525
+
+Result for the vector: yulia, coming from part a of the book
+Rank: 31 out of 43 characters
+Cosine similarity to the co-referring vector: 0.8283801181089823
+
+1) katya_b - 0.9162478446960515
+
+2) misha_b - 0.9142065150491577
+
+3) agafya_ivanovna_b - 0.9120129504180655
+
+4) lise_b - 0.9062000568985921
+
+5) alyosha_karamazov_b - 0.9047128558158939
+
+6) marya_kondratyevna_b - 0.9043699077898445
+
+7) fenya_b - 0.9039177298545902
+
+8) smurov_b - 0.9002456128450879
+
+9) grushenka_b - 0.8984808386277668
+
+10) agrafena_alexandrovna_b - 0.8968805136155792
+
+11) mitya_chapter_i_kuzma_samsonov_b - 0.8965451244658084
+
+12) maximov_b - 0.8959192962670571
+
+13) pyotr_fomitch_kalganov_b - 0.8959057455175227
+
+14) mr_rakitin_b - 0.891633815071953
+
+15) marfa_ignatyevna_b - 0.8915498917371115
+
+16) katerina_ivanovna_b - 0.8908643922982761
+
+17) nikolay_parfenovitch_nelyudov_b - 0.8897503680139577
+
+18) nina_b - 0.8829739093780581
+
+19) smerdyakov_b - 0.8766206429374741
+
+20) grigory_vassilyevitch_b - 0.8759161381821468
+
+21) madame_hohlakov_b - 0.8737583235646309
+
+22) mihail_makarovitch_b - 0.8722367622781799
+
+23) ilusha_b - 0.8698915994296551
+
+24) pyotr_ilyitch_perhotin_b - 0.8676095683807408
+
+25) alexey_fyodorovitch_karamazov_b - 0.8662039121267864
+
+26) snegiryov_b - 0.8600081717972995
+
+27) fyodor_pavlovitch_karamazov_b - 0.8594498205840801
+
+28) kolya_krassotkin_b - 0.8472889843834657
+
+29) timofey_b - 0.8446658849716246
+
+30) ivan_fyodorovitch_karamazov_b - 0.8382235958309655
+
+31) yulia_b - 0.8283801181089823
+
+32) church_of_christ_b - 0.8282024366734975
+
+33) pyotr_alexandrovitch_miüsov_b - 0.8267761222488876
+
+34) dmitri_fyodorovitch_karamazov_b - 0.8250726565675359
+
+35) herzenstube_b - 0.8084254150644321
+
+36) father_zossima_b - 0.8079150433590997
+
+37) karl_bernard_b - 0.8030123471316027
+
+38) lyagavy_b - 0.799520385293939
+
+39) varvara_b - 0.7916889190673885
+
+40) tchermashnya_b - 0.7830288176826026
+
+41) mokroe_b - 0.7780967586665466
+
+42) lizaveta_b - 0.7261462538067992
+
+43) von_sohn_b - 0.6992665529251149
+
+Result for the vector: karl_bernard, coming from part a of the book
+Rank: 35 out of 43 characters
+Cosine similarity to the co-referring vector: 0.7317302445092874
+
+1) alexey_fyodorovitch_karamazov_b - 0.8280428051948547
+
+2) mihail_makarovitch_b - 0.8194089776101408
+
+3) dmitri_fyodorovitch_karamazov_b - 0.8062729835510254
+
+4) pyotr_alexandrovitch_miüsov_b - 0.8010335207293491
+
+5) nikolay_parfenovitch_nelyudov_b - 0.7972168922424316
+
+6) alyosha_karamazov_b - 0.7943154450843017
+
+7) mr_rakitin_b - 0.7927100658416748
+
+8) smerdyakov_b - 0.7890271889003796
+
+9) agrafena_alexandrovna_b - 0.7872244715690613
+
+10) smurov_b - 0.7871367335319519
+
+11) maximov_b - 0.7871335383395418
+
+12) pyotr_fomitch_kalganov_b - 0.7870298750978797
+
+13) katya_b - 0.7847853770724178
+
+14) grigory_vassilyevitch_b - 0.7846680411894311
+
+15) katerina_ivanovna_b - 0.7819665643523072
+
+16) fyodor_pavlovitch_karamazov_b - 0.7819258104606994
+
+17) marya_kondratyevna_b - 0.7815799973511754
+
+18) ilusha_b - 0.7802502047866474
+
+19) lise_b - 0.7789559364318848
+
+20) varvara_b - 0.7724384529851959
+
+21) fenya_b - 0.7719459993807091
+
+22) snegiryov_b - 0.7700078213224253
+
+23) madame_hohlakov_b - 0.7699768543243408
+
+24) grushenka_b - 0.7688107490539551
+
+25) misha_b - 0.7684820432375657
+
+26) father_zossima_b - 0.7669260501861572
+
+27) kolya_krassotkin_b - 0.7667230506704433
+
+28) pyotr_ilyitch_perhotin_b - 0.7662478685379028
+
+29) mitya_chapter_i_kuzma_samsonov_b - 0.7644396564698438
+
+30) ivan_fyodorovitch_karamazov_b - 0.7614247345075184
+
+31) herzenstube_b - 0.7609930945626664
+
+32) agafya_ivanovna_b - 0.7608182715394227
+
+33) nina_b - 0.7540268155352376
+
+34) marfa_ignatyevna_b - 0.7523653507232666
+
+35) karl_bernard_b - 0.7317302445092874
+
+36) church_of_christ_b - 0.7303323149681091
+
+37) yulia_b - 0.7281826138496399
+
+38) timofey_b - 0.722055716637119
+
+39) von_sohn_b - 0.7037081541841135
+
+40) lyagavy_b - 0.6968041658401489
+
+41) tchermashnya_b - 0.6924420801532891
+
+42) mokroe_b - 0.6818262948238545
+
+43) lizaveta_b - 0.6488743633702788
+
+Result for the vector: alyosha_karamazov, coming from part b of the book
+Rank: 21 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9363706036055808
+
+1) mitya_chapter_i_kuzma_samsonov_a - 0.9697209000587532
+
+2) ivan_fyodorovitch_karamazov_a - 0.9654026606918984
+
+3) pyotr_alexandrovitch_miüsov_a - 0.965003254115403
+
+4) smerdyakov_a - 0.9619345046242793
+
+5) ilusha_a - 0.9602325534959186
+
+6) marya_kondratyevna_a - 0.9570739839717157
+
+7) dmitri_fyodorovitch_karamazov_a - 0.955676198005683
+
+8) madame_hohlakov_a - 0.9551838298306318
+
+9) lise_a - 0.9547066661540684
+
+10) mr_rakitin_a - 0.9524292349815436
+
+11) katerina_ivanovna_a - 0.9509162560924524
+
+12) grushenka_a - 0.9507698328679518
+
+13) alexey_fyodorovitch_karamazov_a - 0.9502631366566583
+
+14) von_sohn_a - 0.9449051867340676
+
+15) fyodor_pavlovitch_karamazov_a - 0.9415404796600408
+
+16) herzenstube_a - 0.9399535095719541
+
+17) agrafena_alexandrovna_a - 0.9393280040016199
+
+18) lyagavy_a - 0.9387609605873494
+
+19) katya_a - 0.9387026356104178
+
+20) pyotr_fomitch_kalganov_a - 0.9366000890731878
+
+21) alyosha_karamazov_a - 0.9363706036055808
+
+22) maximov_a - 0.9363565407011848
+
+23) grigory_vassilyevitch_a - 0.934921797211279
+
+24) fenya_a - 0.9231882920731571
+
+25) agafya_ivanovna_a - 0.9215997410774093
+
+26) varvara_a - 0.9202939224418372
+
+27) kolya_krassotkin_a - 0.9157465696334904
+
+28) lizaveta_a - 0.9157149691241943
+
+29) father_zossima_a - 0.9096725583076541
+
+30) yulia_a - 0.9047128558158939
+
+31) smurov_a - 0.9005862474441593
+
+32) marfa_ignatyevna_a - 0.8996885299311316
+
+33) misha_a - 0.8934996128082339
+
+34) tchermashnya_a - 0.8858608535445262
+
+35) nina_a - 0.8664169072658269
+
+36) mihail_makarovitch_a - 0.852465331554419
+
+37) church_of_christ_a - 0.8432921077783186
+
+38) snegiryov_a - 0.831069091685902
+
+39) mokroe_a - 0.8309041656141478
+
+40) pyotr_ilyitch_perhotin_a - 0.8176907300949154
+
+41) nikolay_parfenovitch_nelyudov_a - 0.8105734956948156
+
+42) karl_bernard_a - 0.7943154450843017
+
+43) timofey_a - 0.7325369556270228
+
+Result for the vector: mitya_chapter_i_kuzma_samsonov, coming from part b of the book
+Rank: 4 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9610258983342769
+
+1) pyotr_alexandrovitch_miüsov_a - 0.9763562125522728
+
+2) mr_rakitin_a - 0.9705907141458137
+
+3) smerdyakov_a - 0.9652748128607997
+
+4) mitya_chapter_i_kuzma_samsonov_a - 0.9610258983342769
+
+5) grigory_vassilyevitch_a - 0.9595794105780493
+
+6) maximov_a - 0.9543371227778736
+
+7) katerina_ivanovna_a - 0.9537291838607473
+
+8) dmitri_fyodorovitch_karamazov_a - 0.953604644107265
+
+9) alyosha_karamazov_a - 0.951866030693061
+
+10) lise_a - 0.9496540457216491
+
+11) madame_hohlakov_a - 0.9479793027645596
+
+12) ivan_fyodorovitch_karamazov_a - 0.94688415843939
+
+13) grushenka_a - 0.9468652574339814
+
+14) ilusha_a - 0.942053202268292
+
+15) fyodor_pavlovitch_karamazov_a - 0.9417570302776063
+
+16) lyagavy_a - 0.9385620075892841
+
+17) marya_kondratyevna_a - 0.9350037017462448
+
+18) fenya_a - 0.9339705427297825
+
+19) herzenstube_a - 0.9331722379018852
+
+20) agrafena_alexandrovna_a - 0.929463859168536
+
+21) varvara_a - 0.9227095292383729
+
+22) marfa_ignatyevna_a - 0.9201129674911565
+
+23) lizaveta_a - 0.9101309776306217
+
+24) smurov_a - 0.9075864067570678
+
+25) agafya_ivanovna_a - 0.9043145236781539
+
+26) katya_a - 0.8988919854164188
+
+27) alexey_fyodorovitch_karamazov_a - 0.8983038663864199
+
+28) yulia_a - 0.8965451244658084
+
+29) kolya_krassotkin_a - 0.8958212857459443
+
+30) pyotr_fomitch_kalganov_a - 0.8951938277251926
+
+31) father_zossima_a - 0.8942541606123255
+
+32) von_sohn_a - 0.8929803701347038
+
+33) misha_a - 0.8670967379693105
+
+34) nina_a - 0.8602377689026593
+
+35) mihail_makarovitch_a - 0.8504853426831552
+
+36) church_of_christ_a - 0.8270950420442214
+
+37) tchermashnya_a - 0.8204321968297855
+
+38) snegiryov_a - 0.8137020468711911
+
+39) mokroe_a - 0.7937327623367366
+
+40) pyotr_ilyitch_perhotin_a - 0.7668686787046577
+
+41) karl_bernard_a - 0.7644396564698438
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7427244782447868
+
+43) timofey_a - 0.7290350956299857
+
+Result for the vector: ivan_fyodorovitch_karamazov, coming from part b of the book
+Rank: 3 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9022875486440943
+
+1) alexey_fyodorovitch_karamazov_a - 0.9371199607849188
+
+2) dmitri_fyodorovitch_karamazov_a - 0.914427350231725
+
+3) ivan_fyodorovitch_karamazov_a - 0.9022875486440943
+
+4) mitya_chapter_i_kuzma_samsonov_a - 0.8983988883019819
+
+5) smerdyakov_a - 0.8859991499186085
+
+6) pyotr_fomitch_kalganov_a - 0.8807937048919553
+
+7) lise_a - 0.8785277677459871
+
+8) pyotr_alexandrovitch_miüsov_a - 0.8776464085019112
+
+9) maximov_a - 0.8769199325490054
+
+10) lyagavy_a - 0.8748373128522278
+
+11) von_sohn_a - 0.8697715738483829
+
+12) marya_kondratyevna_a - 0.8670309861283922
+
+13) nikolay_parfenovitch_nelyudov_a - 0.8655487298965515
+
+14) madame_hohlakov_a - 0.8650406341242636
+
+15) ilusha_a - 0.8643222532080276
+
+16) grushenka_a - 0.8634778775857752
+
+17) pyotr_ilyitch_perhotin_a - 0.863392548156673
+
+18) fyodor_pavlovitch_karamazov_a - 0.861272291985477
+
+19) mr_rakitin_a - 0.8584193756080418
+
+20) katerina_ivanovna_a - 0.8579530460252485
+
+21) herzenstube_a - 0.8489940436493095
+
+22) agrafena_alexandrovna_a - 0.8483945636984581
+
+23) fenya_a - 0.8409238207064954
+
+24) alyosha_karamazov_a - 0.8407831788063109
+
+25) lizaveta_a - 0.8407353162765563
+
+26) father_zossima_a - 0.838973183754303
+
+27) varvara_a - 0.8389330006281748
+
+28) grigory_vassilyevitch_a - 0.8386753893688104
+
+29) yulia_a - 0.8382235958309655
+
+30) katya_a - 0.8328897953033506
+
+31) agafya_ivanovna_a - 0.8303858738907666
+
+32) misha_a - 0.8294202888703002
+
+33) smurov_a - 0.8265341131050452
+
+34) mihail_makarovitch_a - 0.8237857432620831
+
+35) snegiryov_a - 0.8211160898208677
+
+36) marfa_ignatyevna_a - 0.8146952390670834
+
+37) kolya_krassotkin_a - 0.80039455885952
+
+38) tchermashnya_a - 0.7963833334217483
+
+39) nina_a - 0.7841752042874941
+
+40) church_of_christ_a - 0.7690106171959284
+
+41) karl_bernard_a - 0.7614247345075184
+
+42) mokroe_a - 0.7457292675972038
+
+43) timofey_a - 0.6952231708035975
+
+Result for the vector: dmitri_fyodorovitch_karamazov, coming from part b of the book
+Rank: 2 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9284833116243313
+
+1) alexey_fyodorovitch_karamazov_a - 0.9705653769114856
+
+2) dmitri_fyodorovitch_karamazov_a - 0.9284833116243313
+
+3) nikolay_parfenovitch_nelyudov_a - 0.9181976269601377
+
+4) mitya_chapter_i_kuzma_samsonov_a - 0.8969536485103594
+
+5) ivan_fyodorovitch_karamazov_a - 0.8898895978927612
+
+6) maximov_a - 0.8833089470863342
+
+7) smerdyakov_a - 0.8821487426757812
+
+8) lyagavy_a - 0.8767035268754823
+
+9) pyotr_fomitch_kalganov_a - 0.8735179380465798
+
+10) pyotr_alexandrovitch_miüsov_a - 0.8730800303125408
+
+11) fyodor_pavlovitch_karamazov_a - 0.8723077254111946
+
+12) lise_a - 0.8685595989227295
+
+13) ilusha_a - 0.8654047250747681
+
+14) von_sohn_a - 0.8637787361079081
+
+15) grushenka_a - 0.8633224801209607
+
+16) mr_rakitin_a - 0.8606273614986338
+
+17) madame_hohlakov_a - 0.8604247826464413
+
+18) marya_kondratyevna_a - 0.8600239753723145
+
+19) katerina_ivanovna_a - 0.8537633077431714
+
+20) father_zossima_a - 0.8522979705156121
+
+21) mihail_makarovitch_a - 0.8515226333425875
+
+22) grigory_vassilyevitch_a - 0.8493094444274902
+
+23) herzenstube_a - 0.8491777361419576
+
+24) agrafena_alexandrovna_a - 0.8485714016641918
+
+25) fenya_a - 0.8422684324463738
+
+26) alyosha_karamazov_a - 0.8421919251794785
+
+27) lizaveta_a - 0.8366760514185474
+
+28) katya_a - 0.8358693621080748
+
+29) agafya_ivanovna_a - 0.8347587585449219
+
+30) varvara_a - 0.8312969207763672
+
+31) yulia_a - 0.8250726565675359
+
+32) smurov_a - 0.8244913325016912
+
+33) snegiryov_a - 0.8183408271277458
+
+34) pyotr_ilyitch_perhotin_a - 0.8147829881439826
+
+35) marfa_ignatyevna_a - 0.8116835243513315
+
+36) kolya_krassotkin_a - 0.8064698096233734
+
+37) karl_bernard_a - 0.8062729835510254
+
+38) misha_a - 0.8044870612331011
+
+39) tchermashnya_a - 0.7973708510398865
+
+40) nina_a - 0.7934322110929797
+
+41) church_of_christ_a - 0.7684899568557739
+
+42) mokroe_a - 0.7432977404175856
+
+43) timofey_a - 0.6916362643241882
+
+Result for the vector: smerdyakov, coming from part b of the book
+Rank: 1 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9723646607833766
+
+1) smerdyakov_a - 0.9723646607833766
+
+2) pyotr_alexandrovitch_miüsov_a - 0.9714263081550875
+
+3) ivan_fyodorovitch_karamazov_a - 0.971333142677927
+
+4) mitya_chapter_i_kuzma_samsonov_a - 0.9708122593648744
+
+5) mr_rakitin_a - 0.9655812362183032
+
+6) fyodor_pavlovitch_karamazov_a - 0.9635860302201682
+
+7) katerina_ivanovna_a - 0.9625429753278197
+
+8) grushenka_a - 0.9621982484336492
+
+9) grigory_vassilyevitch_a - 0.9605246735244668
+
+10) ilusha_a - 0.9600242924719273
+
+11) alyosha_karamazov_a - 0.9592286275438018
+
+12) dmitri_fyodorovitch_karamazov_a - 0.9583656763056477
+
+13) madame_hohlakov_a - 0.9576077100050056
+
+14) herzenstube_a - 0.9537982940674099
+
+15) agrafena_alexandrovna_a - 0.9510407331086953
+
+16) lise_a - 0.9482228694227846
+
+17) lyagavy_a - 0.9478439908987308
+
+18) marya_kondratyevna_a - 0.9428877762422362
+
+19) katya_a - 0.9423518077764184
+
+20) maximov_a - 0.9406852651459362
+
+21) kolya_krassotkin_a - 0.9319428760971502
+
+22) agafya_ivanovna_a - 0.9298112308754071
+
+23) von_sohn_a - 0.927319664853765
+
+24) pyotr_fomitch_kalganov_a - 0.9256728247209235
+
+25) alexey_fyodorovitch_karamazov_a - 0.9256588683710475
+
+26) lizaveta_a - 0.924622283808403
+
+27) fenya_a - 0.9217423382017558
+
+28) marfa_ignatyevna_a - 0.9214892247001947
+
+29) father_zossima_a - 0.9174462507633266
+
+30) varvara_a - 0.912772168251541
+
+31) smurov_a - 0.8938005503297323
+
+32) tchermashnya_a - 0.8870266541274436
+
+33) yulia_a - 0.8766206429374741
+
+34) nina_a - 0.8655536450275528
+
+35) misha_a - 0.8646408834839532
+
+36) mihail_makarovitch_a - 0.8543026360453883
+
+37) church_of_christ_a - 0.8510792673920772
+
+38) mokroe_a - 0.8354078832998082
+
+39) snegiryov_a - 0.8299430900710401
+
+40) pyotr_ilyitch_perhotin_a - 0.7914115066177677
+
+41) karl_bernard_a - 0.7890271889003796
+
+42) nikolay_parfenovitch_nelyudov_a - 0.774102468628134
+
+43) timofey_a - 0.716965283985773
+
+Result for the vector: fyodor_pavlovitch_karamazov, coming from part b of the book
+Rank: 1 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9656477611484813
+
+1) fyodor_pavlovitch_karamazov_a - 0.9656477611484813
+
+2) ivan_fyodorovitch_karamazov_a - 0.963499667435906
+
+3) smerdyakov_a - 0.9623998425960651
+
+4) katerina_ivanovna_a - 0.9611162852908326
+
+5) mitya_chapter_i_kuzma_samsonov_a - 0.9594299841606636
+
+6) pyotr_alexandrovitch_miüsov_a - 0.9588215424737573
+
+7) mr_rakitin_a - 0.9580264141528113
+
+8) madame_hohlakov_a - 0.9562295986345568
+
+9) grushenka_a - 0.9555855366936798
+
+10) grigory_vassilyevitch_a - 0.9548810151290306
+
+11) alyosha_karamazov_a - 0.9531913995742866
+
+12) dmitri_fyodorovitch_karamazov_a - 0.9492031396385264
+
+13) lyagavy_a - 0.9485019758790181
+
+14) ilusha_a - 0.9448290500146733
+
+15) herzenstube_a - 0.9414778456429536
+
+16) katya_a - 0.9362401366233892
+
+17) lise_a - 0.9360491075486493
+
+18) maximov_a - 0.93294722241478
+
+19) agrafena_alexandrovna_a - 0.9329190810274679
+
+20) agafya_ivanovna_a - 0.9272893710559998
+
+21) marya_kondratyevna_a - 0.9255430742774577
+
+22) lizaveta_a - 0.9225201010704106
+
+23) pyotr_fomitch_kalganov_a - 0.9204231595488597
+
+24) kolya_krassotkin_a - 0.9138210518573461
+
+25) father_zossima_a - 0.9132803185844042
+
+26) tchermashnya_a - 0.9099955016377286
+
+27) marfa_ignatyevna_a - 0.9097959399223392
+
+28) alexey_fyodorovitch_karamazov_a - 0.9091317057609622
+
+29) fenya_a - 0.9088207212441981
+
+30) von_sohn_a - 0.8989639014314479
+
+31) varvara_a - 0.8934367362596566
+
+32) smurov_a - 0.8811235569568209
+
+33) nina_a - 0.8660627523698201
+
+34) mokroe_a - 0.8645988106727661
+
+35) yulia_a - 0.8594498205840801
+
+36) church_of_christ_a - 0.8513581841374541
+
+37) mihail_makarovitch_a - 0.8416274378743842
+
+38) misha_a - 0.8349353867846266
+
+39) snegiryov_a - 0.8255158662796079
+
+40) pyotr_ilyitch_perhotin_a - 0.7995093107808457
+
+41) karl_bernard_a - 0.7819258104606994
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7736406922340449
+
+43) timofey_a - 0.7028666315754288
+
+Result for the vector: grushenka, coming from part b of the book
+Rank: 4 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9734505383313413
+
+1) madame_hohlakov_a - 0.9802417451215315
+
+2) katerina_ivanovna_a - 0.9756348423849004
+
+3) lise_a - 0.9751343727111816
+
+4) grushenka_a - 0.9734505383313413
+
+5) pyotr_alexandrovitch_miüsov_a - 0.968019608495289
+
+6) mitya_chapter_i_kuzma_samsonov_a - 0.9670009036659672
+
+7) mr_rakitin_a - 0.9668940921488962
+
+8) smerdyakov_a - 0.9603030681610107
+
+9) marya_kondratyevna_a - 0.9544841051101685
+
+10) katya_a - 0.9525989861845383
+
+11) fenya_a - 0.9503404185277352
+
+12) ilusha_a - 0.9488465785980225
+
+13) agrafena_alexandrovna_a - 0.9475866493686087
+
+14) ivan_fyodorovitch_karamazov_a - 0.9463228583335876
+
+15) grigory_vassilyevitch_a - 0.9420314431190491
+
+16) dmitri_fyodorovitch_karamazov_a - 0.9403557812955526
+
+17) lizaveta_a - 0.9387135469146713
+
+18) lyagavy_a - 0.9376161973958078
+
+19) maximov_a - 0.9363740086555481
+
+20) agafya_ivanovna_a - 0.9346308708190918
+
+21) fyodor_pavlovitch_karamazov_a - 0.9343290964168866
+
+22) herzenstube_a - 0.9340928275474581
+
+23) alyosha_karamazov_a - 0.9331584532951404
+
+24) varvara_a - 0.926282525062561
+
+25) marfa_ignatyevna_a - 0.9250687912147533
+
+26) pyotr_fomitch_kalganov_a - 0.9184780765486926
+
+27) alexey_fyodorovitch_karamazov_a - 0.9143652864912339
+
+28) von_sohn_a - 0.9141006742149796
+
+29) smurov_a - 0.9073048885282957
+
+30) kolya_krassotkin_a - 0.9011306225579622
+
+31) yulia_a - 0.8984808386277668
+
+32) father_zossima_a - 0.8983296216529849
+
+33) nina_a - 0.8731008616806166
+
+34) tchermashnya_a - 0.8722809553146362
+
+35) misha_a - 0.8621716581480722
+
+36) mihail_makarovitch_a - 0.8380909062569808
+
+37) church_of_christ_a - 0.8358243703842163
+
+38) mokroe_a - 0.8293496268600018
+
+39) snegiryov_a - 0.7940148588427831
+
+40) pyotr_ilyitch_perhotin_a - 0.7723472850115739
+
+41) karl_bernard_a - 0.7688107490539551
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7630539395245292
+
+43) timofey_a - 0.7271302342414856
+
+Result for the vector: kolya_krassotkin, coming from part b of the book
+Rank: 25 out of 43 characters
+Cosine similarity to the co-referring vector: 0.89437760181694
+
+1) grigory_vassilyevitch_a - 0.9804207098233294
+
+2) alyosha_karamazov_a - 0.9773560762405465
+
+3) fyodor_pavlovitch_karamazov_a - 0.9672256151168805
+
+4) mr_rakitin_a - 0.9662368337825735
+
+5) smerdyakov_a - 0.9630957863869811
+
+6) pyotr_alexandrovitch_miüsov_a - 0.9624858565653837
+
+7) ivan_fyodorovitch_karamazov_a - 0.9524386553502902
+
+8) marfa_ignatyevna_a - 0.9457054734230109
+
+9) dmitri_fyodorovitch_karamazov_a - 0.9441833562632375
+
+10) mitya_chapter_i_kuzma_samsonov_a - 0.9434808560036593
+
+11) katerina_ivanovna_a - 0.9427482800856782
+
+12) grushenka_a - 0.9369741640671739
+
+13) madame_hohlakov_a - 0.9367744643457431
+
+14) maximov_a - 0.9341796079767001
+
+15) herzenstube_a - 0.9302092319352825
+
+16) agrafena_alexandrovna_a - 0.9273800210583371
+
+17) lise_a - 0.9223965452673126
+
+18) lyagavy_a - 0.9198810780083848
+
+19) ilusha_a - 0.9177237798140196
+
+20) agafya_ivanovna_a - 0.9162707974749345
+
+21) fenya_a - 0.9144630755644156
+
+22) lizaveta_a - 0.9114887714386051
+
+23) father_zossima_a - 0.8958981161239009
+
+24) varvara_a - 0.895157999088885
+
+25) kolya_krassotkin_a - 0.89437760181694
+
+26) katya_a - 0.8941586613655154
+
+27) marya_kondratyevna_a - 0.8845079610044995
+
+28) pyotr_fomitch_kalganov_a - 0.8804142617685483
+
+29) alexey_fyodorovitch_karamazov_a - 0.871527433395392
+
+30) nina_a - 0.8565584931706621
+
+31) von_sohn_a - 0.8501119956340825
+
+32) smurov_a - 0.8473432246037453
+
+33) yulia_a - 0.8472889843834657
+
+34) mihail_makarovitch_a - 0.8421068975798014
+
+35) church_of_christ_a - 0.8163799156916206
+
+36) snegiryov_a - 0.8146243691444455
+
+37) misha_a - 0.8070133558495812
+
+38) tchermashnya_a - 0.8068528290478704
+
+39) mokroe_a - 0.7878853082656916
+
+40) karl_bernard_a - 0.7667230506704433
+
+41) pyotr_ilyitch_perhotin_a - 0.7525060471885148
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7310811281204276
+
+43) timofey_a - 0.6835869739301829
+
+Result for the vector: katerina_ivanovna, coming from part b of the book
+Rank: 2 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9790473542894232
+
+1) grushenka_a - 0.9797069077897723
+
+2) katerina_ivanovna_a - 0.9790473542894232
+
+3) madame_hohlakov_a - 0.9714176007659983
+
+4) mitya_chapter_i_kuzma_samsonov_a - 0.9684340627581745
+
+5) katya_a - 0.9672902456233456
+
+6) lise_a - 0.9652740009537448
+
+7) agrafena_alexandrovna_a - 0.9609299495330322
+
+8) smerdyakov_a - 0.9608236790930853
+
+9) pyotr_alexandrovitch_miüsov_a - 0.9556097077015299
+
+10) mr_rakitin_a - 0.9547583718382064
+
+11) ivan_fyodorovitch_karamazov_a - 0.9516955840134107
+
+12) ilusha_a - 0.9495657905289324
+
+13) agafya_ivanovna_a - 0.9494737609436857
+
+14) fyodor_pavlovitch_karamazov_a - 0.9480294240739633
+
+15) lizaveta_a - 0.9471705743728324
+
+16) herzenstube_a - 0.9449119253430684
+
+17) lyagavy_a - 0.9436079162850297
+
+18) grigory_vassilyevitch_a - 0.9435345744393236
+
+19) dmitri_fyodorovitch_karamazov_a - 0.9425454982411022
+
+20) fenya_a - 0.9396319877443359
+
+21) marya_kondratyevna_a - 0.9359120333063756
+
+22) alyosha_karamazov_a - 0.9327716389120101
+
+23) marfa_ignatyevna_a - 0.930264369006476
+
+24) maximov_a - 0.9229029004131212
+
+25) alexey_fyodorovitch_karamazov_a - 0.9194594155614386
+
+26) varvara_a - 0.9166006619633332
+
+27) von_sohn_a - 0.9089369014984854
+
+28) pyotr_fomitch_kalganov_a - 0.9079781390409195
+
+29) father_zossima_a - 0.907410106725424
+
+30) kolya_krassotkin_a - 0.9072552538444526
+
+31) tchermashnya_a - 0.8963697100236679
+
+32) yulia_a - 0.8908643922982761
+
+33) nina_a - 0.8903350833957124
+
+34) smurov_a - 0.8865968781647469
+
+35) misha_a - 0.8561470081937804
+
+36) mokroe_a - 0.8511524187942459
+
+37) church_of_christ_a - 0.8508853988178763
+
+38) mihail_makarovitch_a - 0.8479799790364669
+
+39) snegiryov_a - 0.815337351183938
+
+40) pyotr_ilyitch_perhotin_a - 0.794659089564617
+
+41) karl_bernard_a - 0.7819665643523072
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7727555456545628
+
+43) timofey_a - 0.711797462671625
+
+Result for the vector: grigory_vassilyevitch, coming from part b of the book
+Rank: 2 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9745836273083927
+
+1) smerdyakov_a - 0.9748632326803682
+
+2) grigory_vassilyevitch_a - 0.9745836273083927
+
+3) mr_rakitin_a - 0.9739433558054739
+
+4) pyotr_alexandrovitch_miüsov_a - 0.9735608744214419
+
+5) alyosha_karamazov_a - 0.9702261090278694
+
+6) mitya_chapter_i_kuzma_samsonov_a - 0.9687850512522398
+
+7) fyodor_pavlovitch_karamazov_a - 0.9666565696410454
+
+8) ivan_fyodorovitch_karamazov_a - 0.9636033199069922
+
+9) dmitri_fyodorovitch_karamazov_a - 0.9618928477891865
+
+10) grushenka_a - 0.9598463153747662
+
+11) katerina_ivanovna_a - 0.9595584583414098
+
+12) maximov_a - 0.9549548056748642
+
+13) ilusha_a - 0.9534848360130306
+
+14) herzenstube_a - 0.9511044708899626
+
+15) lyagavy_a - 0.9508835985993305
+
+16) agrafena_alexandrovna_a - 0.9502470463661731
+
+17) madame_hohlakov_a - 0.9500978901953172
+
+18) lise_a - 0.9431723986165302
+
+19) marfa_ignatyevna_a - 0.9297271966934271
+
+20) fenya_a - 0.9291839918737451
+
+21) lizaveta_a - 0.9263511300087041
+
+22) agafya_ivanovna_a - 0.9252629920683524
+
+23) kolya_krassotkin_a - 0.9246288627828523
+
+24) katya_a - 0.9242500066757268
+
+25) marya_kondratyevna_a - 0.9236214802490799
+
+26) father_zossima_a - 0.9135831697484053
+
+27) pyotr_fomitch_kalganov_a - 0.9128370388940527
+
+28) varvara_a - 0.9125968865992511
+
+29) alexey_fyodorovitch_karamazov_a - 0.90800845623017
+
+30) von_sohn_a - 0.8992471426949793
+
+31) smurov_a - 0.8972628835126301
+
+32) yulia_a - 0.8759161381821468
+
+33) nina_a - 0.8695945662018537
+
+34) mihail_makarovitch_a - 0.8643002075791112
+
+35) tchermashnya_a - 0.8553853121170231
+
+36) church_of_christ_a - 0.8485826940189202
+
+37) misha_a - 0.8444819635770364
+
+38) snegiryov_a - 0.8250334262847959
+
+39) mokroe_a - 0.8176299929618893
+
+40) karl_bernard_a - 0.7846680411894311
+
+41) pyotr_ilyitch_perhotin_a - 0.7773124245032758
+
+42) nikolay_parfenovitch_nelyudov_a - 0.759044468402868
+
+43) timofey_a - 0.7094651037773441
+
+Result for the vector: mr_rakitin, coming from part b of the book
+Rank: 4 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9712439792606861
+
+1) smerdyakov_a - 0.9799810647964478
+
+2) pyotr_alexandrovitch_miüsov_a - 0.9760174183824825
+
+3) mitya_chapter_i_kuzma_samsonov_a - 0.9754055753108534
+
+4) mr_rakitin_a - 0.9712439792606861
+
+5) grigory_vassilyevitch_a - 0.9672379493713379
+
+6) grushenka_a - 0.9662603099656544
+
+7) katerina_ivanovna_a - 0.965046136529629
+
+8) ivan_fyodorovitch_karamazov_a - 0.9611713886260986
+
+9) dmitri_fyodorovitch_karamazov_a - 0.9611327671329535
+
+10) fyodor_pavlovitch_karamazov_a - 0.9603046798524468
+
+11) agrafena_alexandrovna_a - 0.9594325374880546
+
+12) alyosha_karamazov_a - 0.9570190284859572
+
+13) lise_a - 0.9553472995758057
+
+14) maximov_a - 0.952739417552948
+
+15) lyagavy_a - 0.9524881527569343
+
+16) herzenstube_a - 0.952156370621167
+
+17) ilusha_a - 0.9516388773918152
+
+18) madame_hohlakov_a - 0.950675396641356
+
+19) marfa_ignatyevna_a - 0.9394663536230553
+
+20) fenya_a - 0.937288133421187
+
+21) marya_kondratyevna_a - 0.9343882203102112
+
+22) agafya_ivanovna_a - 0.9309268593788147
+
+23) katya_a - 0.9283174829672284
+
+24) varvara_a - 0.9250925779342651
+
+25) lizaveta_a - 0.9225137783595208
+
+26) father_zossima_a - 0.914527600137736
+
+27) kolya_krassotkin_a - 0.9134939364496524
+
+28) alexey_fyodorovitch_karamazov_a - 0.9113910741443099
+
+29) von_sohn_a - 0.9040906698730792
+
+30) smurov_a - 0.8967099847370411
+
+31) pyotr_fomitch_kalganov_a - 0.8951830330381986
+
+32) yulia_a - 0.891633815071953
+
+33) nina_a - 0.8786098812353532
+
+34) mihail_makarovitch_a - 0.8683556992795662
+
+35) misha_a - 0.8665497978598016
+
+36) church_of_christ_a - 0.8617323040962219
+
+37) tchermashnya_a - 0.851825475692749
+
+38) snegiryov_a - 0.8239356770477118
+
+39) mokroe_a - 0.8157675156454766
+
+40) karl_bernard_a - 0.7927100658416748
+
+41) pyotr_ilyitch_perhotin_a - 0.7873250968858556
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7658011773706198
+
+43) timofey_a - 0.7171681523323059
+
+Result for the vector: alexey_fyodorovitch_karamazov, coming from part b of the book
+Rank: 1 out of 43 characters
+Cosine similarity to the co-referring vector: 0.982183574568248
+
+1) alexey_fyodorovitch_karamazov_a - 0.982183574568248
+
+2) dmitri_fyodorovitch_karamazov_a - 0.9440370235421064
+
+3) mitya_chapter_i_kuzma_samsonov_a - 0.9342119136922428
+
+4) lise_a - 0.914452850818634
+
+5) smerdyakov_a - 0.9143707156181335
+
+6) ivan_fyodorovitch_karamazov_a - 0.9139138460159302
+
+7) lyagavy_a - 0.9088355573664776
+
+8) pyotr_alexandrovitch_miüsov_a - 0.9083402862143239
+
+9) ilusha_a - 0.908324122428894
+
+10) grushenka_a - 0.905922520866701
+
+11) marya_kondratyevna_a - 0.905567467212677
+
+12) maximov_a - 0.9042931199073792
+
+13) von_sohn_a - 0.9018820792997507
+
+14) katerina_ivanovna_a - 0.8983601003396545
+
+15) fyodor_pavlovitch_karamazov_a - 0.8970295848232771
+
+16) mr_rakitin_a - 0.8945801916968724
+
+17) madame_hohlakov_a - 0.8934214381403164
+
+18) agrafena_alexandrovna_a - 0.8925239911704116
+
+19) herzenstube_a - 0.8873773351457974
+
+20) father_zossima_a - 0.8855372139491328
+
+21) nikolay_parfenovitch_nelyudov_a - 0.8851725390656331
+
+22) pyotr_fomitch_kalganov_a - 0.8829685519356414
+
+23) katya_a - 0.8823567558739651
+
+24) fenya_a - 0.8794095778289316
+
+25) varvara_a - 0.878582775592804
+
+26) grigory_vassilyevitch_a - 0.8781153559684753
+
+27) agafya_ivanovna_a - 0.8775942325592041
+
+28) lizaveta_a - 0.8746241852417118
+
+29) alyosha_karamazov_a - 0.8732519074232539
+
+30) mihail_makarovitch_a - 0.8676673252780855
+
+31) yulia_a - 0.8662039121267864
+
+32) smurov_a - 0.862344273189053
+
+33) misha_a - 0.8608609520875855
+
+34) marfa_ignatyevna_a - 0.8428023363830066
+
+35) nina_a - 0.8417530467215892
+
+36) kolya_krassotkin_a - 0.8416069244380653
+
+37) snegiryov_a - 0.8353674313645039
+
+38) karl_bernard_a - 0.8280428051948547
+
+39) tchermashnya_a - 0.8270423412322998
+
+40) pyotr_ilyitch_perhotin_a - 0.8241741762057453
+
+41) church_of_christ_a - 0.8100874423980713
+
+42) mokroe_a - 0.7759066090528149
+
+43) timofey_a - 0.7132741212844849
+
+Result for the vector: lise, coming from part b of the book
+Rank: 3 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9777452349662781
+
+1) grushenka_a - 0.9837028364781016
+
+2) katerina_ivanovna_a - 0.9805406624239885
+
+3) lise_a - 0.9777452349662781
+
+4) madame_hohlakov_a - 0.9728936246899855
+
+5) mitya_chapter_i_kuzma_samsonov_a - 0.9671041389045649
+
+6) agrafena_alexandrovna_a - 0.9653589088152607
+
+7) ilusha_a - 0.9612835645675659
+
+8) katya_a - 0.959598062014466
+
+9) pyotr_alexandrovitch_miüsov_a - 0.9557920747051218
+
+10) smerdyakov_a - 0.9546642899513245
+
+11) fenya_a - 0.95456680520078
+
+12) agafya_ivanovna_a - 0.9495641589164734
+
+13) mr_rakitin_a - 0.9488964707317089
+
+14) herzenstube_a - 0.9482751550346495
+
+15) marya_kondratyevna_a - 0.9462043046951294
+
+16) lizaveta_a - 0.9460344878455708
+
+17) grigory_vassilyevitch_a - 0.9366371631622314
+
+18) dmitri_fyodorovitch_karamazov_a - 0.9355989136934945
+
+19) ivan_fyodorovitch_karamazov_a - 0.9349250793457031
+
+20) lyagavy_a - 0.9339621941435995
+
+21) marfa_ignatyevna_a - 0.9300169307003593
+
+22) varvara_a - 0.9291500449180603
+
+23) fyodor_pavlovitch_karamazov_a - 0.9290837091753673
+
+24) alexey_fyodorovitch_karamazov_a - 0.9209708524328994
+
+25) alyosha_karamazov_a - 0.920884306483527
+
+26) von_sohn_a - 0.9194755232177835
+
+27) maximov_a - 0.9161500334739685
+
+28) yulia_a - 0.9062000568985921
+
+29) father_zossima_a - 0.9052189048994256
+
+30) kolya_krassotkin_a - 0.9014508186906104
+
+31) smurov_a - 0.9003985583544653
+
+32) nina_a - 0.8972225066688728
+
+33) pyotr_fomitch_kalganov_a - 0.8909322088401209
+
+34) tchermashnya_a - 0.8907023668289185
+
+35) misha_a - 0.8782879782743482
+
+36) mokroe_a - 0.8533338816960995
+
+37) church_of_christ_a - 0.8465903997421265
+
+38) mihail_makarovitch_a - 0.8392589188063804
+
+39) snegiryov_a - 0.8005262494400902
+
+40) karl_bernard_a - 0.7789559364318848
+
+41) pyotr_ilyitch_perhotin_a - 0.7714809315514023
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7589225029303148
+
+43) timofey_a - 0.7327073812484741
+
+Result for the vector: nikolay_parfenovitch_nelyudov, coming from part b of the book
+Rank: 42 out of 43 characters
+Cosine similarity to the co-referring vector: 0.7808744180723691
+
+1) pyotr_alexandrovitch_miüsov_a - 0.9823870083824456
+
+2) smerdyakov_a - 0.9785271883010864
+
+3) mr_rakitin_a - 0.978186608661021
+
+4) mitya_chapter_i_kuzma_samsonov_a - 0.9684516806333272
+
+5) ivan_fyodorovitch_karamazov_a - 0.9655694961547852
+
+6) madame_hohlakov_a - 0.9644433547390512
+
+7) grigory_vassilyevitch_a - 0.9631240963935852
+
+8) maximov_a - 0.9628470540046692
+
+9) dmitri_fyodorovitch_karamazov_a - 0.9624446056816234
+
+10) katerina_ivanovna_a - 0.9597608137059459
+
+11) grushenka_a - 0.9574928233018971
+
+12) fyodor_pavlovitch_karamazov_a - 0.9558330204586392
+
+13) lise_a - 0.9549631476402283
+
+14) alyosha_karamazov_a - 0.9546998116195107
+
+15) ilusha_a - 0.9485141038894653
+
+16) lyagavy_a - 0.9440903944996121
+
+17) herzenstube_a - 0.9419958660607565
+
+18) marya_kondratyevna_a - 0.9419279098510742
+
+19) agrafena_alexandrovna_a - 0.9402193951868357
+
+20) fenya_a - 0.9381534140751787
+
+21) marfa_ignatyevna_a - 0.9312632042922516
+
+22) varvara_a - 0.9254403114318848
+
+23) agafya_ivanovna_a - 0.9250507354736328
+
+24) alexey_fyodorovitch_karamazov_a - 0.9221374346099771
+
+25) katya_a - 0.9164417932296884
+
+26) pyotr_fomitch_kalganov_a - 0.9163966824771967
+
+27) lizaveta_a - 0.9138035126807416
+
+28) father_zossima_a - 0.9080217535482809
+
+29) kolya_krassotkin_a - 0.9047902879243933
+
+30) von_sohn_a - 0.9029090077551908
+
+31) smurov_a - 0.9026081024045899
+
+32) yulia_a - 0.8897503680139577
+
+33) mihail_makarovitch_a - 0.8711136060289395
+
+34) nina_a - 0.8692903958905277
+
+35) misha_a - 0.8641415319358404
+
+36) tchermashnya_a - 0.84281325340271
+
+37) church_of_christ_a - 0.8336416482925415
+
+38) snegiryov_a - 0.8239264979318692
+
+39) mokroe_a - 0.8080006127357863
+
+40) karl_bernard_a - 0.7972168922424316
+
+41) pyotr_ilyitch_perhotin_a - 0.7868789561463039
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7808744180723691
+
+43) timofey_a - 0.7223652005195618
+
+Result for the vector: pyotr_alexandrovitch_miüsov, coming from part b of the book
+Rank: 10 out of 43 characters
+Cosine similarity to the co-referring vector: 0.8732259088850796
+
+1) alexey_fyodorovitch_karamazov_a - 0.9406718260650483
+
+2) dmitri_fyodorovitch_karamazov_a - 0.9177614176940532
+
+3) nikolay_parfenovitch_nelyudov_a - 0.9167936667913501
+
+4) mitya_chapter_i_kuzma_samsonov_a - 0.897905620995
+
+5) maximov_a - 0.8952176837687998
+
+6) lyagavy_a - 0.8839651873090975
+
+7) smerdyakov_a - 0.8838200832551747
+
+8) ivan_fyodorovitch_karamazov_a - 0.8837843204672436
+
+9) pyotr_fomitch_kalganov_a - 0.8770177699024185
+
+10) pyotr_alexandrovitch_miüsov_a - 0.8732259088850796
+
+11) lise_a - 0.8725044391305581
+
+12) fyodor_pavlovitch_karamazov_a - 0.8706940153034359
+
+13) mr_rakitin_a - 0.8706004956185704
+
+14) madame_hohlakov_a - 0.8690358322284122
+
+15) grushenka_a - 0.8639084195954267
+
+16) marya_kondratyevna_a - 0.861522104189459
+
+17) ilusha_a - 0.8587224739409234
+
+18) katerina_ivanovna_a - 0.8582140718826098
+
+19) father_zossima_a - 0.8495985612392888
+
+20) grigory_vassilyevitch_a - 0.849378909152118
+
+21) fenya_a - 0.8454185036074223
+
+22) smurov_a - 0.8419827567940162
+
+23) herzenstube_a - 0.8419355593381416
+
+24) von_sohn_a - 0.8413489366381727
+
+25) mihail_makarovitch_a - 0.8406075584707425
+
+26) lizaveta_a - 0.8390697991016332
+
+27) alyosha_karamazov_a - 0.8373034749004375
+
+28) katya_a - 0.833810642404316
+
+29) agrafena_alexandrovna_a - 0.832354490809815
+
+30) agafya_ivanovna_a - 0.8313214430606799
+
+31) varvara_a - 0.827532018051506
+
+32) yulia_a - 0.8267761222488876
+
+33) marfa_ignatyevna_a - 0.8171889320482852
+
+34) pyotr_ilyitch_perhotin_a - 0.8133601899933791
+
+35) karl_bernard_a - 0.8010335207293491
+
+36) kolya_krassotkin_a - 0.7991435885684645
+
+37) snegiryov_a - 0.7948239560267889
+
+38) tchermashnya_a - 0.7922851679410094
+
+39) nina_a - 0.7914378630277342
+
+40) misha_a - 0.7894714239397252
+
+41) church_of_christ_a - 0.7678101291599911
+
+42) mokroe_a - 0.7452819417669129
+
+43) timofey_a - 0.6755261026479635
+
+Result for the vector: ilusha, coming from part b of the book
+Rank: 11 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9583443428072742
+
+1) mitya_chapter_i_kuzma_samsonov_a - 0.9711642895741117
+
+2) smerdyakov_a - 0.9705501216322129
+
+3) pyotr_alexandrovitch_miüsov_a - 0.9690384324124296
+
+4) katerina_ivanovna_a - 0.9687602827322438
+
+5) mr_rakitin_a - 0.9682487287224855
+
+6) grushenka_a - 0.9671820382584511
+
+7) alyosha_karamazov_a - 0.9663783311843941
+
+8) grigory_vassilyevitch_a - 0.965224029706478
+
+9) fyodor_pavlovitch_karamazov_a - 0.9644984645249289
+
+10) ivan_fyodorovitch_karamazov_a - 0.9613178991485911
+
+11) ilusha_a - 0.9583443428072742
+
+12) madame_hohlakov_a - 0.9576821041798003
+
+13) agrafena_alexandrovna_a - 0.954292294638905
+
+14) dmitri_fyodorovitch_karamazov_a - 0.9536128695472634
+
+15) herzenstube_a - 0.9523951496371377
+
+16) lyagavy_a - 0.9510475709722208
+
+17) lise_a - 0.949118676834187
+
+18) maximov_a - 0.9406907593792241
+
+19) katya_a - 0.9397863745689459
+
+20) agafya_ivanovna_a - 0.935075227315712
+
+21) lizaveta_a - 0.9338271617889471
+
+22) marya_kondratyevna_a - 0.9309396188891178
+
+23) marfa_ignatyevna_a - 0.9262690544128483
+
+24) kolya_krassotkin_a - 0.9261665432254621
+
+25) fenya_a - 0.9216577136022571
+
+26) father_zossima_a - 0.9188401795816208
+
+27) varvara_a - 0.9095205122518251
+
+28) pyotr_fomitch_kalganov_a - 0.9079426040717835
+
+29) alexey_fyodorovitch_karamazov_a - 0.9076324701309268
+
+30) von_sohn_a - 0.8994739383615906
+
+31) smurov_a - 0.8916849623101994
+
+32) nina_a - 0.8855439952340265
+
+33) tchermashnya_a - 0.8834855029889657
+
+34) yulia_a - 0.8698915994296551
+
+35) mokroe_a - 0.8473938703537047
+
+36) church_of_christ_a - 0.8473087044174267
+
+37) misha_a - 0.8467693511522589
+
+38) mihail_makarovitch_a - 0.843914408217143
+
+39) snegiryov_a - 0.8194745779037533
+
+40) pyotr_ilyitch_perhotin_a - 0.7828739544303471
+
+41) karl_bernard_a - 0.7802502047866474
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7584677338600213
+
+43) timofey_a - 0.7114914827649914
+
+Result for the vector: father_zossima, coming from part b of the book
+Rank: 1 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9481088550025925
+
+1) father_zossima_a - 0.9481088550025925
+
+2) mitya_chapter_i_kuzma_samsonov_a - 0.892495698184033
+
+3) ilusha_a - 0.8912272453308105
+
+4) lyagavy_a - 0.887157347415607
+
+5) herzenstube_a - 0.8763695506609084
+
+6) smerdyakov_a - 0.8744906187057495
+
+7) marya_kondratyevna_a - 0.8730437159538269
+
+8) katerina_ivanovna_a - 0.8729694745829548
+
+9) lizaveta_a - 0.8723900838130778
+
+10) grushenka_a - 0.8717543925946288
+
+11) pyotr_alexandrovitch_miüsov_a - 0.8682366170601171
+
+12) lise_a - 0.867948591709137
+
+13) alexey_fyodorovitch_karamazov_a - 0.864020339490197
+
+14) katya_a - 0.8638598241722494
+
+15) ivan_fyodorovitch_karamazov_a - 0.862886369228363
+
+16) agrafena_alexandrovna_a - 0.8626324966707883
+
+17) fyodor_pavlovitch_karamazov_a - 0.8592236125931986
+
+18) dmitri_fyodorovitch_karamazov_a - 0.8588058436628688
+
+19) church_of_christ_a - 0.8578943014144897
+
+20) madame_hohlakov_a - 0.8534479395582661
+
+21) mr_rakitin_a - 0.8515069573219459
+
+22) maximov_a - 0.8511936068534851
+
+23) von_sohn_a - 0.8511662140836187
+
+24) grigory_vassilyevitch_a - 0.8507730960845947
+
+25) agafya_ivanovna_a - 0.8494312167167664
+
+26) fenya_a - 0.8386914980021569
+
+27) alyosha_karamazov_a - 0.8367230198814299
+
+28) pyotr_fomitch_kalganov_a - 0.8344257572635572
+
+29) varvara_a - 0.831357479095459
+
+30) kolya_krassotkin_a - 0.8296232325063224
+
+31) smurov_a - 0.8276996715247842
+
+32) nina_a - 0.8267277272615167
+
+33) marfa_ignatyevna_a - 0.8182726394100585
+
+34) tchermashnya_a - 0.8156828284263611
+
+35) yulia_a - 0.8079150433590997
+
+36) misha_a - 0.7991687179107252
+
+37) mokroe_a - 0.7743320926625797
+
+38) mihail_makarovitch_a - 0.7723967568637887
+
+39) karl_bernard_a - 0.7669260501861572
+
+40) snegiryov_a - 0.7644304492730184
+
+41) pyotr_ilyitch_perhotin_a - 0.7280374331452005
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7215970588682342
+
+43) timofey_a - 0.6836522221565247
+
+Result for the vector: pyotr_ilyitch_perhotin, coming from part b of the book
+Rank: 32 out of 43 characters
+Cosine similarity to the co-referring vector: 0.8484116286986111
+
+1) dmitri_fyodorovitch_karamazov_a - 0.9273806257617118
+
+2) alexey_fyodorovitch_karamazov_a - 0.9261571720932245
+
+3) ivan_fyodorovitch_karamazov_a - 0.9229216575622559
+
+4) mitya_chapter_i_kuzma_samsonov_a - 0.9222474740596147
+
+5) smerdyakov_a - 0.9169554710388184
+
+6) pyotr_alexandrovitch_miüsov_a - 0.9155715804610818
+
+7) maximov_a - 0.9127565622329712
+
+8) pyotr_fomitch_kalganov_a - 0.9121500306040047
+
+9) lise_a - 0.9064493179321289
+
+10) mr_rakitin_a - 0.9019016085921775
+
+11) madame_hohlakov_a - 0.9006992250889313
+
+12) marya_kondratyevna_a - 0.8996567726135254
+
+13) lyagavy_a - 0.8964470892085762
+
+14) ilusha_a - 0.8918248414993286
+
+15) katerina_ivanovna_a - 0.8909663227488499
+
+16) grushenka_a - 0.8896373378798236
+
+17) fyodor_pavlovitch_karamazov_a - 0.8884955115022967
+
+18) von_sohn_a - 0.8807443642838114
+
+19) grigory_vassilyevitch_a - 0.8774740099906921
+
+20) alyosha_karamazov_a - 0.8755531832905536
+
+21) herzenstube_a - 0.8744458109801103
+
+22) fenya_a - 0.8718225619740061
+
+23) varvara_a - 0.8690791726112366
+
+24) yulia_a - 0.8676095683807408
+
+25) agrafena_alexandrovna_a - 0.8663599331808072
+
+26) smurov_a - 0.8611973010780051
+
+27) lizaveta_a - 0.8593701040369349
+
+28) father_zossima_a - 0.8583741868511342
+
+29) agafya_ivanovna_a - 0.8568300008773804
+
+30) katya_a - 0.8557404193723467
+
+31) marfa_ignatyevna_a - 0.8508459240702361
+
+32) pyotr_ilyitch_perhotin_a - 0.8484116286986111
+
+33) misha_a - 0.8455662819405642
+
+34) mihail_makarovitch_a - 0.8370168902267894
+
+35) nikolay_parfenovitch_nelyudov_a - 0.8322387833737617
+
+36) kolya_krassotkin_a - 0.8299923044447732
+
+37) snegiryov_a - 0.8209885848157769
+
+38) tchermashnya_a - 0.8119928240776062
+
+39) nina_a - 0.8057993418931234
+
+40) church_of_christ_a - 0.7836470007896423
+
+41) mokroe_a - 0.7699989539384232
+
+42) karl_bernard_a - 0.7662478685379028
+
+43) timofey_a - 0.7216887474060059
+
+Result for the vector: madame_hohlakov, coming from part b of the book
+Rank: 1 out of 43 characters
+Cosine similarity to the co-referring vector: 0.981198280489394
+
+1) madame_hohlakov_a - 0.981198280489394
+
+2) katerina_ivanovna_a - 0.9772911363032804
+
+3) grushenka_a - 0.9696239196805927
+
+4) lise_a - 0.9599159955978394
+
+5) pyotr_alexandrovitch_miüsov_a - 0.9581162383417867
+
+6) smerdyakov_a - 0.9548070430755615
+
+7) katya_a - 0.9547293755250814
+
+8) mitya_chapter_i_kuzma_samsonov_a - 0.9535772232069257
+
+9) mr_rakitin_a - 0.9525554804470866
+
+10) ivan_fyodorovitch_karamazov_a - 0.9519017934799194
+
+11) agrafena_alexandrovna_a - 0.9461598332118857
+
+12) fyodor_pavlovitch_karamazov_a - 0.945636812112523
+
+13) grigory_vassilyevitch_a - 0.9449090957641602
+
+14) lizaveta_a - 0.9437093105142914
+
+15) ilusha_a - 0.9413458108901978
+
+16) alyosha_karamazov_a - 0.9408330882092187
+
+17) agafya_ivanovna_a - 0.9404241442680359
+
+18) herzenstube_a - 0.9374024942633583
+
+19) fenya_a - 0.9352714102051086
+
+20) dmitri_fyodorovitch_karamazov_a - 0.9340590873921478
+
+21) marya_kondratyevna_a - 0.933404803276062
+
+22) marfa_ignatyevna_a - 0.9329590161418345
+
+23) lyagavy_a - 0.9313876310404433
+
+24) pyotr_fomitch_kalganov_a - 0.9186614204250936
+
+25) maximov_a - 0.9153786897659302
+
+26) varvara_a - 0.9107550978660583
+
+27) alexey_fyodorovitch_karamazov_a - 0.9058143440374357
+
+28) von_sohn_a - 0.9052825243855279
+
+29) father_zossima_a - 0.9047964868070805
+
+30) tchermashnya_a - 0.9018425345420837
+
+31) kolya_krassotkin_a - 0.9004033863304043
+
+32) yulia_a - 0.8737583235646309
+
+33) nina_a - 0.8721927252045604
+
+34) smurov_a - 0.8706667500336931
+
+35) mokroe_a - 0.8561285648422593
+
+36) church_of_christ_a - 0.8406779170036316
+
+37) misha_a - 0.8387087679678951
+
+38) mihail_makarovitch_a - 0.831243882701167
+
+39) snegiryov_a - 0.7981875418536404
+
+40) pyotr_ilyitch_perhotin_a - 0.771949006798924
+
+41) karl_bernard_a - 0.7699768543243408
+
+42) nikolay_parfenovitch_nelyudov_a - 0.757711932522771
+
+43) timofey_a - 0.7092238664627075
+
+Result for the vector: katya, coming from part b of the book
+Rank: 12 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9545390551732844
+
+1) grushenka_a - 0.9811816777911819
+
+2) lise_a - 0.9796327340383985
+
+3) katerina_ivanovna_a - 0.9787084739245604
+
+4) mitya_chapter_i_kuzma_samsonov_a - 0.9767308235168527
+
+5) agrafena_alexandrovna_a - 0.9692764823335097
+
+6) madame_hohlakov_a - 0.9685122044544408
+
+7) pyotr_alexandrovitch_miüsov_a - 0.9670130630127904
+
+8) smerdyakov_a - 0.9647550561878135
+
+9) ilusha_a - 0.9612892843061276
+
+10) mr_rakitin_a - 0.9579377174377509
+
+11) fenya_a - 0.9578762314805004
+
+12) katya_a - 0.9545390551732844
+
+13) marya_kondratyevna_a - 0.9512186617385561
+
+14) dmitri_fyodorovitch_karamazov_a - 0.9501737356185981
+
+15) grigory_vassilyevitch_a - 0.9490080445413633
+
+16) herzenstube_a - 0.9472153218260367
+
+17) ivan_fyodorovitch_karamazov_a - 0.9430313076395592
+
+18) lizaveta_a - 0.9405991960286135
+
+19) varvara_a - 0.9404965007601099
+
+20) agafya_ivanovna_a - 0.9404174053917785
+
+21) lyagavy_a - 0.9397613650347026
+
+22) marfa_ignatyevna_a - 0.9379479811129547
+
+23) fyodor_pavlovitch_karamazov_a - 0.9377177953720159
+
+24) alyosha_karamazov_a - 0.9357496423422864
+
+25) maximov_a - 0.9294556337270535
+
+26) alexey_fyodorovitch_karamazov_a - 0.9255142719166602
+
+27) von_sohn_a - 0.9181031809541451
+
+28) yulia_a - 0.9162478446960515
+
+29) smurov_a - 0.9076209068298404
+
+30) father_zossima_a - 0.9071038961410587
+
+31) kolya_krassotkin_a - 0.9049410223960941
+
+32) pyotr_fomitch_kalganov_a - 0.8926442265510622
+
+33) nina_a - 0.8883777061184135
+
+34) misha_a - 0.8869055509567324
+
+35) tchermashnya_a - 0.8726553244981379
+
+36) church_of_christ_a - 0.8537006290972623
+
+37) mihail_makarovitch_a - 0.8478432893753112
+
+38) mokroe_a - 0.8335045973664043
+
+39) snegiryov_a - 0.8036442760997148
+
+40) karl_bernard_a - 0.7847853770724178
+
+41) pyotr_ilyitch_perhotin_a - 0.7766855955123957
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7671449502879322
+
+43) timofey_a - 0.7207169366310214
+
+Result for the vector: church_of_christ, coming from part b of the book
+Rank: 1 out of 43 characters
+Cosine similarity to the co-referring vector: 0.907368540763855
+
+1) church_of_christ_a - 0.907368540763855
+
+2) katerina_ivanovna_a - 0.9008602768439141
+
+3) lyagavy_a - 0.8962240486211795
+
+4) grushenka_a - 0.8956960315342051
+
+5) mitya_chapter_i_kuzma_samsonov_a - 0.8917821114193151
+
+6) ilusha_a - 0.8910285234451294
+
+7) agrafena_alexandrovna_a - 0.8892173635026713
+
+8) father_zossima_a - 0.8881053991254942
+
+9) lizaveta_a - 0.8860384753965439
+
+10) herzenstube_a - 0.8846663970152921
+
+11) lise_a - 0.883239209651947
+
+12) smerdyakov_a - 0.8751906156539917
+
+13) pyotr_alexandrovitch_miüsov_a - 0.873536899860281
+
+14) katya_a - 0.8700545352729894
+
+15) madame_hohlakov_a - 0.8690934440223412
+
+16) marya_kondratyevna_a - 0.8672305941581726
+
+17) fyodor_pavlovitch_karamazov_a - 0.8649391612446824
+
+18) agafya_ivanovna_a - 0.8606640100479126
+
+19) tchermashnya_a - 0.8590852618217468
+
+20) ivan_fyodorovitch_karamazov_a - 0.8563834428787231
+
+21) varvara_a - 0.8553698658943176
+
+22) grigory_vassilyevitch_a - 0.85471510887146
+
+23) mr_rakitin_a - 0.8537233559058112
+
+24) dmitri_fyodorovitch_karamazov_a - 0.8521743504897162
+
+25) alyosha_karamazov_a - 0.851670673589152
+
+26) maximov_a - 0.8508926630020142
+
+27) mokroe_a - 0.8448431399371127
+
+28) fenya_a - 0.8426656974156412
+
+29) nina_a - 0.8387463496621131
+
+30) von_sohn_a - 0.8387105714890535
+
+31) smurov_a - 0.8379507757454663
+
+32) alexey_fyodorovitch_karamazov_a - 0.8321519394011476
+
+33) yulia_a - 0.8282024366734975
+
+34) marfa_ignatyevna_a - 0.8267784611450724
+
+35) kolya_krassotkin_a - 0.8210334288457987
+
+36) pyotr_fomitch_kalganov_a - 0.8067060228165389
+
+37) misha_a - 0.8011555194166007
+
+38) mihail_makarovitch_a - 0.7840556035008681
+
+39) snegiryov_a - 0.7442452159074091
+
+40) karl_bernard_a - 0.7303323149681091
+
+41) pyotr_ilyitch_perhotin_a - 0.7288388771510806
+
+42) nikolay_parfenovitch_nelyudov_a - 0.6863480023353113
+
+43) timofey_a - 0.6832551956176758
+
+Result for the vector: maximov, coming from part b of the book
+Rank: 12 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9564441727532204
+
+1) pyotr_alexandrovitch_miüsov_a - 0.9803942757492524
+
+2) mr_rakitin_a - 0.9783017343788861
+
+3) smerdyakov_a - 0.9751985959767882
+
+4) madame_hohlakov_a - 0.9729938490983158
+
+5) mitya_chapter_i_kuzma_samsonov_a - 0.9727536149992501
+
+6) katerina_ivanovna_a - 0.9682047944190976
+
+7) ivan_fyodorovitch_karamazov_a - 0.9661643196989398
+
+8) grigory_vassilyevitch_a - 0.9654212881750257
+
+9) grushenka_a - 0.9647333867450674
+
+10) lise_a - 0.9621956039129382
+
+11) dmitri_fyodorovitch_karamazov_a - 0.9581188870036972
+
+12) maximov_a - 0.9564441727532204
+
+13) ilusha_a - 0.9563094662520134
+
+14) fyodor_pavlovitch_karamazov_a - 0.9559039784698531
+
+15) marya_kondratyevna_a - 0.9536245749480899
+
+16) alyosha_karamazov_a - 0.951834108099411
+
+17) herzenstube_a - 0.9465068924569987
+
+18) lyagavy_a - 0.9449264374331496
+
+19) fenya_a - 0.9433902468317894
+
+20) agrafena_alexandrovna_a - 0.9427986357806118
+
+21) katya_a - 0.9397471791279778
+
+22) pyotr_fomitch_kalganov_a - 0.9355275948188463
+
+23) agafya_ivanovna_a - 0.9351243059374189
+
+24) lizaveta_a - 0.9307110545674914
+
+25) marfa_ignatyevna_a - 0.9298213359553821
+
+26) varvara_a - 0.9282428302837266
+
+27) alexey_fyodorovitch_karamazov_a - 0.9224798312020155
+
+28) von_sohn_a - 0.9198419999982118
+
+29) kolya_krassotkin_a - 0.9186413014340049
+
+30) father_zossima_a - 0.91215989255429
+
+31) smurov_a - 0.9099820581083913
+
+32) yulia_a - 0.8959192962670571
+
+33) nina_a - 0.8713635312562518
+
+34) tchermashnya_a - 0.8690511247232895
+
+35) misha_a - 0.8608358841885397
+
+36) mihail_makarovitch_a - 0.8560788972354298
+
+37) church_of_christ_a - 0.8353758107237763
+
+38) mokroe_a - 0.8268475675744628
+
+39) snegiryov_a - 0.8132256996535394
+
+40) karl_bernard_a - 0.7871335383395418
+
+41) pyotr_ilyitch_perhotin_a - 0.7759856946472647
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7746992207794688
+
+43) timofey_a - 0.7271613099325097
+
+Result for the vector: pyotr_fomitch_kalganov, coming from part b of the book
+Rank: 25 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9239989609719561
+
+1) mr_rakitin_a - 0.9819290063465826
+
+2) pyotr_alexandrovitch_miüsov_a - 0.9816871318184515
+
+3) smerdyakov_a - 0.9774747504308986
+
+4) mitya_chapter_i_kuzma_samsonov_a - 0.9709657465260331
+
+5) madame_hohlakov_a - 0.9673964688957829
+
+6) katerina_ivanovna_a - 0.9667080352691441
+
+7) grigory_vassilyevitch_a - 0.964341225365329
+
+8) ivan_fyodorovitch_karamazov_a - 0.9638566396321886
+
+9) grushenka_a - 0.9627574660037591
+
+10) maximov_a - 0.9612914942925295
+
+11) lise_a - 0.9608593606436651
+
+12) dmitri_fyodorovitch_karamazov_a - 0.9593915987740042
+
+13) alyosha_karamazov_a - 0.9545418024063178
+
+14) ilusha_a - 0.953506889730283
+
+15) fyodor_pavlovitch_karamazov_a - 0.9526680764355568
+
+16) marya_kondratyevna_a - 0.9515426187787897
+
+17) lyagavy_a - 0.9485246852480007
+
+18) herzenstube_a - 0.947482178065389
+
+19) agrafena_alexandrovna_a - 0.9431009258688199
+
+20) fenya_a - 0.9422223883204978
+
+21) varvara_a - 0.92905068820413
+
+22) katya_a - 0.9281720519065922
+
+23) agafya_ivanovna_a - 0.9278401775455386
+
+24) marfa_ignatyevna_a - 0.9269776344299382
+
+25) pyotr_fomitch_kalganov_a - 0.9239989609719561
+
+26) lizaveta_a - 0.9223305583000249
+
+27) kolya_krassotkin_a - 0.91972453359073
+
+28) alexey_fyodorovitch_karamazov_a - 0.9184687733650273
+
+29) smurov_a - 0.9148497086942543
+
+30) von_sohn_a - 0.9126567568583299
+
+31) father_zossima_a - 0.9018499968230728
+
+32) yulia_a - 0.8959057455175227
+
+33) nina_a - 0.8770804927993254
+
+34) misha_a - 0.8673923769721535
+
+35) mihail_makarovitch_a - 0.8598856496947229
+
+36) tchermashnya_a - 0.8567920412545195
+
+37) church_of_christ_a - 0.8282279474599408
+
+38) snegiryov_a - 0.8270709514617979
+
+39) mokroe_a - 0.8216183185577451
+
+40) karl_bernard_a - 0.7870298750978797
+
+41) pyotr_ilyitch_perhotin_a - 0.7793293262327521
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7713800668716485
+
+43) timofey_a - 0.7279052300509686
+
+Result for the vector: smurov, coming from part b of the book
+Rank: 30 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9096410924410185
+
+1) pyotr_alexandrovitch_miüsov_a - 0.9805825971862627
+
+2) mr_rakitin_a - 0.9802531611768525
+
+3) smerdyakov_a - 0.9788737297058105
+
+4) mitya_chapter_i_kuzma_samsonov_a - 0.9761933102492523
+
+5) grigory_vassilyevitch_a - 0.9666940569877625
+
+6) dmitri_fyodorovitch_karamazov_a - 0.9654888531274304
+
+7) ivan_fyodorovitch_karamazov_a - 0.9643352031707764
+
+8) maximov_a - 0.9616463780403137
+
+9) katerina_ivanovna_a - 0.9606641817290842
+
+10) grushenka_a - 0.9602101993811436
+
+11) madame_hohlakov_a - 0.9586985396951007
+
+12) alyosha_karamazov_a - 0.9584516858131715
+
+13) lise_a - 0.9575710296630859
+
+14) fyodor_pavlovitch_karamazov_a - 0.9562149669995941
+
+15) ilusha_a - 0.9550927877426147
+
+16) lyagavy_a - 0.9497192189013729
+
+17) marya_kondratyevna_a - 0.9467665553092957
+
+18) herzenstube_a - 0.9455509250699439
+
+19) agrafena_alexandrovna_a - 0.9443578653762247
+
+20) fenya_a - 0.939928142426257
+
+21) marfa_ignatyevna_a - 0.9291513519973386
+
+22) agafya_ivanovna_a - 0.9282371997833252
+
+23) katya_a - 0.9269331054051597
+
+24) varvara_a - 0.9237936735153198
+
+25) alexey_fyodorovitch_karamazov_a - 0.9227828337420738
+
+26) lizaveta_a - 0.9184806298303996
+
+27) von_sohn_a - 0.9155253444768595
+
+28) pyotr_fomitch_kalganov_a - 0.914669459183846
+
+29) kolya_krassotkin_a - 0.9130715779619485
+
+30) smurov_a - 0.9096410924410185
+
+31) father_zossima_a - 0.9087510759382815
+
+32) yulia_a - 0.9002456128450879
+
+33) misha_a - 0.8731822447072137
+
+34) nina_a - 0.8730307666100048
+
+35) tchermashnya_a - 0.8576650023460388
+
+36) mihail_makarovitch_a - 0.8575187410403063
+
+37) church_of_christ_a - 0.8349916934967041
+
+38) mokroe_a - 0.8161986956714821
+
+39) snegiryov_a - 0.8156067619089357
+
+40) karl_bernard_a - 0.7871367335319519
+
+41) pyotr_ilyitch_perhotin_a - 0.7824202905642827
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7786433564807999
+
+43) timofey_a - 0.7308545112609863
+
+Result for the vector: fenya, coming from part b of the book
+Rank: 9 out of 43 characters
+Cosine similarity to the co-referring vector: 0.960608568245939
+
+1) katerina_ivanovna_a - 0.9804556054284225
+
+2) madame_hohlakov_a - 0.9788467567128027
+
+3) grushenka_a - 0.9782138427878354
+
+4) lise_a - 0.9771944270845924
+
+5) mr_rakitin_a - 0.9654839038848946
+
+6) smerdyakov_a - 0.964077887778158
+
+7) mitya_chapter_i_kuzma_samsonov_a - 0.9630430340766976
+
+8) pyotr_alexandrovitch_miüsov_a - 0.9623690866012079
+
+9) fenya_a - 0.960608568245939
+
+10) lizaveta_a - 0.958496208011652
+
+11) grigory_vassilyevitch_a - 0.9550687643926616
+
+12) marfa_ignatyevna_a - 0.9535829965571161
+
+13) agrafena_alexandrovna_a - 0.9521997485518022
+
+14) dmitri_fyodorovitch_karamazov_a - 0.944345414638526
+
+15) lyagavy_a - 0.9438328990786884
+
+16) ivan_fyodorovitch_karamazov_a - 0.9438278045551677
+
+17) fyodor_pavlovitch_karamazov_a - 0.9437913298606939
+
+18) katya_a - 0.9433809451318914
+
+19) agafya_ivanovna_a - 0.9429764713630974
+
+20) ilusha_a - 0.9414820636202151
+
+21) herzenstube_a - 0.9398876464434031
+
+22) maximov_a - 0.93781733142241
+
+23) alyosha_karamazov_a - 0.9374391958045001
+
+24) marya_kondratyevna_a - 0.9304864365152398
+
+25) varvara_a - 0.9271926836486287
+
+26) alexey_fyodorovitch_karamazov_a - 0.9121733203140879
+
+27) yulia_a - 0.9039177298545902
+
+28) pyotr_fomitch_kalganov_a - 0.9038760662078922
+
+29) father_zossima_a - 0.8994198441505497
+
+30) kolya_krassotkin_a - 0.895127356052405
+
+31) smurov_a - 0.8948373794555727
+
+32) von_sohn_a - 0.8931190573977585
+
+33) nina_a - 0.8831135421598346
+
+34) tchermashnya_a - 0.8624817647029036
+
+35) misha_a - 0.851350724697119
+
+36) mihail_makarovitch_a - 0.8499653339386046
+
+37) church_of_christ_a - 0.8389663600305548
+
+38) mokroe_a - 0.8382195637487845
+
+39) snegiryov_a - 0.8048034673694929
+
+40) karl_bernard_a - 0.7719459993807091
+
+41) pyotr_ilyitch_perhotin_a - 0.7680222988128717
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7657180149219054
+
+43) timofey_a - 0.7187751960024368
+
+Result for the vector: agrafena_alexandrovna, coming from part b of the book
+Rank: 7 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9464048083311158
+
+1) grushenka_a - 0.967908378590159
+
+2) lise_a - 0.9659905433654785
+
+3) katerina_ivanovna_a - 0.9601118254694891
+
+4) mitya_chapter_i_kuzma_samsonov_a - 0.9577745820418266
+
+5) madame_hohlakov_a - 0.9519439027292703
+
+6) smerdyakov_a - 0.9471075534820557
+
+7) agrafena_alexandrovna_a - 0.9464048083311158
+
+8) katya_a - 0.9460486737518728
+
+9) lizaveta_a - 0.9452619519985902
+
+10) mr_rakitin_a - 0.9418868457146395
+
+11) fenya_a - 0.9417977613746457
+
+12) pyotr_alexandrovitch_miüsov_a - 0.9388036204810661
+
+13) dmitri_fyodorovitch_karamazov_a - 0.9373599328184185
+
+14) agafya_ivanovna_a - 0.9352209568023682
+
+15) lyagavy_a - 0.9350897948470654
+
+16) ivan_fyodorovitch_karamazov_a - 0.9300324320793152
+
+17) ilusha_a - 0.929068922996521
+
+18) alexey_fyodorovitch_karamazov_a - 0.9272509769946936
+
+19) fyodor_pavlovitch_karamazov_a - 0.9237637565276784
+
+20) grigory_vassilyevitch_a - 0.922644317150116
+
+21) herzenstube_a - 0.9216653798025459
+
+22) marfa_ignatyevna_a - 0.9214937044080336
+
+23) marya_kondratyevna_a - 0.9186862111091614
+
+24) maximov_a - 0.9172458648681641
+
+25) varvara_a - 0.9137400984764099
+
+26) alyosha_karamazov_a - 0.9049992504715488
+
+27) yulia_a - 0.8968805136155792
+
+28) father_zossima_a - 0.8941374484218704
+
+29) nina_a - 0.8935006133914789
+
+30) von_sohn_a - 0.8926189211791437
+
+31) smurov_a - 0.8858075209970776
+
+32) pyotr_fomitch_kalganov_a - 0.8819354246893287
+
+33) kolya_krassotkin_a - 0.8762162401547304
+
+34) misha_a - 0.8555518474845992
+
+35) mihail_makarovitch_a - 0.8537737814322856
+
+36) tchermashnya_a - 0.843083918094635
+
+37) church_of_christ_a - 0.828834593296051
+
+38) snegiryov_a - 0.8167939672943348
+
+39) mokroe_a - 0.8111534602137497
+
+40) nikolay_parfenovitch_nelyudov_a - 0.7930114145881795
+
+41) karl_bernard_a - 0.7872244715690613
+
+42) pyotr_ilyitch_perhotin_a - 0.779997421503222
+
+43) timofey_a - 0.71709805727005
+
+Result for the vector: marya_kondratyevna, coming from part b of the book
+Rank: 20 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9362953381186387
+
+1) madame_hohlakov_a - 0.9719474638747564
+
+2) lise_a - 0.9671135583980679
+
+3) grushenka_a - 0.9655747413635528
+
+4) katerina_ivanovna_a - 0.9652169079884778
+
+5) mitya_chapter_i_kuzma_samsonov_a - 0.9591186119701978
+
+6) smerdyakov_a - 0.9590263415543694
+
+7) pyotr_alexandrovitch_miüsov_a - 0.9554372536093584
+
+8) fenya_a - 0.9517120464105671
+
+9) mr_rakitin_a - 0.9507851092603624
+
+10) grigory_vassilyevitch_a - 0.9466602865862572
+
+11) agrafena_alexandrovna_a - 0.9438409209251672
+
+12) lizaveta_a - 0.9427548085001376
+
+13) ilusha_a - 0.9422789880896888
+
+14) marfa_ignatyevna_a - 0.9411428605829115
+
+15) katya_a - 0.940206173646097
+
+16) ivan_fyodorovitch_karamazov_a - 0.9401125979289363
+
+17) agafya_ivanovna_a - 0.9398180914142089
+
+18) fyodor_pavlovitch_karamazov_a - 0.9389071573781106
+
+19) dmitri_fyodorovitch_karamazov_a - 0.9366480225357986
+
+20) marya_kondratyevna_a - 0.9362953381186387
+
+21) herzenstube_a - 0.9361481818799539
+
+22) lyagavy_a - 0.9332139253723196
+
+23) maximov_a - 0.9283942069537459
+
+24) alyosha_karamazov_a - 0.9242125794760984
+
+25) varvara_a - 0.9201976752045607
+
+26) pyotr_fomitch_kalganov_a - 0.9188566949027742
+
+27) alexey_fyodorovitch_karamazov_a - 0.9168555786099831
+
+28) von_sohn_a - 0.9061541343193631
+
+29) yulia_a - 0.9043699077898445
+
+30) kolya_krassotkin_a - 0.9000572740929249
+
+31) father_zossima_a - 0.8992939175437852
+
+32) smurov_a - 0.891159196288731
+
+33) nina_a - 0.8744506835937749
+
+34) tchermashnya_a - 0.865265206662994
+
+35) misha_a - 0.8583840384988731
+
+36) mihail_makarovitch_a - 0.8419249936476376
+
+37) mokroe_a - 0.8326097826594377
+
+38) church_of_christ_a - 0.8306595884967399
+
+39) snegiryov_a - 0.8034974453748923
+
+40) karl_bernard_a - 0.7815799973511754
+
+41) pyotr_ilyitch_perhotin_a - 0.7781957188494723
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7704865473218954
+
+43) timofey_a - 0.737586291124076
+
+Result for the vector: marfa_ignatyevna, coming from part b of the book
+Rank: 5 out of 43 characters
+Cosine similarity to the co-referring vector: 0.953666743854688
+
+1) grushenka_a - 0.9599673700293812
+
+2) lise_a - 0.9586281776428223
+
+3) katerina_ivanovna_a - 0.9564481066598928
+
+4) madame_hohlakov_a - 0.9539017961592021
+
+5) marfa_ignatyevna_a - 0.953666743854688
+
+6) fenya_a - 0.9502110764447179
+
+7) agrafena_alexandrovna_a - 0.9495358406944152
+
+8) pyotr_alexandrovitch_miüsov_a - 0.9459825818559497
+
+9) smerdyakov_a - 0.9456163644790649
+
+10) grigory_vassilyevitch_a - 0.9423407316207886
+
+11) mitya_chapter_i_kuzma_samsonov_a - 0.9398670232375267
+
+12) mr_rakitin_a - 0.9364112057440771
+
+13) lizaveta_a - 0.9352778753803911
+
+14) katya_a - 0.9314117390758853
+
+15) herzenstube_a - 0.9271971074107823
+
+16) agafya_ivanovna_a - 0.9262695908546448
+
+17) ivan_fyodorovitch_karamazov_a - 0.9254591464996338
+
+18) dmitri_fyodorovitch_karamazov_a - 0.9253726646082021
+
+19) ilusha_a - 0.9240740537643433
+
+20) fyodor_pavlovitch_karamazov_a - 0.9204096245521547
+
+21) alyosha_karamazov_a - 0.9191714477045223
+
+22) varvara_a - 0.9167601466178894
+
+23) marya_kondratyevna_a - 0.9144526720046997
+
+24) maximov_a - 0.9089192152023315
+
+25) lyagavy_a - 0.9017106563362679
+
+26) yulia_a - 0.8915498917371115
+
+27) alexey_fyodorovitch_karamazov_a - 0.8902310663599428
+
+28) pyotr_fomitch_kalganov_a - 0.8847190806437102
+
+29) father_zossima_a - 0.8836808273982524
+
+30) kolya_krassotkin_a - 0.8770338966230231
+
+31) von_sohn_a - 0.8759398721438613
+
+32) nina_a - 0.8729573336788876
+
+33) smurov_a - 0.8713656740566702
+
+34) misha_a - 0.8490576238001825
+
+35) mihail_makarovitch_a - 0.8371815778504876
+
+36) church_of_christ_a - 0.8145272731781006
+
+37) tchermashnya_a - 0.8068370819091797
+
+38) snegiryov_a - 0.7825317253191322
+
+39) mokroe_a - 0.7794158327231321
+
+40) karl_bernard_a - 0.7523653507232666
+
+41) pyotr_ilyitch_perhotin_a - 0.745421305571718
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7334760268614321
+
+43) timofey_a - 0.7104322910308838
+
+Result for the vector: misha, coming from part b of the book
+Rank: 31 out of 43 characters
+Cosine similarity to the co-referring vector: 0.8845574993422628
+
+1) mitya_chapter_i_kuzma_samsonov_a - 0.951598173189381
+
+2) pyotr_alexandrovitch_miüsov_a - 0.9515757647319277
+
+3) smerdyakov_a - 0.9485343725362811
+
+4) lise_a - 0.9450545343724187
+
+5) mr_rakitin_a - 0.9412490199507451
+
+6) ilusha_a - 0.9396500623434761
+
+7) maximov_a - 0.9388509429186037
+
+8) dmitri_fyodorovitch_karamazov_a - 0.9368159250240415
+
+9) grushenka_a - 0.9341517051548931
+
+10) katerina_ivanovna_a - 0.931655856023558
+
+11) marya_kondratyevna_a - 0.9316024821041552
+
+12) ivan_fyodorovitch_karamazov_a - 0.9306458872171725
+
+13) lyagavy_a - 0.929132791485409
+
+14) madame_hohlakov_a - 0.9288565239651084
+
+15) herzenstube_a - 0.9232254165603982
+
+16) grigory_vassilyevitch_a - 0.9223294900459371
+
+17) alexey_fyodorovitch_karamazov_a - 0.9204215407371586
+
+18) varvara_a - 0.9168496181458479
+
+19) smurov_a - 0.9166917304168068
+
+20) fyodor_pavlovitch_karamazov_a - 0.9162124495253027
+
+21) agrafena_alexandrovna_a - 0.9159862349025297
+
+22) fenya_a - 0.9155583108795229
+
+23) yulia_a - 0.9142065150491577
+
+24) alyosha_karamazov_a - 0.9141854047775334
+
+25) von_sohn_a - 0.9107946482063971
+
+26) agafya_ivanovna_a - 0.901042526898235
+
+27) lizaveta_a - 0.9009695649147098
+
+28) pyotr_fomitch_kalganov_a - 0.8894350064474337
+
+29) marfa_ignatyevna_a - 0.8890745639801089
+
+30) katya_a - 0.8871985673904482
+
+31) misha_a - 0.8845574993422628
+
+32) father_zossima_a - 0.8838317532739933
+
+33) kolya_krassotkin_a - 0.8773861673610011
+
+34) nina_a - 0.8600488221674593
+
+35) mihail_makarovitch_a - 0.8447365945891625
+
+36) tchermashnya_a - 0.8339673379679136
+
+37) church_of_christ_a - 0.8142459503265663
+
+38) snegiryov_a - 0.8122683763504086
+
+39) mokroe_a - 0.8078250288963376
+
+40) pyotr_ilyitch_perhotin_a - 0.7688130415900896
+
+41) nikolay_parfenovitch_nelyudov_a - 0.7687647342681939
+
+42) karl_bernard_a - 0.7684820432375657
+
+43) timofey_a - 0.7469367535748046
+
+Result for the vector: herzenstube, coming from part b of the book
+Rank: 4 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9161447882652544
+
+1) ivan_fyodorovitch_karamazov_a - 0.9319829859713366
+
+2) fyodor_pavlovitch_karamazov_a - 0.9252362802765685
+
+3) smerdyakov_a - 0.9231532720510157
+
+4) herzenstube_a - 0.9161447882652544
+
+5) pyotr_alexandrovitch_miüsov_a - 0.9155967831611893
+
+6) grigory_vassilyevitch_a - 0.9144909279931763
+
+7) mr_rakitin_a - 0.9142850586345973
+
+8) alyosha_karamazov_a - 0.91080801084185
+
+9) mitya_chapter_i_kuzma_samsonov_a - 0.9030641855635898
+
+10) dmitri_fyodorovitch_karamazov_a - 0.9016052425864628
+
+11) maximov_a - 0.8957286352787839
+
+12) madame_hohlakov_a - 0.89373315777379
+
+13) lyagavy_a - 0.8925229448859348
+
+14) katerina_ivanovna_a - 0.8889991773663761
+
+15) grushenka_a - 0.8863610354330624
+
+16) pyotr_fomitch_kalganov_a - 0.8796881961636801
+
+17) marfa_ignatyevna_a - 0.8739623202018134
+
+18) ilusha_a - 0.8731160012621944
+
+19) lise_a - 0.8730228987959565
+
+20) agafya_ivanovna_a - 0.8721974935767108
+
+21) agrafena_alexandrovna_a - 0.870208649685061
+
+22) kolya_krassotkin_a - 0.8695623200871082
+
+23) father_zossima_a - 0.8673444311228194
+
+24) lizaveta_a - 0.8632455819688303
+
+25) katya_a - 0.8621825925438287
+
+26) marya_kondratyevna_a - 0.861803395963126
+
+27) alexey_fyodorovitch_karamazov_a - 0.8616432300168106
+
+28) fenya_a - 0.8500737026443669
+
+29) varvara_a - 0.8474116143478948
+
+30) von_sohn_a - 0.8397728263993336
+
+31) mihail_makarovitch_a - 0.8261353865942721
+
+32) snegiryov_a - 0.8235322517512309
+
+33) smurov_a - 0.8104578739677722
+
+34) yulia_a - 0.8084254150644321
+
+35) tchermashnya_a - 0.8079846272450298
+
+36) nina_a - 0.8046715985945698
+
+37) church_of_christ_a - 0.8008775473687166
+
+38) misha_a - 0.7804407942557933
+
+39) mokroe_a - 0.7678966703230162
+
+40) pyotr_ilyitch_perhotin_a - 0.7657800773251225
+
+41) karl_bernard_a - 0.7609930945626664
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7497385292777783
+
+43) timofey_a - 0.6556099838745622
+
+Result for the vector: mihail_makarovitch, coming from part b of the book
+Rank: 31 out of 43 characters
+Cosine similarity to the co-referring vector: 0.8827723001607602
+
+1) smerdyakov_a - 0.9752072386505382
+
+2) grigory_vassilyevitch_a - 0.97197154080783
+
+3) fyodor_pavlovitch_karamazov_a - 0.9705825754826533
+
+4) mr_rakitin_a - 0.9698404976773153
+
+5) ivan_fyodorovitch_karamazov_a - 0.9681924274025095
+
+6) pyotr_alexandrovitch_miüsov_a - 0.9670547574411656
+
+7) dmitri_fyodorovitch_karamazov_a - 0.9636310051789618
+
+8) mitya_chapter_i_kuzma_samsonov_a - 0.9602776479638362
+
+9) alyosha_karamazov_a - 0.9588958882298374
+
+10) maximov_a - 0.952795891547081
+
+11) katerina_ivanovna_a - 0.9517931909437889
+
+12) madame_hohlakov_a - 0.9488781064080063
+
+13) grushenka_a - 0.9468404869497585
+
+14) lyagavy_a - 0.9457699028116406
+
+15) herzenstube_a - 0.94411579274097
+
+16) lise_a - 0.941485373422068
+
+17) marfa_ignatyevna_a - 0.9366258624159575
+
+18) ilusha_a - 0.9347112457368153
+
+19) agrafena_alexandrovna_a - 0.9335022171590093
+
+20) fenya_a - 0.9237615420676197
+
+21) alexey_fyodorovitch_karamazov_a - 0.9212200869220577
+
+22) agafya_ivanovna_a - 0.9207808649772667
+
+23) father_zossima_a - 0.918511005684409
+
+24) marya_kondratyevna_a - 0.9178058778585759
+
+25) lizaveta_a - 0.9169119820218075
+
+26) varvara_a - 0.9097652706433917
+
+27) pyotr_fomitch_kalganov_a - 0.9097652164171608
+
+28) katya_a - 0.9094946005488579
+
+29) kolya_krassotkin_a - 0.899079176811008
+
+30) von_sohn_a - 0.8909046584906971
+
+31) mihail_makarovitch_a - 0.8827723001607602
+
+32) smurov_a - 0.8766538835569094
+
+33) yulia_a - 0.8722367622781799
+
+34) nina_a - 0.8671628932897623
+
+35) misha_a - 0.8482645497243274
+
+36) tchermashnya_a - 0.8443382634025298
+
+37) snegiryov_a - 0.8419815458638862
+
+38) church_of_christ_a - 0.8377266179837772
+
+39) karl_bernard_a - 0.8194089776101408
+
+40) mokroe_a - 0.8178802863848469
+
+41) nikolay_parfenovitch_nelyudov_a - 0.7976290700700052
+
+42) pyotr_ilyitch_perhotin_a - 0.7935169698739987
+
+43) timofey_a - 0.7154247973985913
+
+Result for the vector: von_sohn, coming from part b of the book
+Rank: 1 out of 43 characters
+Cosine similarity to the co-referring vector: 0.762298711743836
+
+1) von_sohn_a - 0.762298711743836
+
+2) ilusha_a - 0.7595828628291419
+
+3) alexey_fyodorovitch_karamazov_a - 0.7572523662152727
+
+4) pyotr_fomitch_kalganov_a - 0.7552288770675712
+
+5) marya_kondratyevna_a - 0.7500271052138285
+
+6) mitya_chapter_i_kuzma_samsonov_a - 0.7442677617073112
+
+7) ivan_fyodorovitch_karamazov_a - 0.7417981470702988
+
+8) madame_hohlakov_a - 0.7355240644983114
+
+9) kolya_krassotkin_a - 0.7347091436386161
+
+10) tchermashnya_a - 0.7335735996707452
+
+11) pyotr_alexandrovitch_miüsov_a - 0.729744152441981
+
+12) katya_a - 0.729369608088685
+
+13) lyagavy_a - 0.7273308092949521
+
+14) herzenstube_a - 0.7271490855724281
+
+15) smerdyakov_a - 0.7270636991896463
+
+16) dmitri_fyodorovitch_karamazov_a - 0.7261747121810964
+
+17) katerina_ivanovna_a - 0.7248257450603618
+
+18) grushenka_a - 0.7238873941697004
+
+19) lise_a - 0.7235391571247088
+
+20) agrafena_alexandrovna_a - 0.722521136257853
+
+21) father_zossima_a - 0.7208340167999319
+
+22) lizaveta_a - 0.7163725157228131
+
+23) fyodor_pavlovitch_karamazov_a - 0.7140495777130178
+
+24) maximov_a - 0.7106622881092017
+
+25) mr_rakitin_a - 0.7064709663391163
+
+26) alyosha_karamazov_a - 0.7050042396788883
+
+27) karl_bernard_a - 0.7037081541841135
+
+28) yulia_a - 0.6992665529251149
+
+29) fenya_a - 0.6982534556019419
+
+30) agafya_ivanovna_a - 0.6973861275545447
+
+31) grigory_vassilyevitch_a - 0.695337933024046
+
+32) varvara_a - 0.6948205646765581
+
+33) church_of_christ_a - 0.6916217024100854
+
+34) misha_a - 0.6902152895927478
+
+35) smurov_a - 0.6897763609886218
+
+36) nikolay_parfenovitch_nelyudov_a - 0.6892162786980007
+
+37) mokroe_a - 0.666971405383516
+
+38) nina_a - 0.6575019343200816
+
+39) marfa_ignatyevna_a - 0.6573504993141293
+
+40) pyotr_ilyitch_perhotin_a - 0.6522179841995286
+
+41) snegiryov_a - 0.6450714641894656
+
+42) mihail_makarovitch_a - 0.640814363956456
+
+43) timofey_a - 0.5675896744483525
+
+Result for the vector: nina, coming from part b of the book
+Rank: 32 out of 43 characters
+Cosine similarity to the co-referring vector: 0.8719580540582054
+
+1) lise_a - 0.9609384513460684
+
+2) madame_hohlakov_a - 0.9583128355425156
+
+3) katerina_ivanovna_a - 0.9537909287623405
+
+4) fenya_a - 0.9519005672842775
+
+5) grushenka_a - 0.9496560602765208
+
+6) lizaveta_a - 0.9440381460235293
+
+7) pyotr_alexandrovitch_miüsov_a - 0.941577676440631
+
+8) mitya_chapter_i_kuzma_samsonov_a - 0.9342666864395208
+
+9) mr_rakitin_a - 0.9336397647857733
+
+10) smerdyakov_a - 0.9318606216824442
+
+11) marfa_ignatyevna_a - 0.9291011010528923
+
+12) grigory_vassilyevitch_a - 0.9274244265213284
+
+13) agrafena_alexandrovna_a - 0.9236042958982537
+
+14) agafya_ivanovna_a - 0.9227015330017543
+
+15) katya_a - 0.9222636130170361
+
+16) ilusha_a - 0.9190370392225424
+
+17) marya_kondratyevna_a - 0.9172482441215677
+
+18) dmitri_fyodorovitch_karamazov_a - 0.9131438136100833
+
+19) varvara_a - 0.9104226178182748
+
+20) herzenstube_a - 0.910081570739667
+
+21) ivan_fyodorovitch_karamazov_a - 0.9084588234698088
+
+22) maximov_a - 0.907662445763497
+
+23) alyosha_karamazov_a - 0.9056495315610804
+
+24) fyodor_pavlovitch_karamazov_a - 0.9055863022804325
+
+25) lyagavy_a - 0.8965092506864001
+
+26) pyotr_fomitch_kalganov_a - 0.8905975818634096
+
+27) alexey_fyodorovitch_karamazov_a - 0.8901900518167081
+
+28) yulia_a - 0.8829739093780581
+
+29) father_zossima_a - 0.8777902722358766
+
+30) von_sohn_a - 0.8748340196759126
+
+31) smurov_a - 0.8741346001625123
+
+32) nina_a - 0.8719580540582054
+
+33) kolya_krassotkin_a - 0.8682899475097718
+
+34) mihail_makarovitch_a - 0.8379120230674804
+
+35) misha_a - 0.8349569439888059
+
+36) tchermashnya_a - 0.8126396425151626
+
+37) church_of_christ_a - 0.803166496942432
+
+38) mokroe_a - 0.786701176965377
+
+39) snegiryov_a - 0.770752402633715
+
+40) karl_bernard_a - 0.7540268155352376
+
+41) nikolay_parfenovitch_nelyudov_a - 0.7364248319178619
+
+42) pyotr_ilyitch_perhotin_a - 0.7244184613227895
+
+43) timofey_a - 0.7111102766460358
+
+Result for the vector: mokroe, coming from part b of the book
+Rank: 1 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9510904775694728
+
+1) mokroe_a - 0.9510904775694728
+
+2) tchermashnya_a - 0.9038198206263657
+
+3) katerina_ivanovna_a - 0.8807023621442766
+
+4) lyagavy_a - 0.8656224448230813
+
+5) grushenka_a - 0.86204731566701
+
+6) mitya_chapter_i_kuzma_samsonov_a - 0.851105417344145
+
+7) herzenstube_a - 0.8473568902207532
+
+8) madame_hohlakov_a - 0.8472618874623656
+
+9) ilusha_a - 0.8445075909353162
+
+10) lizaveta_a - 0.8439650005050008
+
+11) smerdyakov_a - 0.8411545909483399
+
+12) agrafena_alexandrovna_a - 0.840779837532606
+
+13) fyodor_pavlovitch_karamazov_a - 0.8403880846616149
+
+14) lise_a - 0.8355539592105743
+
+15) pyotr_alexandrovitch_miüsov_a - 0.8340433587419167
+
+16) ivan_fyodorovitch_karamazov_a - 0.8312086610086589
+
+17) mr_rakitin_a - 0.8284616121191358
+
+18) agafya_ivanovna_a - 0.8255071782029165
+
+19) marya_kondratyevna_a - 0.8239416620679229
+
+20) katya_a - 0.8238387143371577
+
+21) father_zossima_a - 0.8221323735157454
+
+22) dmitri_fyodorovitch_karamazov_a - 0.8200789338373912
+
+23) grigory_vassilyevitch_a - 0.8191049831305461
+
+24) maximov_a - 0.8184700147929833
+
+25) alyosha_karamazov_a - 0.8174260880687968
+
+26) church_of_christ_a - 0.8063560253104026
+
+27) smurov_a - 0.8036493302479276
+
+28) alexey_fyodorovitch_karamazov_a - 0.8016029598717336
+
+29) fenya_a - 0.799941992752791
+
+30) varvara_a - 0.7979099271813002
+
+31) kolya_krassotkin_a - 0.7960989712506314
+
+32) nina_a - 0.7943144905627205
+
+33) von_sohn_a - 0.7941481821713678
+
+34) marfa_ignatyevna_a - 0.7875268440733622
+
+35) yulia_a - 0.7780967586665466
+
+36) pyotr_fomitch_kalganov_a - 0.7775101893398308
+
+37) misha_a - 0.7438125832025069
+
+38) mihail_makarovitch_a - 0.7325073102863903
+
+39) snegiryov_a - 0.7238612657578689
+
+40) pyotr_ilyitch_perhotin_a - 0.6951344816426855
+
+41) karl_bernard_a - 0.6818262948238545
+
+42) nikolay_parfenovitch_nelyudov_a - 0.6810028971735983
+
+43) timofey_a - 0.653536258954074
+
+Result for the vector: snegiryov, coming from part b of the book
+Rank: 35 out of 43 characters
+Cosine similarity to the co-referring vector: 0.8389552543679349
+
+1) alyosha_karamazov_a - 0.961671107114157
+
+2) mr_rakitin_a - 0.9608466601876567
+
+3) pyotr_alexandrovitch_miüsov_a - 0.9604774713516508
+
+4) grigory_vassilyevitch_a - 0.9596380543277396
+
+5) smerdyakov_a - 0.9589070032724214
+
+6) ivan_fyodorovitch_karamazov_a - 0.9532269779714387
+
+7) fyodor_pavlovitch_karamazov_a - 0.952274915711592
+
+8) mitya_chapter_i_kuzma_samsonov_a - 0.9441416826332769
+
+9) dmitri_fyodorovitch_karamazov_a - 0.9426214064730203
+
+10) herzenstube_a - 0.9397677183151513
+
+11) katerina_ivanovna_a - 0.9367187226889652
+
+12) madame_hohlakov_a - 0.9357443654156313
+
+13) maximov_a - 0.9347062629111192
+
+14) grushenka_a - 0.9300841522417431
+
+15) ilusha_a - 0.9297631895259911
+
+16) agrafena_alexandrovna_a - 0.9230783994384765
+
+17) lyagavy_a - 0.9229179803904899
+
+18) lise_a - 0.9227124360457052
+
+19) kolya_krassotkin_a - 0.9150331565757633
+
+20) marfa_ignatyevna_a - 0.9126081310405981
+
+21) fenya_a - 0.9102940723738219
+
+22) marya_kondratyevna_a - 0.910148550289703
+
+23) lizaveta_a - 0.8986143884565349
+
+24) varvara_a - 0.8982936022631711
+
+25) pyotr_fomitch_kalganov_a - 0.895659619311086
+
+26) agafya_ivanovna_a - 0.8926058879620958
+
+27) katya_a - 0.8915765687662204
+
+28) father_zossima_a - 0.8873374991022192
+
+29) alexey_fyodorovitch_karamazov_a - 0.8861005102575753
+
+30) von_sohn_a - 0.880925309795936
+
+31) smurov_a - 0.8663517753095631
+
+32) yulia_a - 0.8600081717972995
+
+33) mihail_makarovitch_a - 0.8467407731259465
+
+34) nina_a - 0.8425173383992525
+
+35) snegiryov_a - 0.8389552543679349
+
+36) misha_a - 0.8332850833705251
+
+37) tchermashnya_a - 0.8306368983551201
+
+38) church_of_christ_a - 0.8159815449692719
+
+39) mokroe_a - 0.7989647625025696
+
+40) karl_bernard_a - 0.7700078213224253
+
+41) pyotr_ilyitch_perhotin_a - 0.757329389889812
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7426369922108054
+
+43) timofey_a - 0.6835946063512143
+
+Result for the vector: lyagavy, coming from part b of the book
+Rank: 3 out of 43 characters
+Cosine similarity to the co-referring vector: 0.8897484806105046
+
+1) grushenka_a - 0.904146600263912
+
+2) katerina_ivanovna_a - 0.901607063460561
+
+3) lyagavy_a - 0.8897484806105046
+
+4) mitya_chapter_i_kuzma_samsonov_a - 0.8840254018291607
+
+5) lise_a - 0.8775240182876587
+
+6) lizaveta_a - 0.8774122522719072
+
+7) katya_a - 0.8762280867235728
+
+8) smerdyakov_a - 0.8755350708961487
+
+9) agrafena_alexandrovna_a - 0.8752153367060886
+
+10) madame_hohlakov_a - 0.8742486499026019
+
+11) ilusha_a - 0.8705502152442932
+
+12) herzenstube_a - 0.8701705491339567
+
+13) mr_rakitin_a - 0.8649608573340875
+
+14) agafya_ivanovna_a - 0.8637049198150635
+
+15) fyodor_pavlovitch_karamazov_a - 0.8636455021115853
+
+16) pyotr_alexandrovitch_miüsov_a - 0.8633746071607404
+
+17) ivan_fyodorovitch_karamazov_a - 0.861466109752655
+
+18) marya_kondratyevna_a - 0.8531216382980347
+
+19) grigory_vassilyevitch_a - 0.85224449634552
+
+20) dmitri_fyodorovitch_karamazov_a - 0.850091525906831
+
+21) tchermashnya_a - 0.8483909368515015
+
+22) father_zossima_a - 0.8446964714112016
+
+23) alyosha_karamazov_a - 0.843996634721557
+
+24) maximov_a - 0.840327262878418
+
+25) fenya_a - 0.839493299707571
+
+26) nina_a - 0.836273829492793
+
+27) varvara_a - 0.8342782855033875
+
+28) marfa_ignatyevna_a - 0.8307681578855624
+
+29) smurov_a - 0.8237562880661331
+
+30) alexey_fyodorovitch_karamazov_a - 0.8226717008752659
+
+31) mokroe_a - 0.8177307139474593
+
+32) church_of_christ_a - 0.8103760480880737
+
+33) kolya_krassotkin_a - 0.8094900960034089
+
+34) von_sohn_a - 0.8087514283881021
+
+35) yulia_a - 0.799520385293939
+
+36) pyotr_fomitch_kalganov_a - 0.7924738650039529
+
+37) misha_a - 0.769671930690294
+
+38) mihail_makarovitch_a - 0.7612409137939876
+
+39) snegiryov_a - 0.7297560411546268
+
+40) pyotr_ilyitch_perhotin_a - 0.7102542096224911
+
+41) karl_bernard_a - 0.6968041658401489
+
+42) nikolay_parfenovitch_nelyudov_a - 0.6930548961791346
+
+43) timofey_a - 0.6713695526123047
+
+Result for the vector: agafya_ivanovna, coming from part b of the book
+Rank: 16 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9212841485400088
+
+1) lise_a - 0.9555274301138671
+
+2) grushenka_a - 0.9484675526619227
+
+3) mitya_chapter_i_kuzma_samsonov_a - 0.9450697997087615
+
+4) marya_kondratyevna_a - 0.9439269967166256
+
+5) katerina_ivanovna_a - 0.9427409521275012
+
+6) pyotr_alexandrovitch_miüsov_a - 0.9413058897719646
+
+7) madame_hohlakov_a - 0.9386384840036898
+
+8) smerdyakov_a - 0.9363868908420998
+
+9) fenya_a - 0.9304566743561722
+
+10) agrafena_alexandrovna_a - 0.9296447634697225
+
+11) ilusha_a - 0.9277899947416854
+
+12) herzenstube_a - 0.9263981756214676
+
+13) lizaveta_a - 0.9263401671445418
+
+14) varvara_a - 0.9260803549193979
+
+15) mr_rakitin_a - 0.9243835942059305
+
+16) agafya_ivanovna_a - 0.9212841485400088
+
+17) maximov_a - 0.9179586269904885
+
+18) dmitri_fyodorovitch_karamazov_a - 0.9158498795300953
+
+19) lyagavy_a - 0.9152927772439124
+
+20) alexey_fyodorovitch_karamazov_a - 0.9127612761997562
+
+21) yulia_a - 0.9120129504180655
+
+22) ivan_fyodorovitch_karamazov_a - 0.9100868213073293
+
+23) katya_a - 0.908885603613534
+
+24) grigory_vassilyevitch_a - 0.9086968411568657
+
+25) smurov_a - 0.9040498309046349
+
+26) von_sohn_a - 0.9039042379941827
+
+27) marfa_ignatyevna_a - 0.901198333430404
+
+28) fyodor_pavlovitch_karamazov_a - 0.9003644763771652
+
+29) father_zossima_a - 0.8902266817879666
+
+30) alyosha_karamazov_a - 0.8795915317779007
+
+31) misha_a - 0.8780647138241461
+
+32) pyotr_fomitch_kalganov_a - 0.8757686241086813
+
+33) nina_a - 0.8725514411926517
+
+34) kolya_krassotkin_a - 0.8642130140877357
+
+35) mihail_makarovitch_a - 0.8420335336863651
+
+36) church_of_christ_a - 0.8290380443289286
+
+37) tchermashnya_a - 0.8204561685972072
+
+38) snegiryov_a - 0.8020603178703724
+
+39) mokroe_a - 0.7949102047139411
+
+40) karl_bernard_a - 0.7608182715394227
+
+41) timofey_a - 0.7580049326414005
+
+42) pyotr_ilyitch_perhotin_a - 0.7551305135851194
+
+43) nikolay_parfenovitch_nelyudov_a - 0.749053970035686
+
+Result for the vector: lizaveta, coming from part b of the book
+Rank: 22 out of 43 characters
+Cosine similarity to the co-referring vector: 0.7655158042907769
+
+1) marya_kondratyevna_a - 0.8440333101729581
+
+2) ilusha_a - 0.8263583286787091
+
+3) von_sohn_a - 0.8249775521463918
+
+4) katya_a - 0.8236973881721555
+
+5) pyotr_fomitch_kalganov_a - 0.823126933201917
+
+6) tchermashnya_a - 0.8152756205036881
+
+7) kolya_krassotkin_a - 0.8142801148557526
+
+8) madame_hohlakov_a - 0.8032328843106992
+
+9) mitya_chapter_i_kuzma_samsonov_a - 0.7863673226395461
+
+10) ivan_fyodorovitch_karamazov_a - 0.7856794127416975
+
+11) pyotr_alexandrovitch_miüsov_a - 0.7849672225176308
+
+12) herzenstube_a - 0.7847535995089546
+
+13) katerina_ivanovna_a - 0.782074487743545
+
+14) grushenka_a - 0.7785894738787223
+
+15) lise_a - 0.7783091200405897
+
+16) alexey_fyodorovitch_karamazov_a - 0.7743416428566035
+
+17) father_zossima_a - 0.7738484413804482
+
+18) agrafena_alexandrovna_a - 0.7721530063243636
+
+19) agafya_ivanovna_a - 0.7684281606419004
+
+20) fyodor_pavlovitch_karamazov_a - 0.7668946067220441
+
+21) smerdyakov_a - 0.7656725188688936
+
+22) lizaveta_a - 0.7655158042907769
+
+23) alyosha_karamazov_a - 0.760582804679876
+
+24) mr_rakitin_a - 0.7587353278714027
+
+25) smurov_a - 0.7544337207753992
+
+26) grigory_vassilyevitch_a - 0.7512018232821345
+
+27) lyagavy_a - 0.7503891363624026
+
+28) dmitri_fyodorovitch_karamazov_a - 0.7474879327430806
+
+29) varvara_a - 0.7474225910054106
+
+30) fenya_a - 0.7458129302915087
+
+31) mokroe_a - 0.7359474301338248
+
+32) misha_a - 0.7354996519685206
+
+33) yulia_a - 0.7261462538067992
+
+34) maximov_a - 0.7223678992767407
+
+35) nina_a - 0.7212365103505077
+
+36) church_of_christ_a - 0.7172680069644459
+
+37) marfa_ignatyevna_a - 0.7032725811004689
+
+38) karl_bernard_a - 0.6488743633702788
+
+39) mihail_makarovitch_a - 0.6487698377645209
+
+40) snegiryov_a - 0.6295534968376204
+
+41) pyotr_ilyitch_perhotin_a - 0.6257784216668103
+
+42) nikolay_parfenovitch_nelyudov_a - 0.6248893737793013
+
+43) timofey_a - 0.5777874244578238
+
+Result for the vector: tchermashnya, coming from part b of the book
+Rank: 1 out of 43 characters
+Cosine similarity to the co-referring vector: 0.9469217344201132
+
+1) tchermashnya_a - 0.9469217344201132
+
+2) katerina_ivanovna_a - 0.8890234761848137
+
+3) mokroe_a - 0.883982499001846
+
+4) grushenka_a - 0.8804829240564924
+
+5) lyagavy_a - 0.8799987363814554
+
+6) mitya_chapter_i_kuzma_samsonov_a - 0.8657285313091154
+
+7) katya_a - 0.8637646612910628
+
+8) madame_hohlakov_a - 0.8633314885694676
+
+9) agrafena_alexandrovna_a - 0.8596742242089283
+
+10) ilusha_a - 0.857681896021423
+
+11) smerdyakov_a - 0.8558875577416292
+
+12) herzenstube_a - 0.8555072377168716
+
+13) agafya_ivanovna_a - 0.8541502015039388
+
+14) lise_a - 0.8504638925332995
+
+15) pyotr_alexandrovitch_miüsov_a - 0.8474706845756848
+
+16) marya_kondratyevna_a - 0.8470639242846947
+
+17) ivan_fyodorovitch_karamazov_a - 0.8460507645026081
+
+18) fyodor_pavlovitch_karamazov_a - 0.8435508953466778
+
+19) mr_rakitin_a - 0.8388457644329771
+
+20) lizaveta_a - 0.8384509240195985
+
+21) von_sohn_a - 0.8301560181472313
+
+22) dmitri_fyodorovitch_karamazov_a - 0.8300874581906991
+
+23) alyosha_karamazov_a - 0.8254842900172735
+
+24) grigory_vassilyevitch_a - 0.8240406758797374
+
+25) father_zossima_a - 0.818981325060689
+
+26) alexey_fyodorovitch_karamazov_a - 0.8167582884512805
+
+27) maximov_a - 0.8157898430761652
+
+28) fenya_a - 0.8101168757746742
+
+29) varvara_a - 0.8093725684098179
+
+30) nina_a - 0.8074848066992802
+
+31) smurov_a - 0.8068598864418335
+
+32) church_of_christ_a - 0.8049650432159023
+
+33) kolya_krassotkin_a - 0.8040733693816285
+
+34) pyotr_fomitch_kalganov_a - 0.7952072979448083
+
+35) marfa_ignatyevna_a - 0.7950478906972314
+
+36) yulia_a - 0.7830288176826026
+
+37) misha_a - 0.7715808519249931
+
+38) mihail_makarovitch_a - 0.7379700917610528
+
+39) snegiryov_a - 0.7268357330711844
+
+40) pyotr_ilyitch_perhotin_a - 0.7081469682411291
+
+41) karl_bernard_a - 0.6924420801532891
+
+42) nikolay_parfenovitch_nelyudov_a - 0.6808547390271493
+
+43) timofey_a - 0.6616639096040702
+
+Result for the vector: varvara, coming from part b of the book
+Rank: 23 out of 43 characters
+Cosine similarity to the co-referring vector: 0.824549008879008
+
+1) lise_a - 0.8671812335956848
+
+2) dmitri_fyodorovitch_karamazov_a - 0.8659847378730835
+
+3) smerdyakov_a - 0.8657792726623594
+
+4) madame_hohlakov_a - 0.8646801291120172
+
+5) grushenka_a - 0.8640328998624519
+
+6) mitya_chapter_i_kuzma_samsonov_a - 0.8619619607925476
+
+7) marfa_ignatyevna_a - 0.8611103726757017
+
+8) katerina_ivanovna_a - 0.8609348113180532
+
+9) ivan_fyodorovitch_karamazov_a - 0.8608342326184665
+
+10) lizaveta_a - 0.8579235503582419
+
+11) fyodor_pavlovitch_karamazov_a - 0.856854021549231
+
+12) mr_rakitin_a - 0.8550586700439514
+
+13) katya_a - 0.8541315024055841
+
+14) grigory_vassilyevitch_a - 0.8537280472354932
+
+15) agafya_ivanovna_a - 0.8502930313523446
+
+16) pyotr_alexandrovitch_miüsov_a - 0.8498058408614628
+
+17) fenya_a - 0.8475602430904132
+
+18) alexey_fyodorovitch_karamazov_a - 0.8458412105847848
+
+19) lyagavy_a - 0.8403160131260172
+
+20) agrafena_alexandrovna_a - 0.8322644529815545
+
+21) maximov_a - 0.8302767771647455
+
+22) alyosha_karamazov_a - 0.8262102992785334
+
+23) varvara_a - 0.824549008879008
+
+24) herzenstube_a - 0.8228611455642626
+
+25) pyotr_fomitch_kalganov_a - 0.8194572925567685
+
+26) mihail_makarovitch_a - 0.818387985229498
+
+27) father_zossima_a - 0.8104482889175473
+
+28) ilusha_a - 0.8096543437036495
+
+29) marya_kondratyevna_a - 0.8070905689651128
+
+30) nina_a - 0.7943323482869308
+
+31) yulia_a - 0.7916889190673885
+
+32) von_sohn_a - 0.7760993936150727
+
+33) nikolay_parfenovitch_nelyudov_a - 0.7736627785757516
+
+34) karl_bernard_a - 0.7724384529851959
+
+35) kolya_krassotkin_a - 0.76702362298966
+
+36) smurov_a - 0.7598762512207086
+
+37) church_of_christ_a - 0.7562050078037399
+
+38) pyotr_ilyitch_perhotin_a - 0.7489795088768059
+
+39) snegiryov_a - 0.7400675106129063
+
+40) tchermashnya_a - 0.7341890772693812
+
+41) misha_a - 0.7318382263183646
+
+42) mokroe_a - 0.6918046703105772
+
+43) timofey_a - 0.6187543641778459
+
+Result for the vector: timofey, coming from part b of the book
+Rank: 43 out of 43 characters
+Cosine similarity to the co-referring vector: 0.6726967497287255
+
+1) grushenka_a - 0.917534634626146
+
+2) smerdyakov_a - 0.9132305331963635
+
+3) grigory_vassilyevitch_a - 0.9108845538428176
+
+4) agrafena_alexandrovna_a - 0.9105784137091201
+
+5) ilusha_a - 0.9055015388430098
+
+6) mr_rakitin_a - 0.9048633575439518
+
+7) mitya_chapter_i_kuzma_samsonov_a - 0.90289610624314
+
+8) herzenstube_a - 0.9017905651455925
+
+9) katerina_ivanovna_a - 0.9008172363773501
+
+10) pyotr_alexandrovitch_miüsov_a - 0.8989275158091024
+
+11) agafya_ivanovna_a - 0.8935772117124342
+
+12) marfa_ignatyevna_a - 0.8933407537151281
+
+13) fenya_a - 0.8924075566894616
+
+14) fyodor_pavlovitch_karamazov_a - 0.8893968462944094
+
+15) kolya_krassotkin_a - 0.8872959613800112
+
+16) alyosha_karamazov_a - 0.8870721920814744
+
+17) madame_hohlakov_a - 0.8854174213484608
+
+18) maximov_a - 0.8832901646667832
+
+19) ivan_fyodorovitch_karamazov_a - 0.8819495369165875
+
+20) lise_a - 0.8816372681639966
+
+21) dmitri_fyodorovitch_karamazov_a - 0.8802381753921571
+
+22) lyagavy_a - 0.8782890628238679
+
+23) katya_a - 0.8691389404700923
+
+24) lizaveta_a - 0.8560845084291111
+
+25) marya_kondratyevna_a - 0.8536475809602503
+
+26) varvara_a - 0.8522144467958493
+
+27) nina_a - 0.8500112026949902
+
+28) yulia_a - 0.8446658849716246
+
+29) smurov_a - 0.8337034583091795
+
+30) father_zossima_a - 0.8306294679641782
+
+31) alexey_fyodorovitch_karamazov_a - 0.8294417058756001
+
+32) pyotr_fomitch_kalganov_a - 0.8262673020362913
+
+33) von_sohn_a - 0.8166246548257463
+
+34) misha_a - 0.7991522550582942
+
+35) mihail_makarovitch_a - 0.7942386269569454
+
+36) tchermashnya_a - 0.7874781362699366
+
+37) mokroe_a - 0.780403707075561
+
+38) snegiryov_a - 0.7683957539076511
+
+39) church_of_christ_a - 0.764328823347619
+
+40) karl_bernard_a - 0.722055716637119
+
+41) pyotr_ilyitch_perhotin_a - 0.7195273637771658
+
+42) nikolay_parfenovitch_nelyudov_a - 0.7029671910962094
+
+43) timofey_a - 0.6726967497287255
+
+Result for the vector: yulia, coming from part b of the book
+Rank: 30 out of 43 characters
+Cosine similarity to the co-referring vector: 0.8283801181089823
+
+1) grushenka_a - 0.9068473466452838
+
+2) mitya_chapter_i_kuzma_samsonov_a - 0.8990764082028638
+
+3) katerina_ivanovna_a - 0.8982122212115596
+
+4) lise_a - 0.8971927165985107
+
+5) agafya_ivanovna_a - 0.8927178382873535
+
+6) smerdyakov_a - 0.8858789801597595
+
+7) pyotr_alexandrovitch_miüsov_a - 0.8854186075426871
+
+8) madame_hohlakov_a - 0.8851768042199856
+
+9) ilusha_a - 0.8847280144691467
+
+10) mr_rakitin_a - 0.8792185259331167
+
+11) lizaveta_a - 0.8790627049841124
+
+12) lyagavy_a - 0.8776645921964826
+
+13) dmitri_fyodorovitch_karamazov_a - 0.8747466281207441
+
+14) herzenstube_a - 0.8728712352667829
+
+15) alexey_fyodorovitch_karamazov_a - 0.8725199623417847
+
+16) agrafena_alexandrovna_a - 0.8712348784488356
+
+17) fyodor_pavlovitch_karamazov_a - 0.8687464673074221
+
+18) ivan_fyodorovitch_karamazov_a - 0.8677873611450195
+
+19) katya_a - 0.8676648061075707
+
+20) grigory_vassilyevitch_a - 0.8669614195823669
+
+21) marya_kondratyevna_a - 0.8643968105316162
+
+22) maximov_a - 0.8619159460067749
+
+23) nina_a - 0.8595574926802568
+
+24) fenya_a - 0.8587044733376648
+
+25) alyosha_karamazov_a - 0.8579030548276353
+
+26) von_sohn_a - 0.8577664154102334
+
+27) varvara_a - 0.8510000109672546
+
+28) father_zossima_a - 0.8340018490551815
+
+29) pyotr_fomitch_kalganov_a - 0.8304011326789196
+
+30) yulia_a - 0.8283801181089823
+
+31) smurov_a - 0.8280129535190506
+
+32) marfa_ignatyevna_a - 0.8267996803998772
+
+33) kolya_krassotkin_a - 0.8254065617676654
+
+34) misha_a - 0.8212061034914208
+
+35) tchermashnya_a - 0.8022828102111816
+
+36) mihail_makarovitch_a - 0.7904720431284893
+
+37) mokroe_a - 0.7801175582478989
+
+38) church_of_christ_a - 0.7774381637573242
+
+39) snegiryov_a - 0.7635118224329857
+
+40) pyotr_ilyitch_perhotin_a - 0.739359334745448
+
+41) nikolay_parfenovitch_nelyudov_a - 0.7303451138940534
+
+42) karl_bernard_a - 0.7281826138496399
+
+43) timofey_a - 0.6826961040496826
+
+Result for the vector: karl_bernard, coming from part b of the book
+Rank: 40 out of 43 characters
+Cosine similarity to the co-referring vector: 0.7317302445092874
+
+1) marya_kondratyevna_a - 0.9100493463888574
+
+2) von_sohn_a - 0.8842334082265739
+
+3) ilusha_a - 0.8822483087256051
+
+4) pyotr_alexandrovitch_miüsov_a - 0.8791986513854376
+
+5) father_zossima_a - 0.8791835046057884
+
+6) pyotr_fomitch_kalganov_a - 0.8763254619739848
+
+7) mitya_chapter_i_kuzma_samsonov_a - 0.8757852054898415
+
+8) ivan_fyodorovitch_karamazov_a - 0.8733343146244981
+
+9) katya_a - 0.8682205857235721
+
+10) smerdyakov_a - 0.8660872836735038
+
+11) katerina_ivanovna_a - 0.863186768483327
+
+12) madame_hohlakov_a - 0.8621393956029055
+
+13) kolya_krassotkin_a - 0.8617484312728549
+
+14) lyagavy_a - 0.8611511505336256
+
+15) alexey_fyodorovitch_karamazov_a - 0.8565811684651231
+
+16) grushenka_a - 0.8554535590788099
+
+17) herzenstube_a - 0.8553364108202185
+
+18) fyodor_pavlovitch_karamazov_a - 0.8531406863587925
+
+19) lise_a - 0.8515830293769551
+
+20) mr_rakitin_a - 0.8508714183905332
+
+21) dmitri_fyodorovitch_karamazov_a - 0.8496376618850962
+
+22) tchermashnya_a - 0.8464759840511082
+
+23) agrafena_alexandrovna_a - 0.8462018439474503
+
+24) grigory_vassilyevitch_a - 0.8429417265338224
+
+25) varvara_a - 0.8422137749854859
+
+26) alyosha_karamazov_a - 0.8414016522230199
+
+27) maximov_a - 0.8405946147619077
+
+28) lizaveta_a - 0.8347268850857218
+
+29) agafya_ivanovna_a - 0.8313325891295851
+
+30) smurov_a - 0.8277982822716781
+
+31) church_of_christ_a - 0.8274926193801353
+
+32) fenya_a - 0.820776153849134
+
+33) misha_a - 0.8077332732756983
+
+34) yulia_a - 0.8030123471316027
+
+35) marfa_ignatyevna_a - 0.7881543148893999
+
+36) mokroe_a - 0.7783874373186327
+
+37) nina_a - 0.7689632131104519
+
+38) snegiryov_a - 0.7525100188711306
+
+39) mihail_makarovitch_a - 0.7409698742339083
+
+40) karl_bernard_a - 0.7317302445092874
+
+41) pyotr_ilyitch_perhotin_a - 0.7178799296057274
+
+42) nikolay_parfenovitch_nelyudov_a - 0.6947829152449595
+
+43) timofey_a - 0.6729958854018419
+

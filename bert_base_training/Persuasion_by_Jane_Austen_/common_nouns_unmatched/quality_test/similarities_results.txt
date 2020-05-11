@@ -1,0 +1,1760 @@
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9186743497848511
+
+1) time_a - 0.9186743497848511
+
+2) day_a - 0.8855413198471069
+
+3) moment_a - 0.8766760899617634
+
+4) thing_a - 0.8575208187103271
+
+5) acquaintance_a - 0.8569409847259521
+
+6) year_a - 0.8550883190360168
+
+7) family_a - 0.8541467872770571
+
+8) manner_a - 0.85015869140625
+
+9) child_a - 0.8468644022941589
+
+10) feeling_a - 0.8462101129418694
+
+11) party_a - 0.8459701538085938
+
+12) way_a - 0.8458566665649414
+
+13) mind_a - 0.8324581880842574
+
+14) room_a - 0.8317495832368611
+
+15) friend_a - 0.8217255121983744
+
+16) sister_a - 0.8145030626358442
+
+17) woman_a - 0.8134190086549229
+
+18) man_a - 0.8117907531136738
+
+19) father_a - 0.8060586932932566
+
+20) nothing_a - 0.799113392829895
+
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9360462350900454
+
+1) man_a - 0.9360462350900454
+
+2) friend_a - 0.9055744027114875
+
+3) woman_a - 0.9033053728913109
+
+4) child_a - 0.9024893583351007
+
+5) sister_a - 0.901154625553444
+
+6) family_a - 0.9004199504852359
+
+7) feeling_a - 0.8787250374227806
+
+8) father_a - 0.8694385134504453
+
+9) mind_a - 0.8687009058834202
+
+10) thing_a - 0.8600340402146617
+
+11) day_a - 0.8544589790379408
+
+12) acquaintance_a - 0.8526789458202703
+
+13) manner_a - 0.8506059557560671
+
+14) time_a - 0.8496468573598196
+
+15) party_a - 0.8482201604974381
+
+16) nothing_a - 0.834313978809953
+
+17) way_a - 0.8267942563768793
+
+18) room_a - 0.8211193222808235
+
+19) year_a - 0.8107361326279763
+
+20) moment_a - 0.7962934374809322
+
+Result for the vector: nothing, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8542480977921559
+
+1) nothing_a - 0.8542480977921559
+
+2) feeling_a - 0.7601865840180616
+
+3) thing_a - 0.7518277616398206
+
+4) day_a - 0.7357425532187566
+
+5) sister_a - 0.7325538674061141
+
+6) manner_a - 0.7320754964396666
+
+7) family_a - 0.731178939342504
+
+8) mind_a - 0.7308351076644788
+
+9) friend_a - 0.7290273960555255
+
+10) child_a - 0.7263937429424384
+
+11) acquaintance_a - 0.725972934125242
+
+12) time_a - 0.7253010109246393
+
+13) woman_a - 0.7223172833607155
+
+14) way_a - 0.7166525552661762
+
+15) man_a - 0.7136897699463093
+
+16) year_a - 0.7041584882877909
+
+17) party_a - 0.6992615878141886
+
+18) father_a - 0.697116517676892
+
+19) moment_a - 0.69184541702271
+
+20) room_a - 0.6916307233241851
+
+Result for the vector: father, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9328697363812037
+
+1) father_a - 0.9328697363812037
+
+2) sister_a - 0.901078408892264
+
+3) friend_a - 0.8790515471352841
+
+4) family_a - 0.8567173737196865
+
+5) child_a - 0.8519275364962238
+
+6) acquaintance_a - 0.8366543845350344
+
+7) feeling_a - 0.8260859950729743
+
+8) man_a - 0.8146483412594722
+
+9) woman_a - 0.8135098087629937
+
+10) mind_a - 0.8083915228610452
+
+11) party_a - 0.7996317387066256
+
+12) manner_a - 0.7924717912111587
+
+13) day_a - 0.7757491140664735
+
+14) thing_a - 0.7718707595025642
+
+15) way_a - 0.7641326470216988
+
+16) year_a - 0.7629510078176039
+
+17) nothing_a - 0.7555432611056309
+
+18) time_a - 0.7549327904066151
+
+19) room_a - 0.752418212376405
+
+20) moment_a - 0.7101622742124318
+
+Result for the vector: friend, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9082651408989774
+
+1) friend_a - 0.9082651408989774
+
+2) father_a - 0.888442092445023
+
+3) sister_a - 0.8850528529317903
+
+4) woman_a - 0.8549003855854391
+
+5) family_a - 0.8538825599025169
+
+6) acquaintance_a - 0.8519936203956604
+
+7) man_a - 0.8417939449425917
+
+8) child_a - 0.8392539024353027
+
+9) feeling_a - 0.8217508090585967
+
+10) mind_a - 0.8212333811064604
+
+11) manner_a - 0.8047124743461609
+
+12) thing_a - 0.8013031482696533
+
+13) party_a - 0.793204665184021
+
+14) day_a - 0.7931321263313293
+
+15) way_a - 0.7847427129745483
+
+16) time_a - 0.7716972231864929
+
+17) room_a - 0.7611730921618075
+
+18) year_a - 0.7585839259202461
+
+19) moment_a - 0.7506206184255722
+
+20) nothing_a - 0.7488870620727539
+
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8493944406509399
+
+1) day_a - 0.8493944406509399
+
+2) time_a - 0.8427762389183044
+
+3) year_a - 0.8292877325203343
+
+4) feeling_a - 0.8245980038999337
+
+5) child_a - 0.8226621747016907
+
+6) family_a - 0.8224197135913557
+
+7) sister_a - 0.8189117800540807
+
+8) friend_a - 0.8076953532604982
+
+9) thing_a - 0.7993471622467041
+
+10) moment_a - 0.7958999993860736
+
+11) manner_a - 0.7869858741760254
+
+12) nothing_a - 0.7864519357681274
+
+13) acquaintance_a - 0.7844359278678894
+
+14) party_a - 0.7840781211853027
+
+15) mind_a - 0.7815846074571986
+
+16) room_a - 0.7763139836881755
+
+17) man_a - 0.7748244866624182
+
+18) way_a - 0.7685245275497437
+
+19) woman_a - 0.7654332746694471
+
+20) father_a - 0.7614836550643252
+
+Result for the vector: sister, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9259179234504765
+
+1) sister_a - 0.9259179234504765
+
+2) friend_a - 0.9162154520685872
+
+3) father_a - 0.9022287130355899
+
+4) family_a - 0.899552714877997
+
+5) child_a - 0.8892373508669541
+
+6) acquaintance_a - 0.8816192816722837
+
+7) woman_a - 0.8776231146567167
+
+8) feeling_a - 0.8577592372894348
+
+9) man_a - 0.8531339168548645
+
+10) day_a - 0.8522930829350318
+
+11) party_a - 0.8470698090154062
+
+12) mind_a - 0.8382807374000609
+
+13) thing_a - 0.8380221225010098
+
+14) year_a - 0.8346508492633481
+
+15) manner_a - 0.8316214781033127
+
+16) time_a - 0.8219241606042303
+
+17) room_a - 0.8173985237658496
+
+18) way_a - 0.8154101481789277
+
+19) nothing_a - 0.8046004292607066
+
+20) moment_a - 0.7826501390158964
+
+Result for the vector: feeling, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9284679847042568
+
+1) feeling_a - 0.9284679847042568
+
+2) manner_a - 0.9156665205955505
+
+3) mind_a - 0.9122939057525357
+
+4) acquaintance_a - 0.8858110904693604
+
+5) thing_a - 0.8811362981796265
+
+6) friend_a - 0.8644970913081498
+
+7) family_a - 0.8589389408267191
+
+8) way_a - 0.8588939905166626
+
+9) sister_a - 0.8557575259064168
+
+10) father_a - 0.8524228246464044
+
+11) child_a - 0.8511983156204224
+
+12) time_a - 0.8480693101882935
+
+13) day_a - 0.841161847114563
+
+14) nothing_a - 0.8346810340881348
+
+15) party_a - 0.8331642150878906
+
+16) woman_a - 0.8257363088648415
+
+17) man_a - 0.8195863854638582
+
+18) moment_a - 0.8129828087697754
+
+19) room_a - 0.8051905871984542
+
+20) year_a - 0.8044801594162039
+
+Result for the vector: room, coming from part i of the book
+Rank: 19 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7001374572556456
+
+1) feeling_a - 0.7757912144536517
+
+2) mind_a - 0.7676039199593033
+
+3) thing_a - 0.7626311779022217
+
+4) manner_a - 0.7501474022865295
+
+5) family_a - 0.7443059239205181
+
+6) acquaintance_a - 0.7425464391708374
+
+7) way_a - 0.7391762733459473
+
+8) nothing_a - 0.7330561876296997
+
+9) friend_a - 0.730798027837218
+
+10) child_a - 0.7290768623352051
+
+11) woman_a - 0.7281717875055015
+
+12) day_a - 0.7272997498512268
+
+13) time_a - 0.7250210046768188
+
+14) party_a - 0.7244436740875244
+
+15) man_a - 0.7216139269837111
+
+16) sister_a - 0.7186614107287783
+
+17) father_a - 0.7146841713597889
+
+18) year_a - 0.7129200313365472
+
+19) room_a - 0.7001374572556456
+
+20) moment_a - 0.6907401269233163
+
+Result for the vector: family, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9534805472516361
+
+1) family_a - 0.9534805472516361
+
+2) sister_a - 0.9419646263122625
+
+3) friend_a - 0.9342205246025205
+
+4) child_a - 0.9294481319518028
+
+5) father_a - 0.9237979054451054
+
+6) acquaintance_a - 0.917798822057319
+
+7) feeling_a - 0.9049465656280582
+
+8) party_a - 0.9009894787675469
+
+9) mind_a - 0.8852161169052187
+
+10) woman_a - 0.8847824071412597
+
+11) manner_a - 0.8836845228860082
+
+12) man_a - 0.8802648782730165
+
+13) room_a - 0.8795351719994827
+
+14) thing_a - 0.8793973398567847
+
+15) day_a - 0.8770744873836958
+
+16) way_a - 0.8768816663693404
+
+17) time_a - 0.8668348272541284
+
+18) nothing_a - 0.8510624855123484
+
+19) year_a - 0.8478322968532984
+
+20) moment_a - 0.8163950662141959
+
+Result for the vector: woman, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9190101993969007
+
+1) woman_a - 0.9190101993969007
+
+2) man_a - 0.8887900180345905
+
+3) family_a - 0.8845983353975427
+
+4) child_a - 0.8725989016772688
+
+5) sister_a - 0.8718301730257308
+
+6) feeling_a - 0.8702671009143074
+
+7) friend_a - 0.8684794722366901
+
+8) party_a - 0.858873205319267
+
+9) mind_a - 0.856399723506004
+
+10) thing_a - 0.8492310822926722
+
+11) father_a - 0.847241351172857
+
+12) manner_a - 0.8459956233506711
+
+13) acquaintance_a - 0.8451385682656147
+
+14) day_a - 0.8339898188126362
+
+15) nothing_a - 0.819702348744595
+
+16) time_a - 0.8171986559392682
+
+17) year_a - 0.8082249038018462
+
+18) way_a - 0.8033721085343288
+
+19) room_a - 0.7971253278441522
+
+20) moment_a - 0.7600591611756408
+
+Result for the vector: year, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9368083793876095
+
+1) year_a - 0.9368083793876095
+
+2) day_a - 0.8732918576424222
+
+3) time_a - 0.8383318282168029
+
+4) child_a - 0.8133846036562574
+
+5) family_a - 0.8127694353140074
+
+6) feeling_a - 0.8093735575676022
+
+7) thing_a - 0.809118580274668
+
+8) acquaintance_a - 0.798170518984169
+
+9) moment_a - 0.7981283309306704
+
+10) sister_a - 0.7980797290802059
+
+11) friend_a - 0.7886526349588475
+
+12) party_a - 0.7851175197888913
+
+13) nothing_a - 0.7842344174245361
+
+14) woman_a - 0.7830463414476443
+
+15) man_a - 0.78113073110581
+
+16) manner_a - 0.776935769502178
+
+17) way_a - 0.7699203032302689
+
+18) mind_a - 0.7662456035614068
+
+19) room_a - 0.7659982810617036
+
+20) father_a - 0.7655392289161737
+
+Result for the vector: way, coming from part i of the book
+Rank: 3 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8058749561794095
+
+1) feeling_a - 0.8269150893263656
+
+2) manner_a - 0.8186860220449619
+
+3) way_a - 0.8058749561794095
+
+4) thing_a - 0.805379403118441
+
+5) family_a - 0.7943886755224756
+
+6) child_a - 0.7915327660619736
+
+7) time_a - 0.7878666032433485
+
+8) sister_a - 0.7859671691011147
+
+9) year_a - 0.7841763835163588
+
+10) day_a - 0.7838044867340793
+
+11) friend_a - 0.783686135254639
+
+12) mind_a - 0.7753368579353184
+
+13) nothing_a - 0.7736482119841797
+
+14) woman_a - 0.771093162428519
+
+15) party_a - 0.7686275930965806
+
+16) acquaintance_a - 0.7671201914954388
+
+17) man_a - 0.7612587155787226
+
+18) room_a - 0.7563249178320085
+
+19) moment_a - 0.7481312378684138
+
+20) father_a - 0.7362607622535176
+
+Result for the vector: moment, coming from part i of the book
+Rank: 14 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7571888566017204
+
+1) feeling_a - 0.8176078578958342
+
+2) manner_a - 0.8105998522400782
+
+3) thing_a - 0.8060909394080021
+
+4) day_a - 0.7846107354528165
+
+5) mind_a - 0.7795918917169442
+
+6) time_a - 0.7794185745369552
+
+7) way_a - 0.7788140641936115
+
+8) party_a - 0.7769003973543894
+
+9) acquaintance_a - 0.7749182447742383
+
+10) family_a - 0.7709813714027459
+
+11) child_a - 0.7646101572877276
+
+12) year_a - 0.7618914927743223
+
+13) woman_a - 0.7606933797025726
+
+14) moment_a - 0.7571888566017204
+
+15) nothing_a - 0.7462455479053003
+
+16) friend_a - 0.7448037336591248
+
+17) room_a - 0.7432757088490467
+
+18) sister_a - 0.7414557625598625
+
+19) man_a - 0.739081947694057
+
+20) father_a - 0.7151431697777713
+
+Result for the vector: manner, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8540439518716322
+
+1) manner_a - 0.8540439518716322
+
+2) feeling_a - 0.8297255432278565
+
+3) mind_a - 0.8205492282568488
+
+4) acquaintance_a - 0.813683558325981
+
+5) way_a - 0.8008339286347599
+
+6) thing_a - 0.7929398294055374
+
+7) friend_a - 0.7894486298664183
+
+8) family_a - 0.7816433310508784
+
+9) sister_a - 0.7810286022458794
+
+10) child_a - 0.7768393621945014
+
+11) party_a - 0.7704916459615033
+
+12) father_a - 0.7688163243313222
+
+13) time_a - 0.7634368993900372
+
+14) day_a - 0.7585878228299525
+
+15) room_a - 0.7541030723544725
+
+16) woman_a - 0.7499007657081577
+
+17) nothing_a - 0.748368427060154
+
+18) man_a - 0.7446903878081307
+
+19) year_a - 0.7292901333531859
+
+20) moment_a - 0.7173972725868276
+
+Result for the vector: party, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.5555922124142784
+
+1) party_a - 0.5555922124142784
+
+2) family_a - 0.55445367097855
+
+3) woman_a - 0.5458847772376042
+
+4) sister_a - 0.540426020673039
+
+5) man_a - 0.5373613878919349
+
+6) father_a - 0.5369053527003947
+
+7) friend_a - 0.5366274598205801
+
+8) acquaintance_a - 0.5320310909766619
+
+9) child_a - 0.5227893306487409
+
+10) manner_a - 0.5224680019896041
+
+11) feeling_a - 0.5194212817455865
+
+12) day_a - 0.5175778578268214
+
+13) mind_a - 0.5168775936219208
+
+14) time_a - 0.5109998888373318
+
+15) thing_a - 0.5105538076492443
+
+16) room_a - 0.5095299937900898
+
+17) way_a - 0.5083495085447742
+
+18) moment_a - 0.5038207173347509
+
+19) year_a - 0.49634362724515463
+
+20) nothing_a - 0.47044101181274806
+
+Result for the vector: thing, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7466692924499512
+
+1) thing_a - 0.7466692924499512
+
+2) feeling_a - 0.7432631697215553
+
+3) manner_a - 0.7220562696456909
+
+4) nothing_a - 0.7159386873245239
+
+5) mind_a - 0.7104837125828107
+
+6) acquaintance_a - 0.7013635039329529
+
+7) time_a - 0.6896265745162964
+
+8) day_a - 0.6874337792396545
+
+9) way_a - 0.6776410341262817
+
+10) party_a - 0.6744830012321472
+
+11) child_a - 0.6699811220169067
+
+12) family_a - 0.6689989168048562
+
+13) year_a - 0.6665225823677359
+
+14) moment_a - 0.6595412099634892
+
+15) woman_a - 0.6590860086407071
+
+16) friend_a - 0.6529889897402823
+
+17) sister_a - 0.6458523062379554
+
+18) room_a - 0.6412854981805536
+
+19) man_a - 0.6354168436179676
+
+20) father_a - 0.6316175837288858
+
+Result for the vector: mind, coming from part i of the book
+Rank: 6 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7956589812825896
+
+1) manner_a - 0.8062144998439863
+
+2) feeling_a - 0.8057559497065484
+
+3) family_a - 0.8047462105751095
+
+4) woman_a - 0.8046092514344384
+
+5) friend_a - 0.8014946700478799
+
+6) mind_a - 0.7956589812825896
+
+7) thing_a - 0.79511408776725
+
+8) sister_a - 0.7929768315526047
+
+9) acquaintance_a - 0.7887944453236144
+
+10) man_a - 0.7877427086523424
+
+11) child_a - 0.7839515080423076
+
+12) way_a - 0.7797323334057543
+
+13) day_a - 0.7786681520145043
+
+14) time_a - 0.7701497536986933
+
+15) father_a - 0.764509411395718
+
+16) party_a - 0.7601767635450831
+
+17) moment_a - 0.7600013017654473
+
+18) room_a - 0.754995771199087
+
+19) nothing_a - 0.7529817076314527
+
+20) year_a - 0.7429006763905894
+
+Result for the vector: acquaintance, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.6829057931900024
+
+1) acquaintance_a - 0.6829057931900024
+
+2) feeling_a - 0.6197932731982048
+
+3) friend_a - 0.6187691872945188
+
+4) mind_a - 0.6167600522494359
+
+5) sister_a - 0.6157019505323154
+
+6) child_a - 0.6126244068145752
+
+7) family_a - 0.6060375210024415
+
+8) time_a - 0.5967124700546265
+
+9) day_a - 0.5931522250175476
+
+10) way_a - 0.592969536781311
+
+11) manner_a - 0.5920812487602234
+
+12) thing_a - 0.5900500416755676
+
+13) party_a - 0.5897549986839294
+
+14) father_a - 0.5702515584380373
+
+15) room_a - 0.5694228580422064
+
+16) year_a - 0.5620368290554535
+
+17) moment_a - 0.5541229513810316
+
+18) nothing_a - 0.5462791323661804
+
+19) man_a - 0.5438975419937109
+
+20) woman_a - 0.5249886073168699
+
+Result for the vector: child, coming from part i of the book
+Rank: 2 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8732826709747314
+
+1) sister_a - 0.8772413061405022
+
+2) child_a - 0.8732826709747314
+
+3) father_a - 0.8731689973574295
+
+4) family_a - 0.8660622914992413
+
+5) friend_a - 0.8594572204189668
+
+6) acquaintance_a - 0.8332295417785645
+
+7) party_a - 0.8295209407806396
+
+8) woman_a - 0.8156812434101479
+
+9) man_a - 0.8101967460034353
+
+10) feeling_a - 0.7986278413908401
+
+11) mind_a - 0.790266382114077
+
+12) day_a - 0.7896576523780823
+
+13) thing_a - 0.7827492952346802
+
+14) year_a - 0.7776526444450812
+
+15) manner_a - 0.7767834067344666
+
+16) way_a - 0.7703338861465454
+
+17) room_a - 0.7674192418879048
+
+18) time_a - 0.7635258436203003
+
+19) nothing_a - 0.7500704526901245
+
+20) moment_a - 0.7184781003905487
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9186743497848511
+
+1) time_wiki - 0.9186743497848511
+
+2) family_wiki - 0.8668348272541284
+
+3) man_wiki - 0.8496468573598196
+
+4) feeling_wiki - 0.8480693101882935
+
+5) day_wiki - 0.8427762389183044
+
+6) year_wiki - 0.8383318282168029
+
+7) sister_wiki - 0.8219241606042303
+
+8) woman_wiki - 0.8171986559392682
+
+9) way_wiki - 0.7878666032433485
+
+10) moment_wiki - 0.7794185745369552
+
+11) friend_wiki - 0.7716972231864929
+
+12) mind_wiki - 0.7701497536986933
+
+13) child_wiki - 0.7635258436203003
+
+14) manner_wiki - 0.7634368993900372
+
+15) father_wiki - 0.7549327904066151
+
+16) nothing_wiki - 0.7253010109246393
+
+17) room_wiki - 0.7250210046768188
+
+18) thing_wiki - 0.6896265745162964
+
+19) acquaintance_wiki - 0.5967124700546265
+
+20) party_wiki - 0.5109998888373318
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9360462350900454
+
+1) man_wiki - 0.9360462350900454
+
+2) woman_wiki - 0.8887900180345905
+
+3) family_wiki - 0.8802648782730165
+
+4) sister_wiki - 0.8531339168548645
+
+5) friend_wiki - 0.8417939449425917
+
+6) feeling_wiki - 0.8195863854638582
+
+7) father_wiki - 0.8146483412594722
+
+8) time_wiki - 0.8117907531136738
+
+9) child_wiki - 0.8101967460034353
+
+10) mind_wiki - 0.7877427086523424
+
+11) year_wiki - 0.78113073110581
+
+12) day_wiki - 0.7748244866624182
+
+13) way_wiki - 0.7612587155787226
+
+14) manner_wiki - 0.7446903878081307
+
+15) moment_wiki - 0.739081947694057
+
+16) room_wiki - 0.7216139269837111
+
+17) nothing_wiki - 0.7136897699463093
+
+18) thing_wiki - 0.6354168436179676
+
+19) acquaintance_wiki - 0.5438975419937109
+
+20) party_wiki - 0.5373613878919349
+
+Result for the vector: nothing, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8542480977921559
+
+1) nothing_wiki - 0.8542480977921559
+
+2) family_wiki - 0.8510624855123484
+
+3) feeling_wiki - 0.8346810340881348
+
+4) man_wiki - 0.834313978809953
+
+5) woman_wiki - 0.819702348744595
+
+6) sister_wiki - 0.8046004292607066
+
+7) time_wiki - 0.799113392829895
+
+8) day_wiki - 0.7864519357681274
+
+9) year_wiki - 0.7842344174245361
+
+10) way_wiki - 0.7736482119841797
+
+11) father_wiki - 0.7555432611056309
+
+12) mind_wiki - 0.7529817076314527
+
+13) child_wiki - 0.7500704526901245
+
+14) friend_wiki - 0.7488870620727539
+
+15) manner_wiki - 0.748368427060154
+
+16) moment_wiki - 0.7462455479053003
+
+17) room_wiki - 0.7330561876296997
+
+18) thing_wiki - 0.7159386873245239
+
+19) acquaintance_wiki - 0.5462791323661804
+
+20) party_wiki - 0.47044101181274806
+
+Result for the vector: father, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9328697363812037
+
+1) father_wiki - 0.9328697363812037
+
+2) family_wiki - 0.9237979054451054
+
+3) sister_wiki - 0.9022287130355899
+
+4) friend_wiki - 0.888442092445023
+
+5) child_wiki - 0.8731689973574295
+
+6) man_wiki - 0.8694385134504453
+
+7) feeling_wiki - 0.8524228246464044
+
+8) woman_wiki - 0.847241351172857
+
+9) time_wiki - 0.8060586932932566
+
+10) manner_wiki - 0.7688163243313222
+
+11) year_wiki - 0.7655392289161737
+
+12) mind_wiki - 0.764509411395718
+
+13) day_wiki - 0.7614836550643252
+
+14) way_wiki - 0.7362607622535176
+
+15) moment_wiki - 0.7151431697777713
+
+16) room_wiki - 0.7146841713597889
+
+17) nothing_wiki - 0.697116517676892
+
+18) thing_wiki - 0.6316175837288858
+
+19) acquaintance_wiki - 0.5702515584380373
+
+20) party_wiki - 0.5369053527003947
+
+Result for the vector: friend, coming from part a of the book
+Rank: 3 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9082651408989774
+
+1) family_wiki - 0.9342205246025205
+
+2) sister_wiki - 0.9162154520685872
+
+3) friend_wiki - 0.9082651408989774
+
+4) man_wiki - 0.9055744027114875
+
+5) father_wiki - 0.8790515471352841
+
+6) woman_wiki - 0.8684794722366901
+
+7) feeling_wiki - 0.8644970913081498
+
+8) child_wiki - 0.8594572204189668
+
+9) time_wiki - 0.8217255121983744
+
+10) day_wiki - 0.8076953532604982
+
+11) mind_wiki - 0.8014946700478799
+
+12) manner_wiki - 0.7894486298664183
+
+13) year_wiki - 0.7886526349588475
+
+14) way_wiki - 0.783686135254639
+
+15) moment_wiki - 0.7448037336591248
+
+16) room_wiki - 0.730798027837218
+
+17) nothing_wiki - 0.7290273960555255
+
+18) thing_wiki - 0.6529889897402823
+
+19) acquaintance_wiki - 0.6187691872945188
+
+20) party_wiki - 0.5366274598205801
+
+Result for the vector: day, coming from part a of the book
+Rank: 6 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8493944406509399
+
+1) time_wiki - 0.8855413198471069
+
+2) family_wiki - 0.8770744873836958
+
+3) year_wiki - 0.8732918576424222
+
+4) man_wiki - 0.8544589790379408
+
+5) sister_wiki - 0.8522930829350318
+
+6) day_wiki - 0.8493944406509399
+
+7) feeling_wiki - 0.841161847114563
+
+8) woman_wiki - 0.8339898188126362
+
+9) friend_wiki - 0.7931321263313293
+
+10) child_wiki - 0.7896576523780823
+
+11) moment_wiki - 0.7846107354528165
+
+12) way_wiki - 0.7838044867340793
+
+13) mind_wiki - 0.7786681520145043
+
+14) father_wiki - 0.7757491140664735
+
+15) manner_wiki - 0.7585878228299525
+
+16) nothing_wiki - 0.7357425532187566
+
+17) room_wiki - 0.7272997498512268
+
+18) thing_wiki - 0.6874337792396545
+
+19) acquaintance_wiki - 0.5931522250175476
+
+20) party_wiki - 0.5175778578268214
+
+Result for the vector: sister, coming from part a of the book
+Rank: 2 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9259179234504765
+
+1) family_wiki - 0.9419646263122625
+
+2) sister_wiki - 0.9259179234504765
+
+3) man_wiki - 0.901154625553444
+
+4) father_wiki - 0.901078408892264
+
+5) friend_wiki - 0.8850528529317903
+
+6) child_wiki - 0.8772413061405022
+
+7) woman_wiki - 0.8718301730257308
+
+8) feeling_wiki - 0.8557575259064168
+
+9) day_wiki - 0.8189117800540807
+
+10) time_wiki - 0.8145030626358442
+
+11) year_wiki - 0.7980797290802059
+
+12) mind_wiki - 0.7929768315526047
+
+13) way_wiki - 0.7859671691011147
+
+14) manner_wiki - 0.7810286022458794
+
+15) moment_wiki - 0.7414557625598625
+
+16) nothing_wiki - 0.7325538674061141
+
+17) room_wiki - 0.7186614107287783
+
+18) thing_wiki - 0.6458523062379554
+
+19) acquaintance_wiki - 0.6157019505323154
+
+20) party_wiki - 0.540426020673039
+
+Result for the vector: feeling, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9284679847042568
+
+1) feeling_wiki - 0.9284679847042568
+
+2) family_wiki - 0.9049465656280582
+
+3) man_wiki - 0.8787250374227806
+
+4) woman_wiki - 0.8702671009143074
+
+5) sister_wiki - 0.8577592372894348
+
+6) time_wiki - 0.8462101129418694
+
+7) manner_wiki - 0.8297255432278565
+
+8) way_wiki - 0.8269150893263656
+
+9) father_wiki - 0.8260859950729743
+
+10) day_wiki - 0.8245980038999337
+
+11) friend_wiki - 0.8217508090585967
+
+12) moment_wiki - 0.8176078578958342
+
+13) year_wiki - 0.8093735575676022
+
+14) mind_wiki - 0.8057559497065484
+
+15) child_wiki - 0.7986278413908401
+
+16) room_wiki - 0.7757912144536517
+
+17) nothing_wiki - 0.7601865840180616
+
+18) thing_wiki - 0.7432631697215553
+
+19) acquaintance_wiki - 0.6197932731982048
+
+20) party_wiki - 0.5194212817455865
+
+Result for the vector: room, coming from part a of the book
+Rank: 16 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7001374572556456
+
+1) family_wiki - 0.8795351719994827
+
+2) time_wiki - 0.8317495832368611
+
+3) man_wiki - 0.8211193222808235
+
+4) sister_wiki - 0.8173985237658496
+
+5) feeling_wiki - 0.8051905871984542
+
+6) woman_wiki - 0.7971253278441522
+
+7) day_wiki - 0.7763139836881755
+
+8) child_wiki - 0.7674192418879048
+
+9) year_wiki - 0.7659982810617036
+
+10) friend_wiki - 0.7611730921618075
+
+11) way_wiki - 0.7563249178320085
+
+12) mind_wiki - 0.754995771199087
+
+13) manner_wiki - 0.7541030723544725
+
+14) father_wiki - 0.752418212376405
+
+15) moment_wiki - 0.7432757088490467
+
+16) room_wiki - 0.7001374572556456
+
+17) nothing_wiki - 0.6916307233241851
+
+18) thing_wiki - 0.6412854981805536
+
+19) acquaintance_wiki - 0.5694228580422064
+
+20) party_wiki - 0.5095299937900898
+
+Result for the vector: family, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9534805472516361
+
+1) family_wiki - 0.9534805472516361
+
+2) man_wiki - 0.9004199504852359
+
+3) sister_wiki - 0.899552714877997
+
+4) woman_wiki - 0.8845983353975427
+
+5) child_wiki - 0.8660622914992413
+
+6) feeling_wiki - 0.8589389408267191
+
+7) father_wiki - 0.8567173737196865
+
+8) time_wiki - 0.8541467872770571
+
+9) friend_wiki - 0.8538825599025169
+
+10) day_wiki - 0.8224197135913557
+
+11) year_wiki - 0.8127694353140074
+
+12) mind_wiki - 0.8047462105751095
+
+13) way_wiki - 0.7943886755224756
+
+14) manner_wiki - 0.7816433310508784
+
+15) moment_wiki - 0.7709813714027459
+
+16) room_wiki - 0.7443059239205181
+
+17) nothing_wiki - 0.731178939342504
+
+18) thing_wiki - 0.6689989168048562
+
+19) acquaintance_wiki - 0.6060375210024415
+
+20) party_wiki - 0.55445367097855
+
+Result for the vector: woman, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9190101993969007
+
+1) woman_wiki - 0.9190101993969007
+
+2) man_wiki - 0.9033053728913109
+
+3) family_wiki - 0.8847824071412597
+
+4) sister_wiki - 0.8776231146567167
+
+5) friend_wiki - 0.8549003855854391
+
+6) feeling_wiki - 0.8257363088648415
+
+7) child_wiki - 0.8156812434101479
+
+8) father_wiki - 0.8135098087629937
+
+9) time_wiki - 0.8134190086549229
+
+10) mind_wiki - 0.8046092514344384
+
+11) year_wiki - 0.7830463414476443
+
+12) way_wiki - 0.771093162428519
+
+13) day_wiki - 0.7654332746694471
+
+14) moment_wiki - 0.7606933797025726
+
+15) manner_wiki - 0.7499007657081577
+
+16) room_wiki - 0.7281717875055015
+
+17) nothing_wiki - 0.7223172833607155
+
+18) thing_wiki - 0.6590860086407071
+
+19) party_wiki - 0.5458847772376042
+
+20) acquaintance_wiki - 0.5249886073168699
+
+Result for the vector: year, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9368083793876095
+
+1) year_wiki - 0.9368083793876095
+
+2) time_wiki - 0.8550883190360168
+
+3) family_wiki - 0.8478322968532984
+
+4) sister_wiki - 0.8346508492633481
+
+5) day_wiki - 0.8292877325203343
+
+6) man_wiki - 0.8107361326279763
+
+7) woman_wiki - 0.8082249038018462
+
+8) feeling_wiki - 0.8044801594162039
+
+9) way_wiki - 0.7841763835163588
+
+10) child_wiki - 0.7776526444450812
+
+11) father_wiki - 0.7629510078176039
+
+12) moment_wiki - 0.7618914927743223
+
+13) friend_wiki - 0.7585839259202461
+
+14) mind_wiki - 0.7429006763905894
+
+15) manner_wiki - 0.7292901333531859
+
+16) room_wiki - 0.7129200313365472
+
+17) nothing_wiki - 0.7041584882877909
+
+18) thing_wiki - 0.6665225823677359
+
+19) acquaintance_wiki - 0.5620368290554535
+
+20) party_wiki - 0.49634362724515463
+
+Result for the vector: way, coming from part a of the book
+Rank: 6 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8058749561794095
+
+1) family_wiki - 0.8768816663693404
+
+2) feeling_wiki - 0.8588939905166626
+
+3) time_wiki - 0.8458566665649414
+
+4) man_wiki - 0.8267942563768793
+
+5) sister_wiki - 0.8154101481789277
+
+6) way_wiki - 0.8058749561794095
+
+7) woman_wiki - 0.8033721085343288
+
+8) manner_wiki - 0.8008339286347599
+
+9) friend_wiki - 0.7847427129745483
+
+10) mind_wiki - 0.7797323334057543
+
+11) moment_wiki - 0.7788140641936115
+
+12) child_wiki - 0.7703338861465454
+
+13) year_wiki - 0.7699203032302689
+
+14) day_wiki - 0.7685245275497437
+
+15) father_wiki - 0.7641326470216988
+
+16) room_wiki - 0.7391762733459473
+
+17) nothing_wiki - 0.7166525552661762
+
+18) thing_wiki - 0.6776410341262817
+
+19) acquaintance_wiki - 0.592969536781311
+
+20) party_wiki - 0.5083495085447742
+
+Result for the vector: moment, coming from part a of the book
+Rank: 10 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7571888566017204
+
+1) time_wiki - 0.8766760899617634
+
+2) family_wiki - 0.8163950662141959
+
+3) feeling_wiki - 0.8129828087697754
+
+4) year_wiki - 0.7981283309306704
+
+5) man_wiki - 0.7962934374809322
+
+6) day_wiki - 0.7958999993860736
+
+7) sister_wiki - 0.7826501390158964
+
+8) woman_wiki - 0.7600591611756408
+
+9) mind_wiki - 0.7600013017654473
+
+10) moment_wiki - 0.7571888566017204
+
+11) friend_wiki - 0.7506206184255722
+
+12) way_wiki - 0.7481312378684138
+
+13) child_wiki - 0.7184781003905487
+
+14) manner_wiki - 0.7173972725868276
+
+15) father_wiki - 0.7101622742124318
+
+16) nothing_wiki - 0.69184541702271
+
+17) room_wiki - 0.6907401269233163
+
+18) thing_wiki - 0.6595412099634892
+
+19) acquaintance_wiki - 0.5541229513810316
+
+20) party_wiki - 0.5038207173347509
+
+Result for the vector: manner, coming from part a of the book
+Rank: 3 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8540439518716322
+
+1) feeling_wiki - 0.9156665205955505
+
+2) family_wiki - 0.8836845228860082
+
+3) manner_wiki - 0.8540439518716322
+
+4) man_wiki - 0.8506059557560671
+
+5) time_wiki - 0.85015869140625
+
+6) woman_wiki - 0.8459956233506711
+
+7) sister_wiki - 0.8316214781033127
+
+8) way_wiki - 0.8186860220449619
+
+9) moment_wiki - 0.8105998522400782
+
+10) mind_wiki - 0.8062144998439863
+
+11) friend_wiki - 0.8047124743461609
+
+12) father_wiki - 0.7924717912111587
+
+13) day_wiki - 0.7869858741760254
+
+14) year_wiki - 0.776935769502178
+
+15) child_wiki - 0.7767834067344666
+
+16) room_wiki - 0.7501474022865295
+
+17) nothing_wiki - 0.7320754964396666
+
+18) thing_wiki - 0.7220562696456909
+
+19) acquaintance_wiki - 0.5920812487602234
+
+20) party_wiki - 0.5224680019896041
+
+Result for the vector: party, coming from part a of the book
+Rank: 20 out of 20 characters
+Cosine similarity to the co-referring vector: 0.5555922124142784
+
+1) family_wiki - 0.9009894787675469
+
+2) woman_wiki - 0.858873205319267
+
+3) man_wiki - 0.8482201604974381
+
+4) sister_wiki - 0.8470698090154062
+
+5) time_wiki - 0.8459701538085938
+
+6) feeling_wiki - 0.8331642150878906
+
+7) child_wiki - 0.8295209407806396
+
+8) father_wiki - 0.7996317387066256
+
+9) friend_wiki - 0.793204665184021
+
+10) year_wiki - 0.7851175197888913
+
+11) day_wiki - 0.7840781211853027
+
+12) moment_wiki - 0.7769003973543894
+
+13) manner_wiki - 0.7704916459615033
+
+14) way_wiki - 0.7686275930965806
+
+15) mind_wiki - 0.7601767635450831
+
+16) room_wiki - 0.7244436740875244
+
+17) nothing_wiki - 0.6992615878141886
+
+18) thing_wiki - 0.6744830012321472
+
+19) acquaintance_wiki - 0.5897549986839294
+
+20) party_wiki - 0.5555922124142784
+
+Result for the vector: thing, coming from part a of the book
+Rank: 18 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7466692924499512
+
+1) feeling_wiki - 0.8811362981796265
+
+2) family_wiki - 0.8793973398567847
+
+3) man_wiki - 0.8600340402146617
+
+4) time_wiki - 0.8575208187103271
+
+5) woman_wiki - 0.8492310822926722
+
+6) sister_wiki - 0.8380221225010098
+
+7) year_wiki - 0.809118580274668
+
+8) moment_wiki - 0.8060909394080021
+
+9) way_wiki - 0.805379403118441
+
+10) friend_wiki - 0.8013031482696533
+
+11) day_wiki - 0.7993471622467041
+
+12) mind_wiki - 0.79511408776725
+
+13) manner_wiki - 0.7929398294055374
+
+14) child_wiki - 0.7827492952346802
+
+15) father_wiki - 0.7718707595025642
+
+16) room_wiki - 0.7626311779022217
+
+17) nothing_wiki - 0.7518277616398206
+
+18) thing_wiki - 0.7466692924499512
+
+19) acquaintance_wiki - 0.5900500416755676
+
+20) party_wiki - 0.5105538076492443
+
+Result for the vector: mind, coming from part a of the book
+Rank: 10 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7956589812825896
+
+1) feeling_wiki - 0.9122939057525357
+
+2) family_wiki - 0.8852161169052187
+
+3) man_wiki - 0.8687009058834202
+
+4) woman_wiki - 0.856399723506004
+
+5) sister_wiki - 0.8382807374000609
+
+6) time_wiki - 0.8324581880842574
+
+7) friend_wiki - 0.8212333811064604
+
+8) manner_wiki - 0.8205492282568488
+
+9) father_wiki - 0.8083915228610452
+
+10) mind_wiki - 0.7956589812825896
+
+11) child_wiki - 0.790266382114077
+
+12) day_wiki - 0.7815846074571986
+
+13) moment_wiki - 0.7795918917169442
+
+14) way_wiki - 0.7753368579353184
+
+15) room_wiki - 0.7676039199593033
+
+16) year_wiki - 0.7662456035614068
+
+17) nothing_wiki - 0.7308351076644788
+
+18) thing_wiki - 0.7104837125828107
+
+19) acquaintance_wiki - 0.6167600522494359
+
+20) party_wiki - 0.5168775936219208
+
+Result for the vector: acquaintance, coming from part a of the book
+Rank: 19 out of 20 characters
+Cosine similarity to the co-referring vector: 0.6829057931900024
+
+1) family_wiki - 0.917798822057319
+
+2) feeling_wiki - 0.8858110904693604
+
+3) sister_wiki - 0.8816192816722837
+
+4) time_wiki - 0.8569409847259521
+
+5) man_wiki - 0.8526789458202703
+
+6) friend_wiki - 0.8519936203956604
+
+7) woman_wiki - 0.8451385682656147
+
+8) father_wiki - 0.8366543845350344
+
+9) child_wiki - 0.8332295417785645
+
+10) manner_wiki - 0.813683558325981
+
+11) year_wiki - 0.798170518984169
+
+12) mind_wiki - 0.7887944453236144
+
+13) day_wiki - 0.7844359278678894
+
+14) moment_wiki - 0.7749182447742383
+
+15) way_wiki - 0.7671201914954388
+
+16) room_wiki - 0.7425464391708374
+
+17) nothing_wiki - 0.725972934125242
+
+18) thing_wiki - 0.7013635039329529
+
+19) acquaintance_wiki - 0.6829057931900024
+
+20) party_wiki - 0.5320310909766619
+
+Result for the vector: child, coming from part a of the book
+Rank: 4 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8732826709747314
+
+1) family_wiki - 0.9294481319518028
+
+2) man_wiki - 0.9024893583351007
+
+3) sister_wiki - 0.8892373508669541
+
+4) child_wiki - 0.8732826709747314
+
+5) woman_wiki - 0.8725989016772688
+
+6) father_wiki - 0.8519275364962238
+
+7) feeling_wiki - 0.8511983156204224
+
+8) time_wiki - 0.8468644022941589
+
+9) friend_wiki - 0.8392539024353027
+
+10) day_wiki - 0.8226621747016907
+
+11) year_wiki - 0.8133846036562574
+
+12) way_wiki - 0.7915327660619736
+
+13) mind_wiki - 0.7839515080423076
+
+14) manner_wiki - 0.7768393621945014
+
+15) moment_wiki - 0.7646101572877276
+
+16) room_wiki - 0.7290768623352051
+
+17) nothing_wiki - 0.7263937429424384
+
+18) thing_wiki - 0.6699811220169067
+
+19) acquaintance_wiki - 0.6126244068145752
+
+20) party_wiki - 0.5227893306487409
+

@@ -1,0 +1,9 @@
+Test: quality test
+Results for: The_Yellow_Wallpaper_by_Charlotte_Perkin
+Model used: common nouns unmatched
+
+Within-novel median: 1.0
+Within-novel average: 1.0
+Within-novel MRR: 1.0
+Within-novel standard deviation of the scores: 0.0
+Amount of entities considered: 1.0

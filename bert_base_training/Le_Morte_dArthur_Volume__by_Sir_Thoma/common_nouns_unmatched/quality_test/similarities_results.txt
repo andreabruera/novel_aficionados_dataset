@@ -1,0 +1,1932 @@
+Result for the vector: knight, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.895561826758167
+
+1) knight_a - 0.895561826758167
+
+2) damosel_a - 0.8581224595381433
+
+3) lord_a - 0.8576135805113816
+
+4) adventure_a - 0.8549684882164063
+
+5) man_a - 0.8526598898971162
+
+6) son_a - 0.8504275261846154
+
+7) lady_a - 0.8473334908485473
+
+8) battle_a - 0.8435182068635116
+
+9) queen_a - 0.8358504273980616
+
+10) death_a - 0.8267903534423884
+
+11) sword_a - 0.8221724139349228
+
+12) castle_a - 0.8113971836207748
+
+13) love_a - 0.811058461666113
+
+14) life_a - 0.8053057309802946
+
+15) country_a - 0.7991038800354147
+
+16) name_a - 0.7978288889578348
+
+17) world_a - 0.7926999454081105
+
+18) way_a - 0.7832666427016315
+
+19) hand_a - 0.7720982432365472
+
+20) time_a - 0.7660726676561664
+
+21) chapter_a - 0.6792968702735395
+
+Result for the vector: lady, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9013920367593803
+
+1) lady_a - 0.9013920367593803
+
+2) lord_a - 0.8884137339345392
+
+3) queen_a - 0.8876480460166931
+
+4) man_a - 0.8748290538787842
+
+5) damosel_a - 0.8723836985091865
+
+6) son_a - 0.8703548389461748
+
+7) adventure_a - 0.8602363383910873
+
+8) knight_a - 0.858219691621085
+
+9) battle_a - 0.850018322467804
+
+10) love_a - 0.8399518036813634
+
+11) castle_a - 0.8383053944474989
+
+12) sword_a - 0.8355424404144287
+
+13) death_a - 0.8344003656863963
+
+14) way_a - 0.8205591654111009
+
+15) life_a - 0.8185863494873047
+
+16) country_a - 0.8158677926142354
+
+17) name_a - 0.812286877998319
+
+18) world_a - 0.811968982219696
+
+19) time_a - 0.7977937101660288
+
+20) hand_a - 0.7931148882576771
+
+21) chapter_a - 0.6563467383384705
+
+Result for the vector: man, coming from part i of the book
+Rank: 11 out of 21 characters
+Cosine similarity to the co-referring vector: 0.5782395005226135
+
+1) battle_a - 0.6098671555519104
+
+2) knight_a - 0.6021156548192718
+
+3) son_a - 0.5996913552468218
+
+4) love_a - 0.5946975108800846
+
+5) adventure_a - 0.5946132299073487
+
+6) queen_a - 0.5918891429901123
+
+7) lord_a - 0.5915768986000489
+
+8) damosel_a - 0.5903405058789898
+
+9) lady_a - 0.586386298321862
+
+10) death_a - 0.5824499379128265
+
+11) man_a - 0.5782395005226135
+
+12) sword_a - 0.5769069194793701
+
+13) hand_a - 0.5659781435715056
+
+14) way_a - 0.5601123499736409
+
+15) life_a - 0.5592081546783447
+
+16) name_a - 0.5540601180213728
+
+17) castle_a - 0.5515525402489392
+
+18) time_a - 0.5493256613411209
+
+19) country_a - 0.5424263750060583
+
+20) world_a - 0.5352351665496826
+
+21) chapter_a - 0.45490139722824097
+
+Result for the vector: sword, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8876761131093586
+
+1) sword_a - 0.8876761131093586
+
+2) lady_a - 0.8836558322496214
+
+3) adventure_a - 0.8824681499562442
+
+4) son_a - 0.8755145072937074
+
+5) battle_a - 0.87358038864019
+
+6) queen_a - 0.873455755320536
+
+7) death_a - 0.8720855712890687
+
+8) love_a - 0.8607754541367834
+
+9) name_a - 0.8598424368955887
+
+10) lord_a - 0.8506591320037902
+
+11) castle_a - 0.8411235525232961
+
+12) man_a - 0.8409942889806219
+
+13) damosel_a - 0.8356402222466881
+
+14) life_a - 0.833401312434753
+
+15) knight_a - 0.8314222097396909
+
+16) way_a - 0.8215581881071349
+
+17) country_a - 0.8122636079788266
+
+18) world_a - 0.8062321428198914
+
+19) time_a - 0.7980953572477724
+
+20) hand_a - 0.7958887572155902
+
+21) chapter_a - 0.7086956923422643
+
+Result for the vector: chapter, coming from part i of the book
+Rank: 19 out of 21 characters
+Cosine similarity to the co-referring vector: 0.6968371868133545
+
+1) sword_a - 0.759446382522583
+
+2) adventure_a - 0.7451423254693954
+
+3) battle_a - 0.7440080046653748
+
+4) knight_a - 0.7342447796914126
+
+5) queen_a - 0.7334227561950684
+
+6) man_a - 0.7313022017478943
+
+7) time_a - 0.7234780407988445
+
+8) lady_a - 0.7214718295020969
+
+9) son_a - 0.7196871209331096
+
+10) castle_a - 0.7178156039495047
+
+11) country_a - 0.7168267538054744
+
+12) lord_a - 0.7166057397958208
+
+13) damosel_a - 0.7142613785578514
+
+14) way_a - 0.7065280429687499
+
+15) death_a - 0.702451246830748
+
+16) name_a - 0.7012140363816632
+
+17) world_a - 0.7002713680267334
+
+18) love_a - 0.6985620080567616
+
+19) chapter_a - 0.6968371868133545
+
+20) life_a - 0.6940499544143677
+
+21) hand_a - 0.6907316261966018
+
+Result for the vector: damosel, coming from part i of the book
+Rank: 2 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7442075014114592
+
+1) lady_a - 0.746340349534741
+
+2) damosel_a - 0.7442075014114592
+
+3) queen_a - 0.7418648312253013
+
+4) lord_a - 0.7321181776312286
+
+5) son_a - 0.7207308314923958
+
+6) man_a - 0.7046457285111324
+
+7) adventure_a - 0.691136497787457
+
+8) knight_a - 0.6823097439450495
+
+9) love_a - 0.680594522917608
+
+10) battle_a - 0.6683184899904191
+
+11) name_a - 0.6656726003582014
+
+12) sword_a - 0.6619942591197229
+
+13) country_a - 0.657618464657344
+
+14) castle_a - 0.6554481983185001
+
+15) life_a - 0.653188508368913
+
+16) time_a - 0.6519483937071282
+
+17) way_a - 0.6499160766801652
+
+18) death_a - 0.6489670308291272
+
+19) world_a - 0.6482686223663587
+
+20) hand_a - 0.6317308168571801
+
+21) chapter_a - 0.5785769726542308
+
+Result for the vector: name, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7813101047667895
+
+1) name_a - 0.7813101047667895
+
+2) son_a - 0.7767462267430899
+
+3) sword_a - 0.7525627017021179
+
+4) adventure_a - 0.744918450410275
+
+5) death_a - 0.7408563649143969
+
+6) love_a - 0.740476950435458
+
+7) queen_a - 0.7306430339813232
+
+8) lord_a - 0.7297431987677111
+
+9) life_a - 0.7266600131988525
+
+10) battle_a - 0.7219492793083191
+
+11) man_a - 0.7205289602279663
+
+12) lady_a - 0.7180603574550377
+
+13) hand_a - 0.7146633693375224
+
+14) knight_a - 0.7123439483437581
+
+15) damosel_a - 0.7086819063045917
+
+16) castle_a - 0.7024549487179507
+
+17) way_a - 0.695696867025277
+
+18) country_a - 0.6933440152797702
+
+19) time_a - 0.6931317655185394
+
+20) world_a - 0.6812825202941895
+
+21) chapter_a - 0.6191898584365845
+
+Result for the vector: lord, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.3241268396377586
+
+1) lord_a - 0.3241268396377586
+
+2) damosel_a - 0.31121339998484904
+
+3) queen_a - 0.3053167048285433
+
+4) adventure_a - 0.30396500873148546
+
+5) man_a - 0.30173574696396327
+
+6) lady_a - 0.30155608672572215
+
+7) knight_a - 0.2988957166671774
+
+8) son_a - 0.2986111938953421
+
+9) battle_a - 0.2903952771660856
+
+10) castle_a - 0.2854758713500275
+
+11) time_a - 0.2834594801181091
+
+12) love_a - 0.2811076380142734
+
+13) name_a - 0.2793891977717756
+
+14) country_a - 0.27917051315307817
+
+15) world_a - 0.2750591203605609
+
+16) sword_a - 0.27289684253316226
+
+17) way_a - 0.27147026232062643
+
+18) death_a - 0.26915109157562445
+
+19) life_a - 0.2668004492998396
+
+20) hand_a - 0.2616496994077801
+
+21) chapter_a - 0.26061554316374963
+
+Result for the vector: castle, coming from part i of the book
+Rank: 13 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7210482192664392
+
+1) battle_a - 0.7732145325413639
+
+2) adventure_a - 0.7652854919433648
+
+3) sword_a - 0.7514141350141696
+
+4) knight_a - 0.7412950108891713
+
+5) queen_a - 0.7401566660310839
+
+6) son_a - 0.7392867518321572
+
+7) man_a - 0.7380562580790379
+
+8) lord_a - 0.7380302860700743
+
+9) damosel_a - 0.7371443353381475
+
+10) lady_a - 0.7329958677291922
+
+11) death_a - 0.7258918612132238
+
+12) love_a - 0.721194624900823
+
+13) castle_a - 0.7210482192664392
+
+14) time_a - 0.7128106143233025
+
+15) country_a - 0.7114853010791181
+
+16) way_a - 0.706110828022214
+
+17) life_a - 0.7031839070806571
+
+18) name_a - 0.6987300902983548
+
+19) world_a - 0.6898523157923045
+
+20) hand_a - 0.6874830722808887
+
+21) chapter_a - 0.6361762502088409
+
+Result for the vector: hand, coming from part i of the book
+Rank: 14 out of 21 characters
+Cosine similarity to the co-referring vector: 0.6419439698424333
+
+1) battle_a - 0.6951674818992615
+
+2) sword_a - 0.6928629279136658
+
+3) adventure_a - 0.6890904122048874
+
+4) name_a - 0.6856162752394761
+
+5) time_a - 0.6756226025707308
+
+6) love_a - 0.6611018574894594
+
+7) man_a - 0.6596245169639587
+
+8) death_a - 0.6589510048061022
+
+9) castle_a - 0.6565579958627266
+
+10) country_a - 0.6562781538797537
+
+11) way_a - 0.6540743524939641
+
+12) son_a - 0.6531908122783426
+
+13) lady_a - 0.6515566498969
+
+14) hand_a - 0.6419439698424333
+
+15) queen_a - 0.6414888501167297
+
+16) lord_a - 0.6399102425628768
+
+17) life_a - 0.6357834935188293
+
+18) knight_a - 0.6304260116561655
+
+19) damosel_a - 0.6261978299853643
+
+20) chapter_a - 0.6258230209350586
+
+21) world_a - 0.6237502694129944
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8139633293758863
+
+1) time_a - 0.8139633293758863
+
+2) battle_a - 0.8126707188683334
+
+3) adventure_a - 0.8018378019332942
+
+4) sword_a - 0.7921903257256566
+
+5) death_a - 0.7881596340942819
+
+6) castle_a - 0.787008928478309
+
+7) world_a - 0.7834466824861372
+
+8) country_a - 0.7830739875943675
+
+9) lady_a - 0.780860304832464
+
+10) queen_a - 0.7788930667106483
+
+11) way_a - 0.7761926455153279
+
+12) man_a - 0.7726192013848318
+
+13) lord_a - 0.7693425691911495
+
+14) life_a - 0.7651740452543484
+
+15) son_a - 0.7630062981836441
+
+16) knight_a - 0.7592180062272541
+
+17) damosel_a - 0.7519762368188165
+
+18) hand_a - 0.751516938209539
+
+19) love_a - 0.7505270242691093
+
+20) name_a - 0.745734430976679
+
+21) chapter_a - 0.6566776837898693
+
+Result for the vector: battle, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8883652753612251
+
+1) battle_a - 0.8883652753612251
+
+2) death_a - 0.8829739233286472
+
+3) adventure_a - 0.8726037144661012
+
+4) life_a - 0.8595236027524723
+
+5) knight_a - 0.8334577282121506
+
+6) sword_a - 0.8266303046566081
+
+7) way_a - 0.8253107979337949
+
+8) love_a - 0.8245950341224729
+
+9) castle_a - 0.821995247721402
+
+10) country_a - 0.8201135611398743
+
+11) man_a - 0.8177977312923844
+
+12) hand_a - 0.8175485730171261
+
+13) son_a - 0.8165263156263453
+
+14) time_a - 0.8153043742387216
+
+15) lady_a - 0.8096716403961239
+
+16) damosel_a - 0.8061463121263104
+
+17) world_a - 0.799165976097229
+
+18) lord_a - 0.7988950253850191
+
+19) queen_a - 0.7946696999865963
+
+20) name_a - 0.7899122002747031
+
+21) chapter_a - 0.6835172364999523
+
+Result for the vector: way, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.6850803273820536
+
+1) way_a - 0.6850803273820536
+
+2) world_a - 0.6709048748016357
+
+3) country_a - 0.6522771923376814
+
+4) battle_a - 0.6512791514396667
+
+5) adventure_a - 0.6425738121613164
+
+6) castle_a - 0.6342355172914929
+
+7) sword_a - 0.6333674788475037
+
+8) death_a - 0.617223702834625
+
+9) lady_a - 0.6138891347580643
+
+10) queen_a - 0.611432671546936
+
+11) hand_a - 0.607232010795595
+
+12) life_a - 0.6053909659385681
+
+13) time_a - 0.605232435620798
+
+14) damosel_a - 0.5987579940269029
+
+15) man_a - 0.5894768834114075
+
+16) knight_a - 0.5878474958033872
+
+17) lord_a - 0.5840457329722812
+
+18) son_a - 0.5833194504189829
+
+19) love_a - 0.5821953762886163
+
+20) name_a - 0.5726642779309835
+
+21) chapter_a - 0.5275856256484985
+
+Result for the vector: queen, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7675043801965954
+
+1) queen_a - 0.7675043801965954
+
+2) lady_a - 0.7277698192322039
+
+3) son_a - 0.7090038061142018
+
+4) lord_a - 0.7042717933654835
+
+5) damosel_a - 0.7007627548151186
+
+6) adventure_a - 0.6932530633512811
+
+7) love_a - 0.6925992599248004
+
+8) battle_a - 0.674621562637185
+
+9) knight_a - 0.6705386042594957
+
+10) man_a - 0.6681497495263677
+
+11) sword_a - 0.667371551237796
+
+12) death_a - 0.6661884188652086
+
+13) name_a - 0.6575286380227185
+
+14) castle_a - 0.6571114046176811
+
+15) time_a - 0.6437947729642489
+
+16) life_a - 0.6429673816542268
+
+17) way_a - 0.6374177552808771
+
+18) country_a - 0.6350443363189743
+
+19) world_a - 0.627226628495851
+
+20) hand_a - 0.6139797704195703
+
+21) chapter_a - 0.5895423048461867
+
+Result for the vector: adventure, coming from part i of the book
+Rank: 2 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8223805917728314
+
+1) death_a - 0.8325197200465384
+
+2) adventure_a - 0.8223805917728314
+
+3) battle_a - 0.8019036650657654
+
+4) life_a - 0.7948924899101257
+
+5) son_a - 0.7687193889189144
+
+6) name_a - 0.7671474446996288
+
+7) love_a - 0.7663535932513247
+
+8) knight_a - 0.7624249599918761
+
+9) sword_a - 0.7582265734672546
+
+10) way_a - 0.757106333123888
+
+11) castle_a - 0.7518261971266558
+
+12) lady_a - 0.7509852499357028
+
+13) country_a - 0.750104501837225
+
+14) man_a - 0.7486246228218079
+
+15) queen_a - 0.7469319701194763
+
+16) damosel_a - 0.7462734873620905
+
+17) lord_a - 0.7435265336318904
+
+18) hand_a - 0.7362408480787795
+
+19) time_a - 0.7304887989309076
+
+20) world_a - 0.721792995929718
+
+21) chapter_a - 0.6838907599449158
+
+Result for the vector: death, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8835233782671911
+
+1) death_a - 0.8835233782671911
+
+2) adventure_a - 0.8742164558961802
+
+3) battle_a - 0.8652212877637535
+
+4) son_a - 0.8468283162466227
+
+5) sword_a - 0.8422193778222617
+
+6) name_a - 0.8371556900236422
+
+7) life_a - 0.8325547228024821
+
+8) lady_a - 0.8323288708027191
+
+9) castle_a - 0.8318074392985495
+
+10) love_a - 0.8310273436630381
+
+11) queen_a - 0.8259409316164537
+
+12) knight_a - 0.814910208734569
+
+13) lord_a - 0.814601993125621
+
+14) man_a - 0.8128776792549399
+
+15) country_a - 0.8124613519769537
+
+16) time_a - 0.8070075396899903
+
+17) damosel_a - 0.8058261283973083
+
+18) way_a - 0.7995429516247345
+
+19) hand_a - 0.7891510238484467
+
+20) world_a - 0.7767982118367619
+
+21) chapter_a - 0.6979503243550758
+
+Result for the vector: life, coming from part i of the book
+Rank: 6 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7808142537121255
+
+1) adventure_a - 0.8216655988990309
+
+2) battle_a - 0.8132610563415608
+
+3) death_a - 0.8018929719360809
+
+4) love_a - 0.7836266264581648
+
+5) man_a - 0.7816267246492724
+
+6) life_a - 0.7808142537121255
+
+7) son_a - 0.7804557448489773
+
+8) sword_a - 0.7719544998393807
+
+9) country_a - 0.7649081717458943
+
+10) knight_a - 0.7647237549804553
+
+11) lord_a - 0.7602051269946984
+
+12) lady_a - 0.7582438073972295
+
+13) castle_a - 0.7561777764823729
+
+14) damosel_a - 0.7549658946642153
+
+15) queen_a - 0.7520524487511057
+
+16) time_a - 0.7505516261191145
+
+17) name_a - 0.7429210390401506
+
+18) way_a - 0.7323929608709034
+
+19) hand_a - 0.727788930635655
+
+20) world_a - 0.7238457418634222
+
+21) chapter_a - 0.6510549381689712
+
+Result for the vector: love, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7589254831627312
+
+1) love_a - 0.7589254831627312
+
+2) death_a - 0.7539847639808213
+
+3) adventure_a - 0.746100172168028
+
+4) battle_a - 0.7373782992362976
+
+5) son_a - 0.7260310217123628
+
+6) life_a - 0.7192866802215576
+
+7) lady_a - 0.704553884539241
+
+8) lord_a - 0.698344606259788
+
+9) name_a - 0.6965287535348166
+
+10) damosel_a - 0.6965175505301466
+
+11) man_a - 0.6949277520179749
+
+12) sword_a - 0.6932640671730042
+
+13) queen_a - 0.6922425627708435
+
+14) knight_a - 0.6875922866110643
+
+15) castle_a - 0.684302888429514
+
+16) country_a - 0.6767218901680785
+
+17) world_a - 0.6562952995300293
+
+18) hand_a - 0.6554560455951729
+
+19) time_a - 0.6534449652864032
+
+20) way_a - 0.6521015581963635
+
+21) chapter_a - 0.5592635869979858
+
+Result for the vector: son, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8017308948360807
+
+1) son_a - 0.8017308948360807
+
+2) lord_a - 0.7774743106991875
+
+3) man_a - 0.7715965049507331
+
+4) adventure_a - 0.767602920532232
+
+5) death_a - 0.7619045064563148
+
+6) queen_a - 0.7600614571534732
+
+7) lady_a - 0.7596239447593743
+
+8) love_a - 0.7580199241638238
+
+9) battle_a - 0.7545246628210163
+
+10) knight_a - 0.7469705644881053
+
+11) sword_a - 0.7467751653924499
+
+12) damosel_a - 0.7441947903749341
+
+13) name_a - 0.7397225874745105
+
+14) life_a - 0.7264835997531666
+
+15) castle_a - 0.715950531718178
+
+16) hand_a - 0.7151222229003957
+
+17) time_a - 0.7135990645408937
+
+18) country_a - 0.7023235914321433
+
+19) way_a - 0.700118416526602
+
+20) world_a - 0.689356703200538
+
+21) chapter_a - 0.6546477881283898
+
+Result for the vector: country, coming from part i of the book
+Rank: 4 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7119297556919018
+
+1) world_a - 0.7471189498901367
+
+2) castle_a - 0.730181423447307
+
+3) way_a - 0.7130628570243341
+
+4) country_a - 0.7119297556919018
+
+5) death_a - 0.6940684500891906
+
+6) life_a - 0.692241370677948
+
+7) lady_a - 0.6909739190920555
+
+8) hand_a - 0.6861174515555782
+
+9) queen_a - 0.6832637190818787
+
+10) sword_a - 0.6815388798713684
+
+11) adventure_a - 0.6694141429313518
+
+12) battle_a - 0.660967230796814
+
+13) son_a - 0.6601074540551046
+
+14) lord_a - 0.6490141958585872
+
+15) knight_a - 0.6455337616483127
+
+16) damosel_a - 0.6427670291384538
+
+17) name_a - 0.6394388270210873
+
+18) man_a - 0.6391329169273376
+
+19) love_a - 0.6350030085446254
+
+20) time_a - 0.6284952351002469
+
+21) chapter_a - 0.5486819744110107
+
+Result for the vector: world, coming from part i of the book
+Rank: 6 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7812842829183624
+
+1) adventure_a - 0.8169789935617143
+
+2) battle_a - 0.8125648628978341
+
+3) country_a - 0.7913614151287588
+
+4) castle_a - 0.7853161542777148
+
+5) death_a - 0.7839173312162645
+
+6) world_a - 0.7812842829183624
+
+7) man_a - 0.780144045961864
+
+8) sword_a - 0.7783429722496575
+
+9) lady_a - 0.7732790072678044
+
+10) son_a - 0.7725598446297685
+
+11) lord_a - 0.7720052233936044
+
+12) love_a - 0.7698594882874922
+
+13) knight_a - 0.7679504384979822
+
+14) damosel_a - 0.7636899157115644
+
+15) life_a - 0.7613934959227022
+
+16) queen_a - 0.7609354937912995
+
+17) name_a - 0.749828129986303
+
+18) way_a - 0.7367163080955812
+
+19) time_a - 0.7292024766448125
+
+20) hand_a - 0.724825669054042
+
+21) chapter_a - 0.6188994007318701
+
+Result for the vector: knight, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.895561826758167
+
+1) knight_wiki - 0.895561826758167
+
+2) lady_wiki - 0.858219691621085
+
+3) battle_wiki - 0.8334577282121506
+
+4) sword_wiki - 0.8314222097396909
+
+5) death_wiki - 0.814910208734569
+
+6) world_wiki - 0.7679504384979822
+
+7) life_wiki - 0.7647237549804553
+
+8) adventure_wiki - 0.7624249599918761
+
+9) time_wiki - 0.7592180062272541
+
+10) son_wiki - 0.7469705644881053
+
+11) castle_wiki - 0.7412950108891713
+
+12) chapter_wiki - 0.7342447796914126
+
+13) name_wiki - 0.7123439483437581
+
+14) love_wiki - 0.6875922866110643
+
+15) damosel_wiki - 0.6823097439450495
+
+16) queen_wiki - 0.6705386042594957
+
+17) country_wiki - 0.6455337616483127
+
+18) hand_wiki - 0.6304260116561655
+
+19) man_wiki - 0.6021156548192718
+
+20) way_wiki - 0.5878474958033872
+
+21) lord_wiki - 0.2988957166671774
+
+Result for the vector: lady, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9013920367593803
+
+1) lady_wiki - 0.9013920367593803
+
+2) sword_wiki - 0.8836558322496214
+
+3) knight_wiki - 0.8473334908485473
+
+4) death_wiki - 0.8323288708027191
+
+5) battle_wiki - 0.8096716403961239
+
+6) time_wiki - 0.780860304832464
+
+7) world_wiki - 0.7732790072678044
+
+8) son_wiki - 0.7596239447593743
+
+9) life_wiki - 0.7582438073972295
+
+10) adventure_wiki - 0.7509852499357028
+
+11) damosel_wiki - 0.746340349534741
+
+12) castle_wiki - 0.7329958677291922
+
+13) queen_wiki - 0.7277698192322039
+
+14) chapter_wiki - 0.7214718295020969
+
+15) name_wiki - 0.7180603574550377
+
+16) love_wiki - 0.704553884539241
+
+17) country_wiki - 0.6909739190920555
+
+18) hand_wiki - 0.6515566498969
+
+19) way_wiki - 0.6138891347580643
+
+20) man_wiki - 0.586386298321862
+
+21) lord_wiki - 0.30155608672572215
+
+Result for the vector: man, coming from part a of the book
+Rank: 20 out of 21 characters
+Cosine similarity to the co-referring vector: 0.5782395005226135
+
+1) lady_wiki - 0.8748290538787842
+
+2) knight_wiki - 0.8526598898971162
+
+3) sword_wiki - 0.8409942889806219
+
+4) battle_wiki - 0.8177977312923844
+
+5) death_wiki - 0.8128776792549399
+
+6) life_wiki - 0.7816267246492724
+
+7) world_wiki - 0.780144045961864
+
+8) time_wiki - 0.7726192013848318
+
+9) son_wiki - 0.7715965049507331
+
+10) adventure_wiki - 0.7486246228218079
+
+11) castle_wiki - 0.7380562580790379
+
+12) chapter_wiki - 0.7313022017478943
+
+13) name_wiki - 0.7205289602279663
+
+14) damosel_wiki - 0.7046457285111324
+
+15) love_wiki - 0.6949277520179749
+
+16) queen_wiki - 0.6681497495263677
+
+17) hand_wiki - 0.6596245169639587
+
+18) country_wiki - 0.6391329169273376
+
+19) way_wiki - 0.5894768834114075
+
+20) man_wiki - 0.5782395005226135
+
+21) lord_wiki - 0.30173574696396327
+
+Result for the vector: sword, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8876761131093586
+
+1) sword_wiki - 0.8876761131093586
+
+2) death_wiki - 0.8422193778222617
+
+3) lady_wiki - 0.8355424404144287
+
+4) battle_wiki - 0.8266303046566081
+
+5) knight_wiki - 0.8221724139349228
+
+6) time_wiki - 0.7921903257256566
+
+7) world_wiki - 0.7783429722496575
+
+8) life_wiki - 0.7719544998393807
+
+9) chapter_wiki - 0.759446382522583
+
+10) adventure_wiki - 0.7582265734672546
+
+11) name_wiki - 0.7525627017021179
+
+12) castle_wiki - 0.7514141350141696
+
+13) son_wiki - 0.7467751653924499
+
+14) love_wiki - 0.6932640671730042
+
+15) hand_wiki - 0.6928629279136658
+
+16) country_wiki - 0.6815388798713684
+
+17) queen_wiki - 0.667371551237796
+
+18) damosel_wiki - 0.6619942591197229
+
+19) way_wiki - 0.6333674788475037
+
+20) man_wiki - 0.5769069194793701
+
+21) lord_wiki - 0.27289684253316226
+
+Result for the vector: chapter, coming from part a of the book
+Rank: 3 out of 21 characters
+Cosine similarity to the co-referring vector: 0.6968371868133545
+
+1) sword_wiki - 0.7086956923422643
+
+2) death_wiki - 0.6979503243550758
+
+3) chapter_wiki - 0.6968371868133545
+
+4) adventure_wiki - 0.6838907599449158
+
+5) battle_wiki - 0.6835172364999523
+
+6) knight_wiki - 0.6792968702735395
+
+7) time_wiki - 0.6566776837898693
+
+8) lady_wiki - 0.6563467383384705
+
+9) son_wiki - 0.6546477881283898
+
+10) life_wiki - 0.6510549381689712
+
+11) castle_wiki - 0.6361762502088409
+
+12) hand_wiki - 0.6258230209350586
+
+13) name_wiki - 0.6191898584365845
+
+14) world_wiki - 0.6188994007318701
+
+15) queen_wiki - 0.5895423048461867
+
+16) damosel_wiki - 0.5785769726542308
+
+17) love_wiki - 0.5592635869979858
+
+18) country_wiki - 0.5486819744110107
+
+19) way_wiki - 0.5275856256484985
+
+20) man_wiki - 0.45490139722824097
+
+21) lord_wiki - 0.26061554316374963
+
+Result for the vector: damosel, coming from part a of the book
+Rank: 10 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7442075014114592
+
+1) lady_wiki - 0.8723836985091865
+
+2) knight_wiki - 0.8581224595381433
+
+3) sword_wiki - 0.8356402222466881
+
+4) battle_wiki - 0.8061463121263104
+
+5) death_wiki - 0.8058261283973083
+
+6) world_wiki - 0.7636899157115644
+
+7) life_wiki - 0.7549658946642153
+
+8) time_wiki - 0.7519762368188165
+
+9) adventure_wiki - 0.7462734873620905
+
+10) damosel_wiki - 0.7442075014114592
+
+11) son_wiki - 0.7441947903749341
+
+12) castle_wiki - 0.7371443353381475
+
+13) chapter_wiki - 0.7142613785578514
+
+14) name_wiki - 0.7086819063045917
+
+15) queen_wiki - 0.7007627548151186
+
+16) love_wiki - 0.6965175505301466
+
+17) country_wiki - 0.6427670291384538
+
+18) hand_wiki - 0.6261978299853643
+
+19) way_wiki - 0.5987579940269029
+
+20) man_wiki - 0.5903405058789898
+
+21) lord_wiki - 0.31121339998484904
+
+Result for the vector: name, coming from part a of the book
+Rank: 6 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7813101047667895
+
+1) sword_wiki - 0.8598424368955887
+
+2) death_wiki - 0.8371556900236422
+
+3) lady_wiki - 0.812286877998319
+
+4) knight_wiki - 0.7978288889578348
+
+5) battle_wiki - 0.7899122002747031
+
+6) name_wiki - 0.7813101047667895
+
+7) adventure_wiki - 0.7671474446996288
+
+8) world_wiki - 0.749828129986303
+
+9) time_wiki - 0.745734430976679
+
+10) life_wiki - 0.7429210390401506
+
+11) son_wiki - 0.7397225874745105
+
+12) chapter_wiki - 0.7012140363816632
+
+13) castle_wiki - 0.6987300902983548
+
+14) love_wiki - 0.6965287535348166
+
+15) hand_wiki - 0.6856162752394761
+
+16) damosel_wiki - 0.6656726003582014
+
+17) queen_wiki - 0.6575286380227185
+
+18) country_wiki - 0.6394388270210873
+
+19) way_wiki - 0.5726642779309835
+
+20) man_wiki - 0.5540601180213728
+
+21) lord_wiki - 0.2793891977717756
+
+Result for the vector: lord, coming from part a of the book
+Rank: 21 out of 21 characters
+Cosine similarity to the co-referring vector: 0.3241268396377586
+
+1) lady_wiki - 0.8884137339345392
+
+2) knight_wiki - 0.8576135805113816
+
+3) sword_wiki - 0.8506591320037902
+
+4) death_wiki - 0.814601993125621
+
+5) battle_wiki - 0.7988950253850191
+
+6) son_wiki - 0.7774743106991875
+
+7) world_wiki - 0.7720052233936044
+
+8) time_wiki - 0.7693425691911495
+
+9) life_wiki - 0.7602051269946984
+
+10) adventure_wiki - 0.7435265336318904
+
+11) castle_wiki - 0.7380302860700743
+
+12) damosel_wiki - 0.7321181776312286
+
+13) name_wiki - 0.7297431987677111
+
+14) chapter_wiki - 0.7166057397958208
+
+15) queen_wiki - 0.7042717933654835
+
+16) love_wiki - 0.698344606259788
+
+17) country_wiki - 0.6490141958585872
+
+18) hand_wiki - 0.6399102425628768
+
+19) man_wiki - 0.5915768986000489
+
+20) way_wiki - 0.5840457329722812
+
+21) lord_wiki - 0.3241268396377586
+
+Result for the vector: castle, coming from part a of the book
+Rank: 11 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7210482192664392
+
+1) sword_wiki - 0.8411235525232961
+
+2) lady_wiki - 0.8383053944474989
+
+3) death_wiki - 0.8318074392985495
+
+4) battle_wiki - 0.821995247721402
+
+5) knight_wiki - 0.8113971836207748
+
+6) time_wiki - 0.787008928478309
+
+7) world_wiki - 0.7853161542777148
+
+8) life_wiki - 0.7561777764823729
+
+9) adventure_wiki - 0.7518261971266558
+
+10) country_wiki - 0.730181423447307
+
+11) castle_wiki - 0.7210482192664392
+
+12) chapter_wiki - 0.7178156039495047
+
+13) son_wiki - 0.715950531718178
+
+14) name_wiki - 0.7024549487179507
+
+15) love_wiki - 0.684302888429514
+
+16) queen_wiki - 0.6571114046176811
+
+17) hand_wiki - 0.6565579958627266
+
+18) damosel_wiki - 0.6554481983185001
+
+19) way_wiki - 0.6342355172914929
+
+20) man_wiki - 0.5515525402489392
+
+21) lord_wiki - 0.2854758713500275
+
+Result for the vector: hand, coming from part a of the book
+Rank: 16 out of 21 characters
+Cosine similarity to the co-referring vector: 0.6419439698424333
+
+1) battle_wiki - 0.8175485730171261
+
+2) sword_wiki - 0.7958887572155902
+
+3) lady_wiki - 0.7931148882576771
+
+4) death_wiki - 0.7891510238484467
+
+5) knight_wiki - 0.7720982432365472
+
+6) time_wiki - 0.751516938209539
+
+7) adventure_wiki - 0.7362408480787795
+
+8) life_wiki - 0.727788930635655
+
+9) world_wiki - 0.724825669054042
+
+10) son_wiki - 0.7151222229003957
+
+11) name_wiki - 0.7146633693375224
+
+12) chapter_wiki - 0.6907316261966018
+
+13) castle_wiki - 0.6874830722808887
+
+14) country_wiki - 0.6861174515555782
+
+15) love_wiki - 0.6554560455951729
+
+16) hand_wiki - 0.6419439698424333
+
+17) damosel_wiki - 0.6317308168571801
+
+18) queen_wiki - 0.6139797704195703
+
+19) way_wiki - 0.607232010795595
+
+20) man_wiki - 0.5659781435715056
+
+21) lord_wiki - 0.2616496994077801
+
+Result for the vector: time, coming from part a of the book
+Rank: 2 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8139633293758863
+
+1) battle_wiki - 0.8153043742387216
+
+2) time_wiki - 0.8139633293758863
+
+3) death_wiki - 0.8070075396899903
+
+4) sword_wiki - 0.7980953572477724
+
+5) lady_wiki - 0.7977937101660288
+
+6) knight_wiki - 0.7660726676561664
+
+7) life_wiki - 0.7505516261191145
+
+8) adventure_wiki - 0.7304887989309076
+
+9) world_wiki - 0.7292024766448125
+
+10) chapter_wiki - 0.7234780407988445
+
+11) son_wiki - 0.7135990645408937
+
+12) castle_wiki - 0.7128106143233025
+
+13) name_wiki - 0.6931317655185394
+
+14) hand_wiki - 0.6756226025707308
+
+15) love_wiki - 0.6534449652864032
+
+16) damosel_wiki - 0.6519483937071282
+
+17) queen_wiki - 0.6437947729642489
+
+18) country_wiki - 0.6284952351002469
+
+19) way_wiki - 0.605232435620798
+
+20) man_wiki - 0.5493256613411209
+
+21) lord_wiki - 0.2834594801181091
+
+Result for the vector: battle, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8883652753612251
+
+1) battle_wiki - 0.8883652753612251
+
+2) sword_wiki - 0.87358038864019
+
+3) death_wiki - 0.8652212877637535
+
+4) lady_wiki - 0.850018322467804
+
+5) knight_wiki - 0.8435182068635116
+
+6) life_wiki - 0.8132610563415608
+
+7) time_wiki - 0.8126707188683334
+
+8) world_wiki - 0.8125648628978341
+
+9) adventure_wiki - 0.8019036650657654
+
+10) castle_wiki - 0.7732145325413639
+
+11) son_wiki - 0.7545246628210163
+
+12) chapter_wiki - 0.7440080046653748
+
+13) love_wiki - 0.7373782992362976
+
+14) name_wiki - 0.7219492793083191
+
+15) hand_wiki - 0.6951674818992615
+
+16) queen_wiki - 0.674621562637185
+
+17) damosel_wiki - 0.6683184899904191
+
+18) country_wiki - 0.660967230796814
+
+19) way_wiki - 0.6512791514396667
+
+20) man_wiki - 0.6098671555519104
+
+21) lord_wiki - 0.2903952771660856
+
+Result for the vector: way, coming from part a of the book
+Rank: 15 out of 21 characters
+Cosine similarity to the co-referring vector: 0.6850803273820536
+
+1) battle_wiki - 0.8253107979337949
+
+2) sword_wiki - 0.8215581881071349
+
+3) lady_wiki - 0.8205591654111009
+
+4) death_wiki - 0.7995429516247345
+
+5) knight_wiki - 0.7832666427016315
+
+6) time_wiki - 0.7761926455153279
+
+7) adventure_wiki - 0.757106333123888
+
+8) world_wiki - 0.7367163080955812
+
+9) life_wiki - 0.7323929608709034
+
+10) country_wiki - 0.7130628570243341
+
+11) chapter_wiki - 0.7065280429687499
+
+12) castle_wiki - 0.706110828022214
+
+13) son_wiki - 0.700118416526602
+
+14) name_wiki - 0.695696867025277
+
+15) way_wiki - 0.6850803273820536
+
+16) hand_wiki - 0.6540743524939641
+
+17) love_wiki - 0.6521015581963635
+
+18) damosel_wiki - 0.6499160766801652
+
+19) queen_wiki - 0.6374177552808771
+
+20) man_wiki - 0.5601123499736409
+
+21) lord_wiki - 0.27147026232062643
+
+Result for the vector: queen, coming from part a of the book
+Rank: 7 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7675043801965954
+
+1) lady_wiki - 0.8876480460166931
+
+2) sword_wiki - 0.873455755320536
+
+3) knight_wiki - 0.8358504273980616
+
+4) death_wiki - 0.8259409316164537
+
+5) battle_wiki - 0.7946696999865963
+
+6) time_wiki - 0.7788930667106483
+
+7) queen_wiki - 0.7675043801965954
+
+8) world_wiki - 0.7609354937912995
+
+9) son_wiki - 0.7600614571534732
+
+10) life_wiki - 0.7520524487511057
+
+11) adventure_wiki - 0.7469319701194763
+
+12) damosel_wiki - 0.7418648312253013
+
+13) castle_wiki - 0.7401566660310839
+
+14) chapter_wiki - 0.7334227561950684
+
+15) name_wiki - 0.7306430339813232
+
+16) love_wiki - 0.6922425627708435
+
+17) country_wiki - 0.6832637190818787
+
+18) hand_wiki - 0.6414888501167297
+
+19) way_wiki - 0.611432671546936
+
+20) man_wiki - 0.5918891429901123
+
+21) lord_wiki - 0.3053167048285433
+
+Result for the vector: adventure, coming from part a of the book
+Rank: 6 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8223805917728314
+
+1) sword_wiki - 0.8824681499562442
+
+2) death_wiki - 0.8742164558961802
+
+3) battle_wiki - 0.8726037144661012
+
+4) lady_wiki - 0.8602363383910873
+
+5) knight_wiki - 0.8549684882164063
+
+6) adventure_wiki - 0.8223805917728314
+
+7) life_wiki - 0.8216655988990309
+
+8) world_wiki - 0.8169789935617143
+
+9) time_wiki - 0.8018378019332942
+
+10) son_wiki - 0.767602920532232
+
+11) castle_wiki - 0.7652854919433648
+
+12) love_wiki - 0.746100172168028
+
+13) chapter_wiki - 0.7451423254693954
+
+14) name_wiki - 0.744918450410275
+
+15) queen_wiki - 0.6932530633512811
+
+16) damosel_wiki - 0.691136497787457
+
+17) hand_wiki - 0.6890904122048874
+
+18) country_wiki - 0.6694141429313518
+
+19) way_wiki - 0.6425738121613164
+
+20) man_wiki - 0.5946132299073487
+
+21) lord_wiki - 0.30396500873148546
+
+Result for the vector: death, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8835233782671911
+
+1) death_wiki - 0.8835233782671911
+
+2) battle_wiki - 0.8829739233286472
+
+3) sword_wiki - 0.8720855712890687
+
+4) lady_wiki - 0.8344003656863963
+
+5) adventure_wiki - 0.8325197200465384
+
+6) knight_wiki - 0.8267903534423884
+
+7) life_wiki - 0.8018929719360809
+
+8) time_wiki - 0.7881596340942819
+
+9) world_wiki - 0.7839173312162645
+
+10) son_wiki - 0.7619045064563148
+
+11) love_wiki - 0.7539847639808213
+
+12) name_wiki - 0.7408563649143969
+
+13) castle_wiki - 0.7258918612132238
+
+14) chapter_wiki - 0.702451246830748
+
+15) country_wiki - 0.6940684500891906
+
+16) queen_wiki - 0.6661884188652086
+
+17) hand_wiki - 0.6589510048061022
+
+18) damosel_wiki - 0.6489670308291272
+
+19) way_wiki - 0.617223702834625
+
+20) man_wiki - 0.5824499379128265
+
+21) lord_wiki - 0.26915109157562445
+
+Result for the vector: life, coming from part a of the book
+Rank: 7 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7808142537121255
+
+1) battle_wiki - 0.8595236027524723
+
+2) sword_wiki - 0.833401312434753
+
+3) death_wiki - 0.8325547228024821
+
+4) lady_wiki - 0.8185863494873047
+
+5) knight_wiki - 0.8053057309802946
+
+6) adventure_wiki - 0.7948924899101257
+
+7) life_wiki - 0.7808142537121255
+
+8) time_wiki - 0.7651740452543484
+
+9) world_wiki - 0.7613934959227022
+
+10) name_wiki - 0.7266600131988525
+
+11) son_wiki - 0.7264835997531666
+
+12) love_wiki - 0.7192866802215576
+
+13) castle_wiki - 0.7031839070806571
+
+14) chapter_wiki - 0.6940499544143677
+
+15) country_wiki - 0.692241370677948
+
+16) damosel_wiki - 0.653188508368913
+
+17) queen_wiki - 0.6429673816542268
+
+18) hand_wiki - 0.6357834935188293
+
+19) way_wiki - 0.6053909659385681
+
+20) man_wiki - 0.5592081546783447
+
+21) lord_wiki - 0.2668004492998396
+
+Result for the vector: love, coming from part a of the book
+Rank: 9 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7589254831627312
+
+1) sword_wiki - 0.8607754541367834
+
+2) lady_wiki - 0.8399518036813634
+
+3) death_wiki - 0.8310273436630381
+
+4) battle_wiki - 0.8245950341224729
+
+5) knight_wiki - 0.811058461666113
+
+6) life_wiki - 0.7836266264581648
+
+7) world_wiki - 0.7698594882874922
+
+8) adventure_wiki - 0.7663535932513247
+
+9) love_wiki - 0.7589254831627312
+
+10) son_wiki - 0.7580199241638238
+
+11) time_wiki - 0.7505270242691093
+
+12) name_wiki - 0.740476950435458
+
+13) castle_wiki - 0.721194624900823
+
+14) chapter_wiki - 0.6985620080567616
+
+15) queen_wiki - 0.6925992599248004
+
+16) damosel_wiki - 0.680594522917608
+
+17) hand_wiki - 0.6611018574894594
+
+18) country_wiki - 0.6350030085446254
+
+19) man_wiki - 0.5946975108800846
+
+20) way_wiki - 0.5821953762886163
+
+21) lord_wiki - 0.2811076380142734
+
+Result for the vector: son, coming from part a of the book
+Rank: 6 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8017308948360807
+
+1) sword_wiki - 0.8755145072937074
+
+2) lady_wiki - 0.8703548389461748
+
+3) knight_wiki - 0.8504275261846154
+
+4) death_wiki - 0.8468283162466227
+
+5) battle_wiki - 0.8165263156263453
+
+6) son_wiki - 0.8017308948360807
+
+7) life_wiki - 0.7804557448489773
+
+8) name_wiki - 0.7767462267430899
+
+9) world_wiki - 0.7725598446297685
+
+10) adventure_wiki - 0.7687193889189144
+
+11) time_wiki - 0.7630062981836441
+
+12) castle_wiki - 0.7392867518321572
+
+13) love_wiki - 0.7260310217123628
+
+14) damosel_wiki - 0.7207308314923958
+
+15) chapter_wiki - 0.7196871209331096
+
+16) queen_wiki - 0.7090038061142018
+
+17) country_wiki - 0.6601074540551046
+
+18) hand_wiki - 0.6531908122783426
+
+19) man_wiki - 0.5996913552468218
+
+20) way_wiki - 0.5833194504189829
+
+21) lord_wiki - 0.2986111938953421
+
+Result for the vector: country, coming from part a of the book
+Rank: 11 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7119297556919018
+
+1) battle_wiki - 0.8201135611398743
+
+2) lady_wiki - 0.8158677926142354
+
+3) death_wiki - 0.8124613519769537
+
+4) sword_wiki - 0.8122636079788266
+
+5) knight_wiki - 0.7991038800354147
+
+6) world_wiki - 0.7913614151287588
+
+7) time_wiki - 0.7830739875943675
+
+8) life_wiki - 0.7649081717458943
+
+9) adventure_wiki - 0.750104501837225
+
+10) chapter_wiki - 0.7168267538054744
+
+11) country_wiki - 0.7119297556919018
+
+12) castle_wiki - 0.7114853010791181
+
+13) son_wiki - 0.7023235914321433
+
+14) name_wiki - 0.6933440152797702
+
+15) love_wiki - 0.6767218901680785
+
+16) damosel_wiki - 0.657618464657344
+
+17) hand_wiki - 0.6562781538797537
+
+18) way_wiki - 0.6522771923376814
+
+19) queen_wiki - 0.6350443363189743
+
+20) man_wiki - 0.5424263750060583
+
+21) lord_wiki - 0.27917051315307817
+
+Result for the vector: world, coming from part a of the book
+Rank: 6 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7812842829183624
+
+1) lady_wiki - 0.811968982219696
+
+2) sword_wiki - 0.8062321428198914
+
+3) battle_wiki - 0.799165976097229
+
+4) knight_wiki - 0.7926999454081105
+
+5) time_wiki - 0.7834466824861372
+
+6) world_wiki - 0.7812842829183624
+
+7) death_wiki - 0.7767982118367619
+
+8) country_wiki - 0.7471189498901367
+
+9) life_wiki - 0.7238457418634222
+
+10) adventure_wiki - 0.721792995929718
+
+11) chapter_wiki - 0.7002713680267334
+
+12) castle_wiki - 0.6898523157923045
+
+13) son_wiki - 0.689356703200538
+
+14) name_wiki - 0.6812825202941895
+
+15) way_wiki - 0.6709048748016357
+
+16) love_wiki - 0.6562952995300293
+
+17) damosel_wiki - 0.6482686223663587
+
+18) queen_wiki - 0.627226628495851
+
+19) hand_wiki - 0.6237502694129944
+
+20) man_wiki - 0.5352351665496826
+
+21) lord_wiki - 0.2750591203605609
+

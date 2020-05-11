@@ -1,0 +1,32 @@
+Result for the vector: paper, coming from part i of the book
+Rank: 1 out of 2 characters
+Cosine similarity to the co-referring vector: 0.8770008683204901
+
+1) paper_a - 0.8770008683204901
+
+2) time_a - 0.6586245487480864
+
+Result for the vector: time, coming from part i of the book
+Rank: 2 out of 2 characters
+Cosine similarity to the co-referring vector: 0.7615714811342086
+
+1) paper_a - 0.8124642707471378
+
+2) time_a - 0.7615714811342086
+
+Result for the vector: paper, coming from part a of the book
+Rank: 1 out of 2 characters
+Cosine similarity to the co-referring vector: 0.8770008683204901
+
+1) paper_wiki - 0.8770008683204901
+
+2) time_wiki - 0.8124642707471378
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 2 characters
+Cosine similarity to the co-referring vector: 0.7615714811342086
+
+1) time_wiki - 0.7615714811342086
+
+2) paper_wiki - 0.6586245487480864
+

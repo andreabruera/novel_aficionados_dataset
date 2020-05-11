@@ -1,0 +1,9 @@
+Test: doppelganger test
+Results for: The_Tragical_History_of_Doctor_Faustus_b
+Model used: common nouns unmatched
+
+Within-novel median: 1.0
+Within-novel average: 1.1875
+Within-novel MRR: 0.9270833333333333
+Within-novel standard deviation of the scores: 0.5266343608235224
+Amount of entities considered: 8.0

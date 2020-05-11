@@ -1,0 +1,60 @@
+Result for the vector: world, coming from part i of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.8903627660978669
+
+1) world_a - 0.8903627660978669
+
+2) day_a - 0.8461850537712892
+
+3) match_a - 0.7179978153703005
+
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.8293435573577881
+
+1) day_a - 0.8293435573577881
+
+2) world_a - 0.8002305626869202
+
+3) match_a - 0.7319650112359265
+
+Result for the vector: match, coming from part i of the book
+Rank: 3 out of 3 characters
+Cosine similarity to the co-referring vector: 0.6469184528169714
+
+1) world_a - 0.7240208818924966
+
+2) day_a - 0.6917452032414212
+
+3) match_a - 0.6469184528169714
+
+Result for the vector: world, coming from part a of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.8903627660978669
+
+1) world_wiki - 0.8903627660978669
+
+2) day_wiki - 0.8002305626869202
+
+3) match_wiki - 0.7240208818924966
+
+Result for the vector: day, coming from part a of the book
+Rank: 2 out of 3 characters
+Cosine similarity to the co-referring vector: 0.8293435573577881
+
+1) world_wiki - 0.8461850537712892
+
+2) day_wiki - 0.8293435573577881
+
+3) match_wiki - 0.6917452032414212
+
+Result for the vector: match, coming from part a of the book
+Rank: 3 out of 3 characters
+Cosine similarity to the co-referring vector: 0.6469184528169714
+
+1) day_wiki - 0.7319650112359265
+
+2) world_wiki - 0.7179978153703005
+
+3) match_wiki - 0.6469184528169714
+

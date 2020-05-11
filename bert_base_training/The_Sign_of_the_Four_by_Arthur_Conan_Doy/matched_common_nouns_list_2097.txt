@@ -1,0 +1,11 @@
+172	man_men_Man
+54	case_cases
+42	place_places
+33	one
+25	leg_legs
+23	life
+20	fact_facts_Facts
+15	arm_arms
+15	story_stories
+12	chapter_Chapter
+10	power_powers

@@ -1,0 +1,192 @@
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8911625742912292
+
+1) man_a - 0.8911625742912292
+
+2) face_a - 0.7745087415565616
+
+3) room_a - 0.7678871750831604
+
+4) day_a - 0.7655188073372489
+
+5) time_a - 0.7631484552444924
+
+6) hand_a - 0.7307172257135658
+
+Result for the vector: hand, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.7989055394474007
+
+1) hand_a - 0.7989055394474007
+
+2) man_a - 0.767828643321991
+
+3) face_a - 0.7467657629530765
+
+4) room_a - 0.7312153577804565
+
+5) day_a - 0.7221510029480164
+
+6) time_a - 0.7006174682834833
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.7328233878121858
+
+1) time_a - 0.7328233878121858
+
+2) day_a - 0.6913062356090164
+
+3) man_a - 0.6758050129297395
+
+4) face_a - 0.6705369549669757
+
+5) hand_a - 0.669744094579708
+
+6) room_a - 0.6509357482752661
+
+Result for the vector: face, coming from part i of the book
+Rank: 2 out of 6 characters
+Cosine similarity to the co-referring vector: 0.6791685606040334
+
+1) hand_a - 0.6944395717644448
+
+2) face_a - 0.6791685606040334
+
+3) time_a - 0.6016860483067021
+
+4) man_a - 0.599689245223999
+
+5) day_a - 0.5815877491708922
+
+6) room_a - 0.5717945694923401
+
+Result for the vector: room, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9143033623695374
+
+1) room_a - 0.9143033623695374
+
+2) man_a - 0.8276997208595276
+
+3) time_a - 0.8051833146592061
+
+4) face_a - 0.7988009692667816
+
+5) day_a - 0.7986288308688654
+
+6) hand_a - 0.7954017994047298
+
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8304533609883002
+
+1) day_a - 0.8304533609883002
+
+2) time_a - 0.7855040686721776
+
+3) man_a - 0.7494045495986938
+
+4) room_a - 0.7299681901931763
+
+5) face_a - 0.694836295266598
+
+6) hand_a - 0.6702290576832937
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8911625742912292
+
+1) man_wiki - 0.8911625742912292
+
+2) room_wiki - 0.8276997208595276
+
+3) hand_wiki - 0.767828643321991
+
+4) day_wiki - 0.7494045495986938
+
+5) time_wiki - 0.6758050129297395
+
+6) face_wiki - 0.599689245223999
+
+Result for the vector: hand, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.7989055394474007
+
+1) hand_wiki - 0.7989055394474007
+
+2) room_wiki - 0.7954017994047298
+
+3) man_wiki - 0.7307172257135658
+
+4) face_wiki - 0.6944395717644448
+
+5) day_wiki - 0.6702290576832937
+
+6) time_wiki - 0.669744094579708
+
+Result for the vector: time, coming from part a of the book
+Rank: 4 out of 6 characters
+Cosine similarity to the co-referring vector: 0.7328233878121858
+
+1) room_wiki - 0.8051833146592061
+
+2) day_wiki - 0.7855040686721776
+
+3) man_wiki - 0.7631484552444924
+
+4) time_wiki - 0.7328233878121858
+
+5) hand_wiki - 0.7006174682834833
+
+6) face_wiki - 0.6016860483067021
+
+Result for the vector: face, coming from part a of the book
+Rank: 5 out of 6 characters
+Cosine similarity to the co-referring vector: 0.6791685606040334
+
+1) room_wiki - 0.7988009692667816
+
+2) man_wiki - 0.7745087415565616
+
+3) hand_wiki - 0.7467657629530765
+
+4) day_wiki - 0.694836295266598
+
+5) face_wiki - 0.6791685606040334
+
+6) time_wiki - 0.6705369549669757
+
+Result for the vector: room, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9143033623695374
+
+1) room_wiki - 0.9143033623695374
+
+2) man_wiki - 0.7678871750831604
+
+3) hand_wiki - 0.7312153577804565
+
+4) day_wiki - 0.7299681901931763
+
+5) time_wiki - 0.6509357482752661
+
+6) face_wiki - 0.5717945694923401
+
+Result for the vector: day, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8304533609883002
+
+1) day_wiki - 0.8304533609883002
+
+2) room_wiki - 0.7986288308688654
+
+3) man_wiki - 0.7655188073372489
+
+4) hand_wiki - 0.7221510029480164
+
+5) time_wiki - 0.6913062356090164
+
+6) face_wiki - 0.5815877491708922
+

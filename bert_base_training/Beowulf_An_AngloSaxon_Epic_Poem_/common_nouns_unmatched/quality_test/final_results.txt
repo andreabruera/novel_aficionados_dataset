@@ -1,0 +1,9 @@
+Test: quality test
+Results for: Beowulf_An_AngloSaxon_Epic_Poem_
+Model used: common nouns unmatched
+
+Within-novel median: 1.0
+Within-novel average: 1.6
+Within-novel MRR: 0.7666666666666666
+Within-novel standard deviation of the scores: 0.8
+Amount of entities considered: 5.0

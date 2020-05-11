@@ -1,0 +1,2112 @@
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9368547834840563
+
+1) man_a - 0.9368547834840563
+
+2) woman_a - 0.9124253392219543
+
+3) fellow_a - 0.9099117624864926
+
+4) family_a - 0.9086653861005723
+
+5) mother_a - 0.8939552903175354
+
+6) folk_a - 0.889224959704291
+
+7) reader_a - 0.8811273170525452
+
+8) thing_a - 0.8725609855317498
+
+9) work_a - 0.8620511293411255
+
+10) mind_a - 0.8558822784353676
+
+11) way_a - 0.8410406207418086
+
+12) lot_a - 0.8392360460530537
+
+13) ear_a - 0.8363500237464905
+
+14) night_a - 0.831525216607738
+
+15) subject_a - 0.8290414810180664
+
+16) account_a - 0.8262154563536983
+
+17) head_a - 0.8225902915000916
+
+18) nobody_a - 0.8098904603785017
+
+19) appearance_a - 0.7902918693510258
+
+20) mulatto_a - 0.7696693998378171
+
+21) misery_a - 0.750742495059967
+
+22) cotton_a - 0.7106315148629614
+
+Result for the vector: way, coming from part i of the book
+Rank: 3 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7867121950731045
+
+1) account_a - 0.8096418011615514
+
+2) mind_a - 0.8035339713096675
+
+3) way_a - 0.7867121950731045
+
+4) work_a - 0.78158654084286
+
+5) family_a - 0.7732368477214353
+
+6) mother_a - 0.7658150931706983
+
+7) thing_a - 0.7644098085868587
+
+8) subject_a - 0.7637437126789278
+
+9) lot_a - 0.7633430134253827
+
+10) ear_a - 0.7623610042118442
+
+11) head_a - 0.7612320923070867
+
+12) reader_a - 0.7411976081489886
+
+13) man_a - 0.7329418381521895
+
+14) night_a - 0.7329362949208862
+
+15) appearance_a - 0.7242388509440794
+
+16) misery_a - 0.7135510615377998
+
+17) woman_a - 0.7133023909746188
+
+18) folk_a - 0.7122987427177306
+
+19) fellow_a - 0.7070819663258864
+
+20) nobody_a - 0.67837909717809
+
+21) cotton_a - 0.6458624986328287
+
+22) mulatto_a - 0.619514107704167
+
+Result for the vector: thing, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.6401553368475844
+
+1) thing_a - 0.6401553368475844
+
+2) way_a - 0.615159951736931
+
+3) work_a - 0.6108959913253784
+
+4) lot_a - 0.6061680497577208
+
+5) account_a - 0.6005872130043987
+
+6) subject_a - 0.5976055264472961
+
+7) mother_a - 0.5951637625694275
+
+8) family_a - 0.5929823098475432
+
+9) night_a - 0.5877860434182867
+
+10) misery_a - 0.5862088203430176
+
+11) mind_a - 0.583342884978229
+
+12) ear_a - 0.5832476615905762
+
+13) man_a - 0.5795005214512048
+
+14) folk_a - 0.5731841834564031
+
+15) appearance_a - 0.5721068552764316
+
+16) nobody_a - 0.5668401380276608
+
+17) fellow_a - 0.5660928408988944
+
+18) woman_a - 0.5652223229408264
+
+19) reader_a - 0.5494010939658688
+
+20) head_a - 0.5397062301635742
+
+21) mulatto_a - 0.476464776782083
+
+22) cotton_a - 0.4641504841030254
+
+Result for the vector: woman, coming from part i of the book
+Rank: 2 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8957665767461017
+
+1) family_a - 0.9149158495564298
+
+2) woman_a - 0.8957665767461017
+
+3) man_a - 0.8926719693145841
+
+4) mother_a - 0.8916080199129635
+
+5) thing_a - 0.88060471059695
+
+6) work_a - 0.8800205183047555
+
+7) folk_a - 0.8788486457214354
+
+8) fellow_a - 0.8760526515229937
+
+9) mind_a - 0.873310040430731
+
+10) reader_a - 0.869010663451671
+
+11) ear_a - 0.8573525718467782
+
+12) way_a - 0.8543469564422153
+
+13) lot_a - 0.8487579642245742
+
+14) subject_a - 0.8484974666086589
+
+15) night_a - 0.8477666630675489
+
+16) account_a - 0.8414713395080463
+
+17) head_a - 0.8202287692036158
+
+18) appearance_a - 0.8177558562464557
+
+19) nobody_a - 0.8043161870335486
+
+20) misery_a - 0.7833767637649297
+
+21) mulatto_a - 0.78279256564268
+
+22) cotton_a - 0.7273125377651386
+
+Result for the vector: mother, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.900707197105033
+
+1) mother_a - 0.900707197105033
+
+2) family_a - 0.8763733318710426
+
+3) woman_a - 0.8702945863849479
+
+4) man_a - 0.8646317962470434
+
+5) mind_a - 0.8479337782899409
+
+6) work_a - 0.8437432833023986
+
+7) fellow_a - 0.8436757102785801
+
+8) ear_a - 0.8435251899331642
+
+9) thing_a - 0.8409539149485994
+
+10) reader_a - 0.8317603817057677
+
+11) lot_a - 0.8269273495441156
+
+12) folk_a - 0.8240890922333974
+
+13) way_a - 0.819890829344245
+
+14) nobody_a - 0.8186665501594766
+
+15) head_a - 0.8170883277549411
+
+16) night_a - 0.8149381610861743
+
+17) account_a - 0.81060895730097
+
+18) subject_a - 0.7994054198973927
+
+19) appearance_a - 0.7839145555572696
+
+20) misery_a - 0.7804743313223976
+
+21) mulatto_a - 0.7392996108949534
+
+22) cotton_a - 0.7069544792175494
+
+Result for the vector: head, coming from part i of the book
+Rank: 9 out of 22 characters
+Cosine similarity to the co-referring vector: 0.6929125602789271
+
+1) family_a - 0.7544086653955581
+
+2) woman_a - 0.7143223711444373
+
+3) man_a - 0.7106330990791371
+
+4) night_a - 0.7094223499298146
+
+5) mother_a - 0.7084321205873574
+
+6) work_a - 0.7005454123345276
+
+7) ear_a - 0.6961343107303578
+
+8) mulatto_a - 0.6930876604423118
+
+9) head_a - 0.6929125602789271
+
+10) mind_a - 0.6886407957840914
+
+11) thing_a - 0.6836144924163867
+
+12) way_a - 0.6825318336486865
+
+13) reader_a - 0.681101185247479
+
+14) fellow_a - 0.6799709987657776
+
+15) account_a - 0.6741579771041918
+
+16) lot_a - 0.6720457677882109
+
+17) subject_a - 0.6644863286308258
+
+18) folk_a - 0.6577162350585426
+
+19) appearance_a - 0.6491205080557326
+
+20) cotton_a - 0.6360940282512965
+
+21) nobody_a - 0.6043072938919111
+
+22) misery_a - 0.583187018822851
+
+Result for the vector: night, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8625618301295158
+
+1) night_a - 0.8625618301295158
+
+2) way_a - 0.7686789173675243
+
+3) lot_a - 0.7659902204868266
+
+4) family_a - 0.7580543982402804
+
+5) thing_a - 0.7528060225960016
+
+6) work_a - 0.7470657229423523
+
+7) account_a - 0.743831053743897
+
+8) mother_a - 0.7406502366065979
+
+9) woman_a - 0.737851083278656
+
+10) subject_a - 0.7327009439468384
+
+11) ear_a - 0.7322152256965637
+
+12) mind_a - 0.7321572144125245
+
+13) man_a - 0.7265424295340533
+
+14) folk_a - 0.715030704137008
+
+15) fellow_a - 0.709886287464351
+
+16) nobody_a - 0.694400209522236
+
+17) head_a - 0.692770779132843
+
+18) reader_a - 0.6842518464552054
+
+19) misery_a - 0.6805167198181152
+
+20) appearance_a - 0.674344857762601
+
+21) mulatto_a - 0.6233200802397787
+
+22) cotton_a - 0.6115645899253638
+
+Result for the vector: fellow, coming from part i of the book
+Rank: 6 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7440097637164927
+
+1) family_a - 0.7879123922560335
+
+2) man_a - 0.7719157474091217
+
+3) mother_a - 0.7705361247062683
+
+4) work_a - 0.761398434638977
+
+5) woman_a - 0.7508742213249207
+
+6) fellow_a - 0.7440097637164927
+
+7) mind_a - 0.7421055282417268
+
+8) reader_a - 0.7381526295679208
+
+9) ear_a - 0.737893283367157
+
+10) thing_a - 0.7338896552390078
+
+11) mulatto_a - 0.7295072513525053
+
+12) lot_a - 0.7248252250202071
+
+13) folk_a - 0.7246188253618738
+
+14) way_a - 0.7140205076920696
+
+15) head_a - 0.7121651768684387
+
+16) account_a - 0.7121482067019829
+
+17) night_a - 0.710276144130461
+
+18) subject_a - 0.701129674911499
+
+19) nobody_a - 0.6806037020323467
+
+20) cotton_a - 0.6784782026384166
+
+21) appearance_a - 0.6717214784539189
+
+22) misery_a - 0.6663227677345276
+
+Result for the vector: mind, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8186553608569732
+
+1) mind_a - 0.8186553608569732
+
+2) work_a - 0.772872805595398
+
+3) family_a - 0.7718978754251565
+
+4) account_a - 0.766499712079782
+
+5) mother_a - 0.7626997232437134
+
+6) reader_a - 0.7590047203604657
+
+7) ear_a - 0.7582505941390991
+
+8) lot_a - 0.7406085950317564
+
+9) man_a - 0.7401570236589312
+
+10) way_a - 0.736496821850729
+
+11) thing_a - 0.7358074345703475
+
+12) head_a - 0.7254807353019714
+
+13) appearance_a - 0.724783084535095
+
+14) folk_a - 0.722036573644098
+
+15) woman_a - 0.7205323576927185
+
+16) subject_a - 0.7203462719917297
+
+17) fellow_a - 0.7174846270698805
+
+18) night_a - 0.7111144238046168
+
+19) misery_a - 0.6986302733421326
+
+20) nobody_a - 0.6893624848507366
+
+21) mulatto_a - 0.6478922753269848
+
+22) cotton_a - 0.6117221250202848
+
+Result for the vector: family, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9246763862573028
+
+1) family_a - 0.9246763862573028
+
+2) mother_a - 0.8981015682220459
+
+3) mind_a - 0.8833278348045266
+
+4) thing_a - 0.8818611573063653
+
+5) reader_a - 0.8795250844530872
+
+6) folk_a - 0.8768593815732801
+
+7) work_a - 0.8757545948028564
+
+8) man_a - 0.8750872686453317
+
+9) lot_a - 0.8696064016105656
+
+10) woman_a - 0.8692477941513062
+
+11) ear_a - 0.8617904782295227
+
+12) way_a - 0.8617431007776811
+
+13) fellow_a - 0.8546841913838219
+
+14) subject_a - 0.8527110815048218
+
+15) account_a - 0.8506497829765226
+
+16) night_a - 0.8464319201450411
+
+17) misery_a - 0.8401046991348267
+
+18) head_a - 0.8330022692680359
+
+19) appearance_a - 0.8260228880054623
+
+20) nobody_a - 0.7929308537882072
+
+21) mulatto_a - 0.7526762338087711
+
+22) cotton_a - 0.7159302492058625
+
+Result for the vector: work, coming from part i of the book
+Rank: 4 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8380435705184937
+
+1) family_a - 0.8487251653887384
+
+2) mind_a - 0.8440512325794255
+
+3) thing_a - 0.8412180637587285
+
+4) work_a - 0.8380435705184937
+
+5) subject_a - 0.8373163938522339
+
+6) account_a - 0.8256687625844039
+
+7) mother_a - 0.8186988830566406
+
+8) man_a - 0.8162593355024271
+
+9) reader_a - 0.8132985961406201
+
+10) ear_a - 0.8112151622772217
+
+11) way_a - 0.8103289717239769
+
+12) lot_a - 0.8083182814216106
+
+13) woman_a - 0.8007262349128723
+
+14) appearance_a - 0.7983119129631497
+
+15) folk_a - 0.7960959916000433
+
+16) fellow_a - 0.7885321630797247
+
+17) night_a - 0.7863086589390853
+
+18) head_a - 0.7862398624420166
+
+19) misery_a - 0.7442927956581116
+
+20) nobody_a - 0.7279027266560373
+
+21) mulatto_a - 0.6751003071725563
+
+22) cotton_a - 0.6630165771265765
+
+Result for the vector: nobody, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.767140388488775
+
+1) nobody_a - 0.767140388488775
+
+2) mother_a - 0.7077558462474267
+
+3) folk_a - 0.6958468141647203
+
+4) thing_a - 0.6879777908325244
+
+5) way_a - 0.6757855415344286
+
+6) woman_a - 0.6716534299643904
+
+7) work_a - 0.6695296567398117
+
+8) night_a - 0.656847536563878
+
+9) man_a - 0.6556335687637376
+
+10) mind_a - 0.6555620617344453
+
+11) lot_a - 0.652581869296599
+
+12) family_a - 0.651685474963678
+
+13) ear_a - 0.6487073092882233
+
+14) fellow_a - 0.6479255766913055
+
+15) account_a - 0.6321374177932784
+
+16) misery_a - 0.6300852674296669
+
+17) head_a - 0.6215468419520176
+
+18) subject_a - 0.6180189620267738
+
+19) reader_a - 0.6046870655845206
+
+20) appearance_a - 0.5872864652234139
+
+21) mulatto_a - 0.5346097391378568
+
+22) cotton_a - 0.4918288871936009
+
+Result for the vector: ear, coming from part i of the book
+Rank: 4 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7311689257621765
+
+1) work_a - 0.7493420243263245
+
+2) family_a - 0.7457246406592325
+
+3) account_a - 0.7315171520997804
+
+4) ear_a - 0.7311689257621765
+
+5) mind_a - 0.7300873237900344
+
+6) head_a - 0.7283164262771606
+
+7) thing_a - 0.7259168788244214
+
+8) mother_a - 0.7233263850212097
+
+9) subject_a - 0.7173557877540588
+
+10) folk_a - 0.7141967160467299
+
+11) lot_a - 0.7105654689838136
+
+12) man_a - 0.7068857129284327
+
+13) way_a - 0.7040112791054691
+
+14) woman_a - 0.6945615410804749
+
+15) reader_a - 0.6901151558859814
+
+16) night_a - 0.6842389294958765
+
+17) fellow_a - 0.683004953503023
+
+18) appearance_a - 0.6749418579024633
+
+19) misery_a - 0.6720742583274841
+
+20) cotton_a - 0.6226449158960525
+
+21) nobody_a - 0.6195735562101878
+
+22) mulatto_a - 0.6041671993832122
+
+Result for the vector: folk, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7190502024829197
+
+1) folk_a - 0.7190502024829197
+
+2) man_a - 0.7188558746066182
+
+3) family_a - 0.7161362980644795
+
+4) woman_a - 0.7051920294761658
+
+5) mother_a - 0.7045493125915527
+
+6) fellow_a - 0.701431667634055
+
+7) thing_a - 0.6988795579147615
+
+8) work_a - 0.6974053978919983
+
+9) lot_a - 0.696312090644601
+
+10) way_a - 0.6945892754441944
+
+11) night_a - 0.6910608594977355
+
+12) account_a - 0.6819505285054143
+
+13) ear_a - 0.6753484606742859
+
+14) mind_a - 0.6718098325616033
+
+15) reader_a - 0.6675516963796371
+
+16) head_a - 0.6663475036621094
+
+17) nobody_a - 0.6565004791915143
+
+18) subject_a - 0.646329939365387
+
+19) appearance_a - 0.6246323771665211
+
+20) misery_a - 0.6167797446250916
+
+21) mulatto_a - 0.610111928588864
+
+22) cotton_a - 0.5809006191373651
+
+Result for the vector: reader, coming from part i of the book
+Rank: 2 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8657451886003117
+
+1) family_a - 0.8689357741081413
+
+2) reader_a - 0.8657451886003117
+
+3) mind_a - 0.847296091430682
+
+4) mother_a - 0.8459106500042319
+
+5) woman_a - 0.8453974539515381
+
+6) folk_a - 0.8425434231758357
+
+7) thing_a - 0.839377691708679
+
+8) man_a - 0.830560495290799
+
+9) work_a - 0.8277815971114214
+
+10) subject_a - 0.8273784908507514
+
+11) ear_a - 0.8248619228436913
+
+12) fellow_a - 0.8184769749641652
+
+13) way_a - 0.8120965845642568
+
+14) account_a - 0.8114588744317944
+
+15) night_a - 0.8112375623725522
+
+16) lot_a - 0.807014347167964
+
+17) appearance_a - 0.8019053938843929
+
+18) head_a - 0.7694019400360568
+
+19) misery_a - 0.7567413755347038
+
+20) nobody_a - 0.7543222757770108
+
+21) mulatto_a - 0.7092607693542439
+
+22) cotton_a - 0.6693784998365641
+
+Result for the vector: lot, coming from part i of the book
+Rank: 3 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7106556123885878
+
+1) family_a - 0.7250050738456889
+
+2) mind_a - 0.7165796205323598
+
+3) lot_a - 0.7106556123885878
+
+4) account_a - 0.7068535474880501
+
+5) work_a - 0.7064210983044239
+
+6) mother_a - 0.7046006531894404
+
+7) ear_a - 0.7038746089897936
+
+8) thing_a - 0.6998315244963339
+
+9) folk_a - 0.6910175659342873
+
+10) reader_a - 0.6865052207118548
+
+11) subject_a - 0.6799092495414394
+
+12) appearance_a - 0.6791908549780163
+
+13) woman_a - 0.6790020668209218
+
+14) way_a - 0.6787273085496659
+
+15) man_a - 0.6726181306654799
+
+16) night_a - 0.6721524395897285
+
+17) head_a - 0.6680497130170382
+
+18) nobody_a - 0.6575159830595286
+
+19) fellow_a - 0.6537240755208735
+
+20) misery_a - 0.6267761178844014
+
+21) mulatto_a - 0.5757072486615704
+
+22) cotton_a - 0.5393713324325303
+
+Result for the vector: account, coming from part i of the book
+Rank: 3 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7861759642029038
+
+1) work_a - 0.7945368755387875
+
+2) mind_a - 0.787948044882199
+
+3) account_a - 0.7861759642029038
+
+4) subject_a - 0.7812847932873405
+
+5) family_a - 0.7699212479403733
+
+6) thing_a - 0.7622111979441913
+
+7) ear_a - 0.7619703213510753
+
+8) appearance_a - 0.7595199965286368
+
+9) night_a - 0.7455408492000445
+
+10) mother_a - 0.7450620298217163
+
+11) lot_a - 0.7414849380218953
+
+12) way_a - 0.7401397139042456
+
+13) reader_a - 0.7396831928739579
+
+14) woman_a - 0.7300730082545158
+
+15) man_a - 0.7241818791899165
+
+16) head_a - 0.7130721506925098
+
+17) folk_a - 0.7013484270586534
+
+18) fellow_a - 0.6988348989637482
+
+19) misery_a - 0.6612492391093122
+
+20) nobody_a - 0.6585668114672557
+
+21) cotton_a - 0.6395074437434067
+
+22) mulatto_a - 0.6339700134316193
+
+Result for the vector: appearance, coming from part i of the book
+Rank: 13 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7374808412039534
+
+1) family_a - 0.7758705251178305
+
+2) mind_a - 0.7669294337588225
+
+3) account_a - 0.7604783320141847
+
+4) work_a - 0.7594329118728638
+
+5) man_a - 0.7528861908384461
+
+6) mother_a - 0.7500017285346985
+
+7) thing_a - 0.7470430882547459
+
+8) ear_a - 0.7419500946998596
+
+9) way_a - 0.7418376361228458
+
+10) lot_a - 0.7398942929474802
+
+11) reader_a - 0.7387483780457149
+
+12) woman_a - 0.7377606630325317
+
+13) appearance_a - 0.7374808412039534
+
+14) subject_a - 0.7355101108551025
+
+15) night_a - 0.730581001604737
+
+16) head_a - 0.7219781875610352
+
+17) fellow_a - 0.720941934473289
+
+18) folk_a - 0.7143851263064046
+
+19) nobody_a - 0.6728342966536118
+
+20) mulatto_a - 0.6600212252152708
+
+21) misery_a - 0.6518445611000061
+
+22) cotton_a - 0.5991463779385583
+
+Result for the vector: subject, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7554822259566568
+
+1) subject_a - 0.7554822259566568
+
+2) mind_a - 0.7310246985540091
+
+3) family_a - 0.7258978433104378
+
+4) appearance_a - 0.7122319896013826
+
+5) work_a - 0.7100023376938944
+
+6) account_a - 0.7090217395385983
+
+7) thing_a - 0.7064456868566847
+
+8) ear_a - 0.7063870780006605
+
+9) lot_a - 0.7049854959560565
+
+10) mother_a - 0.7042028064486069
+
+11) man_a - 0.7040557794471194
+
+12) way_a - 0.6980528179312686
+
+13) woman_a - 0.6901051771515446
+
+14) reader_a - 0.6872110758063026
+
+15) head_a - 0.6841630120083128
+
+16) fellow_a - 0.6797466445573224
+
+17) night_a - 0.671823798687972
+
+18) folk_a - 0.6559852585827688
+
+19) nobody_a - 0.6329969823961896
+
+20) mulatto_a - 0.6211337672988414
+
+21) misery_a - 0.6201553201490303
+
+22) cotton_a - 0.5967785716056994
+
+Result for the vector: mulatto, coming from part i of the book
+Rank: 20 out of 22 characters
+Cosine similarity to the co-referring vector: 0.6785119984760283
+
+1) man_a - 0.7734744548797663
+
+2) woman_a - 0.7703686219673541
+
+3) fellow_a - 0.7627604745173293
+
+4) mother_a - 0.7618007517934308
+
+5) thing_a - 0.7520138621330315
+
+6) family_a - 0.7519335822999703
+
+7) work_a - 0.7346072634820512
+
+8) mind_a - 0.7306223786619161
+
+9) way_a - 0.7294126749038748
+
+10) folk_a - 0.7210014628767211
+
+11) subject_a - 0.7202747297450752
+
+12) ear_a - 0.7173681686740034
+
+13) lot_a - 0.7168404504812169
+
+14) appearance_a - 0.7141671223193817
+
+15) reader_a - 0.71233354692661
+
+16) account_a - 0.7102159857749989
+
+17) night_a - 0.7070130109787037
+
+18) head_a - 0.70370934627708
+
+19) nobody_a - 0.687443971633916
+
+20) mulatto_a - 0.6785119984760283
+
+21) misery_a - 0.6627026595296073
+
+22) cotton_a - 0.5886161187796816
+
+Result for the vector: cotton, coming from part i of the book
+Rank: 18 out of 22 characters
+Cosine similarity to the co-referring vector: 0.746774032135136
+
+1) family_a - 0.8188450472514377
+
+2) man_a - 0.8135260939598141
+
+3) work_a - 0.8042313935894619
+
+4) ear_a - 0.7885504834980075
+
+5) fellow_a - 0.7870538361636624
+
+6) mother_a - 0.7835897674316044
+
+7) woman_a - 0.7821123470134956
+
+8) folk_a - 0.7768587603057294
+
+9) thing_a - 0.7728462815284783
+
+10) lot_a - 0.7715504859284005
+
+11) mind_a - 0.768210800672865
+
+12) head_a - 0.7677957277176232
+
+13) account_a - 0.7645483016967828
+
+14) way_a - 0.7604336142540032
+
+15) mulatto_a - 0.7563861318094888
+
+16) subject_a - 0.7492850273421436
+
+17) night_a - 0.7481471300125175
+
+18) cotton_a - 0.746774032135136
+
+19) reader_a - 0.7455728568990319
+
+20) appearance_a - 0.7266216927726593
+
+21) nobody_a - 0.7086061239242604
+
+22) misery_a - 0.6885320358593497
+
+Result for the vector: misery, coming from part i of the book
+Rank: 9 out of 22 characters
+Cosine similarity to the co-referring vector: 0.6737600564956665
+
+1) head_a - 0.7017288208007812
+
+2) lot_a - 0.7005223244584302
+
+3) ear_a - 0.6989564895629883
+
+4) family_a - 0.6963018386453941
+
+5) mother_a - 0.6948840022087097
+
+6) work_a - 0.6945158243179321
+
+7) mind_a - 0.6889256053522602
+
+8) account_a - 0.686651606163288
+
+9) misery_a - 0.6737600564956665
+
+10) way_a - 0.6686222750769701
+
+11) night_a - 0.668502052515624
+
+12) man_a - 0.6453140589407659
+
+13) thing_a - 0.6433301780623103
+
+14) reader_a - 0.6309351889135137
+
+15) woman_a - 0.6265915036201477
+
+16) fellow_a - 0.6197064972273755
+
+17) subject_a - 0.6165186762809753
+
+18) folk_a - 0.6131125553712227
+
+19) appearance_a - 0.6108651939292312
+
+20) nobody_a - 0.5578230286942117
+
+21) cotton_a - 0.5478645024138135
+
+22) mulatto_a - 0.5401314222890996
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9368547834840563
+
+1) man_wiki - 0.9368547834840563
+
+2) woman_wiki - 0.8926719693145841
+
+3) family_wiki - 0.8750872686453317
+
+4) mother_wiki - 0.8646317962470434
+
+5) reader_wiki - 0.830560495290799
+
+6) work_wiki - 0.8162593355024271
+
+7) cotton_wiki - 0.8135260939598141
+
+8) mulatto_wiki - 0.7734744548797663
+
+9) fellow_wiki - 0.7719157474091217
+
+10) appearance_wiki - 0.7528861908384461
+
+11) mind_wiki - 0.7401570236589312
+
+12) way_wiki - 0.7329418381521895
+
+13) night_wiki - 0.7265424295340533
+
+14) account_wiki - 0.7241818791899165
+
+15) folk_wiki - 0.7188558746066182
+
+16) head_wiki - 0.7106330990791371
+
+17) ear_wiki - 0.7068857129284327
+
+18) subject_wiki - 0.7040557794471194
+
+19) lot_wiki - 0.6726181306654799
+
+20) nobody_wiki - 0.6556335687637376
+
+21) misery_wiki - 0.6453140589407659
+
+22) thing_wiki - 0.5795005214512048
+
+Result for the vector: way, coming from part a of the book
+Rank: 7 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7867121950731045
+
+1) family_wiki - 0.8617431007776811
+
+2) woman_wiki - 0.8543469564422153
+
+3) man_wiki - 0.8410406207418086
+
+4) mother_wiki - 0.819890829344245
+
+5) reader_wiki - 0.8120965845642568
+
+6) work_wiki - 0.8103289717239769
+
+7) way_wiki - 0.7867121950731045
+
+8) night_wiki - 0.7686789173675243
+
+9) cotton_wiki - 0.7604336142540032
+
+10) appearance_wiki - 0.7418376361228458
+
+11) account_wiki - 0.7401397139042456
+
+12) mind_wiki - 0.736496821850729
+
+13) mulatto_wiki - 0.7294126749038748
+
+14) fellow_wiki - 0.7140205076920696
+
+15) ear_wiki - 0.7040112791054691
+
+16) subject_wiki - 0.6980528179312686
+
+17) folk_wiki - 0.6945892754441944
+
+18) head_wiki - 0.6825318336486865
+
+19) lot_wiki - 0.6787273085496659
+
+20) nobody_wiki - 0.6757855415344286
+
+21) misery_wiki - 0.6686222750769701
+
+22) thing_wiki - 0.615159951736931
+
+Result for the vector: thing, coming from part a of the book
+Rank: 22 out of 22 characters
+Cosine similarity to the co-referring vector: 0.6401553368475844
+
+1) family_wiki - 0.8818611573063653
+
+2) woman_wiki - 0.88060471059695
+
+3) man_wiki - 0.8725609855317498
+
+4) work_wiki - 0.8412180637587285
+
+5) mother_wiki - 0.8409539149485994
+
+6) reader_wiki - 0.839377691708679
+
+7) cotton_wiki - 0.7728462815284783
+
+8) way_wiki - 0.7644098085868587
+
+9) account_wiki - 0.7622111979441913
+
+10) night_wiki - 0.7528060225960016
+
+11) mulatto_wiki - 0.7520138621330315
+
+12) appearance_wiki - 0.7470430882547459
+
+13) mind_wiki - 0.7358074345703475
+
+14) fellow_wiki - 0.7338896552390078
+
+15) ear_wiki - 0.7259168788244214
+
+16) subject_wiki - 0.7064456868566847
+
+17) lot_wiki - 0.6998315244963339
+
+18) folk_wiki - 0.6988795579147615
+
+19) nobody_wiki - 0.6879777908325244
+
+20) head_wiki - 0.6836144924163867
+
+21) misery_wiki - 0.6433301780623103
+
+22) thing_wiki - 0.6401553368475844
+
+Result for the vector: woman, coming from part a of the book
+Rank: 2 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8957665767461017
+
+1) man_wiki - 0.9124253392219543
+
+2) woman_wiki - 0.8957665767461017
+
+3) mother_wiki - 0.8702945863849479
+
+4) family_wiki - 0.8692477941513062
+
+5) reader_wiki - 0.8453974539515381
+
+6) work_wiki - 0.8007262349128723
+
+7) cotton_wiki - 0.7821123470134956
+
+8) mulatto_wiki - 0.7703686219673541
+
+9) fellow_wiki - 0.7508742213249207
+
+10) night_wiki - 0.737851083278656
+
+11) appearance_wiki - 0.7377606630325317
+
+12) account_wiki - 0.7300730082545158
+
+13) mind_wiki - 0.7205323576927185
+
+14) head_wiki - 0.7143223711444373
+
+15) way_wiki - 0.7133023909746188
+
+16) folk_wiki - 0.7051920294761658
+
+17) ear_wiki - 0.6945615410804749
+
+18) subject_wiki - 0.6901051771515446
+
+19) lot_wiki - 0.6790020668209218
+
+20) nobody_wiki - 0.6716534299643904
+
+21) misery_wiki - 0.6265915036201477
+
+22) thing_wiki - 0.5652223229408264
+
+Result for the vector: mother, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.900707197105033
+
+1) mother_wiki - 0.900707197105033
+
+2) family_wiki - 0.8981015682220459
+
+3) man_wiki - 0.8939552903175354
+
+4) woman_wiki - 0.8916080199129635
+
+5) reader_wiki - 0.8459106500042319
+
+6) work_wiki - 0.8186988830566406
+
+7) cotton_wiki - 0.7835897674316044
+
+8) fellow_wiki - 0.7705361247062683
+
+9) way_wiki - 0.7658150931706983
+
+10) mind_wiki - 0.7626997232437134
+
+11) mulatto_wiki - 0.7618007517934308
+
+12) appearance_wiki - 0.7500017285346985
+
+13) account_wiki - 0.7450620298217163
+
+14) night_wiki - 0.7406502366065979
+
+15) ear_wiki - 0.7233263850212097
+
+16) head_wiki - 0.7084321205873574
+
+17) nobody_wiki - 0.7077558462474267
+
+18) lot_wiki - 0.7046006531894404
+
+19) folk_wiki - 0.7045493125915527
+
+20) subject_wiki - 0.7042028064486069
+
+21) misery_wiki - 0.6948840022087097
+
+22) thing_wiki - 0.5951637625694275
+
+Result for the vector: head, coming from part a of the book
+Rank: 16 out of 22 characters
+Cosine similarity to the co-referring vector: 0.6929125602789271
+
+1) family_wiki - 0.8330022692680359
+
+2) man_wiki - 0.8225902915000916
+
+3) woman_wiki - 0.8202287692036158
+
+4) mother_wiki - 0.8170883277549411
+
+5) work_wiki - 0.7862398624420166
+
+6) reader_wiki - 0.7694019400360568
+
+7) cotton_wiki - 0.7677957277176232
+
+8) way_wiki - 0.7612320923070867
+
+9) ear_wiki - 0.7283164262771606
+
+10) mind_wiki - 0.7254807353019714
+
+11) appearance_wiki - 0.7219781875610352
+
+12) account_wiki - 0.7130721506925098
+
+13) fellow_wiki - 0.7121651768684387
+
+14) mulatto_wiki - 0.70370934627708
+
+15) misery_wiki - 0.7017288208007812
+
+16) head_wiki - 0.6929125602789271
+
+17) night_wiki - 0.692770779132843
+
+18) subject_wiki - 0.6841630120083128
+
+19) lot_wiki - 0.6680497130170382
+
+20) folk_wiki - 0.6663475036621094
+
+21) nobody_wiki - 0.6215468419520176
+
+22) thing_wiki - 0.5397062301635742
+
+Result for the vector: night, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8625618301295158
+
+1) night_wiki - 0.8625618301295158
+
+2) woman_wiki - 0.8477666630675489
+
+3) family_wiki - 0.8464319201450411
+
+4) man_wiki - 0.831525216607738
+
+5) mother_wiki - 0.8149381610861743
+
+6) reader_wiki - 0.8112375623725522
+
+7) work_wiki - 0.7863086589390853
+
+8) cotton_wiki - 0.7481471300125175
+
+9) account_wiki - 0.7455408492000445
+
+10) way_wiki - 0.7329362949208862
+
+11) appearance_wiki - 0.730581001604737
+
+12) mind_wiki - 0.7111144238046168
+
+13) fellow_wiki - 0.710276144130461
+
+14) head_wiki - 0.7094223499298146
+
+15) mulatto_wiki - 0.7070130109787037
+
+16) folk_wiki - 0.6910608594977355
+
+17) ear_wiki - 0.6842389294958765
+
+18) lot_wiki - 0.6721524395897285
+
+19) subject_wiki - 0.671823798687972
+
+20) misery_wiki - 0.668502052515624
+
+21) nobody_wiki - 0.656847536563878
+
+22) thing_wiki - 0.5877860434182867
+
+Result for the vector: fellow, coming from part a of the book
+Rank: 9 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7440097637164927
+
+1) man_wiki - 0.9099117624864926
+
+2) woman_wiki - 0.8760526515229937
+
+3) family_wiki - 0.8546841913838219
+
+4) mother_wiki - 0.8436757102785801
+
+5) reader_wiki - 0.8184769749641652
+
+6) work_wiki - 0.7885321630797247
+
+7) cotton_wiki - 0.7870538361636624
+
+8) mulatto_wiki - 0.7627604745173293
+
+9) fellow_wiki - 0.7440097637164927
+
+10) appearance_wiki - 0.720941934473289
+
+11) mind_wiki - 0.7174846270698805
+
+12) night_wiki - 0.709886287464351
+
+13) way_wiki - 0.7070819663258864
+
+14) folk_wiki - 0.701431667634055
+
+15) account_wiki - 0.6988348989637482
+
+16) ear_wiki - 0.683004953503023
+
+17) head_wiki - 0.6799709987657776
+
+18) subject_wiki - 0.6797466445573224
+
+19) lot_wiki - 0.6537240755208735
+
+20) nobody_wiki - 0.6479255766913055
+
+21) misery_wiki - 0.6197064972273755
+
+22) thing_wiki - 0.5660928408988944
+
+Result for the vector: mind, coming from part a of the book
+Rank: 7 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8186553608569732
+
+1) family_wiki - 0.8833278348045266
+
+2) woman_wiki - 0.873310040430731
+
+3) man_wiki - 0.8558822784353676
+
+4) mother_wiki - 0.8479337782899409
+
+5) reader_wiki - 0.847296091430682
+
+6) work_wiki - 0.8440512325794255
+
+7) mind_wiki - 0.8186553608569732
+
+8) way_wiki - 0.8035339713096675
+
+9) account_wiki - 0.787948044882199
+
+10) cotton_wiki - 0.768210800672865
+
+11) appearance_wiki - 0.7669294337588225
+
+12) fellow_wiki - 0.7421055282417268
+
+13) night_wiki - 0.7321572144125245
+
+14) subject_wiki - 0.7310246985540091
+
+15) mulatto_wiki - 0.7306223786619161
+
+16) ear_wiki - 0.7300873237900344
+
+17) lot_wiki - 0.7165796205323598
+
+18) misery_wiki - 0.6889256053522602
+
+19) head_wiki - 0.6886407957840914
+
+20) folk_wiki - 0.6718098325616033
+
+21) nobody_wiki - 0.6555620617344453
+
+22) thing_wiki - 0.583342884978229
+
+Result for the vector: family, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9246763862573028
+
+1) family_wiki - 0.9246763862573028
+
+2) woman_wiki - 0.9149158495564298
+
+3) man_wiki - 0.9086653861005723
+
+4) mother_wiki - 0.8763733318710426
+
+5) reader_wiki - 0.8689357741081413
+
+6) work_wiki - 0.8487251653887384
+
+7) cotton_wiki - 0.8188450472514377
+
+8) fellow_wiki - 0.7879123922560335
+
+9) appearance_wiki - 0.7758705251178305
+
+10) way_wiki - 0.7732368477214353
+
+11) mind_wiki - 0.7718978754251565
+
+12) account_wiki - 0.7699212479403733
+
+13) night_wiki - 0.7580543982402804
+
+14) head_wiki - 0.7544086653955581
+
+15) mulatto_wiki - 0.7519335822999703
+
+16) ear_wiki - 0.7457246406592325
+
+17) subject_wiki - 0.7258978433104378
+
+18) lot_wiki - 0.7250050738456889
+
+19) folk_wiki - 0.7161362980644795
+
+20) misery_wiki - 0.6963018386453941
+
+21) nobody_wiki - 0.651685474963678
+
+22) thing_wiki - 0.5929823098475432
+
+Result for the vector: work, coming from part a of the book
+Rank: 5 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8380435705184937
+
+1) woman_wiki - 0.8800205183047555
+
+2) family_wiki - 0.8757545948028564
+
+3) man_wiki - 0.8620511293411255
+
+4) mother_wiki - 0.8437432833023986
+
+5) work_wiki - 0.8380435705184937
+
+6) reader_wiki - 0.8277815971114214
+
+7) cotton_wiki - 0.8042313935894619
+
+8) account_wiki - 0.7945368755387875
+
+9) way_wiki - 0.78158654084286
+
+10) mind_wiki - 0.772872805595398
+
+11) fellow_wiki - 0.761398434638977
+
+12) appearance_wiki - 0.7594329118728638
+
+13) ear_wiki - 0.7493420243263245
+
+14) night_wiki - 0.7470657229423523
+
+15) mulatto_wiki - 0.7346072634820512
+
+16) subject_wiki - 0.7100023376938944
+
+17) lot_wiki - 0.7064210983044239
+
+18) head_wiki - 0.7005454123345276
+
+19) folk_wiki - 0.6974053978919983
+
+20) misery_wiki - 0.6945158243179321
+
+21) nobody_wiki - 0.6695296567398117
+
+22) thing_wiki - 0.6108959913253784
+
+Result for the vector: nobody, coming from part a of the book
+Rank: 5 out of 22 characters
+Cosine similarity to the co-referring vector: 0.767140388488775
+
+1) mother_wiki - 0.8186665501594766
+
+2) man_wiki - 0.8098904603785017
+
+3) woman_wiki - 0.8043161870335486
+
+4) family_wiki - 0.7929308537882072
+
+5) nobody_wiki - 0.767140388488775
+
+6) reader_wiki - 0.7543222757770108
+
+7) work_wiki - 0.7279027266560373
+
+8) cotton_wiki - 0.7086061239242604
+
+9) night_wiki - 0.694400209522236
+
+10) mind_wiki - 0.6893624848507366
+
+11) mulatto_wiki - 0.687443971633916
+
+12) fellow_wiki - 0.6806037020323467
+
+13) way_wiki - 0.67837909717809
+
+14) appearance_wiki - 0.6728342966536118
+
+15) account_wiki - 0.6585668114672557
+
+16) lot_wiki - 0.6575159830595286
+
+17) folk_wiki - 0.6565004791915143
+
+18) subject_wiki - 0.6329969823961896
+
+19) ear_wiki - 0.6195735562101878
+
+20) head_wiki - 0.6043072938919111
+
+21) thing_wiki - 0.5668401380276608
+
+22) misery_wiki - 0.5578230286942117
+
+Result for the vector: ear, coming from part a of the book
+Rank: 14 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7311689257621765
+
+1) family_wiki - 0.8617904782295227
+
+2) woman_wiki - 0.8573525718467782
+
+3) mother_wiki - 0.8435251899331642
+
+4) man_wiki - 0.8363500237464905
+
+5) reader_wiki - 0.8248619228436913
+
+6) work_wiki - 0.8112151622772217
+
+7) cotton_wiki - 0.7885504834980075
+
+8) way_wiki - 0.7623610042118442
+
+9) account_wiki - 0.7619703213510753
+
+10) mind_wiki - 0.7582505941390991
+
+11) appearance_wiki - 0.7419500946998596
+
+12) fellow_wiki - 0.737893283367157
+
+13) night_wiki - 0.7322152256965637
+
+14) ear_wiki - 0.7311689257621765
+
+15) mulatto_wiki - 0.7173681686740034
+
+16) subject_wiki - 0.7063870780006605
+
+17) lot_wiki - 0.7038746089897936
+
+18) misery_wiki - 0.6989564895629883
+
+19) head_wiki - 0.6961343107303578
+
+20) folk_wiki - 0.6753484606742859
+
+21) nobody_wiki - 0.6487073092882233
+
+22) thing_wiki - 0.5832476615905762
+
+Result for the vector: folk, coming from part a of the book
+Rank: 11 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7190502024829197
+
+1) man_wiki - 0.889224959704291
+
+2) woman_wiki - 0.8788486457214354
+
+3) family_wiki - 0.8768593815732801
+
+4) reader_wiki - 0.8425434231758357
+
+5) mother_wiki - 0.8240890922333974
+
+6) work_wiki - 0.7960959916000433
+
+7) cotton_wiki - 0.7768587603057294
+
+8) fellow_wiki - 0.7246188253618738
+
+9) mind_wiki - 0.722036573644098
+
+10) mulatto_wiki - 0.7210014628767211
+
+11) folk_wiki - 0.7190502024829197
+
+12) night_wiki - 0.715030704137008
+
+13) appearance_wiki - 0.7143851263064046
+
+14) ear_wiki - 0.7141967160467299
+
+15) way_wiki - 0.7122987427177306
+
+16) account_wiki - 0.7013484270586534
+
+17) nobody_wiki - 0.6958468141647203
+
+18) lot_wiki - 0.6910175659342873
+
+19) head_wiki - 0.6577162350585426
+
+20) subject_wiki - 0.6559852585827688
+
+21) misery_wiki - 0.6131125553712227
+
+22) thing_wiki - 0.5731841834564031
+
+Result for the vector: reader, coming from part a of the book
+Rank: 4 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8657451886003117
+
+1) man_wiki - 0.8811273170525452
+
+2) family_wiki - 0.8795250844530872
+
+3) woman_wiki - 0.869010663451671
+
+4) reader_wiki - 0.8657451886003117
+
+5) mother_wiki - 0.8317603817057677
+
+6) work_wiki - 0.8132985961406201
+
+7) mind_wiki - 0.7590047203604657
+
+8) cotton_wiki - 0.7455728568990319
+
+9) way_wiki - 0.7411976081489886
+
+10) account_wiki - 0.7396831928739579
+
+11) appearance_wiki - 0.7387483780457149
+
+12) fellow_wiki - 0.7381526295679208
+
+13) mulatto_wiki - 0.71233354692661
+
+14) ear_wiki - 0.6901151558859814
+
+15) subject_wiki - 0.6872110758063026
+
+16) lot_wiki - 0.6865052207118548
+
+17) night_wiki - 0.6842518464552054
+
+18) head_wiki - 0.681101185247479
+
+19) folk_wiki - 0.6675516963796371
+
+20) misery_wiki - 0.6309351889135137
+
+21) nobody_wiki - 0.6046870655845206
+
+22) thing_wiki - 0.5494010939658688
+
+Result for the vector: lot, coming from part a of the book
+Rank: 15 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7106556123885878
+
+1) family_wiki - 0.8696064016105656
+
+2) woman_wiki - 0.8487579642245742
+
+3) man_wiki - 0.8392360460530537
+
+4) mother_wiki - 0.8269273495441156
+
+5) work_wiki - 0.8083182814216106
+
+6) reader_wiki - 0.807014347167964
+
+7) cotton_wiki - 0.7715504859284005
+
+8) night_wiki - 0.7659902204868266
+
+9) way_wiki - 0.7633430134253827
+
+10) account_wiki - 0.7414849380218953
+
+11) mind_wiki - 0.7406085950317564
+
+12) appearance_wiki - 0.7398942929474802
+
+13) fellow_wiki - 0.7248252250202071
+
+14) mulatto_wiki - 0.7168404504812169
+
+15) lot_wiki - 0.7106556123885878
+
+16) ear_wiki - 0.7105654689838136
+
+17) subject_wiki - 0.7049854959560565
+
+18) misery_wiki - 0.7005223244584302
+
+19) folk_wiki - 0.696312090644601
+
+20) head_wiki - 0.6720457677882109
+
+21) nobody_wiki - 0.652581869296599
+
+22) thing_wiki - 0.6061680497577208
+
+Result for the vector: account, coming from part a of the book
+Rank: 8 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7861759642029038
+
+1) family_wiki - 0.8506497829765226
+
+2) woman_wiki - 0.8414713395080463
+
+3) man_wiki - 0.8262154563536983
+
+4) work_wiki - 0.8256687625844039
+
+5) reader_wiki - 0.8114588744317944
+
+6) mother_wiki - 0.81060895730097
+
+7) way_wiki - 0.8096418011615514
+
+8) account_wiki - 0.7861759642029038
+
+9) mind_wiki - 0.766499712079782
+
+10) cotton_wiki - 0.7645483016967828
+
+11) appearance_wiki - 0.7604783320141847
+
+12) night_wiki - 0.743831053743897
+
+13) ear_wiki - 0.7315171520997804
+
+14) fellow_wiki - 0.7121482067019829
+
+15) mulatto_wiki - 0.7102159857749989
+
+16) subject_wiki - 0.7090217395385983
+
+17) lot_wiki - 0.7068535474880501
+
+18) misery_wiki - 0.686651606163288
+
+19) folk_wiki - 0.6819505285054143
+
+20) head_wiki - 0.6741579771041918
+
+21) nobody_wiki - 0.6321374177932784
+
+22) thing_wiki - 0.6005872130043987
+
+Result for the vector: appearance, coming from part a of the book
+Rank: 8 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7374808412039534
+
+1) family_wiki - 0.8260228880054623
+
+2) woman_wiki - 0.8177558562464557
+
+3) reader_wiki - 0.8019053938843929
+
+4) work_wiki - 0.7983119129631497
+
+5) man_wiki - 0.7902918693510258
+
+6) mother_wiki - 0.7839145555572696
+
+7) account_wiki - 0.7595199965286368
+
+8) appearance_wiki - 0.7374808412039534
+
+9) cotton_wiki - 0.7266216927726593
+
+10) mind_wiki - 0.724783084535095
+
+11) way_wiki - 0.7242388509440794
+
+12) mulatto_wiki - 0.7141671223193817
+
+13) subject_wiki - 0.7122319896013826
+
+14) lot_wiki - 0.6791908549780163
+
+15) ear_wiki - 0.6749418579024633
+
+16) night_wiki - 0.674344857762601
+
+17) fellow_wiki - 0.6717214784539189
+
+18) head_wiki - 0.6491205080557326
+
+19) folk_wiki - 0.6246323771665211
+
+20) misery_wiki - 0.6108651939292312
+
+21) nobody_wiki - 0.5872864652234139
+
+22) thing_wiki - 0.5721068552764316
+
+Result for the vector: subject, coming from part a of the book
+Rank: 9 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7554822259566568
+
+1) family_wiki - 0.8527110815048218
+
+2) woman_wiki - 0.8484974666086589
+
+3) work_wiki - 0.8373163938522339
+
+4) man_wiki - 0.8290414810180664
+
+5) reader_wiki - 0.8273784908507514
+
+6) mother_wiki - 0.7994054198973927
+
+7) account_wiki - 0.7812847932873405
+
+8) way_wiki - 0.7637437126789278
+
+9) subject_wiki - 0.7554822259566568
+
+10) cotton_wiki - 0.7492850273421436
+
+11) appearance_wiki - 0.7355101108551025
+
+12) night_wiki - 0.7327009439468384
+
+13) mind_wiki - 0.7203462719917297
+
+14) mulatto_wiki - 0.7202747297450752
+
+15) ear_wiki - 0.7173557877540588
+
+16) fellow_wiki - 0.701129674911499
+
+17) lot_wiki - 0.6799092495414394
+
+18) head_wiki - 0.6644863286308258
+
+19) folk_wiki - 0.646329939365387
+
+20) nobody_wiki - 0.6180189620267738
+
+21) misery_wiki - 0.6165186762809753
+
+22) thing_wiki - 0.5976055264472961
+
+Result for the vector: mulatto, coming from part a of the book
+Rank: 9 out of 22 characters
+Cosine similarity to the co-referring vector: 0.6785119984760283
+
+1) woman_wiki - 0.78279256564268
+
+2) man_wiki - 0.7696693998378171
+
+3) cotton_wiki - 0.7563861318094888
+
+4) family_wiki - 0.7526762338087711
+
+5) mother_wiki - 0.7392996108949534
+
+6) fellow_wiki - 0.7295072513525053
+
+7) reader_wiki - 0.7092607693542439
+
+8) head_wiki - 0.6930876604423118
+
+9) mulatto_wiki - 0.6785119984760283
+
+10) work_wiki - 0.6751003071725563
+
+11) appearance_wiki - 0.6600212252152708
+
+12) mind_wiki - 0.6478922753269848
+
+13) account_wiki - 0.6339700134316193
+
+14) night_wiki - 0.6233200802397787
+
+15) subject_wiki - 0.6211337672988414
+
+16) way_wiki - 0.619514107704167
+
+17) folk_wiki - 0.610111928588864
+
+18) ear_wiki - 0.6041671993832122
+
+19) lot_wiki - 0.5757072486615704
+
+20) misery_wiki - 0.5401314222890996
+
+21) nobody_wiki - 0.5346097391378568
+
+22) thing_wiki - 0.476464776782083
+
+Result for the vector: cotton, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.746774032135136
+
+1) cotton_wiki - 0.746774032135136
+
+2) woman_wiki - 0.7273125377651386
+
+3) family_wiki - 0.7159302492058625
+
+4) man_wiki - 0.7106315148629614
+
+5) mother_wiki - 0.7069544792175494
+
+6) fellow_wiki - 0.6784782026384166
+
+7) reader_wiki - 0.6693784998365641
+
+8) work_wiki - 0.6630165771265765
+
+9) way_wiki - 0.6458624986328287
+
+10) account_wiki - 0.6395074437434067
+
+11) head_wiki - 0.6360940282512965
+
+12) ear_wiki - 0.6226449158960525
+
+13) mind_wiki - 0.6117221250202848
+
+14) night_wiki - 0.6115645899253638
+
+15) appearance_wiki - 0.5991463779385583
+
+16) subject_wiki - 0.5967785716056994
+
+17) mulatto_wiki - 0.5886161187796816
+
+18) folk_wiki - 0.5809006191373651
+
+19) misery_wiki - 0.5478645024138135
+
+20) lot_wiki - 0.5393713324325303
+
+21) nobody_wiki - 0.4918288871936009
+
+22) thing_wiki - 0.4641504841030254
+
+Result for the vector: misery, coming from part a of the book
+Rank: 11 out of 22 characters
+Cosine similarity to the co-referring vector: 0.6737600564956665
+
+1) family_wiki - 0.8401046991348267
+
+2) woman_wiki - 0.7833767637649297
+
+3) mother_wiki - 0.7804743313223976
+
+4) reader_wiki - 0.7567413755347038
+
+5) man_wiki - 0.750742495059967
+
+6) work_wiki - 0.7442927956581116
+
+7) way_wiki - 0.7135510615377998
+
+8) mind_wiki - 0.6986302733421326
+
+9) cotton_wiki - 0.6885320358593497
+
+10) night_wiki - 0.6805167198181152
+
+11) misery_wiki - 0.6737600564956665
+
+12) ear_wiki - 0.6720742583274841
+
+13) fellow_wiki - 0.6663227677345276
+
+14) mulatto_wiki - 0.6627026595296073
+
+15) account_wiki - 0.6612492391093122
+
+16) appearance_wiki - 0.6518445611000061
+
+17) nobody_wiki - 0.6300852674296669
+
+18) lot_wiki - 0.6267761178844014
+
+19) subject_wiki - 0.6201553201490303
+
+20) folk_wiki - 0.6167797446250916
+
+21) thing_wiki - 0.5862088203430176
+
+22) head_wiki - 0.583187018822851
+

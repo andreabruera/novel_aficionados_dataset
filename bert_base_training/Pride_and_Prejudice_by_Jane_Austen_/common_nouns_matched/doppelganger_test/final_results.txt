@@ -1,0 +1,9 @@
+Test: doppelganger test
+Results for: Pride_and_Prejudice_by_Jane_Austen_
+Model used: common nouns matched
+
+Within-novel median: 1.0
+Within-novel average: 1.5344827586206897
+Within-novel MRR: 0.8674329501915709
+Within-novel standard deviation of the scores: 1.4168386037277074
+Amount of entities considered: 29.0

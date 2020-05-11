@@ -1,0 +1,1440 @@
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9426314830780029
+
+1) time_a - 0.9426314830780029
+
+2) age_a - 0.9075648243686678
+
+3) history_a - 0.9059030031475166
+
+4) year_a - 0.9002820908855161
+
+5) way_a - 0.8934696785771528
+
+6) shadow_a - 0.8783988952636719
+
+7) heart_a - 0.8769314215738444
+
+8) word_a - 0.8734552264213562
+
+9) sea_a - 0.8607813549973257
+
+10) storm_a - 0.8527629883744129
+
+11) father_a - 0.8520456044646753
+
+12) street_a - 0.8466392250872136
+
+13) hundred_a - 0.8354192874085493
+
+14) winter_a - 0.8316747445866328
+
+15) husband_a - 0.828170120716095
+
+16) youth_a - 0.8262378080941568
+
+17) authority_a - 0.8150145411491394
+
+18) tree_a - 0.8146483898162842
+
+Result for the vector: way, coming from part i of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9010403575373351
+
+1) way_a - 0.9010403575373351
+
+2) history_a - 0.8858165868843481
+
+3) age_a - 0.8816400170326295
+
+4) heart_a - 0.870119854226095
+
+5) time_a - 0.8593278443412703
+
+6) shadow_a - 0.8433267976836456
+
+7) father_a - 0.8415179252624572
+
+8) year_a - 0.8390542268753112
+
+9) sea_a - 0.8267445254465103
+
+10) word_a - 0.8228062881711907
+
+11) husband_a - 0.8218155993113293
+
+12) street_a - 0.8200028538703976
+
+13) tree_a - 0.7926241035833435
+
+14) youth_a - 0.7896151542663631
+
+15) storm_a - 0.7894429909518946
+
+16) hundred_a - 0.7863247139840978
+
+17) authority_a - 0.7741071447197895
+
+18) winter_a - 0.7708404983091949
+
+Result for the vector: father, coming from part i of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9459061058815671
+
+1) father_a - 0.9459061058815671
+
+2) husband_a - 0.9359389543533325
+
+3) history_a - 0.8556848337368552
+
+4) heart_a - 0.8480636982955768
+
+5) age_a - 0.8480011315345105
+
+6) way_a - 0.846397262382187
+
+7) time_a - 0.8343231678009033
+
+8) shadow_a - 0.8236237168312073
+
+9) year_a - 0.8145415893470308
+
+10) youth_a - 0.8144820443104493
+
+11) word_a - 0.8144148588180542
+
+12) hundred_a - 0.7930293555873262
+
+13) storm_a - 0.7915893072837192
+
+14) street_a - 0.7866374381400696
+
+15) authority_a - 0.7863569855690002
+
+16) sea_a - 0.7802631593064315
+
+17) tree_a - 0.7775537371635437
+
+18) winter_a - 0.754858896425898
+
+Result for the vector: word, coming from part i of the book
+Rank: 8 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8543579150162297
+
+1) heart_a - 0.880294334932318
+
+2) history_a - 0.8757461683296266
+
+3) way_a - 0.8664570470213694
+
+4) age_a - 0.8646103997412539
+
+5) shadow_a - 0.8609798128288851
+
+6) father_a - 0.857171441828363
+
+7) sea_a - 0.8562915323388797
+
+8) word_a - 0.8543579150162297
+
+9) time_a - 0.8512965605822145
+
+10) husband_a - 0.8395572459301904
+
+11) year_a - 0.8388313901076229
+
+12) storm_a - 0.8377070483128802
+
+13) tree_a - 0.8205672044069089
+
+14) street_a - 0.8197900301155548
+
+15) youth_a - 0.8006986022203832
+
+16) authority_a - 0.7895509710506504
+
+17) hundred_a - 0.7867642025298185
+
+18) winter_a - 0.7559575968917607
+
+Result for the vector: street, coming from part i of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.909215336488765
+
+1) street_a - 0.909215336488765
+
+2) age_a - 0.7982788802219118
+
+3) way_a - 0.7881283507500169
+
+4) shadow_a - 0.7851768732070923
+
+5) time_a - 0.7801005840301514
+
+6) history_a - 0.7760892608245578
+
+7) tree_a - 0.7682912349700928
+
+8) sea_a - 0.7583760927171872
+
+9) authority_a - 0.7546629905700684
+
+10) storm_a - 0.7531577797626139
+
+11) heart_a - 0.7462131229766098
+
+12) hundred_a - 0.7364437423016884
+
+13) winter_a - 0.7358949026998832
+
+14) year_a - 0.7347816982995464
+
+15) word_a - 0.7317690253257751
+
+16) father_a - 0.7316802900028069
+
+17) husband_a - 0.7170981168746948
+
+18) youth_a - 0.7041766223802208
+
+Result for the vector: year, coming from part i of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9517529039530233
+
+1) year_a - 0.9517529039530233
+
+2) time_a - 0.8610374331474304
+
+3) hundred_a - 0.859684756975459
+
+4) age_a - 0.8384004331588502
+
+5) way_a - 0.7955772633048667
+
+6) history_a - 0.7920448892156713
+
+7) shadow_a - 0.7907713651657104
+
+8) word_a - 0.7881500124931335
+
+9) heart_a - 0.7837663163999522
+
+10) father_a - 0.7789529097704359
+
+11) storm_a - 0.7666357020518616
+
+12) winter_a - 0.7663869122497401
+
+13) sea_a - 0.7662428338817214
+
+14) husband_a - 0.7641716003417969
+
+15) street_a - 0.7584375883080026
+
+16) authority_a - 0.7429115772247314
+
+17) tree_a - 0.7428939342498779
+
+18) youth_a - 0.7371385254181323
+
+Result for the vector: husband, coming from part i of the book
+Rank: 2 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8850536346435547
+
+1) father_a - 0.895884996897878
+
+2) husband_a - 0.8850536346435547
+
+3) age_a - 0.8030942199770096
+
+4) way_a - 0.8008237243680683
+
+5) history_a - 0.7981578825257347
+
+6) heart_a - 0.7929239745690821
+
+7) time_a - 0.7826766967773438
+
+8) shadow_a - 0.7760515213012695
+
+9) youth_a - 0.7704582351173036
+
+10) word_a - 0.7670390009880066
+
+11) year_a - 0.7667448659691308
+
+12) hundred_a - 0.749687477927655
+
+13) storm_a - 0.7411796892392464
+
+14) authority_a - 0.7375733852386475
+
+15) street_a - 0.7336077252860246
+
+16) sea_a - 0.7307707942451045
+
+17) winter_a - 0.7227674557428049
+
+18) tree_a - 0.7132976055145264
+
+Result for the vector: heart, coming from part i of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8726368102268455
+
+1) heart_a - 0.8726368102268455
+
+2) shadow_a - 0.8614858636583471
+
+3) age_a - 0.855910097143633
+
+4) history_a - 0.8506015970765423
+
+5) father_a - 0.8469080693941011
+
+6) storm_a - 0.840656001489663
+
+7) husband_a - 0.832298666423811
+
+8) time_a - 0.831537694060036
+
+9) way_a - 0.8299792510283809
+
+10) sea_a - 0.827282260222337
+
+11) street_a - 0.8224221891350354
+
+12) year_a - 0.8178809719369536
+
+13) youth_a - 0.8133714644023323
+
+14) word_a - 0.8002348899421421
+
+15) hundred_a - 0.7978257777898803
+
+16) tree_a - 0.7929712308100773
+
+17) winter_a - 0.7912190209366283
+
+18) authority_a - 0.7728025127406519
+
+Result for the vector: shadow, coming from part i of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9088931625421757
+
+1) shadow_a - 0.9088931625421757
+
+2) way_a - 0.8791202686644096
+
+3) history_a - 0.8643904424295492
+
+4) time_a - 0.8612469948081386
+
+5) father_a - 0.861221194267279
+
+6) age_a - 0.8534139990806641
+
+7) heart_a - 0.8534008089781772
+
+8) word_a - 0.8533126028366463
+
+9) husband_a - 0.8532563360486246
+
+10) street_a - 0.8491240739822448
+
+11) storm_a - 0.8431662134130256
+
+12) sea_a - 0.8382484623638041
+
+13) tree_a - 0.8304524916680167
+
+14) authority_a - 0.8282366888664194
+
+15) youth_a - 0.8223325014114439
+
+16) year_a - 0.8200272917747555
+
+17) hundred_a - 0.8124691620432332
+
+18) winter_a - 0.8037645582872103
+
+Result for the vector: tree, coming from part i of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8206609487533569
+
+1) tree_a - 0.8206609487533569
+
+2) shadow_a - 0.7393816709518433
+
+3) street_a - 0.7284249825224304
+
+4) sea_a - 0.716400649118506
+
+5) storm_a - 0.6932034309627683
+
+6) age_a - 0.6836118290655727
+
+7) winter_a - 0.6805152106592197
+
+8) time_a - 0.6621942520141602
+
+9) authority_a - 0.661763608455658
+
+10) history_a - 0.6612145895851808
+
+11) way_a - 0.65994109629883
+
+12) heart_a - 0.6545465382663344
+
+13) father_a - 0.6480975360812237
+
+14) hundred_a - 0.6462483791260957
+
+15) year_a - 0.6445284101648098
+
+16) youth_a - 0.6430226181136013
+
+17) husband_a - 0.6348162293434143
+
+18) word_a - 0.6333149671554565
+
+Result for the vector: sea, coming from part i of the book
+Rank: 2 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8735676031016136
+
+1) shadow_a - 0.8775468249702877
+
+2) sea_a - 0.8735676031016136
+
+3) storm_a - 0.8701335478147444
+
+4) time_a - 0.8590331421553884
+
+5) street_a - 0.8570192881845823
+
+6) way_a - 0.8520945465846513
+
+7) age_a - 0.8516254248172793
+
+8) history_a - 0.8455138090140937
+
+9) father_a - 0.8453604394627382
+
+10) tree_a - 0.8387059876989238
+
+11) heart_a - 0.8385762187424287
+
+12) word_a - 0.8331401645791958
+
+13) husband_a - 0.8215118327460121
+
+14) winter_a - 0.8166899840092678
+
+15) hundred_a - 0.8132404835797566
+
+16) year_a - 0.8099997413158339
+
+17) youth_a - 0.7969820257404108
+
+18) authority_a - 0.7785754999951546
+
+Result for the vector: age, coming from part i of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.7686321597476223
+
+1) age_a - 0.7686321597476223
+
+2) winter_a - 0.7617925575600681
+
+3) shadow_a - 0.7353503984630635
+
+4) time_a - 0.732833055595529
+
+5) way_a - 0.7191734836515149
+
+6) history_a - 0.7179171748584579
+
+7) year_a - 0.697378378950272
+
+8) storm_a - 0.6961349301579483
+
+9) heart_a - 0.6895574372215469
+
+10) hundred_a - 0.6838586957202022
+
+11) sea_a - 0.6837173542302499
+
+12) father_a - 0.681670169929883
+
+13) youth_a - 0.6815965581891978
+
+14) word_a - 0.6735070554622525
+
+15) street_a - 0.671626369454059
+
+16) authority_a - 0.6569716521467794
+
+17) husband_a - 0.6516039552216523
+
+18) tree_a - 0.6361193223141861
+
+Result for the vector: hundred, coming from part i of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8706983327865663
+
+1) hundred_a - 0.8706983327865663
+
+2) year_a - 0.7652529161867003
+
+3) time_a - 0.7241433427248406
+
+4) age_a - 0.7147061568848899
+
+5) street_a - 0.6881615891263975
+
+6) shadow_a - 0.6876962967099979
+
+7) father_a - 0.6830962082032909
+
+8) way_a - 0.675160805890619
+
+9) word_a - 0.6739064649399253
+
+10) history_a - 0.6728814444804697
+
+11) storm_a - 0.6711218953132677
+
+12) husband_a - 0.6672831376026203
+
+13) winter_a - 0.6671200990676928
+
+14) sea_a - 0.6662647525230009
+
+15) tree_a - 0.6618620358787766
+
+16) heart_a - 0.6591311097145127
+
+17) authority_a - 0.6304537278143341
+
+18) youth_a - 0.6259980647566241
+
+Result for the vector: storm, coming from part i of the book
+Rank: 5 out of 18 characters
+Cosine similarity to the co-referring vector: 0.7281943018610154
+
+1) history_a - 0.7601399731802921
+
+2) sea_a - 0.7567613656463305
+
+3) heart_a - 0.7479435874173276
+
+4) year_a - 0.7443315164944108
+
+5) storm_a - 0.7281943018610154
+
+6) age_a - 0.7263634584437799
+
+7) shadow_a - 0.7253619648624056
+
+8) time_a - 0.7221360421817319
+
+9) tree_a - 0.7062172504132169
+
+10) way_a - 0.7058490374459411
+
+11) father_a - 0.7017907887163551
+
+12) youth_a - 0.6964136750574833
+
+13) husband_a - 0.6864932980088385
+
+14) street_a - 0.6748400129425549
+
+15) word_a - 0.6700160107021338
+
+16) hundred_a - 0.6603191489266591
+
+17) winter_a - 0.6478503329620066
+
+18) authority_a - 0.6050509394720479
+
+Result for the vector: authority, coming from part i of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8681626578617891
+
+1) authority_a - 0.8681626578617891
+
+2) word_a - 0.7297907093104935
+
+3) history_a - 0.7247560888238072
+
+4) time_a - 0.7204668140550502
+
+5) age_a - 0.7178869033489583
+
+6) shadow_a - 0.7173181986009541
+
+7) way_a - 0.7159950011961193
+
+8) year_a - 0.7153237844907138
+
+9) youth_a - 0.7110958483488633
+
+10) heart_a - 0.7093694844278235
+
+11) husband_a - 0.7081440302176487
+
+12) father_a - 0.6941219957434565
+
+13) hundred_a - 0.6835369482818501
+
+14) storm_a - 0.6681148411138217
+
+15) street_a - 0.6547612948786853
+
+16) tree_a - 0.651358802657092
+
+17) winter_a - 0.6423167564556086
+
+18) sea_a - 0.6384896991386587
+
+Result for the vector: history, coming from part i of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.6818563355675071
+
+1) history_a - 0.6818563355675071
+
+2) age_a - 0.6755727126853053
+
+3) word_a - 0.6613675951957703
+
+4) time_a - 0.6569100022315979
+
+5) year_a - 0.6550129857651611
+
+6) shadow_a - 0.6542309522628784
+
+7) heart_a - 0.6456395772480724
+
+8) way_a - 0.6455778653118496
+
+9) storm_a - 0.6440651800671339
+
+10) father_a - 0.6378190137255791
+
+11) husband_a - 0.6314429044723511
+
+12) winter_a - 0.6301867145411213
+
+13) hundred_a - 0.6200405728841181
+
+14) street_a - 0.617375456251178
+
+15) youth_a - 0.6170987715066223
+
+16) tree_a - 0.6125214695930481
+
+17) sea_a - 0.6094428431323623
+
+18) authority_a - 0.6092575192451477
+
+Result for the vector: winter, coming from part i of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.7878003824770796
+
+1) winter_a - 0.7878003824770796
+
+2) shadow_a - 0.7379538040743415
+
+3) age_a - 0.7316798945760787
+
+4) time_a - 0.7199727511397828
+
+5) storm_a - 0.7062025105538232
+
+6) sea_a - 0.7001136392524329
+
+7) way_a - 0.6843750304542555
+
+8) history_a - 0.6841526251021189
+
+9) year_a - 0.6736377872932644
+
+10) street_a - 0.6709995069801982
+
+11) heart_a - 0.6608042711738593
+
+12) hundred_a - 0.6590159528567752
+
+13) youth_a - 0.6506289049795623
+
+14) father_a - 0.6438314722826664
+
+15) word_a - 0.6435472560986062
+
+16) tree_a - 0.6381245445646213
+
+17) husband_a - 0.6179068272682081
+
+18) authority_a - 0.6115102950188608
+
+Result for the vector: youth, coming from part i of the book
+Rank: 8 out of 18 characters
+Cosine similarity to the co-referring vector: 0.7735485569507757
+
+1) history_a - 0.816793455194845
+
+2) age_a - 0.792233777509108
+
+3) father_a - 0.7886803276133356
+
+4) heart_a - 0.7873875372044778
+
+5) sea_a - 0.7809219099190183
+
+6) year_a - 0.7796553504672451
+
+7) husband_a - 0.7774260640144348
+
+8) youth_a - 0.7735485569507757
+
+9) time_a - 0.7715897560119629
+
+10) way_a - 0.7655607778502492
+
+11) shadow_a - 0.7507522702217102
+
+12) tree_a - 0.7430874109268188
+
+13) word_a - 0.7328929901123047
+
+14) storm_a - 0.7093822186817074
+
+15) street_a - 0.7075229461477444
+
+16) authority_a - 0.6964813470840454
+
+17) hundred_a - 0.6881124191351199
+
+18) winter_a - 0.6637607612467278
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9426314830780029
+
+1) time_wiki - 0.9426314830780029
+
+2) shadow_wiki - 0.8612469948081386
+
+3) year_wiki - 0.8610374331474304
+
+4) way_wiki - 0.8593278443412703
+
+5) sea_wiki - 0.8590331421553884
+
+6) word_wiki - 0.8512965605822145
+
+7) father_wiki - 0.8343231678009033
+
+8) heart_wiki - 0.831537694060036
+
+9) husband_wiki - 0.7826766967773438
+
+10) street_wiki - 0.7801005840301514
+
+11) youth_wiki - 0.7715897560119629
+
+12) age_wiki - 0.732833055595529
+
+13) hundred_wiki - 0.7241433427248406
+
+14) storm_wiki - 0.7221360421817319
+
+15) authority_wiki - 0.7204668140550502
+
+16) winter_wiki - 0.7199727511397828
+
+17) tree_wiki - 0.6621942520141602
+
+18) history_wiki - 0.6569100022315979
+
+Result for the vector: way, coming from part a of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9010403575373351
+
+1) way_wiki - 0.9010403575373351
+
+2) time_wiki - 0.8934696785771528
+
+3) shadow_wiki - 0.8791202686644096
+
+4) word_wiki - 0.8664570470213694
+
+5) sea_wiki - 0.8520945465846513
+
+6) father_wiki - 0.846397262382187
+
+7) heart_wiki - 0.8299792510283809
+
+8) husband_wiki - 0.8008237243680683
+
+9) year_wiki - 0.7955772633048667
+
+10) street_wiki - 0.7881283507500169
+
+11) youth_wiki - 0.7655607778502492
+
+12) age_wiki - 0.7191734836515149
+
+13) authority_wiki - 0.7159950011961193
+
+14) storm_wiki - 0.7058490374459411
+
+15) winter_wiki - 0.6843750304542555
+
+16) hundred_wiki - 0.675160805890619
+
+17) tree_wiki - 0.65994109629883
+
+18) history_wiki - 0.6455778653118496
+
+Result for the vector: father, coming from part a of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9459061058815671
+
+1) father_wiki - 0.9459061058815671
+
+2) husband_wiki - 0.895884996897878
+
+3) shadow_wiki - 0.861221194267279
+
+4) word_wiki - 0.857171441828363
+
+5) time_wiki - 0.8520456044646753
+
+6) heart_wiki - 0.8469080693941011
+
+7) sea_wiki - 0.8453604394627382
+
+8) way_wiki - 0.8415179252624572
+
+9) youth_wiki - 0.7886803276133356
+
+10) year_wiki - 0.7789529097704359
+
+11) street_wiki - 0.7316802900028069
+
+12) storm_wiki - 0.7017907887163551
+
+13) authority_wiki - 0.6941219957434565
+
+14) hundred_wiki - 0.6830962082032909
+
+15) age_wiki - 0.681670169929883
+
+16) tree_wiki - 0.6480975360812237
+
+17) winter_wiki - 0.6438314722826664
+
+18) history_wiki - 0.6378190137255791
+
+Result for the vector: word, coming from part a of the book
+Rank: 2 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8543579150162297
+
+1) time_wiki - 0.8734552264213562
+
+2) word_wiki - 0.8543579150162297
+
+3) shadow_wiki - 0.8533126028366463
+
+4) sea_wiki - 0.8331401645791958
+
+5) way_wiki - 0.8228062881711907
+
+6) father_wiki - 0.8144148588180542
+
+7) heart_wiki - 0.8002348899421421
+
+8) year_wiki - 0.7881500124931335
+
+9) husband_wiki - 0.7670390009880066
+
+10) youth_wiki - 0.7328929901123047
+
+11) street_wiki - 0.7317690253257751
+
+12) authority_wiki - 0.7297907093104935
+
+13) hundred_wiki - 0.6739064649399253
+
+14) age_wiki - 0.6735070554622525
+
+15) storm_wiki - 0.6700160107021338
+
+16) history_wiki - 0.6613675951957703
+
+17) winter_wiki - 0.6435472560986062
+
+18) tree_wiki - 0.6333149671554565
+
+Result for the vector: street, coming from part a of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.909215336488765
+
+1) street_wiki - 0.909215336488765
+
+2) sea_wiki - 0.8570192881845823
+
+3) shadow_wiki - 0.8491240739822448
+
+4) time_wiki - 0.8466392250872136
+
+5) heart_wiki - 0.8224221891350354
+
+6) way_wiki - 0.8200028538703976
+
+7) word_wiki - 0.8197900301155548
+
+8) father_wiki - 0.7866374381400696
+
+9) year_wiki - 0.7584375883080026
+
+10) husband_wiki - 0.7336077252860246
+
+11) tree_wiki - 0.7284249825224304
+
+12) youth_wiki - 0.7075229461477444
+
+13) hundred_wiki - 0.6881615891263975
+
+14) storm_wiki - 0.6748400129425549
+
+15) age_wiki - 0.671626369454059
+
+16) winter_wiki - 0.6709995069801982
+
+17) authority_wiki - 0.6547612948786853
+
+18) history_wiki - 0.617375456251178
+
+Result for the vector: year, coming from part a of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9517529039530233
+
+1) year_wiki - 0.9517529039530233
+
+2) time_wiki - 0.9002820908855161
+
+3) way_wiki - 0.8390542268753112
+
+4) word_wiki - 0.8388313901076229
+
+5) shadow_wiki - 0.8200272917747555
+
+6) heart_wiki - 0.8178809719369536
+
+7) father_wiki - 0.8145415893470308
+
+8) sea_wiki - 0.8099997413158339
+
+9) youth_wiki - 0.7796553504672451
+
+10) husband_wiki - 0.7667448659691308
+
+11) hundred_wiki - 0.7652529161867003
+
+12) storm_wiki - 0.7443315164944108
+
+13) street_wiki - 0.7347816982995464
+
+14) authority_wiki - 0.7153237844907138
+
+15) age_wiki - 0.697378378950272
+
+16) winter_wiki - 0.6736377872932644
+
+17) history_wiki - 0.6550129857651611
+
+18) tree_wiki - 0.6445284101648098
+
+Result for the vector: husband, coming from part a of the book
+Rank: 2 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8850536346435547
+
+1) father_wiki - 0.9359389543533325
+
+2) husband_wiki - 0.8850536346435547
+
+3) shadow_wiki - 0.8532563360486246
+
+4) word_wiki - 0.8395572459301904
+
+5) heart_wiki - 0.832298666423811
+
+6) time_wiki - 0.828170120716095
+
+7) way_wiki - 0.8218155993113293
+
+8) sea_wiki - 0.8215118327460121
+
+9) youth_wiki - 0.7774260640144348
+
+10) year_wiki - 0.7641716003417969
+
+11) street_wiki - 0.7170981168746948
+
+12) authority_wiki - 0.7081440302176487
+
+13) storm_wiki - 0.6864932980088385
+
+14) hundred_wiki - 0.6672831376026203
+
+15) age_wiki - 0.6516039552216523
+
+16) tree_wiki - 0.6348162293434143
+
+17) history_wiki - 0.6314429044723511
+
+18) winter_wiki - 0.6179068272682081
+
+Result for the vector: heart, coming from part a of the book
+Rank: 3 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8726368102268455
+
+1) word_wiki - 0.880294334932318
+
+2) time_wiki - 0.8769314215738444
+
+3) heart_wiki - 0.8726368102268455
+
+4) way_wiki - 0.870119854226095
+
+5) shadow_wiki - 0.8534008089781772
+
+6) father_wiki - 0.8480636982955768
+
+7) sea_wiki - 0.8385762187424287
+
+8) husband_wiki - 0.7929239745690821
+
+9) youth_wiki - 0.7873875372044778
+
+10) year_wiki - 0.7837663163999522
+
+11) storm_wiki - 0.7479435874173276
+
+12) street_wiki - 0.7462131229766098
+
+13) authority_wiki - 0.7093694844278235
+
+14) age_wiki - 0.6895574372215469
+
+15) winter_wiki - 0.6608042711738593
+
+16) hundred_wiki - 0.6591311097145127
+
+17) tree_wiki - 0.6545465382663344
+
+18) history_wiki - 0.6456395772480724
+
+Result for the vector: shadow, coming from part a of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9088931625421757
+
+1) shadow_wiki - 0.9088931625421757
+
+2) time_wiki - 0.8783988952636719
+
+3) sea_wiki - 0.8775468249702877
+
+4) heart_wiki - 0.8614858636583471
+
+5) word_wiki - 0.8609798128288851
+
+6) way_wiki - 0.8433267976836456
+
+7) father_wiki - 0.8236237168312073
+
+8) year_wiki - 0.7907713651657104
+
+9) street_wiki - 0.7851768732070923
+
+10) husband_wiki - 0.7760515213012695
+
+11) youth_wiki - 0.7507522702217102
+
+12) tree_wiki - 0.7393816709518433
+
+13) winter_wiki - 0.7379538040743415
+
+14) age_wiki - 0.7353503984630635
+
+15) storm_wiki - 0.7253619648624056
+
+16) authority_wiki - 0.7173181986009541
+
+17) hundred_wiki - 0.6876962967099979
+
+18) history_wiki - 0.6542309522628784
+
+Result for the vector: tree, coming from part a of the book
+Rank: 3 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8206609487533569
+
+1) sea_wiki - 0.8387059876989238
+
+2) shadow_wiki - 0.8304524916680167
+
+3) tree_wiki - 0.8206609487533569
+
+4) word_wiki - 0.8205672044069089
+
+5) time_wiki - 0.8146483898162842
+
+6) heart_wiki - 0.7929712308100773
+
+7) way_wiki - 0.7926241035833435
+
+8) father_wiki - 0.7775537371635437
+
+9) street_wiki - 0.7682912349700928
+
+10) youth_wiki - 0.7430874109268188
+
+11) year_wiki - 0.7428939342498779
+
+12) husband_wiki - 0.7132976055145264
+
+13) storm_wiki - 0.7062172504132169
+
+14) hundred_wiki - 0.6618620358787766
+
+15) authority_wiki - 0.651358802657092
+
+16) winter_wiki - 0.6381245445646213
+
+17) age_wiki - 0.6361193223141861
+
+18) history_wiki - 0.6125214695930481
+
+Result for the vector: sea, coming from part a of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8735676031016136
+
+1) sea_wiki - 0.8735676031016136
+
+2) time_wiki - 0.8607813549973257
+
+3) word_wiki - 0.8562915323388797
+
+4) shadow_wiki - 0.8382484623638041
+
+5) heart_wiki - 0.827282260222337
+
+6) way_wiki - 0.8267445254465103
+
+7) youth_wiki - 0.7809219099190183
+
+8) father_wiki - 0.7802631593064315
+
+9) year_wiki - 0.7662428338817214
+
+10) street_wiki - 0.7583760927171872
+
+11) storm_wiki - 0.7567613656463305
+
+12) husband_wiki - 0.7307707942451045
+
+13) tree_wiki - 0.716400649118506
+
+14) winter_wiki - 0.7001136392524329
+
+15) age_wiki - 0.6837173542302499
+
+16) hundred_wiki - 0.6662647525230009
+
+17) authority_wiki - 0.6384896991386587
+
+18) history_wiki - 0.6094428431323623
+
+Result for the vector: age, coming from part a of the book
+Rank: 12 out of 18 characters
+Cosine similarity to the co-referring vector: 0.7686321597476223
+
+1) time_wiki - 0.9075648243686678
+
+2) way_wiki - 0.8816400170326295
+
+3) word_wiki - 0.8646103997412539
+
+4) heart_wiki - 0.855910097143633
+
+5) shadow_wiki - 0.8534139990806641
+
+6) sea_wiki - 0.8516254248172793
+
+7) father_wiki - 0.8480011315345105
+
+8) year_wiki - 0.8384004331588502
+
+9) husband_wiki - 0.8030942199770096
+
+10) street_wiki - 0.7982788802219118
+
+11) youth_wiki - 0.792233777509108
+
+12) age_wiki - 0.7686321597476223
+
+13) winter_wiki - 0.7316798945760787
+
+14) storm_wiki - 0.7263634584437799
+
+15) authority_wiki - 0.7178869033489583
+
+16) hundred_wiki - 0.7147061568848899
+
+17) tree_wiki - 0.6836118290655727
+
+18) history_wiki - 0.6755727126853053
+
+Result for the vector: hundred, coming from part a of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8706983327865663
+
+1) hundred_wiki - 0.8706983327865663
+
+2) year_wiki - 0.859684756975459
+
+3) time_wiki - 0.8354192874085493
+
+4) sea_wiki - 0.8132404835797566
+
+5) shadow_wiki - 0.8124691620432332
+
+6) heart_wiki - 0.7978257777898803
+
+7) father_wiki - 0.7930293555873262
+
+8) word_wiki - 0.7867642025298185
+
+9) way_wiki - 0.7863247139840978
+
+10) husband_wiki - 0.749687477927655
+
+11) street_wiki - 0.7364437423016884
+
+12) youth_wiki - 0.6881124191351199
+
+13) age_wiki - 0.6838586957202022
+
+14) authority_wiki - 0.6835369482818501
+
+15) storm_wiki - 0.6603191489266591
+
+16) winter_wiki - 0.6590159528567752
+
+17) tree_wiki - 0.6462483791260957
+
+18) history_wiki - 0.6200405728841181
+
+Result for the vector: storm, coming from part a of the book
+Rank: 11 out of 18 characters
+Cosine similarity to the co-referring vector: 0.7281943018610154
+
+1) sea_wiki - 0.8701335478147444
+
+2) time_wiki - 0.8527629883744129
+
+3) shadow_wiki - 0.8431662134130256
+
+4) heart_wiki - 0.840656001489663
+
+5) word_wiki - 0.8377070483128802
+
+6) father_wiki - 0.7915893072837192
+
+7) way_wiki - 0.7894429909518946
+
+8) year_wiki - 0.7666357020518616
+
+9) street_wiki - 0.7531577797626139
+
+10) husband_wiki - 0.7411796892392464
+
+11) storm_wiki - 0.7281943018610154
+
+12) youth_wiki - 0.7093822186817074
+
+13) winter_wiki - 0.7062025105538232
+
+14) age_wiki - 0.6961349301579483
+
+15) tree_wiki - 0.6932034309627683
+
+16) hundred_wiki - 0.6711218953132677
+
+17) authority_wiki - 0.6681148411138217
+
+18) history_wiki - 0.6440651800671339
+
+Result for the vector: authority, coming from part a of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8681626578617891
+
+1) authority_wiki - 0.8681626578617891
+
+2) shadow_wiki - 0.8282366888664194
+
+3) time_wiki - 0.8150145411491394
+
+4) word_wiki - 0.7895509710506504
+
+5) father_wiki - 0.7863569855690002
+
+6) sea_wiki - 0.7785754999951546
+
+7) way_wiki - 0.7741071447197895
+
+8) heart_wiki - 0.7728025127406519
+
+9) street_wiki - 0.7546629905700684
+
+10) year_wiki - 0.7429115772247314
+
+11) husband_wiki - 0.7375733852386475
+
+12) youth_wiki - 0.6964813470840454
+
+13) tree_wiki - 0.661763608455658
+
+14) age_wiki - 0.6569716521467794
+
+15) hundred_wiki - 0.6304537278143341
+
+16) winter_wiki - 0.6115102950188608
+
+17) history_wiki - 0.6092575192451477
+
+18) storm_wiki - 0.6050509394720479
+
+Result for the vector: history, coming from part a of the book
+Rank: 16 out of 18 characters
+Cosine similarity to the co-referring vector: 0.6818563355675071
+
+1) time_wiki - 0.9059030031475166
+
+2) way_wiki - 0.8858165868843481
+
+3) word_wiki - 0.8757461683296266
+
+4) shadow_wiki - 0.8643904424295492
+
+5) father_wiki - 0.8556848337368552
+
+6) heart_wiki - 0.8506015970765423
+
+7) sea_wiki - 0.8455138090140937
+
+8) youth_wiki - 0.816793455194845
+
+9) husband_wiki - 0.7981578825257347
+
+10) year_wiki - 0.7920448892156713
+
+11) street_wiki - 0.7760892608245578
+
+12) storm_wiki - 0.7601399731802921
+
+13) authority_wiki - 0.7247560888238072
+
+14) age_wiki - 0.7179171748584579
+
+15) winter_wiki - 0.6841526251021189
+
+16) history_wiki - 0.6818563355675071
+
+17) hundred_wiki - 0.6728814444804697
+
+18) tree_wiki - 0.6612145895851808
+
+Result for the vector: winter, coming from part a of the book
+Rank: 5 out of 18 characters
+Cosine similarity to the co-referring vector: 0.7878003824770796
+
+1) time_wiki - 0.8316747445866328
+
+2) sea_wiki - 0.8166899840092678
+
+3) shadow_wiki - 0.8037645582872103
+
+4) heart_wiki - 0.7912190209366283
+
+5) winter_wiki - 0.7878003824770796
+
+6) way_wiki - 0.7708404983091949
+
+7) year_wiki - 0.7663869122497401
+
+8) age_wiki - 0.7617925575600681
+
+9) word_wiki - 0.7559575968917607
+
+10) father_wiki - 0.754858896425898
+
+11) street_wiki - 0.7358949026998832
+
+12) husband_wiki - 0.7227674557428049
+
+13) tree_wiki - 0.6805152106592197
+
+14) hundred_wiki - 0.6671200990676928
+
+15) youth_wiki - 0.6637607612467278
+
+16) storm_wiki - 0.6478503329620066
+
+17) authority_wiki - 0.6423167564556086
+
+18) history_wiki - 0.6301867145411213
+
+Result for the vector: youth, coming from part a of the book
+Rank: 8 out of 18 characters
+Cosine similarity to the co-referring vector: 0.7735485569507757
+
+1) time_wiki - 0.8262378080941568
+
+2) shadow_wiki - 0.8223325014114439
+
+3) father_wiki - 0.8144820443104493
+
+4) heart_wiki - 0.8133714644023323
+
+5) word_wiki - 0.8006986022203832
+
+6) sea_wiki - 0.7969820257404108
+
+7) way_wiki - 0.7896151542663631
+
+8) youth_wiki - 0.7735485569507757
+
+9) husband_wiki - 0.7704582351173036
+
+10) year_wiki - 0.7371385254181323
+
+11) authority_wiki - 0.7110958483488633
+
+12) street_wiki - 0.7041766223802208
+
+13) storm_wiki - 0.6964136750574833
+
+14) age_wiki - 0.6815965581891978
+
+15) winter_wiki - 0.6506289049795623
+
+16) tree_wiki - 0.6430226181136013
+
+17) hundred_wiki - 0.6259980647566241
+
+18) history_wiki - 0.6170987715066223
+

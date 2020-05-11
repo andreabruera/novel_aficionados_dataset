@@ -1,0 +1,140 @@
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8739959672691857
+
+1) man_a - 0.8739959672691857
+
+2) illustration_a - 0.8286819764348325
+
+3) sea_a - 0.8188155509453355
+
+4) revelation_a - 0.8051060670487801
+
+5) year_a - 0.7666976451873834
+
+Result for the vector: year, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8622793473171814
+
+1) year_a - 0.8622793473171814
+
+2) illustration_a - 0.8055277698603008
+
+3) man_a - 0.7766796350479126
+
+4) revelation_a - 0.7578075076456376
+
+5) sea_a - 0.7515176086713322
+
+Result for the vector: illustration, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.7007170497943841
+
+1) illustration_a - 0.7007170497943841
+
+2) man_a - 0.6756176159153959
+
+3) sea_a - 0.6504247188568162
+
+4) revelation_a - 0.6456250548362777
+
+5) year_a - 0.623089566599079
+
+Result for the vector: sea, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.6314547281590277
+
+1) sea_a - 0.6314547281590277
+
+2) illustration_a - 0.6282007541417222
+
+3) man_a - 0.5766481757164001
+
+4) year_a - 0.5312441904094342
+
+5) revelation_a - 0.5153374364770996
+
+Result for the vector: revelation, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8068946715060087
+
+1) revelation_a - 0.8068946715060087
+
+2) illustration_a - 0.787975872996351
+
+3) man_a - 0.7723453044891357
+
+4) year_a - 0.7483612745023547
+
+5) sea_a - 0.7449128779820886
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8739959672691857
+
+1) man_wiki - 0.8739959672691857
+
+2) year_wiki - 0.7766796350479126
+
+3) revelation_wiki - 0.7723453044891357
+
+4) illustration_wiki - 0.6756176159153959
+
+5) sea_wiki - 0.5766481757164001
+
+Result for the vector: year, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8622793473171814
+
+1) year_wiki - 0.8622793473171814
+
+2) man_wiki - 0.7666976451873834
+
+3) revelation_wiki - 0.7483612745023547
+
+4) illustration_wiki - 0.623089566599079
+
+5) sea_wiki - 0.5312441904094342
+
+Result for the vector: illustration, coming from part a of the book
+Rank: 4 out of 5 characters
+Cosine similarity to the co-referring vector: 0.7007170497943841
+
+1) man_wiki - 0.8286819764348325
+
+2) year_wiki - 0.8055277698603008
+
+3) revelation_wiki - 0.787975872996351
+
+4) illustration_wiki - 0.7007170497943841
+
+5) sea_wiki - 0.6282007541417222
+
+Result for the vector: sea, coming from part a of the book
+Rank: 5 out of 5 characters
+Cosine similarity to the co-referring vector: 0.6314547281590277
+
+1) man_wiki - 0.8188155509453355
+
+2) year_wiki - 0.7515176086713322
+
+3) revelation_wiki - 0.7449128779820886
+
+4) illustration_wiki - 0.6504247188568162
+
+5) sea_wiki - 0.6314547281590277
+
+Result for the vector: revelation, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8068946715060087
+
+1) revelation_wiki - 0.8068946715060087
+
+2) man_wiki - 0.8051060670487801
+
+3) year_wiki - 0.7578075076456376
+
+4) illustration_wiki - 0.6456250548362777
+
+5) sea_wiki - 0.5153374364770996
+

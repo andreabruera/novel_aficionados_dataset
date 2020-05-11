@@ -1,0 +1,572 @@
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8735639452934327
+
+1) day_a - 0.8735639452934327
+
+2) master_a - 0.789997649788998
+
+3) school_a - 0.7722845213243664
+
+4) aid_a - 0.7675974597811027
+
+5) servant_a - 0.7667481442243981
+
+6) parent_a - 0.7627943016764227
+
+7) son_a - 0.7579401279723581
+
+8) woman_a - 0.7573115374260238
+
+9) fire_a - 0.7485564054779523
+
+10) account_a - 0.7457396539604884
+
+11) sea_a - 0.7100619250499067
+
+Result for the vector: fire, coming from part i of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8096194494224251
+
+1) fire_a - 0.8096194494224251
+
+2) servant_a - 0.774030698893626
+
+3) master_a - 0.7664505382507733
+
+4) school_a - 0.7655437728438527
+
+5) aid_a - 0.7636410225522907
+
+6) day_a - 0.75074446201325
+
+7) sea_a - 0.7376637019119453
+
+8) woman_a - 0.7352584758246866
+
+9) account_a - 0.732863442131077
+
+10) parent_a - 0.7327791293131903
+
+11) son_a - 0.7249746486559733
+
+Result for the vector: woman, coming from part i of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9124661788384766
+
+1) woman_a - 0.9124661788384766
+
+2) servant_a - 0.863867537514271
+
+3) master_a - 0.8434666581789723
+
+4) son_a - 0.8147830587884175
+
+5) parent_a - 0.8047200441360702
+
+6) fire_a - 0.794448472062028
+
+7) aid_a - 0.7809482580140922
+
+8) school_a - 0.7800598406720407
+
+9) day_a - 0.775080515439492
+
+10) sea_a - 0.7372237161131296
+
+11) account_a - 0.7344674188533574
+
+Result for the vector: school, coming from part i of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9175178457785953
+
+1) school_a - 0.9175178457785953
+
+2) parent_a - 0.8499621659494874
+
+3) master_a - 0.849636206052531
+
+4) day_a - 0.8379632234573424
+
+5) servant_a - 0.8343886235720754
+
+6) son_a - 0.8336943487111137
+
+7) woman_a - 0.8256335958460825
+
+8) aid_a - 0.8201843744571412
+
+9) fire_a - 0.8175481179299214
+
+10) account_a - 0.8010314225535751
+
+11) sea_a - 0.7438858900138219
+
+Result for the vector: master, coming from part i of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8277050955471354
+
+1) master_a - 0.8277050955471354
+
+2) son_a - 0.7978151561131994
+
+3) servant_a - 0.7836224565731029
+
+4) woman_a - 0.7582699800568844
+
+5) fire_a - 0.7289949978595974
+
+6) parent_a - 0.7286298709291259
+
+7) school_a - 0.7285712523119908
+
+8) aid_a - 0.7274144508664228
+
+9) account_a - 0.7039422569309333
+
+10) day_a - 0.6947196125984241
+
+11) sea_a - 0.6466727467374368
+
+Result for the vector: servant, coming from part i of the book
+Rank: 5 out of 11 characters
+Cosine similarity to the co-referring vector: 0.7921008119463009
+
+1) son_a - 0.8135925157555977
+
+2) parent_a - 0.8078050017357102
+
+3) woman_a - 0.8034963842038707
+
+4) master_a - 0.7936067231170325
+
+5) servant_a - 0.7921008119463009
+
+6) school_a - 0.7694313204966456
+
+7) day_a - 0.751586154008749
+
+8) fire_a - 0.7397864926243153
+
+9) aid_a - 0.7375073809174644
+
+10) account_a - 0.7264946429139852
+
+11) sea_a - 0.6286060060732402
+
+Result for the vector: account, coming from part i of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.747587040210544
+
+1) account_a - 0.747587040210544
+
+2) master_a - 0.7178554703083366
+
+3) aid_a - 0.7116191599255629
+
+4) parent_a - 0.7110768980429821
+
+5) son_a - 0.7062349494555635
+
+6) school_a - 0.6961041870055099
+
+7) day_a - 0.683893322944646
+
+8) servant_a - 0.6602795922589557
+
+9) woman_a - 0.6576013769148972
+
+10) fire_a - 0.63405285667743
+
+11) sea_a - 0.5952014568328
+
+Result for the vector: aid, coming from part i of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.6985251544147927
+
+1) aid_a - 0.6985251544147927
+
+2) master_a - 0.6780691348930938
+
+3) son_a - 0.6718930206266949
+
+4) account_a - 0.6565169291650337
+
+5) parent_a - 0.6564802909613116
+
+6) servant_a - 0.6417561960743727
+
+7) school_a - 0.6301971265732389
+
+8) woman_a - 0.6149558012174311
+
+9) fire_a - 0.608187836164601
+
+10) day_a - 0.59809696061286
+
+11) sea_a - 0.513238862551417
+
+Result for the vector: sea, coming from part i of the book
+Rank: 11 out of 11 characters
+Cosine similarity to the co-referring vector: 0.46468156576156616
+
+1) day_a - 0.5798401582145796
+
+2) son_a - 0.5778076648712158
+
+3) fire_a - 0.5393469012172887
+
+4) school_a - 0.5392869710922241
+
+5) parent_a - 0.5369474335846264
+
+6) woman_a - 0.533380389213562
+
+7) master_a - 0.5057127475738525
+
+8) servant_a - 0.5032072067260742
+
+9) account_a - 0.4976663589477539
+
+10) aid_a - 0.4775739739156361
+
+11) sea_a - 0.46468156576156616
+
+Result for the vector: parent, coming from part i of the book
+Rank: 2 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8401452708417559
+
+1) master_a - 0.8442121744155884
+
+2) parent_a - 0.8401452708417559
+
+3) son_a - 0.818457305431366
+
+4) aid_a - 0.8053147916777278
+
+5) woman_a - 0.8040130138397217
+
+6) servant_a - 0.8003289699554443
+
+7) school_a - 0.7756402492523193
+
+8) day_a - 0.7525654883721775
+
+9) fire_a - 0.7434297356945447
+
+10) account_a - 0.7278397083282471
+
+11) sea_a - 0.6802698969841003
+
+Result for the vector: son, coming from part i of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.7516812086105347
+
+1) son_a - 0.7516812086105347
+
+2) parent_a - 0.751115411652977
+
+3) master_a - 0.7458381056785583
+
+4) woman_a - 0.7264154553413391
+
+5) aid_a - 0.7236948660339324
+
+6) school_a - 0.7001165747642517
+
+7) day_a - 0.699705463630288
+
+8) servant_a - 0.6994721293449402
+
+9) account_a - 0.6800671815872192
+
+10) fire_a - 0.6769991113544052
+
+11) sea_a - 0.6426174640655518
+
+Result for the vector: day, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8735639452934327
+
+1) day_wiki - 0.8735639452934327
+
+2) school_wiki - 0.8379632234573424
+
+3) woman_wiki - 0.775080515439492
+
+4) parent_wiki - 0.7525654883721775
+
+5) servant_wiki - 0.751586154008749
+
+6) fire_wiki - 0.75074446201325
+
+7) son_wiki - 0.699705463630288
+
+8) master_wiki - 0.6947196125984241
+
+9) account_wiki - 0.683893322944646
+
+10) aid_wiki - 0.59809696061286
+
+11) sea_wiki - 0.5798401582145796
+
+Result for the vector: fire, coming from part a of the book
+Rank: 2 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8096194494224251
+
+1) school_wiki - 0.8175481179299214
+
+2) fire_wiki - 0.8096194494224251
+
+3) woman_wiki - 0.794448472062028
+
+4) day_wiki - 0.7485564054779523
+
+5) parent_wiki - 0.7434297356945447
+
+6) servant_wiki - 0.7397864926243153
+
+7) master_wiki - 0.7289949978595974
+
+8) son_wiki - 0.6769991113544052
+
+9) account_wiki - 0.63405285667743
+
+10) aid_wiki - 0.608187836164601
+
+11) sea_wiki - 0.5393469012172887
+
+Result for the vector: woman, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9124661788384766
+
+1) woman_wiki - 0.9124661788384766
+
+2) school_wiki - 0.8256335958460825
+
+3) parent_wiki - 0.8040130138397217
+
+4) servant_wiki - 0.8034963842038707
+
+5) master_wiki - 0.7582699800568844
+
+6) day_wiki - 0.7573115374260238
+
+7) fire_wiki - 0.7352584758246866
+
+8) son_wiki - 0.7264154553413391
+
+9) account_wiki - 0.6576013769148972
+
+10) aid_wiki - 0.6149558012174311
+
+11) sea_wiki - 0.533380389213562
+
+Result for the vector: school, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9175178457785953
+
+1) school_wiki - 0.9175178457785953
+
+2) woman_wiki - 0.7800598406720407
+
+3) parent_wiki - 0.7756402492523193
+
+4) day_wiki - 0.7722845213243664
+
+5) servant_wiki - 0.7694313204966456
+
+6) fire_wiki - 0.7655437728438527
+
+7) master_wiki - 0.7285712523119908
+
+8) son_wiki - 0.7001165747642517
+
+9) account_wiki - 0.6961041870055099
+
+10) aid_wiki - 0.6301971265732389
+
+11) sea_wiki - 0.5392869710922241
+
+Result for the vector: master, coming from part a of the book
+Rank: 4 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8277050955471354
+
+1) school_wiki - 0.849636206052531
+
+2) parent_wiki - 0.8442121744155884
+
+3) woman_wiki - 0.8434666581789723
+
+4) master_wiki - 0.8277050955471354
+
+5) servant_wiki - 0.7936067231170325
+
+6) day_wiki - 0.789997649788998
+
+7) fire_wiki - 0.7664505382507733
+
+8) son_wiki - 0.7458381056785583
+
+9) account_wiki - 0.7178554703083366
+
+10) aid_wiki - 0.6780691348930938
+
+11) sea_wiki - 0.5057127475738525
+
+Result for the vector: servant, coming from part a of the book
+Rank: 4 out of 11 characters
+Cosine similarity to the co-referring vector: 0.7921008119463009
+
+1) woman_wiki - 0.863867537514271
+
+2) school_wiki - 0.8343886235720754
+
+3) parent_wiki - 0.8003289699554443
+
+4) servant_wiki - 0.7921008119463009
+
+5) master_wiki - 0.7836224565731029
+
+6) fire_wiki - 0.774030698893626
+
+7) day_wiki - 0.7667481442243981
+
+8) son_wiki - 0.6994721293449402
+
+9) account_wiki - 0.6602795922589557
+
+10) aid_wiki - 0.6417561960743727
+
+11) sea_wiki - 0.5032072067260742
+
+Result for the vector: account, coming from part a of the book
+Rank: 2 out of 11 characters
+Cosine similarity to the co-referring vector: 0.747587040210544
+
+1) school_wiki - 0.8010314225535751
+
+2) account_wiki - 0.747587040210544
+
+3) day_wiki - 0.7457396539604884
+
+4) woman_wiki - 0.7344674188533574
+
+5) fire_wiki - 0.732863442131077
+
+6) parent_wiki - 0.7278397083282471
+
+7) servant_wiki - 0.7264946429139852
+
+8) master_wiki - 0.7039422569309333
+
+9) son_wiki - 0.6800671815872192
+
+10) aid_wiki - 0.6565169291650337
+
+11) sea_wiki - 0.4976663589477539
+
+Result for the vector: aid, coming from part a of the book
+Rank: 10 out of 11 characters
+Cosine similarity to the co-referring vector: 0.6985251544147927
+
+1) school_wiki - 0.8201843744571412
+
+2) parent_wiki - 0.8053147916777278
+
+3) woman_wiki - 0.7809482580140922
+
+4) day_wiki - 0.7675974597811027
+
+5) fire_wiki - 0.7636410225522907
+
+6) servant_wiki - 0.7375073809174644
+
+7) master_wiki - 0.7274144508664228
+
+8) son_wiki - 0.7236948660339324
+
+9) account_wiki - 0.7116191599255629
+
+10) aid_wiki - 0.6985251544147927
+
+11) sea_wiki - 0.4775739739156361
+
+Result for the vector: sea, coming from part a of the book
+Rank: 11 out of 11 characters
+Cosine similarity to the co-referring vector: 0.46468156576156616
+
+1) school_wiki - 0.7438858900138219
+
+2) fire_wiki - 0.7376637019119453
+
+3) woman_wiki - 0.7372237161131296
+
+4) day_wiki - 0.7100619250499067
+
+5) parent_wiki - 0.6802698969841003
+
+6) master_wiki - 0.6466727467374368
+
+7) son_wiki - 0.6426174640655518
+
+8) servant_wiki - 0.6286060060732402
+
+9) account_wiki - 0.5952014568328
+
+10) aid_wiki - 0.513238862551417
+
+11) sea_wiki - 0.46468156576156616
+
+Result for the vector: parent, coming from part a of the book
+Rank: 2 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8401452708417559
+
+1) school_wiki - 0.8499621659494874
+
+2) parent_wiki - 0.8401452708417559
+
+3) servant_wiki - 0.8078050017357102
+
+4) woman_wiki - 0.8047200441360702
+
+5) day_wiki - 0.7627943016764227
+
+6) son_wiki - 0.751115411652977
+
+7) fire_wiki - 0.7327791293131903
+
+8) master_wiki - 0.7286298709291259
+
+9) account_wiki - 0.7110768980429821
+
+10) aid_wiki - 0.6564802909613116
+
+11) sea_wiki - 0.5369474335846264
+
+Result for the vector: son, coming from part a of the book
+Rank: 7 out of 11 characters
+Cosine similarity to the co-referring vector: 0.7516812086105347
+
+1) school_wiki - 0.8336943487111137
+
+2) parent_wiki - 0.818457305431366
+
+3) woman_wiki - 0.8147830587884175
+
+4) servant_wiki - 0.8135925157555977
+
+5) master_wiki - 0.7978151561131994
+
+6) day_wiki - 0.7579401279723581
+
+7) son_wiki - 0.7516812086105347
+
+8) fire_wiki - 0.7249746486559733
+
+9) account_wiki - 0.7062349494555635
+
+10) aid_wiki - 0.6718930206266949
+
+11) sea_wiki - 0.5778076648712158
+

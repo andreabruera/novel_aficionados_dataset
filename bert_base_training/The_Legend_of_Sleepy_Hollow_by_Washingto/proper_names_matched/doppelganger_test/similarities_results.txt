@@ -1,0 +1,60 @@
+Result for the vector: ichabod_crane, coming from part a of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9763152613451939
+
+1) ichabod_crane_b - 0.9763152613451939
+
+2) brom_bones_b - 0.9395216179464319
+
+3) baltus_van_tassel_b - 0.8450260943143255
+
+Result for the vector: baltus_van_tassel, coming from part a of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9047175106574604
+
+1) baltus_van_tassel_b - 0.9047175106574604
+
+2) ichabod_crane_b - 0.8731303811073303
+
+3) brom_bones_b - 0.8623985134125657
+
+Result for the vector: brom_bones, coming from part a of the book
+Rank: 2 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9256683080591788
+
+1) ichabod_crane_b - 0.931697730320829
+
+2) brom_bones_b - 0.9256683080591788
+
+3) baltus_van_tassel_b - 0.819829902669203
+
+Result for the vector: ichabod_crane, coming from part b of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9763152613451939
+
+1) ichabod_crane_a - 0.9763152613451939
+
+2) brom_bones_a - 0.931697730320829
+
+3) baltus_van_tassel_a - 0.8731303811073303
+
+Result for the vector: baltus_van_tassel, coming from part b of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9047175106574604
+
+1) baltus_van_tassel_a - 0.9047175106574604
+
+2) ichabod_crane_a - 0.8450260943143255
+
+3) brom_bones_a - 0.819829902669203
+
+Result for the vector: brom_bones, coming from part b of the book
+Rank: 2 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9256683080591788
+
+1) ichabod_crane_a - 0.9395216179464319
+
+2) brom_bones_a - 0.9256683080591788
+
+3) baltus_van_tassel_a - 0.8623985134125657
+

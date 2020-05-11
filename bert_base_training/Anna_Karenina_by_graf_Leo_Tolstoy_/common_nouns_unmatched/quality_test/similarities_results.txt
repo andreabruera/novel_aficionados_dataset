@@ -1,0 +1,2112 @@
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9065651623438287
+
+1) man_a - 0.9065651623438287
+
+2) woman_a - 0.8991016269801108
+
+3) husband_a - 0.8712272720797511
+
+4) child_a - 0.870149151069027
+
+5) something_a - 0.8661041001646523
+
+6) life_a - 0.8616353530179165
+
+7) one_a - 0.8611487489596417
+
+8) everything_a - 0.8594681192078448
+
+9) mother_a - 0.8535773928669222
+
+10) wife_a - 0.8527950644493164
+
+11) thing_a - 0.8522321757993488
+
+12) brother_a - 0.8478178887258837
+
+13) question_a - 0.8404236531005127
+
+14) day_a - 0.8297384482778059
+
+15) position_a - 0.8256627321243345
+
+16) feeling_a - 0.8218480348587095
+
+17) way_a - 0.8176496137589461
+
+18) love_a - 0.810484551133567
+
+19) hand_a - 0.8098814118049846
+
+20) heart_a - 0.7988351107338019
+
+21) time_a - 0.7971757892160667
+
+22) conversation_a - 0.7936534881591853
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9117013268648804
+
+1) time_a - 0.9117013268648804
+
+2) day_a - 0.8779525756835938
+
+3) thing_a - 0.848927685682317
+
+4) way_a - 0.8416346311569214
+
+5) question_a - 0.8409456610679626
+
+6) life_a - 0.8405756509818753
+
+7) woman_a - 0.8330694536525352
+
+8) conversation_a - 0.8296639817752842
+
+9) child_a - 0.8279210431622852
+
+10) position_a - 0.8267936007257477
+
+11) everything_a - 0.8256698354679459
+
+12) man_a - 0.8168745284341139
+
+13) one_a - 0.8139422778470007
+
+14) something_a - 0.8125698808601467
+
+15) feeling_a - 0.8090991860091216
+
+16) mother_a - 0.805640709063966
+
+17) husband_a - 0.8013079762458801
+
+18) wife_a - 0.7990749954625975
+
+19) brother_a - 0.794046675449219
+
+20) hand_a - 0.7930780772520272
+
+21) love_a - 0.7920855407663872
+
+22) heart_a - 0.7910557985305786
+
+Result for the vector: hand, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.5476747098356831
+
+1) hand_a - 0.5476747098356831
+
+2) question_a - 0.5457781227959331
+
+3) love_a - 0.5405431937523849
+
+4) conversation_a - 0.5388512611389198
+
+5) one_a - 0.538587852162487
+
+6) thing_a - 0.5358272748199374
+
+7) way_a - 0.535465983422639
+
+8) everything_a - 0.5318533740218432
+
+9) child_a - 0.529699381625726
+
+10) position_a - 0.5281665325164833
+
+11) time_a - 0.5214394901466978
+
+12) feeling_a - 0.5189605355262793
+
+13) wife_a - 0.5177479386329688
+
+14) woman_a - 0.5166347006994843
+
+15) mother_a - 0.5165508965789203
+
+16) husband_a - 0.5161419203196821
+
+17) brother_a - 0.5147881814711285
+
+18) day_a - 0.5087151224186952
+
+19) something_a - 0.5085804906910532
+
+20) life_a - 0.5059561880217903
+
+21) man_a - 0.5029570310426663
+
+22) heart_a - 0.5016407667612581
+
+Result for the vector: life, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9362608397395674
+
+1) life_a - 0.9362608397395674
+
+2) position_a - 0.9129013315321602
+
+3) question_a - 0.8729517980189219
+
+4) wife_a - 0.8715069736846655
+
+5) thing_a - 0.8648539185524048
+
+6) day_a - 0.8642263927594672
+
+7) woman_a - 0.8636452555656494
+
+8) everything_a - 0.8632469177246155
+
+9) child_a - 0.857771396636969
+
+10) way_a - 0.8574801598477474
+
+11) husband_a - 0.8572067533258664
+
+12) mother_a - 0.8562170267105164
+
+13) something_a - 0.854874448914032
+
+14) heart_a - 0.8547392400943795
+
+15) conversation_a - 0.8514540018384459
+
+16) feeling_a - 0.847582977722046
+
+17) brother_a - 0.8438633997196093
+
+18) man_a - 0.8436508336947117
+
+19) love_a - 0.8335123062133848
+
+20) one_a - 0.8227270981127414
+
+21) hand_a - 0.8208264708519041
+
+22) time_a - 0.8171435594558774
+
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8087778319385309
+
+1) day_a - 0.8087778319385309
+
+2) position_a - 0.7970280172212241
+
+3) life_a - 0.789484060124055
+
+4) way_a - 0.7849695342815534
+
+5) child_a - 0.7823440821747647
+
+6) mother_a - 0.7812847886172329
+
+7) time_a - 0.7784127989269273
+
+8) brother_a - 0.7763862013817054
+
+9) question_a - 0.7754663496653672
+
+10) one_a - 0.7687353996573116
+
+11) heart_a - 0.7673967161897813
+
+12) hand_a - 0.7668725072969497
+
+13) thing_a - 0.764341634927697
+
+14) wife_a - 0.7634465239378023
+
+15) everything_a - 0.7600360941822374
+
+16) woman_a - 0.7596518827107176
+
+17) husband_a - 0.7547384196831733
+
+18) conversation_a - 0.7525246290848
+
+19) feeling_a - 0.7446719560222771
+
+20) man_a - 0.7418736152165959
+
+21) love_a - 0.7395405042993134
+
+22) something_a - 0.7322182000680468
+
+Result for the vector: wife, coming from part i of the book
+Rank: 2 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9141911813134675
+
+1) mother_a - 0.9185200978207546
+
+2) wife_a - 0.9141911813134675
+
+3) brother_a - 0.9114720715847165
+
+4) husband_a - 0.8975943326950073
+
+5) child_a - 0.885355300584121
+
+6) woman_a - 0.8804398846364105
+
+7) man_a - 0.8576720612547419
+
+8) life_a - 0.8500479027671761
+
+9) one_a - 0.8370523106173373
+
+10) position_a - 0.8365678689818319
+
+11) question_a - 0.8337358832359314
+
+12) hand_a - 0.82868225403534
+
+13) thing_a - 0.8257499441057492
+
+14) everything_a - 0.8242467150541133
+
+15) heart_a - 0.820044755935669
+
+16) day_a - 0.8155103921890259
+
+17) love_a - 0.8078150863757693
+
+18) way_a - 0.8068290948867798
+
+19) something_a - 0.8044718147656866
+
+20) conversation_a - 0.8016286374109185
+
+21) feeling_a - 0.7997743368014312
+
+22) time_a - 0.7880181796539929
+
+Result for the vector: something, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8612463896352396
+
+1) something_a - 0.8612463896352396
+
+2) everything_a - 0.8537095450682277
+
+3) thing_a - 0.8416831180423898
+
+4) position_a - 0.8341899016982509
+
+5) question_a - 0.8328357538180704
+
+6) life_a - 0.8309328308423691
+
+7) feeling_a - 0.8221407638704453
+
+8) woman_a - 0.8166127532816985
+
+9) one_a - 0.8162495360151438
+
+10) conversation_a - 0.8129906169777871
+
+11) man_a - 0.8085344902991304
+
+12) child_a - 0.8076823697658131
+
+13) love_a - 0.7990137101983364
+
+14) mother_a - 0.7987484099718806
+
+15) way_a - 0.7979507687150572
+
+16) husband_a - 0.7938541419680005
+
+17) day_a - 0.7877561106972618
+
+18) wife_a - 0.7868245371088787
+
+19) brother_a - 0.7834612131118998
+
+20) time_a - 0.7811523471202243
+
+21) heart_a - 0.7782460715477436
+
+22) hand_a - 0.7630956000514759
+
+Result for the vector: thing, coming from part i of the book
+Rank: 2 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7941756020470391
+
+1) position_a - 0.7989714861529308
+
+2) thing_a - 0.7941756020470391
+
+3) question_a - 0.792674566188512
+
+4) life_a - 0.7863833669906022
+
+5) way_a - 0.7730003269910477
+
+6) everything_a - 0.7705343775985771
+
+7) conversation_a - 0.7444695982653261
+
+8) man_a - 0.7403604918396115
+
+9) woman_a - 0.7402075397597195
+
+10) day_a - 0.7396579099109333
+
+11) child_a - 0.7391284574636608
+
+12) heart_a - 0.7363205270385166
+
+13) feeling_a - 0.7345543065932923
+
+14) time_a - 0.7332050681343566
+
+15) something_a - 0.7281425540319862
+
+16) one_a - 0.7264914459146837
+
+17) mother_a - 0.7068468260442938
+
+18) wife_a - 0.7049982127548442
+
+19) love_a - 0.7004156052323106
+
+20) husband_a - 0.6918125519976007
+
+21) brother_a - 0.6875213384628491
+
+22) hand_a - 0.6799659109176569
+
+Result for the vector: child, coming from part i of the book
+Rank: 5 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8498487815305987
+
+1) husband_a - 0.8912264374264017
+
+2) wife_a - 0.8825013234467501
+
+3) brother_a - 0.8731900562629222
+
+4) mother_a - 0.8665966729343964
+
+5) child_a - 0.8498487815305987
+
+6) life_a - 0.8476230320481115
+
+7) woman_a - 0.844093237993326
+
+8) man_a - 0.8229187621425844
+
+9) hand_a - 0.8151287789604464
+
+10) position_a - 0.8062743669397566
+
+11) day_a - 0.80596383827817
+
+12) question_a - 0.8032278061875051
+
+13) thing_a - 0.8008029818295576
+
+14) something_a - 0.7997018575490629
+
+15) heart_a - 0.7994682431062536
+
+16) everything_a - 0.7811987763286032
+
+17) one_a - 0.7807400691950362
+
+18) way_a - 0.7772161000137362
+
+19) love_a - 0.7732839353894045
+
+20) feeling_a - 0.7649774639288307
+
+21) conversation_a - 0.7614831413164567
+
+22) time_a - 0.7546605242889993
+
+Result for the vector: brother, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9049457468011635
+
+1) brother_a - 0.9049457468011635
+
+2) husband_a - 0.8828978801637261
+
+3) mother_a - 0.8805329537232865
+
+4) child_a - 0.8687659839163462
+
+5) wife_a - 0.8659146606249808
+
+6) woman_a - 0.8614161353881353
+
+7) man_a - 0.8593091284816937
+
+8) one_a - 0.8498515397221768
+
+9) life_a - 0.8393978881118179
+
+10) everything_a - 0.831571077359588
+
+11) thing_a - 0.8306422582077341
+
+12) something_a - 0.8262207404506647
+
+13) question_a - 0.821391547363745
+
+14) position_a - 0.8188218610425471
+
+15) hand_a - 0.8151021952896689
+
+16) heart_a - 0.8096084239962231
+
+17) love_a - 0.8093275782666365
+
+18) way_a - 0.806944632737179
+
+19) feeling_a - 0.8040969494667906
+
+20) day_a - 0.8039041997165743
+
+21) time_a - 0.7925660373995921
+
+22) conversation_a - 0.7894541134942279
+
+Result for the vector: husband, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.931080516045126
+
+1) husband_a - 0.931080516045126
+
+2) brother_a - 0.9131080352857193
+
+3) mother_a - 0.8953552246093813
+
+4) wife_a - 0.891260849387747
+
+5) child_a - 0.8431688547134459
+
+6) life_a - 0.8420072856556309
+
+7) woman_a - 0.8304284811019956
+
+8) man_a - 0.8255447291324794
+
+9) position_a - 0.8187903545844978
+
+10) heart_a - 0.8164783010767892
+
+11) hand_a - 0.8018977642059383
+
+12) question_a - 0.7964089391475297
+
+13) one_a - 0.7886763324150148
+
+14) thing_a - 0.7868705987930353
+
+15) day_a - 0.7848183980475916
+
+16) love_a - 0.7827473878860529
+
+17) something_a - 0.7823596700155443
+
+18) everything_a - 0.7756751775741633
+
+19) way_a - 0.7745792731391964
+
+20) feeling_a - 0.7647173720261302
+
+21) conversation_a - 0.7579052755719752
+
+22) time_a - 0.747188210487371
+
+Result for the vector: woman, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8370615341030652
+
+1) woman_a - 0.8370615341030652
+
+2) life_a - 0.8331611305321307
+
+3) wife_a - 0.8121101148194158
+
+4) something_a - 0.8113988283693445
+
+5) husband_a - 0.8112846612930298
+
+6) man_a - 0.8090778234326195
+
+7) child_a - 0.8002566814269627
+
+8) day_a - 0.7956550717353821
+
+9) question_a - 0.7931382060050964
+
+10) thing_a - 0.7874062784072009
+
+11) mother_a - 0.7854500540822726
+
+12) position_a - 0.7815450895753571
+
+13) way_a - 0.776817262172699
+
+14) everything_a - 0.7765258683844897
+
+15) hand_a - 0.7688778180552843
+
+16) brother_a - 0.7682012639285695
+
+17) heart_a - 0.7665444016456604
+
+18) one_a - 0.7583536731706167
+
+19) feeling_a - 0.754156217226758
+
+20) love_a - 0.7525560407307137
+
+21) conversation_a - 0.7425737227543441
+
+22) time_a - 0.7375517643957291
+
+Result for the vector: way, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9007241725921631
+
+1) way_a - 0.9007241725921631
+
+2) question_a - 0.8721759915351868
+
+3) life_a - 0.8663012563855614
+
+4) position_a - 0.860170892487223
+
+5) day_a - 0.8593412041664124
+
+6) thing_a - 0.8544357505777046
+
+7) something_a - 0.8437276137986072
+
+8) time_a - 0.8375364042796862
+
+9) feeling_a - 0.836236347927831
+
+10) woman_a - 0.8324210147606736
+
+11) heart_a - 0.8297669887542725
+
+12) everything_a - 0.8265450104150185
+
+13) conversation_a - 0.8261704937321257
+
+14) love_a - 0.8232441053841066
+
+15) one_a - 0.8231610901105733
+
+16) child_a - 0.8145420065795194
+
+17) wife_a - 0.8120549209150639
+
+18) man_a - 0.809581840323861
+
+19) hand_a - 0.8081395740425855
+
+20) husband_a - 0.8055294156074524
+
+21) mother_a - 0.8050859686681066
+
+22) brother_a - 0.7916834106067965
+
+Result for the vector: everything, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8082280399867398
+
+1) everything_a - 0.8082280399867398
+
+2) life_a - 0.7755516366156882
+
+3) something_a - 0.7701444947891839
+
+4) thing_a - 0.7682363619874909
+
+5) feeling_a - 0.752497665956269
+
+6) position_a - 0.7466613570841192
+
+7) one_a - 0.7406612921549444
+
+8) woman_a - 0.731880925055778
+
+9) question_a - 0.7269222790231388
+
+10) way_a - 0.7194285439934054
+
+11) man_a - 0.7189631127075105
+
+12) heart_a - 0.7129282396669631
+
+13) love_a - 0.706686696609466
+
+14) time_a - 0.7008741706870327
+
+15) child_a - 0.7006213873810068
+
+16) day_a - 0.6990494160994393
+
+17) wife_a - 0.6946495018377161
+
+18) mother_a - 0.6910001841485632
+
+19) husband_a - 0.6907787344555943
+
+20) conversation_a - 0.6830094878389671
+
+21) brother_a - 0.6814077129916549
+
+22) hand_a - 0.676559528009885
+
+Result for the vector: position, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7689577799414279
+
+1) position_a - 0.7689577799414279
+
+2) life_a - 0.7500456050079142
+
+3) feeling_a - 0.732576413904216
+
+4) everything_a - 0.7285184425998675
+
+5) man_a - 0.7207230544305762
+
+6) woman_a - 0.7179720569865682
+
+7) love_a - 0.7111156755020824
+
+8) mother_a - 0.7110699587422646
+
+9) thing_a - 0.7103411131893937
+
+10) way_a - 0.7084841132164001
+
+11) heart_a - 0.7076003551483154
+
+12) one_a - 0.7063830705399239
+
+13) conversation_a - 0.7055907670015567
+
+14) child_a - 0.7037194547820429
+
+15) something_a - 0.7032757015012416
+
+16) question_a - 0.7009209990501404
+
+17) husband_a - 0.6991156339645386
+
+18) brother_a - 0.6972834107021633
+
+19) wife_a - 0.6916265899912483
+
+20) hand_a - 0.689628917597002
+
+21) day_a - 0.6869181394577026
+
+22) time_a - 0.6765142872026999
+
+Result for the vector: love, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9426336918691597
+
+1) love_a - 0.9426336918691597
+
+2) position_a - 0.8163309583861221
+
+3) life_a - 0.8150484098537367
+
+4) everything_a - 0.8076694722372623
+
+5) wife_a - 0.8002041459205251
+
+6) woman_a - 0.799839448938404
+
+7) thing_a - 0.7978921057050179
+
+8) mother_a - 0.7959961416723658
+
+9) child_a - 0.7959175827552343
+
+10) something_a - 0.7956292866357952
+
+11) one_a - 0.7928883073594666
+
+12) brother_a - 0.792126750007486
+
+13) heart_a - 0.7920798659324646
+
+14) feeling_a - 0.7916468853740042
+
+15) question_a - 0.7916181087493896
+
+16) conversation_a - 0.7912130231388239
+
+17) way_a - 0.7905105352401733
+
+18) husband_a - 0.7866953015327454
+
+19) man_a - 0.7829119200382212
+
+20) hand_a - 0.7690111536376995
+
+21) day_a - 0.7608000040054321
+
+22) time_a - 0.7560365941502707
+
+Result for the vector: feeling, coming from part i of the book
+Rank: 3 out of 22 characters
+Cosine similarity to the co-referring vector: 0.68952608108521
+
+1) position_a - 0.718195140361791
+
+2) heart_a - 0.7033464489372714
+
+3) feeling_a - 0.68952608108521
+
+4) love_a - 0.6883544101292598
+
+5) wife_a - 0.6728299260139513
+
+6) life_a - 0.6726716957292541
+
+7) mother_a - 0.6683844723243151
+
+8) question_a - 0.6638035378573228
+
+9) conversation_a - 0.6567782163620042
+
+10) husband_a - 0.6530797688317448
+
+11) child_a - 0.6515384731842907
+
+12) thing_a - 0.64590351034361
+
+13) something_a - 0.6431587742817793
+
+14) brother_a - 0.6427874948255817
+
+15) hand_a - 0.6376690104402292
+
+16) way_a - 0.6349780777109826
+
+17) everything_a - 0.6298565113715516
+
+18) woman_a - 0.6220062229625913
+
+19) one_a - 0.6218901687297199
+
+20) man_a - 0.6191402489203165
+
+21) day_a - 0.6154656043371209
+
+22) time_a - 0.6098464596454549
+
+Result for the vector: question, coming from part i of the book
+Rank: 7 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7356647253036499
+
+1) woman_a - 0.7566213752853064
+
+2) man_a - 0.7505503520533551
+
+3) one_a - 0.7475363834958194
+
+4) child_a - 0.7464946063462148
+
+5) thing_a - 0.7441582832242095
+
+6) feeling_a - 0.7360755047843174
+
+7) question_a - 0.7356647253036499
+
+8) everything_a - 0.7355851092585869
+
+9) life_a - 0.7337747276223981
+
+10) position_a - 0.7258414462710302
+
+11) mother_a - 0.7248889967865363
+
+12) husband_a - 0.723173975944519
+
+13) love_a - 0.7180546094146616
+
+14) way_a - 0.7145839333534241
+
+15) brother_a - 0.7116486086426558
+
+16) wife_a - 0.7082579558049427
+
+17) something_a - 0.7068194361573292
+
+18) day_a - 0.6990975737571716
+
+19) heart_a - 0.6990697383880615
+
+20) conversation_a - 0.698055964592456
+
+21) time_a - 0.6953740897551733
+
+22) hand_a - 0.6881380863107404
+
+Result for the vector: one, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9294944640542092
+
+1) one_a - 0.9294944640542092
+
+2) everything_a - 0.8619562387466492
+
+3) question_a - 0.8582373176954593
+
+4) thing_a - 0.8570994138717712
+
+5) woman_a - 0.8554648160934509
+
+6) child_a - 0.8528766632080139
+
+7) something_a - 0.8519634770122303
+
+8) man_a - 0.8515018986018213
+
+9) life_a - 0.8420422735873276
+
+10) mother_a - 0.8417940139770568
+
+11) feeling_a - 0.8392756389708088
+
+12) husband_a - 0.8351532122584127
+
+13) position_a - 0.8343202870273932
+
+14) way_a - 0.8331777353988743
+
+15) brother_a - 0.826859562431497
+
+16) conversation_a - 0.8246903210509207
+
+17) day_a - 0.8245624795295301
+
+18) wife_a - 0.8223904755580992
+
+19) time_a - 0.817833602428442
+
+20) hand_a - 0.8120759725570736
+
+21) love_a - 0.8050075769424496
+
+22) heart_a - 0.7959629771687389
+
+Result for the vector: mother, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9317485412434215
+
+1) mother_a - 0.9317485412434215
+
+2) husband_a - 0.9175509487852741
+
+3) brother_a - 0.9157121353912592
+
+4) wife_a - 0.9100074389583567
+
+5) child_a - 0.8636643629174159
+
+6) woman_a - 0.8403091776278894
+
+7) life_a - 0.8204164290924598
+
+8) man_a - 0.8201965582487916
+
+9) position_a - 0.8182200328904423
+
+10) heart_a - 0.8109363559167495
+
+11) one_a - 0.8005759001121462
+
+12) question_a - 0.7994247913189174
+
+13) hand_a - 0.7941343547661827
+
+14) thing_a - 0.7895229819559194
+
+15) everything_a - 0.785476184324143
+
+16) love_a - 0.7793097263780349
+
+17) feeling_a - 0.7765504220024132
+
+18) day_a - 0.775928699252865
+
+19) conversation_a - 0.7753529049771645
+
+20) way_a - 0.773424052400114
+
+21) something_a - 0.769689248185709
+
+22) time_a - 0.7549599184107835
+
+Result for the vector: heart, coming from part i of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7364093065261841
+
+1) heart_a - 0.7364093065261841
+
+2) way_a - 0.7069944143295288
+
+3) question_a - 0.6998265385627747
+
+4) position_a - 0.6942340549370095
+
+5) life_a - 0.6870467084986036
+
+6) time_a - 0.6804637503347558
+
+7) hand_a - 0.6794539285031612
+
+8) thing_a - 0.6750009849666974
+
+9) conversation_a - 0.6728656693020874
+
+10) feeling_a - 0.6719098491614979
+
+11) mother_a - 0.6611958944084719
+
+12) brother_a - 0.6574760267109949
+
+13) everything_a - 0.657326957146708
+
+14) day_a - 0.6573121547698975
+
+15) wife_a - 0.6556004080534236
+
+16) husband_a - 0.6496776938438416
+
+17) child_a - 0.6465794058692821
+
+18) love_a - 0.6450172874321182
+
+19) one_a - 0.6435983968853476
+
+20) man_a - 0.6419649911512435
+
+21) woman_a - 0.6412297105056232
+
+22) something_a - 0.6384759139560439
+
+Result for the vector: conversation, coming from part i of the book
+Rank: 6 out of 22 characters
+Cosine similarity to the co-referring vector: 0.6818254007541005
+
+1) position_a - 0.7260915690146302
+
+2) feeling_a - 0.7249521665232334
+
+3) heart_a - 0.7080376359235538
+
+4) question_a - 0.7042002887785523
+
+5) life_a - 0.6975766059847612
+
+6) conversation_a - 0.6818254007541005
+
+7) mother_a - 0.6767771638400235
+
+8) love_a - 0.6706537404461608
+
+9) thing_a - 0.6698421040224428
+
+10) wife_a - 0.6697384717826672
+
+11) husband_a - 0.6657189329182787
+
+12) everything_a - 0.6657043497054499
+
+13) brother_a - 0.6569157625609309
+
+14) something_a - 0.6557702813011576
+
+15) way_a - 0.6519427493793595
+
+16) one_a - 0.6459123281188207
+
+17) man_a - 0.642340698381704
+
+18) woman_a - 0.6317249348245606
+
+19) hand_a - 0.6281460336403266
+
+20) child_a - 0.6272870711300675
+
+21) time_a - 0.6186916047724628
+
+22) day_a - 0.6184874957349152
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9065651623438287
+
+1) man_wiki - 0.9065651623438287
+
+2) brother_wiki - 0.8593091284816937
+
+3) wife_wiki - 0.8576720612547419
+
+4) one_wiki - 0.8515018986018213
+
+5) life_wiki - 0.8436508336947117
+
+6) husband_wiki - 0.8255447291324794
+
+7) child_wiki - 0.8229187621425844
+
+8) mother_wiki - 0.8201965582487916
+
+9) time_wiki - 0.8168745284341139
+
+10) way_wiki - 0.809581840323861
+
+11) woman_wiki - 0.8090778234326195
+
+12) something_wiki - 0.8085344902991304
+
+13) love_wiki - 0.7829119200382212
+
+14) question_wiki - 0.7505503520533551
+
+15) day_wiki - 0.7418736152165959
+
+16) thing_wiki - 0.7403604918396115
+
+17) position_wiki - 0.7207230544305762
+
+18) everything_wiki - 0.7189631127075105
+
+19) conversation_wiki - 0.642340698381704
+
+20) heart_wiki - 0.6419649911512435
+
+21) feeling_wiki - 0.6191402489203165
+
+22) hand_wiki - 0.5029570310426663
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9117013268648804
+
+1) time_wiki - 0.9117013268648804
+
+2) way_wiki - 0.8375364042796862
+
+3) one_wiki - 0.817833602428442
+
+4) life_wiki - 0.8171435594558774
+
+5) man_wiki - 0.7971757892160667
+
+6) brother_wiki - 0.7925660373995921
+
+7) wife_wiki - 0.7880181796539929
+
+8) something_wiki - 0.7811523471202243
+
+9) day_wiki - 0.7784127989269273
+
+10) love_wiki - 0.7560365941502707
+
+11) mother_wiki - 0.7549599184107835
+
+12) child_wiki - 0.7546605242889993
+
+13) husband_wiki - 0.747188210487371
+
+14) woman_wiki - 0.7375517643957291
+
+15) thing_wiki - 0.7332050681343566
+
+16) everything_wiki - 0.7008741706870327
+
+17) question_wiki - 0.6953740897551733
+
+18) heart_wiki - 0.6804637503347558
+
+19) position_wiki - 0.6765142872026999
+
+20) conversation_wiki - 0.6186916047724628
+
+21) feeling_wiki - 0.6098464596454549
+
+22) hand_wiki - 0.5214394901466978
+
+Result for the vector: hand, coming from part a of the book
+Rank: 22 out of 22 characters
+Cosine similarity to the co-referring vector: 0.5476747098356831
+
+1) wife_wiki - 0.82868225403534
+
+2) life_wiki - 0.8208264708519041
+
+3) child_wiki - 0.8151287789604464
+
+4) brother_wiki - 0.8151021952896689
+
+5) one_wiki - 0.8120759725570736
+
+6) man_wiki - 0.8098814118049846
+
+7) way_wiki - 0.8081395740425855
+
+8) husband_wiki - 0.8018977642059383
+
+9) mother_wiki - 0.7941343547661827
+
+10) time_wiki - 0.7930780772520272
+
+11) love_wiki - 0.7690111536376995
+
+12) woman_wiki - 0.7688778180552843
+
+13) day_wiki - 0.7668725072969497
+
+14) something_wiki - 0.7630956000514759
+
+15) position_wiki - 0.689628917597002
+
+16) question_wiki - 0.6881380863107404
+
+17) thing_wiki - 0.6799659109176569
+
+18) heart_wiki - 0.6794539285031612
+
+19) everything_wiki - 0.676559528009885
+
+20) feeling_wiki - 0.6376690104402292
+
+21) conversation_wiki - 0.6281460336403266
+
+22) hand_wiki - 0.5476747098356831
+
+Result for the vector: life, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9362608397395674
+
+1) life_wiki - 0.9362608397395674
+
+2) way_wiki - 0.8663012563855614
+
+3) man_wiki - 0.8616353530179165
+
+4) wife_wiki - 0.8500479027671761
+
+5) child_wiki - 0.8476230320481115
+
+6) one_wiki - 0.8420422735873276
+
+7) husband_wiki - 0.8420072856556309
+
+8) time_wiki - 0.8405756509818753
+
+9) brother_wiki - 0.8393978881118179
+
+10) woman_wiki - 0.8331611305321307
+
+11) something_wiki - 0.8309328308423691
+
+12) mother_wiki - 0.8204164290924598
+
+13) love_wiki - 0.8150484098537367
+
+14) day_wiki - 0.789484060124055
+
+15) thing_wiki - 0.7863833669906022
+
+16) everything_wiki - 0.7755516366156882
+
+17) position_wiki - 0.7500456050079142
+
+18) question_wiki - 0.7337747276223981
+
+19) conversation_wiki - 0.6975766059847612
+
+20) heart_wiki - 0.6870467084986036
+
+21) feeling_wiki - 0.6726716957292541
+
+22) hand_wiki - 0.5059561880217903
+
+Result for the vector: day, coming from part a of the book
+Rank: 7 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8087778319385309
+
+1) time_wiki - 0.8779525756835938
+
+2) life_wiki - 0.8642263927594672
+
+3) way_wiki - 0.8593412041664124
+
+4) man_wiki - 0.8297384482778059
+
+5) one_wiki - 0.8245624795295301
+
+6) wife_wiki - 0.8155103921890259
+
+7) day_wiki - 0.8087778319385309
+
+8) child_wiki - 0.80596383827817
+
+9) brother_wiki - 0.8039041997165743
+
+10) woman_wiki - 0.7956550717353821
+
+11) something_wiki - 0.7877561106972618
+
+12) husband_wiki - 0.7848183980475916
+
+13) mother_wiki - 0.775928699252865
+
+14) love_wiki - 0.7608000040054321
+
+15) thing_wiki - 0.7396579099109333
+
+16) question_wiki - 0.6990975737571716
+
+17) everything_wiki - 0.6990494160994393
+
+18) position_wiki - 0.6869181394577026
+
+19) heart_wiki - 0.6573121547698975
+
+20) conversation_wiki - 0.6184874957349152
+
+21) feeling_wiki - 0.6154656043371209
+
+22) hand_wiki - 0.5087151224186952
+
+Result for the vector: wife, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9141911813134675
+
+1) wife_wiki - 0.9141911813134675
+
+2) mother_wiki - 0.9100074389583567
+
+3) husband_wiki - 0.891260849387747
+
+4) child_wiki - 0.8825013234467501
+
+5) life_wiki - 0.8715069736846655
+
+6) brother_wiki - 0.8659146606249808
+
+7) man_wiki - 0.8527950644493164
+
+8) one_wiki - 0.8223904755580992
+
+9) woman_wiki - 0.8121101148194158
+
+10) way_wiki - 0.8120549209150639
+
+11) love_wiki - 0.8002041459205251
+
+12) time_wiki - 0.7990749954625975
+
+13) something_wiki - 0.7868245371088787
+
+14) day_wiki - 0.7634465239378023
+
+15) question_wiki - 0.7082579558049427
+
+16) thing_wiki - 0.7049982127548442
+
+17) everything_wiki - 0.6946495018377161
+
+18) position_wiki - 0.6916265899912483
+
+19) feeling_wiki - 0.6728299260139513
+
+20) conversation_wiki - 0.6697384717826672
+
+21) heart_wiki - 0.6556004080534236
+
+22) hand_wiki - 0.5177479386329688
+
+Result for the vector: something, coming from part a of the book
+Rank: 2 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8612463896352396
+
+1) man_wiki - 0.8661041001646523
+
+2) something_wiki - 0.8612463896352396
+
+3) life_wiki - 0.854874448914032
+
+4) one_wiki - 0.8519634770122303
+
+5) way_wiki - 0.8437276137986072
+
+6) brother_wiki - 0.8262207404506647
+
+7) time_wiki - 0.8125698808601467
+
+8) woman_wiki - 0.8113988283693445
+
+9) wife_wiki - 0.8044718147656866
+
+10) child_wiki - 0.7997018575490629
+
+11) love_wiki - 0.7956292866357952
+
+12) husband_wiki - 0.7823596700155443
+
+13) everything_wiki - 0.7701444947891839
+
+14) mother_wiki - 0.769689248185709
+
+15) day_wiki - 0.7322182000680468
+
+16) thing_wiki - 0.7281425540319862
+
+17) question_wiki - 0.7068194361573292
+
+18) position_wiki - 0.7032757015012416
+
+19) conversation_wiki - 0.6557702813011576
+
+20) feeling_wiki - 0.6431587742817793
+
+21) heart_wiki - 0.6384759139560439
+
+22) hand_wiki - 0.5085804906910532
+
+Result for the vector: thing, coming from part a of the book
+Rank: 11 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7941756020470391
+
+1) life_wiki - 0.8648539185524048
+
+2) one_wiki - 0.8570994138717712
+
+3) way_wiki - 0.8544357505777046
+
+4) man_wiki - 0.8522321757993488
+
+5) time_wiki - 0.848927685682317
+
+6) something_wiki - 0.8416831180423898
+
+7) brother_wiki - 0.8306422582077341
+
+8) wife_wiki - 0.8257499441057492
+
+9) child_wiki - 0.8008029818295576
+
+10) love_wiki - 0.7978921057050179
+
+11) thing_wiki - 0.7941756020470391
+
+12) mother_wiki - 0.7895229819559194
+
+13) woman_wiki - 0.7874062784072009
+
+14) husband_wiki - 0.7868705987930353
+
+15) everything_wiki - 0.7682363619874909
+
+16) day_wiki - 0.764341634927697
+
+17) question_wiki - 0.7441582832242095
+
+18) position_wiki - 0.7103411131893937
+
+19) heart_wiki - 0.6750009849666974
+
+20) conversation_wiki - 0.6698421040224428
+
+21) feeling_wiki - 0.64590351034361
+
+22) hand_wiki - 0.5358272748199374
+
+Result for the vector: child, coming from part a of the book
+Rank: 7 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8498487815305987
+
+1) wife_wiki - 0.885355300584121
+
+2) man_wiki - 0.870149151069027
+
+3) brother_wiki - 0.8687659839163462
+
+4) mother_wiki - 0.8636643629174159
+
+5) life_wiki - 0.857771396636969
+
+6) one_wiki - 0.8528766632080139
+
+7) child_wiki - 0.8498487815305987
+
+8) husband_wiki - 0.8431688547134459
+
+9) time_wiki - 0.8279210431622852
+
+10) way_wiki - 0.8145420065795194
+
+11) something_wiki - 0.8076823697658131
+
+12) woman_wiki - 0.8002566814269627
+
+13) love_wiki - 0.7959175827552343
+
+14) day_wiki - 0.7823440821747647
+
+15) question_wiki - 0.7464946063462148
+
+16) thing_wiki - 0.7391284574636608
+
+17) position_wiki - 0.7037194547820429
+
+18) everything_wiki - 0.7006213873810068
+
+19) feeling_wiki - 0.6515384731842907
+
+20) heart_wiki - 0.6465794058692821
+
+21) conversation_wiki - 0.6272870711300675
+
+22) hand_wiki - 0.529699381625726
+
+Result for the vector: brother, coming from part a of the book
+Rank: 4 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9049457468011635
+
+1) mother_wiki - 0.9157121353912592
+
+2) husband_wiki - 0.9131080352857193
+
+3) wife_wiki - 0.9114720715847165
+
+4) brother_wiki - 0.9049457468011635
+
+5) child_wiki - 0.8731900562629222
+
+6) man_wiki - 0.8478178887258837
+
+7) life_wiki - 0.8438633997196093
+
+8) one_wiki - 0.826859562431497
+
+9) time_wiki - 0.794046675449219
+
+10) love_wiki - 0.792126750007486
+
+11) way_wiki - 0.7916834106067965
+
+12) something_wiki - 0.7834612131118998
+
+13) day_wiki - 0.7763862013817054
+
+14) woman_wiki - 0.7682012639285695
+
+15) question_wiki - 0.7116486086426558
+
+16) position_wiki - 0.6972834107021633
+
+17) thing_wiki - 0.6875213384628491
+
+18) everything_wiki - 0.6814077129916549
+
+19) heart_wiki - 0.6574760267109949
+
+20) conversation_wiki - 0.6569157625609309
+
+21) feeling_wiki - 0.6427874948255817
+
+22) hand_wiki - 0.5147881814711285
+
+Result for the vector: husband, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.931080516045126
+
+1) husband_wiki - 0.931080516045126
+
+2) mother_wiki - 0.9175509487852741
+
+3) wife_wiki - 0.8975943326950073
+
+4) child_wiki - 0.8912264374264017
+
+5) brother_wiki - 0.8828978801637261
+
+6) man_wiki - 0.8712272720797511
+
+7) life_wiki - 0.8572067533258664
+
+8) one_wiki - 0.8351532122584127
+
+9) woman_wiki - 0.8112846612930298
+
+10) way_wiki - 0.8055294156074524
+
+11) time_wiki - 0.8013079762458801
+
+12) something_wiki - 0.7938541419680005
+
+13) love_wiki - 0.7866953015327454
+
+14) day_wiki - 0.7547384196831733
+
+15) question_wiki - 0.723173975944519
+
+16) position_wiki - 0.6991156339645386
+
+17) thing_wiki - 0.6918125519976007
+
+18) everything_wiki - 0.6907787344555943
+
+19) conversation_wiki - 0.6657189329182787
+
+20) feeling_wiki - 0.6530797688317448
+
+21) heart_wiki - 0.6496776938438416
+
+22) hand_wiki - 0.5161419203196821
+
+Result for the vector: woman, coming from part a of the book
+Rank: 8 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8370615341030652
+
+1) man_wiki - 0.8991016269801108
+
+2) wife_wiki - 0.8804398846364105
+
+3) life_wiki - 0.8636452555656494
+
+4) brother_wiki - 0.8614161353881353
+
+5) one_wiki - 0.8554648160934509
+
+6) child_wiki - 0.844093237993326
+
+7) mother_wiki - 0.8403091776278894
+
+8) woman_wiki - 0.8370615341030652
+
+9) time_wiki - 0.8330694536525352
+
+10) way_wiki - 0.8324210147606736
+
+11) husband_wiki - 0.8304284811019956
+
+12) something_wiki - 0.8166127532816985
+
+13) love_wiki - 0.799839448938404
+
+14) day_wiki - 0.7596518827107176
+
+15) question_wiki - 0.7566213752853064
+
+16) thing_wiki - 0.7402075397597195
+
+17) everything_wiki - 0.731880925055778
+
+18) position_wiki - 0.7179720569865682
+
+19) heart_wiki - 0.6412297105056232
+
+20) conversation_wiki - 0.6317249348245606
+
+21) feeling_wiki - 0.6220062229625913
+
+22) hand_wiki - 0.5166347006994843
+
+Result for the vector: way, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9007241725921631
+
+1) way_wiki - 0.9007241725921631
+
+2) life_wiki - 0.8574801598477474
+
+3) time_wiki - 0.8416346311569214
+
+4) one_wiki - 0.8331777353988743
+
+5) man_wiki - 0.8176496137589461
+
+6) brother_wiki - 0.806944632737179
+
+7) wife_wiki - 0.8068290948867798
+
+8) something_wiki - 0.7979507687150572
+
+9) love_wiki - 0.7905105352401733
+
+10) day_wiki - 0.7849695342815534
+
+11) child_wiki - 0.7772161000137362
+
+12) woman_wiki - 0.776817262172699
+
+13) husband_wiki - 0.7745792731391964
+
+14) mother_wiki - 0.773424052400114
+
+15) thing_wiki - 0.7730003269910477
+
+16) everything_wiki - 0.7194285439934054
+
+17) question_wiki - 0.7145839333534241
+
+18) position_wiki - 0.7084841132164001
+
+19) heart_wiki - 0.7069944143295288
+
+20) conversation_wiki - 0.6519427493793595
+
+21) feeling_wiki - 0.6349780777109826
+
+22) hand_wiki - 0.535465983422639
+
+Result for the vector: everything, coming from part a of the book
+Rank: 9 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8082280399867398
+
+1) life_wiki - 0.8632469177246155
+
+2) one_wiki - 0.8619562387466492
+
+3) man_wiki - 0.8594681192078448
+
+4) something_wiki - 0.8537095450682277
+
+5) brother_wiki - 0.831571077359588
+
+6) way_wiki - 0.8265450104150185
+
+7) time_wiki - 0.8256698354679459
+
+8) wife_wiki - 0.8242467150541133
+
+9) everything_wiki - 0.8082280399867398
+
+10) love_wiki - 0.8076694722372623
+
+11) mother_wiki - 0.785476184324143
+
+12) child_wiki - 0.7811987763286032
+
+13) woman_wiki - 0.7765258683844897
+
+14) husband_wiki - 0.7756751775741633
+
+15) thing_wiki - 0.7705343775985771
+
+16) day_wiki - 0.7600360941822374
+
+17) question_wiki - 0.7355851092585869
+
+18) position_wiki - 0.7285184425998675
+
+19) conversation_wiki - 0.6657043497054499
+
+20) heart_wiki - 0.657326957146708
+
+21) feeling_wiki - 0.6298565113715516
+
+22) hand_wiki - 0.5318533740218432
+
+Result for the vector: position, coming from part a of the book
+Rank: 16 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7689577799414279
+
+1) life_wiki - 0.9129013315321602
+
+2) way_wiki - 0.860170892487223
+
+3) wife_wiki - 0.8365678689818319
+
+4) one_wiki - 0.8343202870273932
+
+5) something_wiki - 0.8341899016982509
+
+6) time_wiki - 0.8267936007257477
+
+7) man_wiki - 0.8256627321243345
+
+8) brother_wiki - 0.8188218610425471
+
+9) husband_wiki - 0.8187903545844978
+
+10) mother_wiki - 0.8182200328904423
+
+11) love_wiki - 0.8163309583861221
+
+12) child_wiki - 0.8062743669397566
+
+13) thing_wiki - 0.7989714861529308
+
+14) day_wiki - 0.7970280172212241
+
+15) woman_wiki - 0.7815450895753571
+
+16) position_wiki - 0.7689577799414279
+
+17) everything_wiki - 0.7466613570841192
+
+18) conversation_wiki - 0.7260915690146302
+
+19) question_wiki - 0.7258414462710302
+
+20) feeling_wiki - 0.718195140361791
+
+21) heart_wiki - 0.6942340549370095
+
+22) hand_wiki - 0.5281665325164833
+
+Result for the vector: love, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9426336918691597
+
+1) love_wiki - 0.9426336918691597
+
+2) life_wiki - 0.8335123062133848
+
+3) way_wiki - 0.8232441053841066
+
+4) man_wiki - 0.810484551133567
+
+5) brother_wiki - 0.8093275782666365
+
+6) wife_wiki - 0.8078150863757693
+
+7) one_wiki - 0.8050075769424496
+
+8) something_wiki - 0.7990137101983364
+
+9) time_wiki - 0.7920855407663872
+
+10) husband_wiki - 0.7827473878860529
+
+11) mother_wiki - 0.7793097263780349
+
+12) child_wiki - 0.7732839353894045
+
+13) woman_wiki - 0.7525560407307137
+
+14) day_wiki - 0.7395405042993134
+
+15) question_wiki - 0.7180546094146616
+
+16) position_wiki - 0.7111156755020824
+
+17) everything_wiki - 0.706686696609466
+
+18) thing_wiki - 0.7004156052323106
+
+19) feeling_wiki - 0.6883544101292598
+
+20) conversation_wiki - 0.6706537404461608
+
+21) heart_wiki - 0.6450172874321182
+
+22) hand_wiki - 0.5405431937523849
+
+Result for the vector: feeling, coming from part a of the book
+Rank: 20 out of 22 characters
+Cosine similarity to the co-referring vector: 0.68952608108521
+
+1) life_wiki - 0.847582977722046
+
+2) one_wiki - 0.8392756389708088
+
+3) way_wiki - 0.836236347927831
+
+4) something_wiki - 0.8221407638704453
+
+5) man_wiki - 0.8218480348587095
+
+6) time_wiki - 0.8090991860091216
+
+7) brother_wiki - 0.8040969494667906
+
+8) wife_wiki - 0.7997743368014312
+
+9) love_wiki - 0.7916468853740042
+
+10) mother_wiki - 0.7765504220024132
+
+11) child_wiki - 0.7649774639288307
+
+12) husband_wiki - 0.7647173720261302
+
+13) woman_wiki - 0.754156217226758
+
+14) everything_wiki - 0.752497665956269
+
+15) day_wiki - 0.7446719560222771
+
+16) question_wiki - 0.7360755047843174
+
+17) thing_wiki - 0.7345543065932923
+
+18) position_wiki - 0.732576413904216
+
+19) conversation_wiki - 0.7249521665232334
+
+20) feeling_wiki - 0.68952608108521
+
+21) heart_wiki - 0.6719098491614979
+
+22) hand_wiki - 0.5189605355262793
+
+Result for the vector: question, coming from part a of the book
+Rank: 16 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7356647253036499
+
+1) life_wiki - 0.8729517980189219
+
+2) way_wiki - 0.8721759915351868
+
+3) one_wiki - 0.8582373176954593
+
+4) time_wiki - 0.8409456610679626
+
+5) man_wiki - 0.8404236531005127
+
+6) wife_wiki - 0.8337358832359314
+
+7) something_wiki - 0.8328357538180704
+
+8) brother_wiki - 0.821391547363745
+
+9) child_wiki - 0.8032278061875051
+
+10) mother_wiki - 0.7994247913189174
+
+11) husband_wiki - 0.7964089391475297
+
+12) woman_wiki - 0.7931382060050964
+
+13) thing_wiki - 0.792674566188512
+
+14) love_wiki - 0.7916181087493896
+
+15) day_wiki - 0.7754663496653672
+
+16) question_wiki - 0.7356647253036499
+
+17) everything_wiki - 0.7269222790231388
+
+18) conversation_wiki - 0.7042002887785523
+
+19) position_wiki - 0.7009209990501404
+
+20) heart_wiki - 0.6998265385627747
+
+21) feeling_wiki - 0.6638035378573228
+
+22) hand_wiki - 0.5457781227959331
+
+Result for the vector: one, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9294944640542092
+
+1) one_wiki - 0.9294944640542092
+
+2) man_wiki - 0.8611487489596417
+
+3) brother_wiki - 0.8498515397221768
+
+4) wife_wiki - 0.8370523106173373
+
+5) way_wiki - 0.8231610901105733
+
+6) life_wiki - 0.8227270981127414
+
+7) something_wiki - 0.8162495360151438
+
+8) time_wiki - 0.8139422778470007
+
+9) mother_wiki - 0.8005759001121462
+
+10) love_wiki - 0.7928883073594666
+
+11) husband_wiki - 0.7886763324150148
+
+12) child_wiki - 0.7807400691950362
+
+13) day_wiki - 0.7687353996573116
+
+14) woman_wiki - 0.7583536731706167
+
+15) question_wiki - 0.7475363834958194
+
+16) everything_wiki - 0.7406612921549444
+
+17) thing_wiki - 0.7264914459146837
+
+18) position_wiki - 0.7063830705399239
+
+19) conversation_wiki - 0.6459123281188207
+
+20) heart_wiki - 0.6435983968853476
+
+21) feeling_wiki - 0.6218901687297199
+
+22) hand_wiki - 0.538587852162487
+
+Result for the vector: mother, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9317485412434215
+
+1) mother_wiki - 0.9317485412434215
+
+2) wife_wiki - 0.9185200978207546
+
+3) husband_wiki - 0.8953552246093813
+
+4) brother_wiki - 0.8805329537232865
+
+5) child_wiki - 0.8665966729343964
+
+6) life_wiki - 0.8562170267105164
+
+7) man_wiki - 0.8535773928669222
+
+8) one_wiki - 0.8417940139770568
+
+9) time_wiki - 0.805640709063966
+
+10) way_wiki - 0.8050859686681066
+
+11) something_wiki - 0.7987484099718806
+
+12) love_wiki - 0.7959961416723658
+
+13) woman_wiki - 0.7854500540822726
+
+14) day_wiki - 0.7812847886172329
+
+15) question_wiki - 0.7248889967865363
+
+16) position_wiki - 0.7110699587422646
+
+17) thing_wiki - 0.7068468260442938
+
+18) everything_wiki - 0.6910001841485632
+
+19) conversation_wiki - 0.6767771638400235
+
+20) feeling_wiki - 0.6683844723243151
+
+21) heart_wiki - 0.6611958944084719
+
+22) hand_wiki - 0.5165508965789203
+
+Result for the vector: heart, coming from part a of the book
+Rank: 15 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7364093065261841
+
+1) life_wiki - 0.8547392400943795
+
+2) way_wiki - 0.8297669887542725
+
+3) wife_wiki - 0.820044755935669
+
+4) husband_wiki - 0.8164783010767892
+
+5) mother_wiki - 0.8109363559167495
+
+6) brother_wiki - 0.8096084239962231
+
+7) child_wiki - 0.7994682431062536
+
+8) man_wiki - 0.7988351107338019
+
+9) one_wiki - 0.7959629771687389
+
+10) love_wiki - 0.7920798659324646
+
+11) time_wiki - 0.7910557985305786
+
+12) something_wiki - 0.7782460715477436
+
+13) day_wiki - 0.7673967161897813
+
+14) woman_wiki - 0.7665444016456604
+
+15) heart_wiki - 0.7364093065261841
+
+16) thing_wiki - 0.7363205270385166
+
+17) everything_wiki - 0.7129282396669631
+
+18) conversation_wiki - 0.7080376359235538
+
+19) position_wiki - 0.7076003551483154
+
+20) feeling_wiki - 0.7033464489372714
+
+21) question_wiki - 0.6990697383880615
+
+22) hand_wiki - 0.5016407667612581
+
+Result for the vector: conversation, coming from part a of the book
+Rank: 19 out of 22 characters
+Cosine similarity to the co-referring vector: 0.6818254007541005
+
+1) life_wiki - 0.8514540018384459
+
+2) time_wiki - 0.8296639817752842
+
+3) way_wiki - 0.8261704937321257
+
+4) one_wiki - 0.8246903210509207
+
+5) something_wiki - 0.8129906169777871
+
+6) wife_wiki - 0.8016286374109185
+
+7) man_wiki - 0.7936534881591853
+
+8) love_wiki - 0.7912130231388239
+
+9) brother_wiki - 0.7894541134942279
+
+10) mother_wiki - 0.7753529049771645
+
+11) child_wiki - 0.7614831413164567
+
+12) husband_wiki - 0.7579052755719752
+
+13) day_wiki - 0.7525246290848
+
+14) thing_wiki - 0.7444695982653261
+
+15) woman_wiki - 0.7425737227543441
+
+16) position_wiki - 0.7055907670015567
+
+17) question_wiki - 0.698055964592456
+
+18) everything_wiki - 0.6830094878389671
+
+19) conversation_wiki - 0.6818254007541005
+
+20) heart_wiki - 0.6728656693020874
+
+21) feeling_wiki - 0.6567782163620042
+
+22) hand_wiki - 0.5388512611389198
+

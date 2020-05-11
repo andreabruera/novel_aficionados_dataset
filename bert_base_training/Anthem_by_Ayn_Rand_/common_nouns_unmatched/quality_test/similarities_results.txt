@@ -1,0 +1,12 @@
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 1 characters
+Cosine similarity to the co-referring vector: 0.8717156725099298
+
+1) man_a - 0.8717156725099298
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 1 characters
+Cosine similarity to the co-referring vector: 0.8717156725099298
+
+1) man_wiki - 0.8717156725099298
+

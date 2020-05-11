@@ -1,0 +1,896 @@
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9379674159269001
+
+1) man_a - 0.9379674159269001
+
+2) ship_a - 0.910852432250983
+
+3) sea_a - 0.8893055518840751
+
+4) captain_a - 0.8878929018974367
+
+5) squire_a - 0.8876079253916712
+
+6) doctor_a - 0.8850441575050417
+
+7) hand_a - 0.8591825878132947
+
+8) sir_a - 0.8561038458502067
+
+9) way_a - 0.8538715752286673
+
+10) head_a - 0.8535337956865919
+
+11) house_a - 0.8529565755077094
+
+12) word_a - 0.8527148278185638
+
+13) time_a - 0.8222028997186303
+
+14) side_a - 0.7996570944581698
+
+Result for the vector: hand, coming from part i of the book
+Rank: 5 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8411133885383606
+
+1) ship_a - 0.8533504692703221
+
+2) man_a - 0.8520254492759705
+
+3) sir_a - 0.8464605372959889
+
+4) doctor_a - 0.8416938876096092
+
+5) hand_a - 0.8411133885383606
+
+6) captain_a - 0.8397244906589707
+
+7) squire_a - 0.838755190372467
+
+8) sea_a - 0.8383192669844413
+
+9) way_a - 0.8218070864677429
+
+10) head_a - 0.8094174265861511
+
+11) word_a - 0.8071364164352417
+
+12) house_a - 0.7960788486050887
+
+13) time_a - 0.7954235551013695
+
+14) side_a - 0.7568604350090027
+
+Result for the vector: captain, coming from part i of the book
+Rank: 4 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8504312901917789
+
+1) ship_a - 0.8637735491203892
+
+2) sea_a - 0.858702642437589
+
+3) doctor_a - 0.8539634608095672
+
+4) captain_a - 0.8504312901917789
+
+5) man_a - 0.850120562300621
+
+6) squire_a - 0.8495519340572496
+
+7) sir_a - 0.8275019875913446
+
+8) hand_a - 0.8113111482487798
+
+9) way_a - 0.8092398870897485
+
+10) word_a - 0.7978974821689803
+
+11) head_a - 0.7932659634034733
+
+12) house_a - 0.7906949644866733
+
+13) time_a - 0.7870988972724268
+
+14) side_a - 0.7302231514187922
+
+Result for the vector: doctor, coming from part i of the book
+Rank: 2 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8872049518105433
+
+1) squire_a - 0.890496015548706
+
+2) doctor_a - 0.8872049518105433
+
+3) captain_a - 0.8818516801684109
+
+4) man_a - 0.8751681447029114
+
+5) ship_a - 0.867135592273738
+
+6) sea_a - 0.8507533326969547
+
+7) sir_a - 0.8171661034672981
+
+8) way_a - 0.8096410632133484
+
+9) word_a - 0.8079333901405334
+
+10) house_a - 0.8051704052192229
+
+11) hand_a - 0.8041184544563293
+
+12) head_a - 0.796215832233429
+
+13) time_a - 0.7783920632834486
+
+14) side_a - 0.7350425124168396
+
+Result for the vector: time, coming from part i of the book
+Rank: 3 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8259368435106795
+
+1) sea_a - 0.8389731895617605
+
+2) ship_a - 0.8352358439424146
+
+3) time_a - 0.8259368435106795
+
+4) way_a - 0.8248113393783569
+
+5) man_a - 0.8053779006004333
+
+6) word_a - 0.8015798330307007
+
+7) doctor_a - 0.800160658349953
+
+8) squire_a - 0.7929006814956665
+
+9) house_a - 0.792561339888654
+
+10) hand_a - 0.7863110303878784
+
+11) captain_a - 0.7806519996731295
+
+12) sir_a - 0.7727653479068323
+
+13) head_a - 0.7669958472251892
+
+14) side_a - 0.7298160791397095
+
+Result for the vector: ship, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9536565597466755
+
+1) ship_a - 0.9536565597466755
+
+2) sea_a - 0.9110606637281018
+
+3) man_a - 0.8992426455472339
+
+4) doctor_a - 0.8919593224573943
+
+5) captain_a - 0.8896827829262277
+
+6) squire_a - 0.8880818552922113
+
+7) house_a - 0.8791904449462953
+
+8) way_a - 0.8709642367980355
+
+9) head_a - 0.8605935060624194
+
+10) hand_a - 0.8564366187789086
+
+11) word_a - 0.8434243295535859
+
+12) sir_a - 0.8429076326760038
+
+13) time_a - 0.8358926773071348
+
+14) side_a - 0.8141922465448247
+
+Result for the vector: sea, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9090963168585809
+
+1) sea_a - 0.9090963168585809
+
+2) ship_a - 0.8906213575972078
+
+3) doctor_a - 0.8515225560380688
+
+4) man_a - 0.8474318799295343
+
+5) captain_a - 0.8468379883073697
+
+6) squire_a - 0.841224532273362
+
+7) way_a - 0.8403550196117245
+
+8) hand_a - 0.8281556163019735
+
+9) house_a - 0.8279464533233276
+
+10) word_a - 0.8205389166520793
+
+11) head_a - 0.8171676775417002
+
+12) time_a - 0.8038519866201868
+
+13) sir_a - 0.7984546896571767
+
+14) side_a - 0.7648074942597795
+
+Result for the vector: side, coming from part i of the book
+Rank: 14 out of 14 characters
+Cosine similarity to the co-referring vector: 0.6283794419991648
+
+1) man_a - 0.7118519372851824
+
+2) sir_a - 0.7112146483681575
+
+3) squire_a - 0.7111971802232981
+
+4) doctor_a - 0.7058863043785145
+
+5) ship_a - 0.7049020528793385
+
+6) captain_a - 0.6926711797714282
+
+7) sea_a - 0.6853761689701234
+
+8) house_a - 0.6832893113242758
+
+9) way_a - 0.682370584152377
+
+10) hand_a - 0.6760672733823831
+
+11) word_a - 0.6712909144932588
+
+12) head_a - 0.6609320438463726
+
+13) time_a - 0.6470559414691855
+
+14) side_a - 0.6283794419991648
+
+Result for the vector: word, coming from part i of the book
+Rank: 7 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7301541784451661
+
+1) house_a - 0.7525155024989402
+
+2) sir_a - 0.7447218590643251
+
+3) sea_a - 0.7392951690730554
+
+4) ship_a - 0.7338181515390261
+
+5) man_a - 0.7325018266588997
+
+6) squire_a - 0.7320491889729858
+
+7) word_a - 0.7301541784451661
+
+8) head_a - 0.7188366865765065
+
+9) hand_a - 0.711658439387633
+
+10) way_a - 0.7103559586511842
+
+11) doctor_a - 0.7085354116995538
+
+12) captain_a - 0.6850448046611335
+
+13) time_a - 0.6802070748991143
+
+14) side_a - 0.67186441039635
+
+Result for the vector: sir, coming from part i of the book
+Rank: 3 out of 14 characters
+Cosine similarity to the co-referring vector: 0.5551677842588254
+
+1) sea_a - 0.5603624153245218
+
+2) ship_a - 0.5582153464427394
+
+3) sir_a - 0.5551677842588254
+
+4) squire_a - 0.5518280267715454
+
+5) man_a - 0.5514987707138062
+
+6) doctor_a - 0.5481069953377855
+
+7) captain_a - 0.5377703584569489
+
+8) way_a - 0.5268734693527222
+
+9) hand_a - 0.5221821069717407
+
+10) time_a - 0.5174731920643573
+
+11) word_a - 0.5153794884681702
+
+12) house_a - 0.5029679240565263
+
+13) head_a - 0.4969576597213745
+
+14) side_a - 0.4660951793193817
+
+Result for the vector: way, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.5302865505218506
+
+1) way_a - 0.5302865505218506
+
+2) sea_a - 0.5269286789574827
+
+3) captain_a - 0.5203926253084773
+
+4) doctor_a - 0.5199694323557963
+
+5) ship_a - 0.5186372090198282
+
+6) man_a - 0.5095844864845276
+
+7) squire_a - 0.5064746737480164
+
+8) time_a - 0.5038928093846335
+
+9) head_a - 0.49488353729248047
+
+10) word_a - 0.4899258315563202
+
+11) hand_a - 0.4812615215778351
+
+12) house_a - 0.4771594093536987
+
+13) sir_a - 0.4685417236574064
+
+14) side_a - 0.43067678809165955
+
+Result for the vector: squire, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9084760546684265
+
+1) squire_a - 0.9084760546684265
+
+2) doctor_a - 0.8995294630807974
+
+3) ship_a - 0.891838318595988
+
+4) captain_a - 0.8889200157570846
+
+5) sea_a - 0.8801389598887853
+
+6) man_a - 0.8749354481697083
+
+7) sir_a - 0.8504247233651365
+
+8) hand_a - 0.8377538323402405
+
+9) way_a - 0.8363821506500244
+
+10) house_a - 0.832139482029647
+
+11) word_a - 0.8318931460380554
+
+12) head_a - 0.8188709616661072
+
+13) time_a - 0.8145004400313177
+
+14) side_a - 0.7637600898742676
+
+Result for the vector: house, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8167363782806848
+
+1) house_a - 0.8167363782806848
+
+2) ship_a - 0.8147303462028561
+
+3) sea_a - 0.7928087228067571
+
+4) squire_a - 0.7799916732306299
+
+5) doctor_a - 0.7786312699317988
+
+6) man_a - 0.7782559858713155
+
+7) way_a - 0.7768478856592124
+
+8) captain_a - 0.76217263936997
+
+9) sir_a - 0.7549826435718903
+
+10) head_a - 0.745409652317147
+
+11) hand_a - 0.7445397820794466
+
+12) word_a - 0.7441075887744195
+
+13) time_a - 0.7339825909116973
+
+14) side_a - 0.708151740321622
+
+Result for the vector: head, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8046010376394108
+
+1) head_a - 0.8046010376394108
+
+2) hand_a - 0.7809042567284187
+
+3) ship_a - 0.742709972181622
+
+4) sea_a - 0.7319058020058752
+
+5) way_a - 0.7316233733780201
+
+6) man_a - 0.7251681901564658
+
+7) doctor_a - 0.7238809250628702
+
+8) house_a - 0.7219036270889906
+
+9) captain_a - 0.7181955957950503
+
+10) side_a - 0.7124839637423747
+
+11) word_a - 0.7037612409520522
+
+12) squire_a - 0.7015655249823789
+
+13) time_a - 0.6992408066309223
+
+14) sir_a - 0.6868059261805936
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9379674159269001
+
+1) man_wiki - 0.9379674159269001
+
+2) ship_wiki - 0.8992426455472339
+
+3) doctor_wiki - 0.8751681447029114
+
+4) squire_wiki - 0.8749354481697083
+
+5) hand_wiki - 0.8520254492759705
+
+6) captain_wiki - 0.850120562300621
+
+7) sea_wiki - 0.8474318799295343
+
+8) time_wiki - 0.8053779006004333
+
+9) house_wiki - 0.7782559858713155
+
+10) word_wiki - 0.7325018266588997
+
+11) head_wiki - 0.7251681901564658
+
+12) side_wiki - 0.7118519372851824
+
+13) sir_wiki - 0.5514987707138062
+
+14) way_wiki - 0.5095844864845276
+
+Result for the vector: hand, coming from part a of the book
+Rank: 3 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8411133885383606
+
+1) man_wiki - 0.8591825878132947
+
+2) ship_wiki - 0.8564366187789086
+
+3) hand_wiki - 0.8411133885383606
+
+4) squire_wiki - 0.8377538323402405
+
+5) sea_wiki - 0.8281556163019735
+
+6) captain_wiki - 0.8113111482487798
+
+7) doctor_wiki - 0.8041184544563293
+
+8) time_wiki - 0.7863110303878784
+
+9) head_wiki - 0.7809042567284187
+
+10) house_wiki - 0.7445397820794466
+
+11) word_wiki - 0.711658439387633
+
+12) side_wiki - 0.6760672733823831
+
+13) sir_wiki - 0.5221821069717407
+
+14) way_wiki - 0.4812615215778351
+
+Result for the vector: captain, coming from part a of the book
+Rank: 5 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8504312901917789
+
+1) ship_wiki - 0.8896827829262277
+
+2) squire_wiki - 0.8889200157570846
+
+3) man_wiki - 0.8878929018974367
+
+4) doctor_wiki - 0.8818516801684109
+
+5) captain_wiki - 0.8504312901917789
+
+6) sea_wiki - 0.8468379883073697
+
+7) hand_wiki - 0.8397244906589707
+
+8) time_wiki - 0.7806519996731295
+
+9) house_wiki - 0.76217263936997
+
+10) head_wiki - 0.7181955957950503
+
+11) side_wiki - 0.6926711797714282
+
+12) word_wiki - 0.6850448046611335
+
+13) sir_wiki - 0.5377703584569489
+
+14) way_wiki - 0.5203926253084773
+
+Result for the vector: doctor, coming from part a of the book
+Rank: 3 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8872049518105433
+
+1) squire_wiki - 0.8995294630807974
+
+2) ship_wiki - 0.8919593224573943
+
+3) doctor_wiki - 0.8872049518105433
+
+4) man_wiki - 0.8850441575050417
+
+5) captain_wiki - 0.8539634608095672
+
+6) sea_wiki - 0.8515225560380688
+
+7) hand_wiki - 0.8416938876096092
+
+8) time_wiki - 0.800160658349953
+
+9) house_wiki - 0.7786312699317988
+
+10) head_wiki - 0.7238809250628702
+
+11) word_wiki - 0.7085354116995538
+
+12) side_wiki - 0.7058863043785145
+
+13) sir_wiki - 0.5481069953377855
+
+14) way_wiki - 0.5199694323557963
+
+Result for the vector: time, coming from part a of the book
+Rank: 2 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8259368435106795
+
+1) ship_wiki - 0.8358926773071348
+
+2) time_wiki - 0.8259368435106795
+
+3) man_wiki - 0.8222028997186303
+
+4) squire_wiki - 0.8145004400313177
+
+5) sea_wiki - 0.8038519866201868
+
+6) hand_wiki - 0.7954235551013695
+
+7) captain_wiki - 0.7870988972724268
+
+8) doctor_wiki - 0.7783920632834486
+
+9) house_wiki - 0.7339825909116973
+
+10) head_wiki - 0.6992408066309223
+
+11) word_wiki - 0.6802070748991143
+
+12) side_wiki - 0.6470559414691855
+
+13) sir_wiki - 0.5174731920643573
+
+14) way_wiki - 0.5038928093846335
+
+Result for the vector: ship, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9536565597466755
+
+1) ship_wiki - 0.9536565597466755
+
+2) man_wiki - 0.910852432250983
+
+3) squire_wiki - 0.891838318595988
+
+4) sea_wiki - 0.8906213575972078
+
+5) doctor_wiki - 0.867135592273738
+
+6) captain_wiki - 0.8637735491203892
+
+7) hand_wiki - 0.8533504692703221
+
+8) time_wiki - 0.8352358439424146
+
+9) house_wiki - 0.8147303462028561
+
+10) head_wiki - 0.742709972181622
+
+11) word_wiki - 0.7338181515390261
+
+12) side_wiki - 0.7049020528793385
+
+13) sir_wiki - 0.5582153464427394
+
+14) way_wiki - 0.5186372090198282
+
+Result for the vector: sea, coming from part a of the book
+Rank: 2 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9090963168585809
+
+1) ship_wiki - 0.9110606637281018
+
+2) sea_wiki - 0.9090963168585809
+
+3) man_wiki - 0.8893055518840751
+
+4) squire_wiki - 0.8801389598887853
+
+5) captain_wiki - 0.858702642437589
+
+6) doctor_wiki - 0.8507533326969547
+
+7) time_wiki - 0.8389731895617605
+
+8) hand_wiki - 0.8383192669844413
+
+9) house_wiki - 0.7928087228067571
+
+10) word_wiki - 0.7392951690730554
+
+11) head_wiki - 0.7319058020058752
+
+12) side_wiki - 0.6853761689701234
+
+13) sir_wiki - 0.5603624153245218
+
+14) way_wiki - 0.5269286789574827
+
+Result for the vector: side, coming from part a of the book
+Rank: 12 out of 14 characters
+Cosine similarity to the co-referring vector: 0.6283794419991648
+
+1) ship_wiki - 0.8141922465448247
+
+2) man_wiki - 0.7996570944581698
+
+3) sea_wiki - 0.7648074942597795
+
+4) squire_wiki - 0.7637600898742676
+
+5) hand_wiki - 0.7568604350090027
+
+6) doctor_wiki - 0.7350425124168396
+
+7) captain_wiki - 0.7302231514187922
+
+8) time_wiki - 0.7298160791397095
+
+9) head_wiki - 0.7124839637423747
+
+10) house_wiki - 0.708151740321622
+
+11) word_wiki - 0.67186441039635
+
+12) side_wiki - 0.6283794419991648
+
+13) sir_wiki - 0.4660951793193817
+
+14) way_wiki - 0.43067678809165955
+
+Result for the vector: word, coming from part a of the book
+Rank: 10 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7301541784451661
+
+1) man_wiki - 0.8527148278185638
+
+2) ship_wiki - 0.8434243295535859
+
+3) squire_wiki - 0.8318931460380554
+
+4) sea_wiki - 0.8205389166520793
+
+5) doctor_wiki - 0.8079333901405334
+
+6) hand_wiki - 0.8071364164352417
+
+7) time_wiki - 0.8015798330307007
+
+8) captain_wiki - 0.7978974821689803
+
+9) house_wiki - 0.7441075887744195
+
+10) word_wiki - 0.7301541784451661
+
+11) head_wiki - 0.7037612409520522
+
+12) side_wiki - 0.6712909144932588
+
+13) sir_wiki - 0.5153794884681702
+
+14) way_wiki - 0.4899258315563202
+
+Result for the vector: sir, coming from part a of the book
+Rank: 13 out of 14 characters
+Cosine similarity to the co-referring vector: 0.5551677842588254
+
+1) man_wiki - 0.8561038458502067
+
+2) squire_wiki - 0.8504247233651365
+
+3) hand_wiki - 0.8464605372959889
+
+4) ship_wiki - 0.8429076326760038
+
+5) captain_wiki - 0.8275019875913446
+
+6) doctor_wiki - 0.8171661034672981
+
+7) sea_wiki - 0.7984546896571767
+
+8) time_wiki - 0.7727653479068323
+
+9) house_wiki - 0.7549826435718903
+
+10) word_wiki - 0.7447218590643251
+
+11) side_wiki - 0.7112146483681575
+
+12) head_wiki - 0.6868059261805936
+
+13) sir_wiki - 0.5551677842588254
+
+14) way_wiki - 0.4685417236574064
+
+Result for the vector: way, coming from part a of the book
+Rank: 13 out of 14 characters
+Cosine similarity to the co-referring vector: 0.5302865505218506
+
+1) ship_wiki - 0.8709642367980355
+
+2) man_wiki - 0.8538715752286673
+
+3) sea_wiki - 0.8403550196117245
+
+4) squire_wiki - 0.8363821506500244
+
+5) time_wiki - 0.8248113393783569
+
+6) hand_wiki - 0.8218070864677429
+
+7) doctor_wiki - 0.8096410632133484
+
+8) captain_wiki - 0.8092398870897485
+
+9) house_wiki - 0.7768478856592124
+
+10) head_wiki - 0.7316233733780201
+
+11) word_wiki - 0.7103559586511842
+
+12) side_wiki - 0.682370584152377
+
+13) way_wiki - 0.5302865505218506
+
+14) sir_wiki - 0.5268734693527222
+
+Result for the vector: squire, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9084760546684265
+
+1) squire_wiki - 0.9084760546684265
+
+2) doctor_wiki - 0.890496015548706
+
+3) ship_wiki - 0.8880818552922113
+
+4) man_wiki - 0.8876079253916712
+
+5) captain_wiki - 0.8495519340572496
+
+6) sea_wiki - 0.841224532273362
+
+7) hand_wiki - 0.838755190372467
+
+8) time_wiki - 0.7929006814956665
+
+9) house_wiki - 0.7799916732306299
+
+10) word_wiki - 0.7320491889729858
+
+11) side_wiki - 0.7111971802232981
+
+12) head_wiki - 0.7015655249823789
+
+13) sir_wiki - 0.5518280267715454
+
+14) way_wiki - 0.5064746737480164
+
+Result for the vector: house, coming from part a of the book
+Rank: 5 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8167363782806848
+
+1) ship_wiki - 0.8791904449462953
+
+2) man_wiki - 0.8529565755077094
+
+3) squire_wiki - 0.832139482029647
+
+4) sea_wiki - 0.8279464533233276
+
+5) house_wiki - 0.8167363782806848
+
+6) doctor_wiki - 0.8051704052192229
+
+7) hand_wiki - 0.7960788486050887
+
+8) time_wiki - 0.792561339888654
+
+9) captain_wiki - 0.7906949644866733
+
+10) word_wiki - 0.7525155024989402
+
+11) head_wiki - 0.7219036270889906
+
+12) side_wiki - 0.6832893113242758
+
+13) sir_wiki - 0.5029679240565263
+
+14) way_wiki - 0.4771594093536987
+
+Result for the vector: head, coming from part a of the book
+Rank: 6 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8046010376394108
+
+1) ship_wiki - 0.8605935060624194
+
+2) man_wiki - 0.8535337956865919
+
+3) squire_wiki - 0.8188709616661072
+
+4) sea_wiki - 0.8171676775417002
+
+5) hand_wiki - 0.8094174265861511
+
+6) head_wiki - 0.8046010376394108
+
+7) doctor_wiki - 0.796215832233429
+
+8) captain_wiki - 0.7932659634034733
+
+9) time_wiki - 0.7669958472251892
+
+10) house_wiki - 0.745409652317147
+
+11) word_wiki - 0.7188366865765065
+
+12) side_wiki - 0.6609320438463726
+
+13) sir_wiki - 0.4969576597213745
+
+14) way_wiki - 0.49488353729248047
+

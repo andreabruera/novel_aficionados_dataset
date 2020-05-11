@@ -1,0 +1,9 @@
+105	Mrs. Grose
+42	Miles
+32	Miss Flora_Flora
+26	Peter Quint_Quint
+22	Miss Jessel
+15	Bly
+10	Douglas
+4	Mrs. Griffin_Griffin
+4	Luke

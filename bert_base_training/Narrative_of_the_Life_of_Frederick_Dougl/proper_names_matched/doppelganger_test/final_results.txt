@@ -1,0 +1,9 @@
+Test: doppelganger test
+Results for: Narrative_of_the_Life_of_Frederick_Dougl
+Model used: proper names matched
+
+Within-novel median: 3.5
+Within-novel average: 3.6875
+Within-novel MRR: 0.41785714285714287
+Within-novel standard deviation of the scores: 2.0530084632071053
+Amount of entities considered: 8.0

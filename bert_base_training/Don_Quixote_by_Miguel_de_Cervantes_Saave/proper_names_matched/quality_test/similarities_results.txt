@@ -1,0 +1,780 @@
+Result for the vector: senor_don_quixote_of_la_mancha, coming from part i of the book
+Rank: 3 out of 13 characters
+Cosine similarity to the co-referring vector: 0.92698657077471
+
+1) don_sancho_panza_a - 0.9432549723912789
+
+2) lope_de_vega_a - 0.9287522115931578
+
+3) senor_don_quixote_of_la_mancha_a - 0.92698657077471
+
+4) avellaneda_a - 0.9168382237457187
+
+5) cide_hamete_benengeli_a - 0.8970175858757066
+
+6) rodrigo_osorio_a - 0.8914305503028975
+
+7) andres_a - 0.8779917024967586
+
+8) amadis_a - 0.8712372626349109
+
+9) micomicona_a - 0.8660076100835397
+
+10) don_john_a - 0.8653545379638672
+
+11) knight_of_the_white_moon_a - 0.8636299967765808
+
+12) lady_dona_dulcinea_del_toboso_a - 0.8610688530761702
+
+13) alexander_the_great_a - 0.8478339405158809
+
+Result for the vector: don_sancho_panza, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9320502477959172
+
+1) don_sancho_panza_a - 0.9320502477959172
+
+2) lope_de_vega_a - 0.9246542684424763
+
+3) avellaneda_a - 0.9047045594101619
+
+4) senor_don_quixote_of_la_mancha_a - 0.9033117775096628
+
+5) rodrigo_osorio_a - 0.8910803068972
+
+6) cide_hamete_benengeli_a - 0.887354055765998
+
+7) andres_a - 0.8638770756611598
+
+8) amadis_a - 0.8631874078251272
+
+9) micomicona_a - 0.8535480833437606
+
+10) don_john_a - 0.851975670574647
+
+11) lady_dona_dulcinea_del_toboso_a - 0.8475218415260375
+
+12) knight_of_the_white_moon_a - 0.8435345794877174
+
+13) alexander_the_great_a - 0.8375577926635802
+
+Result for the vector: lady_dona_dulcinea_del_toboso, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.903947299483581
+
+1) lady_dona_dulcinea_del_toboso_a - 0.903947299483581
+
+2) lope_de_vega_a - 0.8810544276551736
+
+3) don_sancho_panza_a - 0.8760435768404856
+
+4) senor_don_quixote_of_la_mancha_a - 0.8614301002878025
+
+5) avellaneda_a - 0.8527974398611465
+
+6) micomicona_a - 0.8377299115335896
+
+7) rodrigo_osorio_a - 0.8312706250709683
+
+8) cide_hamete_benengeli_a - 0.8200697088324734
+
+9) knight_of_the_white_moon_a - 0.8173196911811829
+
+10) don_john_a - 0.8091089725494385
+
+11) amadis_a - 0.8078011045218888
+
+12) andres_a - 0.80154653792222
+
+13) alexander_the_great_a - 0.799706947820966
+
+Result for the vector: amadis, coming from part i of the book
+Rank: 4 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7082326871503452
+
+1) rodrigo_osorio_a - 0.8461545270223496
+
+2) lope_de_vega_a - 0.8241346373638294
+
+3) don_john_a - 0.7501136288080704
+
+4) amadis_a - 0.7082326871503452
+
+5) avellaneda_a - 0.7056604658657732
+
+6) don_sancho_panza_a - 0.6985191939496046
+
+7) senor_don_quixote_of_la_mancha_a - 0.6937981272159336
+
+8) cide_hamete_benengeli_a - 0.6713611291887085
+
+9) lady_dona_dulcinea_del_toboso_a - 0.6491507098331862
+
+10) alexander_the_great_a - 0.6418590950411853
+
+11) micomicona_a - 0.6411000849455747
+
+12) andres_a - 0.6197615039206448
+
+13) knight_of_the_white_moon_a - 0.612694639345844
+
+Result for the vector: cide_hamete_benengeli, coming from part i of the book
+Rank: 3 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7349934104073198
+
+1) senor_don_quixote_of_la_mancha_a - 0.7642794566487618
+
+2) don_sancho_panza_a - 0.749474339108816
+
+3) cide_hamete_benengeli_a - 0.7349934104073198
+
+4) micomicona_a - 0.7212880947508994
+
+5) lady_dona_dulcinea_del_toboso_a - 0.7212014198303274
+
+6) avellaneda_a - 0.6968290444408708
+
+7) andres_a - 0.6953590537928692
+
+8) knight_of_the_white_moon_a - 0.6935219582034337
+
+9) don_john_a - 0.6847612669921689
+
+10) amadis_a - 0.6828196673666849
+
+11) rodrigo_osorio_a - 0.6733539311115659
+
+12) lope_de_vega_a - 0.6616167421594332
+
+13) alexander_the_great_a - 0.6556860208511399
+
+Result for the vector: andres, coming from part i of the book
+Rank: 6 out of 13 characters
+Cosine similarity to the co-referring vector: 0.779361748080306
+
+1) lope_de_vega_a - 0.8619047660203212
+
+2) rodrigo_osorio_a - 0.8556819472123368
+
+3) don_sancho_panza_a - 0.8264646076975445
+
+4) avellaneda_a - 0.8137434013929025
+
+5) senor_don_quixote_of_la_mancha_a - 0.7877374164901638
+
+6) andres_a - 0.779361748080306
+
+7) amadis_a - 0.7773522469225279
+
+8) cide_hamete_benengeli_a - 0.7768838139633966
+
+9) don_john_a - 0.7759020924568176
+
+10) knight_of_the_white_moon_a - 0.7606237530708313
+
+11) lady_dona_dulcinea_del_toboso_a - 0.7400538480249748
+
+12) micomicona_a - 0.7367732211081105
+
+13) alexander_the_great_a - 0.7309135358981184
+
+Result for the vector: don_john, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7633808710206088
+
+1) don_john_a - 0.7633808710206088
+
+2) don_sancho_panza_a - 0.7405148059896839
+
+3) senor_don_quixote_of_la_mancha_a - 0.7402808356619878
+
+4) avellaneda_a - 0.7346629184082649
+
+5) rodrigo_osorio_a - 0.7331369797154641
+
+6) cide_hamete_benengeli_a - 0.7199680900516684
+
+7) lope_de_vega_a - 0.71061706935916
+
+8) amadis_a - 0.7047038146323839
+
+9) andres_a - 0.693056585763984
+
+10) alexander_the_great_a - 0.6899077296257068
+
+11) micomicona_a - 0.6682511570902759
+
+12) knight_of_the_white_moon_a - 0.6630350746533331
+
+13) lady_dona_dulcinea_del_toboso_a - 0.6526795625686692
+
+Result for the vector: micomicona, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8783966681474465
+
+1) micomicona_a - 0.8783966681474465
+
+2) don_sancho_panza_a - 0.7370238210296367
+
+3) lady_dona_dulcinea_del_toboso_a - 0.7342514395713858
+
+4) cide_hamete_benengeli_a - 0.725881706335851
+
+5) andres_a - 0.7248172215953969
+
+6) knight_of_the_white_moon_a - 0.7222353650471799
+
+7) senor_don_quixote_of_la_mancha_a - 0.7191524766865345
+
+8) don_john_a - 0.694046121480831
+
+9) avellaneda_a - 0.6906012523891034
+
+10) lope_de_vega_a - 0.6828394546663277
+
+11) rodrigo_osorio_a - 0.6814592100929272
+
+12) amadis_a - 0.6793523453508054
+
+13) alexander_the_great_a - 0.6443024873733566
+
+Result for the vector: lope_de_vega, coming from part i of the book
+Rank: 3 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7133993719041164
+
+1) senor_don_quixote_of_la_mancha_a - 0.7326924045498625
+
+2) don_sancho_panza_a - 0.7257583790205488
+
+3) lope_de_vega_a - 0.7133993719041164
+
+4) avellaneda_a - 0.7107419795240164
+
+5) knight_of_the_white_moon_a - 0.7067687511444092
+
+6) rodrigo_osorio_a - 0.6884846501639289
+
+7) cide_hamete_benengeli_a - 0.6835068683036457
+
+8) don_john_a - 0.6802539229393005
+
+9) amadis_a - 0.6797266220720605
+
+10) lady_dona_dulcinea_del_toboso_a - 0.6762908294027561
+
+11) alexander_the_great_a - 0.6690732437924609
+
+12) micomicona_a - 0.663690467320741
+
+13) andres_a - 0.659494777306759
+
+Result for the vector: knight_of_the_white_moon, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8820298980456667
+
+1) knight_of_the_white_moon_a - 0.8820298980456667
+
+2) senor_don_quixote_of_la_mancha_a - 0.876107454299933
+
+3) don_sancho_panza_a - 0.8741053603323008
+
+4) lady_dona_dulcinea_del_toboso_a - 0.8531311329446872
+
+5) micomicona_a - 0.8230640186705732
+
+6) cide_hamete_benengeli_a - 0.8192872297339111
+
+7) amadis_a - 0.8113266713218027
+
+8) andres_a - 0.8108137604351744
+
+9) avellaneda_a - 0.8006618618965206
+
+10) lope_de_vega_a - 0.793496942713951
+
+11) alexander_the_great_a - 0.7809204720353518
+
+12) don_john_a - 0.7650461336942845
+
+13) rodrigo_osorio_a - 0.7563979625701958
+
+Result for the vector: alexander_the_great, coming from part i of the book
+Rank: 9 out of 13 characters
+Cosine similarity to the co-referring vector: 0.6262929066245027
+
+1) senor_don_quixote_of_la_mancha_a - 0.6708733243270721
+
+2) don_john_a - 0.6677247881889343
+
+3) rodrigo_osorio_a - 0.6674902836972656
+
+4) don_sancho_panza_a - 0.6613683099778002
+
+5) cide_hamete_benengeli_a - 0.655937630645951
+
+6) avellaneda_a - 0.6433208968234608
+
+7) amadis_a - 0.6341123144760552
+
+8) lope_de_vega_a - 0.6271159239743929
+
+9) alexander_the_great_a - 0.6262929066245027
+
+10) andres_a - 0.6224376148711926
+
+11) knight_of_the_white_moon_a - 0.6111617684364319
+
+12) lady_dona_dulcinea_del_toboso_a - 0.5669139285734944
+
+13) micomicona_a - 0.5640324430504413
+
+Result for the vector: rodrigo_osorio, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8479736862151249
+
+1) rodrigo_osorio_a - 0.8479736862151249
+
+2) lope_de_vega_a - 0.8355607541406833
+
+3) don_john_a - 0.7429725970609558
+
+4) don_sancho_panza_a - 0.7333222528282188
+
+5) avellaneda_a - 0.7300955927485934
+
+6) senor_don_quixote_of_la_mancha_a - 0.7041363959475035
+
+7) micomicona_a - 0.6888041535861779
+
+8) cide_hamete_benengeli_a - 0.6864287888578408
+
+9) lady_dona_dulcinea_del_toboso_a - 0.6828425526619006
+
+10) amadis_a - 0.6801114702424068
+
+11) andres_a - 0.6775536546904138
+
+12) knight_of_the_white_moon_a - 0.668758193776501
+
+13) alexander_the_great_a - 0.63670933246613
+
+Result for the vector: avellaneda, coming from part i of the book
+Rank: 2 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8767222688628611
+
+1) lope_de_vega_a - 0.8922490743472901
+
+2) avellaneda_a - 0.8767222688628611
+
+3) don_sancho_panza_a - 0.8497052356337256
+
+4) senor_don_quixote_of_la_mancha_a - 0.8452517298014018
+
+5) rodrigo_osorio_a - 0.8303523558588255
+
+6) cide_hamete_benengeli_a - 0.8107211960221821
+
+7) don_john_a - 0.7902219295501709
+
+8) amadis_a - 0.7872039422039973
+
+9) lady_dona_dulcinea_del_toboso_a - 0.7813304793041673
+
+10) alexander_the_great_a - 0.7807010542928557
+
+11) knight_of_the_white_moon_a - 0.7647912502288818
+
+12) andres_a - 0.7581409441870736
+
+13) micomicona_a - 0.7537163798471004
+
+Result for the vector: senor_don_quixote_of_la_mancha, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.92698657077471
+
+1) senor_don_quixote_of_la_mancha_wiki - 0.92698657077471
+
+2) don_sancho_panza_wiki - 0.9033117775096628
+
+3) knight_of_the_white_moon_wiki - 0.876107454299933
+
+4) lady_dona_dulcinea_del_toboso_wiki - 0.8614301002878025
+
+5) avellaneda_wiki - 0.8452517298014018
+
+6) andres_wiki - 0.7877374164901638
+
+7) cide_hamete_benengeli_wiki - 0.7642794566487618
+
+8) don_john_wiki - 0.7402808356619878
+
+9) lope_de_vega_wiki - 0.7326924045498625
+
+10) micomicona_wiki - 0.7191524766865345
+
+11) rodrigo_osorio_wiki - 0.7041363959475035
+
+12) amadis_wiki - 0.6937981272159336
+
+13) alexander_the_great_wiki - 0.6708733243270721
+
+Result for the vector: don_sancho_panza, coming from part a of the book
+Rank: 2 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9320502477959172
+
+1) senor_don_quixote_of_la_mancha_wiki - 0.9432549723912789
+
+2) don_sancho_panza_wiki - 0.9320502477959172
+
+3) lady_dona_dulcinea_del_toboso_wiki - 0.8760435768404856
+
+4) knight_of_the_white_moon_wiki - 0.8741053603323008
+
+5) avellaneda_wiki - 0.8497052356337256
+
+6) andres_wiki - 0.8264646076975445
+
+7) cide_hamete_benengeli_wiki - 0.749474339108816
+
+8) don_john_wiki - 0.7405148059896839
+
+9) micomicona_wiki - 0.7370238210296367
+
+10) rodrigo_osorio_wiki - 0.7333222528282188
+
+11) lope_de_vega_wiki - 0.7257583790205488
+
+12) amadis_wiki - 0.6985191939496046
+
+13) alexander_the_great_wiki - 0.6613683099778002
+
+Result for the vector: lady_dona_dulcinea_del_toboso, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.903947299483581
+
+1) lady_dona_dulcinea_del_toboso_wiki - 0.903947299483581
+
+2) senor_don_quixote_of_la_mancha_wiki - 0.8610688530761702
+
+3) knight_of_the_white_moon_wiki - 0.8531311329446872
+
+4) don_sancho_panza_wiki - 0.8475218415260375
+
+5) avellaneda_wiki - 0.7813304793041673
+
+6) andres_wiki - 0.7400538480249748
+
+7) micomicona_wiki - 0.7342514395713858
+
+8) cide_hamete_benengeli_wiki - 0.7212014198303274
+
+9) rodrigo_osorio_wiki - 0.6828425526619006
+
+10) lope_de_vega_wiki - 0.6762908294027561
+
+11) don_john_wiki - 0.6526795625686692
+
+12) amadis_wiki - 0.6491507098331862
+
+13) alexander_the_great_wiki - 0.5669139285734944
+
+Result for the vector: amadis, coming from part a of the book
+Rank: 7 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7082326871503452
+
+1) senor_don_quixote_of_la_mancha_wiki - 0.8712372626349109
+
+2) don_sancho_panza_wiki - 0.8631874078251272
+
+3) knight_of_the_white_moon_wiki - 0.8113266713218027
+
+4) lady_dona_dulcinea_del_toboso_wiki - 0.8078011045218888
+
+5) avellaneda_wiki - 0.7872039422039973
+
+6) andres_wiki - 0.7773522469225279
+
+7) amadis_wiki - 0.7082326871503452
+
+8) don_john_wiki - 0.7047038146323839
+
+9) cide_hamete_benengeli_wiki - 0.6828196673666849
+
+10) rodrigo_osorio_wiki - 0.6801114702424068
+
+11) lope_de_vega_wiki - 0.6797266220720605
+
+12) micomicona_wiki - 0.6793523453508054
+
+13) alexander_the_great_wiki - 0.6341123144760552
+
+Result for the vector: cide_hamete_benengeli, coming from part a of the book
+Rank: 7 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7349934104073198
+
+1) senor_don_quixote_of_la_mancha_wiki - 0.8970175858757066
+
+2) don_sancho_panza_wiki - 0.887354055765998
+
+3) lady_dona_dulcinea_del_toboso_wiki - 0.8200697088324734
+
+4) knight_of_the_white_moon_wiki - 0.8192872297339111
+
+5) avellaneda_wiki - 0.8107211960221821
+
+6) andres_wiki - 0.7768838139633966
+
+7) cide_hamete_benengeli_wiki - 0.7349934104073198
+
+8) micomicona_wiki - 0.725881706335851
+
+9) don_john_wiki - 0.7199680900516684
+
+10) rodrigo_osorio_wiki - 0.6864287888578408
+
+11) lope_de_vega_wiki - 0.6835068683036457
+
+12) amadis_wiki - 0.6713611291887085
+
+13) alexander_the_great_wiki - 0.655937630645951
+
+Result for the vector: andres, coming from part a of the book
+Rank: 5 out of 13 characters
+Cosine similarity to the co-referring vector: 0.779361748080306
+
+1) senor_don_quixote_of_la_mancha_wiki - 0.8779917024967586
+
+2) don_sancho_panza_wiki - 0.8638770756611598
+
+3) knight_of_the_white_moon_wiki - 0.8108137604351744
+
+4) lady_dona_dulcinea_del_toboso_wiki - 0.80154653792222
+
+5) andres_wiki - 0.779361748080306
+
+6) avellaneda_wiki - 0.7581409441870736
+
+7) micomicona_wiki - 0.7248172215953969
+
+8) cide_hamete_benengeli_wiki - 0.6953590537928692
+
+9) don_john_wiki - 0.693056585763984
+
+10) rodrigo_osorio_wiki - 0.6775536546904138
+
+11) lope_de_vega_wiki - 0.659494777306759
+
+12) alexander_the_great_wiki - 0.6224376148711926
+
+13) amadis_wiki - 0.6197615039206448
+
+Result for the vector: don_john, coming from part a of the book
+Rank: 7 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7633808710206088
+
+1) senor_don_quixote_of_la_mancha_wiki - 0.8653545379638672
+
+2) don_sancho_panza_wiki - 0.851975670574647
+
+3) lady_dona_dulcinea_del_toboso_wiki - 0.8091089725494385
+
+4) avellaneda_wiki - 0.7902219295501709
+
+5) andres_wiki - 0.7759020924568176
+
+6) knight_of_the_white_moon_wiki - 0.7650461336942845
+
+7) don_john_wiki - 0.7633808710206088
+
+8) amadis_wiki - 0.7501136288080704
+
+9) rodrigo_osorio_wiki - 0.7429725970609558
+
+10) micomicona_wiki - 0.694046121480831
+
+11) cide_hamete_benengeli_wiki - 0.6847612669921689
+
+12) lope_de_vega_wiki - 0.6802539229393005
+
+13) alexander_the_great_wiki - 0.6677247881889343
+
+Result for the vector: micomicona, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8783966681474465
+
+1) micomicona_wiki - 0.8783966681474465
+
+2) senor_don_quixote_of_la_mancha_wiki - 0.8660076100835397
+
+3) don_sancho_panza_wiki - 0.8535480833437606
+
+4) lady_dona_dulcinea_del_toboso_wiki - 0.8377299115335896
+
+5) knight_of_the_white_moon_wiki - 0.8230640186705732
+
+6) avellaneda_wiki - 0.7537163798471004
+
+7) andres_wiki - 0.7367732211081105
+
+8) cide_hamete_benengeli_wiki - 0.7212880947508994
+
+9) rodrigo_osorio_wiki - 0.6888041535861779
+
+10) don_john_wiki - 0.6682511570902759
+
+11) lope_de_vega_wiki - 0.663690467320741
+
+12) amadis_wiki - 0.6411000849455747
+
+13) alexander_the_great_wiki - 0.5640324430504413
+
+Result for the vector: lope_de_vega, coming from part a of the book
+Rank: 9 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7133993719041164
+
+1) senor_don_quixote_of_la_mancha_wiki - 0.9287522115931578
+
+2) don_sancho_panza_wiki - 0.9246542684424763
+
+3) avellaneda_wiki - 0.8922490743472901
+
+4) lady_dona_dulcinea_del_toboso_wiki - 0.8810544276551736
+
+5) andres_wiki - 0.8619047660203212
+
+6) rodrigo_osorio_wiki - 0.8355607541406833
+
+7) amadis_wiki - 0.8241346373638294
+
+8) knight_of_the_white_moon_wiki - 0.793496942713951
+
+9) lope_de_vega_wiki - 0.7133993719041164
+
+10) don_john_wiki - 0.71061706935916
+
+11) micomicona_wiki - 0.6828394546663277
+
+12) cide_hamete_benengeli_wiki - 0.6616167421594332
+
+13) alexander_the_great_wiki - 0.6271159239743929
+
+Result for the vector: knight_of_the_white_moon, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8820298980456667
+
+1) knight_of_the_white_moon_wiki - 0.8820298980456667
+
+2) senor_don_quixote_of_la_mancha_wiki - 0.8636299967765808
+
+3) don_sancho_panza_wiki - 0.8435345794877174
+
+4) lady_dona_dulcinea_del_toboso_wiki - 0.8173196911811829
+
+5) avellaneda_wiki - 0.7647912502288818
+
+6) andres_wiki - 0.7606237530708313
+
+7) micomicona_wiki - 0.7222353650471799
+
+8) lope_de_vega_wiki - 0.7067687511444092
+
+9) cide_hamete_benengeli_wiki - 0.6935219582034337
+
+10) rodrigo_osorio_wiki - 0.668758193776501
+
+11) don_john_wiki - 0.6630350746533331
+
+12) amadis_wiki - 0.612694639345844
+
+13) alexander_the_great_wiki - 0.6111617684364319
+
+Result for the vector: alexander_the_great, coming from part a of the book
+Rank: 13 out of 13 characters
+Cosine similarity to the co-referring vector: 0.6262929066245027
+
+1) senor_don_quixote_of_la_mancha_wiki - 0.8478339405158809
+
+2) don_sancho_panza_wiki - 0.8375577926635802
+
+3) lady_dona_dulcinea_del_toboso_wiki - 0.799706947820966
+
+4) knight_of_the_white_moon_wiki - 0.7809204720353518
+
+5) avellaneda_wiki - 0.7807010542928557
+
+6) andres_wiki - 0.7309135358981184
+
+7) don_john_wiki - 0.6899077296257068
+
+8) lope_de_vega_wiki - 0.6690732437924609
+
+9) cide_hamete_benengeli_wiki - 0.6556860208511399
+
+10) micomicona_wiki - 0.6443024873733566
+
+11) amadis_wiki - 0.6418590950411853
+
+12) rodrigo_osorio_wiki - 0.63670933246613
+
+13) alexander_the_great_wiki - 0.6262929066245027
+
+Result for the vector: rodrigo_osorio, coming from part a of the book
+Rank: 4 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8479736862151249
+
+1) senor_don_quixote_of_la_mancha_wiki - 0.8914305503028975
+
+2) don_sancho_panza_wiki - 0.8910803068972
+
+3) andres_wiki - 0.8556819472123368
+
+4) rodrigo_osorio_wiki - 0.8479736862151249
+
+5) amadis_wiki - 0.8461545270223496
+
+6) lady_dona_dulcinea_del_toboso_wiki - 0.8312706250709683
+
+7) avellaneda_wiki - 0.8303523558588255
+
+8) knight_of_the_white_moon_wiki - 0.7563979625701958
+
+9) don_john_wiki - 0.7331369797154641
+
+10) lope_de_vega_wiki - 0.6884846501639289
+
+11) micomicona_wiki - 0.6814592100929272
+
+12) cide_hamete_benengeli_wiki - 0.6733539311115659
+
+13) alexander_the_great_wiki - 0.6674902836972656
+
+Result for the vector: avellaneda, coming from part a of the book
+Rank: 3 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8767222688628611
+
+1) senor_don_quixote_of_la_mancha_wiki - 0.9168382237457187
+
+2) don_sancho_panza_wiki - 0.9047045594101619
+
+3) avellaneda_wiki - 0.8767222688628611
+
+4) lady_dona_dulcinea_del_toboso_wiki - 0.8527974398611465
+
+5) andres_wiki - 0.8137434013929025
+
+6) knight_of_the_white_moon_wiki - 0.8006618618965206
+
+7) don_john_wiki - 0.7346629184082649
+
+8) rodrigo_osorio_wiki - 0.7300955927485934
+
+9) lope_de_vega_wiki - 0.7107419795240164
+
+10) amadis_wiki - 0.7056604658657732
+
+11) cide_hamete_benengeli_wiki - 0.6968290444408708
+
+12) micomicona_wiki - 0.6906012523891034
+
+13) alexander_the_great_wiki - 0.6433208968234608
+

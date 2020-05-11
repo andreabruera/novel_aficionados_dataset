@@ -1,0 +1,1292 @@
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9663774351106562
+
+1) time_b - 0.9663774351106562
+
+2) day_b - 0.9582610751234998
+
+3) night_b - 0.9497111692766405
+
+4) way_b - 0.9453706990513835
+
+5) thing_b - 0.926789651546097
+
+6) place_b - 0.9101994091153642
+
+7) minute_b - 0.9093162905354846
+
+8) man_b - 0.8869722552912225
+
+9) nigger_b - 0.8800832033157411
+
+10) people_b - 0.8788514137268129
+
+11) duke_b - 0.8713305805118762
+
+12) king_b - 0.8694501441389424
+
+13) raft_b - 0.8625994078992754
+
+14) head_b - 0.8605286908779968
+
+15) nothing_b - 0.8523723991139188
+
+16) hand_b - 0.8379645347595275
+
+17) river_b - 0.7746356129646357
+
+Result for the vector: way, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9775530404581753
+
+1) way_b - 0.9775530404581753
+
+2) thing_b - 0.9576906200782733
+
+3) time_b - 0.9560999896466755
+
+4) place_b - 0.9546806297277295
+
+5) night_b - 0.9326758106745575
+
+6) day_b - 0.9280696639890096
+
+7) nigger_b - 0.9129843219537351
+
+8) man_b - 0.9095692200238924
+
+9) people_b - 0.9084807743453056
+
+10) head_b - 0.9080125093460147
+
+11) raft_b - 0.9070432130720292
+
+12) duke_b - 0.8958105258603242
+
+13) nothing_b - 0.892096347087841
+
+14) king_b - 0.8889340228477719
+
+15) minute_b - 0.8868790864944521
+
+16) hand_b - 0.877018466351215
+
+17) river_b - 0.8164050797933244
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9658173363426591
+
+1) man_b - 0.9658173363426591
+
+2) nigger_b - 0.9478622706018541
+
+3) king_b - 0.9291458129882812
+
+4) duke_b - 0.9227711374214286
+
+5) people_b - 0.9114063434954693
+
+6) thing_b - 0.8998382776638448
+
+7) place_b - 0.8920728096875242
+
+8) way_b - 0.891045298905531
+
+9) raft_b - 0.8903359043998668
+
+10) night_b - 0.8654352088402277
+
+11) time_b - 0.857620358467102
+
+12) head_b - 0.8551414522612976
+
+13) day_b - 0.8494022072074227
+
+14) minute_b - 0.8381644986965968
+
+15) hand_b - 0.8317129712275895
+
+16) nothing_b - 0.817278265953064
+
+17) river_b - 0.7662816186975482
+
+Result for the vector: thing, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9803478074903186
+
+1) thing_b - 0.9803478074903186
+
+2) way_b - 0.9522427888061278
+
+3) place_b - 0.9477188931955002
+
+4) nigger_b - 0.933142276610668
+
+5) time_b - 0.9329412857574612
+
+6) people_b - 0.9325136264409571
+
+7) man_b - 0.9233816632585333
+
+8) raft_b - 0.9189840732491162
+
+9) night_b - 0.9179308961588678
+
+10) day_b - 0.9109352012632709
+
+11) duke_b - 0.909903949175364
+
+12) head_b - 0.9054460738998126
+
+13) nothing_b - 0.905067768844002
+
+14) king_b - 0.8966623811919211
+
+15) hand_b - 0.8821630215000241
+
+16) minute_b - 0.8580666355550265
+
+17) river_b - 0.7943380834359534
+
+Result for the vector: nigger, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9807161115746366
+
+1) nigger_b - 0.9807161115746366
+
+2) man_b - 0.9711135081445875
+
+3) people_b - 0.9558216386053993
+
+4) thing_b - 0.9479561072522903
+
+5) king_b - 0.9476512105672846
+
+6) duke_b - 0.9467543864407458
+
+7) way_b - 0.9393809753840908
+
+8) place_b - 0.9373385422220469
+
+9) raft_b - 0.9363512358874969
+
+10) night_b - 0.90820881997917
+
+11) head_b - 0.9010194540023868
+
+12) time_b - 0.8969421448146034
+
+13) day_b - 0.8878908357815456
+
+14) hand_b - 0.8798240566463403
+
+15) nothing_b - 0.8763113691621218
+
+16) minute_b - 0.867534399032599
+
+17) river_b - 0.8080314626656219
+
+Result for the vector: nothing, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9842012515188027
+
+1) nothing_b - 0.9842012515188027
+
+2) thing_b - 0.8998115092010474
+
+3) way_b - 0.8849287228222543
+
+4) people_b - 0.8767098784446778
+
+5) time_b - 0.8699669760445954
+
+6) place_b - 0.8605164968659719
+
+7) night_b - 0.8588717751686376
+
+8) nigger_b - 0.8579459190368713
+
+9) man_b - 0.8492779225541535
+
+10) day_b - 0.8456218930708369
+
+11) duke_b - 0.8384196872769988
+
+12) head_b - 0.8352223438289575
+
+13) king_b - 0.8282942669567044
+
+14) raft_b - 0.8255745456650055
+
+15) hand_b - 0.8093893527984677
+
+16) minute_b - 0.7970710154856462
+
+17) river_b - 0.7330069541931205
+
+Result for the vector: king, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9791287779808044
+
+1) king_b - 0.9791287779808044
+
+2) duke_b - 0.9744611321595307
+
+3) nigger_b - 0.9563546206739788
+
+4) man_b - 0.9531623776957606
+
+5) people_b - 0.9316471855850722
+
+6) raft_b - 0.9114219440724848
+
+7) thing_b - 0.8959156951728618
+
+8) way_b - 0.8875187303876503
+
+9) place_b - 0.876206889604707
+
+10) night_b - 0.8698876163329967
+
+11) time_b - 0.850287675857544
+
+12) head_b - 0.8486516385466852
+
+13) day_b - 0.8449608868407206
+
+14) hand_b - 0.8361301519793196
+
+15) minute_b - 0.8207082641546898
+
+16) nothing_b - 0.815424919128418
+
+17) river_b - 0.7779242528722149
+
+Result for the vector: night, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9818874283332318
+
+1) night_b - 0.9818874283332318
+
+2) day_b - 0.9682900924509863
+
+3) time_b - 0.9477309553462853
+
+4) way_b - 0.9418490179046115
+
+5) place_b - 0.9158566644277323
+
+6) thing_b - 0.9135294026662398
+
+7) minute_b - 0.8938938252799302
+
+8) people_b - 0.8824607133865419
+
+9) nigger_b - 0.882107734680182
+
+10) man_b - 0.8811715316074314
+
+11) raft_b - 0.8779808064664868
+
+12) duke_b - 0.8718895530371665
+
+13) king_b - 0.8706214946878863
+
+14) nothing_b - 0.8594722664041693
+
+15) head_b - 0.8530292335783521
+
+16) hand_b - 0.8273949623107969
+
+17) river_b - 0.7962923049926814
+
+Result for the vector: day, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9817003033518499
+
+1) day_b - 0.9817003033518499
+
+2) night_b - 0.9671798636668885
+
+3) time_b - 0.9312576055526733
+
+4) way_b - 0.9216205156332412
+
+5) minute_b - 0.9213824821342533
+
+6) thing_b - 0.9065397484832675
+
+7) place_b - 0.9057914130936433
+
+8) man_b - 0.8855885999693218
+
+9) nigger_b - 0.8807172250320197
+
+10) people_b - 0.8790097904795549
+
+11) raft_b - 0.8675250849157735
+
+12) king_b - 0.8634846806526184
+
+13) duke_b - 0.8632500441670768
+
+14) nothing_b - 0.8453277349472046
+
+15) head_b - 0.8450624850429601
+
+16) hand_b - 0.8288274509413585
+
+17) river_b - 0.7847863564022581
+
+Result for the vector: hand, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9698178190101511
+
+1) hand_b - 0.9698178190101511
+
+2) head_b - 0.9442274537222076
+
+3) place_b - 0.8953707342898034
+
+4) nigger_b - 0.8781570864822232
+
+5) way_b - 0.8771592043983704
+
+6) thing_b - 0.8754133620230607
+
+7) raft_b - 0.8737465588744415
+
+8) people_b - 0.869899578696516
+
+9) man_b - 0.8682147421580922
+
+10) night_b - 0.8551163928245427
+
+11) duke_b - 0.8447070943611134
+
+12) king_b - 0.8391879200935364
+
+13) day_b - 0.8370730475100282
+
+14) time_b - 0.8338024616241455
+
+15) nothing_b - 0.8163487315177917
+
+16) minute_b - 0.8132597692763682
+
+17) river_b - 0.768716587500777
+
+Result for the vector: head, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.97078090731984
+
+1) head_b - 0.97078090731984
+
+2) hand_b - 0.9409418737326952
+
+3) place_b - 0.9195659256498968
+
+4) raft_b - 0.9158857960564912
+
+5) way_b - 0.8979440003020768
+
+6) nigger_b - 0.897024995265903
+
+7) thing_b - 0.8893066115721145
+
+8) people_b - 0.8877291746300967
+
+9) man_b - 0.8875805273556143
+
+10) duke_b - 0.8747098147177503
+
+11) king_b - 0.8669899702072144
+
+12) night_b - 0.8655098934623571
+
+13) time_b - 0.8462422490119934
+
+14) day_b - 0.842462022011045
+
+15) nothing_b - 0.827423632144928
+
+16) river_b - 0.8183006752550214
+
+17) minute_b - 0.8133865483633621
+
+Result for the vector: river, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9785806549441441
+
+1) river_b - 0.9785806549441441
+
+2) raft_b - 0.924054315573498
+
+3) place_b - 0.892435503907746
+
+4) way_b - 0.8662004132926591
+
+5) night_b - 0.8495677962770405
+
+6) nigger_b - 0.8483878464467632
+
+7) duke_b - 0.845414840081916
+
+8) thing_b - 0.840908225964254
+
+9) king_b - 0.8404349088668823
+
+10) people_b - 0.8366255857571625
+
+11) man_b - 0.8363435463495855
+
+12) day_b - 0.8215429995604813
+
+13) head_b - 0.8166811356950497
+
+14) time_b - 0.8136302828788757
+
+15) hand_b - 0.7861062415774931
+
+16) minute_b - 0.7732891305261346
+
+17) nothing_b - 0.7673321962356567
+
+Result for the vector: duke, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9818692164109548
+
+1) duke_b - 0.9818692164109548
+
+2) king_b - 0.976229190826416
+
+3) nigger_b - 0.9519190220881109
+
+4) man_b - 0.9463418786118243
+
+5) people_b - 0.9247824594508152
+
+6) raft_b - 0.9121013178946223
+
+7) thing_b - 0.890427596360261
+
+8) way_b - 0.8791845702881987
+
+9) place_b - 0.8725729736598824
+
+10) night_b - 0.863899495121822
+
+11) head_b - 0.8417701030832605
+
+12) time_b - 0.8414978981018066
+
+13) day_b - 0.8364232973547879
+
+14) hand_b - 0.8304927450124788
+
+15) minute_b - 0.8110885507517204
+
+16) nothing_b - 0.8022026419639587
+
+17) river_b - 0.7738801375698975
+
+Result for the vector: place, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9774259978709225
+
+1) place_b - 0.9774259978709225
+
+2) way_b - 0.9381617660973981
+
+3) raft_b - 0.9355691671371726
+
+4) thing_b - 0.923408948487893
+
+5) night_b - 0.9112672587096263
+
+6) nigger_b - 0.9073347018954707
+
+7) time_b - 0.8998879313602594
+
+8) man_b - 0.8991774560982093
+
+9) people_b - 0.8930692267890182
+
+10) head_b - 0.8920031254289814
+
+11) day_b - 0.8912743589223959
+
+12) duke_b - 0.8871888979899137
+
+13) king_b - 0.8749551922136378
+
+14) hand_b - 0.8607715021184397
+
+15) minute_b - 0.8554417577122732
+
+16) river_b - 0.8537253402962688
+
+17) nothing_b - 0.8434316106520223
+
+Result for the vector: people, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9754200010991095
+
+1) people_b - 0.9754200010991095
+
+2) man_b - 0.9526519860055489
+
+3) nigger_b - 0.9521886167301397
+
+4) duke_b - 0.9325446365853909
+
+5) thing_b - 0.9263110349046079
+
+6) king_b - 0.9219166683008289
+
+7) way_b - 0.9129465546325912
+
+8) place_b - 0.9036979251448066
+
+9) raft_b - 0.9005728304727717
+
+10) night_b - 0.8904681536415805
+
+11) time_b - 0.889874643690907
+
+12) nothing_b - 0.8890540665951944
+
+13) day_b - 0.877788625158915
+
+14) head_b - 0.8732154965400758
+
+15) hand_b - 0.8579941561229043
+
+16) minute_b - 0.8195821046829281
+
+17) river_b - 0.7745358616666959
+
+Result for the vector: raft, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9808872903979957
+
+1) raft_b - 0.9808872903979957
+
+2) place_b - 0.9306950014415531
+
+3) nigger_b - 0.9201371073722905
+
+4) duke_b - 0.9117362236190655
+
+5) king_b - 0.9034340324064528
+
+6) man_b - 0.9017314969461409
+
+7) way_b - 0.9009224981894346
+
+8) thing_b - 0.8998486429047025
+
+9) people_b - 0.895500481128699
+
+10) river_b - 0.8880646824836794
+
+11) night_b - 0.8845843271539507
+
+12) head_b - 0.8830925086846958
+
+13) day_b - 0.8583734119908105
+
+14) hand_b - 0.8562873005867065
+
+15) time_b - 0.8542958411154667
+
+16) minute_b - 0.8188441179804943
+
+17) nothing_b - 0.8068418387676396
+
+Result for the vector: minute, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9700249433517525
+
+1) minute_b - 0.9700249433517525
+
+2) day_b - 0.9050184658136743
+
+3) time_b - 0.8942642870983922
+
+4) way_b - 0.8696260193101792
+
+5) night_b - 0.8624611835938374
+
+6) place_b - 0.854007568238814
+
+7) thing_b - 0.8507123665083307
+
+8) man_b - 0.8491284520992439
+
+9) nigger_b - 0.8232704611694263
+
+10) king_b - 0.8098930829827155
+
+11) raft_b - 0.8093460088578597
+
+12) duke_b - 0.8092324988662064
+
+13) people_b - 0.8083005776047018
+
+14) head_b - 0.8080973625183163
+
+15) nothing_b - 0.7845496663719629
+
+16) hand_b - 0.7800539994175435
+
+17) river_b - 0.7290945376045063
+
+Result for the vector: time, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9663774351106562
+
+1) time_a - 0.9663774351106562
+
+2) way_a - 0.9560999896466755
+
+3) night_a - 0.9477309553462853
+
+4) thing_a - 0.9329412857574612
+
+5) day_a - 0.9312576055526733
+
+6) place_a - 0.8998879313602594
+
+7) nigger_a - 0.8969421448146034
+
+8) minute_a - 0.8942642870983922
+
+9) people_a - 0.889874643690907
+
+10) nothing_a - 0.8699669760445954
+
+11) man_a - 0.857620358467102
+
+12) raft_a - 0.8542958411154667
+
+13) king_a - 0.850287675857544
+
+14) head_a - 0.8462422490119934
+
+15) duke_a - 0.8414978981018066
+
+16) hand_a - 0.8338024616241455
+
+17) river_a - 0.8136302828788757
+
+Result for the vector: way, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9775530404581753
+
+1) way_a - 0.9775530404581753
+
+2) thing_a - 0.9522427888061278
+
+3) time_a - 0.9453706990513835
+
+4) night_a - 0.9418490179046115
+
+5) nigger_a - 0.9393809753840908
+
+6) place_a - 0.9381617660973981
+
+7) day_a - 0.9216205156332412
+
+8) people_a - 0.9129465546325912
+
+9) raft_a - 0.9009224981894346
+
+10) head_a - 0.8979440003020768
+
+11) man_a - 0.891045298905531
+
+12) king_a - 0.8875187303876503
+
+13) nothing_a - 0.8849287228222543
+
+14) duke_a - 0.8791845702881987
+
+15) hand_a - 0.8771592043983704
+
+16) minute_a - 0.8696260193101792
+
+17) river_a - 0.8662004132926591
+
+Result for the vector: man, coming from part b of the book
+Rank: 2 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9658173363426591
+
+1) nigger_a - 0.9711135081445875
+
+2) man_a - 0.9658173363426591
+
+3) king_a - 0.9531623776957606
+
+4) people_a - 0.9526519860055489
+
+5) duke_a - 0.9463418786118243
+
+6) thing_a - 0.9233816632585333
+
+7) way_a - 0.9095692200238924
+
+8) raft_a - 0.9017314969461409
+
+9) place_a - 0.8991774560982093
+
+10) head_a - 0.8875805273556143
+
+11) time_a - 0.8869722552912225
+
+12) day_a - 0.8855885999693218
+
+13) night_a - 0.8811715316074314
+
+14) hand_a - 0.8682147421580922
+
+15) nothing_a - 0.8492779225541535
+
+16) minute_a - 0.8491284520992439
+
+17) river_a - 0.8363435463495855
+
+Result for the vector: thing, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9803478074903186
+
+1) thing_a - 0.9803478074903186
+
+2) way_a - 0.9576906200782733
+
+3) nigger_a - 0.9479561072522903
+
+4) time_a - 0.926789651546097
+
+5) people_a - 0.9263110349046079
+
+6) place_a - 0.923408948487893
+
+7) night_a - 0.9135294026662398
+
+8) day_a - 0.9065397484832675
+
+9) raft_a - 0.8998486429047025
+
+10) man_a - 0.8998382776638448
+
+11) nothing_a - 0.8998115092010474
+
+12) king_a - 0.8959156951728618
+
+13) duke_a - 0.890427596360261
+
+14) head_a - 0.8893066115721145
+
+15) hand_a - 0.8754133620230607
+
+16) minute_a - 0.8507123665083307
+
+17) river_a - 0.840908225964254
+
+Result for the vector: nigger, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9807161115746366
+
+1) nigger_a - 0.9807161115746366
+
+2) king_a - 0.9563546206739788
+
+3) people_a - 0.9521886167301397
+
+4) duke_a - 0.9519190220881109
+
+5) man_a - 0.9478622706018541
+
+6) thing_a - 0.933142276610668
+
+7) raft_a - 0.9201371073722905
+
+8) way_a - 0.9129843219537351
+
+9) place_a - 0.9073347018954707
+
+10) head_a - 0.897024995265903
+
+11) night_a - 0.882107734680182
+
+12) day_a - 0.8807172250320197
+
+13) time_a - 0.8800832033157411
+
+14) hand_a - 0.8781570864822232
+
+15) nothing_a - 0.8579459190368713
+
+16) river_a - 0.8483878464467632
+
+17) minute_a - 0.8232704611694263
+
+Result for the vector: nothing, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9842012515188027
+
+1) nothing_a - 0.9842012515188027
+
+2) thing_a - 0.905067768844002
+
+3) way_a - 0.892096347087841
+
+4) people_a - 0.8890540665951944
+
+5) nigger_a - 0.8763113691621218
+
+6) night_a - 0.8594722664041693
+
+7) time_a - 0.8523723991139188
+
+8) day_a - 0.8453277349472046
+
+9) place_a - 0.8434316106520223
+
+10) head_a - 0.827423632144928
+
+11) man_a - 0.817278265953064
+
+12) hand_a - 0.8163487315177917
+
+13) king_a - 0.815424919128418
+
+14) raft_a - 0.8068418387676396
+
+15) duke_a - 0.8022026419639587
+
+16) minute_a - 0.7845496663719629
+
+17) river_a - 0.7673321962356567
+
+Result for the vector: king, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9791287779808044
+
+1) king_a - 0.9791287779808044
+
+2) duke_a - 0.976229190826416
+
+3) nigger_a - 0.9476512105672846
+
+4) man_a - 0.9291458129882812
+
+5) people_a - 0.9219166683008289
+
+6) raft_a - 0.9034340324064528
+
+7) thing_a - 0.8966623811919211
+
+8) way_a - 0.8889340228477719
+
+9) place_a - 0.8749551922136378
+
+10) night_a - 0.8706214946878863
+
+11) time_a - 0.8694501441389424
+
+12) head_a - 0.8669899702072144
+
+13) day_a - 0.8634846806526184
+
+14) river_a - 0.8404349088668823
+
+15) hand_a - 0.8391879200935364
+
+16) nothing_a - 0.8282942669567044
+
+17) minute_a - 0.8098930829827155
+
+Result for the vector: night, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9818874283332318
+
+1) night_a - 0.9818874283332318
+
+2) day_a - 0.9671798636668885
+
+3) time_a - 0.9497111692766405
+
+4) way_a - 0.9326758106745575
+
+5) thing_a - 0.9179308961588678
+
+6) place_a - 0.9112672587096263
+
+7) nigger_a - 0.90820881997917
+
+8) people_a - 0.8904681536415805
+
+9) raft_a - 0.8845843271539507
+
+10) king_a - 0.8698876163329967
+
+11) head_a - 0.8655098934623571
+
+12) man_a - 0.8654352088402277
+
+13) duke_a - 0.863899495121822
+
+14) minute_a - 0.8624611835938374
+
+15) nothing_a - 0.8588717751686376
+
+16) hand_a - 0.8551163928245427
+
+17) river_a - 0.8495677962770405
+
+Result for the vector: day, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9817003033518499
+
+1) day_a - 0.9817003033518499
+
+2) night_a - 0.9682900924509863
+
+3) time_a - 0.9582610751234998
+
+4) way_a - 0.9280696639890096
+
+5) thing_a - 0.9109352012632709
+
+6) minute_a - 0.9050184658136743
+
+7) place_a - 0.8912743589223959
+
+8) nigger_a - 0.8878908357815456
+
+9) people_a - 0.877788625158915
+
+10) raft_a - 0.8583734119908105
+
+11) man_a - 0.8494022072074227
+
+12) nothing_a - 0.8456218930708369
+
+13) king_a - 0.8449608868407206
+
+14) head_a - 0.842462022011045
+
+15) hand_a - 0.8370730475100282
+
+16) duke_a - 0.8364232973547879
+
+17) river_a - 0.8215429995604813
+
+Result for the vector: hand, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9698178190101511
+
+1) hand_a - 0.9698178190101511
+
+2) head_a - 0.9409418737326952
+
+3) thing_a - 0.8821630215000241
+
+4) nigger_a - 0.8798240566463403
+
+5) way_a - 0.877018466351215
+
+6) place_a - 0.8607715021184397
+
+7) people_a - 0.8579941561229043
+
+8) raft_a - 0.8562873005867065
+
+9) time_a - 0.8379645347595275
+
+10) king_a - 0.8361301519793196
+
+11) man_a - 0.8317129712275895
+
+12) duke_a - 0.8304927450124788
+
+13) day_a - 0.8288274509413585
+
+14) night_a - 0.8273949623107969
+
+15) nothing_a - 0.8093893527984677
+
+16) river_a - 0.7861062415774931
+
+17) minute_a - 0.7800539994175435
+
+Result for the vector: head, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.97078090731984
+
+1) head_a - 0.97078090731984
+
+2) hand_a - 0.9442274537222076
+
+3) way_a - 0.9080125093460147
+
+4) thing_a - 0.9054460738998126
+
+5) nigger_a - 0.9010194540023868
+
+6) place_a - 0.8920031254289814
+
+7) raft_a - 0.8830925086846958
+
+8) people_a - 0.8732154965400758
+
+9) time_a - 0.8605286908779968
+
+10) man_a - 0.8551414522612976
+
+11) night_a - 0.8530292335783521
+
+12) king_a - 0.8486516385466852
+
+13) day_a - 0.8450624850429601
+
+14) duke_a - 0.8417701030832605
+
+15) nothing_a - 0.8352223438289575
+
+16) river_a - 0.8166811356950497
+
+17) minute_a - 0.8080973625183163
+
+Result for the vector: river, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9785806549441441
+
+1) river_a - 0.9785806549441441
+
+2) raft_a - 0.8880646824836794
+
+3) place_a - 0.8537253402962688
+
+4) head_a - 0.8183006752550214
+
+5) way_a - 0.8164050797933244
+
+6) nigger_a - 0.8080314626656219
+
+7) night_a - 0.7962923049926814
+
+8) thing_a - 0.7943380834359534
+
+9) day_a - 0.7847863564022581
+
+10) king_a - 0.7779242528722149
+
+11) time_a - 0.7746356129646357
+
+12) people_a - 0.7745358616666959
+
+13) duke_a - 0.7738801375698975
+
+14) hand_a - 0.768716587500777
+
+15) man_a - 0.7662816186975482
+
+16) nothing_a - 0.7330069541931205
+
+17) minute_a - 0.7290945376045063
+
+Result for the vector: duke, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9818692164109548
+
+1) duke_a - 0.9818692164109548
+
+2) king_a - 0.9744611321595307
+
+3) nigger_a - 0.9467543864407458
+
+4) people_a - 0.9325446365853909
+
+5) man_a - 0.9227711374214286
+
+6) raft_a - 0.9117362236190655
+
+7) thing_a - 0.909903949175364
+
+8) way_a - 0.8958105258603242
+
+9) place_a - 0.8871888979899137
+
+10) head_a - 0.8747098147177503
+
+11) night_a - 0.8718895530371665
+
+12) time_a - 0.8713305805118762
+
+13) day_a - 0.8632500441670768
+
+14) river_a - 0.845414840081916
+
+15) hand_a - 0.8447070943611134
+
+16) nothing_a - 0.8384196872769988
+
+17) minute_a - 0.8092324988662064
+
+Result for the vector: place, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9774259978709225
+
+1) place_a - 0.9774259978709225
+
+2) way_a - 0.9546806297277295
+
+3) thing_a - 0.9477188931955002
+
+4) nigger_a - 0.9373385422220469
+
+5) raft_a - 0.9306950014415531
+
+6) head_a - 0.9195659256498968
+
+7) night_a - 0.9158566644277323
+
+8) time_a - 0.9101994091153642
+
+9) day_a - 0.9057914130936433
+
+10) people_a - 0.9036979251448066
+
+11) hand_a - 0.8953707342898034
+
+12) river_a - 0.892435503907746
+
+13) man_a - 0.8920728096875242
+
+14) king_a - 0.876206889604707
+
+15) duke_a - 0.8725729736598824
+
+16) nothing_a - 0.8605164968659719
+
+17) minute_a - 0.854007568238814
+
+Result for the vector: people, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9754200010991095
+
+1) people_a - 0.9754200010991095
+
+2) nigger_a - 0.9558216386053993
+
+3) thing_a - 0.9325136264409571
+
+4) king_a - 0.9316471855850722
+
+5) duke_a - 0.9247824594508152
+
+6) man_a - 0.9114063434954693
+
+7) way_a - 0.9084807743453056
+
+8) raft_a - 0.895500481128699
+
+9) place_a - 0.8930692267890182
+
+10) head_a - 0.8877291746300967
+
+11) night_a - 0.8824607133865419
+
+12) day_a - 0.8790097904795549
+
+13) time_a - 0.8788514137268129
+
+14) nothing_a - 0.8767098784446778
+
+15) hand_a - 0.869899578696516
+
+16) river_a - 0.8366255857571625
+
+17) minute_a - 0.8083005776047018
+
+Result for the vector: raft, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9808872903979957
+
+1) raft_a - 0.9808872903979957
+
+2) nigger_a - 0.9363512358874969
+
+3) place_a - 0.9355691671371726
+
+4) river_a - 0.924054315573498
+
+5) thing_a - 0.9189840732491162
+
+6) head_a - 0.9158857960564912
+
+7) duke_a - 0.9121013178946223
+
+8) king_a - 0.9114219440724848
+
+9) way_a - 0.9070432130720292
+
+10) people_a - 0.9005728304727717
+
+11) man_a - 0.8903359043998668
+
+12) night_a - 0.8779808064664868
+
+13) hand_a - 0.8737465588744415
+
+14) day_a - 0.8675250849157735
+
+15) time_a - 0.8625994078992754
+
+16) nothing_a - 0.8255745456650055
+
+17) minute_a - 0.8093460088578597
+
+Result for the vector: minute, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9700249433517525
+
+1) minute_a - 0.9700249433517525
+
+2) day_a - 0.9213824821342533
+
+3) time_a - 0.9093162905354846
+
+4) night_a - 0.8938938252799302
+
+5) way_a - 0.8868790864944521
+
+6) nigger_a - 0.867534399032599
+
+7) thing_a - 0.8580666355550265
+
+8) place_a - 0.8554417577122732
+
+9) man_a - 0.8381644986965968
+
+10) king_a - 0.8207082641546898
+
+11) people_a - 0.8195821046829281
+
+12) raft_a - 0.8188441179804943
+
+13) head_a - 0.8133865483633621
+
+14) hand_a - 0.8132597692763682
+
+15) duke_a - 0.8110885507517204
+
+16) nothing_a - 0.7970710154856462
+
+17) river_a - 0.7732891305261346
+

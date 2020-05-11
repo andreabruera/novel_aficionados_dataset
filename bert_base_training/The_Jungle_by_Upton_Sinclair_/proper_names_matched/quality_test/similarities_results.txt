@@ -1,0 +1,1020 @@
+Result for the vector: jurgis_rudkus, coming from part i of the book
+Rank: 2 out of 15 characters
+Cosine similarity to the co-referring vector: 0.920051299338179
+
+1) tamoszius_kuszleika_a - 0.9236260836759437
+
+2) jurgis_rudkus_a - 0.920051299338179
+
+3) jonas_a - 0.9170590490804468
+
+4) mike_scully_a - 0.9002210051150727
+
+5) jack_duane_a - 0.8986874369811273
+
+6) dede_antanas_a - 0.8971197688531429
+
+7) little_ona_a - 0.8909043209112267
+
+8) teta_elzbieta_a - 0.8888013561488604
+
+9) stanislovas_a - 0.8820328379283519
+
+10) phil_connor_a - 0.8741077295106343
+
+11) marija_berczynskas_a - 0.871205996156642
+
+12) durham_and_company_a - 0.8612785008617657
+
+13) kotrina_a - 0.8446318070261489
+
+14) brown_a - 0.8403430295603984
+
+15) jones_a - 0.814746371007702
+
+Result for the vector: marija_berczynskas, coming from part i of the book
+Rank: 11 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7381785668028268
+
+1) little_ona_a - 0.7742202416527141
+
+2) teta_elzbieta_a - 0.7716145787698533
+
+3) jonas_a - 0.7698911795052565
+
+4) tamoszius_kuszleika_a - 0.7664163251867114
+
+5) stanislovas_a - 0.7522011842367929
+
+6) durham_and_company_a - 0.7506897673216476
+
+7) jack_duane_a - 0.7486907989567055
+
+8) brown_a - 0.7475482598677826
+
+9) dede_antanas_a - 0.7473640441894585
+
+10) phil_connor_a - 0.7388974583806135
+
+11) marija_berczynskas_a - 0.7381785668028268
+
+12) jurgis_rudkus_a - 0.7337120492801608
+
+13) kotrina_a - 0.7320914587865521
+
+14) mike_scully_a - 0.7129792146099094
+
+15) jones_a - 0.6870426535606433
+
+Result for the vector: little_ona, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9088350805293052
+
+1) little_ona_a - 0.9088350805293052
+
+2) marija_berczynskas_a - 0.9042845041836655
+
+3) teta_elzbieta_a - 0.8973561257911918
+
+4) jonas_a - 0.8778214381826781
+
+5) kotrina_a - 0.8617044430463217
+
+6) tamoszius_kuszleika_a - 0.8492675080677128
+
+7) stanislovas_a - 0.8479680256872248
+
+8) dede_antanas_a - 0.8365818414016228
+
+9) jurgis_rudkus_a - 0.8326980819494137
+
+10) phil_connor_a - 0.8231368310194267
+
+11) jack_duane_a - 0.8204980141072877
+
+12) durham_and_company_a - 0.8095079433331437
+
+13) brown_a - 0.8094199186217736
+
+14) mike_scully_a - 0.8011339545587888
+
+15) jones_a - 0.7452281187678685
+
+Result for the vector: teta_elzbieta, coming from part i of the book
+Rank: 8 out of 15 characters
+Cosine similarity to the co-referring vector: 0.6555134253356955
+
+1) stanislovas_a - 0.6680589119178526
+
+2) tamoszius_kuszleika_a - 0.6637644765166497
+
+3) little_ona_a - 0.6615449781607098
+
+4) jurgis_rudkus_a - 0.6606936055628613
+
+5) durham_and_company_a - 0.6602008331181108
+
+6) jonas_a - 0.6582785437439148
+
+7) dede_antanas_a - 0.6559566044742773
+
+8) teta_elzbieta_a - 0.6555134253356955
+
+9) jack_duane_a - 0.6512476192040129
+
+10) brown_a - 0.6440516882004378
+
+11) phil_connor_a - 0.643706200454196
+
+12) kotrina_a - 0.6289789268070209
+
+13) marija_berczynskas_a - 0.6227894386162877
+
+14) mike_scully_a - 0.6130649399517447
+
+15) jones_a - 0.5848574913825829
+
+Result for the vector: dede_antanas, coming from part i of the book
+Rank: 4 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7368006612063442
+
+1) phil_connor_a - 0.7487497403099931
+
+2) jack_duane_a - 0.747959442254258
+
+3) brown_a - 0.7411734153239043
+
+4) dede_antanas_a - 0.7368006612063442
+
+5) stanislovas_a - 0.736296452990296
+
+6) little_ona_a - 0.7307652888386239
+
+7) durham_and_company_a - 0.7297890299181395
+
+8) tamoszius_kuszleika_a - 0.72968465653223
+
+9) jurgis_rudkus_a - 0.7279983379840437
+
+10) jonas_a - 0.7262068660505864
+
+11) teta_elzbieta_a - 0.7208520388857218
+
+12) mike_scully_a - 0.7021285327191857
+
+13) marija_berczynskas_a - 0.6990061431234634
+
+14) kotrina_a - 0.68123360518318
+
+15) jones_a - 0.6781236943786884
+
+Result for the vector: mike_scully, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8048771503494486
+
+1) mike_scully_a - 0.8048771503494486
+
+2) phil_connor_a - 0.795388030730966
+
+3) durham_and_company_a - 0.7908152924202821
+
+4) jonas_a - 0.7867195117520853
+
+5) brown_a - 0.7813947303350032
+
+6) jack_duane_a - 0.7810026276709229
+
+7) dede_antanas_a - 0.7736875145062821
+
+8) jurgis_rudkus_a - 0.7704500555992181
+
+9) tamoszius_kuszleika_a - 0.7700570088658948
+
+10) jones_a - 0.769263538034384
+
+11) little_ona_a - 0.7585591529941067
+
+12) stanislovas_a - 0.7565918709879119
+
+13) teta_elzbieta_a - 0.7557739019393974
+
+14) marija_berczynskas_a - 0.7352107009417249
+
+15) kotrina_a - 0.7078154683113148
+
+Result for the vector: jack_duane, coming from part i of the book
+Rank: 9 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7515563220713344
+
+1) jonas_a - 0.7678527326452198
+
+2) little_ona_a - 0.7653731563909757
+
+3) stanislovas_a - 0.7623751901164659
+
+4) teta_elzbieta_a - 0.7605296373367364
+
+5) marija_berczynskas_a - 0.7575285886245138
+
+6) dede_antanas_a - 0.7573467203792
+
+7) tamoszius_kuszleika_a - 0.7569566224191573
+
+8) phil_connor_a - 0.7530605049765424
+
+9) jack_duane_a - 0.7515563220713344
+
+10) kotrina_a - 0.7434932589530998
+
+11) jurgis_rudkus_a - 0.7430252432823234
+
+12) brown_a - 0.7373882595349786
+
+13) durham_and_company_a - 0.7341557047003071
+
+14) mike_scully_a - 0.7282692628067305
+
+15) jones_a - 0.6848479133663075
+
+Result for the vector: jonas, coming from part i of the book
+Rank: 8 out of 15 characters
+Cosine similarity to the co-referring vector: 0.6779781782024559
+
+1) phil_connor_a - 0.6986985206604004
+
+2) tamoszius_kuszleika_a - 0.6953088045120239
+
+3) little_ona_a - 0.6890170574188232
+
+4) jack_duane_a - 0.6889653205871582
+
+5) dede_antanas_a - 0.6872083358292792
+
+6) stanislovas_a - 0.6843917150030524
+
+7) durham_and_company_a - 0.6798172604874334
+
+8) jonas_a - 0.6779781782024559
+
+9) jurgis_rudkus_a - 0.6757556989338589
+
+10) teta_elzbieta_a - 0.6740607217514096
+
+11) brown_a - 0.671708305827031
+
+12) kotrina_a - 0.6713979440094278
+
+13) marija_berczynskas_a - 0.6664559841156006
+
+14) mike_scully_a - 0.6444056630134583
+
+15) jones_a - 0.6186114918358034
+
+Result for the vector: tamoszius_kuszleika, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7241531230256896
+
+1) tamoszius_kuszleika_a - 0.7241531230256896
+
+2) brown_a - 0.7204691601079202
+
+3) durham_and_company_a - 0.7201193237446946
+
+4) dede_antanas_a - 0.7020146878374837
+
+5) little_ona_a - 0.6921725479415821
+
+6) stanislovas_a - 0.6909828760341296
+
+7) jonas_a - 0.6909218842340639
+
+8) jack_duane_a - 0.6870205011075887
+
+9) phil_connor_a - 0.680279752024405
+
+10) teta_elzbieta_a - 0.6801796948856234
+
+11) jones_a - 0.6750968106177581
+
+12) jurgis_rudkus_a - 0.6665363113124304
+
+13) kotrina_a - 0.6662857929979055
+
+14) marija_berczynskas_a - 0.6662451227380375
+
+15) mike_scully_a - 0.6456547571913829
+
+Result for the vector: brown, coming from part i of the book
+Rank: 3 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7486641034085785
+
+1) durham_and_company_a - 0.7623356666269034
+
+2) stanislovas_a - 0.7556610398696667
+
+3) brown_a - 0.7486641034085785
+
+4) dede_antanas_a - 0.733750506266983
+
+5) kotrina_a - 0.699701982754352
+
+6) tamoszius_kuszleika_a - 0.6933853626251221
+
+7) phil_connor_a - 0.6873469352722168
+
+8) teta_elzbieta_a - 0.6813196133780722
+
+9) jonas_a - 0.6771689855208693
+
+10) jack_duane_a - 0.6769554615020752
+
+11) jones_a - 0.6769102619236875
+
+12) little_ona_a - 0.6737019419670105
+
+13) jurgis_rudkus_a - 0.6667511661797079
+
+14) mike_scully_a - 0.6575292944908142
+
+15) marija_berczynskas_a - 0.6453865766525269
+
+Result for the vector: phil_connor, coming from part i of the book
+Rank: 3 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8579304389295409
+
+1) tamoszius_kuszleika_a - 0.8679128469150859
+
+2) jonas_a - 0.8648556309766345
+
+3) phil_connor_a - 0.8579304389295409
+
+4) little_ona_a - 0.8494623466845499
+
+5) dede_antanas_a - 0.8493571951027509
+
+6) jurgis_rudkus_a - 0.8485789551907561
+
+7) jack_duane_a - 0.846165017440771
+
+8) durham_and_company_a - 0.8434889632741743
+
+9) stanislovas_a - 0.8434029566227692
+
+10) teta_elzbieta_a - 0.8423840654606932
+
+11) mike_scully_a - 0.8400854027347661
+
+12) brown_a - 0.8342150252121732
+
+13) marija_berczynskas_a - 0.8179804818016754
+
+14) kotrina_a - 0.7976180552726493
+
+15) jones_a - 0.7862365225309915
+
+Result for the vector: stanislovas, coming from part i of the book
+Rank: 3 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7617304609143238
+
+1) jack_duane_a - 0.7826880812644958
+
+2) phil_connor_a - 0.7681753635406494
+
+3) stanislovas_a - 0.7617304609143238
+
+4) little_ona_a - 0.7616907954216003
+
+5) dede_antanas_a - 0.7538723798914195
+
+6) durham_and_company_a - 0.7525940614277805
+
+7) teta_elzbieta_a - 0.7479068191107037
+
+8) tamoszius_kuszleika_a - 0.7467241287231445
+
+9) jonas_a - 0.7426478488042313
+
+10) brown_a - 0.7424478156104036
+
+11) jurgis_rudkus_a - 0.7378393567896285
+
+12) mike_scully_a - 0.721439778804779
+
+13) marija_berczynskas_a - 0.7183789610862732
+
+14) kotrina_a - 0.7037568268920895
+
+15) jones_a - 0.6711734337314041
+
+Result for the vector: durham_and_company, coming from part i of the book
+Rank: 2 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8323097973146887
+
+1) brown_a - 0.8330894360866978
+
+2) durham_and_company_a - 0.8323097973146887
+
+3) tamoszius_kuszleika_a - 0.7667971849441528
+
+4) jack_duane_a - 0.7619983553886414
+
+5) jonas_a - 0.7587450372798755
+
+6) phil_connor_a - 0.7561858892440796
+
+7) dede_antanas_a - 0.7556323263426035
+
+8) stanislovas_a - 0.7552166276911995
+
+9) jones_a - 0.7545650455096404
+
+10) teta_elzbieta_a - 0.7494548112478978
+
+11) little_ona_a - 0.7484416961669922
+
+12) jurgis_rudkus_a - 0.7348654428204643
+
+13) mike_scully_a - 0.7326817512512207
+
+14) marija_berczynskas_a - 0.714597225189209
+
+15) kotrina_a - 0.7030002651810501
+
+Result for the vector: kotrina, coming from part i of the book
+Rank: 12 out of 15 characters
+Cosine similarity to the co-referring vector: 0.6727365244502096
+
+1) jack_duane_a - 0.7304751002222232
+
+2) stanislovas_a - 0.7148471558458434
+
+3) dede_antanas_a - 0.7121091656619921
+
+4) little_ona_a - 0.7120435581155401
+
+5) jonas_a - 0.7110118230272768
+
+6) jurgis_rudkus_a - 0.7065584588244346
+
+7) tamoszius_kuszleika_a - 0.7051713818107438
+
+8) teta_elzbieta_a - 0.7004431425732728
+
+9) phil_connor_a - 0.6933091052402182
+
+10) durham_and_company_a - 0.6885381731826761
+
+11) brown_a - 0.6771156778530245
+
+12) kotrina_a - 0.6727365244502096
+
+13) marija_berczynskas_a - 0.6712149177533534
+
+14) mike_scully_a - 0.6627763911752281
+
+15) jones_a - 0.6246908530777284
+
+Result for the vector: jones, coming from part i of the book
+Rank: 11 out of 15 characters
+Cosine similarity to the co-referring vector: 0.6948738512321634
+
+1) phil_connor_a - 0.7385717630386353
+
+2) jack_duane_a - 0.735455334186554
+
+3) brown_a - 0.7248801208996812
+
+4) dede_antanas_a - 0.7206083369617676
+
+5) durham_and_company_a - 0.7200586843543098
+
+6) tamoszius_kuszleika_a - 0.7138544321060181
+
+7) jonas_a - 0.7107541176901498
+
+8) stanislovas_a - 0.7096670616070009
+
+9) mike_scully_a - 0.7039538025856018
+
+10) jurgis_rudkus_a - 0.7037204084563025
+
+11) jones_a - 0.6948738512321634
+
+12) little_ona_a - 0.6918171048164368
+
+13) teta_elzbieta_a - 0.6883666701098293
+
+14) marija_berczynskas_a - 0.6742609739303589
+
+15) kotrina_a - 0.6611963116409605
+
+Result for the vector: jurgis_rudkus, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.920051299338179
+
+1) jurgis_rudkus_wiki - 0.920051299338179
+
+2) phil_connor_wiki - 0.8485789551907561
+
+3) little_ona_wiki - 0.8326980819494137
+
+4) mike_scully_wiki - 0.7704500555992181
+
+5) jack_duane_wiki - 0.7430252432823234
+
+6) stanislovas_wiki - 0.7378393567896285
+
+7) durham_and_company_wiki - 0.7348654428204643
+
+8) marija_berczynskas_wiki - 0.7337120492801608
+
+9) dede_antanas_wiki - 0.7279983379840437
+
+10) kotrina_wiki - 0.7065584588244346
+
+11) jones_wiki - 0.7037204084563025
+
+12) jonas_wiki - 0.6757556989338589
+
+13) brown_wiki - 0.6667511661797079
+
+14) tamoszius_kuszleika_wiki - 0.6665363113124304
+
+15) teta_elzbieta_wiki - 0.6606936055628613
+
+Result for the vector: marija_berczynskas, coming from part a of the book
+Rank: 5 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7381785668028268
+
+1) little_ona_wiki - 0.9042845041836655
+
+2) jurgis_rudkus_wiki - 0.871205996156642
+
+3) phil_connor_wiki - 0.8179804818016754
+
+4) jack_duane_wiki - 0.7575285886245138
+
+5) marija_berczynskas_wiki - 0.7381785668028268
+
+6) mike_scully_wiki - 0.7352107009417249
+
+7) stanislovas_wiki - 0.7183789610862732
+
+8) durham_and_company_wiki - 0.714597225189209
+
+9) dede_antanas_wiki - 0.6990061431234634
+
+10) jones_wiki - 0.6742609739303589
+
+11) kotrina_wiki - 0.6712149177533534
+
+12) jonas_wiki - 0.6664559841156006
+
+13) tamoszius_kuszleika_wiki - 0.6662451227380375
+
+14) brown_wiki - 0.6453865766525269
+
+15) teta_elzbieta_wiki - 0.6227894386162877
+
+Result for the vector: little_ona, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9088350805293052
+
+1) little_ona_wiki - 0.9088350805293052
+
+2) jurgis_rudkus_wiki - 0.8909043209112267
+
+3) phil_connor_wiki - 0.8494623466845499
+
+4) marija_berczynskas_wiki - 0.7742202416527141
+
+5) jack_duane_wiki - 0.7653731563909757
+
+6) stanislovas_wiki - 0.7616907954216003
+
+7) mike_scully_wiki - 0.7585591529941067
+
+8) durham_and_company_wiki - 0.7484416961669922
+
+9) dede_antanas_wiki - 0.7307652888386239
+
+10) kotrina_wiki - 0.7120435581155401
+
+11) tamoszius_kuszleika_wiki - 0.6921725479415821
+
+12) jones_wiki - 0.6918171048164368
+
+13) jonas_wiki - 0.6890170574188232
+
+14) brown_wiki - 0.6737019419670105
+
+15) teta_elzbieta_wiki - 0.6615449781607098
+
+Result for the vector: teta_elzbieta, coming from part a of the book
+Rank: 15 out of 15 characters
+Cosine similarity to the co-referring vector: 0.6555134253356955
+
+1) little_ona_wiki - 0.8973561257911918
+
+2) jurgis_rudkus_wiki - 0.8888013561488604
+
+3) phil_connor_wiki - 0.8423840654606932
+
+4) marija_berczynskas_wiki - 0.7716145787698533
+
+5) jack_duane_wiki - 0.7605296373367364
+
+6) mike_scully_wiki - 0.7557739019393974
+
+7) durham_and_company_wiki - 0.7494548112478978
+
+8) stanislovas_wiki - 0.7479068191107037
+
+9) dede_antanas_wiki - 0.7208520388857218
+
+10) kotrina_wiki - 0.7004431425732728
+
+11) jones_wiki - 0.6883666701098293
+
+12) brown_wiki - 0.6813196133780722
+
+13) tamoszius_kuszleika_wiki - 0.6801796948856234
+
+14) jonas_wiki - 0.6740607217514096
+
+15) teta_elzbieta_wiki - 0.6555134253356955
+
+Result for the vector: dede_antanas, coming from part a of the book
+Rank: 9 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7368006612063442
+
+1) jurgis_rudkus_wiki - 0.8971197688531429
+
+2) phil_connor_wiki - 0.8493571951027509
+
+3) little_ona_wiki - 0.8365818414016228
+
+4) mike_scully_wiki - 0.7736875145062821
+
+5) jack_duane_wiki - 0.7573467203792
+
+6) durham_and_company_wiki - 0.7556323263426035
+
+7) stanislovas_wiki - 0.7538723798914195
+
+8) marija_berczynskas_wiki - 0.7473640441894585
+
+9) dede_antanas_wiki - 0.7368006612063442
+
+10) brown_wiki - 0.733750506266983
+
+11) jones_wiki - 0.7206083369617676
+
+12) kotrina_wiki - 0.7121091656619921
+
+13) tamoszius_kuszleika_wiki - 0.7020146878374837
+
+14) jonas_wiki - 0.6872083358292792
+
+15) teta_elzbieta_wiki - 0.6559566044742773
+
+Result for the vector: mike_scully, coming from part a of the book
+Rank: 3 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8048771503494486
+
+1) jurgis_rudkus_wiki - 0.9002210051150727
+
+2) phil_connor_wiki - 0.8400854027347661
+
+3) mike_scully_wiki - 0.8048771503494486
+
+4) little_ona_wiki - 0.8011339545587888
+
+5) durham_and_company_wiki - 0.7326817512512207
+
+6) jack_duane_wiki - 0.7282692628067305
+
+7) stanislovas_wiki - 0.721439778804779
+
+8) marija_berczynskas_wiki - 0.7129792146099094
+
+9) jones_wiki - 0.7039538025856018
+
+10) dede_antanas_wiki - 0.7021285327191857
+
+11) kotrina_wiki - 0.6627763911752281
+
+12) brown_wiki - 0.6575292944908142
+
+13) tamoszius_kuszleika_wiki - 0.6456547571913829
+
+14) jonas_wiki - 0.6444056630134583
+
+15) teta_elzbieta_wiki - 0.6130649399517447
+
+Result for the vector: jack_duane, coming from part a of the book
+Rank: 7 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7515563220713344
+
+1) jurgis_rudkus_wiki - 0.8986874369811273
+
+2) phil_connor_wiki - 0.846165017440771
+
+3) little_ona_wiki - 0.8204980141072877
+
+4) stanislovas_wiki - 0.7826880812644958
+
+5) mike_scully_wiki - 0.7810026276709229
+
+6) durham_and_company_wiki - 0.7619983553886414
+
+7) jack_duane_wiki - 0.7515563220713344
+
+8) marija_berczynskas_wiki - 0.7486907989567055
+
+9) dede_antanas_wiki - 0.747959442254258
+
+10) jones_wiki - 0.735455334186554
+
+11) kotrina_wiki - 0.7304751002222232
+
+12) jonas_wiki - 0.6889653205871582
+
+13) tamoszius_kuszleika_wiki - 0.6870205011075887
+
+14) brown_wiki - 0.6769554615020752
+
+15) teta_elzbieta_wiki - 0.6512476192040129
+
+Result for the vector: jonas, coming from part a of the book
+Rank: 13 out of 15 characters
+Cosine similarity to the co-referring vector: 0.6779781782024559
+
+1) jurgis_rudkus_wiki - 0.9170590490804468
+
+2) little_ona_wiki - 0.8778214381826781
+
+3) phil_connor_wiki - 0.8648556309766345
+
+4) mike_scully_wiki - 0.7867195117520853
+
+5) marija_berczynskas_wiki - 0.7698911795052565
+
+6) jack_duane_wiki - 0.7678527326452198
+
+7) durham_and_company_wiki - 0.7587450372798755
+
+8) stanislovas_wiki - 0.7426478488042313
+
+9) dede_antanas_wiki - 0.7262068660505864
+
+10) kotrina_wiki - 0.7110118230272768
+
+11) jones_wiki - 0.7107541176901498
+
+12) tamoszius_kuszleika_wiki - 0.6909218842340639
+
+13) jonas_wiki - 0.6779781782024559
+
+14) brown_wiki - 0.6771689855208693
+
+15) teta_elzbieta_wiki - 0.6582785437439148
+
+Result for the vector: tamoszius_kuszleika, coming from part a of the book
+Rank: 10 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7241531230256896
+
+1) jurgis_rudkus_wiki - 0.9236260836759437
+
+2) phil_connor_wiki - 0.8679128469150859
+
+3) little_ona_wiki - 0.8492675080677128
+
+4) mike_scully_wiki - 0.7700570088658948
+
+5) durham_and_company_wiki - 0.7667971849441528
+
+6) marija_berczynskas_wiki - 0.7664163251867114
+
+7) jack_duane_wiki - 0.7569566224191573
+
+8) stanislovas_wiki - 0.7467241287231445
+
+9) dede_antanas_wiki - 0.72968465653223
+
+10) tamoszius_kuszleika_wiki - 0.7241531230256896
+
+11) jones_wiki - 0.7138544321060181
+
+12) kotrina_wiki - 0.7051713818107438
+
+13) jonas_wiki - 0.6953088045120239
+
+14) brown_wiki - 0.6933853626251221
+
+15) teta_elzbieta_wiki - 0.6637644765166497
+
+Result for the vector: brown, coming from part a of the book
+Rank: 6 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7486641034085785
+
+1) jurgis_rudkus_wiki - 0.8403430295603984
+
+2) phil_connor_wiki - 0.8342150252121732
+
+3) durham_and_company_wiki - 0.8330894360866978
+
+4) little_ona_wiki - 0.8094199186217736
+
+5) mike_scully_wiki - 0.7813947303350032
+
+6) brown_wiki - 0.7486641034085785
+
+7) marija_berczynskas_wiki - 0.7475482598677826
+
+8) stanislovas_wiki - 0.7424478156104036
+
+9) dede_antanas_wiki - 0.7411734153239043
+
+10) jack_duane_wiki - 0.7373882595349786
+
+11) jones_wiki - 0.7248801208996812
+
+12) tamoszius_kuszleika_wiki - 0.7204691601079202
+
+13) kotrina_wiki - 0.6771156778530245
+
+14) jonas_wiki - 0.671708305827031
+
+15) teta_elzbieta_wiki - 0.6440516882004378
+
+Result for the vector: phil_connor, coming from part a of the book
+Rank: 2 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8579304389295409
+
+1) jurgis_rudkus_wiki - 0.8741077295106343
+
+2) phil_connor_wiki - 0.8579304389295409
+
+3) little_ona_wiki - 0.8231368310194267
+
+4) mike_scully_wiki - 0.795388030730966
+
+5) stanislovas_wiki - 0.7681753635406494
+
+6) durham_and_company_wiki - 0.7561858892440796
+
+7) jack_duane_wiki - 0.7530605049765424
+
+8) dede_antanas_wiki - 0.7487497403099931
+
+9) marija_berczynskas_wiki - 0.7388974583806135
+
+10) jones_wiki - 0.7385717630386353
+
+11) jonas_wiki - 0.6986985206604004
+
+12) kotrina_wiki - 0.6933091052402182
+
+13) brown_wiki - 0.6873469352722168
+
+14) tamoszius_kuszleika_wiki - 0.680279752024405
+
+15) teta_elzbieta_wiki - 0.643706200454196
+
+Result for the vector: stanislovas, coming from part a of the book
+Rank: 5 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7617304609143238
+
+1) jurgis_rudkus_wiki - 0.8820328379283519
+
+2) little_ona_wiki - 0.8479680256872248
+
+3) phil_connor_wiki - 0.8434029566227692
+
+4) jack_duane_wiki - 0.7623751901164659
+
+5) stanislovas_wiki - 0.7617304609143238
+
+6) mike_scully_wiki - 0.7565918709879119
+
+7) brown_wiki - 0.7556610398696667
+
+8) durham_and_company_wiki - 0.7552166276911995
+
+9) marija_berczynskas_wiki - 0.7522011842367929
+
+10) dede_antanas_wiki - 0.736296452990296
+
+11) kotrina_wiki - 0.7148471558458434
+
+12) jones_wiki - 0.7096670616070009
+
+13) tamoszius_kuszleika_wiki - 0.6909828760341296
+
+14) jonas_wiki - 0.6843917150030524
+
+15) teta_elzbieta_wiki - 0.6680589119178526
+
+Result for the vector: durham_and_company, coming from part a of the book
+Rank: 3 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8323097973146887
+
+1) jurgis_rudkus_wiki - 0.8612785008617657
+
+2) phil_connor_wiki - 0.8434889632741743
+
+3) durham_and_company_wiki - 0.8323097973146887
+
+4) little_ona_wiki - 0.8095079433331437
+
+5) mike_scully_wiki - 0.7908152924202821
+
+6) brown_wiki - 0.7623356666269034
+
+7) stanislovas_wiki - 0.7525940614277805
+
+8) marija_berczynskas_wiki - 0.7506897673216476
+
+9) jack_duane_wiki - 0.7341557047003071
+
+10) dede_antanas_wiki - 0.7297890299181395
+
+11) tamoszius_kuszleika_wiki - 0.7201193237446946
+
+12) jones_wiki - 0.7200586843543098
+
+13) kotrina_wiki - 0.6885381731826761
+
+14) jonas_wiki - 0.6798172604874334
+
+15) teta_elzbieta_wiki - 0.6602008331181108
+
+Result for the vector: kotrina, coming from part a of the book
+Rank: 11 out of 15 characters
+Cosine similarity to the co-referring vector: 0.6727365244502096
+
+1) little_ona_wiki - 0.8617044430463217
+
+2) jurgis_rudkus_wiki - 0.8446318070261489
+
+3) phil_connor_wiki - 0.7976180552726493
+
+4) jack_duane_wiki - 0.7434932589530998
+
+5) marija_berczynskas_wiki - 0.7320914587865521
+
+6) mike_scully_wiki - 0.7078154683113148
+
+7) stanislovas_wiki - 0.7037568268920895
+
+8) durham_and_company_wiki - 0.7030002651810501
+
+9) brown_wiki - 0.699701982754352
+
+10) dede_antanas_wiki - 0.68123360518318
+
+11) kotrina_wiki - 0.6727365244502096
+
+12) jonas_wiki - 0.6713979440094278
+
+13) tamoszius_kuszleika_wiki - 0.6662857929979055
+
+14) jones_wiki - 0.6611963116409605
+
+15) teta_elzbieta_wiki - 0.6289789268070209
+
+Result for the vector: jones, coming from part a of the book
+Rank: 6 out of 15 characters
+Cosine similarity to the co-referring vector: 0.6948738512321634
+
+1) jurgis_rudkus_wiki - 0.814746371007702
+
+2) phil_connor_wiki - 0.7862365225309915
+
+3) mike_scully_wiki - 0.769263538034384
+
+4) durham_and_company_wiki - 0.7545650455096404
+
+5) little_ona_wiki - 0.7452281187678685
+
+6) jones_wiki - 0.6948738512321634
+
+7) marija_berczynskas_wiki - 0.6870426535606433
+
+8) jack_duane_wiki - 0.6848479133663075
+
+9) dede_antanas_wiki - 0.6781236943786884
+
+10) brown_wiki - 0.6769102619236875
+
+11) tamoszius_kuszleika_wiki - 0.6750968106177581
+
+12) stanislovas_wiki - 0.6711734337314041
+
+13) kotrina_wiki - 0.6246908530777284
+
+14) jonas_wiki - 0.6186114918358034
+
+15) teta_elzbieta_wiki - 0.5848574913825829
+

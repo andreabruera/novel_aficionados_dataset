@@ -1,0 +1,780 @@
+Result for the vector: mary_lennox, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.973745168820327
+
+1) mary_lennox_b - 0.973745168820327
+
+2) mrs_medlock_b - 0.9589460230816093
+
+3) martha_b - 0.9525982850555694
+
+4) mester_colin_b - 0.9399780982752459
+
+5) ben_weatherstaff_b - 0.9395623839162509
+
+6) dickon_b - 0.9329416513793287
+
+7) mr_roach_b - 0.9151228222031331
+
+8) susan_sowerby_b - 0.9057825320026305
+
+9) magic_b - 0.8629792495990756
+
+10) yorkshire_b - 0.8394050002098322
+
+11) shell_b - 0.8309286832809685
+
+12) rajah_b - 0.805282925614789
+
+13) mr_archibald_craven_b - 0.6550079789753077
+
+Result for the vector: dickon, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9833227982117413
+
+1) dickon_b - 0.9833227982117413
+
+2) ben_weatherstaff_b - 0.9809144420249266
+
+3) mester_colin_b - 0.9737859352699479
+
+4) mrs_medlock_b - 0.9653223136259504
+
+5) martha_b - 0.9614805911647851
+
+6) mr_roach_b - 0.9457359628160049
+
+7) mary_lennox_b - 0.9395701533171675
+
+8) magic_b - 0.9203279888727666
+
+9) yorkshire_b - 0.8992174415614405
+
+10) susan_sowerby_b - 0.899046567053991
+
+11) shell_b - 0.87724496085122
+
+12) rajah_b - 0.8723215796851675
+
+13) mr_archibald_craven_b - 0.6475250107817364
+
+Result for the vector: mester_colin, coming from part a of the book
+Rank: 2 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9700197216909651
+
+1) ben_weatherstaff_b - 0.9710723092728467
+
+2) mester_colin_b - 0.9700197216909651
+
+3) dickon_b - 0.9619667152693082
+
+4) mrs_medlock_b - 0.9599569654375051
+
+5) mr_roach_b - 0.9555847591859087
+
+6) martha_b - 0.9480990736544002
+
+7) mary_lennox_b - 0.9422652583754746
+
+8) magic_b - 0.9158691613440353
+
+9) yorkshire_b - 0.8932486454393419
+
+10) susan_sowerby_b - 0.8801156664101621
+
+11) rajah_b - 0.8512058676726902
+
+12) shell_b - 0.8509658726948135
+
+13) mr_archibald_craven_b - 0.63451406586506
+
+Result for the vector: martha, coming from part a of the book
+Rank: 3 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9659796397710344
+
+1) mrs_medlock_b - 0.9766874604430043
+
+2) mary_lennox_b - 0.9720053656104443
+
+3) martha_b - 0.9659796397710344
+
+4) mester_colin_b - 0.964338331351827
+
+5) ben_weatherstaff_b - 0.9596499180585114
+
+6) dickon_b - 0.9564296292194617
+
+7) mr_roach_b - 0.9339813629399935
+
+8) susan_sowerby_b - 0.9055092334747314
+
+9) magic_b - 0.8952819108963013
+
+10) yorkshire_b - 0.8755724281755066
+
+11) shell_b - 0.851320904650802
+
+12) rajah_b - 0.8329194287705777
+
+13) mr_archibald_craven_b - 0.6360856673768572
+
+Result for the vector: ben_weatherstaff, coming from part a of the book
+Rank: 3 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9827204932403876
+
+1) dickon_b - 0.9866321976969306
+
+2) mester_colin_b - 0.9835778171890328
+
+3) ben_weatherstaff_b - 0.9827204932403876
+
+4) mrs_medlock_b - 0.9714272311755194
+
+5) martha_b - 0.966204945301427
+
+6) mr_roach_b - 0.9440414342855569
+
+7) mary_lennox_b - 0.943113919682142
+
+8) magic_b - 0.912364661693573
+
+9) susan_sowerby_b - 0.9006286263465881
+
+10) yorkshire_b - 0.8946637385682812
+
+11) shell_b - 0.883596704434962
+
+12) rajah_b - 0.8621890627033092
+
+13) mr_archibald_craven_b - 0.6575010214746619
+
+Result for the vector: mrs_medlock, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9794341617654019
+
+1) mrs_medlock_b - 0.9794341617654019
+
+2) martha_b - 0.9758413462828054
+
+3) mary_lennox_b - 0.9684688430111927
+
+4) mester_colin_b - 0.9654267121978619
+
+5) dickon_b - 0.9635603715050336
+
+6) ben_weatherstaff_b - 0.9610961652455445
+
+7) mr_roach_b - 0.934560481634113
+
+8) susan_sowerby_b - 0.9095313549041748
+
+9) magic_b - 0.8980293869972229
+
+10) yorkshire_b - 0.8767009230495661
+
+11) shell_b - 0.8471512016238275
+
+12) rajah_b - 0.8338254789218036
+
+13) mr_archibald_craven_b - 0.6463845161428771
+
+Result for the vector: mr_archibald_craven, coming from part a of the book
+Rank: 13 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7345868190876746
+
+1) dickon_b - 0.9673489620491558
+
+2) mester_colin_b - 0.9653032709748532
+
+3) martha_b - 0.961946551567734
+
+4) ben_weatherstaff_b - 0.9613901949757471
+
+5) mrs_medlock_b - 0.955556242333539
+
+6) susan_sowerby_b - 0.9339030981063843
+
+7) mr_roach_b - 0.9299315851967599
+
+8) mary_lennox_b - 0.9266888455563111
+
+9) magic_b - 0.8869261145591736
+
+10) yorkshire_b - 0.8659138519661311
+
+11) rajah_b - 0.8420212959038453
+
+12) shell_b - 0.8408330489198087
+
+13) mr_archibald_craven_b - 0.7345868190876746
+
+Result for the vector: susan_sowerby, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9412457942962646
+
+1) susan_sowerby_b - 0.9412457942962646
+
+2) martha_b - 0.8826454421704543
+
+3) mrs_medlock_b - 0.8728184960132392
+
+4) mary_lennox_b - 0.865518144698034
+
+5) dickon_b - 0.8638141412679599
+
+6) mester_colin_b - 0.8602619427520619
+
+7) ben_weatherstaff_b - 0.8517478020040886
+
+8) mr_roach_b - 0.8433977458836006
+
+9) magic_b - 0.8260476589202881
+
+10) yorkshire_b - 0.822075464972915
+
+11) rajah_b - 0.7986870528050047
+
+12) shell_b - 0.7915026893022938
+
+13) mr_archibald_craven_b - 0.7378759823963644
+
+Result for the vector: yorkshire, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.963661012867765
+
+1) yorkshire_b - 0.963661012867765
+
+2) magic_b - 0.9078260119065056
+
+3) ben_weatherstaff_b - 0.894710719585425
+
+4) dickon_b - 0.8914766045964811
+
+5) mester_colin_b - 0.8847394917983004
+
+6) mrs_medlock_b - 0.879518721118015
+
+7) mr_roach_b - 0.8659667532483634
+
+8) martha_b - 0.8619172223954414
+
+9) rajah_b - 0.8540020163056831
+
+10) mary_lennox_b - 0.8520119190216126
+
+11) susan_sowerby_b - 0.8380538321701403
+
+12) shell_b - 0.8265021936000833
+
+13) mr_archibald_craven_b - 0.590594530105595
+
+Result for the vector: mr_roach, coming from part a of the book
+Rank: 4 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7479544878006035
+
+1) yorkshire_b - 0.7615379860767115
+
+2) ben_weatherstaff_b - 0.7592209886575924
+
+3) magic_b - 0.7576755736872909
+
+4) mr_roach_b - 0.7479544878006035
+
+5) martha_b - 0.7421091352636257
+
+6) mester_colin_b - 0.7418703504088837
+
+7) mrs_medlock_b - 0.7407161659642609
+
+8) dickon_b - 0.7399978703258521
+
+9) rajah_b - 0.7157632112503103
+
+10) mary_lennox_b - 0.7125053063041337
+
+11) susan_sowerby_b - 0.684889536195371
+
+12) shell_b - 0.6747353091362683
+
+13) mr_archibald_craven_b - 0.4592307459391053
+
+Result for the vector: rajah, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8801038336691971
+
+1) rajah_b - 0.8801038336691971
+
+2) magic_b - 0.8433811664581299
+
+3) ben_weatherstaff_b - 0.8283235328390335
+
+4) dickon_b - 0.8196103817108391
+
+5) mester_colin_b - 0.8136353735219057
+
+6) mr_roach_b - 0.8120430223916174
+
+7) martha_b - 0.8093320358595862
+
+8) mrs_medlock_b - 0.8058356286834372
+
+9) yorkshire_b - 0.8056443697982333
+
+10) mary_lennox_b - 0.7881299727040527
+
+11) shell_b - 0.7851365548535111
+
+12) susan_sowerby_b - 0.7569620609283447
+
+13) mr_archibald_craven_b - 0.5383565746758336
+
+Result for the vector: shell, coming from part a of the book
+Rank: 4 out of 13 characters
+Cosine similarity to the co-referring vector: 0.5917367448492981
+
+1) yorkshire_b - 0.6329211155082171
+
+2) magic_b - 0.6278761625289917
+
+3) ben_weatherstaff_b - 0.5960919020230723
+
+4) shell_b - 0.5917367448492981
+
+5) dickon_b - 0.5916819152737237
+
+6) mester_colin_b - 0.5752737097523725
+
+7) mrs_medlock_b - 0.5700341036925946
+
+8) martha_b - 0.5611221121404077
+
+9) mr_roach_b - 0.560809519242674
+
+10) mary_lennox_b - 0.5538081260805215
+
+11) susan_sowerby_b - 0.5269331932067871
+
+12) rajah_b - 0.5233593271160536
+
+13) mr_archibald_craven_b - 0.3638540723236849
+
+Result for the vector: magic, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9244662523269653
+
+1) magic_b - 0.9244662523269653
+
+2) mester_colin_b - 0.9042685897430361
+
+3) ben_weatherstaff_b - 0.9035826863993831
+
+4) dickon_b - 0.8955256013728862
+
+5) mrs_medlock_b - 0.8857452537341496
+
+6) mr_roach_b - 0.8779507352143103
+
+7) martha_b - 0.8752862363712568
+
+8) yorkshire_b - 0.8736544100826338
+
+9) mary_lennox_b - 0.8656378904365252
+
+10) shell_b - 0.8305159605164539
+
+11) rajah_b - 0.8134804479193435
+
+12) susan_sowerby_b - 0.8097732067108154
+
+13) mr_archibald_craven_b - 0.5650014021993529
+
+Result for the vector: mary_lennox, coming from part b of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.973745168820327
+
+1) mary_lennox_a - 0.973745168820327
+
+2) martha_a - 0.9720053656104443
+
+3) mrs_medlock_a - 0.9684688430111927
+
+4) ben_weatherstaff_a - 0.943113919682142
+
+5) mester_colin_a - 0.9422652583754746
+
+6) dickon_a - 0.9395701533171675
+
+7) mr_archibald_craven_a - 0.9266888455563111
+
+8) magic_a - 0.8656378904365252
+
+9) susan_sowerby_a - 0.865518144698034
+
+10) yorkshire_a - 0.8520119190216126
+
+11) rajah_a - 0.7881299727040527
+
+12) mr_roach_a - 0.7125053063041337
+
+13) shell_a - 0.5538081260805215
+
+Result for the vector: dickon, coming from part b of the book
+Rank: 2 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9833227982117413
+
+1) ben_weatherstaff_a - 0.9866321976969306
+
+2) dickon_a - 0.9833227982117413
+
+3) mr_archibald_craven_a - 0.9673489620491558
+
+4) mrs_medlock_a - 0.9635603715050336
+
+5) mester_colin_a - 0.9619667152693082
+
+6) martha_a - 0.9564296292194617
+
+7) mary_lennox_a - 0.9329416513793287
+
+8) magic_a - 0.8955256013728862
+
+9) yorkshire_a - 0.8914766045964811
+
+10) susan_sowerby_a - 0.8638141412679599
+
+11) rajah_a - 0.8196103817108391
+
+12) mr_roach_a - 0.7399978703258521
+
+13) shell_a - 0.5916819152737237
+
+Result for the vector: mester_colin, coming from part b of the book
+Rank: 3 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9700197216909651
+
+1) ben_weatherstaff_a - 0.9835778171890328
+
+2) dickon_a - 0.9737859352699479
+
+3) mester_colin_a - 0.9700197216909651
+
+4) mrs_medlock_a - 0.9654267121978619
+
+5) mr_archibald_craven_a - 0.9653032709748532
+
+6) martha_a - 0.964338331351827
+
+7) mary_lennox_a - 0.9399780982752459
+
+8) magic_a - 0.9042685897430361
+
+9) yorkshire_a - 0.8847394917983004
+
+10) susan_sowerby_a - 0.8602619427520619
+
+11) rajah_a - 0.8136353735219057
+
+12) mr_roach_a - 0.7418703504088837
+
+13) shell_a - 0.5752737097523725
+
+Result for the vector: martha, coming from part b of the book
+Rank: 3 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9659796397710344
+
+1) mrs_medlock_a - 0.9758413462828054
+
+2) ben_weatherstaff_a - 0.966204945301427
+
+3) martha_a - 0.9659796397710344
+
+4) mr_archibald_craven_a - 0.961946551567734
+
+5) dickon_a - 0.9614805911647851
+
+6) mary_lennox_a - 0.9525982850555694
+
+7) mester_colin_a - 0.9480990736544002
+
+8) susan_sowerby_a - 0.8826454421704543
+
+9) magic_a - 0.8752862363712568
+
+10) yorkshire_a - 0.8619172223954414
+
+11) rajah_a - 0.8093320358595862
+
+12) mr_roach_a - 0.7421091352636257
+
+13) shell_a - 0.5611221121404077
+
+Result for the vector: ben_weatherstaff, coming from part b of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9827204932403876
+
+1) ben_weatherstaff_a - 0.9827204932403876
+
+2) dickon_a - 0.9809144420249266
+
+3) mester_colin_a - 0.9710723092728467
+
+4) mr_archibald_craven_a - 0.9613901949757471
+
+5) mrs_medlock_a - 0.9610961652455445
+
+6) martha_a - 0.9596499180585114
+
+7) mary_lennox_a - 0.9395623839162509
+
+8) magic_a - 0.9035826863993831
+
+9) yorkshire_a - 0.894710719585425
+
+10) susan_sowerby_a - 0.8517478020040886
+
+11) rajah_a - 0.8283235328390335
+
+12) mr_roach_a - 0.7592209886575924
+
+13) shell_a - 0.5960919020230723
+
+Result for the vector: mrs_medlock, coming from part b of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9794341617654019
+
+1) mrs_medlock_a - 0.9794341617654019
+
+2) martha_a - 0.9766874604430043
+
+3) ben_weatherstaff_a - 0.9714272311755194
+
+4) dickon_a - 0.9653223136259504
+
+5) mester_colin_a - 0.9599569654375051
+
+6) mary_lennox_a - 0.9589460230816093
+
+7) mr_archibald_craven_a - 0.955556242333539
+
+8) magic_a - 0.8857452537341496
+
+9) yorkshire_a - 0.879518721118015
+
+10) susan_sowerby_a - 0.8728184960132392
+
+11) rajah_a - 0.8058356286834372
+
+12) mr_roach_a - 0.7407161659642609
+
+13) shell_a - 0.5700341036925946
+
+Result for the vector: mr_archibald_craven, coming from part b of the book
+Rank: 2 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7345868190876746
+
+1) susan_sowerby_a - 0.7378759823963644
+
+2) mr_archibald_craven_a - 0.7345868190876746
+
+3) ben_weatherstaff_a - 0.6575010214746619
+
+4) mary_lennox_a - 0.6550079789753077
+
+5) dickon_a - 0.6475250107817364
+
+6) mrs_medlock_a - 0.6463845161428771
+
+7) martha_a - 0.6360856673768572
+
+8) mester_colin_a - 0.63451406586506
+
+9) yorkshire_a - 0.590594530105595
+
+10) magic_a - 0.5650014021993529
+
+11) rajah_a - 0.5383565746758336
+
+12) mr_roach_a - 0.4592307459391053
+
+13) shell_a - 0.3638540723236849
+
+Result for the vector: susan_sowerby, coming from part b of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9412457942962646
+
+1) susan_sowerby_a - 0.9412457942962646
+
+2) mr_archibald_craven_a - 0.9339030981063843
+
+3) mrs_medlock_a - 0.9095313549041748
+
+4) mary_lennox_a - 0.9057825320026305
+
+5) martha_a - 0.9055092334747314
+
+6) ben_weatherstaff_a - 0.9006286263465881
+
+7) dickon_a - 0.899046567053991
+
+8) mester_colin_a - 0.8801156664101621
+
+9) yorkshire_a - 0.8380538321701403
+
+10) magic_a - 0.8097732067108154
+
+11) rajah_a - 0.7569620609283447
+
+12) mr_roach_a - 0.684889536195371
+
+13) shell_a - 0.5269331932067871
+
+Result for the vector: yorkshire, coming from part b of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.963661012867765
+
+1) yorkshire_a - 0.963661012867765
+
+2) dickon_a - 0.8992174415614405
+
+3) ben_weatherstaff_a - 0.8946637385682812
+
+4) mester_colin_a - 0.8932486454393419
+
+5) mrs_medlock_a - 0.8767009230495661
+
+6) martha_a - 0.8755724281755066
+
+7) magic_a - 0.8736544100826338
+
+8) mr_archibald_craven_a - 0.8659138519661311
+
+9) mary_lennox_a - 0.8394050002098322
+
+10) susan_sowerby_a - 0.822075464972915
+
+11) rajah_a - 0.8056443697982333
+
+12) mr_roach_a - 0.7615379860767115
+
+13) shell_a - 0.6329211155082171
+
+Result for the vector: mr_roach, coming from part b of the book
+Rank: 12 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7479544878006035
+
+1) mester_colin_a - 0.9555847591859087
+
+2) dickon_a - 0.9457359628160049
+
+3) ben_weatherstaff_a - 0.9440414342855569
+
+4) mrs_medlock_a - 0.934560481634113
+
+5) martha_a - 0.9339813629399935
+
+6) mr_archibald_craven_a - 0.9299315851967599
+
+7) mary_lennox_a - 0.9151228222031331
+
+8) magic_a - 0.8779507352143103
+
+9) yorkshire_a - 0.8659667532483634
+
+10) susan_sowerby_a - 0.8433977458836006
+
+11) rajah_a - 0.8120430223916174
+
+12) mr_roach_a - 0.7479544878006035
+
+13) shell_a - 0.560809519242674
+
+Result for the vector: rajah, coming from part b of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8801038336691971
+
+1) rajah_a - 0.8801038336691971
+
+2) dickon_a - 0.8723215796851675
+
+3) ben_weatherstaff_a - 0.8621890627033092
+
+4) yorkshire_a - 0.8540020163056831
+
+5) mester_colin_a - 0.8512058676726902
+
+6) mr_archibald_craven_a - 0.8420212959038453
+
+7) mrs_medlock_a - 0.8338254789218036
+
+8) martha_a - 0.8329194287705777
+
+9) magic_a - 0.8134804479193435
+
+10) mary_lennox_a - 0.805282925614789
+
+11) susan_sowerby_a - 0.7986870528050047
+
+12) mr_roach_a - 0.7157632112503103
+
+13) shell_a - 0.5233593271160536
+
+Result for the vector: shell, coming from part b of the book
+Rank: 13 out of 13 characters
+Cosine similarity to the co-referring vector: 0.5917367448492981
+
+1) ben_weatherstaff_a - 0.883596704434962
+
+2) dickon_a - 0.87724496085122
+
+3) martha_a - 0.851320904650802
+
+4) mester_colin_a - 0.8509658726948135
+
+5) mrs_medlock_a - 0.8471512016238275
+
+6) mr_archibald_craven_a - 0.8408330489198087
+
+7) mary_lennox_a - 0.8309286832809685
+
+8) magic_a - 0.8305159605164539
+
+9) yorkshire_a - 0.8265021936000833
+
+10) susan_sowerby_a - 0.7915026893022938
+
+11) rajah_a - 0.7851365548535111
+
+12) mr_roach_a - 0.6747353091362683
+
+13) shell_a - 0.5917367448492981
+
+Result for the vector: magic, coming from part b of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9244662523269653
+
+1) magic_a - 0.9244662523269653
+
+2) dickon_a - 0.9203279888727666
+
+3) mester_colin_a - 0.9158691613440353
+
+4) ben_weatherstaff_a - 0.912364661693573
+
+5) yorkshire_a - 0.9078260119065056
+
+6) mrs_medlock_a - 0.8980293869972229
+
+7) martha_a - 0.8952819108963013
+
+8) mr_archibald_craven_a - 0.8869261145591736
+
+9) mary_lennox_a - 0.8629792495990756
+
+10) rajah_a - 0.8433811664581299
+
+11) susan_sowerby_a - 0.8260476589202881
+
+12) mr_roach_a - 0.7576755736872909
+
+13) shell_a - 0.6278761625289917
+

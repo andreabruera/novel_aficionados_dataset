@@ -1,0 +1,13 @@
+166	time_times_Time
+119	man_men
+109	river_rivers
+89	life_Life_lives
+87	thing_things_Things
+84	teaching_teachings
+75	heart_hearts
+74	word_words
+74	people
+72	friend_friends_Friend
+72	face_faces
+71	one_ones
+70	eye_eyes

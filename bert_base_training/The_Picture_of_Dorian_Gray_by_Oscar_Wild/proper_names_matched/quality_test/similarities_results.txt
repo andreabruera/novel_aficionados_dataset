@@ -1,0 +1,320 @@
+Result for the vector: mr_dorian_gray, coming from part i of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9077743562393025
+
+1) mr_dorian_gray_a - 0.9077743562393025
+
+2) sibyl_vane_a - 0.9050046035655689
+
+3) lord_henry_wotton_a - 0.9003105909095195
+
+4) basil_hallward_a - 0.8976880457532573
+
+5) prince_charming_a - 0.8765132614833243
+
+6) james_vane_a - 0.868914085827556
+
+7) mother_a - 0.8532323829122422
+
+8) harry_a - 0.8379010421368298
+
+Result for the vector: lord_henry_wotton, coming from part i of the book
+Rank: 3 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9234818495357592
+
+1) basil_hallward_a - 0.9271025933951916
+
+2) mr_dorian_gray_a - 0.9241385825748621
+
+3) lord_henry_wotton_a - 0.9234818495357592
+
+4) sibyl_vane_a - 0.9212805581856106
+
+5) prince_charming_a - 0.8905948135079534
+
+6) mother_a - 0.8903015455873207
+
+7) harry_a - 0.8820797923326218
+
+8) james_vane_a - 0.8792497253641604
+
+Result for the vector: harry, coming from part i of the book
+Rank: 6 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8215762270436554
+
+1) basil_hallward_a - 0.869111545734911
+
+2) mr_dorian_gray_a - 0.8632080799565187
+
+3) lord_henry_wotton_a - 0.859705277698919
+
+4) sibyl_vane_a - 0.8433943735541624
+
+5) prince_charming_a - 0.8302958213930343
+
+6) harry_a - 0.8215762270436554
+
+7) james_vane_a - 0.816804848098177
+
+8) mother_a - 0.8104074001312314
+
+Result for the vector: basil_hallward, coming from part i of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9365466199247031
+
+1) basil_hallward_a - 0.9365466199247031
+
+2) mr_dorian_gray_a - 0.9334128538720248
+
+3) sibyl_vane_a - 0.9309008953780741
+
+4) lord_henry_wotton_a - 0.9308197457086905
+
+5) prince_charming_a - 0.8968957066536013
+
+6) james_vane_a - 0.8945962786674563
+
+7) mother_a - 0.8937831990460394
+
+8) harry_a - 0.8896952670267717
+
+Result for the vector: sibyl_vane, coming from part i of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9120174322133495
+
+1) sibyl_vane_a - 0.9120174322133495
+
+2) mother_a - 0.8819778491245434
+
+3) basil_hallward_a - 0.8783902525901794
+
+4) mr_dorian_gray_a - 0.876392915678875
+
+5) prince_charming_a - 0.8650063952799816
+
+6) lord_henry_wotton_a - 0.8619077205657959
+
+7) harry_a - 0.8434775881144569
+
+8) james_vane_a - 0.8420872186370376
+
+Result for the vector: james_vane, coming from part i of the book
+Rank: 6 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8591599716258115
+
+1) lord_henry_wotton_a - 0.8900504243313824
+
+2) basil_hallward_a - 0.8850697415984048
+
+3) sibyl_vane_a - 0.8839732810282852
+
+4) mr_dorian_gray_a - 0.8780916623850674
+
+5) mother_a - 0.86041159269742
+
+6) james_vane_a - 0.8591599716258115
+
+7) prince_charming_a - 0.8541111610929097
+
+8) harry_a - 0.8394732475281
+
+Result for the vector: prince_charming, coming from part i of the book
+Rank: 3 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8200475329146557
+
+1) mr_dorian_gray_a - 0.8433275660877709
+
+2) basil_hallward_a - 0.8263878472562987
+
+3) prince_charming_a - 0.8200475329146557
+
+4) harry_a - 0.8148257754483517
+
+5) sibyl_vane_a - 0.8123769648299792
+
+6) mother_a - 0.8072452670853082
+
+7) james_vane_a - 0.8048634885292237
+
+8) lord_henry_wotton_a - 0.7961381911080541
+
+Result for the vector: mother, coming from part i of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.7816043701656541
+
+1) mother_a - 0.7816043701656541
+
+2) sibyl_vane_a - 0.7200503230169926
+
+3) mr_dorian_gray_a - 0.7034503221512041
+
+4) james_vane_a - 0.7028537811549884
+
+5) basil_hallward_a - 0.696873926743742
+
+6) prince_charming_a - 0.6936476048021192
+
+7) harry_a - 0.6861176934522851
+
+8) lord_henry_wotton_a - 0.678225478914442
+
+Result for the vector: mr_dorian_gray, coming from part a of the book
+Rank: 3 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9077743562393025
+
+1) basil_hallward_wiki - 0.9334128538720248
+
+2) lord_henry_wotton_wiki - 0.9241385825748621
+
+3) mr_dorian_gray_wiki - 0.9077743562393025
+
+4) james_vane_wiki - 0.8780916623850674
+
+5) sibyl_vane_wiki - 0.876392915678875
+
+6) harry_wiki - 0.8632080799565187
+
+7) prince_charming_wiki - 0.8433275660877709
+
+8) mother_wiki - 0.7034503221512041
+
+Result for the vector: lord_henry_wotton, coming from part a of the book
+Rank: 2 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9234818495357592
+
+1) basil_hallward_wiki - 0.9308197457086905
+
+2) lord_henry_wotton_wiki - 0.9234818495357592
+
+3) mr_dorian_gray_wiki - 0.9003105909095195
+
+4) james_vane_wiki - 0.8900504243313824
+
+5) sibyl_vane_wiki - 0.8619077205657959
+
+6) harry_wiki - 0.859705277698919
+
+7) prince_charming_wiki - 0.7961381911080541
+
+8) mother_wiki - 0.678225478914442
+
+Result for the vector: harry, coming from part a of the book
+Rank: 6 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8215762270436554
+
+1) basil_hallward_wiki - 0.8896952670267717
+
+2) lord_henry_wotton_wiki - 0.8820797923326218
+
+3) sibyl_vane_wiki - 0.8434775881144569
+
+4) james_vane_wiki - 0.8394732475281
+
+5) mr_dorian_gray_wiki - 0.8379010421368298
+
+6) harry_wiki - 0.8215762270436554
+
+7) prince_charming_wiki - 0.8148257754483517
+
+8) mother_wiki - 0.6861176934522851
+
+Result for the vector: basil_hallward, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9365466199247031
+
+1) basil_hallward_wiki - 0.9365466199247031
+
+2) lord_henry_wotton_wiki - 0.9271025933951916
+
+3) mr_dorian_gray_wiki - 0.8976880457532573
+
+4) james_vane_wiki - 0.8850697415984048
+
+5) sibyl_vane_wiki - 0.8783902525901794
+
+6) harry_wiki - 0.869111545734911
+
+7) prince_charming_wiki - 0.8263878472562987
+
+8) mother_wiki - 0.696873926743742
+
+Result for the vector: sibyl_vane, coming from part a of the book
+Rank: 3 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9120174322133495
+
+1) basil_hallward_wiki - 0.9309008953780741
+
+2) lord_henry_wotton_wiki - 0.9212805581856106
+
+3) sibyl_vane_wiki - 0.9120174322133495
+
+4) mr_dorian_gray_wiki - 0.9050046035655689
+
+5) james_vane_wiki - 0.8839732810282852
+
+6) harry_wiki - 0.8433943735541624
+
+7) prince_charming_wiki - 0.8123769648299792
+
+8) mother_wiki - 0.7200503230169926
+
+Result for the vector: james_vane, coming from part a of the book
+Rank: 4 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8591599716258115
+
+1) basil_hallward_wiki - 0.8945962786674563
+
+2) lord_henry_wotton_wiki - 0.8792497253641604
+
+3) mr_dorian_gray_wiki - 0.868914085827556
+
+4) james_vane_wiki - 0.8591599716258115
+
+5) sibyl_vane_wiki - 0.8420872186370376
+
+6) harry_wiki - 0.816804848098177
+
+7) prince_charming_wiki - 0.8048634885292237
+
+8) mother_wiki - 0.7028537811549884
+
+Result for the vector: prince_charming, coming from part a of the book
+Rank: 7 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8200475329146557
+
+1) basil_hallward_wiki - 0.8968957066536013
+
+2) lord_henry_wotton_wiki - 0.8905948135079534
+
+3) mr_dorian_gray_wiki - 0.8765132614833243
+
+4) sibyl_vane_wiki - 0.8650063952799816
+
+5) james_vane_wiki - 0.8541111610929097
+
+6) harry_wiki - 0.8302958213930343
+
+7) prince_charming_wiki - 0.8200475329146557
+
+8) mother_wiki - 0.6936476048021192
+
+Result for the vector: mother, coming from part a of the book
+Rank: 8 out of 8 characters
+Cosine similarity to the co-referring vector: 0.7816043701656541
+
+1) basil_hallward_wiki - 0.8937831990460394
+
+2) lord_henry_wotton_wiki - 0.8903015455873207
+
+3) sibyl_vane_wiki - 0.8819778491245434
+
+4) james_vane_wiki - 0.86041159269742
+
+5) mr_dorian_gray_wiki - 0.8532323829122422
+
+6) harry_wiki - 0.8104074001312314
+
+7) prince_charming_wiki - 0.8072452670853082
+
+8) mother_wiki - 0.7816043701656541
+

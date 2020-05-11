@@ -1,0 +1,252 @@
+Result for the vector: hester_prynne, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9382197820079213
+
+1) hester_prynne_a - 0.9382197820079213
+
+2) pearl_a - 0.9375674128532476
+
+3) roger_chillingworth_a - 0.891237841992121
+
+4) mr_dimmesdale_a - 0.890031271578747
+
+5) mr_wilson_a - 0.8671211779523953
+
+6) hibbins_a - 0.8394189476966918
+
+7) arthur_dimmesdale_a - 0.7606476033312923
+
+Result for the vector: mr_dimmesdale, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9262929602686802
+
+1) mr_dimmesdale_a - 0.9262929602686802
+
+2) roger_chillingworth_a - 0.9203288555145329
+
+3) hester_prynne_a - 0.9161648204228405
+
+4) pearl_a - 0.9094276536193306
+
+5) mr_wilson_a - 0.8984330624808985
+
+6) hibbins_a - 0.8320518932280668
+
+7) arthur_dimmesdale_a - 0.8245013706534725
+
+Result for the vector: roger_chillingworth, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8903352022171084
+
+1) roger_chillingworth_a - 0.8903352022171084
+
+2) pearl_a - 0.8872082367887215
+
+3) mr_dimmesdale_a - 0.8861551352646883
+
+4) hester_prynne_a - 0.8788560105052003
+
+5) mr_wilson_a - 0.8486793384349577
+
+6) hibbins_a - 0.7918756852298158
+
+7) arthur_dimmesdale_a - 0.77362469513343
+
+Result for the vector: arthur_dimmesdale, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.936311988124609
+
+1) arthur_dimmesdale_a - 0.936311988124609
+
+2) mr_dimmesdale_a - 0.809788703918457
+
+3) roger_chillingworth_a - 0.7964595434939603
+
+4) mr_wilson_a - 0.7920879361655697
+
+5) hester_prynne_a - 0.7821314930915833
+
+6) pearl_a - 0.7687052030143035
+
+7) hibbins_a - 0.7610724710778923
+
+Result for the vector: mr_wilson, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8347464551107185
+
+1) mr_wilson_a - 0.8347464551107185
+
+2) mr_dimmesdale_a - 0.8108982556522947
+
+3) hibbins_a - 0.8000586867262498
+
+4) hester_prynne_a - 0.7979930163626079
+
+5) roger_chillingworth_a - 0.7967398166656551
+
+6) pearl_a - 0.7504433094926704
+
+7) arthur_dimmesdale_a - 0.7182551408334064
+
+Result for the vector: pearl, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9173054842998728
+
+1) pearl_a - 0.9173054842998728
+
+2) hester_prynne_a - 0.9070482960881898
+
+3) mr_dimmesdale_a - 0.8649460238282713
+
+4) roger_chillingworth_a - 0.8625912152176509
+
+5) mr_wilson_a - 0.8448754389695524
+
+6) hibbins_a - 0.8250010922549217
+
+7) arthur_dimmesdale_a - 0.7523919267304092
+
+Result for the vector: hibbins, coming from part i of the book
+Rank: 2 out of 7 characters
+Cosine similarity to the co-referring vector: 0.7493827119653639
+
+1) hester_prynne_a - 0.7678774824105946
+
+2) hibbins_a - 0.7493827119653639
+
+3) mr_wilson_a - 0.7440978732167407
+
+4) pearl_a - 0.740304388394824
+
+5) mr_dimmesdale_a - 0.7395017367452904
+
+6) roger_chillingworth_a - 0.7176329539090059
+
+7) arthur_dimmesdale_a - 0.6543468030897858
+
+Result for the vector: hester_prynne, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9382197820079213
+
+1) hester_prynne_wiki - 0.9382197820079213
+
+2) mr_dimmesdale_wiki - 0.9161648204228405
+
+3) pearl_wiki - 0.9070482960881898
+
+4) roger_chillingworth_wiki - 0.8788560105052003
+
+5) mr_wilson_wiki - 0.7979930163626079
+
+6) arthur_dimmesdale_wiki - 0.7821314930915833
+
+7) hibbins_wiki - 0.7678774824105946
+
+Result for the vector: mr_dimmesdale, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9262929602686802
+
+1) mr_dimmesdale_wiki - 0.9262929602686802
+
+2) hester_prynne_wiki - 0.890031271578747
+
+3) roger_chillingworth_wiki - 0.8861551352646883
+
+4) pearl_wiki - 0.8649460238282713
+
+5) mr_wilson_wiki - 0.8108982556522947
+
+6) arthur_dimmesdale_wiki - 0.809788703918457
+
+7) hibbins_wiki - 0.7395017367452904
+
+Result for the vector: roger_chillingworth, coming from part a of the book
+Rank: 3 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8903352022171084
+
+1) mr_dimmesdale_wiki - 0.9203288555145329
+
+2) hester_prynne_wiki - 0.891237841992121
+
+3) roger_chillingworth_wiki - 0.8903352022171084
+
+4) pearl_wiki - 0.8625912152176509
+
+5) mr_wilson_wiki - 0.7967398166656551
+
+6) arthur_dimmesdale_wiki - 0.7964595434939603
+
+7) hibbins_wiki - 0.7176329539090059
+
+Result for the vector: arthur_dimmesdale, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.936311988124609
+
+1) arthur_dimmesdale_wiki - 0.936311988124609
+
+2) mr_dimmesdale_wiki - 0.8245013706534725
+
+3) roger_chillingworth_wiki - 0.77362469513343
+
+4) hester_prynne_wiki - 0.7606476033312923
+
+5) pearl_wiki - 0.7523919267304092
+
+6) mr_wilson_wiki - 0.7182551408334064
+
+7) hibbins_wiki - 0.6543468030897858
+
+Result for the vector: mr_wilson, coming from part a of the book
+Rank: 5 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8347464551107185
+
+1) mr_dimmesdale_wiki - 0.8984330624808985
+
+2) hester_prynne_wiki - 0.8671211779523953
+
+3) roger_chillingworth_wiki - 0.8486793384349577
+
+4) pearl_wiki - 0.8448754389695524
+
+5) mr_wilson_wiki - 0.8347464551107185
+
+6) arthur_dimmesdale_wiki - 0.7920879361655697
+
+7) hibbins_wiki - 0.7440978732167407
+
+Result for the vector: pearl, coming from part a of the book
+Rank: 2 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9173054842998728
+
+1) hester_prynne_wiki - 0.9375674128532476
+
+2) pearl_wiki - 0.9173054842998728
+
+3) mr_dimmesdale_wiki - 0.9094276536193306
+
+4) roger_chillingworth_wiki - 0.8872082367887215
+
+5) arthur_dimmesdale_wiki - 0.7687052030143035
+
+6) mr_wilson_wiki - 0.7504433094926704
+
+7) hibbins_wiki - 0.740304388394824
+
+Result for the vector: hibbins, coming from part a of the book
+Rank: 7 out of 7 characters
+Cosine similarity to the co-referring vector: 0.7493827119653639
+
+1) hester_prynne_wiki - 0.8394189476966918
+
+2) mr_dimmesdale_wiki - 0.8320518932280668
+
+3) pearl_wiki - 0.8250010922549217
+
+4) mr_wilson_wiki - 0.8000586867262498
+
+5) roger_chillingworth_wiki - 0.7918756852298158
+
+6) arthur_dimmesdale_wiki - 0.7610724710778923
+
+7) hibbins_wiki - 0.7493827119653639
+

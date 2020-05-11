@@ -1,0 +1,396 @@
+Result for the vector: mary_lennox, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9063347959815249
+
+1) mary_lennox_a - 0.9063347959815249
+
+2) mrs_medlock_a - 0.8797274494089921
+
+3) martha_a - 0.8783766293041898
+
+4) ben_weatherstaff_a - 0.8454891695227975
+
+5) dickon_a - 0.8362077973012804
+
+6) susan_sowerby_a - 0.8302187570994726
+
+7) mr_archibald_craven_a - 0.8288210281378341
+
+8) mester_colin_a - 0.8175135768233341
+
+9) yorkshire_a - 0.7579310906549993
+
+Result for the vector: dickon, coming from part i of the book
+Rank: 2 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8841944531376175
+
+1) ben_weatherstaff_a - 0.8918378884695718
+
+2) dickon_a - 0.8841944531376175
+
+3) mr_archibald_craven_a - 0.8804863024047809
+
+4) mrs_medlock_a - 0.8614618099607131
+
+5) martha_a - 0.8472305445212466
+
+6) mester_colin_a - 0.8459120621471613
+
+7) mary_lennox_a - 0.8395355439463068
+
+8) susan_sowerby_a - 0.8244880929284166
+
+9) yorkshire_a - 0.7949116826057491
+
+Result for the vector: mester_colin, coming from part i of the book
+Rank: 6 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8774586958352089
+
+1) ben_weatherstaff_a - 0.9105440649552369
+
+2) dickon_a - 0.9017023385585748
+
+3) mr_archibald_craven_a - 0.9015053779335437
+
+4) mrs_medlock_a - 0.8892919686225648
+
+5) martha_a - 0.8780910634425604
+
+6) mester_colin_a - 0.8774586958352089
+
+7) mary_lennox_a - 0.8766886404137136
+
+8) susan_sowerby_a - 0.8428089869859516
+
+9) yorkshire_a - 0.8071220872663862
+
+Result for the vector: martha, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8740991950035095
+
+1) martha_a - 0.8740991950035095
+
+2) mrs_medlock_a - 0.873836874961853
+
+3) mary_lennox_a - 0.8598257470338707
+
+4) ben_weatherstaff_a - 0.8543986678123474
+
+5) dickon_a - 0.8497326031247561
+
+6) susan_sowerby_a - 0.848453164100647
+
+7) mester_colin_a - 0.8415738656951084
+
+8) mr_archibald_craven_a - 0.8373677730560303
+
+9) yorkshire_a - 0.807673942585354
+
+Result for the vector: ben_weatherstaff, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8831557631492615
+
+1) ben_weatherstaff_a - 0.8831557631492615
+
+2) dickon_a - 0.8773975037752842
+
+3) mr_archibald_craven_a - 0.867010772228241
+
+4) mrs_medlock_a - 0.8561488389968872
+
+5) mester_colin_a - 0.8411431028502901
+
+6) martha_a - 0.8379695415496826
+
+7) mary_lennox_a - 0.8377377584293236
+
+8) susan_sowerby_a - 0.8136459589004517
+
+9) yorkshire_a - 0.7815367113627978
+
+Result for the vector: mrs_medlock, coming from part i of the book
+Rank: 3 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7601397180473985
+
+1) mary_lennox_a - 0.7642392937709177
+
+2) martha_a - 0.7622943662229572
+
+3) mrs_medlock_a - 0.7601397180473985
+
+4) ben_weatherstaff_a - 0.7441947016599966
+
+5) susan_sowerby_a - 0.7396345293739732
+
+6) dickon_a - 0.7283870360735971
+
+7) mr_archibald_craven_a - 0.7209345268646178
+
+8) mester_colin_a - 0.7026639822321117
+
+9) yorkshire_a - 0.696461713735853
+
+Result for the vector: mr_archibald_craven, coming from part i of the book
+Rank: 2 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8653191328048706
+
+1) susan_sowerby_a - 0.8755221962928772
+
+2) mr_archibald_craven_a - 0.8653191328048706
+
+3) ben_weatherstaff_a - 0.8318306803703308
+
+4) dickon_a - 0.8233443147940733
+
+5) mrs_medlock_a - 0.8173586130142212
+
+6) mary_lennox_a - 0.8143763167409577
+
+7) mester_colin_a - 0.8024606947530687
+
+8) martha_a - 0.8024300932884216
+
+9) yorkshire_a - 0.7603883290059383
+
+Result for the vector: susan_sowerby, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8771470335546754
+
+1) susan_sowerby_a - 0.8771470335546754
+
+2) mr_archibald_craven_a - 0.8079290618981106
+
+3) mary_lennox_a - 0.7441735281530552
+
+4) mrs_medlock_a - 0.7402038883919901
+
+5) ben_weatherstaff_a - 0.7371373489931459
+
+6) dickon_a - 0.735083335481592
+
+7) martha_a - 0.7275750961810288
+
+8) mester_colin_a - 0.7253073290173929
+
+9) yorkshire_a - 0.6843613354513653
+
+Result for the vector: yorkshire, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.6975946606639242
+
+1) yorkshire_a - 0.6975946606639242
+
+2) mr_archibald_craven_a - 0.6498619318008423
+
+3) mester_colin_a - 0.6439754922346264
+
+4) mrs_medlock_a - 0.6430396437644958
+
+5) dickon_a - 0.6429703427246318
+
+6) ben_weatherstaff_a - 0.6413989067077637
+
+7) martha_a - 0.6332036256790161
+
+8) susan_sowerby_a - 0.6206969618797302
+
+9) mary_lennox_a - 0.6176020362851621
+
+Result for the vector: mary_lennox, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9063347959815249
+
+1) mary_lennox_wiki - 0.9063347959815249
+
+2) mester_colin_wiki - 0.8766886404137136
+
+3) martha_wiki - 0.8598257470338707
+
+4) dickon_wiki - 0.8395355439463068
+
+5) ben_weatherstaff_wiki - 0.8377377584293236
+
+6) mr_archibald_craven_wiki - 0.8143763167409577
+
+7) mrs_medlock_wiki - 0.7642392937709177
+
+8) susan_sowerby_wiki - 0.7441735281530552
+
+9) yorkshire_wiki - 0.6176020362851621
+
+Result for the vector: dickon, coming from part a of the book
+Rank: 2 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8841944531376175
+
+1) mester_colin_wiki - 0.9017023385585748
+
+2) dickon_wiki - 0.8841944531376175
+
+3) ben_weatherstaff_wiki - 0.8773975037752842
+
+4) martha_wiki - 0.8497326031247561
+
+5) mary_lennox_wiki - 0.8362077973012804
+
+6) mr_archibald_craven_wiki - 0.8233443147940733
+
+7) susan_sowerby_wiki - 0.735083335481592
+
+8) mrs_medlock_wiki - 0.7283870360735971
+
+9) yorkshire_wiki - 0.6429703427246318
+
+Result for the vector: mester_colin, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8774586958352089
+
+1) mester_colin_wiki - 0.8774586958352089
+
+2) dickon_wiki - 0.8459120621471613
+
+3) martha_wiki - 0.8415738656951084
+
+4) ben_weatherstaff_wiki - 0.8411431028502901
+
+5) mary_lennox_wiki - 0.8175135768233341
+
+6) mr_archibald_craven_wiki - 0.8024606947530687
+
+7) susan_sowerby_wiki - 0.7253073290173929
+
+8) mrs_medlock_wiki - 0.7026639822321117
+
+9) yorkshire_wiki - 0.6439754922346264
+
+Result for the vector: martha, coming from part a of the book
+Rank: 3 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8740991950035095
+
+1) mary_lennox_wiki - 0.8783766293041898
+
+2) mester_colin_wiki - 0.8780910634425604
+
+3) martha_wiki - 0.8740991950035095
+
+4) dickon_wiki - 0.8472305445212466
+
+5) ben_weatherstaff_wiki - 0.8379695415496826
+
+6) mr_archibald_craven_wiki - 0.8024300932884216
+
+7) mrs_medlock_wiki - 0.7622943662229572
+
+8) susan_sowerby_wiki - 0.7275750961810288
+
+9) yorkshire_wiki - 0.6332036256790161
+
+Result for the vector: ben_weatherstaff, coming from part a of the book
+Rank: 3 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8831557631492615
+
+1) mester_colin_wiki - 0.9105440649552369
+
+2) dickon_wiki - 0.8918378884695718
+
+3) ben_weatherstaff_wiki - 0.8831557631492615
+
+4) martha_wiki - 0.8543986678123474
+
+5) mary_lennox_wiki - 0.8454891695227975
+
+6) mr_archibald_craven_wiki - 0.8318306803703308
+
+7) mrs_medlock_wiki - 0.7441947016599966
+
+8) susan_sowerby_wiki - 0.7371373489931459
+
+9) yorkshire_wiki - 0.6413989067077637
+
+Result for the vector: mrs_medlock, coming from part a of the book
+Rank: 7 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7601397180473985
+
+1) mester_colin_wiki - 0.8892919686225648
+
+2) mary_lennox_wiki - 0.8797274494089921
+
+3) martha_wiki - 0.873836874961853
+
+4) dickon_wiki - 0.8614618099607131
+
+5) ben_weatherstaff_wiki - 0.8561488389968872
+
+6) mr_archibald_craven_wiki - 0.8173586130142212
+
+7) mrs_medlock_wiki - 0.7601397180473985
+
+8) susan_sowerby_wiki - 0.7402038883919901
+
+9) yorkshire_wiki - 0.6430396437644958
+
+Result for the vector: mr_archibald_craven, coming from part a of the book
+Rank: 4 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8653191328048706
+
+1) mester_colin_wiki - 0.9015053779335437
+
+2) dickon_wiki - 0.8804863024047809
+
+3) ben_weatherstaff_wiki - 0.867010772228241
+
+4) mr_archibald_craven_wiki - 0.8653191328048706
+
+5) martha_wiki - 0.8373677730560303
+
+6) mary_lennox_wiki - 0.8288210281378341
+
+7) susan_sowerby_wiki - 0.8079290618981106
+
+8) mrs_medlock_wiki - 0.7209345268646178
+
+9) yorkshire_wiki - 0.6498619318008423
+
+Result for the vector: susan_sowerby, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8771470335546754
+
+1) susan_sowerby_wiki - 0.8771470335546754
+
+2) mr_archibald_craven_wiki - 0.8755221962928772
+
+3) martha_wiki - 0.848453164100647
+
+4) mester_colin_wiki - 0.8428089869859516
+
+5) mary_lennox_wiki - 0.8302187570994726
+
+6) dickon_wiki - 0.8244880929284166
+
+7) ben_weatherstaff_wiki - 0.8136459589004517
+
+8) mrs_medlock_wiki - 0.7396345293739732
+
+9) yorkshire_wiki - 0.6206969618797302
+
+Result for the vector: yorkshire, coming from part a of the book
+Rank: 7 out of 9 characters
+Cosine similarity to the co-referring vector: 0.6975946606639242
+
+1) martha_wiki - 0.807673942585354
+
+2) mester_colin_wiki - 0.8071220872663862
+
+3) dickon_wiki - 0.7949116826057491
+
+4) ben_weatherstaff_wiki - 0.7815367113627978
+
+5) mr_archibald_craven_wiki - 0.7603883290059383
+
+6) mary_lennox_wiki - 0.7579310906549993
+
+7) yorkshire_wiki - 0.6975946606639242
+
+8) mrs_medlock_wiki - 0.696461713735853
+
+9) susan_sowerby_wiki - 0.6843613354513653
+

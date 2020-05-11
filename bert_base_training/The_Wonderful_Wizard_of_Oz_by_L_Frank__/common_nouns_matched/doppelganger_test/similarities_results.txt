@@ -1,0 +1,252 @@
+Result for the vector: girl, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9860216983543831
+
+1) girl_b - 0.9860216983543831
+
+2) tin_b - 0.8145605811214808
+
+3) air_b - 0.803534984588623
+
+4) room_b - 0.7756733432010817
+
+5) mind_b - 0.7517527269948696
+
+6) year_b - 0.7204290247091364
+
+7) hole_b - 0.6876606773824585
+
+Result for the vector: room, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9695879817009041
+
+1) room_b - 0.9695879817009041
+
+2) air_b - 0.8359601995921269
+
+3) girl_b - 0.7856373190879877
+
+4) tin_b - 0.7523746195286058
+
+5) hole_b - 0.7313901519695271
+
+6) mind_b - 0.7296640607013858
+
+7) year_b - 0.681467355620923
+
+Result for the vector: air, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9719160845429902
+
+1) air_b - 0.9719160845429902
+
+2) room_b - 0.8033215276428453
+
+3) tin_b - 0.7768487004222255
+
+4) girl_b - 0.7576511484024224
+
+5) hole_b - 0.7078627733033449
+
+6) mind_b - 0.6747707523474236
+
+7) year_b - 0.6653951011009508
+
+Result for the vector: tin, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9182582351431091
+
+1) tin_b - 0.9182582351431091
+
+2) girl_b - 0.8426527287157151
+
+3) air_b - 0.8073995479821677
+
+4) room_b - 0.7798269259826621
+
+5) mind_b - 0.7622742909332701
+
+6) hole_b - 0.7369266936880425
+
+7) year_b - 0.7192580579605814
+
+Result for the vector: year, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9184073483469296
+
+1) year_b - 0.9184073483469296
+
+2) girl_b - 0.7267288728517979
+
+3) tin_b - 0.7266331152101241
+
+4) air_b - 0.724348247051239
+
+5) room_b - 0.7184554506268841
+
+6) mind_b - 0.6880522799569861
+
+7) hole_b - 0.6421041253364345
+
+Result for the vector: hole, coming from part a of the book
+Rank: 3 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8273872773926465
+
+1) air_b - 0.8694254159927368
+
+2) room_b - 0.8538761226012649
+
+3) hole_b - 0.8273872773926465
+
+4) tin_b - 0.789087938611982
+
+5) girl_b - 0.7876068480249152
+
+6) mind_b - 0.7117193209706805
+
+7) year_b - 0.6696801385188147
+
+Result for the vector: mind, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8981779035647999
+
+1) mind_b - 0.8981779035647999
+
+2) girl_b - 0.7681884536687031
+
+3) tin_b - 0.7681417555935763
+
+4) room_b - 0.7652441035138369
+
+5) air_b - 0.7423277122476019
+
+6) year_b - 0.70766584322845
+
+7) hole_b - 0.6746345176639338
+
+Result for the vector: girl, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9860216983543831
+
+1) girl_a - 0.9860216983543831
+
+2) tin_a - 0.8426527287157151
+
+3) hole_a - 0.7876068480249152
+
+4) room_a - 0.7856373190879877
+
+5) mind_a - 0.7681884536687031
+
+6) air_a - 0.7576511484024224
+
+7) year_a - 0.7267288728517979
+
+Result for the vector: room, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9695879817009041
+
+1) room_a - 0.9695879817009041
+
+2) hole_a - 0.8538761226012649
+
+3) air_a - 0.8033215276428453
+
+4) tin_a - 0.7798269259826621
+
+5) girl_a - 0.7756733432010817
+
+6) mind_a - 0.7652441035138369
+
+7) year_a - 0.7184554506268841
+
+Result for the vector: air, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9719160845429902
+
+1) air_a - 0.9719160845429902
+
+2) hole_a - 0.8694254159927368
+
+3) room_a - 0.8359601995921269
+
+4) tin_a - 0.8073995479821677
+
+5) girl_a - 0.803534984588623
+
+6) mind_a - 0.7423277122476019
+
+7) year_a - 0.724348247051239
+
+Result for the vector: tin, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9182582351431091
+
+1) tin_a - 0.9182582351431091
+
+2) girl_a - 0.8145605811214808
+
+3) hole_a - 0.789087938611982
+
+4) air_a - 0.7768487004222255
+
+5) mind_a - 0.7681417555935763
+
+6) room_a - 0.7523746195286058
+
+7) year_a - 0.7266331152101241
+
+Result for the vector: year, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9184073483469296
+
+1) year_a - 0.9184073483469296
+
+2) girl_a - 0.7204290247091364
+
+3) tin_a - 0.7192580579605814
+
+4) mind_a - 0.70766584322845
+
+5) room_a - 0.681467355620923
+
+6) hole_a - 0.6696801385188147
+
+7) air_a - 0.6653951011009508
+
+Result for the vector: hole, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8273872773926465
+
+1) hole_a - 0.8273872773926465
+
+2) tin_a - 0.7369266936880425
+
+3) room_a - 0.7313901519695271
+
+4) air_a - 0.7078627733033449
+
+5) girl_a - 0.6876606773824585
+
+6) mind_a - 0.6746345176639338
+
+7) year_a - 0.6421041253364345
+
+Result for the vector: mind, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8981779035647999
+
+1) mind_a - 0.8981779035647999
+
+2) tin_a - 0.7622742909332701
+
+3) girl_a - 0.7517527269948696
+
+4) room_a - 0.7296640607013858
+
+5) hole_a - 0.7117193209706805
+
+6) year_a - 0.6880522799569861
+
+7) air_a - 0.6747707523474236
+

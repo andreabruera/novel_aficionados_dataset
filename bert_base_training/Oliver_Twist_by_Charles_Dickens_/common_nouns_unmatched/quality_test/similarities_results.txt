@@ -1,0 +1,192 @@
+Result for the vector: boy, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8107330573479006
+
+1) boy_a - 0.8107330573479006
+
+2) way_a - 0.7695623361542626
+
+3) heart_a - 0.7663617590881456
+
+4) girl_a - 0.7460109884752021
+
+5) woman_a - 0.7458602038538591
+
+6) gentleman_a - 0.7206928730011037
+
+Result for the vector: gentleman, coming from part i of the book
+Rank: 6 out of 6 characters
+Cosine similarity to the co-referring vector: 0.547522810249162
+
+1) boy_a - 0.5994797110247451
+
+2) heart_a - 0.5872395038604736
+
+3) way_a - 0.5702529293449489
+
+4) woman_a - 0.5596591234207153
+
+5) girl_a - 0.5551900002473603
+
+6) gentleman_a - 0.547522810249162
+
+Result for the vector: girl, coming from part i of the book
+Rank: 4 out of 6 characters
+Cosine similarity to the co-referring vector: 0.6049936649207173
+
+1) boy_a - 0.6285028679071248
+
+2) heart_a - 0.6143004161953474
+
+3) woman_a - 0.6060516111789256
+
+4) girl_a - 0.6049936649207173
+
+5) way_a - 0.5948808434676717
+
+6) gentleman_a - 0.583619311400776
+
+Result for the vector: way, coming from part i of the book
+Rank: 4 out of 6 characters
+Cosine similarity to the co-referring vector: 0.44951495227306876
+
+1) boy_a - 0.47287714319689017
+
+2) woman_a - 0.46480071544647217
+
+3) heart_a - 0.4556102454662323
+
+4) way_a - 0.44951495227306876
+
+5) girl_a - 0.4480970768986398
+
+6) gentleman_a - 0.44197565663006044
+
+Result for the vector: woman, coming from part i of the book
+Rank: 2 out of 6 characters
+Cosine similarity to the co-referring vector: 0.6984981894493103
+
+1) boy_a - 0.7098353332182976
+
+2) woman_a - 0.6984981894493103
+
+3) girl_a - 0.6959422049487963
+
+4) heart_a - 0.693321943283081
+
+5) way_a - 0.6787290381627714
+
+6) gentleman_a - 0.6745259955807938
+
+Result for the vector: heart, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.6971308796742823
+
+1) heart_a - 0.6971308796742823
+
+2) boy_a - 0.6442700604441819
+
+3) way_a - 0.6442201713520445
+
+4) woman_a - 0.611113745305352
+
+5) girl_a - 0.6042395774340255
+
+6) gentleman_a - 0.5852762286282733
+
+Result for the vector: boy, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8107330573479006
+
+1) boy_wiki - 0.8107330573479006
+
+2) woman_wiki - 0.7098353332182976
+
+3) heart_wiki - 0.6442700604441819
+
+4) girl_wiki - 0.6285028679071248
+
+5) gentleman_wiki - 0.5994797110247451
+
+6) way_wiki - 0.47287714319689017
+
+Result for the vector: gentleman, coming from part a of the book
+Rank: 5 out of 6 characters
+Cosine similarity to the co-referring vector: 0.547522810249162
+
+1) boy_wiki - 0.7206928730011037
+
+2) woman_wiki - 0.6745259955807938
+
+3) heart_wiki - 0.5852762286282733
+
+4) girl_wiki - 0.583619311400776
+
+5) gentleman_wiki - 0.547522810249162
+
+6) way_wiki - 0.44197565663006044
+
+Result for the vector: girl, coming from part a of the book
+Rank: 3 out of 6 characters
+Cosine similarity to the co-referring vector: 0.6049936649207173
+
+1) boy_wiki - 0.7460109884752021
+
+2) woman_wiki - 0.6959422049487963
+
+3) girl_wiki - 0.6049936649207173
+
+4) heart_wiki - 0.6042395774340255
+
+5) gentleman_wiki - 0.5551900002473603
+
+6) way_wiki - 0.4480970768986398
+
+Result for the vector: way, coming from part a of the book
+Rank: 6 out of 6 characters
+Cosine similarity to the co-referring vector: 0.44951495227306876
+
+1) boy_wiki - 0.7695623361542626
+
+2) woman_wiki - 0.6787290381627714
+
+3) heart_wiki - 0.6442201713520445
+
+4) girl_wiki - 0.5948808434676717
+
+5) gentleman_wiki - 0.5702529293449489
+
+6) way_wiki - 0.44951495227306876
+
+Result for the vector: woman, coming from part a of the book
+Rank: 2 out of 6 characters
+Cosine similarity to the co-referring vector: 0.6984981894493103
+
+1) boy_wiki - 0.7458602038538591
+
+2) woman_wiki - 0.6984981894493103
+
+3) heart_wiki - 0.611113745305352
+
+4) girl_wiki - 0.6060516111789256
+
+5) gentleman_wiki - 0.5596591234207153
+
+6) way_wiki - 0.46480071544647217
+
+Result for the vector: heart, coming from part a of the book
+Rank: 2 out of 6 characters
+Cosine similarity to the co-referring vector: 0.6971308796742823
+
+1) boy_wiki - 0.7663617590881456
+
+2) heart_wiki - 0.6971308796742823
+
+3) woman_wiki - 0.693321943283081
+
+4) girl_wiki - 0.6143004161953474
+
+5) gentleman_wiki - 0.5872395038604736
+
+6) way_wiki - 0.4556102454662323
+

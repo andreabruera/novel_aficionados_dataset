@@ -1,0 +1,1152 @@
+Result for the vector: mr_bounderby, coming from part i of the book
+Rank: 5 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9159301742252868
+
+1) mr_james_harthouse_a - 0.9249744966610982
+
+2) sissy_jupe_a - 0.9241095736092091
+
+3) mr_sleary_a - 0.9196630072392842
+
+4) mr_thomas_gradgrind_a - 0.9169759104833566
+
+5) mr_bounderby_a - 0.9159301742252868
+
+6) mrs_sparsit_a - 0.9144555824346045
+
+7) miss_louisa_a - 0.9109931588172977
+
+8) stephen_blackpool_a - 0.9081430325678626
+
+9) tom_gradgrind_a - 0.9026190195409987
+
+10) bitzer_a - 0.8944609761238161
+
+11) rachael_a - 0.8895726999258433
+
+12) slackbridge_a - 0.8874800071096429
+
+13) stone_lodge_a - 0.8861751556396548
+
+14) loo_bounderby_a - 0.8789061687420924
+
+15) josiah_bounderby_a - 0.8664942145039242
+
+16) bank_a - 0.826674048106976
+
+Result for the vector: mrs_sparsit, coming from part i of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.91368770084904
+
+1) mrs_sparsit_a - 0.91368770084904
+
+2) sissy_jupe_a - 0.9118531942367554
+
+3) miss_louisa_a - 0.9069370086826694
+
+4) mr_james_harthouse_a - 0.8937914371490479
+
+5) mr_bounderby_a - 0.8879010941952797
+
+6) mr_thomas_gradgrind_a - 0.8876861929893494
+
+7) tom_gradgrind_a - 0.8767069169914982
+
+8) rachael_a - 0.8755204342460766
+
+9) mr_sleary_a - 0.8738579750061035
+
+10) stephen_blackpool_a - 0.8710969013629513
+
+11) bitzer_a - 0.8694858628817894
+
+12) loo_bounderby_a - 0.8647159772772823
+
+13) slackbridge_a - 0.847442439046053
+
+14) stone_lodge_a - 0.8307147126963921
+
+15) josiah_bounderby_a - 0.8214604045701568
+
+16) bank_a - 0.7788684468449785
+
+Result for the vector: miss_louisa, coming from part i of the book
+Rank: 3 out of 16 characters
+Cosine similarity to the co-referring vector: 0.907300662124078
+
+1) mrs_sparsit_a - 0.9140714406967229
+
+2) sissy_jupe_a - 0.9118035488245773
+
+3) miss_louisa_a - 0.907300662124078
+
+4) mr_james_harthouse_a - 0.8911951845171954
+
+5) mr_bounderby_a - 0.8878205153995634
+
+6) mr_thomas_gradgrind_a - 0.8803465437682558
+
+7) rachael_a - 0.8802683091083708
+
+8) tom_gradgrind_a - 0.875951256631362
+
+9) mr_sleary_a - 0.8758812024664178
+
+10) loo_bounderby_a - 0.8704130572326952
+
+11) stephen_blackpool_a - 0.8687294721603456
+
+12) bitzer_a - 0.8669820586464335
+
+13) slackbridge_a - 0.8443424105644286
+
+14) stone_lodge_a - 0.837430854149955
+
+15) josiah_bounderby_a - 0.8319096465057056
+
+16) bank_a - 0.7753429047865628
+
+Result for the vector: mr_thomas_gradgrind, coming from part i of the book
+Rank: 2 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9176214933395386
+
+1) sissy_jupe_a - 0.9248083829879761
+
+2) mr_thomas_gradgrind_a - 0.9176214933395386
+
+3) mr_james_harthouse_a - 0.9168975353240967
+
+4) mrs_sparsit_a - 0.915481800763716
+
+5) mr_sleary_a - 0.9119712710380554
+
+6) mr_bounderby_a - 0.9119046006174271
+
+7) miss_louisa_a - 0.9100474768848748
+
+8) stephen_blackpool_a - 0.9000639855899818
+
+9) tom_gradgrind_a - 0.8999510019973852
+
+10) bitzer_a - 0.8916451399537854
+
+11) rachael_a - 0.8838346267889333
+
+12) loo_bounderby_a - 0.87926165810367
+
+13) slackbridge_a - 0.8771188781928363
+
+14) stone_lodge_a - 0.8681232411787978
+
+15) josiah_bounderby_a - 0.8627712563003669
+
+16) bank_a - 0.8143075240529383
+
+Result for the vector: tom_gradgrind, coming from part i of the book
+Rank: 9 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8889475663555508
+
+1) mr_james_harthouse_a - 0.9133775234222412
+
+2) sissy_jupe_a - 0.9129218459129333
+
+3) mr_thomas_gradgrind_a - 0.9043365716934204
+
+4) mr_bounderby_a - 0.9030642182548115
+
+5) miss_louisa_a - 0.8993974388004892
+
+6) mrs_sparsit_a - 0.8979471265046092
+
+7) stephen_blackpool_a - 0.8926272924320292
+
+8) mr_sleary_a - 0.8906005024909973
+
+9) tom_gradgrind_a - 0.8889475663555508
+
+10) bitzer_a - 0.8824079702849421
+
+11) slackbridge_a - 0.88068597797668
+
+12) rachael_a - 0.8677490612193666
+
+13) loo_bounderby_a - 0.8656017620088832
+
+14) josiah_bounderby_a - 0.8540487115441278
+
+15) stone_lodge_a - 0.8475809784185319
+
+16) bank_a - 0.7830763563284032
+
+Result for the vector: stephen_blackpool, coming from part i of the book
+Rank: 5 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8828045586114596
+
+1) mr_james_harthouse_a - 0.8972982703029094
+
+2) sissy_jupe_a - 0.8856812051344652
+
+3) mr_sleary_a - 0.8845602801180068
+
+4) mr_thomas_gradgrind_a - 0.8842099239951342
+
+5) stephen_blackpool_a - 0.8828045586114596
+
+6) mr_bounderby_a - 0.8763136455101058
+
+7) mrs_sparsit_a - 0.8757825345733803
+
+8) slackbridge_a - 0.8732921926131478
+
+9) miss_louisa_a - 0.870610296726233
+
+10) tom_gradgrind_a - 0.8632162307525029
+
+11) bitzer_a - 0.8538658618927063
+
+12) rachael_a - 0.8505044147823232
+
+13) stone_lodge_a - 0.8426696062088073
+
+14) loo_bounderby_a - 0.8236857337389722
+
+15) josiah_bounderby_a - 0.8065395605336848
+
+16) bank_a - 0.7666464994321021
+
+Result for the vector: sissy_jupe, coming from part i of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9194658494632489
+
+1) sissy_jupe_a - 0.9194658494632489
+
+2) mrs_sparsit_a - 0.9193521786122363
+
+3) miss_louisa_a - 0.908356146510338
+
+4) mr_bounderby_a - 0.8917748130761353
+
+5) rachael_a - 0.8916876710932647
+
+6) mr_james_harthouse_a - 0.8910283576216335
+
+7) mr_sleary_a - 0.8873122468814618
+
+8) mr_thomas_gradgrind_a - 0.8857930438765298
+
+9) tom_gradgrind_a - 0.880610380154558
+
+10) stephen_blackpool_a - 0.8741583303118887
+
+11) bitzer_a - 0.8713939419876456
+
+12) loo_bounderby_a - 0.8683694601059206
+
+13) stone_lodge_a - 0.8450420775934334
+
+14) slackbridge_a - 0.8441054317888496
+
+15) josiah_bounderby_a - 0.8259555101394888
+
+16) bank_a - 0.7899554136408914
+
+Result for the vector: rachael, coming from part i of the book
+Rank: 6 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8703196462703164
+
+1) mrs_sparsit_a - 0.8991743386284055
+
+2) sissy_jupe_a - 0.8962218289110928
+
+3) miss_louisa_a - 0.8898248273447481
+
+4) mr_james_harthouse_a - 0.8792249108284881
+
+5) mr_bounderby_a - 0.876768153002735
+
+6) rachael_a - 0.8703196462703164
+
+7) mr_sleary_a - 0.8659818332217
+
+8) mr_thomas_gradgrind_a - 0.8654714387093321
+
+9) tom_gradgrind_a - 0.8652574758155095
+
+10) stephen_blackpool_a - 0.8560883488602568
+
+11) loo_bounderby_a - 0.8556689620018249
+
+12) bitzer_a - 0.8520724441875632
+
+13) slackbridge_a - 0.8420475815506365
+
+14) stone_lodge_a - 0.8291464753485083
+
+15) josiah_bounderby_a - 0.8260513544082876
+
+16) bank_a - 0.7696821460222726
+
+Result for the vector: mr_james_harthouse, coming from part i of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.888865053653717
+
+1) mr_james_harthouse_a - 0.888865053653717
+
+2) mr_thomas_gradgrind_a - 0.8830773830413818
+
+3) sissy_jupe_a - 0.8799208998680115
+
+4) miss_louisa_a - 0.8743391111887047
+
+5) mrs_sparsit_a - 0.8720497412711243
+
+6) mr_bounderby_a - 0.8708920738366868
+
+7) mr_sleary_a - 0.8688926696777344
+
+8) stephen_blackpool_a - 0.8681526105494879
+
+9) tom_gradgrind_a - 0.8543349076212894
+
+10) slackbridge_a - 0.8538840326001679
+
+11) bitzer_a - 0.8461468907507143
+
+12) rachael_a - 0.8416739953063133
+
+13) stone_lodge_a - 0.8301548463013875
+
+14) loo_bounderby_a - 0.8220412519027354
+
+15) josiah_bounderby_a - 0.8069265850694934
+
+16) bank_a - 0.7587638579693936
+
+Result for the vector: bitzer, coming from part i of the book
+Rank: 10 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8743019029082142
+
+1) sissy_jupe_a - 0.902403164196398
+
+2) mr_james_harthouse_a - 0.8945470922645504
+
+3) mr_bounderby_a - 0.8921848672903913
+
+4) mrs_sparsit_a - 0.8908899827402815
+
+5) mr_sleary_a - 0.8901556599325792
+
+6) miss_louisa_a - 0.8846560051832344
+
+7) mr_thomas_gradgrind_a - 0.8822150089997126
+
+8) tom_gradgrind_a - 0.8818062595320889
+
+9) stephen_blackpool_a - 0.8797898077588945
+
+10) bitzer_a - 0.8743019029082142
+
+11) slackbridge_a - 0.8708907134933571
+
+12) loo_bounderby_a - 0.8653264320674973
+
+13) rachael_a - 0.8618450256951226
+
+14) josiah_bounderby_a - 0.8434328063566223
+
+15) stone_lodge_a - 0.8285369770847082
+
+16) bank_a - 0.7751369305240668
+
+Result for the vector: mr_sleary, coming from part i of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8943395081556152
+
+1) mr_sleary_a - 0.8943395081556152
+
+2) sissy_jupe_a - 0.8775996638775088
+
+3) tom_gradgrind_a - 0.8712608477849118
+
+4) mr_bounderby_a - 0.8705374935109205
+
+5) mr_james_harthouse_a - 0.870340712646205
+
+6) mrs_sparsit_a - 0.8660477995872559
+
+7) miss_louisa_a - 0.8600669073978773
+
+8) stephen_blackpool_a - 0.8599488139152588
+
+9) mr_thomas_gradgrind_a - 0.8572712625699498
+
+10) bitzer_a - 0.8557011061071031
+
+11) josiah_bounderby_a - 0.8527529747935059
+
+12) loo_bounderby_a - 0.8518988401829641
+
+13) stone_lodge_a - 0.8495602787065174
+
+14) rachael_a - 0.8487348303575898
+
+15) slackbridge_a - 0.8310013413429319
+
+16) bank_a - 0.7977064489634855
+
+Result for the vector: bank, coming from part i of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9156716142795073
+
+1) bank_a - 0.9156716142795073
+
+2) mr_bounderby_a - 0.8455341802378277
+
+3) sissy_jupe_a - 0.8413956259849309
+
+4) mr_sleary_a - 0.839992771149114
+
+5) loo_bounderby_a - 0.8365088007753506
+
+6) stone_lodge_a - 0.836369831994792
+
+7) tom_gradgrind_a - 0.8329310665408187
+
+8) mr_james_harthouse_a - 0.8324158887615285
+
+9) miss_louisa_a - 0.8304145538312728
+
+10) bitzer_a - 0.8299907052528017
+
+11) stephen_blackpool_a - 0.8273915052413999
+
+12) mrs_sparsit_a - 0.8272694945335447
+
+13) mr_thomas_gradgrind_a - 0.8216621386014155
+
+14) rachael_a - 0.8198134058769555
+
+15) josiah_bounderby_a - 0.8167282829718889
+
+16) slackbridge_a - 0.7884396314621027
+
+Result for the vector: josiah_bounderby, coming from part i of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.920242488384273
+
+1) josiah_bounderby_a - 0.920242488384273
+
+2) tom_gradgrind_a - 0.8901274535022139
+
+3) loo_bounderby_a - 0.8858160972595467
+
+4) mr_sleary_a - 0.8852267402140275
+
+5) mr_bounderby_a - 0.8806394147301341
+
+6) sissy_jupe_a - 0.8793825650951251
+
+7) bitzer_a - 0.8769141655717808
+
+8) mr_james_harthouse_a - 0.8754724412593378
+
+9) mrs_sparsit_a - 0.8702414709185816
+
+10) miss_louisa_a - 0.8681693312819023
+
+11) stephen_blackpool_a - 0.8654484829039424
+
+12) rachael_a - 0.8545930813616834
+
+13) mr_thomas_gradgrind_a - 0.8475022497770549
+
+14) slackbridge_a - 0.830503831475758
+
+15) stone_lodge_a - 0.8229015190181415
+
+16) bank_a - 0.8081139085259045
+
+Result for the vector: loo_bounderby, coming from part i of the book
+Rank: 3 out of 16 characters
+Cosine similarity to the co-referring vector: 0.7759268016727981
+
+1) josiah_bounderby_a - 0.7944915049662057
+
+2) sissy_jupe_a - 0.7819200754165649
+
+3) loo_bounderby_a - 0.7759268016727981
+
+4) mrs_sparsit_a - 0.768762157485615
+
+5) mr_bounderby_a - 0.765012167841559
+
+6) tom_gradgrind_a - 0.7575992427110025
+
+7) mr_thomas_gradgrind_a - 0.7575699687004089
+
+8) miss_louisa_a - 0.7521989493251486
+
+9) mr_james_harthouse_a - 0.7474702596664429
+
+10) bitzer_a - 0.7470826657365177
+
+11) rachael_a - 0.7393086176904627
+
+12) mr_sleary_a - 0.7383272051811218
+
+13) stephen_blackpool_a - 0.7218642665066891
+
+14) stone_lodge_a - 0.7122948937240319
+
+15) slackbridge_a - 0.6987986981152725
+
+16) bank_a - 0.670962632086515
+
+Result for the vector: slackbridge, coming from part i of the book
+Rank: 11 out of 16 characters
+Cosine similarity to the co-referring vector: 0.741279736681012
+
+1) mr_sleary_a - 0.7709347282725951
+
+2) mr_bounderby_a - 0.7696128395546009
+
+3) sissy_jupe_a - 0.7677043953294337
+
+4) mr_james_harthouse_a - 0.7618793532992234
+
+5) mrs_sparsit_a - 0.7586261177882008
+
+6) tom_gradgrind_a - 0.7531870975140766
+
+7) stephen_blackpool_a - 0.752693250614819
+
+8) mr_thomas_gradgrind_a - 0.7460723225984242
+
+9) miss_louisa_a - 0.7443420152052627
+
+10) bitzer_a - 0.7434545618078909
+
+11) slackbridge_a - 0.741279736681012
+
+12) rachael_a - 0.7398059898788424
+
+13) josiah_bounderby_a - 0.7326730489731044
+
+14) loo_bounderby_a - 0.7288720011711328
+
+15) stone_lodge_a - 0.7121498503417056
+
+16) bank_a - 0.6659001509577136
+
+Result for the vector: stone_lodge, coming from part i of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8009360193927314
+
+1) stone_lodge_a - 0.8009360193927314
+
+2) mr_sleary_a - 0.7241106845173447
+
+3) sissy_jupe_a - 0.7003339737753267
+
+4) bank_a - 0.6998960614080515
+
+5) mr_bounderby_a - 0.6995637833812107
+
+6) mr_james_harthouse_a - 0.6994282811709729
+
+7) rachael_a - 0.6990732371254704
+
+8) josiah_bounderby_a - 0.6981072870056787
+
+9) miss_louisa_a - 0.6975598723423547
+
+10) tom_gradgrind_a - 0.6950345867913481
+
+11) mrs_sparsit_a - 0.6946714545492642
+
+12) bitzer_a - 0.68618533950492
+
+13) stephen_blackpool_a - 0.6855190413164238
+
+14) loo_bounderby_a - 0.6801549017660201
+
+15) mr_thomas_gradgrind_a - 0.6771940790770676
+
+16) slackbridge_a - 0.6647296546157889
+
+Result for the vector: mr_bounderby, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9159301742252868
+
+1) mr_bounderby_wiki - 0.9159301742252868
+
+2) mr_thomas_gradgrind_wiki - 0.9119046006174271
+
+3) tom_gradgrind_wiki - 0.9030642182548115
+
+4) bitzer_wiki - 0.8921848672903913
+
+5) sissy_jupe_wiki - 0.8917748130761353
+
+6) mrs_sparsit_wiki - 0.8879010941952797
+
+7) miss_louisa_wiki - 0.8878205153995634
+
+8) josiah_bounderby_wiki - 0.8806394147301341
+
+9) rachael_wiki - 0.876768153002735
+
+10) stephen_blackpool_wiki - 0.8763136455101058
+
+11) mr_james_harthouse_wiki - 0.8708920738366868
+
+12) mr_sleary_wiki - 0.8705374935109205
+
+13) bank_wiki - 0.8455341802378277
+
+14) slackbridge_wiki - 0.7696128395546009
+
+15) loo_bounderby_wiki - 0.765012167841559
+
+16) stone_lodge_wiki - 0.6995637833812107
+
+Result for the vector: mrs_sparsit, coming from part a of the book
+Rank: 5 out of 16 characters
+Cosine similarity to the co-referring vector: 0.91368770084904
+
+1) sissy_jupe_wiki - 0.9193521786122363
+
+2) mr_thomas_gradgrind_wiki - 0.915481800763716
+
+3) mr_bounderby_wiki - 0.9144555824346045
+
+4) miss_louisa_wiki - 0.9140714406967229
+
+5) mrs_sparsit_wiki - 0.91368770084904
+
+6) rachael_wiki - 0.8991743386284055
+
+7) tom_gradgrind_wiki - 0.8979471265046092
+
+8) bitzer_wiki - 0.8908899827402815
+
+9) stephen_blackpool_wiki - 0.8757825345733803
+
+10) mr_james_harthouse_wiki - 0.8720497412711243
+
+11) josiah_bounderby_wiki - 0.8702414709185816
+
+12) mr_sleary_wiki - 0.8660477995872559
+
+13) bank_wiki - 0.8272694945335447
+
+14) loo_bounderby_wiki - 0.768762157485615
+
+15) slackbridge_wiki - 0.7586261177882008
+
+16) stone_lodge_wiki - 0.6946714545492642
+
+Result for the vector: miss_louisa, coming from part a of the book
+Rank: 4 out of 16 characters
+Cosine similarity to the co-referring vector: 0.907300662124078
+
+1) mr_bounderby_wiki - 0.9109931588172977
+
+2) mr_thomas_gradgrind_wiki - 0.9100474768848748
+
+3) sissy_jupe_wiki - 0.908356146510338
+
+4) miss_louisa_wiki - 0.907300662124078
+
+5) mrs_sparsit_wiki - 0.9069370086826694
+
+6) tom_gradgrind_wiki - 0.8993974388004892
+
+7) rachael_wiki - 0.8898248273447481
+
+8) bitzer_wiki - 0.8846560051832344
+
+9) mr_james_harthouse_wiki - 0.8743391111887047
+
+10) stephen_blackpool_wiki - 0.870610296726233
+
+11) josiah_bounderby_wiki - 0.8681693312819023
+
+12) mr_sleary_wiki - 0.8600669073978773
+
+13) bank_wiki - 0.8304145538312728
+
+14) loo_bounderby_wiki - 0.7521989493251486
+
+15) slackbridge_wiki - 0.7443420152052627
+
+16) stone_lodge_wiki - 0.6975598723423547
+
+Result for the vector: mr_thomas_gradgrind, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9176214933395386
+
+1) mr_thomas_gradgrind_wiki - 0.9176214933395386
+
+2) mr_bounderby_wiki - 0.9169759104833566
+
+3) tom_gradgrind_wiki - 0.9043365716934204
+
+4) mrs_sparsit_wiki - 0.8876861929893494
+
+5) sissy_jupe_wiki - 0.8857930438765298
+
+6) stephen_blackpool_wiki - 0.8842099239951342
+
+7) mr_james_harthouse_wiki - 0.8830773830413818
+
+8) bitzer_wiki - 0.8822150089997126
+
+9) miss_louisa_wiki - 0.8803465437682558
+
+10) rachael_wiki - 0.8654714387093321
+
+11) mr_sleary_wiki - 0.8572712625699498
+
+12) josiah_bounderby_wiki - 0.8475022497770549
+
+13) bank_wiki - 0.8216621386014155
+
+14) loo_bounderby_wiki - 0.7575699687004089
+
+15) slackbridge_wiki - 0.7460723225984242
+
+16) stone_lodge_wiki - 0.6771940790770676
+
+Result for the vector: tom_gradgrind, coming from part a of the book
+Rank: 4 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8889475663555508
+
+1) mr_bounderby_wiki - 0.9026190195409987
+
+2) mr_thomas_gradgrind_wiki - 0.8999510019973852
+
+3) josiah_bounderby_wiki - 0.8901274535022139
+
+4) tom_gradgrind_wiki - 0.8889475663555508
+
+5) bitzer_wiki - 0.8818062595320889
+
+6) sissy_jupe_wiki - 0.880610380154558
+
+7) mrs_sparsit_wiki - 0.8767069169914982
+
+8) miss_louisa_wiki - 0.875951256631362
+
+9) mr_sleary_wiki - 0.8712608477849118
+
+10) rachael_wiki - 0.8652574758155095
+
+11) stephen_blackpool_wiki - 0.8632162307525029
+
+12) mr_james_harthouse_wiki - 0.8543349076212894
+
+13) bank_wiki - 0.8329310665408187
+
+14) loo_bounderby_wiki - 0.7575992427110025
+
+15) slackbridge_wiki - 0.7531870975140766
+
+16) stone_lodge_wiki - 0.6950345867913481
+
+Result for the vector: stephen_blackpool, coming from part a of the book
+Rank: 4 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8828045586114596
+
+1) mr_bounderby_wiki - 0.9081430325678626
+
+2) mr_thomas_gradgrind_wiki - 0.9000639855899818
+
+3) tom_gradgrind_wiki - 0.8926272924320292
+
+4) stephen_blackpool_wiki - 0.8828045586114596
+
+5) bitzer_wiki - 0.8797898077588945
+
+6) sissy_jupe_wiki - 0.8741583303118887
+
+7) mrs_sparsit_wiki - 0.8710969013629513
+
+8) miss_louisa_wiki - 0.8687294721603456
+
+9) mr_james_harthouse_wiki - 0.8681526105494879
+
+10) josiah_bounderby_wiki - 0.8654484829039424
+
+11) mr_sleary_wiki - 0.8599488139152588
+
+12) rachael_wiki - 0.8560883488602568
+
+13) bank_wiki - 0.8273915052413999
+
+14) slackbridge_wiki - 0.752693250614819
+
+15) loo_bounderby_wiki - 0.7218642665066891
+
+16) stone_lodge_wiki - 0.6855190413164238
+
+Result for the vector: sissy_jupe, coming from part a of the book
+Rank: 3 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9194658494632489
+
+1) mr_thomas_gradgrind_wiki - 0.9248083829879761
+
+2) mr_bounderby_wiki - 0.9241095736092091
+
+3) sissy_jupe_wiki - 0.9194658494632489
+
+4) tom_gradgrind_wiki - 0.9129218459129333
+
+5) mrs_sparsit_wiki - 0.9118531942367554
+
+6) miss_louisa_wiki - 0.9118035488245773
+
+7) bitzer_wiki - 0.902403164196398
+
+8) rachael_wiki - 0.8962218289110928
+
+9) stephen_blackpool_wiki - 0.8856812051344652
+
+10) mr_james_harthouse_wiki - 0.8799208998680115
+
+11) josiah_bounderby_wiki - 0.8793825650951251
+
+12) mr_sleary_wiki - 0.8775996638775088
+
+13) bank_wiki - 0.8413956259849309
+
+14) loo_bounderby_wiki - 0.7819200754165649
+
+15) slackbridge_wiki - 0.7677043953294337
+
+16) stone_lodge_wiki - 0.7003339737753267
+
+Result for the vector: rachael, coming from part a of the book
+Rank: 6 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8703196462703164
+
+1) sissy_jupe_wiki - 0.8916876710932647
+
+2) mr_bounderby_wiki - 0.8895726999258433
+
+3) mr_thomas_gradgrind_wiki - 0.8838346267889333
+
+4) miss_louisa_wiki - 0.8802683091083708
+
+5) mrs_sparsit_wiki - 0.8755204342460766
+
+6) rachael_wiki - 0.8703196462703164
+
+7) tom_gradgrind_wiki - 0.8677490612193666
+
+8) bitzer_wiki - 0.8618450256951226
+
+9) josiah_bounderby_wiki - 0.8545930813616834
+
+10) stephen_blackpool_wiki - 0.8505044147823232
+
+11) mr_sleary_wiki - 0.8487348303575898
+
+12) mr_james_harthouse_wiki - 0.8416739953063133
+
+13) bank_wiki - 0.8198134058769555
+
+14) slackbridge_wiki - 0.7398059898788424
+
+15) loo_bounderby_wiki - 0.7393086176904627
+
+16) stone_lodge_wiki - 0.6990732371254704
+
+Result for the vector: mr_james_harthouse, coming from part a of the book
+Rank: 9 out of 16 characters
+Cosine similarity to the co-referring vector: 0.888865053653717
+
+1) mr_bounderby_wiki - 0.9249744966610982
+
+2) mr_thomas_gradgrind_wiki - 0.9168975353240967
+
+3) tom_gradgrind_wiki - 0.9133775234222412
+
+4) stephen_blackpool_wiki - 0.8972982703029094
+
+5) bitzer_wiki - 0.8945470922645504
+
+6) mrs_sparsit_wiki - 0.8937914371490479
+
+7) miss_louisa_wiki - 0.8911951845171954
+
+8) sissy_jupe_wiki - 0.8910283576216335
+
+9) mr_james_harthouse_wiki - 0.888865053653717
+
+10) rachael_wiki - 0.8792249108284881
+
+11) josiah_bounderby_wiki - 0.8754724412593378
+
+12) mr_sleary_wiki - 0.870340712646205
+
+13) bank_wiki - 0.8324158887615285
+
+14) slackbridge_wiki - 0.7618793532992234
+
+15) loo_bounderby_wiki - 0.7474702596664429
+
+16) stone_lodge_wiki - 0.6994282811709729
+
+Result for the vector: bitzer, coming from part a of the book
+Rank: 5 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8743019029082142
+
+1) mr_bounderby_wiki - 0.8944609761238161
+
+2) mr_thomas_gradgrind_wiki - 0.8916451399537854
+
+3) tom_gradgrind_wiki - 0.8824079702849421
+
+4) josiah_bounderby_wiki - 0.8769141655717808
+
+5) bitzer_wiki - 0.8743019029082142
+
+6) sissy_jupe_wiki - 0.8713939419876456
+
+7) mrs_sparsit_wiki - 0.8694858628817894
+
+8) miss_louisa_wiki - 0.8669820586464335
+
+9) mr_sleary_wiki - 0.8557011061071031
+
+10) stephen_blackpool_wiki - 0.8538658618927063
+
+11) rachael_wiki - 0.8520724441875632
+
+12) mr_james_harthouse_wiki - 0.8461468907507143
+
+13) bank_wiki - 0.8299907052528017
+
+14) loo_bounderby_wiki - 0.7470826657365177
+
+15) slackbridge_wiki - 0.7434545618078909
+
+16) stone_lodge_wiki - 0.68618533950492
+
+Result for the vector: mr_sleary, coming from part a of the book
+Rank: 3 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8943395081556152
+
+1) mr_bounderby_wiki - 0.9196630072392842
+
+2) mr_thomas_gradgrind_wiki - 0.9119712710380554
+
+3) mr_sleary_wiki - 0.8943395081556152
+
+4) tom_gradgrind_wiki - 0.8906005024909973
+
+5) bitzer_wiki - 0.8901556599325792
+
+6) sissy_jupe_wiki - 0.8873122468814618
+
+7) josiah_bounderby_wiki - 0.8852267402140275
+
+8) stephen_blackpool_wiki - 0.8845602801180068
+
+9) miss_louisa_wiki - 0.8758812024664178
+
+10) mrs_sparsit_wiki - 0.8738579750061035
+
+11) mr_james_harthouse_wiki - 0.8688926696777344
+
+12) rachael_wiki - 0.8659818332217
+
+13) bank_wiki - 0.839992771149114
+
+14) slackbridge_wiki - 0.7709347282725951
+
+15) loo_bounderby_wiki - 0.7383272051811218
+
+16) stone_lodge_wiki - 0.7241106845173447
+
+Result for the vector: bank, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9156716142795073
+
+1) bank_wiki - 0.9156716142795073
+
+2) mr_bounderby_wiki - 0.826674048106976
+
+3) mr_thomas_gradgrind_wiki - 0.8143075240529383
+
+4) josiah_bounderby_wiki - 0.8081139085259045
+
+5) mr_sleary_wiki - 0.7977064489634855
+
+6) sissy_jupe_wiki - 0.7899554136408914
+
+7) tom_gradgrind_wiki - 0.7830763563284032
+
+8) mrs_sparsit_wiki - 0.7788684468449785
+
+9) miss_louisa_wiki - 0.7753429047865628
+
+10) bitzer_wiki - 0.7751369305240668
+
+11) rachael_wiki - 0.7696821460222726
+
+12) stephen_blackpool_wiki - 0.7666464994321021
+
+13) mr_james_harthouse_wiki - 0.7587638579693936
+
+14) stone_lodge_wiki - 0.6998960614080515
+
+15) loo_bounderby_wiki - 0.670962632086515
+
+16) slackbridge_wiki - 0.6659001509577136
+
+Result for the vector: josiah_bounderby, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.920242488384273
+
+1) josiah_bounderby_wiki - 0.920242488384273
+
+2) mr_bounderby_wiki - 0.8664942145039242
+
+3) mr_thomas_gradgrind_wiki - 0.8627712563003669
+
+4) tom_gradgrind_wiki - 0.8540487115441278
+
+5) mr_sleary_wiki - 0.8527529747935059
+
+6) bitzer_wiki - 0.8434328063566223
+
+7) miss_louisa_wiki - 0.8319096465057056
+
+8) rachael_wiki - 0.8260513544082876
+
+9) sissy_jupe_wiki - 0.8259555101394888
+
+10) mrs_sparsit_wiki - 0.8214604045701568
+
+11) bank_wiki - 0.8167282829718889
+
+12) mr_james_harthouse_wiki - 0.8069265850694934
+
+13) stephen_blackpool_wiki - 0.8065395605336848
+
+14) loo_bounderby_wiki - 0.7944915049662057
+
+15) slackbridge_wiki - 0.7326730489731044
+
+16) stone_lodge_wiki - 0.6981072870056787
+
+Result for the vector: loo_bounderby, coming from part a of the book
+Rank: 14 out of 16 characters
+Cosine similarity to the co-referring vector: 0.7759268016727981
+
+1) josiah_bounderby_wiki - 0.8858160972595467
+
+2) mr_thomas_gradgrind_wiki - 0.87926165810367
+
+3) mr_bounderby_wiki - 0.8789061687420924
+
+4) miss_louisa_wiki - 0.8704130572326952
+
+5) sissy_jupe_wiki - 0.8683694601059206
+
+6) tom_gradgrind_wiki - 0.8656017620088832
+
+7) bitzer_wiki - 0.8653264320674973
+
+8) mrs_sparsit_wiki - 0.8647159772772823
+
+9) rachael_wiki - 0.8556689620018249
+
+10) mr_sleary_wiki - 0.8518988401829641
+
+11) bank_wiki - 0.8365088007753506
+
+12) stephen_blackpool_wiki - 0.8236857337389722
+
+13) mr_james_harthouse_wiki - 0.8220412519027354
+
+14) loo_bounderby_wiki - 0.7759268016727981
+
+15) slackbridge_wiki - 0.7288720011711328
+
+16) stone_lodge_wiki - 0.6801549017660201
+
+Result for the vector: slackbridge, coming from part a of the book
+Rank: 14 out of 16 characters
+Cosine similarity to the co-referring vector: 0.741279736681012
+
+1) mr_bounderby_wiki - 0.8874800071096429
+
+2) tom_gradgrind_wiki - 0.88068597797668
+
+3) mr_thomas_gradgrind_wiki - 0.8771188781928363
+
+4) stephen_blackpool_wiki - 0.8732921926131478
+
+5) bitzer_wiki - 0.8708907134933571
+
+6) mr_james_harthouse_wiki - 0.8538840326001679
+
+7) mrs_sparsit_wiki - 0.847442439046053
+
+8) miss_louisa_wiki - 0.8443424105644286
+
+9) sissy_jupe_wiki - 0.8441054317888496
+
+10) rachael_wiki - 0.8420475815506365
+
+11) mr_sleary_wiki - 0.8310013413429319
+
+12) josiah_bounderby_wiki - 0.830503831475758
+
+13) bank_wiki - 0.7884396314621027
+
+14) slackbridge_wiki - 0.741279736681012
+
+15) loo_bounderby_wiki - 0.6987986981152725
+
+16) stone_lodge_wiki - 0.6647296546157889
+
+Result for the vector: stone_lodge, coming from part a of the book
+Rank: 14 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8009360193927314
+
+1) mr_bounderby_wiki - 0.8861751556396548
+
+2) mr_thomas_gradgrind_wiki - 0.8681232411787978
+
+3) mr_sleary_wiki - 0.8495602787065174
+
+4) tom_gradgrind_wiki - 0.8475809784185319
+
+5) sissy_jupe_wiki - 0.8450420775934334
+
+6) stephen_blackpool_wiki - 0.8426696062088073
+
+7) miss_louisa_wiki - 0.837430854149955
+
+8) bank_wiki - 0.836369831994792
+
+9) mrs_sparsit_wiki - 0.8307147126963921
+
+10) mr_james_harthouse_wiki - 0.8301548463013875
+
+11) rachael_wiki - 0.8291464753485083
+
+12) bitzer_wiki - 0.8285369770847082
+
+13) josiah_bounderby_wiki - 0.8229015190181415
+
+14) stone_lodge_wiki - 0.8009360193927314
+
+15) loo_bounderby_wiki - 0.7122948937240319
+
+16) slackbridge_wiki - 0.7121498503417056
+

@@ -1,0 +1,9 @@
+Test: doppelganger test
+Results for: Don_Quixote_by_Miguel_de_Cervantes_Saave
+Model used: common nouns unmatched
+
+Within-novel median: 1.0
+Within-novel average: 1.0769230769230769
+Within-novel MRR: 0.9658119658119657
+Within-novel standard deviation of the scores: 0.3108809141790293
+Amount of entities considered: 39.0

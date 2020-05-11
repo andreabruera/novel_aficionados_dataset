@@ -1,0 +1,1292 @@
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9645920704426783
+
+1) time_b - 0.9645920704426783
+
+2) lie_b - 0.888687782805444
+
+3) name_b - 0.8793137669563356
+
+4) son_b - 0.8721652703186724
+
+5) good_b - 0.8625796519172414
+
+6) home_b - 0.8605587814906226
+
+7) knife_b - 0.8575000251829624
+
+8) truth_b - 0.8378258444174635
+
+9) road_b - 0.836654632689722
+
+10) rag_b - 0.8292641043663084
+
+11) robber_b - 0.8150865788732031
+
+12) harm_b - 0.8135392888141526
+
+13) wind_b - 0.8000258326515073
+
+14) piece_b - 0.7995148539398655
+
+15) chapter_b - 0.7829555998471036
+
+16) matter_b - 0.780337883213886
+
+17) smoke_b - 0.7347303032875113
+
+Result for the vector: chapter, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9695098996162415
+
+1) chapter_b - 0.9695098996162415
+
+2) son_b - 0.7909996509552002
+
+3) knife_b - 0.7848474979400635
+
+4) time_b - 0.7814907068458413
+
+5) lie_b - 0.7727998224258266
+
+6) name_b - 0.7633557774636627
+
+7) home_b - 0.7592192126716713
+
+8) good_b - 0.7488235235214233
+
+9) road_b - 0.7260004012584259
+
+10) rag_b - 0.7257922128315112
+
+11) truth_b - 0.7147502899169922
+
+12) robber_b - 0.7137862060602372
+
+13) harm_b - 0.6937832418809401
+
+14) wind_b - 0.6912936568260193
+
+15) piece_b - 0.68411749757387
+
+16) smoke_b - 0.6570163760791061
+
+17) matter_b - 0.6516631841659546
+
+Result for the vector: name, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9682031292794424
+
+1) name_b - 0.9682031292794424
+
+2) son_b - 0.9023464438502323
+
+3) lie_b - 0.8899098038673654
+
+4) time_b - 0.8803179669096001
+
+5) good_b - 0.8679472961488671
+
+6) knife_b - 0.8633896275294333
+
+7) truth_b - 0.8515774784591881
+
+8) home_b - 0.8407517550135404
+
+9) rag_b - 0.8344906071132193
+
+10) road_b - 0.8229542200674486
+
+11) harm_b - 0.8227702100091812
+
+12) robber_b - 0.8151322470487226
+
+13) matter_b - 0.8036214347337023
+
+14) wind_b - 0.7986015917537755
+
+15) piece_b - 0.786893225106816
+
+16) chapter_b - 0.766636637850214
+
+17) smoke_b - 0.7366515554993536
+
+Result for the vector: piece, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9649449545079433
+
+1) piece_b - 0.9649449545079433
+
+2) rag_b - 0.8511404560035879
+
+3) knife_b - 0.8446764601670644
+
+4) lie_b - 0.8369035179769309
+
+5) name_b - 0.8357114346961474
+
+6) time_b - 0.8301038044752959
+
+7) road_b - 0.829840705110973
+
+8) good_b - 0.8267394550663074
+
+9) son_b - 0.8196981197505633
+
+10) wind_b - 0.8172619586367003
+
+11) home_b - 0.8090313659561801
+
+12) robber_b - 0.788760649488011
+
+13) truth_b - 0.7747333280662697
+
+14) smoke_b - 0.749395437484572
+
+15) matter_b - 0.7438301665732318
+
+16) chapter_b - 0.7224270916708441
+
+17) harm_b - 0.7210371279407433
+
+Result for the vector: road, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9343450147694398
+
+1) road_b - 0.9343450147694398
+
+2) home_b - 0.8440578262702673
+
+3) rag_b - 0.8361899159067834
+
+4) wind_b - 0.8322999477386475
+
+5) time_b - 0.8295057663174206
+
+6) robber_b - 0.8253017313868327
+
+7) name_b - 0.8251984015225426
+
+8) son_b - 0.8213250637054443
+
+9) good_b - 0.8164962530136108
+
+10) knife_b - 0.8125779628753662
+
+11) lie_b - 0.8117253555924182
+
+12) piece_b - 0.8030950549031876
+
+13) truth_b - 0.8025485873222351
+
+14) smoke_b - 0.7662969092307647
+
+15) matter_b - 0.7510387897491455
+
+16) harm_b - 0.7341612735890596
+
+17) chapter_b - 0.7165617346763611
+
+Result for the vector: knife, coming from part a of the book
+Rank: 2 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8523727909437657
+
+1) rag_b - 0.8777968476233052
+
+2) knife_b - 0.8523727909437657
+
+3) name_b - 0.8212484855575999
+
+4) piece_b - 0.8099380505011157
+
+5) wind_b - 0.8083517792329726
+
+6) robber_b - 0.7873394362532756
+
+7) son_b - 0.7782659166534521
+
+8) smoke_b - 0.7746629215475552
+
+9) lie_b - 0.7741326055128316
+
+10) road_b - 0.7734182381554119
+
+11) good_b - 0.7672218909031719
+
+12) home_b - 0.761691039548676
+
+13) truth_b - 0.7583662497510392
+
+14) time_b - 0.7546884867363266
+
+15) harm_b - 0.7150895382437276
+
+16) matter_b - 0.7049632878590613
+
+17) chapter_b - 0.6779035531849731
+
+Result for the vector: home, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9707334076484232
+
+1) home_b - 0.9707334076484232
+
+2) time_b - 0.8737548774857713
+
+3) good_b - 0.8689636509992884
+
+4) knife_b - 0.8594185626160257
+
+5) name_b - 0.8531875435337476
+
+6) son_b - 0.8483665495137319
+
+7) lie_b - 0.8466953957132227
+
+8) rag_b - 0.8357296986257671
+
+9) road_b - 0.8210451709601313
+
+10) robber_b - 0.8021228434553308
+
+11) harm_b - 0.7915766835212764
+
+12) truth_b - 0.7869255415752867
+
+13) wind_b - 0.7799433338608358
+
+14) chapter_b - 0.7686797242569773
+
+15) piece_b - 0.7634751146249648
+
+16) matter_b - 0.7383496605366279
+
+17) smoke_b - 0.7310544527834002
+
+Result for the vector: good, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.969796541953506
+
+1) good_b - 0.969796541953506
+
+2) lie_b - 0.9025093913078565
+
+3) name_b - 0.8924939100448089
+
+4) time_b - 0.8882336418419899
+
+5) knife_b - 0.8783148076159054
+
+6) home_b - 0.8747222200863913
+
+7) rag_b - 0.8638700327950835
+
+8) son_b - 0.8604484962882465
+
+9) harm_b - 0.8329503834932371
+
+10) piece_b - 0.8182700628557961
+
+11) road_b - 0.8180317716522761
+
+12) robber_b - 0.8162206277650124
+
+13) truth_b - 0.8139586074401666
+
+14) wind_b - 0.8050475352945939
+
+15) matter_b - 0.7884904398333558
+
+16) chapter_b - 0.7712942038423827
+
+17) smoke_b - 0.7568513895957955
+
+Result for the vector: matter, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9322004277825627
+
+1) matter_b - 0.9322004277825627
+
+2) name_b - 0.818144597786021
+
+3) time_b - 0.8156546487499463
+
+4) harm_b - 0.8110363483429013
+
+5) lie_b - 0.8042953856519569
+
+6) truth_b - 0.7991584419702569
+
+7) good_b - 0.7594933962520014
+
+8) son_b - 0.7569030378403103
+
+9) knife_b - 0.7448916283185274
+
+10) road_b - 0.7289616031073685
+
+11) home_b - 0.7189516164122289
+
+12) robber_b - 0.7088901438316835
+
+13) rag_b - 0.7076261291058218
+
+14) wind_b - 0.7037646593907285
+
+15) piece_b - 0.670139949044578
+
+16) chapter_b - 0.6689474385349428
+
+17) smoke_b - 0.6489365874453291
+
+Result for the vector: harm, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9420388936996527
+
+1) harm_b - 0.9420388936996527
+
+2) good_b - 0.8340030213596252
+
+3) name_b - 0.8232618955685967
+
+4) time_b - 0.8226416846491417
+
+5) lie_b - 0.8158504633636126
+
+6) son_b - 0.7959191081475694
+
+7) matter_b - 0.765543983313084
+
+8) knife_b - 0.7631333329161022
+
+9) home_b - 0.7572240522833024
+
+10) truth_b - 0.7504495829611781
+
+11) rag_b - 0.729280618343427
+
+12) robber_b - 0.7195184278057604
+
+13) road_b - 0.7082270557745179
+
+14) wind_b - 0.6975610671973876
+
+15) chapter_b - 0.6974991379677747
+
+16) piece_b - 0.6734427025083757
+
+17) smoke_b - 0.638360695643508
+
+Result for the vector: lie, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9396184294847332
+
+1) lie_b - 0.9396184294847332
+
+2) time_b - 0.9081469123451061
+
+3) knife_b - 0.8566075818719743
+
+4) name_b - 0.8465384405736724
+
+5) son_b - 0.8457378401082114
+
+6) home_b - 0.8457264832069934
+
+7) good_b - 0.8421467197581152
+
+8) harm_b - 0.819100772765259
+
+9) truth_b - 0.7999249339081331
+
+10) rag_b - 0.7825353845240522
+
+11) road_b - 0.7793404955261589
+
+12) chapter_b - 0.779222392416668
+
+13) piece_b - 0.7657847125273614
+
+14) robber_b - 0.755900070422892
+
+15) matter_b - 0.7558241115756071
+
+16) wind_b - 0.7361795525604357
+
+17) smoke_b - 0.6918973945287524
+
+Result for the vector: son, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9199450612068176
+
+1) son_b - 0.9199450612068176
+
+2) name_b - 0.9180970739184082
+
+3) lie_b - 0.8957579607675092
+
+4) time_b - 0.8873039748461243
+
+5) good_b - 0.8675855398178101
+
+6) knife_b - 0.8645623922348022
+
+7) home_b - 0.8552509209065119
+
+8) robber_b - 0.8323735842816113
+
+9) rag_b - 0.8303434151615763
+
+10) truth_b - 0.8277251720428467
+
+11) road_b - 0.8145745021612103
+
+12) wind_b - 0.8099411725997925
+
+13) harm_b - 0.808983933390146
+
+14) piece_b - 0.7961854454444779
+
+15) chapter_b - 0.7767350077629089
+
+16) matter_b - 0.7669600248336792
+
+17) smoke_b - 0.7441546168419504
+
+Result for the vector: rag, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8924662938673846
+
+1) rag_b - 0.8924662938673846
+
+2) name_b - 0.8662029941323989
+
+3) knife_b - 0.8476161269912811
+
+4) good_b - 0.8455529716940521
+
+5) lie_b - 0.8297073536588004
+
+6) time_b - 0.820098831066385
+
+7) piece_b - 0.8170824672404632
+
+8) wind_b - 0.8168704996627881
+
+9) son_b - 0.8098599201357332
+
+10) home_b - 0.801335656483714
+
+11) road_b - 0.7944207910048617
+
+12) robber_b - 0.7802382809136764
+
+13) smoke_b - 0.777622554018802
+
+14) truth_b - 0.7652392843508308
+
+15) harm_b - 0.7552132606506401
+
+16) matter_b - 0.7359459242788521
+
+17) chapter_b - 0.7022684635083964
+
+Result for the vector: smoke, coming from part a of the book
+Rank: 14 out of 17 characters
+Cosine similarity to the co-referring vector: 0.7831586574254423
+
+1) rag_b - 0.8658343055597407
+
+2) knife_b - 0.8600310856131724
+
+3) wind_b - 0.8556886484344619
+
+4) lie_b - 0.8543607586778796
+
+5) time_b - 0.8497242152362141
+
+6) name_b - 0.8454425402645085
+
+7) piece_b - 0.842692049031028
+
+8) good_b - 0.8373351249696459
+
+9) robber_b - 0.8373182818076962
+
+10) home_b - 0.8367906060704348
+
+11) road_b - 0.8288791528678373
+
+12) son_b - 0.8231567880353473
+
+13) truth_b - 0.8152923120819642
+
+14) smoke_b - 0.7831586574254423
+
+15) harm_b - 0.7657850016887572
+
+16) matter_b - 0.7591516458229732
+
+17) chapter_b - 0.7328963934984588
+
+Result for the vector: robber, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8675169607256941
+
+1) robber_b - 0.8675169607256941
+
+2) name_b - 0.8606500542551326
+
+3) son_b - 0.8551824688911438
+
+4) lie_b - 0.8535460655148168
+
+5) good_b - 0.851647138595581
+
+6) knife_b - 0.8411657214164734
+
+7) time_b - 0.83951285003164
+
+8) rag_b - 0.8387455844131475
+
+9) home_b - 0.8304739301549454
+
+10) truth_b - 0.8260112404823303
+
+11) wind_b - 0.8222468495368958
+
+12) road_b - 0.8013999102831051
+
+13) harm_b - 0.7765646710059256
+
+14) smoke_b - 0.753897890680904
+
+15) piece_b - 0.7517201380479489
+
+16) chapter_b - 0.7467373013496399
+
+17) matter_b - 0.7356336116790771
+
+Result for the vector: wind, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.898161822447887
+
+1) wind_b - 0.898161822447887
+
+2) robber_b - 0.8466959160592484
+
+3) road_b - 0.8316463332387143
+
+4) rag_b - 0.7974306103504432
+
+5) name_b - 0.7926985970376249
+
+6) truth_b - 0.7853337994416847
+
+7) time_b - 0.7775343159616875
+
+8) good_b - 0.7729511721701142
+
+9) son_b - 0.7691765886054404
+
+10) smoke_b - 0.7613814188696645
+
+11) lie_b - 0.7579143210496297
+
+12) home_b - 0.7557941370255998
+
+13) knife_b - 0.751567706559165
+
+14) piece_b - 0.7378458884128766
+
+15) matter_b - 0.7091099446481446
+
+16) harm_b - 0.70016479492188
+
+17) chapter_b - 0.6489131837435486
+
+Result for the vector: truth, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9376311302185059
+
+1) truth_b - 0.9376311302185059
+
+2) robber_b - 0.8058787824475406
+
+3) name_b - 0.8045520069928188
+
+4) time_b - 0.8045071007164453
+
+5) lie_b - 0.7964201922917652
+
+6) road_b - 0.7669469395939238
+
+7) son_b - 0.7627830505371094
+
+8) good_b - 0.7449816465377808
+
+9) knife_b - 0.7387576103210449
+
+10) wind_b - 0.7340311408042908
+
+11) home_b - 0.7319268467557225
+
+12) matter_b - 0.7291615605354309
+
+13) rag_b - 0.7277270393208898
+
+14) harm_b - 0.7194671798069979
+
+15) smoke_b - 0.6989050924125382
+
+16) chapter_b - 0.6756275296211243
+
+17) piece_b - 0.6628651019512235
+
+Result for the vector: time, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9645920704426783
+
+1) time_a - 0.9645920704426783
+
+2) lie_a - 0.9081469123451061
+
+3) good_a - 0.8882336418419899
+
+4) son_a - 0.8873039748461243
+
+5) name_a - 0.8803179669096001
+
+6) home_a - 0.8737548774857713
+
+7) smoke_a - 0.8497242152362141
+
+8) robber_a - 0.83951285003164
+
+9) piece_a - 0.8301038044752959
+
+10) road_a - 0.8295057663174206
+
+11) harm_a - 0.8226416846491417
+
+12) rag_a - 0.820098831066385
+
+13) matter_a - 0.8156546487499463
+
+14) truth_a - 0.8045071007164453
+
+15) chapter_a - 0.7814907068458413
+
+16) wind_a - 0.7775343159616875
+
+17) knife_a - 0.7546884867363266
+
+Result for the vector: chapter, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9695098996162415
+
+1) chapter_a - 0.9695098996162415
+
+2) time_a - 0.7829555998471036
+
+3) lie_a - 0.779222392416668
+
+4) son_a - 0.7767350077629089
+
+5) good_a - 0.7712942038423827
+
+6) home_a - 0.7686797242569773
+
+7) name_a - 0.766636637850214
+
+8) robber_a - 0.7467373013496399
+
+9) smoke_a - 0.7328963934984588
+
+10) piece_a - 0.7224270916708441
+
+11) road_a - 0.7165617346763611
+
+12) rag_a - 0.7022684635083964
+
+13) harm_a - 0.6974991379677747
+
+14) knife_a - 0.6779035531849731
+
+15) truth_a - 0.6756275296211243
+
+16) matter_a - 0.6689474385349428
+
+17) wind_a - 0.6489131837435486
+
+Result for the vector: name, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9682031292794424
+
+1) name_a - 0.9682031292794424
+
+2) son_a - 0.9180970739184082
+
+3) good_a - 0.8924939100448089
+
+4) time_a - 0.8793137669563356
+
+5) rag_a - 0.8662029941323989
+
+6) robber_a - 0.8606500542551326
+
+7) home_a - 0.8531875435337476
+
+8) lie_a - 0.8465384405736724
+
+9) smoke_a - 0.8454425402645085
+
+10) piece_a - 0.8357114346961474
+
+11) road_a - 0.8251984015225426
+
+12) harm_a - 0.8232618955685967
+
+13) knife_a - 0.8212484855575999
+
+14) matter_a - 0.818144597786021
+
+15) truth_a - 0.8045520069928188
+
+16) wind_a - 0.7926985970376249
+
+17) chapter_a - 0.7633557774636627
+
+Result for the vector: piece, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9649449545079433
+
+1) piece_a - 0.9649449545079433
+
+2) smoke_a - 0.842692049031028
+
+3) good_a - 0.8182700628557961
+
+4) rag_a - 0.8170824672404632
+
+5) knife_a - 0.8099380505011157
+
+6) road_a - 0.8030950549031876
+
+7) time_a - 0.7995148539398655
+
+8) son_a - 0.7961854454444779
+
+9) name_a - 0.786893225106816
+
+10) lie_a - 0.7657847125273614
+
+11) home_a - 0.7634751146249648
+
+12) robber_a - 0.7517201380479489
+
+13) wind_a - 0.7378458884128766
+
+14) chapter_a - 0.68411749757387
+
+15) harm_a - 0.6734427025083757
+
+16) matter_a - 0.670139949044578
+
+17) truth_a - 0.6628651019512235
+
+Result for the vector: road, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9343450147694398
+
+1) road_a - 0.9343450147694398
+
+2) time_a - 0.836654632689722
+
+3) wind_a - 0.8316463332387143
+
+4) piece_a - 0.829840705110973
+
+5) smoke_a - 0.8288791528678373
+
+6) name_a - 0.8229542200674486
+
+7) home_a - 0.8210451709601313
+
+8) good_a - 0.8180317716522761
+
+9) son_a - 0.8145745021612103
+
+10) robber_a - 0.8013999102831051
+
+11) rag_a - 0.7944207910048617
+
+12) lie_a - 0.7793404955261589
+
+13) knife_a - 0.7734182381554119
+
+14) truth_a - 0.7669469395939238
+
+15) matter_a - 0.7289616031073685
+
+16) chapter_a - 0.7260004012584259
+
+17) harm_a - 0.7082270557745179
+
+Result for the vector: knife, coming from part b of the book
+Rank: 8 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8523727909437657
+
+1) good_a - 0.8783148076159054
+
+2) son_a - 0.8645623922348022
+
+3) name_a - 0.8633896275294333
+
+4) smoke_a - 0.8600310856131724
+
+5) home_a - 0.8594185626160257
+
+6) time_a - 0.8575000251829624
+
+7) lie_a - 0.8566075818719743
+
+8) knife_a - 0.8523727909437657
+
+9) rag_a - 0.8476161269912811
+
+10) piece_a - 0.8446764601670644
+
+11) robber_a - 0.8411657214164734
+
+12) road_a - 0.8125779628753662
+
+13) chapter_a - 0.7848474979400635
+
+14) harm_a - 0.7631333329161022
+
+15) wind_a - 0.751567706559165
+
+16) matter_a - 0.7448916283185274
+
+17) truth_a - 0.7387576103210449
+
+Result for the vector: home, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9707334076484232
+
+1) home_a - 0.9707334076484232
+
+2) good_a - 0.8747222200863913
+
+3) time_a - 0.8605587814906226
+
+4) son_a - 0.8552509209065119
+
+5) lie_a - 0.8457264832069934
+
+6) road_a - 0.8440578262702673
+
+7) name_a - 0.8407517550135404
+
+8) smoke_a - 0.8367906060704348
+
+9) robber_a - 0.8304739301549454
+
+10) piece_a - 0.8090313659561801
+
+11) rag_a - 0.801335656483714
+
+12) knife_a - 0.761691039548676
+
+13) chapter_a - 0.7592192126716713
+
+14) harm_a - 0.7572240522833024
+
+15) wind_a - 0.7557941370255998
+
+16) truth_a - 0.7319268467557225
+
+17) matter_a - 0.7189516164122289
+
+Result for the vector: good, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.969796541953506
+
+1) good_a - 0.969796541953506
+
+2) home_a - 0.8689636509992884
+
+3) name_a - 0.8679472961488671
+
+4) son_a - 0.8675855398178101
+
+5) time_a - 0.8625796519172414
+
+6) robber_a - 0.851647138595581
+
+7) rag_a - 0.8455529716940521
+
+8) lie_a - 0.8421467197581152
+
+9) smoke_a - 0.8373351249696459
+
+10) harm_a - 0.8340030213596252
+
+11) piece_a - 0.8267394550663074
+
+12) road_a - 0.8164962530136108
+
+13) wind_a - 0.7729511721701142
+
+14) knife_a - 0.7672218909031719
+
+15) matter_a - 0.7594933962520014
+
+16) chapter_a - 0.7488235235214233
+
+17) truth_a - 0.7449816465377808
+
+Result for the vector: matter, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9322004277825627
+
+1) matter_a - 0.9322004277825627
+
+2) name_a - 0.8036214347337023
+
+3) good_a - 0.7884904398333558
+
+4) time_a - 0.780337883213886
+
+5) son_a - 0.7669600248336792
+
+6) harm_a - 0.765543983313084
+
+7) smoke_a - 0.7591516458229732
+
+8) lie_a - 0.7558241115756071
+
+9) road_a - 0.7510387897491455
+
+10) piece_a - 0.7438301665732318
+
+11) home_a - 0.7383496605366279
+
+12) rag_a - 0.7359459242788521
+
+13) robber_a - 0.7356336116790771
+
+14) truth_a - 0.7291615605354309
+
+15) wind_a - 0.7091099446481446
+
+16) knife_a - 0.7049632878590613
+
+17) chapter_a - 0.6516631841659546
+
+Result for the vector: harm, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9420388936996527
+
+1) harm_a - 0.9420388936996527
+
+2) good_a - 0.8329503834932371
+
+3) name_a - 0.8227702100091812
+
+4) lie_a - 0.819100772765259
+
+5) time_a - 0.8135392888141526
+
+6) matter_a - 0.8110363483429013
+
+7) son_a - 0.808983933390146
+
+8) home_a - 0.7915766835212764
+
+9) robber_a - 0.7765646710059256
+
+10) smoke_a - 0.7657850016887572
+
+11) rag_a - 0.7552132606506401
+
+12) road_a - 0.7341612735890596
+
+13) piece_a - 0.7210371279407433
+
+14) truth_a - 0.7194671798069979
+
+15) knife_a - 0.7150895382437276
+
+16) wind_a - 0.70016479492188
+
+17) chapter_a - 0.6937832418809401
+
+Result for the vector: lie, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9396184294847332
+
+1) lie_a - 0.9396184294847332
+
+2) good_a - 0.9025093913078565
+
+3) son_a - 0.8957579607675092
+
+4) name_a - 0.8899098038673654
+
+5) time_a - 0.888687782805444
+
+6) smoke_a - 0.8543607586778796
+
+7) robber_a - 0.8535460655148168
+
+8) home_a - 0.8466953957132227
+
+9) piece_a - 0.8369035179769309
+
+10) rag_a - 0.8297073536588004
+
+11) harm_a - 0.8158504633636126
+
+12) road_a - 0.8117253555924182
+
+13) matter_a - 0.8042953856519569
+
+14) truth_a - 0.7964201922917652
+
+15) knife_a - 0.7741326055128316
+
+16) chapter_a - 0.7727998224258266
+
+17) wind_a - 0.7579143210496297
+
+Result for the vector: son, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9199450612068176
+
+1) son_a - 0.9199450612068176
+
+2) name_a - 0.9023464438502323
+
+3) time_a - 0.8721652703186724
+
+4) good_a - 0.8604484962882465
+
+5) robber_a - 0.8551824688911438
+
+6) home_a - 0.8483665495137319
+
+7) lie_a - 0.8457378401082114
+
+8) smoke_a - 0.8231567880353473
+
+9) road_a - 0.8213250637054443
+
+10) piece_a - 0.8196981197505633
+
+11) rag_a - 0.8098599201357332
+
+12) harm_a - 0.7959191081475694
+
+13) chapter_a - 0.7909996509552002
+
+14) knife_a - 0.7782659166534521
+
+15) wind_a - 0.7691765886054404
+
+16) truth_a - 0.7627830505371094
+
+17) matter_a - 0.7569030378403103
+
+Result for the vector: rag, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8924662938673846
+
+1) rag_a - 0.8924662938673846
+
+2) knife_a - 0.8777968476233052
+
+3) smoke_a - 0.8658343055597407
+
+4) good_a - 0.8638700327950835
+
+5) piece_a - 0.8511404560035879
+
+6) robber_a - 0.8387455844131475
+
+7) road_a - 0.8361899159067834
+
+8) home_a - 0.8357296986257671
+
+9) name_a - 0.8344906071132193
+
+10) son_a - 0.8303434151615763
+
+11) time_a - 0.8292641043663084
+
+12) wind_a - 0.7974306103504432
+
+13) lie_a - 0.7825353845240522
+
+14) harm_a - 0.729280618343427
+
+15) truth_a - 0.7277270393208898
+
+16) chapter_a - 0.7257922128315112
+
+17) matter_a - 0.7076261291058218
+
+Result for the vector: smoke, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.7831586574254423
+
+1) smoke_a - 0.7831586574254423
+
+2) rag_a - 0.777622554018802
+
+3) knife_a - 0.7746629215475552
+
+4) road_a - 0.7662969092307647
+
+5) wind_a - 0.7613814188696645
+
+6) good_a - 0.7568513895957955
+
+7) robber_a - 0.753897890680904
+
+8) piece_a - 0.749395437484572
+
+9) son_a - 0.7441546168419504
+
+10) name_a - 0.7366515554993536
+
+11) time_a - 0.7347303032875113
+
+12) home_a - 0.7310544527834002
+
+13) truth_a - 0.6989050924125382
+
+14) lie_a - 0.6918973945287524
+
+15) chapter_a - 0.6570163760791061
+
+16) matter_a - 0.6489365874453291
+
+17) harm_a - 0.638360695643508
+
+Result for the vector: robber, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8675169607256941
+
+1) robber_a - 0.8675169607256941
+
+2) wind_a - 0.8466959160592484
+
+3) smoke_a - 0.8373182818076962
+
+4) son_a - 0.8323735842816113
+
+5) road_a - 0.8253017313868327
+
+6) good_a - 0.8162206277650124
+
+7) name_a - 0.8151322470487226
+
+8) time_a - 0.8150865788732031
+
+9) truth_a - 0.8058787824475406
+
+10) home_a - 0.8021228434553308
+
+11) piece_a - 0.788760649488011
+
+12) knife_a - 0.7873394362532756
+
+13) rag_a - 0.7802382809136764
+
+14) lie_a - 0.755900070422892
+
+15) harm_a - 0.7195184278057604
+
+16) chapter_a - 0.7137862060602372
+
+17) matter_a - 0.7088901438316835
+
+Result for the vector: wind, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.898161822447887
+
+1) wind_a - 0.898161822447887
+
+2) smoke_a - 0.8556886484344619
+
+3) road_a - 0.8322999477386475
+
+4) robber_a - 0.8222468495368958
+
+5) piece_a - 0.8172619586367003
+
+6) rag_a - 0.8168704996627881
+
+7) son_a - 0.8099411725997925
+
+8) knife_a - 0.8083517792329726
+
+9) good_a - 0.8050475352945939
+
+10) time_a - 0.8000258326515073
+
+11) name_a - 0.7986015917537755
+
+12) home_a - 0.7799433338608358
+
+13) lie_a - 0.7361795525604357
+
+14) truth_a - 0.7340311408042908
+
+15) matter_a - 0.7037646593907285
+
+16) harm_a - 0.6975610671973876
+
+17) chapter_a - 0.6912936568260193
+
+Result for the vector: truth, coming from part b of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9376311302185059
+
+1) truth_a - 0.9376311302185059
+
+2) name_a - 0.8515774784591881
+
+3) time_a - 0.8378258444174635
+
+4) son_a - 0.8277251720428467
+
+5) robber_a - 0.8260112404823303
+
+6) smoke_a - 0.8152923120819642
+
+7) good_a - 0.8139586074401666
+
+8) road_a - 0.8025485873222351
+
+9) lie_a - 0.7999249339081331
+
+10) matter_a - 0.7991584419702569
+
+11) home_a - 0.7869255415752867
+
+12) wind_a - 0.7853337994416847
+
+13) piece_a - 0.7747333280662697
+
+14) rag_a - 0.7652392843508308
+
+15) knife_a - 0.7583662497510392
+
+16) harm_a - 0.7504495829611781
+
+17) chapter_a - 0.7147502899169922
+

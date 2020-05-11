@@ -1,0 +1,1020 @@
+Result for the vector: peter_pan, coming from part i of the book
+Rank: 5 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9134953294246001
+
+1) michael_a - 0.928603915232537
+
+2) john_a - 0.9263855858811403
+
+3) wendy_a - 0.9222923517227173
+
+4) mr_darling_a - 0.9142988920211792
+
+5) peter_pan_a - 0.9134953294246001
+
+6) nana_a - 0.9106186681617117
+
+7) tinker_bell_a - 0.8955082831089681
+
+8) mrs_darling_a - 0.8916608626640373
+
+9) james_hook_a - 0.8853036692919549
+
+10) liza_a - 0.8799658489247666
+
+11) smee_a - 0.8776675724288102
+
+12) starkey_a - 0.8586668628056906
+
+13) george_darling_a - 0.8441324830055237
+
+14) tiger_lily_a - 0.7921726231472135
+
+15) cecco_a - 0.6644860706039637
+
+Result for the vector: wendy, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9149051904678345
+
+1) wendy_a - 0.9149051904678345
+
+2) mrs_darling_a - 0.9071757142052497
+
+3) nana_a - 0.9064140971652228
+
+4) michael_a - 0.9029724867037684
+
+5) john_a - 0.8965353431382587
+
+6) tinker_bell_a - 0.8864530853303142
+
+7) liza_a - 0.8799210262345671
+
+8) peter_pan_a - 0.8726309797951874
+
+9) mr_darling_a - 0.8570756912231445
+
+10) james_hook_a - 0.8442627098716936
+
+11) smee_a - 0.8398051512183298
+
+12) starkey_a - 0.8233331687251682
+
+13) george_darling_a - 0.8230992555618286
+
+14) tiger_lily_a - 0.7938785675836477
+
+15) cecco_a - 0.59945532086758
+
+Result for the vector: john, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8999612987064557
+
+1) john_a - 0.8999612987064557
+
+2) michael_a - 0.8967023163051108
+
+3) wendy_a - 0.8824557065963745
+
+4) mr_darling_a - 0.8732810616493225
+
+5) nana_a - 0.8666918953244764
+
+6) peter_pan_a - 0.8601410049242084
+
+7) mrs_darling_a - 0.8522890122109078
+
+8) tinker_bell_a - 0.8486062794093076
+
+9) liza_a - 0.8280482990712956
+
+10) james_hook_a - 0.8256858483365699
+
+11) smee_a - 0.8249589450645136
+
+12) george_darling_a - 0.8063144683837891
+
+13) starkey_a - 0.8048740269206178
+
+14) tiger_lily_a - 0.7477155478170201
+
+15) cecco_a - 0.6098448270651812
+
+Result for the vector: michael, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9074716838440805
+
+1) michael_a - 0.9074716838440805
+
+2) john_a - 0.8950780096603642
+
+3) wendy_a - 0.8914791345596313
+
+4) nana_a - 0.8781996441960562
+
+5) mrs_darling_a - 0.870119146711777
+
+6) peter_pan_a - 0.8650671501477707
+
+7) mr_darling_a - 0.8637996912002563
+
+8) tinker_bell_a - 0.8578992401301423
+
+9) liza_a - 0.8414759134366578
+
+10) smee_a - 0.8261447199030141
+
+11) james_hook_a - 0.8224460376766957
+
+12) george_darling_a - 0.815001904964447
+
+13) starkey_a - 0.811272168495422
+
+14) tiger_lily_a - 0.7571644927761274
+
+15) cecco_a - 0.6036346194961905
+
+Result for the vector: nana, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8587096501934945
+
+1) nana_a - 0.8587096501934945
+
+2) michael_a - 0.8560336573113936
+
+3) wendy_a - 0.8512887447304297
+
+4) john_a - 0.8454818909785877
+
+5) james_hook_a - 0.844012975692755
+
+6) liza_a - 0.8439841456432169
+
+7) mr_darling_a - 0.8430318329911346
+
+8) peter_pan_a - 0.8425760018057856
+
+9) tinker_bell_a - 0.8365747928619445
+
+10) smee_a - 0.8334660877744563
+
+11) starkey_a - 0.8157815094059289
+
+12) mrs_darling_a - 0.8154128193855343
+
+13) george_darling_a - 0.7885502106815465
+
+14) tiger_lily_a - 0.7432716794882203
+
+15) cecco_a - 0.66189495779336
+
+Result for the vector: smee, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8485924944701081
+
+1) smee_a - 0.8485924944701081
+
+2) michael_a - 0.8382570493740756
+
+3) james_hook_a - 0.8377453088760436
+
+4) john_a - 0.8340513307987057
+
+5) peter_pan_a - 0.8301055183975278
+
+6) mr_darling_a - 0.8222650395473828
+
+7) wendy_a - 0.8212601649010097
+
+8) nana_a - 0.8209827755710154
+
+9) george_darling_a - 0.819333266059563
+
+10) starkey_a - 0.8178611154001652
+
+11) tinker_bell_a - 0.8025130033493099
+
+12) mrs_darling_a - 0.7858623862266596
+
+13) liza_a - 0.7815044186706044
+
+14) tiger_lily_a - 0.7522401508998691
+
+15) cecco_a - 0.67022208330368
+
+Result for the vector: mrs_darling, coming from part i of the book
+Rank: 4 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8089593535041438
+
+1) nana_a - 0.8307061892326972
+
+2) wendy_a - 0.8174907565116882
+
+3) michael_a - 0.8113726619295083
+
+4) mrs_darling_a - 0.8089593535041438
+
+5) liza_a - 0.8009040474352822
+
+6) john_a - 0.7973127485923335
+
+7) peter_pan_a - 0.7832309837112127
+
+8) tinker_bell_a - 0.7826545108946881
+
+9) mr_darling_a - 0.7753053903579712
+
+10) smee_a - 0.7749541036770974
+
+11) james_hook_a - 0.7739241584494222
+
+12) george_darling_a - 0.7685275077819824
+
+13) starkey_a - 0.7639981139897741
+
+14) tiger_lily_a - 0.7272219820486331
+
+15) cecco_a - 0.5735160962631656
+
+Result for the vector: mr_darling, coming from part i of the book
+Rank: 6 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8019100427627563
+
+1) michael_a - 0.843827093953702
+
+2) wendy_a - 0.8378629088401794
+
+3) john_a - 0.8287555081394027
+
+4) nana_a - 0.8218978153528099
+
+5) mrs_darling_a - 0.8159998545646595
+
+6) mr_darling_a - 0.8019100427627563
+
+7) peter_pan_a - 0.7994199633425467
+
+8) tinker_bell_a - 0.7993132948466133
+
+9) smee_a - 0.7975115417692529
+
+10) liza_a - 0.7969708563702802
+
+11) james_hook_a - 0.7929656978229118
+
+12) starkey_a - 0.7855100865814119
+
+13) george_darling_a - 0.7745107412338257
+
+14) tiger_lily_a - 0.7212386893487771
+
+15) cecco_a - 0.6233909354572942
+
+Result for the vector: starkey, coming from part i of the book
+Rank: 10 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7723200687074672
+
+1) michael_a - 0.8095558044446798
+
+2) mr_darling_a - 0.807106208377708
+
+3) john_a - 0.8042528266605345
+
+4) smee_a - 0.7952005626201494
+
+5) james_hook_a - 0.7951629757881221
+
+6) wendy_a - 0.7945226553367
+
+7) peter_pan_a - 0.7841722731538961
+
+8) nana_a - 0.7758277921881923
+
+9) tinker_bell_a - 0.7742657661438044
+
+10) starkey_a - 0.7723200687074672
+
+11) liza_a - 0.76540973598841
+
+12) mrs_darling_a - 0.7487789392471367
+
+13) george_darling_a - 0.7367261805101538
+
+14) cecco_a - 0.6837992449046082
+
+15) tiger_lily_a - 0.6776723649892372
+
+Result for the vector: james_hook, coming from part i of the book
+Rank: 2 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8474062590245178
+
+1) michael_a - 0.8584731477043974
+
+2) james_hook_a - 0.8474062590245178
+
+3) john_a - 0.8469356985726552
+
+4) tinker_bell_a - 0.846447101023622
+
+5) peter_pan_a - 0.8384932529477258
+
+6) wendy_a - 0.8370871543884277
+
+7) nana_a - 0.8368479706735643
+
+8) smee_a - 0.8303674706926192
+
+9) mr_darling_a - 0.8214325904846191
+
+10) starkey_a - 0.8166382556151828
+
+11) mrs_darling_a - 0.8088413959051025
+
+12) liza_a - 0.8000059843059801
+
+13) tiger_lily_a - 0.7973975659967933
+
+14) george_darling_a - 0.7844674587249756
+
+15) cecco_a - 0.6534365026094625
+
+Result for the vector: george_darling, coming from part i of the book
+Rank: 7 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8285421831284667
+
+1) michael_a - 0.8434396134781986
+
+2) wendy_a - 0.8426411841725612
+
+3) john_a - 0.8398981881263032
+
+4) nana_a - 0.8341109354363757
+
+5) peter_pan_a - 0.8329560508443136
+
+6) smee_a - 0.8326338281442608
+
+7) george_darling_a - 0.8285421831284667
+
+8) mr_darling_a - 0.8229910836821164
+
+9) james_hook_a - 0.8170747756958066
+
+10) starkey_a - 0.8134239669613881
+
+11) tinker_bell_a - 0.8124139904975949
+
+12) mrs_darling_a - 0.8116341829299984
+
+13) liza_a - 0.8074667683283366
+
+14) tiger_lily_a - 0.7533753808289312
+
+15) cecco_a - 0.6593842316407881
+
+Result for the vector: tinker_bell, coming from part i of the book
+Rank: 6 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8975974199291968
+
+1) michael_a - 0.9068592405491392
+
+2) nana_a - 0.9059509634971683
+
+3) john_a - 0.9029276371002262
+
+4) wendy_a - 0.9025211872173079
+
+5) peter_pan_a - 0.8976472226661945
+
+6) tinker_bell_a - 0.8975974199291968
+
+7) mrs_darling_a - 0.8849964004750729
+
+8) liza_a - 0.8793210983276429
+
+9) james_hook_a - 0.8793184613369062
+
+10) smee_a - 0.8676274002457325
+
+11) starkey_a - 0.8623482759906305
+
+12) george_darling_a - 0.8561337504466638
+
+13) mr_darling_a - 0.8555439028468089
+
+14) tiger_lily_a - 0.8369935750961364
+
+15) cecco_a - 0.6573274731636094
+
+Result for the vector: tiger_lily, coming from part i of the book
+Rank: 14 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7572778608037329
+
+1) wendy_a - 0.8740583658218384
+
+2) john_a - 0.8685727793828992
+
+3) michael_a - 0.8679023047656511
+
+4) mrs_darling_a - 0.864754072711116
+
+5) nana_a - 0.8607242786452619
+
+6) tinker_bell_a - 0.8511183769177438
+
+7) liza_a - 0.8438835237095655
+
+8) peter_pan_a - 0.8399601829040109
+
+9) mr_darling_a - 0.8271907567977905
+
+10) james_hook_a - 0.8206246388330855
+
+11) smee_a - 0.8162365799020705
+
+12) george_darling_a - 0.8055958151817322
+
+13) starkey_a - 0.7984681963464084
+
+14) tiger_lily_a - 0.7572778608037329
+
+15) cecco_a - 0.6147213211821734
+
+Result for the vector: cecco, coming from part i of the book
+Rank: 15 out of 15 characters
+Cosine similarity to the co-referring vector: 0.6554952449197056
+
+1) smee_a - 0.7602871454361171
+
+2) michael_a - 0.7565833120370944
+
+3) james_hook_a - 0.7557407035209479
+
+4) starkey_a - 0.750740923142038
+
+5) john_a - 0.7498674690565643
+
+6) peter_pan_a - 0.7437304617796394
+
+7) george_darling_a - 0.7399236094815151
+
+8) mr_darling_a - 0.7397101056057522
+
+9) wendy_a - 0.7396216522970889
+
+10) nana_a - 0.7359274907025893
+
+11) tinker_bell_a - 0.7265915218809947
+
+12) liza_a - 0.717288460408286
+
+13) mrs_darling_a - 0.6991820214228731
+
+14) tiger_lily_a - 0.6705388034032539
+
+15) cecco_a - 0.6554952449197056
+
+Result for the vector: liza, coming from part i of the book
+Rank: 4 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8328290780986455
+
+1) mrs_darling_a - 0.8513101935386718
+
+2) nana_a - 0.8454566782168533
+
+3) wendy_a - 0.8442320916514358
+
+4) liza_a - 0.8328290780986455
+
+5) tinker_bell_a - 0.819988965988165
+
+6) john_a - 0.8129525407609295
+
+7) michael_a - 0.8095613476764787
+
+8) peter_pan_a - 0.79615018379241
+
+9) mr_darling_a - 0.7790420187090638
+
+10) smee_a - 0.7670644889156704
+
+11) james_hook_a - 0.7664232254028375
+
+12) george_darling_a - 0.7634838960478382
+
+13) starkey_a - 0.7589767945117744
+
+14) tiger_lily_a - 0.7034525032696124
+
+15) cecco_a - 0.570937327034792
+
+Result for the vector: peter_pan, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9134953294246001
+
+1) peter_pan_wiki - 0.9134953294246001
+
+2) tinker_bell_wiki - 0.8976472226661945
+
+3) wendy_wiki - 0.8726309797951874
+
+4) michael_wiki - 0.8650671501477707
+
+5) john_wiki - 0.8601410049242084
+
+6) nana_wiki - 0.8425760018057856
+
+7) tiger_lily_wiki - 0.8399601829040109
+
+8) james_hook_wiki - 0.8384932529477258
+
+9) george_darling_wiki - 0.8329560508443136
+
+10) smee_wiki - 0.8301055183975278
+
+11) mr_darling_wiki - 0.7994199633425467
+
+12) liza_wiki - 0.79615018379241
+
+13) starkey_wiki - 0.7841722731538961
+
+14) mrs_darling_wiki - 0.7832309837112127
+
+15) cecco_wiki - 0.7437304617796394
+
+Result for the vector: wendy, coming from part a of the book
+Rank: 2 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9149051904678345
+
+1) peter_pan_wiki - 0.9222923517227173
+
+2) wendy_wiki - 0.9149051904678345
+
+3) tinker_bell_wiki - 0.9025211872173079
+
+4) michael_wiki - 0.8914791345596313
+
+5) john_wiki - 0.8824557065963745
+
+6) tiger_lily_wiki - 0.8740583658218384
+
+7) nana_wiki - 0.8512887447304297
+
+8) liza_wiki - 0.8442320916514358
+
+9) george_darling_wiki - 0.8426411841725612
+
+10) mr_darling_wiki - 0.8378629088401794
+
+11) james_hook_wiki - 0.8370871543884277
+
+12) smee_wiki - 0.8212601649010097
+
+13) mrs_darling_wiki - 0.8174907565116882
+
+14) starkey_wiki - 0.7945226553367
+
+15) cecco_wiki - 0.7396216522970889
+
+Result for the vector: john, coming from part a of the book
+Rank: 3 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8999612987064557
+
+1) peter_pan_wiki - 0.9263855858811403
+
+2) tinker_bell_wiki - 0.9029276371002262
+
+3) john_wiki - 0.8999612987064557
+
+4) wendy_wiki - 0.8965353431382587
+
+5) michael_wiki - 0.8950780096603642
+
+6) tiger_lily_wiki - 0.8685727793828992
+
+7) james_hook_wiki - 0.8469356985726552
+
+8) nana_wiki - 0.8454818909785877
+
+9) george_darling_wiki - 0.8398981881263032
+
+10) smee_wiki - 0.8340513307987057
+
+11) mr_darling_wiki - 0.8287555081394027
+
+12) liza_wiki - 0.8129525407609295
+
+13) starkey_wiki - 0.8042528266605345
+
+14) mrs_darling_wiki - 0.7973127485923335
+
+15) cecco_wiki - 0.7498674690565643
+
+Result for the vector: michael, coming from part a of the book
+Rank: 2 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9074716838440805
+
+1) peter_pan_wiki - 0.928603915232537
+
+2) michael_wiki - 0.9074716838440805
+
+3) tinker_bell_wiki - 0.9068592405491392
+
+4) wendy_wiki - 0.9029724867037684
+
+5) john_wiki - 0.8967023163051108
+
+6) tiger_lily_wiki - 0.8679023047656511
+
+7) james_hook_wiki - 0.8584731477043974
+
+8) nana_wiki - 0.8560336573113936
+
+9) mr_darling_wiki - 0.843827093953702
+
+10) george_darling_wiki - 0.8434396134781986
+
+11) smee_wiki - 0.8382570493740756
+
+12) mrs_darling_wiki - 0.8113726619295083
+
+13) liza_wiki - 0.8095613476764787
+
+14) starkey_wiki - 0.8095558044446798
+
+15) cecco_wiki - 0.7565833120370944
+
+Result for the vector: nana, coming from part a of the book
+Rank: 7 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8587096501934945
+
+1) peter_pan_wiki - 0.9106186681617117
+
+2) wendy_wiki - 0.9064140971652228
+
+3) tinker_bell_wiki - 0.9059509634971683
+
+4) michael_wiki - 0.8781996441960562
+
+5) john_wiki - 0.8666918953244764
+
+6) tiger_lily_wiki - 0.8607242786452619
+
+7) nana_wiki - 0.8587096501934945
+
+8) liza_wiki - 0.8454566782168533
+
+9) james_hook_wiki - 0.8368479706735643
+
+10) george_darling_wiki - 0.8341109354363757
+
+11) mrs_darling_wiki - 0.8307061892326972
+
+12) mr_darling_wiki - 0.8218978153528099
+
+13) smee_wiki - 0.8209827755710154
+
+14) starkey_wiki - 0.7758277921881923
+
+15) cecco_wiki - 0.7359274907025893
+
+Result for the vector: smee, coming from part a of the book
+Rank: 3 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8485924944701081
+
+1) peter_pan_wiki - 0.8776675724288102
+
+2) tinker_bell_wiki - 0.8676274002457325
+
+3) smee_wiki - 0.8485924944701081
+
+4) wendy_wiki - 0.8398051512183298
+
+5) nana_wiki - 0.8334660877744563
+
+6) george_darling_wiki - 0.8326338281442608
+
+7) james_hook_wiki - 0.8303674706926192
+
+8) michael_wiki - 0.8261447199030141
+
+9) john_wiki - 0.8249589450645136
+
+10) tiger_lily_wiki - 0.8162365799020705
+
+11) mr_darling_wiki - 0.7975115417692529
+
+12) starkey_wiki - 0.7952005626201494
+
+13) mrs_darling_wiki - 0.7749541036770974
+
+14) liza_wiki - 0.7670644889156704
+
+15) cecco_wiki - 0.7602871454361171
+
+Result for the vector: mrs_darling, coming from part a of the book
+Rank: 11 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8089593535041438
+
+1) wendy_wiki - 0.9071757142052497
+
+2) peter_pan_wiki - 0.8916608626640373
+
+3) tinker_bell_wiki - 0.8849964004750729
+
+4) michael_wiki - 0.870119146711777
+
+5) tiger_lily_wiki - 0.864754072711116
+
+6) john_wiki - 0.8522890122109078
+
+7) liza_wiki - 0.8513101935386718
+
+8) mr_darling_wiki - 0.8159998545646595
+
+9) nana_wiki - 0.8154128193855343
+
+10) george_darling_wiki - 0.8116341829299984
+
+11) mrs_darling_wiki - 0.8089593535041438
+
+12) james_hook_wiki - 0.8088413959051025
+
+13) smee_wiki - 0.7858623862266596
+
+14) starkey_wiki - 0.7487789392471367
+
+15) cecco_wiki - 0.6991820214228731
+
+Result for the vector: mr_darling, coming from part a of the book
+Rank: 12 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8019100427627563
+
+1) peter_pan_wiki - 0.9142988920211792
+
+2) john_wiki - 0.8732810616493225
+
+3) michael_wiki - 0.8637996912002563
+
+4) wendy_wiki - 0.8570756912231445
+
+5) tinker_bell_wiki - 0.8555439028468089
+
+6) nana_wiki - 0.8430318329911346
+
+7) tiger_lily_wiki - 0.8271907567977905
+
+8) george_darling_wiki - 0.8229910836821164
+
+9) smee_wiki - 0.8222650395473828
+
+10) james_hook_wiki - 0.8214325904846191
+
+11) starkey_wiki - 0.807106208377708
+
+12) mr_darling_wiki - 0.8019100427627563
+
+13) liza_wiki - 0.7790420187090638
+
+14) mrs_darling_wiki - 0.7753053903579712
+
+15) cecco_wiki - 0.7397101056057522
+
+Result for the vector: starkey, coming from part a of the book
+Rank: 12 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7723200687074672
+
+1) tinker_bell_wiki - 0.8623482759906305
+
+2) peter_pan_wiki - 0.8586668628056906
+
+3) wendy_wiki - 0.8233331687251682
+
+4) smee_wiki - 0.8178611154001652
+
+5) james_hook_wiki - 0.8166382556151828
+
+6) nana_wiki - 0.8157815094059289
+
+7) george_darling_wiki - 0.8134239669613881
+
+8) michael_wiki - 0.811272168495422
+
+9) john_wiki - 0.8048740269206178
+
+10) tiger_lily_wiki - 0.7984681963464084
+
+11) mr_darling_wiki - 0.7855100865814119
+
+12) starkey_wiki - 0.7723200687074672
+
+13) mrs_darling_wiki - 0.7639981139897741
+
+14) liza_wiki - 0.7589767945117744
+
+15) cecco_wiki - 0.750740923142038
+
+Result for the vector: james_hook, coming from part a of the book
+Rank: 3 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8474062590245178
+
+1) peter_pan_wiki - 0.8853036692919549
+
+2) tinker_bell_wiki - 0.8793184613369062
+
+3) james_hook_wiki - 0.8474062590245178
+
+4) wendy_wiki - 0.8442627098716936
+
+5) nana_wiki - 0.844012975692755
+
+6) smee_wiki - 0.8377453088760436
+
+7) john_wiki - 0.8256858483365699
+
+8) michael_wiki - 0.8224460376766957
+
+9) tiger_lily_wiki - 0.8206246388330855
+
+10) george_darling_wiki - 0.8170747756958066
+
+11) starkey_wiki - 0.7951629757881221
+
+12) mr_darling_wiki - 0.7929656978229118
+
+13) mrs_darling_wiki - 0.7739241584494222
+
+14) liza_wiki - 0.7664232254028375
+
+15) cecco_wiki - 0.7557407035209479
+
+Result for the vector: george_darling, coming from part a of the book
+Rank: 3 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8285421831284667
+
+1) tinker_bell_wiki - 0.8561337504466638
+
+2) peter_pan_wiki - 0.8441324830055237
+
+3) george_darling_wiki - 0.8285421831284667
+
+4) wendy_wiki - 0.8230992555618286
+
+5) smee_wiki - 0.819333266059563
+
+6) michael_wiki - 0.815001904964447
+
+7) john_wiki - 0.8063144683837891
+
+8) tiger_lily_wiki - 0.8055958151817322
+
+9) nana_wiki - 0.7885502106815465
+
+10) james_hook_wiki - 0.7844674587249756
+
+11) mr_darling_wiki - 0.7745107412338257
+
+12) mrs_darling_wiki - 0.7685275077819824
+
+13) liza_wiki - 0.7634838960478382
+
+14) cecco_wiki - 0.7399236094815151
+
+15) starkey_wiki - 0.7367261805101538
+
+Result for the vector: tinker_bell, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8975974199291968
+
+1) tinker_bell_wiki - 0.8975974199291968
+
+2) peter_pan_wiki - 0.8955082831089681
+
+3) wendy_wiki - 0.8864530853303142
+
+4) michael_wiki - 0.8578992401301423
+
+5) tiger_lily_wiki - 0.8511183769177438
+
+6) john_wiki - 0.8486062794093076
+
+7) james_hook_wiki - 0.846447101023622
+
+8) nana_wiki - 0.8365747928619445
+
+9) liza_wiki - 0.819988965988165
+
+10) george_darling_wiki - 0.8124139904975949
+
+11) smee_wiki - 0.8025130033493099
+
+12) mr_darling_wiki - 0.7993132948466133
+
+13) mrs_darling_wiki - 0.7826545108946881
+
+14) starkey_wiki - 0.7742657661438044
+
+15) cecco_wiki - 0.7265915218809947
+
+Result for the vector: tiger_lily, coming from part a of the book
+Rank: 5 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7572778608037329
+
+1) tinker_bell_wiki - 0.8369935750961364
+
+2) james_hook_wiki - 0.7973975659967933
+
+3) wendy_wiki - 0.7938785675836477
+
+4) peter_pan_wiki - 0.7921726231472135
+
+5) tiger_lily_wiki - 0.7572778608037329
+
+6) michael_wiki - 0.7571644927761274
+
+7) george_darling_wiki - 0.7533753808289312
+
+8) smee_wiki - 0.7522401508998691
+
+9) john_wiki - 0.7477155478170201
+
+10) nana_wiki - 0.7432716794882203
+
+11) mrs_darling_wiki - 0.7272219820486331
+
+12) mr_darling_wiki - 0.7212386893487771
+
+13) liza_wiki - 0.7034525032696124
+
+14) starkey_wiki - 0.6776723649892372
+
+15) cecco_wiki - 0.6705388034032539
+
+Result for the vector: cecco, coming from part a of the book
+Rank: 7 out of 15 characters
+Cosine similarity to the co-referring vector: 0.6554952449197056
+
+1) starkey_wiki - 0.6837992449046082
+
+2) smee_wiki - 0.67022208330368
+
+3) peter_pan_wiki - 0.6644860706039637
+
+4) nana_wiki - 0.66189495779336
+
+5) george_darling_wiki - 0.6593842316407881
+
+6) tinker_bell_wiki - 0.6573274731636094
+
+7) cecco_wiki - 0.6554952449197056
+
+8) james_hook_wiki - 0.6534365026094625
+
+9) mr_darling_wiki - 0.6233909354572942
+
+10) tiger_lily_wiki - 0.6147213211821734
+
+11) john_wiki - 0.6098448270651812
+
+12) michael_wiki - 0.6036346194961905
+
+13) wendy_wiki - 0.59945532086758
+
+14) mrs_darling_wiki - 0.5735160962631656
+
+15) liza_wiki - 0.570937327034792
+
+Result for the vector: liza, coming from part a of the book
+Rank: 7 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8328290780986455
+
+1) peter_pan_wiki - 0.8799658489247666
+
+2) wendy_wiki - 0.8799210262345671
+
+3) tinker_bell_wiki - 0.8793210983276429
+
+4) nana_wiki - 0.8439841456432169
+
+5) tiger_lily_wiki - 0.8438835237095655
+
+6) michael_wiki - 0.8414759134366578
+
+7) liza_wiki - 0.8328290780986455
+
+8) john_wiki - 0.8280482990712956
+
+9) george_darling_wiki - 0.8074667683283366
+
+10) mrs_darling_wiki - 0.8009040474352822
+
+11) james_hook_wiki - 0.8000059843059801
+
+12) mr_darling_wiki - 0.7969708563702802
+
+13) smee_wiki - 0.7815044186706044
+
+14) starkey_wiki - 0.76540973598841
+
+15) cecco_wiki - 0.717288460408286
+

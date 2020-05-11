@@ -1,0 +1,480 @@
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9762668027718798
+
+1) time_b - 0.9762668027718798
+
+2) thing_b - 0.9051846805324976
+
+3) life_b - 0.900054395198822
+
+4) teaching_b - 0.8876699142259324
+
+5) word_b - 0.884495403900606
+
+6) river_b - 0.8659609218228141
+
+7) people_b - 0.8629657883335888
+
+8) friend_b - 0.8601008057594299
+
+9) man_b - 0.8499331653197867
+
+10) heart_b - 0.8376294624098979
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9827859715116755
+
+1) man_b - 0.9827859715116755
+
+2) people_b - 0.9429546560618076
+
+3) friend_b - 0.9071653159608045
+
+4) thing_b - 0.9049077843047192
+
+5) teaching_b - 0.9002464622479498
+
+6) word_b - 0.8975337682684522
+
+7) river_b - 0.8914648229756846
+
+8) life_b - 0.8812554145233461
+
+9) heart_b - 0.8329742451294807
+
+10) time_b - 0.801081514326292
+
+Result for the vector: river, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9483920587651786
+
+1) river_b - 0.9483920587651786
+
+2) teaching_b - 0.8777784559462614
+
+3) life_b - 0.8655552783939424
+
+4) thing_b - 0.8645312624610976
+
+5) people_b - 0.8569984010158543
+
+6) word_b - 0.8566053083484154
+
+7) friend_b - 0.8539270075516124
+
+8) man_b - 0.8329675893206975
+
+9) heart_b - 0.8131034505161752
+
+10) time_b - 0.7935295104980525
+
+Result for the vector: life, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9775460945097282
+
+1) life_b - 0.9775460945097282
+
+2) teaching_b - 0.9594240140228288
+
+3) thing_b - 0.951172465225752
+
+4) word_b - 0.9337670445829972
+
+5) people_b - 0.9259393446987285
+
+6) friend_b - 0.9156181165944424
+
+7) heart_b - 0.9154703243497309
+
+8) river_b - 0.8912893734535019
+
+9) man_b - 0.8726178483594886
+
+10) time_b - 0.8405457735061705
+
+Result for the vector: thing, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9824862459285553
+
+1) thing_b - 0.9824862459285553
+
+2) word_b - 0.955873813260241
+
+3) teaching_b - 0.9536161367435618
+
+4) life_b - 0.9401414358700194
+
+5) people_b - 0.9337463021647608
+
+6) friend_b - 0.9034760536835241
+
+7) river_b - 0.889357407929666
+
+8) man_b - 0.8838979671062392
+
+9) heart_b - 0.8626868900078739
+
+10) time_b - 0.8406709432601989
+
+Result for the vector: teaching, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.968146620282331
+
+1) teaching_b - 0.968146620282331
+
+2) word_b - 0.9580647634883158
+
+3) thing_b - 0.9565120313472784
+
+4) life_b - 0.9503846168518066
+
+5) friend_b - 0.9297839403152466
+
+6) people_b - 0.9226651466687071
+
+7) river_b - 0.9194553172426024
+
+8) heart_b - 0.8985618620682322
+
+9) man_b - 0.8778595473933822
+
+10) time_b - 0.812261592610981
+
+Result for the vector: heart, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.976767868495949
+
+1) heart_b - 0.976767868495949
+
+2) life_b - 0.9378972686590409
+
+3) teaching_b - 0.9226624369621342
+
+4) friend_b - 0.9138508490412938
+
+5) thing_b - 0.8898071646690432
+
+6) word_b - 0.888461324916446
+
+7) river_b - 0.8542939765961808
+
+8) people_b - 0.8530949695976122
+
+9) man_b - 0.8205472551797782
+
+10) time_b - 0.7752826481720628
+
+Result for the vector: word, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9702355554770103
+
+1) word_b - 0.9702355554770103
+
+2) teaching_b - 0.9614299512761819
+
+3) thing_b - 0.9604683494847046
+
+4) life_b - 0.9417877197265625
+
+5) friend_b - 0.9221510887145996
+
+6) people_b - 0.9126897726264532
+
+7) river_b - 0.8974190621798955
+
+8) heart_b - 0.8962861566628865
+
+9) man_b - 0.8701763903884484
+
+10) time_b - 0.8338673809845831
+
+Result for the vector: people, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9807613188255231
+
+1) people_b - 0.9807613188255231
+
+2) thing_b - 0.9439555969211831
+
+3) teaching_b - 0.9403844440212531
+
+4) word_b - 0.9249688662579322
+
+5) friend_b - 0.9209519028663635
+
+6) life_b - 0.9197564721107483
+
+7) man_b - 0.9102993118406227
+
+8) river_b - 0.8950524596885584
+
+9) heart_b - 0.8642602224427531
+
+10) time_b - 0.8083646411678423
+
+Result for the vector: friend, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9746745228767395
+
+1) friend_b - 0.9746745228767395
+
+2) teaching_b - 0.9277760343418159
+
+3) life_b - 0.915942907333374
+
+4) people_b - 0.9089312824288397
+
+5) man_b - 0.9072944632417668
+
+6) word_b - 0.9052850873853296
+
+7) thing_b - 0.905123168535423
+
+8) heart_b - 0.9017468959613714
+
+9) river_b - 0.8829434777183381
+
+10) time_b - 0.7844243178114716
+
+Result for the vector: time, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9762668027718798
+
+1) time_a - 0.9762668027718798
+
+2) thing_a - 0.8406709432601989
+
+3) life_a - 0.8405457735061705
+
+4) word_a - 0.8338673809845831
+
+5) teaching_a - 0.812261592610981
+
+6) people_a - 0.8083646411678423
+
+7) man_a - 0.801081514326292
+
+8) river_a - 0.7935295104980525
+
+9) friend_a - 0.7844243178114716
+
+10) heart_a - 0.7752826481720628
+
+Result for the vector: man, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9827859715116755
+
+1) man_a - 0.9827859715116755
+
+2) people_a - 0.9102993118406227
+
+3) friend_a - 0.9072944632417668
+
+4) thing_a - 0.8838979671062392
+
+5) teaching_a - 0.8778595473933822
+
+6) life_a - 0.8726178483594886
+
+7) word_a - 0.8701763903884484
+
+8) time_a - 0.8499331653197867
+
+9) river_a - 0.8329675893206975
+
+10) heart_a - 0.8205472551797782
+
+Result for the vector: river, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9483920587651786
+
+1) river_a - 0.9483920587651786
+
+2) teaching_a - 0.9194553172426024
+
+3) word_a - 0.8974190621798955
+
+4) people_a - 0.8950524596885584
+
+5) man_a - 0.8914648229756846
+
+6) life_a - 0.8912893734535019
+
+7) thing_a - 0.889357407929666
+
+8) friend_a - 0.8829434777183381
+
+9) time_a - 0.8659609218228141
+
+10) heart_a - 0.8542939765961808
+
+Result for the vector: life, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9775460945097282
+
+1) life_a - 0.9775460945097282
+
+2) teaching_a - 0.9503846168518066
+
+3) word_a - 0.9417877197265625
+
+4) thing_a - 0.9401414358700194
+
+5) heart_a - 0.9378972686590409
+
+6) people_a - 0.9197564721107483
+
+7) friend_a - 0.915942907333374
+
+8) time_a - 0.900054395198822
+
+9) man_a - 0.8812554145233461
+
+10) river_a - 0.8655552783939424
+
+Result for the vector: thing, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9824862459285553
+
+1) thing_a - 0.9824862459285553
+
+2) word_a - 0.9604683494847046
+
+3) teaching_a - 0.9565120313472784
+
+4) life_a - 0.951172465225752
+
+5) people_a - 0.9439555969211831
+
+6) time_a - 0.9051846805324976
+
+7) friend_a - 0.905123168535423
+
+8) man_a - 0.9049077843047192
+
+9) heart_a - 0.8898071646690432
+
+10) river_a - 0.8645312624610976
+
+Result for the vector: teaching, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.968146620282331
+
+1) teaching_a - 0.968146620282331
+
+2) word_a - 0.9614299512761819
+
+3) life_a - 0.9594240140228288
+
+4) thing_a - 0.9536161367435618
+
+5) people_a - 0.9403844440212531
+
+6) friend_a - 0.9277760343418159
+
+7) heart_a - 0.9226624369621342
+
+8) man_a - 0.9002464622479498
+
+9) time_a - 0.8876699142259324
+
+10) river_a - 0.8777784559462614
+
+Result for the vector: heart, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.976767868495949
+
+1) heart_a - 0.976767868495949
+
+2) life_a - 0.9154703243497309
+
+3) friend_a - 0.9017468959613714
+
+4) teaching_a - 0.8985618620682322
+
+5) word_a - 0.8962861566628865
+
+6) people_a - 0.8642602224427531
+
+7) thing_a - 0.8626868900078739
+
+8) time_a - 0.8376294624098979
+
+9) man_a - 0.8329742451294807
+
+10) river_a - 0.8131034505161752
+
+Result for the vector: word, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9702355554770103
+
+1) word_a - 0.9702355554770103
+
+2) teaching_a - 0.9580647634883158
+
+3) thing_a - 0.955873813260241
+
+4) life_a - 0.9337670445829972
+
+5) people_a - 0.9249688662579322
+
+6) friend_a - 0.9052850873853296
+
+7) man_a - 0.8975337682684522
+
+8) heart_a - 0.888461324916446
+
+9) time_a - 0.884495403900606
+
+10) river_a - 0.8566053083484154
+
+Result for the vector: people, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9807613188255231
+
+1) people_a - 0.9807613188255231
+
+2) man_a - 0.9429546560618076
+
+3) thing_a - 0.9337463021647608
+
+4) life_a - 0.9259393446987285
+
+5) teaching_a - 0.9226651466687071
+
+6) word_a - 0.9126897726264532
+
+7) friend_a - 0.9089312824288397
+
+8) time_a - 0.8629657883335888
+
+9) river_a - 0.8569984010158543
+
+10) heart_a - 0.8530949695976122
+
+Result for the vector: friend, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9746745228767395
+
+1) friend_a - 0.9746745228767395
+
+2) teaching_a - 0.9297839403152466
+
+3) word_a - 0.9221510887145996
+
+4) people_a - 0.9209519028663635
+
+5) life_a - 0.9156181165944424
+
+6) heart_a - 0.9138508490412938
+
+7) man_a - 0.9071653159608045
+
+8) thing_a - 0.9034760536835241
+
+9) time_a - 0.8601008057594299
+
+10) river_a - 0.8539270075516124
+

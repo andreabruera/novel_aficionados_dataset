@@ -1,0 +1,8 @@
+152	hero_heroes_Heroes_Hero
+140	battle_BATTLE_Battle_battles
+42	body_bodies
+43	passage_Passages_passages
+26	place_places
+11	heart_hearts_Heart
+10	text_TEXT
+10	hour_hours_Hours

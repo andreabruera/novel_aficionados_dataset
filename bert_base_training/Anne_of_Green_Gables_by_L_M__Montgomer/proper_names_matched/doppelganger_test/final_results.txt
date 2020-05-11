@@ -1,0 +1,9 @@
+Test: doppelganger test
+Results for: Anne_of_Green_Gables_by_L_M__Montgomer
+Model used: proper names matched
+
+Within-novel median: 5.0
+Within-novel average: 7.142857142857143
+Within-novel MRR: 0.44822419398381363
+Within-novel standard deviation of the scores: 6.606531503247477
+Amount of entities considered: 21.0

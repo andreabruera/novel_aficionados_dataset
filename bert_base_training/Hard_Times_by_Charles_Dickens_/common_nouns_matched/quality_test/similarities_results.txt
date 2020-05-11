@@ -1,0 +1,780 @@
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9348711332602001
+
+1) man_a - 0.9348711332602001
+
+2) father_a - 0.8981833397259334
+
+3) figure_a - 0.8732557405912493
+
+4) brother_a - 0.8712385892868104
+
+5) right_a - 0.8563949380156376
+
+6) day_a - 0.853923005333305
+
+7) hand_a - 0.8494106531143248
+
+8) way_a - 0.8469166068385025
+
+9) time_a - 0.8464743311970628
+
+10) world_a - 0.8349971227343567
+
+11) night_a - 0.8324837733035946
+
+12) face_a - 0.8312320856361469
+
+13) look_a - 0.7706314188618327
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8419146098418189
+
+1) time_a - 0.8419146098418189
+
+2) day_a - 0.8113897572210218
+
+3) figure_a - 0.8069484003720775
+
+4) way_a - 0.8023246169783065
+
+5) right_a - 0.7958829640115195
+
+6) night_a - 0.7951177114388612
+
+7) man_a - 0.7830049628914885
+
+8) father_a - 0.7814849251951258
+
+9) hand_a - 0.7780899769637026
+
+10) world_a - 0.7737590996931923
+
+11) face_a - 0.7652137735613449
+
+12) brother_a - 0.7399846094851342
+
+13) look_a - 0.7072933527020622
+
+Result for the vector: father, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9366971254348755
+
+1) father_a - 0.9366971254348755
+
+2) brother_a - 0.9107519441394856
+
+3) right_a - 0.8773059844970703
+
+4) man_a - 0.8750112652778625
+
+5) face_a - 0.8680757542871167
+
+6) hand_a - 0.8663781960977215
+
+7) way_a - 0.866201639175415
+
+8) figure_a - 0.8609001810163456
+
+9) day_a - 0.8577579771136047
+
+10) time_a - 0.8551006826818411
+
+11) night_a - 0.8308968094793123
+
+12) world_a - 0.8260191225426637
+
+13) look_a - 0.7769498229026794
+
+Result for the vector: hand, coming from part i of the book
+Rank: 7 out of 13 characters
+Cosine similarity to the co-referring vector: 0.656839271972224
+
+1) father_a - 0.6854751110076904
+
+2) day_a - 0.6848115137107095
+
+3) right_a - 0.6722264289855957
+
+4) man_a - 0.666577160358429
+
+5) time_a - 0.6665047804418087
+
+6) brother_a - 0.6657750805750453
+
+7) hand_a - 0.656839271972224
+
+8) night_a - 0.6565148821337442
+
+9) figure_a - 0.6490442141036012
+
+10) world_a - 0.6469184142576256
+
+11) way_a - 0.6451465487480164
+
+12) face_a - 0.6176116650584839
+
+13) look_a - 0.5996716618537903
+
+Result for the vector: face, coming from part i of the book
+Rank: 9 out of 13 characters
+Cosine similarity to the co-referring vector: 0.5607764888041168
+
+1) figure_a - 0.5955887373318163
+
+2) day_a - 0.5894176715265327
+
+3) look_a - 0.5809895992279053
+
+4) time_a - 0.5709130508251826
+
+5) right_a - 0.5702463984489441
+
+6) father_a - 0.5682567358016968
+
+7) way_a - 0.5657376646995544
+
+8) night_a - 0.5637069252467409
+
+9) face_a - 0.5607764888041168
+
+10) hand_a - 0.5587219262884909
+
+11) world_a - 0.5558609267348902
+
+12) man_a - 0.5551355481147766
+
+13) brother_a - 0.5285283608121666
+
+Result for the vector: night, coming from part i of the book
+Rank: 2 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7370160724246613
+
+1) day_a - 0.7377189085148463
+
+2) night_a - 0.7370160724246613
+
+3) time_a - 0.6844886165247699
+
+4) way_a - 0.6391980432986059
+
+5) father_a - 0.6123851902714496
+
+6) man_a - 0.6092948680695823
+
+7) world_a - 0.6086005879343435
+
+8) figure_a - 0.5981017050298612
+
+9) right_a - 0.5899905318016141
+
+10) face_a - 0.5772152463092133
+
+11) hand_a - 0.5744188427925151
+
+12) brother_a - 0.5729783773422282
+
+13) look_a - 0.5552828642894555
+
+Result for the vector: way, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8593116402626038
+
+1) way_a - 0.8593116402626038
+
+2) time_a - 0.8240461840657121
+
+3) day_a - 0.7879043095054825
+
+4) right_a - 0.7861642241477966
+
+5) figure_a - 0.7725726460730445
+
+6) face_a - 0.7714178792064753
+
+7) hand_a - 0.771241559312252
+
+8) world_a - 0.765856453703924
+
+9) night_a - 0.7584219060917443
+
+10) man_a - 0.7539538741111755
+
+11) father_a - 0.746569812297821
+
+12) look_a - 0.6996743083000183
+
+13) brother_a - 0.6955272736831156
+
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8742114305496278
+
+1) day_a - 0.8742114305496278
+
+2) night_a - 0.8662697334966081
+
+3) time_a - 0.8473775386810363
+
+4) way_a - 0.8025617121123262
+
+5) man_a - 0.7889904505616172
+
+6) right_a - 0.7882356769898144
+
+7) father_a - 0.7821918259744762
+
+8) world_a - 0.7731117240521911
+
+9) hand_a - 0.7624908372770742
+
+10) figure_a - 0.7600625383872635
+
+11) face_a - 0.7529122009005517
+
+12) brother_a - 0.7282966103200185
+
+13) look_a - 0.7008994399965156
+
+Result for the vector: brother, coming from part i of the book
+Rank: 2 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8936235968098897
+
+1) father_a - 0.8982051610946655
+
+2) brother_a - 0.8936235968098897
+
+3) man_a - 0.8116793036460876
+
+4) face_a - 0.8014974236934613
+
+5) day_a - 0.7998076557998466
+
+6) hand_a - 0.7992809534501475
+
+7) right_a - 0.7990655303001404
+
+8) figure_a - 0.7931521648006619
+
+9) way_a - 0.7897613048553467
+
+10) night_a - 0.7778720955138323
+
+11) time_a - 0.7751914724821743
+
+12) world_a - 0.7584031306269614
+
+13) look_a - 0.7253177165985107
+
+Result for the vector: figure, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7030330332845209
+
+1) figure_a - 0.7030330332845209
+
+2) time_a - 0.6622390545749113
+
+3) right_a - 0.6580520272254944
+
+4) day_a - 0.6441101815766216
+
+5) way_a - 0.6406704783439636
+
+6) world_a - 0.6347942323798771
+
+7) hand_a - 0.6329016904293494
+
+8) man_a - 0.627572238445282
+
+9) father_a - 0.6202389001846313
+
+10) face_a - 0.6126243654675595
+
+11) night_a - 0.598192149239079
+
+12) look_a - 0.5912341475486755
+
+13) brother_a - 0.5759226336525312
+
+Result for the vector: world, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8561207225430691
+
+1) world_a - 0.8561207225430691
+
+2) way_a - 0.8371636867523193
+
+3) time_a - 0.834594835912875
+
+4) man_a - 0.8269692659378052
+
+5) figure_a - 0.8228626986917319
+
+6) day_a - 0.8220864428333322
+
+7) right_a - 0.8182521462440491
+
+8) father_a - 0.8004409670829773
+
+9) hand_a - 0.7997522473482952
+
+10) face_a - 0.7935399053555703
+
+11) night_a - 0.7789619665409924
+
+12) brother_a - 0.745319858472357
+
+13) look_a - 0.708950936794281
+
+Result for the vector: look, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.6262324452400208
+
+1) look_a - 0.6262324452400208
+
+2) father_a - 0.5547817945480347
+
+3) day_a - 0.5508624047554982
+
+4) hand_a - 0.5491063863571661
+
+5) way_a - 0.5485528707504272
+
+6) time_a - 0.5458978739916021
+
+7) face_a - 0.5457541509197402
+
+8) night_a - 0.5453995357811058
+
+9) figure_a - 0.5451524149017727
+
+10) man_a - 0.5448839664459229
+
+11) right_a - 0.5439208745956421
+
+12) world_a - 0.5323385476176653
+
+13) brother_a - 0.5290478152604222
+
+Result for the vector: right, coming from part i of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.6279900074005127
+
+1) right_a - 0.6279900074005127
+
+2) man_a - 0.5460824966430664
+
+3) figure_a - 0.5417469032180543
+
+4) father_a - 0.5393128395080566
+
+5) way_a - 0.5282371640205383
+
+6) time_a - 0.5278368906877581
+
+7) day_a - 0.5190168332467585
+
+8) world_a - 0.5115624527540036
+
+9) brother_a - 0.5077321226756508
+
+10) hand_a - 0.5037918386583433
+
+11) face_a - 0.4958081989231171
+
+12) night_a - 0.49498434319952417
+
+13) look_a - 0.476711630821228
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9348711332602001
+
+1) man_wiki - 0.9348711332602001
+
+2) father_wiki - 0.8750112652778625
+
+3) world_wiki - 0.8269692659378052
+
+4) brother_wiki - 0.8116793036460876
+
+5) day_wiki - 0.7889904505616172
+
+6) time_wiki - 0.7830049628914885
+
+7) way_wiki - 0.7539538741111755
+
+8) hand_wiki - 0.666577160358429
+
+9) figure_wiki - 0.627572238445282
+
+10) night_wiki - 0.6092948680695823
+
+11) face_wiki - 0.5551355481147766
+
+12) right_wiki - 0.5460824966430664
+
+13) look_wiki - 0.5448839664459229
+
+Result for the vector: time, coming from part a of the book
+Rank: 4 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8419146098418189
+
+1) father_wiki - 0.8551006826818411
+
+2) day_wiki - 0.8473775386810363
+
+3) man_wiki - 0.8464743311970628
+
+4) time_wiki - 0.8419146098418189
+
+5) world_wiki - 0.834594835912875
+
+6) way_wiki - 0.8240461840657121
+
+7) brother_wiki - 0.7751914724821743
+
+8) night_wiki - 0.6844886165247699
+
+9) hand_wiki - 0.6665047804418087
+
+10) figure_wiki - 0.6622390545749113
+
+11) face_wiki - 0.5709130508251826
+
+12) look_wiki - 0.5458978739916021
+
+13) right_wiki - 0.5278368906877581
+
+Result for the vector: father, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.9366971254348755
+
+1) father_wiki - 0.9366971254348755
+
+2) brother_wiki - 0.8982051610946655
+
+3) man_wiki - 0.8981833397259334
+
+4) world_wiki - 0.8004409670829773
+
+5) day_wiki - 0.7821918259744762
+
+6) time_wiki - 0.7814849251951258
+
+7) way_wiki - 0.746569812297821
+
+8) hand_wiki - 0.6854751110076904
+
+9) figure_wiki - 0.6202389001846313
+
+10) night_wiki - 0.6123851902714496
+
+11) face_wiki - 0.5682567358016968
+
+12) look_wiki - 0.5547817945480347
+
+13) right_wiki - 0.5393128395080566
+
+Result for the vector: hand, coming from part a of the book
+Rank: 8 out of 13 characters
+Cosine similarity to the co-referring vector: 0.656839271972224
+
+1) father_wiki - 0.8663781960977215
+
+2) man_wiki - 0.8494106531143248
+
+3) world_wiki - 0.7997522473482952
+
+4) brother_wiki - 0.7992809534501475
+
+5) time_wiki - 0.7780899769637026
+
+6) way_wiki - 0.771241559312252
+
+7) day_wiki - 0.7624908372770742
+
+8) hand_wiki - 0.656839271972224
+
+9) figure_wiki - 0.6329016904293494
+
+10) night_wiki - 0.5744188427925151
+
+11) face_wiki - 0.5587219262884909
+
+12) look_wiki - 0.5491063863571661
+
+13) right_wiki - 0.5037918386583433
+
+Result for the vector: face, coming from part a of the book
+Rank: 11 out of 13 characters
+Cosine similarity to the co-referring vector: 0.5607764888041168
+
+1) father_wiki - 0.8680757542871167
+
+2) man_wiki - 0.8312320856361469
+
+3) brother_wiki - 0.8014974236934613
+
+4) world_wiki - 0.7935399053555703
+
+5) way_wiki - 0.7714178792064753
+
+6) time_wiki - 0.7652137735613449
+
+7) day_wiki - 0.7529122009005517
+
+8) hand_wiki - 0.6176116650584839
+
+9) figure_wiki - 0.6126243654675595
+
+10) night_wiki - 0.5772152463092133
+
+11) face_wiki - 0.5607764888041168
+
+12) look_wiki - 0.5457541509197402
+
+13) right_wiki - 0.4958081989231171
+
+Result for the vector: night, coming from part a of the book
+Rank: 8 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7370160724246613
+
+1) day_wiki - 0.8662697334966081
+
+2) man_wiki - 0.8324837733035946
+
+3) father_wiki - 0.8308968094793123
+
+4) time_wiki - 0.7951177114388612
+
+5) world_wiki - 0.7789619665409924
+
+6) brother_wiki - 0.7778720955138323
+
+7) way_wiki - 0.7584219060917443
+
+8) night_wiki - 0.7370160724246613
+
+9) hand_wiki - 0.6565148821337442
+
+10) figure_wiki - 0.598192149239079
+
+11) face_wiki - 0.5637069252467409
+
+12) look_wiki - 0.5453995357811058
+
+13) right_wiki - 0.49498434319952417
+
+Result for the vector: way, coming from part a of the book
+Rank: 2 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8593116402626038
+
+1) father_wiki - 0.866201639175415
+
+2) way_wiki - 0.8593116402626038
+
+3) man_wiki - 0.8469166068385025
+
+4) world_wiki - 0.8371636867523193
+
+5) day_wiki - 0.8025617121123262
+
+6) time_wiki - 0.8023246169783065
+
+7) brother_wiki - 0.7897613048553467
+
+8) hand_wiki - 0.6451465487480164
+
+9) figure_wiki - 0.6406704783439636
+
+10) night_wiki - 0.6391980432986059
+
+11) face_wiki - 0.5657376646995544
+
+12) look_wiki - 0.5485528707504272
+
+13) right_wiki - 0.5282371640205383
+
+Result for the vector: day, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8742114305496278
+
+1) day_wiki - 0.8742114305496278
+
+2) father_wiki - 0.8577579771136047
+
+3) man_wiki - 0.853923005333305
+
+4) world_wiki - 0.8220864428333322
+
+5) time_wiki - 0.8113897572210218
+
+6) brother_wiki - 0.7998076557998466
+
+7) way_wiki - 0.7879043095054825
+
+8) night_wiki - 0.7377189085148463
+
+9) hand_wiki - 0.6848115137107095
+
+10) figure_wiki - 0.6441101815766216
+
+11) face_wiki - 0.5894176715265327
+
+12) look_wiki - 0.5508624047554982
+
+13) right_wiki - 0.5190168332467585
+
+Result for the vector: brother, coming from part a of the book
+Rank: 2 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8936235968098897
+
+1) father_wiki - 0.9107519441394856
+
+2) brother_wiki - 0.8936235968098897
+
+3) man_wiki - 0.8712385892868104
+
+4) world_wiki - 0.745319858472357
+
+5) time_wiki - 0.7399846094851342
+
+6) day_wiki - 0.7282966103200185
+
+7) way_wiki - 0.6955272736831156
+
+8) hand_wiki - 0.6657750805750453
+
+9) figure_wiki - 0.5759226336525312
+
+10) night_wiki - 0.5729783773422282
+
+11) look_wiki - 0.5290478152604222
+
+12) face_wiki - 0.5285283608121666
+
+13) right_wiki - 0.5077321226756508
+
+Result for the vector: figure, coming from part a of the book
+Rank: 8 out of 13 characters
+Cosine similarity to the co-referring vector: 0.7030330332845209
+
+1) man_wiki - 0.8732557405912493
+
+2) father_wiki - 0.8609001810163456
+
+3) world_wiki - 0.8228626986917319
+
+4) time_wiki - 0.8069484003720775
+
+5) brother_wiki - 0.7931521648006619
+
+6) way_wiki - 0.7725726460730445
+
+7) day_wiki - 0.7600625383872635
+
+8) figure_wiki - 0.7030330332845209
+
+9) hand_wiki - 0.6490442141036012
+
+10) night_wiki - 0.5981017050298612
+
+11) face_wiki - 0.5955887373318163
+
+12) look_wiki - 0.5451524149017727
+
+13) right_wiki - 0.5417469032180543
+
+Result for the vector: world, coming from part a of the book
+Rank: 1 out of 13 characters
+Cosine similarity to the co-referring vector: 0.8561207225430691
+
+1) world_wiki - 0.8561207225430691
+
+2) man_wiki - 0.8349971227343567
+
+3) father_wiki - 0.8260191225426637
+
+4) time_wiki - 0.7737590996931923
+
+5) day_wiki - 0.7731117240521911
+
+6) way_wiki - 0.765856453703924
+
+7) brother_wiki - 0.7584031306269614
+
+8) hand_wiki - 0.6469184142576256
+
+9) figure_wiki - 0.6347942323798771
+
+10) night_wiki - 0.6086005879343435
+
+11) face_wiki - 0.5558609267348902
+
+12) look_wiki - 0.5323385476176653
+
+13) right_wiki - 0.5115624527540036
+
+Result for the vector: look, coming from part a of the book
+Rank: 8 out of 13 characters
+Cosine similarity to the co-referring vector: 0.6262324452400208
+
+1) father_wiki - 0.7769498229026794
+
+2) man_wiki - 0.7706314188618327
+
+3) brother_wiki - 0.7253177165985107
+
+4) world_wiki - 0.708950936794281
+
+5) time_wiki - 0.7072933527020622
+
+6) day_wiki - 0.7008994399965156
+
+7) way_wiki - 0.6996743083000183
+
+8) look_wiki - 0.6262324452400208
+
+9) hand_wiki - 0.5996716618537903
+
+10) figure_wiki - 0.5912341475486755
+
+11) face_wiki - 0.5809895992279053
+
+12) night_wiki - 0.5552828642894555
+
+13) right_wiki - 0.476711630821228
+
+Result for the vector: right, coming from part a of the book
+Rank: 10 out of 13 characters
+Cosine similarity to the co-referring vector: 0.6279900074005127
+
+1) father_wiki - 0.8773059844970703
+
+2) man_wiki - 0.8563949380156376
+
+3) world_wiki - 0.8182521462440491
+
+4) brother_wiki - 0.7990655303001404
+
+5) time_wiki - 0.7958829640115195
+
+6) day_wiki - 0.7882356769898144
+
+7) way_wiki - 0.7861642241477966
+
+8) hand_wiki - 0.6722264289855957
+
+9) figure_wiki - 0.6580520272254944
+
+10) right_wiki - 0.6279900074005127
+
+11) night_wiki - 0.5899905318016141
+
+12) face_wiki - 0.5702463984489441
+
+13) look_wiki - 0.5439208745956421
+

@@ -1,0 +1,572 @@
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9712266921997139
+
+1) man_b - 0.9712266921997139
+
+2) face_b - 0.8456306549530846
+
+3) time_b - 0.8419076894576749
+
+4) way_b - 0.8379594280768122
+
+5) voice_b - 0.8319805364620381
+
+6) sir_b - 0.8253830283423629
+
+7) hand_b - 0.7967830658917737
+
+8) mark_b - 0.7881774432553399
+
+9) moor_b - 0.776906861251185
+
+10) power_b - 0.755407541345651
+
+11) stick_b - 0.547457310405818
+
+Result for the vector: moor, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.974520804016544
+
+1) moor_b - 0.974520804016544
+
+2) way_b - 0.8615486190857149
+
+3) face_b - 0.8613737308160242
+
+4) man_b - 0.8514248728752196
+
+5) time_b - 0.8474629016242697
+
+6) hand_b - 0.8094362971354667
+
+7) voice_b - 0.7929425362978868
+
+8) mark_b - 0.7919480328590864
+
+9) sir_b - 0.7839718122515902
+
+10) power_b - 0.7751605778741147
+
+11) stick_b - 0.5358825645376866
+
+Result for the vector: sir, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9602586936873625
+
+1) sir_b - 0.9602586936873625
+
+2) man_b - 0.8093223699321486
+
+3) time_b - 0.7766429417324946
+
+4) voice_b - 0.7667127480123269
+
+5) way_b - 0.7578031194864804
+
+6) face_b - 0.7562070118250556
+
+7) hand_b - 0.7194052767399118
+
+8) mark_b - 0.7122394654822194
+
+9) moor_b - 0.7058525295809668
+
+10) power_b - 0.677177349413119
+
+11) stick_b - 0.49757264518330374
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9636084459061374
+
+1) time_b - 0.9636084459061374
+
+2) way_b - 0.9075367560938887
+
+3) man_b - 0.8804866671562257
+
+4) face_b - 0.8607346498528347
+
+5) voice_b - 0.8504905193751756
+
+6) hand_b - 0.8355720986255412
+
+7) sir_b - 0.8346026140925152
+
+8) moor_b - 0.8134079686756167
+
+9) mark_b - 0.81230736897544
+
+10) power_b - 0.7969492319882832
+
+11) stick_b - 0.5583799218165917
+
+Result for the vector: face, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9583466338618591
+
+1) face_b - 0.9583466338618591
+
+2) hand_b - 0.8885734610899365
+
+3) voice_b - 0.887330081681314
+
+4) way_b - 0.8481169686282618
+
+5) man_b - 0.8347029836210299
+
+6) time_b - 0.8211493140801587
+
+7) power_b - 0.8039518355145535
+
+8) mark_b - 0.7897143003259394
+
+9) moor_b - 0.7874891992655161
+
+10) sir_b - 0.7749273546061739
+
+11) stick_b - 0.5354751550369217
+
+Result for the vector: hand, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9753145270143313
+
+1) hand_b - 0.9753145270143313
+
+2) face_b - 0.9140404462814331
+
+3) voice_b - 0.87291419506073
+
+4) way_b - 0.8701006847560013
+
+5) power_b - 0.8636966428937544
+
+6) time_b - 0.840837836265564
+
+7) man_b - 0.8306944865402288
+
+8) mark_b - 0.825667142868042
+
+9) sir_b - 0.7882749564483802
+
+10) moor_b - 0.7843831777572632
+
+11) stick_b - 0.5375621363594733
+
+Result for the vector: way, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9657316269162386
+
+1) way_b - 0.9657316269162386
+
+2) time_b - 0.8893845213193335
+
+3) face_b - 0.8676201262926967
+
+4) power_b - 0.8661059976626654
+
+5) man_b - 0.8604072415586107
+
+6) voice_b - 0.8537348087150147
+
+7) hand_b - 0.8486075834684839
+
+8) moor_b - 0.7982280494894979
+
+9) sir_b - 0.7959452040293462
+
+10) mark_b - 0.7927105077850269
+
+11) stick_b - 0.5461819171905673
+
+Result for the vector: voice, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9140381710574895
+
+1) voice_b - 0.9140381710574895
+
+2) face_b - 0.8494556962794956
+
+3) way_b - 0.8172720561785862
+
+4) hand_b - 0.8068832765345719
+
+5) man_b - 0.805456603549113
+
+6) time_b - 0.7823084333310699
+
+7) power_b - 0.759808347213778
+
+8) mark_b - 0.7380544231002888
+
+9) sir_b - 0.7336966236649048
+
+10) moor_b - 0.7136357681317104
+
+11) stick_b - 0.5461910477140064
+
+Result for the vector: mark, coming from part a of the book
+Rank: 7 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8343919713029955
+
+1) face_b - 0.907460581366953
+
+2) man_b - 0.8807414841210098
+
+3) way_b - 0.8774951319405216
+
+4) voice_b - 0.8610254691808917
+
+5) hand_b - 0.8487104014715288
+
+6) time_b - 0.8474952164298099
+
+7) mark_b - 0.8343919713029955
+
+8) moor_b - 0.8136750681787706
+
+9) power_b - 0.8090494616539263
+
+10) sir_b - 0.7950542339585616
+
+11) stick_b - 0.5552917122841039
+
+Result for the vector: power, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8775616549718971
+
+1) power_b - 0.8775616549718971
+
+2) way_b - 0.8604516047373988
+
+3) face_b - 0.8447897593489108
+
+4) voice_b - 0.8259591602646587
+
+5) man_b - 0.8234861528107755
+
+6) hand_b - 0.8187150739091738
+
+7) time_b - 0.8159713282559542
+
+8) mark_b - 0.7658217637975632
+
+9) sir_b - 0.7450108750167832
+
+10) moor_b - 0.7381984655438512
+
+11) stick_b - 0.5400227838802187
+
+Result for the vector: stick, coming from part a of the book
+Rank: 11 out of 11 characters
+Cosine similarity to the co-referring vector: 0.6081494455426698
+
+1) man_b - 0.878984868526465
+
+2) face_b - 0.8789643717429432
+
+3) hand_b - 0.8674540261192945
+
+4) way_b - 0.8637102408754539
+
+5) time_b - 0.8485158772161095
+
+6) mark_b - 0.8405718898432335
+
+7) voice_b - 0.8402984833539451
+
+8) moor_b - 0.8154558649387454
+
+9) sir_b - 0.8014185665346901
+
+10) power_b - 0.7793200279092756
+
+11) stick_b - 0.6081494455426698
+
+Result for the vector: man, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9712266921997139
+
+1) man_a - 0.9712266921997139
+
+2) mark_a - 0.8807414841210098
+
+3) time_a - 0.8804866671562257
+
+4) stick_a - 0.878984868526465
+
+5) way_a - 0.8604072415586107
+
+6) moor_a - 0.8514248728752196
+
+7) face_a - 0.8347029836210299
+
+8) hand_a - 0.8306944865402288
+
+9) power_a - 0.8234861528107755
+
+10) sir_a - 0.8093223699321486
+
+11) voice_a - 0.805456603549113
+
+Result for the vector: moor, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.974520804016544
+
+1) moor_a - 0.974520804016544
+
+2) stick_a - 0.8154558649387454
+
+3) mark_a - 0.8136750681787706
+
+4) time_a - 0.8134079686756167
+
+5) way_a - 0.7982280494894979
+
+6) face_a - 0.7874891992655161
+
+7) hand_a - 0.7843831777572632
+
+8) man_a - 0.776906861251185
+
+9) power_a - 0.7381984655438512
+
+10) voice_a - 0.7136357681317104
+
+11) sir_a - 0.7058525295809668
+
+Result for the vector: sir, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9602586936873625
+
+1) sir_a - 0.9602586936873625
+
+2) time_a - 0.8346026140925152
+
+3) man_a - 0.8253830283423629
+
+4) stick_a - 0.8014185665346901
+
+5) way_a - 0.7959452040293462
+
+6) mark_a - 0.7950542339585616
+
+7) hand_a - 0.7882749564483802
+
+8) moor_a - 0.7839718122515902
+
+9) face_a - 0.7749273546061739
+
+10) power_a - 0.7450108750167832
+
+11) voice_a - 0.7336966236649048
+
+Result for the vector: time, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9636084459061374
+
+1) time_a - 0.9636084459061374
+
+2) way_a - 0.8893845213193335
+
+3) stick_a - 0.8485158772161095
+
+4) mark_a - 0.8474952164298099
+
+5) moor_a - 0.8474629016242697
+
+6) man_a - 0.8419076894576749
+
+7) hand_a - 0.840837836265564
+
+8) face_a - 0.8211493140801587
+
+9) power_a - 0.8159713282559542
+
+10) voice_a - 0.7823084333310699
+
+11) sir_a - 0.7766429417324946
+
+Result for the vector: face, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9583466338618591
+
+1) face_a - 0.9583466338618591
+
+2) hand_a - 0.9140404462814331
+
+3) mark_a - 0.907460581366953
+
+4) stick_a - 0.8789643717429432
+
+5) way_a - 0.8676201262926967
+
+6) moor_a - 0.8613737308160242
+
+7) time_a - 0.8607346498528347
+
+8) voice_a - 0.8494556962794956
+
+9) man_a - 0.8456306549530846
+
+10) power_a - 0.8447897593489108
+
+11) sir_a - 0.7562070118250556
+
+Result for the vector: hand, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9753145270143313
+
+1) hand_a - 0.9753145270143313
+
+2) face_a - 0.8885734610899365
+
+3) stick_a - 0.8674540261192945
+
+4) mark_a - 0.8487104014715288
+
+5) way_a - 0.8486075834684839
+
+6) time_a - 0.8355720986255412
+
+7) power_a - 0.8187150739091738
+
+8) moor_a - 0.8094362971354667
+
+9) voice_a - 0.8068832765345719
+
+10) man_a - 0.7967830658917737
+
+11) sir_a - 0.7194052767399118
+
+Result for the vector: way, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9657316269162386
+
+1) way_a - 0.9657316269162386
+
+2) time_a - 0.9075367560938887
+
+3) mark_a - 0.8774951319405216
+
+4) hand_a - 0.8701006847560013
+
+5) stick_a - 0.8637102408754539
+
+6) moor_a - 0.8615486190857149
+
+7) power_a - 0.8604516047373988
+
+8) face_a - 0.8481169686282618
+
+9) man_a - 0.8379594280768122
+
+10) voice_a - 0.8172720561785862
+
+11) sir_a - 0.7578031194864804
+
+Result for the vector: voice, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9140381710574895
+
+1) voice_a - 0.9140381710574895
+
+2) face_a - 0.887330081681314
+
+3) hand_a - 0.87291419506073
+
+4) mark_a - 0.8610254691808917
+
+5) way_a - 0.8537348087150147
+
+6) time_a - 0.8504905193751756
+
+7) stick_a - 0.8402984833539451
+
+8) man_a - 0.8319805364620381
+
+9) power_a - 0.8259591602646587
+
+10) moor_a - 0.7929425362978868
+
+11) sir_a - 0.7667127480123269
+
+Result for the vector: mark, coming from part b of the book
+Rank: 2 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8343919713029955
+
+1) stick_a - 0.8405718898432335
+
+2) mark_a - 0.8343919713029955
+
+3) hand_a - 0.825667142868042
+
+4) time_a - 0.81230736897544
+
+5) way_a - 0.7927105077850269
+
+6) moor_a - 0.7919480328590864
+
+7) face_a - 0.7897143003259394
+
+8) man_a - 0.7881774432553399
+
+9) power_a - 0.7658217637975632
+
+10) voice_a - 0.7380544231002888
+
+11) sir_a - 0.7122394654822194
+
+Result for the vector: power, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8775616549718971
+
+1) power_a - 0.8775616549718971
+
+2) way_a - 0.8661059976626654
+
+3) hand_a - 0.8636966428937544
+
+4) mark_a - 0.8090494616539263
+
+5) face_a - 0.8039518355145535
+
+6) time_a - 0.7969492319882832
+
+7) stick_a - 0.7793200279092756
+
+8) moor_a - 0.7751605778741147
+
+9) voice_a - 0.759808347213778
+
+10) man_a - 0.755407541345651
+
+11) sir_a - 0.677177349413119
+
+Result for the vector: stick, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.6081494455426698
+
+1) stick_a - 0.6081494455426698
+
+2) time_a - 0.5583799218165917
+
+3) mark_a - 0.5552917122841039
+
+4) man_a - 0.547457310405818
+
+5) voice_a - 0.5461910477140064
+
+6) way_a - 0.5461819171905673
+
+7) power_a - 0.5400227838802187
+
+8) hand_a - 0.5375621363594733
+
+9) moor_a - 0.5358825645376866
+
+10) face_a - 0.5354751550369217
+
+11) sir_a - 0.49757264518330374
+

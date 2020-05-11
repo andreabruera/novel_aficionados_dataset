@@ -1,0 +1,140 @@
+Result for the vector: nora, coming from part i of the book
+Rank: 2 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8294461267856568
+
+1) torvald_helmer_a - 0.8331101884511091
+
+2) nora_a - 0.8294461267856568
+
+3) christine_a - 0.8247669443627048
+
+4) nils_krogstad_a - 0.8165995697260416
+
+5) bank_a - 0.7478959710660011
+
+Result for the vector: torvald_helmer, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8618103522601832
+
+1) torvald_helmer_a - 0.8618103522601832
+
+2) nils_krogstad_a - 0.8471478910954079
+
+3) christine_a - 0.8424440622329712
+
+4) nora_a - 0.830733517495819
+
+5) bank_a - 0.7693642973899841
+
+Result for the vector: nils_krogstad, coming from part i of the book
+Rank: 2 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8556248803809514
+
+1) torvald_helmer_a - 0.8606188719911487
+
+2) nils_krogstad_a - 0.8556248803809514
+
+3) christine_a - 0.8430704065477423
+
+4) nora_a - 0.841904878616357
+
+5) bank_a - 0.7849633950038734
+
+Result for the vector: christine, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.751420929943269
+
+1) christine_a - 0.751420929943269
+
+2) torvald_helmer_a - 0.7242752097763088
+
+3) nora_a - 0.7210806441951297
+
+4) nils_krogstad_a - 0.7094928372510866
+
+5) bank_a - 0.6808346700170845
+
+Result for the vector: bank, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9007522463798523
+
+1) bank_a - 0.9007522463798523
+
+2) nora_a - 0.781436178855446
+
+3) torvald_helmer_a - 0.7750599019247267
+
+4) nils_krogstad_a - 0.774535550204782
+
+5) christine_a - 0.7627807855606079
+
+Result for the vector: nora, coming from part a of the book
+Rank: 3 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8294461267856568
+
+1) nils_krogstad_wiki - 0.841904878616357
+
+2) torvald_helmer_wiki - 0.830733517495819
+
+3) nora_wiki - 0.8294461267856568
+
+4) bank_wiki - 0.781436178855446
+
+5) christine_wiki - 0.7210806441951297
+
+Result for the vector: torvald_helmer, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8618103522601832
+
+1) torvald_helmer_wiki - 0.8618103522601832
+
+2) nils_krogstad_wiki - 0.8606188719911487
+
+3) nora_wiki - 0.8331101884511091
+
+4) bank_wiki - 0.7750599019247267
+
+5) christine_wiki - 0.7242752097763088
+
+Result for the vector: nils_krogstad, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8556248803809514
+
+1) nils_krogstad_wiki - 0.8556248803809514
+
+2) torvald_helmer_wiki - 0.8471478910954079
+
+3) nora_wiki - 0.8165995697260416
+
+4) bank_wiki - 0.774535550204782
+
+5) christine_wiki - 0.7094928372510866
+
+Result for the vector: christine, coming from part a of the book
+Rank: 5 out of 5 characters
+Cosine similarity to the co-referring vector: 0.751420929943269
+
+1) nils_krogstad_wiki - 0.8430704065477423
+
+2) torvald_helmer_wiki - 0.8424440622329712
+
+3) nora_wiki - 0.8247669443627048
+
+4) bank_wiki - 0.7627807855606079
+
+5) christine_wiki - 0.751420929943269
+
+Result for the vector: bank, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9007522463798523
+
+1) bank_wiki - 0.9007522463798523
+
+2) nils_krogstad_wiki - 0.7849633950038734
+
+3) torvald_helmer_wiki - 0.7693642973899841
+
+4) nora_wiki - 0.7478959710660011
+
+5) christine_wiki - 0.6808346700170845
+

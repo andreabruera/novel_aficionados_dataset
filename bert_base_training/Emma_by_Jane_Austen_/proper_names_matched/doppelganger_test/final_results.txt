@@ -1,0 +1,9 @@
+Test: doppelganger test
+Results for: Emma_by_Jane_Austen_
+Model used: proper names matched
+
+Within-novel median: 2.0
+Within-novel average: 5.5
+Within-novel MRR: 0.5729366057942297
+Within-novel standard deviation of the scores: 7.520804478245662
+Amount of entities considered: 32.0

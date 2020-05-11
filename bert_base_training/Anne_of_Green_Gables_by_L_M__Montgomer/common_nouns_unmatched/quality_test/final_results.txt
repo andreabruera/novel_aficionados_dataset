@@ -1,0 +1,9 @@
+Test: quality test
+Results for: Anne_of_Green_Gables_by_L_M__Montgomer
+Model used: common nouns unmatched
+
+Within-novel median: 1.0
+Within-novel average: 3.5
+Within-novel MRR: 0.6935352346066631
+Within-novel standard deviation of the scores: 3.986584646393093
+Amount of entities considered: 14.0

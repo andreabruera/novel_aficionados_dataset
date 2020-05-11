@@ -1,0 +1,9 @@
+Test: doppelganger test
+Results for: Pygmalion_by_Bernard_Shaw_
+Model used: common nouns matched
+
+Within-novel median: 1.0
+Within-novel average: 1.7
+Within-novel MRR: 0.8597222222222222
+Within-novel standard deviation of the scores: 1.8466185312619385
+Amount of entities considered: 10.0

@@ -1,0 +1,9 @@
+Test: doppelganger test
+Results for: Jane_Eyre_An_Autobiography_by_Charlotte
+Model used: common nouns unmatched
+
+Within-novel median: 1.0
+Within-novel average: 1.0217391304347827
+Within-novel MRR: 0.9891304347826086
+Within-novel standard deviation of the scores: 0.14583052027172538
+Amount of entities considered: 23.0

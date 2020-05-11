@@ -1,0 +1,13 @@
+266	Siddhartha
+142	Govinda
+81	Kamala
+69	Vasudeva
+62	Samana
+52	Buddha
+30	Samanas
+30	Gotama
+27	Kamaswami
+17	Brahman
+7	Sansara
+4	Atman
+2	Brahma

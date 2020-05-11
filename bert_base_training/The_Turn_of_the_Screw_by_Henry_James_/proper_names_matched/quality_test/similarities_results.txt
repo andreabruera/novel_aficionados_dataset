@@ -1,0 +1,192 @@
+Result for the vector: mrs_grose, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.809930063477768
+
+1) mrs_grose_a - 0.809930063477768
+
+2) peter_quint_a - 0.809217238700904
+
+3) miss_flora_a - 0.8019378663264447
+
+4) miles_a - 0.7976459385367682
+
+5) miss_jessel_a - 0.7640833118011555
+
+6) bly_a - 0.6831165959308515
+
+Result for the vector: miles, coming from part i of the book
+Rank: 2 out of 6 characters
+Cosine similarity to the co-referring vector: 0.886154002776505
+
+1) peter_quint_a - 0.8949784903221877
+
+2) miles_a - 0.886154002776505
+
+3) mrs_grose_a - 0.8787670587023629
+
+4) miss_flora_a - 0.8695599359011628
+
+5) miss_jessel_a - 0.8588402187132981
+
+6) bly_a - 0.7270526723297056
+
+Result for the vector: miss_flora, coming from part i of the book
+Rank: 2 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8514302195823454
+
+1) mrs_grose_a - 0.859602724242699
+
+2) miss_flora_a - 0.8514302195823454
+
+3) peter_quint_a - 0.8429802217763864
+
+4) miles_a - 0.8273337483406126
+
+5) miss_jessel_a - 0.8013649346071404
+
+6) bly_a - 0.7069604047489648
+
+Result for the vector: peter_quint, coming from part i of the book
+Rank: 3 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8696726819775311
+
+1) miss_flora_a - 0.8720453901317964
+
+2) mrs_grose_a - 0.8718287792001761
+
+3) peter_quint_a - 0.8696726819775311
+
+4) miles_a - 0.8539273825927164
+
+5) miss_jessel_a - 0.8272070781711998
+
+6) bly_a - 0.7519491763084649
+
+Result for the vector: miss_jessel, coming from part i of the book
+Rank: 4 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8500810340167636
+
+1) miles_a - 0.8728106281999037
+
+2) mrs_grose_a - 0.8600067502274295
+
+3) peter_quint_a - 0.8598004412413185
+
+4) miss_jessel_a - 0.8500810340167636
+
+5) miss_flora_a - 0.8426192466347291
+
+6) bly_a - 0.715449201382578
+
+Result for the vector: bly, coming from part i of the book
+Rank: 6 out of 6 characters
+Cosine similarity to the co-referring vector: 0.7457760420904198
+
+1) miles_a - 0.8270785911632439
+
+2) peter_quint_a - 0.8082311990329984
+
+3) miss_jessel_a - 0.8011615753866195
+
+4) mrs_grose_a - 0.7917964210267625
+
+5) miss_flora_a - 0.7803419101442058
+
+6) bly_a - 0.7457760420904198
+
+Result for the vector: mrs_grose, coming from part a of the book
+Rank: 5 out of 6 characters
+Cosine similarity to the co-referring vector: 0.809930063477768
+
+1) miles_wiki - 0.8787670587023629
+
+2) peter_quint_wiki - 0.8718287792001761
+
+3) miss_jessel_wiki - 0.8600067502274295
+
+4) miss_flora_wiki - 0.859602724242699
+
+5) mrs_grose_wiki - 0.809930063477768
+
+6) bly_wiki - 0.7917964210267625
+
+Result for the vector: miles, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.886154002776505
+
+1) miles_wiki - 0.886154002776505
+
+2) miss_jessel_wiki - 0.8728106281999037
+
+3) peter_quint_wiki - 0.8539273825927164
+
+4) miss_flora_wiki - 0.8273337483406126
+
+5) bly_wiki - 0.8270785911632439
+
+6) mrs_grose_wiki - 0.7976459385367682
+
+Result for the vector: miss_flora, coming from part a of the book
+Rank: 3 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8514302195823454
+
+1) peter_quint_wiki - 0.8720453901317964
+
+2) miles_wiki - 0.8695599359011628
+
+3) miss_flora_wiki - 0.8514302195823454
+
+4) miss_jessel_wiki - 0.8426192466347291
+
+5) mrs_grose_wiki - 0.8019378663264447
+
+6) bly_wiki - 0.7803419101442058
+
+Result for the vector: peter_quint, coming from part a of the book
+Rank: 2 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8696726819775311
+
+1) miles_wiki - 0.8949784903221877
+
+2) peter_quint_wiki - 0.8696726819775311
+
+3) miss_jessel_wiki - 0.8598004412413185
+
+4) miss_flora_wiki - 0.8429802217763864
+
+5) mrs_grose_wiki - 0.809217238700904
+
+6) bly_wiki - 0.8082311990329984
+
+Result for the vector: miss_jessel, coming from part a of the book
+Rank: 2 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8500810340167636
+
+1) miles_wiki - 0.8588402187132981
+
+2) miss_jessel_wiki - 0.8500810340167636
+
+3) peter_quint_wiki - 0.8272070781711998
+
+4) miss_flora_wiki - 0.8013649346071404
+
+5) bly_wiki - 0.8011615753866195
+
+6) mrs_grose_wiki - 0.7640833118011555
+
+Result for the vector: bly, coming from part a of the book
+Rank: 2 out of 6 characters
+Cosine similarity to the co-referring vector: 0.7457760420904198
+
+1) peter_quint_wiki - 0.7519491763084649
+
+2) bly_wiki - 0.7457760420904198
+
+3) miles_wiki - 0.7270526723297056
+
+4) miss_jessel_wiki - 0.715449201382578
+
+5) miss_flora_wiki - 0.7069604047489648
+
+6) mrs_grose_wiki - 0.6831165959308515
+

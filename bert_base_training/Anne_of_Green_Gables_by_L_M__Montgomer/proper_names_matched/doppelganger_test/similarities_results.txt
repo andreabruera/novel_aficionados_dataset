@@ -1,0 +1,1932 @@
+Result for the vector: anne_shirley, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9719529814832255
+
+1) anne_shirley_b - 0.9719529814832255
+
+2) josie_pye_b - 0.9690995290042093
+
+3) ruby_gillis_b - 0.9658275287357007
+
+4) jane_andrews_b - 0.9555231981845925
+
+5) mrs_rachel_lynde_b - 0.9542571929540076
+
+6) miss_stacy_b - 0.9530787523891097
+
+7) diana_barry_b - 0.94817319975736
+
+8) gilbert_blythe_b - 0.9448760184719702
+
+9) matthew_cuthbert_b - 0.9388858748810507
+
+10) geraldine_b - 0.9355653601210947
+
+11) charlie_sloane_b - 0.9306794487620124
+
+12) mrs_thomas_b - 0.9129158414156737
+
+13) lady_cordelia_fitzgerald_b - 0.9124261349615729
+
+14) minnie_may_b - 0.902852189200862
+
+15) miss_marilla_cuthbert_b - 0.8876724641616028
+
+16) mr_phillips_b - 0.8839230939218714
+
+17) mr_william_bell_b - 0.8836807941293672
+
+18) mrs_alexander_spencer_b - 0.8655494772077853
+
+19) gil_b - 0.8597617483707074
+
+20) prissy_andrews_b - 0.8186265934332386
+
+21) carmody_b - 0.8111239896864961
+
+Result for the vector: miss_marilla_cuthbert, coming from part a of the book
+Rank: 14 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9090997414171298
+
+1) anne_shirley_b - 0.9661993672311465
+
+2) diana_barry_b - 0.9604206610478221
+
+3) josie_pye_b - 0.9597201633370317
+
+4) ruby_gillis_b - 0.9597022175345256
+
+5) gilbert_blythe_b - 0.9564210979624931
+
+6) charlie_sloane_b - 0.9538365831727764
+
+7) jane_andrews_b - 0.9528540600618916
+
+8) mrs_rachel_lynde_b - 0.9526419838814144
+
+9) miss_stacy_b - 0.9489182455716009
+
+10) matthew_cuthbert_b - 0.9474299173697811
+
+11) geraldine_b - 0.9361499750837751
+
+12) mrs_thomas_b - 0.9181233273259
+
+13) mr_william_bell_b - 0.9162279167718705
+
+14) miss_marilla_cuthbert_b - 0.9090997414171298
+
+15) mr_phillips_b - 0.8971709425159058
+
+16) minnie_may_b - 0.8912531273444285
+
+17) mrs_alexander_spencer_b - 0.8856441642536292
+
+18) lady_cordelia_fitzgerald_b - 0.8842653299649477
+
+19) gil_b - 0.882292118140852
+
+20) prissy_andrews_b - 0.8475163558904709
+
+21) carmody_b - 0.8384566960419355
+
+Result for the vector: diana_barry, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9783296267684964
+
+1) diana_barry_b - 0.9783296267684964
+
+2) ruby_gillis_b - 0.9739938362833181
+
+3) josie_pye_b - 0.9693826455245981
+
+4) mrs_rachel_lynde_b - 0.9667869170650145
+
+5) miss_stacy_b - 0.9667088369553605
+
+6) jane_andrews_b - 0.9638434626962835
+
+7) anne_shirley_b - 0.956136646501041
+
+8) gilbert_blythe_b - 0.9489496885478125
+
+9) charlie_sloane_b - 0.9464486209421544
+
+10) matthew_cuthbert_b - 0.9315939504858243
+
+11) mr_william_bell_b - 0.928999323993821
+
+12) geraldine_b - 0.9287025289954279
+
+13) mrs_thomas_b - 0.9202194213867253
+
+14) mrs_alexander_spencer_b - 0.9167444159541028
+
+15) mr_phillips_b - 0.9076060868149481
+
+16) minnie_may_b - 0.8967422185386565
+
+17) lady_cordelia_fitzgerald_b - 0.895367092170307
+
+18) miss_marilla_cuthbert_b - 0.8917667470961885
+
+19) gil_b - 0.8851995536566188
+
+20) carmody_b - 0.8394868278197558
+
+21) prissy_andrews_b - 0.8371779128525153
+
+Result for the vector: matthew_cuthbert, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9704258441925049
+
+1) matthew_cuthbert_b - 0.9704258441925049
+
+2) gilbert_blythe_b - 0.9661313871223578
+
+3) anne_shirley_b - 0.9587763597039816
+
+4) josie_pye_b - 0.9587285567845703
+
+5) ruby_gillis_b - 0.9576800465583801
+
+6) charlie_sloane_b - 0.9553216099739075
+
+7) jane_andrews_b - 0.9531008005142212
+
+8) miss_stacy_b - 0.9518980979919434
+
+9) mrs_rachel_lynde_b - 0.9482032625796373
+
+10) diana_barry_b - 0.9424413723481114
+
+11) geraldine_b - 0.9315998554229736
+
+12) mr_phillips_b - 0.924961177258527
+
+13) mrs_thomas_b - 0.924594764435605
+
+14) mr_william_bell_b - 0.8993936985189085
+
+15) gil_b - 0.895977628710559
+
+16) minnie_may_b - 0.8899749517440796
+
+17) miss_marilla_cuthbert_b - 0.8871503736719605
+
+18) lady_cordelia_fitzgerald_b - 0.8824914833913527
+
+19) mrs_alexander_spencer_b - 0.8756126909717752
+
+20) prissy_andrews_b - 0.8363225958539617
+
+21) carmody_b - 0.8268333673477173
+
+Result for the vector: mrs_rachel_lynde, coming from part a of the book
+Rank: 5 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9586771105931484
+
+1) anne_shirley_b - 0.9717518720922692
+
+2) josie_pye_b - 0.96754300981248
+
+3) ruby_gillis_b - 0.9599193930625916
+
+4) gilbert_blythe_b - 0.9597085690324663
+
+5) mrs_rachel_lynde_b - 0.9586771105931484
+
+6) matthew_cuthbert_b - 0.9574096202850342
+
+7) miss_stacy_b - 0.9556392431259155
+
+8) diana_barry_b - 0.9512781188272873
+
+9) jane_andrews_b - 0.9499972462654114
+
+10) geraldine_b - 0.9396211504936218
+
+11) charlie_sloane_b - 0.9384242296218872
+
+12) mrs_thomas_b - 0.9076067860360886
+
+13) lady_cordelia_fitzgerald_b - 0.9044516200480979
+
+14) miss_marilla_cuthbert_b - 0.9043292672732258
+
+15) minnie_may_b - 0.9004387259483337
+
+16) mr_william_bell_b - 0.8899231752684607
+
+17) mr_phillips_b - 0.8860670592208825
+
+18) mrs_alexander_spencer_b - 0.8689319051585372
+
+19) gil_b - 0.8617783949639387
+
+20) prissy_andrews_b - 0.8325564761493505
+
+21) carmody_b - 0.8147789239883423
+
+Result for the vector: gilbert_blythe, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9837554077810535
+
+1) gilbert_blythe_b - 0.9837554077810535
+
+2) matthew_cuthbert_b - 0.9713910205001265
+
+3) josie_pye_b - 0.9567472960503673
+
+4) charlie_sloane_b - 0.9501684278350149
+
+5) ruby_gillis_b - 0.9477216570211461
+
+6) miss_stacy_b - 0.9468874303631459
+
+7) mrs_rachel_lynde_b - 0.9455750519722762
+
+8) jane_andrews_b - 0.9448958006439107
+
+9) geraldine_b - 0.9403557741854073
+
+10) diana_barry_b - 0.9371576551041895
+
+11) anne_shirley_b - 0.9368616380178102
+
+12) mr_phillips_b - 0.9347995163321067
+
+13) mrs_thomas_b - 0.9120762348175113
+
+14) mr_william_bell_b - 0.8997928648878437
+
+15) miss_marilla_cuthbert_b - 0.896810492588028
+
+16) minnie_may_b - 0.8940854009440796
+
+17) gil_b - 0.8801587891484169
+
+18) mrs_alexander_spencer_b - 0.8678870875902859
+
+19) lady_cordelia_fitzgerald_b - 0.8624217592226548
+
+20) prissy_andrews_b - 0.8582126329198638
+
+21) carmody_b - 0.8345101377076007
+
+Result for the vector: jane_andrews, coming from part a of the book
+Rank: 6 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9462805358338692
+
+1) ruby_gillis_b - 0.9538497301250553
+
+2) miss_stacy_b - 0.950942692216797
+
+3) mrs_rachel_lynde_b - 0.9483171043774014
+
+4) josie_pye_b - 0.9476529391018936
+
+5) diana_barry_b - 0.9476139200580649
+
+6) jane_andrews_b - 0.9462805358338692
+
+7) anne_shirley_b - 0.9364449419710225
+
+8) gilbert_blythe_b - 0.9353371781512712
+
+9) charlie_sloane_b - 0.9338464697507917
+
+10) matthew_cuthbert_b - 0.9143291064696988
+
+11) mr_william_bell_b - 0.9076705139384443
+
+12) geraldine_b - 0.9046723785801175
+
+13) mrs_alexander_spencer_b - 0.9012743293479629
+
+14) mrs_thomas_b - 0.8998889923095768
+
+15) mr_phillips_b - 0.898966750410207
+
+16) minnie_may_b - 0.8784407304788087
+
+17) lady_cordelia_fitzgerald_b - 0.8762531950323009
+
+18) miss_marilla_cuthbert_b - 0.8658213197429172
+
+19) gil_b - 0.8551325884382511
+
+20) prissy_andrews_b - 0.8113839401464391
+
+21) carmody_b - 0.800555276903826
+
+Result for the vector: josie_pye, coming from part a of the book
+Rank: 5 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9069538823421206
+
+1) mr_william_bell_b - 0.9287376638118361
+
+2) diana_barry_b - 0.9241878665741646
+
+3) anne_shirley_b - 0.9157350759822105
+
+4) ruby_gillis_b - 0.9087115526199341
+
+5) josie_pye_b - 0.9069538823421206
+
+6) charlie_sloane_b - 0.9049919247627258
+
+7) jane_andrews_b - 0.8959048390388489
+
+8) mrs_rachel_lynde_b - 0.8929689462762459
+
+9) mrs_alexander_spencer_b - 0.8899565470270522
+
+10) gilbert_blythe_b - 0.888084941392241
+
+11) geraldine_b - 0.8856492042541504
+
+12) miss_marilla_cuthbert_b - 0.8852959539084425
+
+13) miss_stacy_b - 0.8777978420257568
+
+14) matthew_cuthbert_b - 0.8708862662315369
+
+15) mrs_thomas_b - 0.8604659521302028
+
+16) gil_b - 0.8437711186681904
+
+17) mr_phillips_b - 0.8334700713595773
+
+18) minnie_may_b - 0.8314346671104431
+
+19) carmody_b - 0.8260535001754761
+
+20) lady_cordelia_fitzgerald_b - 0.8216201875662639
+
+21) prissy_andrews_b - 0.8162719497842773
+
+Result for the vector: ruby_gillis, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9614931344985962
+
+1) ruby_gillis_b - 0.9614931344985962
+
+2) mrs_rachel_lynde_b - 0.9537395807349449
+
+3) miss_stacy_b - 0.9528914093971252
+
+4) josie_pye_b - 0.9519014415858525
+
+5) jane_andrews_b - 0.9516049027442932
+
+6) gilbert_blythe_b - 0.93116736001774
+
+7) charlie_sloane_b - 0.9192472100257874
+
+8) diana_barry_b - 0.918687072953197
+
+9) matthew_cuthbert_b - 0.9141510128974915
+
+10) lady_cordelia_fitzgerald_b - 0.9093420017550055
+
+11) anne_shirley_b - 0.9046365136341501
+
+12) geraldine_b - 0.9039390087127686
+
+13) minnie_may_b - 0.900439441204071
+
+14) mr_phillips_b - 0.8922248152561435
+
+15) mrs_thomas_b - 0.8836013744115025
+
+16) mrs_alexander_spencer_b - 0.8574974706772066
+
+17) mr_william_bell_b - 0.8539772201160125
+
+18) gil_b - 0.8236983032586271
+
+19) miss_marilla_cuthbert_b - 0.812054181458181
+
+20) prissy_andrews_b - 0.8016210080159325
+
+21) carmody_b - 0.756501317024231
+
+Result for the vector: miss_stacy, coming from part a of the book
+Rank: 4 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8308557372775249
+
+1) ruby_gillis_b - 0.8464191647518194
+
+2) jane_andrews_b - 0.839254806086136
+
+3) josie_pye_b - 0.8383751204535165
+
+4) miss_stacy_b - 0.8308557372775249
+
+5) mrs_rachel_lynde_b - 0.8251803517341673
+
+6) diana_barry_b - 0.812501883134193
+
+7) lady_cordelia_fitzgerald_b - 0.8109398822295891
+
+8) minnie_may_b - 0.8081898207551362
+
+9) gilbert_blythe_b - 0.8046603202819881
+
+10) charlie_sloane_b - 0.7960296394807329
+
+11) geraldine_b - 0.7809732686893197
+
+12) anne_shirley_b - 0.7761894268650855
+
+13) mrs_thomas_b - 0.7614947841769714
+
+14) matthew_cuthbert_b - 0.7570344950536207
+
+15) mr_william_bell_b - 0.751091025802234
+
+16) mrs_alexander_spencer_b - 0.7447956064708949
+
+17) mr_phillips_b - 0.7328647156696135
+
+18) miss_marilla_cuthbert_b - 0.6941871436182544
+
+19) gil_b - 0.6893778998772098
+
+20) carmody_b - 0.6784951282444532
+
+21) prissy_andrews_b - 0.6519628167152451
+
+Result for the vector: mr_phillips, coming from part a of the book
+Rank: 10 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9414053524378152
+
+1) gilbert_blythe_b - 0.9761244931332318
+
+2) miss_stacy_b - 0.9680742313883974
+
+3) mrs_rachel_lynde_b - 0.9677008063525687
+
+4) josie_pye_b - 0.9664689034400478
+
+5) matthew_cuthbert_b - 0.9649375964682583
+
+6) jane_andrews_b - 0.9591824698204543
+
+7) ruby_gillis_b - 0.9591340708474543
+
+8) charlie_sloane_b - 0.9582597302871866
+
+9) diana_barry_b - 0.9446050491693645
+
+10) mr_phillips_b - 0.9414053524378152
+
+11) anne_shirley_b - 0.9387080426179236
+
+12) geraldine_b - 0.9316383877884865
+
+13) mrs_thomas_b - 0.9143410648601966
+
+14) mr_william_bell_b - 0.9010263563425982
+
+15) minnie_may_b - 0.8961732058576709
+
+16) miss_marilla_cuthbert_b - 0.8910735184594106
+
+17) mrs_alexander_spencer_b - 0.8890078465037582
+
+18) gil_b - 0.880536835145647
+
+19) lady_cordelia_fitzgerald_b - 0.874577324875246
+
+20) prissy_andrews_b - 0.8563774397710661
+
+21) carmody_b - 0.8235634810794441
+
+Result for the vector: mrs_alexander_spencer, coming from part a of the book
+Rank: 15 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8933243346230402
+
+1) miss_stacy_b - 0.9752641931018732
+
+2) mrs_rachel_lynde_b - 0.9742352962493965
+
+3) josie_pye_b - 0.9691441710333536
+
+4) ruby_gillis_b - 0.9667021652041592
+
+5) jane_andrews_b - 0.9636442682955122
+
+6) diana_barry_b - 0.9553112698998707
+
+7) gilbert_blythe_b - 0.9478030800819465
+
+8) anne_shirley_b - 0.9467919564023113
+
+9) charlie_sloane_b - 0.9408096706384633
+
+10) matthew_cuthbert_b - 0.9361723699466978
+
+11) geraldine_b - 0.9302499931901714
+
+12) mrs_thomas_b - 0.9287750209838127
+
+13) mr_phillips_b - 0.9213428222732932
+
+14) minnie_may_b - 0.9058926757638067
+
+15) mrs_alexander_spencer_b - 0.8933243346230402
+
+16) lady_cordelia_fitzgerald_b - 0.8913184002664581
+
+17) miss_marilla_cuthbert_b - 0.8909631702016875
+
+18) mr_william_bell_b - 0.8906073835673247
+
+19) gil_b - 0.8802429651779611
+
+20) prissy_andrews_b - 0.8608326911926331
+
+21) carmody_b - 0.8303192359018796
+
+Result for the vector: mrs_thomas, coming from part a of the book
+Rank: 11 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9190245415524484
+
+1) mrs_rachel_lynde_b - 0.9630446456048257
+
+2) josie_pye_b - 0.9597565031632177
+
+3) ruby_gillis_b - 0.9569311789356325
+
+4) diana_barry_b - 0.9551949243073339
+
+5) miss_stacy_b - 0.9551671796837898
+
+6) jane_andrews_b - 0.9478149476271998
+
+7) anne_shirley_b - 0.9400743984998706
+
+8) charlie_sloane_b - 0.9337338884194096
+
+9) gilbert_blythe_b - 0.9315512221127169
+
+10) geraldine_b - 0.9296531761106108
+
+11) mrs_thomas_b - 0.9190245415524484
+
+12) matthew_cuthbert_b - 0.9189189769126269
+
+13) mr_william_bell_b - 0.9039815990930515
+
+14) mr_phillips_b - 0.8997210651885611
+
+15) miss_marilla_cuthbert_b - 0.8996691495476034
+
+16) mrs_alexander_spencer_b - 0.8990829827587645
+
+17) gil_b - 0.8776109510395643
+
+18) lady_cordelia_fitzgerald_b - 0.8774947220099635
+
+19) minnie_may_b - 0.8733590992261115
+
+20) prissy_andrews_b - 0.8641282401008601
+
+21) carmody_b - 0.8367104724990818
+
+Result for the vector: carmody, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9328329007129149
+
+1) carmody_b - 0.9328329007129149
+
+2) diana_barry_b - 0.7702044019042165
+
+3) mrs_rachel_lynde_b - 0.7688030600547845
+
+4) mr_william_bell_b - 0.7589394080322889
+
+5) mrs_thomas_b - 0.7561328105768191
+
+6) ruby_gillis_b - 0.7546258118971712
+
+7) miss_stacy_b - 0.7469342501798732
+
+8) gilbert_blythe_b - 0.7446743249893242
+
+9) charlie_sloane_b - 0.7443695220727027
+
+10) jane_andrews_b - 0.7439749393478086
+
+11) josie_pye_b - 0.7406163679451297
+
+12) anne_shirley_b - 0.7392193545306897
+
+13) matthew_cuthbert_b - 0.7381479896218796
+
+14) geraldine_b - 0.7222156094184168
+
+15) gil_b - 0.7210999629914839
+
+16) mr_phillips_b - 0.7127386119145597
+
+17) mrs_alexander_spencer_b - 0.712176910845595
+
+18) minnie_may_b - 0.6986172974933818
+
+19) miss_marilla_cuthbert_b - 0.6942617686312892
+
+20) lady_cordelia_fitzgerald_b - 0.6879229507584076
+
+21) prissy_andrews_b - 0.6575273275375413
+
+Result for the vector: mr_william_bell, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9538082141108742
+
+1) mr_william_bell_b - 0.9538082141108742
+
+2) diana_barry_b - 0.9405976814209728
+
+3) charlie_sloane_b - 0.927727222442627
+
+4) ruby_gillis_b - 0.9258988499641418
+
+5) josie_pye_b - 0.9158868889943559
+
+6) anne_shirley_b - 0.9134256942956877
+
+7) jane_andrews_b - 0.9128355979919434
+
+8) gilbert_blythe_b - 0.9123276419834894
+
+9) mrs_rachel_lynde_b - 0.9108172601948552
+
+10) miss_stacy_b - 0.9066945910453796
+
+11) mrs_alexander_spencer_b - 0.9042351360040806
+
+12) matthew_cuthbert_b - 0.899651288986206
+
+13) mrs_thomas_b - 0.8981120647125221
+
+14) geraldine_b - 0.8839356899261475
+
+15) mr_phillips_b - 0.8741050027044122
+
+16) gil_b - 0.8632682128824996
+
+17) carmody_b - 0.8583716154098511
+
+18) miss_marilla_cuthbert_b - 0.8572023170352676
+
+19) minnie_may_b - 0.8384537696838379
+
+20) lady_cordelia_fitzgerald_b - 0.829853912609355
+
+21) prissy_andrews_b - 0.7927495713680741
+
+Result for the vector: lady_cordelia_fitzgerald, coming from part a of the book
+Rank: 20 out of 21 characters
+Cosine similarity to the co-referring vector: 0.80594041276689
+
+1) anne_shirley_b - 0.912822793385656
+
+2) josie_pye_b - 0.9097650158685492
+
+3) miss_marilla_cuthbert_b - 0.9008370906364055
+
+4) ruby_gillis_b - 0.8965862989425659
+
+5) geraldine_b - 0.8952493071556091
+
+6) miss_stacy_b - 0.8896147608757019
+
+7) jane_andrews_b - 0.8895564079284668
+
+8) mrs_rachel_lynde_b - 0.889300995427431
+
+9) diana_barry_b - 0.8865480091139085
+
+10) gilbert_blythe_b - 0.8826221753729702
+
+11) charlie_sloane_b - 0.8734960556030273
+
+12) mrs_thomas_b - 0.8678953726354035
+
+13) matthew_cuthbert_b - 0.8599357604980469
+
+14) gil_b - 0.8518064794771161
+
+15) mr_william_bell_b - 0.8424505748555612
+
+16) prissy_andrews_b - 0.8385165833542709
+
+17) minnie_may_b - 0.8310165405273438
+
+18) mr_phillips_b - 0.8307855376835331
+
+19) carmody_b - 0.8237814903259277
+
+20) lady_cordelia_fitzgerald_b - 0.80594041276689
+
+21) mrs_alexander_spencer_b - 0.8040768141655008
+
+Result for the vector: charlie_sloane, coming from part a of the book
+Rank: 6 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8822701573371887
+
+1) anne_shirley_b - 0.8909006844877444
+
+2) josie_pye_b - 0.889585448552919
+
+3) ruby_gillis_b - 0.8883583545684814
+
+4) gilbert_blythe_b - 0.88767819927205
+
+5) jane_andrews_b - 0.8830708265304565
+
+6) charlie_sloane_b - 0.8822701573371887
+
+7) mrs_thomas_b - 0.8813549946931023
+
+8) mrs_rachel_lynde_b - 0.8805058527294325
+
+9) miss_stacy_b - 0.8757559061050415
+
+10) matthew_cuthbert_b - 0.8715000748634338
+
+11) diana_barry_b - 0.8634149689500028
+
+12) geraldine_b - 0.8620238304138184
+
+13) mr_phillips_b - 0.8586729424796389
+
+14) gil_b - 0.8542562896899892
+
+15) mr_william_bell_b - 0.8506484196169786
+
+16) miss_marilla_cuthbert_b - 0.8401310098210282
+
+17) minnie_may_b - 0.8205746412277222
+
+18) mrs_alexander_spencer_b - 0.8037821288368605
+
+19) lady_cordelia_fitzgerald_b - 0.8021513459502103
+
+20) prissy_andrews_b - 0.792963552055572
+
+21) carmody_b - 0.7923862934112549
+
+Result for the vector: prissy_andrews, coming from part a of the book
+Rank: 20 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8561883058435872
+
+1) josie_pye_b - 0.959620962233314
+
+2) jane_andrews_b - 0.9540880973234128
+
+3) ruby_gillis_b - 0.9526432809062929
+
+4) mrs_rachel_lynde_b - 0.9484768540575147
+
+5) miss_stacy_b - 0.9435559578471301
+
+6) anne_shirley_b - 0.9379172473151094
+
+7) diana_barry_b - 0.9367210027527016
+
+8) charlie_sloane_b - 0.9361190872050487
+
+9) gilbert_blythe_b - 0.9341371098675215
+
+10) geraldine_b - 0.9219186399080056
+
+11) mrs_thomas_b - 0.9166668206453065
+
+12) matthew_cuthbert_b - 0.910642217321138
+
+13) mr_phillips_b - 0.9022468117850989
+
+14) gil_b - 0.8935308710263082
+
+15) miss_marilla_cuthbert_b - 0.8917564548471858
+
+16) minnie_may_b - 0.8846200246071849
+
+17) mr_william_bell_b - 0.8830897544893888
+
+18) lady_cordelia_fitzgerald_b - 0.8819748444617166
+
+19) mrs_alexander_spencer_b - 0.8678543286670855
+
+20) prissy_andrews_b - 0.8561883058435872
+
+21) carmody_b - 0.8372233108015942
+
+Result for the vector: minnie_may, coming from part a of the book
+Rank: 14 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8864303827285767
+
+1) josie_pye_b - 0.9498471677485572
+
+2) mrs_rachel_lynde_b - 0.9482204287183558
+
+3) ruby_gillis_b - 0.9414983987808228
+
+4) miss_stacy_b - 0.9405050277709961
+
+5) jane_andrews_b - 0.9369851350784302
+
+6) anne_shirley_b - 0.9334974368217729
+
+7) gilbert_blythe_b - 0.9331917722935558
+
+8) diana_barry_b - 0.9304485598340205
+
+9) geraldine_b - 0.9152886867523193
+
+10) charlie_sloane_b - 0.913668692111969
+
+11) matthew_cuthbert_b - 0.9087328910827637
+
+12) miss_marilla_cuthbert_b - 0.9010770589434228
+
+13) mrs_thomas_b - 0.8940375510431812
+
+14) minnie_may_b - 0.8864303827285767
+
+15) lady_cordelia_fitzgerald_b - 0.8763886837496004
+
+16) mr_phillips_b - 0.8759172223781716
+
+17) mr_william_bell_b - 0.8657131969076307
+
+18) gil_b - 0.8581325580915801
+
+19) prissy_andrews_b - 0.8484009413958172
+
+20) mrs_alexander_spencer_b - 0.8440342731435033
+
+21) carmody_b - 0.8266791105270386
+
+Result for the vector: geraldine, coming from part a of the book
+Rank: 15 out of 21 characters
+Cosine similarity to the co-referring vector: 0.6752718091011047
+
+1) anne_shirley_b - 0.7077970853093811
+
+2) josie_pye_b - 0.6940076119890725
+
+3) mrs_thomas_b - 0.6928928677503557
+
+4) mrs_rachel_lynde_b - 0.6925822313178928
+
+5) charlie_sloane_b - 0.6913170218467712
+
+6) ruby_gillis_b - 0.6907420754432678
+
+7) miss_marilla_cuthbert_b - 0.6892900672343396
+
+8) gil_b - 0.6891111506091225
+
+9) miss_stacy_b - 0.6870887279510498
+
+10) gilbert_blythe_b - 0.68431095387405
+
+11) jane_andrews_b - 0.6837674975395203
+
+12) diana_barry_b - 0.6826664412816301
+
+13) carmody_b - 0.6798022389411926
+
+14) matthew_cuthbert_b - 0.6768147945404053
+
+15) geraldine_b - 0.6752718091011047
+
+16) mr_phillips_b - 0.662010451019122
+
+17) mr_william_bell_b - 0.6531827437743044
+
+18) lady_cordelia_fitzgerald_b - 0.6289366329983955
+
+19) minnie_may_b - 0.6277666091918945
+
+20) prissy_andrews_b - 0.6274452583459185
+
+21) mrs_alexander_spencer_b - 0.608413087318772
+
+Result for the vector: gil, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8808940052986396
+
+1) gil_b - 0.8808940052986396
+
+2) anne_shirley_b - 0.8637673854828126
+
+3) jane_andrews_b - 0.846327703753442
+
+4) josie_pye_b - 0.8424109220505
+
+5) ruby_gillis_b - 0.8416127969757137
+
+6) mrs_rachel_lynde_b - 0.8387298295610853
+
+7) miss_stacy_b - 0.8348051112657977
+
+8) charlie_sloane_b - 0.8333275119456722
+
+9) mrs_thomas_b - 0.8321570057962673
+
+10) miss_marilla_cuthbert_b - 0.8197256356068935
+
+11) gilbert_blythe_b - 0.815740671588304
+
+12) diana_barry_b - 0.8153157853060673
+
+13) matthew_cuthbert_b - 0.8068243630915178
+
+14) mr_phillips_b - 0.7936326255846987
+
+15) geraldine_b - 0.7905114639415158
+
+16) mr_william_bell_b - 0.7829910958092714
+
+17) mrs_alexander_spencer_b - 0.7674862146377781
+
+18) carmody_b - 0.7560667700847167
+
+19) minnie_may_b - 0.7532093826782021
+
+20) prissy_andrews_b - 0.7497190385554515
+
+21) lady_cordelia_fitzgerald_b - 0.7495779991150116
+
+Result for the vector: anne_shirley, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9719529814832255
+
+1) anne_shirley_a - 0.9719529814832255
+
+2) mrs_rachel_lynde_a - 0.9717518720922692
+
+3) miss_marilla_cuthbert_a - 0.9661993672311465
+
+4) matthew_cuthbert_a - 0.9587763597039816
+
+5) diana_barry_a - 0.956136646501041
+
+6) mrs_alexander_spencer_a - 0.9467919564023113
+
+7) mrs_thomas_a - 0.9400743984998706
+
+8) mr_phillips_a - 0.9387080426179236
+
+9) prissy_andrews_a - 0.9379172473151094
+
+10) gilbert_blythe_a - 0.9368616380178102
+
+11) jane_andrews_a - 0.9364449419710225
+
+12) minnie_may_a - 0.9334974368217729
+
+13) josie_pye_a - 0.9157350759822105
+
+14) mr_william_bell_a - 0.9134256942956877
+
+15) lady_cordelia_fitzgerald_a - 0.912822793385656
+
+16) ruby_gillis_a - 0.9046365136341501
+
+17) charlie_sloane_a - 0.8909006844877444
+
+18) gil_a - 0.8637673854828126
+
+19) miss_stacy_a - 0.7761894268650855
+
+20) carmody_a - 0.7392193545306897
+
+21) geraldine_a - 0.7077970853093811
+
+Result for the vector: miss_marilla_cuthbert, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9090997414171298
+
+1) miss_marilla_cuthbert_a - 0.9090997414171298
+
+2) mrs_rachel_lynde_a - 0.9043292672732258
+
+3) minnie_may_a - 0.9010770589434228
+
+4) lady_cordelia_fitzgerald_a - 0.9008370906364055
+
+5) mrs_thomas_a - 0.8996691495476034
+
+6) gilbert_blythe_a - 0.896810492588028
+
+7) diana_barry_a - 0.8917667470961885
+
+8) prissy_andrews_a - 0.8917564548471858
+
+9) mr_phillips_a - 0.8910735184594106
+
+10) mrs_alexander_spencer_a - 0.8909631702016875
+
+11) anne_shirley_a - 0.8876724641616028
+
+12) matthew_cuthbert_a - 0.8871503736719605
+
+13) josie_pye_a - 0.8852959539084425
+
+14) jane_andrews_a - 0.8658213197429172
+
+15) mr_william_bell_a - 0.8572023170352676
+
+16) charlie_sloane_a - 0.8401310098210282
+
+17) gil_a - 0.8197256356068935
+
+18) ruby_gillis_a - 0.812054181458181
+
+19) carmody_a - 0.6942617686312892
+
+20) miss_stacy_a - 0.6941871436182544
+
+21) geraldine_a - 0.6892900672343396
+
+Result for the vector: diana_barry, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9783296267684964
+
+1) diana_barry_a - 0.9783296267684964
+
+2) miss_marilla_cuthbert_a - 0.9604206610478221
+
+3) mrs_alexander_spencer_a - 0.9553112698998707
+
+4) mrs_thomas_a - 0.9551949243073339
+
+5) mrs_rachel_lynde_a - 0.9512781188272873
+
+6) anne_shirley_a - 0.94817319975736
+
+7) jane_andrews_a - 0.9476139200580649
+
+8) mr_phillips_a - 0.9446050491693645
+
+9) matthew_cuthbert_a - 0.9424413723481114
+
+10) mr_william_bell_a - 0.9405976814209728
+
+11) gilbert_blythe_a - 0.9371576551041895
+
+12) prissy_andrews_a - 0.9367210027527016
+
+13) minnie_may_a - 0.9304485598340205
+
+14) josie_pye_a - 0.9241878665741646
+
+15) ruby_gillis_a - 0.918687072953197
+
+16) lady_cordelia_fitzgerald_a - 0.8865480091139085
+
+17) charlie_sloane_a - 0.8634149689500028
+
+18) gil_a - 0.8153157853060673
+
+19) miss_stacy_a - 0.812501883134193
+
+20) carmody_a - 0.7702044019042165
+
+21) geraldine_a - 0.6826664412816301
+
+Result for the vector: matthew_cuthbert, coming from part b of the book
+Rank: 2 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9704258441925049
+
+1) gilbert_blythe_a - 0.9713910205001265
+
+2) matthew_cuthbert_a - 0.9704258441925049
+
+3) mr_phillips_a - 0.9649375964682583
+
+4) mrs_rachel_lynde_a - 0.9574096202850342
+
+5) miss_marilla_cuthbert_a - 0.9474299173697811
+
+6) anne_shirley_a - 0.9388858748810507
+
+7) mrs_alexander_spencer_a - 0.9361723699466978
+
+8) diana_barry_a - 0.9315939504858243
+
+9) mrs_thomas_a - 0.9189189769126269
+
+10) jane_andrews_a - 0.9143291064696988
+
+11) ruby_gillis_a - 0.9141510128974915
+
+12) prissy_andrews_a - 0.910642217321138
+
+13) minnie_may_a - 0.9087328910827637
+
+14) mr_william_bell_a - 0.899651288986206
+
+15) charlie_sloane_a - 0.8715000748634338
+
+16) josie_pye_a - 0.8708862662315369
+
+17) lady_cordelia_fitzgerald_a - 0.8599357604980469
+
+18) gil_a - 0.8068243630915178
+
+19) miss_stacy_a - 0.7570344950536207
+
+20) carmody_a - 0.7381479896218796
+
+21) geraldine_a - 0.6768147945404053
+
+Result for the vector: mrs_rachel_lynde, coming from part b of the book
+Rank: 5 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9586771105931484
+
+1) mrs_alexander_spencer_a - 0.9742352962493965
+
+2) mr_phillips_a - 0.9677008063525687
+
+3) diana_barry_a - 0.9667869170650145
+
+4) mrs_thomas_a - 0.9630446456048257
+
+5) mrs_rachel_lynde_a - 0.9586771105931484
+
+6) anne_shirley_a - 0.9542571929540076
+
+7) ruby_gillis_a - 0.9537395807349449
+
+8) miss_marilla_cuthbert_a - 0.9526419838814144
+
+9) prissy_andrews_a - 0.9484768540575147
+
+10) jane_andrews_a - 0.9483171043774014
+
+11) minnie_may_a - 0.9482204287183558
+
+12) matthew_cuthbert_a - 0.9482032625796373
+
+13) gilbert_blythe_a - 0.9455750519722762
+
+14) mr_william_bell_a - 0.9108172601948552
+
+15) josie_pye_a - 0.8929689462762459
+
+16) lady_cordelia_fitzgerald_a - 0.889300995427431
+
+17) charlie_sloane_a - 0.8805058527294325
+
+18) gil_a - 0.8387298295610853
+
+19) miss_stacy_a - 0.8251803517341673
+
+20) carmody_a - 0.7688030600547845
+
+21) geraldine_a - 0.6925822313178928
+
+Result for the vector: gilbert_blythe, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9837554077810535
+
+1) gilbert_blythe_a - 0.9837554077810535
+
+2) mr_phillips_a - 0.9761244931332318
+
+3) matthew_cuthbert_a - 0.9661313871223578
+
+4) mrs_rachel_lynde_a - 0.9597085690324663
+
+5) miss_marilla_cuthbert_a - 0.9564210979624931
+
+6) diana_barry_a - 0.9489496885478125
+
+7) mrs_alexander_spencer_a - 0.9478030800819465
+
+8) anne_shirley_a - 0.9448760184719702
+
+9) jane_andrews_a - 0.9353371781512712
+
+10) prissy_andrews_a - 0.9341371098675215
+
+11) minnie_may_a - 0.9331917722935558
+
+12) mrs_thomas_a - 0.9315512221127169
+
+13) ruby_gillis_a - 0.93116736001774
+
+14) mr_william_bell_a - 0.9123276419834894
+
+15) josie_pye_a - 0.888084941392241
+
+16) charlie_sloane_a - 0.88767819927205
+
+17) lady_cordelia_fitzgerald_a - 0.8826221753729702
+
+18) gil_a - 0.815740671588304
+
+19) miss_stacy_a - 0.8046603202819881
+
+20) carmody_a - 0.7446743249893242
+
+21) geraldine_a - 0.68431095387405
+
+Result for the vector: jane_andrews, coming from part b of the book
+Rank: 11 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9462805358338692
+
+1) diana_barry_a - 0.9638434626962835
+
+2) mrs_alexander_spencer_a - 0.9636442682955122
+
+3) mr_phillips_a - 0.9591824698204543
+
+4) anne_shirley_a - 0.9555231981845925
+
+5) prissy_andrews_a - 0.9540880973234128
+
+6) matthew_cuthbert_a - 0.9531008005142212
+
+7) miss_marilla_cuthbert_a - 0.9528540600618916
+
+8) ruby_gillis_a - 0.9516049027442932
+
+9) mrs_rachel_lynde_a - 0.9499972462654114
+
+10) mrs_thomas_a - 0.9478149476271998
+
+11) jane_andrews_a - 0.9462805358338692
+
+12) gilbert_blythe_a - 0.9448958006439107
+
+13) minnie_may_a - 0.9369851350784302
+
+14) mr_william_bell_a - 0.9128355979919434
+
+15) josie_pye_a - 0.8959048390388489
+
+16) lady_cordelia_fitzgerald_a - 0.8895564079284668
+
+17) charlie_sloane_a - 0.8830708265304565
+
+18) gil_a - 0.846327703753442
+
+19) miss_stacy_a - 0.839254806086136
+
+20) carmody_a - 0.7439749393478086
+
+21) geraldine_a - 0.6837674975395203
+
+Result for the vector: josie_pye, coming from part b of the book
+Rank: 16 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9069538823421206
+
+1) diana_barry_a - 0.9693826455245981
+
+2) mrs_alexander_spencer_a - 0.9691441710333536
+
+3) anne_shirley_a - 0.9690995290042093
+
+4) mrs_rachel_lynde_a - 0.96754300981248
+
+5) mr_phillips_a - 0.9664689034400478
+
+6) mrs_thomas_a - 0.9597565031632177
+
+7) miss_marilla_cuthbert_a - 0.9597201633370317
+
+8) prissy_andrews_a - 0.959620962233314
+
+9) matthew_cuthbert_a - 0.9587285567845703
+
+10) gilbert_blythe_a - 0.9567472960503673
+
+11) ruby_gillis_a - 0.9519014415858525
+
+12) minnie_may_a - 0.9498471677485572
+
+13) jane_andrews_a - 0.9476529391018936
+
+14) mr_william_bell_a - 0.9158868889943559
+
+15) lady_cordelia_fitzgerald_a - 0.9097650158685492
+
+16) josie_pye_a - 0.9069538823421206
+
+17) charlie_sloane_a - 0.889585448552919
+
+18) gil_a - 0.8424109220505
+
+19) miss_stacy_a - 0.8383751204535165
+
+20) carmody_a - 0.7406163679451297
+
+21) geraldine_a - 0.6940076119890725
+
+Result for the vector: ruby_gillis, coming from part b of the book
+Rank: 4 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9614931344985962
+
+1) diana_barry_a - 0.9739938362833181
+
+2) mrs_alexander_spencer_a - 0.9667021652041592
+
+3) anne_shirley_a - 0.9658275287357007
+
+4) ruby_gillis_a - 0.9614931344985962
+
+5) mrs_rachel_lynde_a - 0.9599193930625916
+
+6) miss_marilla_cuthbert_a - 0.9597022175345256
+
+7) mr_phillips_a - 0.9591340708474543
+
+8) matthew_cuthbert_a - 0.9576800465583801
+
+9) mrs_thomas_a - 0.9569311789356325
+
+10) jane_andrews_a - 0.9538497301250553
+
+11) prissy_andrews_a - 0.9526432809062929
+
+12) gilbert_blythe_a - 0.9477216570211461
+
+13) minnie_may_a - 0.9414983987808228
+
+14) mr_william_bell_a - 0.9258988499641418
+
+15) josie_pye_a - 0.9087115526199341
+
+16) lady_cordelia_fitzgerald_a - 0.8965862989425659
+
+17) charlie_sloane_a - 0.8883583545684814
+
+18) miss_stacy_a - 0.8464191647518194
+
+19) gil_a - 0.8416127969757137
+
+20) carmody_a - 0.7546258118971712
+
+21) geraldine_a - 0.6907420754432678
+
+Result for the vector: miss_stacy, coming from part b of the book
+Rank: 19 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8308557372775249
+
+1) mrs_alexander_spencer_a - 0.9752641931018732
+
+2) mr_phillips_a - 0.9680742313883974
+
+3) diana_barry_a - 0.9667088369553605
+
+4) mrs_rachel_lynde_a - 0.9556392431259155
+
+5) mrs_thomas_a - 0.9551671796837898
+
+6) anne_shirley_a - 0.9530787523891097
+
+7) ruby_gillis_a - 0.9528914093971252
+
+8) matthew_cuthbert_a - 0.9518980979919434
+
+9) jane_andrews_a - 0.950942692216797
+
+10) miss_marilla_cuthbert_a - 0.9489182455716009
+
+11) gilbert_blythe_a - 0.9468874303631459
+
+12) prissy_andrews_a - 0.9435559578471301
+
+13) minnie_may_a - 0.9405050277709961
+
+14) mr_william_bell_a - 0.9066945910453796
+
+15) lady_cordelia_fitzgerald_a - 0.8896147608757019
+
+16) josie_pye_a - 0.8777978420257568
+
+17) charlie_sloane_a - 0.8757559061050415
+
+18) gil_a - 0.8348051112657977
+
+19) miss_stacy_a - 0.8308557372775249
+
+20) carmody_a - 0.7469342501798732
+
+21) geraldine_a - 0.6870887279510498
+
+Result for the vector: mr_phillips, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9414053524378152
+
+1) mr_phillips_a - 0.9414053524378152
+
+2) gilbert_blythe_a - 0.9347995163321067
+
+3) matthew_cuthbert_a - 0.924961177258527
+
+4) mrs_alexander_spencer_a - 0.9213428222732932
+
+5) diana_barry_a - 0.9076060868149481
+
+6) prissy_andrews_a - 0.9022468117850989
+
+7) mrs_thomas_a - 0.8997210651885611
+
+8) jane_andrews_a - 0.898966750410207
+
+9) miss_marilla_cuthbert_a - 0.8971709425159058
+
+10) ruby_gillis_a - 0.8922248152561435
+
+11) mrs_rachel_lynde_a - 0.8860670592208825
+
+12) anne_shirley_a - 0.8839230939218714
+
+13) minnie_may_a - 0.8759172223781716
+
+14) mr_william_bell_a - 0.8741050027044122
+
+15) charlie_sloane_a - 0.8586729424796389
+
+16) josie_pye_a - 0.8334700713595773
+
+17) lady_cordelia_fitzgerald_a - 0.8307855376835331
+
+18) gil_a - 0.7936326255846987
+
+19) miss_stacy_a - 0.7328647156696135
+
+20) carmody_a - 0.7127386119145597
+
+21) geraldine_a - 0.662010451019122
+
+Result for the vector: mrs_alexander_spencer, coming from part b of the book
+Rank: 5 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8933243346230402
+
+1) diana_barry_a - 0.9167444159541028
+
+2) mr_william_bell_a - 0.9042351360040806
+
+3) jane_andrews_a - 0.9012743293479629
+
+4) mrs_thomas_a - 0.8990829827587645
+
+5) mrs_alexander_spencer_a - 0.8933243346230402
+
+6) josie_pye_a - 0.8899565470270522
+
+7) mr_phillips_a - 0.8890078465037582
+
+8) miss_marilla_cuthbert_a - 0.8856441642536292
+
+9) matthew_cuthbert_a - 0.8756126909717752
+
+10) mrs_rachel_lynde_a - 0.8689319051585372
+
+11) gilbert_blythe_a - 0.8678870875902859
+
+12) prissy_andrews_a - 0.8678543286670855
+
+13) anne_shirley_a - 0.8655494772077853
+
+14) ruby_gillis_a - 0.8574974706772066
+
+15) minnie_may_a - 0.8440342731435033
+
+16) lady_cordelia_fitzgerald_a - 0.8040768141655008
+
+17) charlie_sloane_a - 0.8037821288368605
+
+18) gil_a - 0.7674862146377781
+
+19) miss_stacy_a - 0.7447956064708949
+
+20) carmody_a - 0.712176910845595
+
+21) geraldine_a - 0.608413087318772
+
+Result for the vector: mrs_thomas, coming from part b of the book
+Rank: 4 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9190245415524484
+
+1) mrs_alexander_spencer_a - 0.9287750209838127
+
+2) matthew_cuthbert_a - 0.924594764435605
+
+3) diana_barry_a - 0.9202194213867253
+
+4) mrs_thomas_a - 0.9190245415524484
+
+5) miss_marilla_cuthbert_a - 0.9181233273259
+
+6) prissy_andrews_a - 0.9166668206453065
+
+7) mr_phillips_a - 0.9143410648601966
+
+8) anne_shirley_a - 0.9129158414156737
+
+9) gilbert_blythe_a - 0.9120762348175113
+
+10) mrs_rachel_lynde_a - 0.9076067860360886
+
+11) jane_andrews_a - 0.8998889923095768
+
+12) mr_william_bell_a - 0.8981120647125221
+
+13) minnie_may_a - 0.8940375510431812
+
+14) ruby_gillis_a - 0.8836013744115025
+
+15) charlie_sloane_a - 0.8813549946931023
+
+16) lady_cordelia_fitzgerald_a - 0.8678953726354035
+
+17) josie_pye_a - 0.8604659521302028
+
+18) gil_a - 0.8321570057962673
+
+19) miss_stacy_a - 0.7614947841769714
+
+20) carmody_a - 0.7561328105768191
+
+21) geraldine_a - 0.6928928677503557
+
+Result for the vector: carmody, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9328329007129149
+
+1) carmody_a - 0.9328329007129149
+
+2) mr_william_bell_a - 0.8583716154098511
+
+3) diana_barry_a - 0.8394868278197558
+
+4) miss_marilla_cuthbert_a - 0.8384566960419355
+
+5) prissy_andrews_a - 0.8372233108015942
+
+6) mrs_thomas_a - 0.8367104724990818
+
+7) gilbert_blythe_a - 0.8345101377076007
+
+8) mrs_alexander_spencer_a - 0.8303192359018796
+
+9) matthew_cuthbert_a - 0.8268333673477173
+
+10) minnie_may_a - 0.8266791105270386
+
+11) josie_pye_a - 0.8260535001754761
+
+12) lady_cordelia_fitzgerald_a - 0.8237814903259277
+
+13) mr_phillips_a - 0.8235634810794441
+
+14) mrs_rachel_lynde_a - 0.8147789239883423
+
+15) anne_shirley_a - 0.8111239896864961
+
+16) jane_andrews_a - 0.800555276903826
+
+17) charlie_sloane_a - 0.7923862934112549
+
+18) ruby_gillis_a - 0.756501317024231
+
+19) gil_a - 0.7560667700847167
+
+20) geraldine_a - 0.6798022389411926
+
+21) miss_stacy_a - 0.6784951282444532
+
+Result for the vector: mr_william_bell, coming from part b of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9538082141108742
+
+1) mr_william_bell_a - 0.9538082141108742
+
+2) diana_barry_a - 0.928999323993821
+
+3) josie_pye_a - 0.9287376638118361
+
+4) miss_marilla_cuthbert_a - 0.9162279167718705
+
+5) jane_andrews_a - 0.9076705139384443
+
+6) mrs_thomas_a - 0.9039815990930515
+
+7) mr_phillips_a - 0.9010263563425982
+
+8) gilbert_blythe_a - 0.8997928648878437
+
+9) matthew_cuthbert_a - 0.8993936985189085
+
+10) mrs_alexander_spencer_a - 0.8906073835673247
+
+11) mrs_rachel_lynde_a - 0.8899231752684607
+
+12) anne_shirley_a - 0.8836807941293672
+
+13) prissy_andrews_a - 0.8830897544893888
+
+14) minnie_may_a - 0.8657131969076307
+
+15) ruby_gillis_a - 0.8539772201160125
+
+16) charlie_sloane_a - 0.8506484196169786
+
+17) lady_cordelia_fitzgerald_a - 0.8424505748555612
+
+18) gil_a - 0.7829910958092714
+
+19) carmody_a - 0.7589394080322889
+
+20) miss_stacy_a - 0.751091025802234
+
+21) geraldine_a - 0.6531827437743044
+
+Result for the vector: lady_cordelia_fitzgerald, coming from part b of the book
+Rank: 17 out of 21 characters
+Cosine similarity to the co-referring vector: 0.80594041276689
+
+1) anne_shirley_a - 0.9124261349615729
+
+2) ruby_gillis_a - 0.9093420017550055
+
+3) mrs_rachel_lynde_a - 0.9044516200480979
+
+4) diana_barry_a - 0.895367092170307
+
+5) mrs_alexander_spencer_a - 0.8913184002664581
+
+6) miss_marilla_cuthbert_a - 0.8842653299649477
+
+7) matthew_cuthbert_a - 0.8824914833913527
+
+8) prissy_andrews_a - 0.8819748444617166
+
+9) mrs_thomas_a - 0.8774947220099635
+
+10) minnie_may_a - 0.8763886837496004
+
+11) jane_andrews_a - 0.8762531950323009
+
+12) mr_phillips_a - 0.874577324875246
+
+13) gilbert_blythe_a - 0.8624217592226548
+
+14) mr_william_bell_a - 0.829853912609355
+
+15) josie_pye_a - 0.8216201875662639
+
+16) miss_stacy_a - 0.8109398822295891
+
+17) lady_cordelia_fitzgerald_a - 0.80594041276689
+
+18) charlie_sloane_a - 0.8021513459502103
+
+19) gil_a - 0.7495779991150116
+
+20) carmody_a - 0.6879229507584076
+
+21) geraldine_a - 0.6289366329983955
+
+Result for the vector: charlie_sloane, coming from part b of the book
+Rank: 16 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8822701573371887
+
+1) mr_phillips_a - 0.9582597302871866
+
+2) matthew_cuthbert_a - 0.9553216099739075
+
+3) miss_marilla_cuthbert_a - 0.9538365831727764
+
+4) gilbert_blythe_a - 0.9501684278350149
+
+5) diana_barry_a - 0.9464486209421544
+
+6) mrs_alexander_spencer_a - 0.9408096706384633
+
+7) mrs_rachel_lynde_a - 0.9384242296218872
+
+8) prissy_andrews_a - 0.9361190872050487
+
+9) jane_andrews_a - 0.9338464697507917
+
+10) mrs_thomas_a - 0.9337338884194096
+
+11) anne_shirley_a - 0.9306794487620124
+
+12) mr_william_bell_a - 0.927727222442627
+
+13) ruby_gillis_a - 0.9192472100257874
+
+14) minnie_may_a - 0.913668692111969
+
+15) josie_pye_a - 0.9049919247627258
+
+16) charlie_sloane_a - 0.8822701573371887
+
+17) lady_cordelia_fitzgerald_a - 0.8734960556030273
+
+18) gil_a - 0.8333275119456722
+
+19) miss_stacy_a - 0.7960296394807329
+
+20) carmody_a - 0.7443695220727027
+
+21) geraldine_a - 0.6913170218467712
+
+Result for the vector: prissy_andrews, coming from part b of the book
+Rank: 5 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8561883058435872
+
+1) mrs_thomas_a - 0.8641282401008601
+
+2) mrs_alexander_spencer_a - 0.8608326911926331
+
+3) gilbert_blythe_a - 0.8582126329198638
+
+4) mr_phillips_a - 0.8563774397710661
+
+5) prissy_andrews_a - 0.8561883058435872
+
+6) minnie_may_a - 0.8484009413958172
+
+7) miss_marilla_cuthbert_a - 0.8475163558904709
+
+8) lady_cordelia_fitzgerald_a - 0.8385165833542709
+
+9) diana_barry_a - 0.8371779128525153
+
+10) matthew_cuthbert_a - 0.8363225958539617
+
+11) mrs_rachel_lynde_a - 0.8325564761493505
+
+12) anne_shirley_a - 0.8186265934332386
+
+13) josie_pye_a - 0.8162719497842773
+
+14) jane_andrews_a - 0.8113839401464391
+
+15) ruby_gillis_a - 0.8016210080159325
+
+16) charlie_sloane_a - 0.792963552055572
+
+17) mr_william_bell_a - 0.7927495713680741
+
+18) gil_a - 0.7497190385554515
+
+19) carmody_a - 0.6575273275375413
+
+20) miss_stacy_a - 0.6519628167152451
+
+21) geraldine_a - 0.6274452583459185
+
+Result for the vector: minnie_may, coming from part b of the book
+Rank: 10 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8864303827285767
+
+1) mrs_alexander_spencer_a - 0.9058926757638067
+
+2) anne_shirley_a - 0.902852189200862
+
+3) ruby_gillis_a - 0.900439441204071
+
+4) mrs_rachel_lynde_a - 0.9004387259483337
+
+5) diana_barry_a - 0.8967422185386565
+
+6) mr_phillips_a - 0.8961732058576709
+
+7) gilbert_blythe_a - 0.8940854009440796
+
+8) miss_marilla_cuthbert_a - 0.8912531273444285
+
+9) matthew_cuthbert_a - 0.8899749517440796
+
+10) minnie_may_a - 0.8864303827285767
+
+11) prissy_andrews_a - 0.8846200246071849
+
+12) jane_andrews_a - 0.8784407304788087
+
+13) mrs_thomas_a - 0.8733590992261115
+
+14) mr_william_bell_a - 0.8384537696838379
+
+15) josie_pye_a - 0.8314346671104431
+
+16) lady_cordelia_fitzgerald_a - 0.8310165405273438
+
+17) charlie_sloane_a - 0.8205746412277222
+
+18) miss_stacy_a - 0.8081898207551362
+
+19) gil_a - 0.7532093826782021
+
+20) carmody_a - 0.6986172974933818
+
+21) geraldine_a - 0.6277666091918945
+
+Result for the vector: geraldine, coming from part b of the book
+Rank: 21 out of 21 characters
+Cosine similarity to the co-referring vector: 0.6752718091011047
+
+1) gilbert_blythe_a - 0.9403557741854073
+
+2) mrs_rachel_lynde_a - 0.9396211504936218
+
+3) miss_marilla_cuthbert_a - 0.9361499750837751
+
+4) anne_shirley_a - 0.9355653601210947
+
+5) mr_phillips_a - 0.9316383877884865
+
+6) matthew_cuthbert_a - 0.9315998554229736
+
+7) mrs_alexander_spencer_a - 0.9302499931901714
+
+8) mrs_thomas_a - 0.9296531761106108
+
+9) diana_barry_a - 0.9287025289954279
+
+10) prissy_andrews_a - 0.9219186399080056
+
+11) minnie_may_a - 0.9152886867523193
+
+12) jane_andrews_a - 0.9046723785801175
+
+13) ruby_gillis_a - 0.9039390087127686
+
+14) lady_cordelia_fitzgerald_a - 0.8952493071556091
+
+15) josie_pye_a - 0.8856492042541504
+
+16) mr_william_bell_a - 0.8839356899261475
+
+17) charlie_sloane_a - 0.8620238304138184
+
+18) gil_a - 0.7905114639415158
+
+19) miss_stacy_a - 0.7809732686893197
+
+20) carmody_a - 0.7222156094184168
+
+21) geraldine_a - 0.6752718091011047
+
+Result for the vector: gil, coming from part b of the book
+Rank: 5 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8808940052986396
+
+1) matthew_cuthbert_a - 0.895977628710559
+
+2) prissy_andrews_a - 0.8935308710263082
+
+3) diana_barry_a - 0.8851995536566188
+
+4) miss_marilla_cuthbert_a - 0.882292118140852
+
+5) gil_a - 0.8808940052986396
+
+6) mr_phillips_a - 0.880536835145647
+
+7) mrs_alexander_spencer_a - 0.8802429651779611
+
+8) gilbert_blythe_a - 0.8801587891484169
+
+9) mrs_thomas_a - 0.8776109510395643
+
+10) mr_william_bell_a - 0.8632682128824996
+
+11) mrs_rachel_lynde_a - 0.8617783949639387
+
+12) anne_shirley_a - 0.8597617483707074
+
+13) minnie_may_a - 0.8581325580915801
+
+14) jane_andrews_a - 0.8551325884382511
+
+15) charlie_sloane_a - 0.8542562896899892
+
+16) lady_cordelia_fitzgerald_a - 0.8518064794771161
+
+17) josie_pye_a - 0.8437711186681904
+
+18) ruby_gillis_a - 0.8236983032586271
+
+19) carmody_a - 0.7210999629914839
+
+20) miss_stacy_a - 0.6893778998772098
+
+21) geraldine_a - 0.6891111506091225
+

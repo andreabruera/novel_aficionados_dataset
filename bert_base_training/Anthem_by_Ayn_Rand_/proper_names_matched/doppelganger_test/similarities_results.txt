@@ -1,0 +1,32 @@
+Result for the vector: world_council_of_scholars, coming from part a of the book
+Rank: 1 out of 2 characters
+Cosine similarity to the co-referring vector: 0.9028303623199463
+
+1) world_council_of_scholars_b - 0.9028303623199463
+
+2) council_of_vocations_b - 0.8877071868937094
+
+Result for the vector: council_of_vocations, coming from part a of the book
+Rank: 1 out of 2 characters
+Cosine similarity to the co-referring vector: 0.9542247341342535
+
+1) council_of_vocations_b - 0.9542247341342535
+
+2) world_council_of_scholars_b - 0.9415264199344678
+
+Result for the vector: world_council_of_scholars, coming from part b of the book
+Rank: 2 out of 2 characters
+Cosine similarity to the co-referring vector: 0.9028303623199463
+
+1) council_of_vocations_a - 0.9415264199344678
+
+2) world_council_of_scholars_a - 0.9028303623199463
+
+Result for the vector: council_of_vocations, coming from part b of the book
+Rank: 1 out of 2 characters
+Cosine similarity to the co-referring vector: 0.9542247341342535
+
+1) council_of_vocations_a - 0.9542247341342535
+
+2) world_council_of_scholars_a - 0.8877071868937094
+

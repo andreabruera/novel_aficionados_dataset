@@ -1,0 +1,60 @@
+Result for the vector: mr_scrooge, coming from part i of the book
+Rank: 2 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9162665009498662
+
+1) jacob_marley_a - 0.9173111270255538
+
+2) mr_scrooge_a - 0.9162665009498662
+
+3) spirit_a - 0.8749388381802359
+
+Result for the vector: jacob_marley, coming from part i of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9324761907004179
+
+1) jacob_marley_a - 0.9324761907004179
+
+2) mr_scrooge_a - 0.9048682181576462
+
+3) spirit_a - 0.896482613577921
+
+Result for the vector: spirit, coming from part i of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.8976566852535809
+
+1) spirit_a - 0.8976566852535809
+
+2) jacob_marley_a - 0.856942602578248
+
+3) mr_scrooge_a - 0.8415424416610668
+
+Result for the vector: mr_scrooge, coming from part a of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9162665009498662
+
+1) mr_scrooge_wiki - 0.9162665009498662
+
+2) jacob_marley_wiki - 0.9048682181576462
+
+3) spirit_wiki - 0.8415424416610668
+
+Result for the vector: jacob_marley, coming from part a of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9324761907004179
+
+1) jacob_marley_wiki - 0.9324761907004179
+
+2) mr_scrooge_wiki - 0.9173111270255538
+
+3) spirit_wiki - 0.856942602578248
+
+Result for the vector: spirit, coming from part a of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.8976566852535809
+
+1) spirit_wiki - 0.8976566852535809
+
+2) jacob_marley_wiki - 0.896482613577921
+
+3) mr_scrooge_wiki - 0.8749388381802359
+

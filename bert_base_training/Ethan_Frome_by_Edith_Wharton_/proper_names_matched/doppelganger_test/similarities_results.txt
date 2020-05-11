@@ -1,0 +1,320 @@
+Result for the vector: ethan_frome, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9540443989064948
+
+1) ethan_frome_b - 0.9540443989064948
+
+2) jotham_powell_b - 0.9439313063560109
+
+3) zeena_b - 0.9413622828367778
+
+4) mrs_ned_hale_b - 0.9332054813626712
+
+5) mattie_silver_b - 0.9249596595764226
+
+6) denis_eady_b - 0.9188688349049605
+
+7) starkfield_b - 0.8721707310880102
+
+8) matt_b - 0.8502287179367986
+
+Result for the vector: mattie_silver, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9811140894889901
+
+1) mattie_silver_b - 0.9811140894889901
+
+2) zeena_b - 0.9617905857847018
+
+3) mrs_ned_hale_b - 0.9540563794408088
+
+4) jotham_powell_b - 0.9402670508861889
+
+5) ethan_frome_b - 0.9216315103549682
+
+6) denis_eady_b - 0.8711768908010076
+
+7) starkfield_b - 0.8517045797949528
+
+8) matt_b - 0.8180232535614537
+
+Result for the vector: zeena, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9772541204620151
+
+1) zeena_b - 0.9772541204620151
+
+2) mattie_silver_b - 0.977186025548816
+
+3) mrs_ned_hale_b - 0.9695289134979248
+
+4) jotham_powell_b - 0.9476312681326652
+
+5) ethan_frome_b - 0.9447156190872192
+
+6) denis_eady_b - 0.8863423466682434
+
+7) starkfield_b - 0.8734949751791359
+
+8) matt_b - 0.8604851365089417
+
+Result for the vector: matt, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9482259216039342
+
+1) matt_b - 0.9482259216039342
+
+2) mrs_ned_hale_b - 0.8592817951104946
+
+3) zeena_b - 0.8535349710722462
+
+4) ethan_frome_b - 0.8439924902924967
+
+5) starkfield_b - 0.8301580649520253
+
+6) mattie_silver_b - 0.8213120422401368
+
+7) jotham_powell_b - 0.7883487831042393
+
+8) denis_eady_b - 0.7405765961913404
+
+Result for the vector: mrs_ned_hale, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9630203269111932
+
+1) mrs_ned_hale_b - 0.9630203269111932
+
+2) mattie_silver_b - 0.9578356793122674
+
+3) zeena_b - 0.9568521069542307
+
+4) jotham_powell_b - 0.951712460764875
+
+5) ethan_frome_b - 0.9422011409878067
+
+6) denis_eady_b - 0.9171648074886334
+
+7) starkfield_b - 0.8821917772293153
+
+8) matt_b - 0.852163860072861
+
+Result for the vector: jotham_powell, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9218041622101057
+
+1) jotham_powell_b - 0.9218041622101057
+
+2) mattie_silver_b - 0.9179812767527966
+
+3) zeena_b - 0.9014228851027256
+
+4) mrs_ned_hale_b - 0.8920958702507112
+
+5) ethan_frome_b - 0.8868728943542917
+
+6) denis_eady_b - 0.8389799690854582
+
+7) matt_b - 0.8171523918418665
+
+8) starkfield_b - 0.8156871795654355
+
+Result for the vector: denis_eady, coming from part a of the book
+Rank: 6 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9138228348599191
+
+1) mrs_ned_hale_b - 0.9517412214433436
+
+2) jotham_powell_b - 0.9517101361837981
+
+3) zeena_b - 0.949192135011926
+
+4) ethan_frome_b - 0.9491609961294551
+
+5) mattie_silver_b - 0.9486021460769002
+
+6) denis_eady_b - 0.9138228348599191
+
+7) starkfield_b - 0.8914043903350893
+
+8) matt_b - 0.8735233620689311
+
+Result for the vector: starkfield, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9466368587829707
+
+1) starkfield_b - 0.9466368587829707
+
+2) mattie_silver_b - 0.8806242560224091
+
+3) mrs_ned_hale_b - 0.875483229698756
+
+4) zeena_b - 0.8734068014202665
+
+5) jotham_powell_b - 0.8580589719362082
+
+6) ethan_frome_b - 0.848847347635353
+
+7) denis_eady_b - 0.8410877178802886
+
+8) matt_b - 0.81130244597168
+
+Result for the vector: ethan_frome, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9540443989064948
+
+1) ethan_frome_a - 0.9540443989064948
+
+2) denis_eady_a - 0.9491609961294551
+
+3) zeena_a - 0.9447156190872192
+
+4) mrs_ned_hale_a - 0.9422011409878067
+
+5) mattie_silver_a - 0.9216315103549682
+
+6) jotham_powell_a - 0.8868728943542917
+
+7) starkfield_a - 0.848847347635353
+
+8) matt_a - 0.8439924902924967
+
+Result for the vector: mattie_silver, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9811140894889901
+
+1) mattie_silver_a - 0.9811140894889901
+
+2) zeena_a - 0.977186025548816
+
+3) mrs_ned_hale_a - 0.9578356793122674
+
+4) denis_eady_a - 0.9486021460769002
+
+5) ethan_frome_a - 0.9249596595764226
+
+6) jotham_powell_a - 0.9179812767527966
+
+7) starkfield_a - 0.8806242560224091
+
+8) matt_a - 0.8213120422401368
+
+Result for the vector: zeena, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9772541204620151
+
+1) zeena_a - 0.9772541204620151
+
+2) mattie_silver_a - 0.9617905857847018
+
+3) mrs_ned_hale_a - 0.9568521069542307
+
+4) denis_eady_a - 0.949192135011926
+
+5) ethan_frome_a - 0.9413622828367778
+
+6) jotham_powell_a - 0.9014228851027256
+
+7) starkfield_a - 0.8734068014202665
+
+8) matt_a - 0.8535349710722462
+
+Result for the vector: matt, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9482259216039342
+
+1) matt_a - 0.9482259216039342
+
+2) denis_eady_a - 0.8735233620689311
+
+3) zeena_a - 0.8604851365089417
+
+4) mrs_ned_hale_a - 0.852163860072861
+
+5) ethan_frome_a - 0.8502287179367986
+
+6) mattie_silver_a - 0.8180232535614537
+
+7) jotham_powell_a - 0.8171523918418665
+
+8) starkfield_a - 0.81130244597168
+
+Result for the vector: mrs_ned_hale, coming from part b of the book
+Rank: 2 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9630203269111932
+
+1) zeena_a - 0.9695289134979248
+
+2) mrs_ned_hale_a - 0.9630203269111932
+
+3) mattie_silver_a - 0.9540563794408088
+
+4) denis_eady_a - 0.9517412214433436
+
+5) ethan_frome_a - 0.9332054813626712
+
+6) jotham_powell_a - 0.8920958702507112
+
+7) starkfield_a - 0.875483229698756
+
+8) matt_a - 0.8592817951104946
+
+Result for the vector: jotham_powell, coming from part b of the book
+Rank: 6 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9218041622101057
+
+1) mrs_ned_hale_a - 0.951712460764875
+
+2) denis_eady_a - 0.9517101361837981
+
+3) zeena_a - 0.9476312681326652
+
+4) ethan_frome_a - 0.9439313063560109
+
+5) mattie_silver_a - 0.9402670508861889
+
+6) jotham_powell_a - 0.9218041622101057
+
+7) starkfield_a - 0.8580589719362082
+
+8) matt_a - 0.7883487831042393
+
+Result for the vector: denis_eady, coming from part b of the book
+Rank: 3 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9138228348599191
+
+1) ethan_frome_a - 0.9188688349049605
+
+2) mrs_ned_hale_a - 0.9171648074886334
+
+3) denis_eady_a - 0.9138228348599191
+
+4) zeena_a - 0.8863423466682434
+
+5) mattie_silver_a - 0.8711768908010076
+
+6) starkfield_a - 0.8410877178802886
+
+7) jotham_powell_a - 0.8389799690854582
+
+8) matt_a - 0.7405765961913404
+
+Result for the vector: starkfield, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9466368587829707
+
+1) starkfield_a - 0.9466368587829707
+
+2) denis_eady_a - 0.8914043903350893
+
+3) mrs_ned_hale_a - 0.8821917772293153
+
+4) zeena_a - 0.8734949751791359
+
+5) ethan_frome_a - 0.8721707310880102
+
+6) mattie_silver_a - 0.8517045797949528
+
+7) matt_a - 0.8301580649520253
+
+8) jotham_powell_a - 0.8156871795654355
+

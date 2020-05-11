@@ -1,0 +1,60 @@
+Result for the vector: room, coming from part i of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9233477895480118
+
+1) room_a - 0.9233477895480118
+
+2) body_a - 0.7550912353450917
+
+3) morning_a - 0.732099381935528
+
+Result for the vector: body, coming from part i of the book
+Rank: 2 out of 3 characters
+Cosine similarity to the co-referring vector: 0.7012181460131333
+
+1) room_a - 0.7989750146560379
+
+2) body_a - 0.7012181460131333
+
+3) morning_a - 0.6482163071632385
+
+Result for the vector: morning, coming from part i of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.8018488883972168
+
+1) morning_a - 0.8018488883972168
+
+2) room_a - 0.6028889597323229
+
+3) body_a - 0.5477878720886793
+
+Result for the vector: room, coming from part a of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9233477895480118
+
+1) room_wiki - 0.9233477895480118
+
+2) body_wiki - 0.7989750146560379
+
+3) morning_wiki - 0.6028889597323229
+
+Result for the vector: body, coming from part a of the book
+Rank: 2 out of 3 characters
+Cosine similarity to the co-referring vector: 0.7012181460131333
+
+1) room_wiki - 0.7550912353450917
+
+2) body_wiki - 0.7012181460131333
+
+3) morning_wiki - 0.5477878720886793
+
+Result for the vector: morning, coming from part a of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.8018488883972168
+
+1) morning_wiki - 0.8018488883972168
+
+2) room_wiki - 0.732099381935528
+
+3) body_wiki - 0.6482163071632385
+

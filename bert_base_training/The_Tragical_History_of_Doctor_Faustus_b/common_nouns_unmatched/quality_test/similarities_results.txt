@@ -1,0 +1,252 @@
+Result for the vector: thou, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9238050534609008
+
+1) thou_a - 0.9238050534609008
+
+2) man_a - 0.8716328067560692
+
+3) hell_a - 0.8597140312194885
+
+4) soul_a - 0.8240148320206915
+
+5) art_a - 0.8231972595927654
+
+6) faustu_a - 0.7381921254510967
+
+7) history_a - 0.6073969368575188
+
+Result for the vector: faustu, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.726182222366333
+
+1) faustu_a - 0.726182222366333
+
+2) man_a - 0.7124608159065247
+
+3) hell_a - 0.7049019512592596
+
+4) thou_a - 0.7042791843414307
+
+5) soul_a - 0.6834663152694702
+
+6) history_a - 0.6609145998954773
+
+7) art_a - 0.6608082252981733
+
+Result for the vector: soul, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9411549603250663
+
+1) soul_a - 0.9411549603250663
+
+2) man_a - 0.8520858972021418
+
+3) hell_a - 0.8463447277134981
+
+4) art_a - 0.8021667956660185
+
+5) thou_a - 0.7965486766965
+
+6) faustu_a - 0.7006862937995033
+
+7) history_a - 0.6881305165213051
+
+Result for the vector: hell, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9124002508878575
+
+1) hell_a - 0.9124002508878575
+
+2) soul_a - 0.8653038740158081
+
+3) man_a - 0.8639909625053406
+
+4) thou_a - 0.8353149890899658
+
+5) art_a - 0.7989156484280724
+
+6) faustu_a - 0.7160007953643799
+
+7) history_a - 0.6429412364959717
+
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9050364707442979
+
+1) man_a - 0.9050364707442979
+
+2) hell_a - 0.8630769509994171
+
+3) soul_a - 0.85391874795426
+
+4) thou_a - 0.8499106928626357
+
+5) art_a - 0.8209697986805213
+
+6) faustu_a - 0.7360730233257761
+
+7) history_a - 0.7142688078524625
+
+Result for the vector: art, coming from part i of the book
+Rank: 3 out of 7 characters
+Cosine similarity to the co-referring vector: 0.830107534829007
+
+1) man_a - 0.8523492217063904
+
+2) soul_a - 0.847449541091919
+
+3) art_a - 0.830107534829007
+
+4) hell_a - 0.8199706184881571
+
+5) thou_a - 0.7939688563346863
+
+6) history_a - 0.7568899989128113
+
+7) faustu_a - 0.6680779457092285
+
+Result for the vector: history, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8712035677195662
+
+1) history_a - 0.8712035677195662
+
+2) man_a - 0.7686029901684225
+
+3) soul_a - 0.7600006091594881
+
+4) hell_a - 0.7426901238355034
+
+5) art_a - 0.709839803566921
+
+6) thou_a - 0.7088914128807612
+
+7) faustu_a - 0.5979234754420365
+
+Result for the vector: thou, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9238050534609008
+
+1) thou_wiki - 0.9238050534609008
+
+2) man_wiki - 0.8499106928626357
+
+3) hell_wiki - 0.8353149890899658
+
+4) soul_wiki - 0.7965486766965
+
+5) art_wiki - 0.7939688563346863
+
+6) history_wiki - 0.7088914128807612
+
+7) faustu_wiki - 0.7042791843414307
+
+Result for the vector: faustu, coming from part a of the book
+Rank: 3 out of 7 characters
+Cosine similarity to the co-referring vector: 0.726182222366333
+
+1) thou_wiki - 0.7381921254510967
+
+2) man_wiki - 0.7360730233257761
+
+3) faustu_wiki - 0.726182222366333
+
+4) hell_wiki - 0.7160007953643799
+
+5) soul_wiki - 0.7006862937995033
+
+6) art_wiki - 0.6680779457092285
+
+7) history_wiki - 0.5979234754420365
+
+Result for the vector: soul, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9411549603250663
+
+1) soul_wiki - 0.9411549603250663
+
+2) hell_wiki - 0.8653038740158081
+
+3) man_wiki - 0.85391874795426
+
+4) art_wiki - 0.847449541091919
+
+5) thou_wiki - 0.8240148320206915
+
+6) history_wiki - 0.7600006091594881
+
+7) faustu_wiki - 0.6834663152694702
+
+Result for the vector: hell, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9124002508878575
+
+1) hell_wiki - 0.9124002508878575
+
+2) man_wiki - 0.8630769509994171
+
+3) thou_wiki - 0.8597140312194885
+
+4) soul_wiki - 0.8463447277134981
+
+5) art_wiki - 0.8199706184881571
+
+6) history_wiki - 0.7426901238355034
+
+7) faustu_wiki - 0.7049019512592596
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9050364707442979
+
+1) man_wiki - 0.9050364707442979
+
+2) thou_wiki - 0.8716328067560692
+
+3) hell_wiki - 0.8639909625053406
+
+4) art_wiki - 0.8523492217063904
+
+5) soul_wiki - 0.8520858972021418
+
+6) history_wiki - 0.7686029901684225
+
+7) faustu_wiki - 0.7124608159065247
+
+Result for the vector: art, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.830107534829007
+
+1) art_wiki - 0.830107534829007
+
+2) thou_wiki - 0.8231972595927654
+
+3) man_wiki - 0.8209697986805213
+
+4) soul_wiki - 0.8021667956660185
+
+5) hell_wiki - 0.7989156484280724
+
+6) history_wiki - 0.709839803566921
+
+7) faustu_wiki - 0.6608082252981733
+
+Result for the vector: history, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8712035677195662
+
+1) history_wiki - 0.8712035677195662
+
+2) art_wiki - 0.7568899989128113
+
+3) man_wiki - 0.7142688078524625
+
+4) soul_wiki - 0.6881305165213051
+
+5) faustu_wiki - 0.6609145998954773
+
+6) hell_wiki - 0.6429412364959717
+
+7) thou_wiki - 0.6073969368575188
+

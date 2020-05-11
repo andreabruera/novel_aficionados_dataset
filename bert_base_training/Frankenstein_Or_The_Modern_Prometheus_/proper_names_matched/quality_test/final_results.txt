@@ -1,0 +1,9 @@
+Test: quality test
+Results for: Frankenstein_Or_The_Modern_Prometheus_
+Model used: proper names matched
+
+Within-novel median: 3.5
+Within-novel average: 4.555555555555555
+Within-novel MRR: 0.3809303350970017
+Within-novel standard deviation of the scores: 2.8717439962933526
+Amount of entities considered: 9.0

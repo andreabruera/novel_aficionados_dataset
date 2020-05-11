@@ -1,0 +1,192 @@
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9751487970352173
+
+1) man_b - 0.9751487970352173
+
+2) lawyer_b - 0.9149819713852505
+
+3) life_b - 0.8849496978581375
+
+4) hand_b - 0.8740776441716449
+
+5) door_b - 0.8671089669200474
+
+6) sir_b - 0.8557755265102119
+
+Result for the vector: lawyer, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9778625090841304
+
+1) lawyer_b - 0.9778625090841304
+
+2) man_b - 0.9205073988588873
+
+3) door_b - 0.872024349690935
+
+4) hand_b - 0.8560274753586933
+
+5) sir_b - 0.8443051735435585
+
+6) life_b - 0.8386700595614354
+
+Result for the vector: hand, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9659954001306121
+
+1) hand_b - 0.9659954001306121
+
+2) door_b - 0.891544607029695
+
+3) life_b - 0.8863486783088892
+
+4) man_b - 0.874030351638794
+
+5) sir_b - 0.8420528079302807
+
+6) lawyer_b - 0.8386392189694442
+
+Result for the vector: door, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9648912282385431
+
+1) door_b - 0.9648912282385431
+
+2) hand_b - 0.8913045920755432
+
+3) lawyer_b - 0.8783897451425207
+
+4) man_b - 0.8766265658585413
+
+5) sir_b - 0.8414729332046087
+
+6) life_b - 0.8374804049777019
+
+Result for the vector: sir, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9675074239070913
+
+1) sir_b - 0.9675074239070913
+
+2) man_b - 0.8690391339017055
+
+3) hand_b - 0.8338145464228591
+
+4) lawyer_b - 0.8337670960981617
+
+5) door_b - 0.8330112546970411
+
+6) life_b - 0.8275102788185409
+
+Result for the vector: life, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9529577009778736
+
+1) life_b - 0.9529577009778736
+
+2) man_b - 0.9163993696690422
+
+3) hand_b - 0.8999075085007492
+
+4) door_b - 0.860598069971982
+
+5) sir_b - 0.8521960465791334
+
+6) lawyer_b - 0.8091757156429968
+
+Result for the vector: man, coming from part b of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9751487970352173
+
+1) man_a - 0.9751487970352173
+
+2) lawyer_a - 0.9205073988588873
+
+3) life_a - 0.9163993696690422
+
+4) door_a - 0.8766265658585413
+
+5) hand_a - 0.874030351638794
+
+6) sir_a - 0.8690391339017055
+
+Result for the vector: lawyer, coming from part b of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9778625090841304
+
+1) lawyer_a - 0.9778625090841304
+
+2) man_a - 0.9149819713852505
+
+3) door_a - 0.8783897451425207
+
+4) hand_a - 0.8386392189694442
+
+5) sir_a - 0.8337670960981617
+
+6) life_a - 0.8091757156429968
+
+Result for the vector: hand, coming from part b of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9659954001306121
+
+1) hand_a - 0.9659954001306121
+
+2) life_a - 0.8999075085007492
+
+3) door_a - 0.8913045920755432
+
+4) man_a - 0.8740776441716449
+
+5) lawyer_a - 0.8560274753586933
+
+6) sir_a - 0.8338145464228591
+
+Result for the vector: door, coming from part b of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9648912282385431
+
+1) door_a - 0.9648912282385431
+
+2) hand_a - 0.891544607029695
+
+3) lawyer_a - 0.872024349690935
+
+4) man_a - 0.8671089669200474
+
+5) life_a - 0.860598069971982
+
+6) sir_a - 0.8330112546970411
+
+Result for the vector: sir, coming from part b of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9675074239070913
+
+1) sir_a - 0.9675074239070913
+
+2) man_a - 0.8557755265102119
+
+3) life_a - 0.8521960465791334
+
+4) lawyer_a - 0.8443051735435585
+
+5) hand_a - 0.8420528079302807
+
+6) door_a - 0.8414729332046087
+
+Result for the vector: life, coming from part b of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9529577009778736
+
+1) life_a - 0.9529577009778736
+
+2) hand_a - 0.8863486783088892
+
+3) man_a - 0.8849496978581375
+
+4) lawyer_a - 0.8386700595614354
+
+5) door_a - 0.8374804049777019
+
+6) sir_a - 0.8275102788185409
+

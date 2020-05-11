@@ -1,0 +1,2112 @@
+Result for the vector: jane_eyre, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9675275048646337
+
+1) jane_eyre_b - 0.9675275048646337
+
+2) mr_mason_b - 0.950873491220088
+
+3) adele_b - 0.9409990310669012
+
+4) miss_ingram_b - 0.9347517134027229
+
+5) grace_poole_b - 0.9347142577171392
+
+6) mr_edward_b - 0.9312789358233137
+
+7) mr_rochester_b - 0.9256342693785417
+
+8) mrs_fairfax_b - 0.9182600330269373
+
+9) mrs_poole_b - 0.9028441521088025
+
+10) mary_ann_wilson_b - 0.9011030793190067
+
+11) eliza_b - 0.9008763641902537
+
+12) sophie_b - 0.8992141365068121
+
+13) leah_b - 0.8863217234611575
+
+14) georgiana_reed_b - 0.8675843319397368
+
+15) thornfield_b - 0.8554924130439819
+
+16) lowood_b - 0.8451672607859684
+
+17) celine_varens_b - 0.810194231294898
+
+18) blanche_ingram_b - 0.8078545698946201
+
+19) mr_brocklehurst_b - 0.8026578908743067
+
+20) mr_carter_b - 0.7736229761614203
+
+21) george_lynn_b - 0.6404847074132809
+
+22) john_reed_b - 0.6232413424993373
+
+Result for the vector: mr_rochester, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9839237341926413
+
+1) mr_rochester_b - 0.9839237341926413
+
+2) mr_mason_b - 0.9633723475558982
+
+3) mr_edward_b - 0.9567218371298118
+
+4) adele_b - 0.9556774497032233
+
+5) mrs_fairfax_b - 0.9526043506028878
+
+6) grace_poole_b - 0.946203827857978
+
+7) jane_eyre_b - 0.9385609553528971
+
+8) mary_ann_wilson_b - 0.9379249811172552
+
+9) eliza_b - 0.9371378067557047
+
+10) sophie_b - 0.9340380351588768
+
+11) miss_ingram_b - 0.9321956871922933
+
+12) leah_b - 0.9268136620521611
+
+13) mrs_poole_b - 0.913990936934138
+
+14) georgiana_reed_b - 0.9048794394587802
+
+15) thornfield_b - 0.8786491155624452
+
+16) lowood_b - 0.8608108593000006
+
+17) celine_varens_b - 0.8346643846827012
+
+18) mr_brocklehurst_b - 0.8082113163912095
+
+19) mr_carter_b - 0.7970663188139404
+
+20) blanche_ingram_b - 0.7742590635131673
+
+21) george_lynn_b - 0.6565187760017843
+
+22) john_reed_b - 0.6364648721495206
+
+Result for the vector: john_reed, coming from part a of the book
+Rank: 21 out of 22 characters
+Cosine similarity to the co-referring vector: 0.6645933193453217
+
+1) mr_mason_b - 0.888265980688819
+
+2) mr_rochester_b - 0.8617034288159778
+
+3) adele_b - 0.8567526000584498
+
+4) leah_b - 0.8513689902957114
+
+5) mrs_fairfax_b - 0.8494582951714701
+
+6) mary_ann_wilson_b - 0.8449816980990726
+
+7) mr_edward_b - 0.8435041401681951
+
+8) grace_poole_b - 0.8365323239805134
+
+9) mr_brocklehurst_b - 0.8344546805159953
+
+10) eliza_b - 0.8338621705297767
+
+11) jane_eyre_b - 0.8259503945141927
+
+12) sophie_b - 0.8242527351228884
+
+13) miss_ingram_b - 0.8166205152910577
+
+14) georgiana_reed_b - 0.8131535760668899
+
+15) mrs_poole_b - 0.8093689552513789
+
+16) thornfield_b - 0.8052821507545455
+
+17) lowood_b - 0.777134610585308
+
+18) blanche_ingram_b - 0.722375945903316
+
+19) mr_carter_b - 0.7195420599529723
+
+20) celine_varens_b - 0.71209736394303
+
+21) john_reed_b - 0.6645933193453217
+
+22) george_lynn_b - 0.6483124108128406
+
+Result for the vector: adele, coming from part a of the book
+Rank: 2 out of 22 characters
+Cosine similarity to the co-referring vector: 0.975872577674833
+
+1) mrs_fairfax_b - 0.9763555526733398
+
+2) adele_b - 0.975872577674833
+
+3) eliza_b - 0.952897219446219
+
+4) mary_ann_wilson_b - 0.951667192478945
+
+5) sophie_b - 0.9497931569691411
+
+6) georgiana_reed_b - 0.9452205267680022
+
+7) mr_rochester_b - 0.944591171194182
+
+8) grace_poole_b - 0.931773487819823
+
+9) mr_mason_b - 0.9309770464897156
+
+10) mrs_poole_b - 0.9258015431702601
+
+11) leah_b - 0.9208999323308524
+
+12) miss_ingram_b - 0.9181822215969037
+
+13) mr_edward_b - 0.9054911080295523
+
+14) jane_eyre_b - 0.8992114007002966
+
+15) lowood_b - 0.8434379007481292
+
+16) celine_varens_b - 0.8425485397904255
+
+17) thornfield_b - 0.8368016578673343
+
+18) mr_carter_b - 0.7935412526130676
+
+19) mr_brocklehurst_b - 0.7915503966138445
+
+20) blanche_ingram_b - 0.7553445551004754
+
+21) george_lynn_b - 0.6433273341254803
+
+22) john_reed_b - 0.6125614643096924
+
+Result for the vector: mary_ann_wilson, coming from part a of the book
+Rank: 3 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9411472082138128
+
+1) adele_b - 0.9483233690261909
+
+2) mrs_fairfax_b - 0.9461554852816768
+
+3) mary_ann_wilson_b - 0.9411472082138128
+
+4) mr_mason_b - 0.9344627222098559
+
+5) eliza_b - 0.9344422460593805
+
+6) sophie_b - 0.9301092541348045
+
+7) grace_poole_b - 0.9229140877723759
+
+8) mr_rochester_b - 0.9219933794740955
+
+9) mr_edward_b - 0.9179007909179676
+
+10) leah_b - 0.9167090654373234
+
+11) mrs_poole_b - 0.9150685294033767
+
+12) georgiana_reed_b - 0.910779465529855
+
+13) miss_ingram_b - 0.9086073257274029
+
+14) jane_eyre_b - 0.8982571242162137
+
+15) celine_varens_b - 0.8475555595821809
+
+16) lowood_b - 0.8473089751373499
+
+17) thornfield_b - 0.8396922945976317
+
+18) blanche_ingram_b - 0.8105037582521151
+
+19) mr_carter_b - 0.8014147759327173
+
+20) mr_brocklehurst_b - 0.7978202576858374
+
+21) george_lynn_b - 0.6677413782765124
+
+22) john_reed_b - 0.6270939485486726
+
+Result for the vector: miss_ingram, coming from part a of the book
+Rank: 13 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9140271816857813
+
+1) adele_b - 0.9529709247964087
+
+2) mr_mason_b - 0.9529646039009094
+
+3) mrs_fairfax_b - 0.9486034512519836
+
+4) mary_ann_wilson_b - 0.9416031872270608
+
+5) mr_rochester_b - 0.9371324256500757
+
+6) eliza_b - 0.9353816191965828
+
+7) grace_poole_b - 0.9323083798701554
+
+8) sophie_b - 0.929294045525436
+
+9) mr_edward_b - 0.9235551311704611
+
+10) leah_b - 0.9212743686870133
+
+11) mrs_poole_b - 0.9173003708511706
+
+12) jane_eyre_b - 0.916348154327165
+
+13) miss_ingram_b - 0.9140271816857813
+
+14) georgiana_reed_b - 0.908079737906442
+
+15) thornfield_b - 0.8660594900811038
+
+16) lowood_b - 0.8526540906819174
+
+17) celine_varens_b - 0.8280330793877306
+
+18) mr_brocklehurst_b - 0.8262344041816094
+
+19) mr_carter_b - 0.7977632880210876
+
+20) blanche_ingram_b - 0.7890113466388804
+
+21) george_lynn_b - 0.6653826037277355
+
+22) john_reed_b - 0.6461647748947144
+
+Result for the vector: mr_mason, coming from part a of the book
+Rank: 2 out of 22 characters
+Cosine similarity to the co-referring vector: 0.969869077205658
+
+1) mr_rochester_b - 0.9768343595463871
+
+2) mr_mason_b - 0.969869077205658
+
+3) mr_edward_b - 0.9600166058550259
+
+4) adele_b - 0.9507443934235356
+
+5) jane_eyre_b - 0.9444867935470832
+
+6) grace_poole_b - 0.9429516230254414
+
+7) mrs_fairfax_b - 0.9387210011482239
+
+8) mary_ann_wilson_b - 0.9312547486272621
+
+9) miss_ingram_b - 0.9303987303495033
+
+10) sophie_b - 0.9228170468102141
+
+11) eliza_b - 0.9207305586555771
+
+12) mrs_poole_b - 0.9176352893601448
+
+13) leah_b - 0.9171431113992283
+
+14) georgiana_reed_b - 0.8929665024856644
+
+15) thornfield_b - 0.8736122325889941
+
+16) lowood_b - 0.8558480057625789
+
+17) celine_varens_b - 0.8236307396668652
+
+18) mr_brocklehurst_b - 0.8160235309635985
+
+19) mr_carter_b - 0.7959960699081421
+
+20) blanche_ingram_b - 0.7611632800795617
+
+21) george_lynn_b - 0.6477038650336197
+
+22) john_reed_b - 0.6337577104568481
+
+Result for the vector: mr_brocklehurst, coming from part a of the book
+Rank: 17 out of 22 characters
+Cosine similarity to the co-referring vector: 0.837352221809668
+
+1) mr_rochester_b - 0.9770674732843143
+
+2) mr_mason_b - 0.9705544710159302
+
+3) mr_edward_b - 0.9585570668314156
+
+4) adele_b - 0.9513344793716401
+
+5) mrs_fairfax_b - 0.947670578956604
+
+6) grace_poole_b - 0.9426751170948094
+
+7) mary_ann_wilson_b - 0.9386063850756671
+
+8) jane_eyre_b - 0.9385169707844853
+
+9) miss_ingram_b - 0.9368398468744713
+
+10) eliza_b - 0.9326961318461938
+
+11) leah_b - 0.9263261600538413
+
+12) sophie_b - 0.9207847071161708
+
+13) mrs_poole_b - 0.9179635917533518
+
+14) georgiana_reed_b - 0.9074940030273217
+
+15) thornfield_b - 0.890537685719868
+
+16) lowood_b - 0.8685641806461935
+
+17) mr_brocklehurst_b - 0.837352221809668
+
+18) celine_varens_b - 0.8310920495445773
+
+19) mr_carter_b - 0.7992823719978333
+
+20) blanche_ingram_b - 0.7789748775348008
+
+21) george_lynn_b - 0.6634714998883915
+
+22) john_reed_b - 0.6375969648361206
+
+Result for the vector: mrs_fairfax, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9818476438522339
+
+1) mrs_fairfax_b - 0.9818476438522339
+
+2) adele_b - 0.9732998029410974
+
+3) mr_rochester_b - 0.9595397162986208
+
+4) sophie_b - 0.9581510399670046
+
+5) mary_ann_wilson_b - 0.9541106847458687
+
+6) mr_mason_b - 0.9502876996994019
+
+7) eliza_b - 0.9486859127487518
+
+8) grace_poole_b - 0.9469679029603079
+
+9) georgiana_reed_b - 0.9370718560857704
+
+10) mrs_poole_b - 0.9365679304769022
+
+11) leah_b - 0.9295504731207821
+
+12) mr_edward_b - 0.9284940319355762
+
+13) miss_ingram_b - 0.9267905630704932
+
+14) jane_eyre_b - 0.9253606155729677
+
+15) thornfield_b - 0.8631666384240023
+
+16) lowood_b - 0.8596090590720823
+
+17) celine_varens_b - 0.8461028245748788
+
+18) mr_carter_b - 0.8064674139022827
+
+19) mr_brocklehurst_b - 0.7979052063681581
+
+20) blanche_ingram_b - 0.7641898253077178
+
+21) george_lynn_b - 0.6611094868844454
+
+22) john_reed_b - 0.625633716583252
+
+Result for the vector: georgiana_reed, coming from part a of the book
+Rank: 5 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9383840487461148
+
+1) mrs_fairfax_b - 0.9623480416743797
+
+2) adele_b - 0.9608081579208442
+
+3) mary_ann_wilson_b - 0.9599137902259894
+
+4) eliza_b - 0.9427001723081032
+
+5) georgiana_reed_b - 0.9383840487461148
+
+6) sophie_b - 0.9348970574017832
+
+7) mr_rochester_b - 0.9330436627242915
+
+8) mr_mason_b - 0.9307059604350322
+
+9) leah_b - 0.9258844256401128
+
+10) grace_poole_b - 0.9174350500106877
+
+11) mrs_poole_b - 0.9133420807131009
+
+12) mr_edward_b - 0.9083090315233506
+
+13) miss_ingram_b - 0.8971663919538018
+
+14) jane_eyre_b - 0.8917751183241747
+
+15) lowood_b - 0.8383217857267601
+
+16) thornfield_b - 0.8335624933242857
+
+17) celine_varens_b - 0.8241884498820841
+
+18) mr_brocklehurst_b - 0.8011200907182915
+
+19) mr_carter_b - 0.7838975658355707
+
+20) blanche_ingram_b - 0.7636078910360207
+
+21) george_lynn_b - 0.6633733109680785
+
+22) john_reed_b - 0.6224478258161452
+
+Result for the vector: eliza, coming from part a of the book
+Rank: 3 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9503544822652179
+
+1) mrs_fairfax_b - 0.9620643235483379
+
+2) adele_b - 0.9546898603439399
+
+3) eliza_b - 0.9503544822652179
+
+4) mary_ann_wilson_b - 0.9423117637634344
+
+5) sophie_b - 0.941188089989196
+
+6) mr_mason_b - 0.9358016810298985
+
+7) mr_rochester_b - 0.9341247121021472
+
+8) grace_poole_b - 0.9326734542846746
+
+9) leah_b - 0.9302892088890142
+
+10) georgiana_reed_b - 0.9245518952073926
+
+11) mrs_poole_b - 0.9203280437285943
+
+12) mr_edward_b - 0.9175423881462083
+
+13) miss_ingram_b - 0.9145878775049343
+
+14) jane_eyre_b - 0.9080286512409033
+
+15) lowood_b - 0.8459654862839563
+
+16) thornfield_b - 0.8370323777198851
+
+17) celine_varens_b - 0.834272901329148
+
+18) mr_carter_b - 0.8095078950827074
+
+19) mr_brocklehurst_b - 0.7850995509534169
+
+20) blanche_ingram_b - 0.7812714912022938
+
+21) george_lynn_b - 0.6538240496902525
+
+22) john_reed_b - 0.6273371951184996
+
+Result for the vector: leah, coming from part a of the book
+Rank: 9 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9266919813545985
+
+1) mrs_fairfax_b - 0.9749937944112363
+
+2) adele_b - 0.9661602089953399
+
+3) sophie_b - 0.9566362759443773
+
+4) mary_ann_wilson_b - 0.9492693856576306
+
+5) eliza_b - 0.9440042343142172
+
+6) mr_rochester_b - 0.9395705813553514
+
+7) georgiana_reed_b - 0.9339089632548959
+
+8) grace_poole_b - 0.9280734381653871
+
+9) leah_b - 0.9266919813545985
+
+10) mr_mason_b - 0.9255656279792083
+
+11) mrs_poole_b - 0.9211533618660784
+
+12) mr_edward_b - 0.9063405012792801
+
+13) miss_ingram_b - 0.8998554885301285
+
+14) jane_eyre_b - 0.8970132080030333
+
+15) lowood_b - 0.8369523439066722
+
+16) thornfield_b - 0.8283533207072851
+
+17) celine_varens_b - 0.827971174833582
+
+18) mr_carter_b - 0.7996801376247451
+
+19) mr_brocklehurst_b - 0.785947642197789
+
+20) blanche_ingram_b - 0.7449888657023492
+
+21) george_lynn_b - 0.6464180928246465
+
+22) john_reed_b - 0.6104256692655586
+
+Result for the vector: sophie, coming from part a of the book
+Rank: 5 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9353476685700022
+
+1) mrs_fairfax_b - 0.956053075555152
+
+2) adele_b - 0.9509356617927619
+
+3) mary_ann_wilson_b - 0.9478491544723578
+
+4) mr_rochester_b - 0.9389008320033204
+
+5) sophie_b - 0.9353476685700022
+
+6) eliza_b - 0.9293170806154983
+
+7) georgiana_reed_b - 0.9181351564091631
+
+8) mr_mason_b - 0.9107246941760017
+
+9) leah_b - 0.9091462492942874
+
+10) mr_edward_b - 0.8989140270845922
+
+11) grace_poole_b - 0.8985633850097721
+
+12) mrs_poole_b - 0.8940971697059727
+
+13) miss_ingram_b - 0.8822919323109332
+
+14) jane_eyre_b - 0.8705678427896312
+
+15) lowood_b - 0.8274962100382102
+
+16) thornfield_b - 0.8253579139709531
+
+17) celine_varens_b - 0.8189136766092392
+
+18) mr_brocklehurst_b - 0.7942860591412342
+
+19) mr_carter_b - 0.7822014559627462
+
+20) blanche_ingram_b - 0.7191461585934351
+
+21) george_lynn_b - 0.6356066030987028
+
+22) john_reed_b - 0.608801043558184
+
+Result for the vector: lowood, coming from part a of the book
+Rank: 2 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8947231644062
+
+1) thornfield_b - 0.9130734801292484
+
+2) lowood_b - 0.8947231644062
+
+3) grace_poole_b - 0.8797739744186464
+
+4) mr_mason_b - 0.8788760232255488
+
+5) adele_b - 0.877857029438025
+
+6) mr_rochester_b - 0.8769537879852323
+
+7) mr_edward_b - 0.8701248610168529
+
+8) miss_ingram_b - 0.8693088474251793
+
+9) jane_eyre_b - 0.8613270951899403
+
+10) mrs_fairfax_b - 0.8541418227041869
+
+11) eliza_b - 0.8476881546695374
+
+12) mary_ann_wilson_b - 0.8388413786888183
+
+13) mrs_poole_b - 0.8384014521600118
+
+14) sophie_b - 0.8236852078062543
+
+15) leah_b - 0.8197054266929684
+
+16) georgiana_reed_b - 0.8149916905154813
+
+17) mr_brocklehurst_b - 0.8005125404473511
+
+18) celine_varens_b - 0.7967283483419834
+
+19) blanche_ingram_b - 0.7447120839014153
+
+20) mr_carter_b - 0.7261871532313332
+
+21) george_lynn_b - 0.6951649421650102
+
+22) john_reed_b - 0.5708642942228502
+
+Result for the vector: thornfield, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9776453415789607
+
+1) thornfield_b - 0.9776453415789607
+
+2) miss_ingram_b - 0.9058633828881439
+
+3) mr_mason_b - 0.9047514313755778
+
+4) mr_rochester_b - 0.896283651284301
+
+5) grace_poole_b - 0.8957681842264815
+
+6) mr_edward_b - 0.8925731246129939
+
+7) adele_b - 0.8924013568637345
+
+8) jane_eyre_b - 0.8908018534897796
+
+9) lowood_b - 0.8889278835697385
+
+10) mrs_fairfax_b - 0.8784085061063226
+
+11) mrs_poole_b - 0.8629779640157946
+
+12) mary_ann_wilson_b - 0.8604706179254158
+
+13) eliza_b - 0.8599098152002953
+
+14) sophie_b - 0.8476076216931704
+
+15) leah_b - 0.83925637496894
+
+16) georgiana_reed_b - 0.8187049139318052
+
+17) celine_varens_b - 0.8029956935050798
+
+18) mr_brocklehurst_b - 0.7997720479897563
+
+19) blanche_ingram_b - 0.7746853962728268
+
+20) mr_carter_b - 0.7274102297532337
+
+21) george_lynn_b - 0.7161438038263552
+
+22) john_reed_b - 0.5928974040869035
+
+Result for the vector: mr_edward, coming from part a of the book
+Rank: 3 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8576275621430628
+
+1) mr_rochester_b - 0.8829437633819925
+
+2) mr_mason_b - 0.8702186346054077
+
+3) mr_edward_b - 0.8576275621430628
+
+4) adele_b - 0.8434368465282427
+
+5) mary_ann_wilson_b - 0.8299774032844676
+
+6) leah_b - 0.8271686537761314
+
+7) grace_poole_b - 0.8271560175921921
+
+8) eliza_b - 0.8253128774557379
+
+9) mrs_fairfax_b - 0.8252354264259338
+
+10) miss_ingram_b - 0.8167381530028035
+
+11) mrs_poole_b - 0.8026858807410566
+
+12) georgiana_reed_b - 0.802289056914394
+
+13) jane_eyre_b - 0.800574171577346
+
+14) sophie_b - 0.7937399026000456
+
+15) thornfield_b - 0.7876390345311755
+
+16) mr_brocklehurst_b - 0.7852967359567873
+
+17) lowood_b - 0.7815109361118651
+
+18) celine_varens_b - 0.7321445186224306
+
+19) mr_carter_b - 0.6966118216514587
+
+20) blanche_ingram_b - 0.6567664537886664
+
+21) george_lynn_b - 0.6022261144057591
+
+22) john_reed_b - 0.5753922462463379
+
+Result for the vector: blanche_ingram, coming from part a of the book
+Rank: 18 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8029790881847249
+
+1) adele_b - 0.9473407864570685
+
+2) mrs_fairfax_b - 0.9400991761743548
+
+3) mr_mason_b - 0.9300126391656797
+
+4) mary_ann_wilson_b - 0.9299033284187384
+
+5) eliza_b - 0.9292621847327521
+
+6) mrs_poole_b - 0.9238005510390301
+
+7) mr_edward_b - 0.9229059723503557
+
+8) sophie_b - 0.921672513684334
+
+9) grace_poole_b - 0.9184532761573857
+
+10) jane_eyre_b - 0.9110281957421537
+
+11) mr_rochester_b - 0.9099324995319691
+
+12) miss_ingram_b - 0.9077154613478898
+
+13) leah_b - 0.90284967422486
+
+14) georgiana_reed_b - 0.8908738959877367
+
+15) lowood_b - 0.8556783623311952
+
+16) thornfield_b - 0.8481812477111876
+
+17) celine_varens_b - 0.840673904499281
+
+18) blanche_ingram_b - 0.8029790881847249
+
+19) mr_carter_b - 0.7915381068908054
+
+20) mr_brocklehurst_b - 0.7867087574887696
+
+21) george_lynn_b - 0.6606331063071617
+
+22) john_reed_b - 0.6115517384738777
+
+Result for the vector: grace_poole, coming from part a of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9697041511535713
+
+1) grace_poole_b - 0.9697041511535713
+
+2) adele_b - 0.96422195434571
+
+3) mrs_fairfax_b - 0.9505096048420449
+
+4) mr_rochester_b - 0.9504022031782896
+
+5) mr_mason_b - 0.9484664171020059
+
+6) jane_eyre_b - 0.9422349860948308
+
+7) mr_edward_b - 0.94181727669445
+
+8) miss_ingram_b - 0.9405122644167186
+
+9) eliza_b - 0.9368196371334471
+
+10) mary_ann_wilson_b - 0.9299666881561346
+
+11) sophie_b - 0.9268895896541584
+
+12) mrs_poole_b - 0.922406517482387
+
+13) georgiana_reed_b - 0.9079241046815043
+
+14) leah_b - 0.9066795706749027
+
+15) thornfield_b - 0.8694133162498536
+
+16) lowood_b - 0.8652970630284623
+
+17) celine_varens_b - 0.8461302335417549
+
+18) mr_brocklehurst_b - 0.8009521843989312
+
+19) mr_carter_b - 0.7966583249961345
+
+20) blanche_ingram_b - 0.7933330289522444
+
+21) george_lynn_b - 0.6507483304438985
+
+22) john_reed_b - 0.6148919829661847
+
+Result for the vector: celine_varens, coming from part a of the book
+Rank: 16 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8400782251404673
+
+1) mrs_fairfax_b - 0.9601409435272217
+
+2) adele_b - 0.9541032937703571
+
+3) mr_rochester_b - 0.9431544610077852
+
+4) mary_ann_wilson_b - 0.9376543797460585
+
+5) mr_mason_b - 0.9365427494049072
+
+6) sophie_b - 0.9339573940013303
+
+7) eliza_b - 0.9336898605135046
+
+8) grace_poole_b - 0.9309166114976059
+
+9) georgiana_reed_b - 0.9198140454181476
+
+10) mr_edward_b - 0.9129995651840921
+
+11) leah_b - 0.9107834749946924
+
+12) miss_ingram_b - 0.9085014137179085
+
+13) jane_eyre_b - 0.8966266451255483
+
+14) mrs_poole_b - 0.8962588577347658
+
+15) thornfield_b - 0.8413744663372968
+
+16) celine_varens_b - 0.8400782251404673
+
+17) lowood_b - 0.8344266315952931
+
+18) mr_brocklehurst_b - 0.8032830958490306
+
+19) mr_carter_b - 0.7988573908805847
+
+20) blanche_ingram_b - 0.7756839260866611
+
+21) george_lynn_b - 0.653615811682691
+
+22) john_reed_b - 0.6096047163009644
+
+Result for the vector: mr_carter, coming from part a of the book
+Rank: 17 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7972160698642703
+
+1) jane_eyre_b - 0.9275966882705754
+
+2) mr_mason_b - 0.9230591700637851
+
+3) mr_edward_b - 0.9142409563064641
+
+4) mr_rochester_b - 0.914010480521237
+
+5) adele_b - 0.9109593139935358
+
+6) grace_poole_b - 0.9032161351184684
+
+7) sophie_b - 0.8952851295471255
+
+8) mrs_poole_b - 0.8837839101617398
+
+9) mrs_fairfax_b - 0.8837506840377654
+
+10) leah_b - 0.8774864819661996
+
+11) eliza_b - 0.8771080113319191
+
+12) mary_ann_wilson_b - 0.8714839373250083
+
+13) miss_ingram_b - 0.8660551051481071
+
+14) georgiana_reed_b - 0.8395552635192931
+
+15) lowood_b - 0.8224682211875974
+
+16) thornfield_b - 0.8061294786775733
+
+17) mr_carter_b - 0.7972160698642703
+
+18) celine_varens_b - 0.7826392054557856
+
+19) mr_brocklehurst_b - 0.7422249980770211
+
+20) blanche_ingram_b - 0.7248600125312856
+
+21) george_lynn_b - 0.618064939975743
+
+22) john_reed_b - 0.5985639334580949
+
+Result for the vector: mrs_poole, coming from part a of the book
+Rank: 10 out of 22 characters
+Cosine similarity to the co-referring vector: 0.892405530131358
+
+1) mr_mason_b - 0.928462918309149
+
+2) grace_poole_b - 0.927053570747382
+
+3) jane_eyre_b - 0.9252101093781124
+
+4) miss_ingram_b - 0.9245313636539609
+
+5) mr_rochester_b - 0.9245093509847461
+
+6) mr_edward_b - 0.9213549997037649
+
+7) adele_b - 0.9144561290741032
+
+8) mrs_fairfax_b - 0.9068174902687978
+
+9) eliza_b - 0.895106693664792
+
+10) mrs_poole_b - 0.892405530131358
+
+11) sophie_b - 0.8889218436386399
+
+12) leah_b - 0.885271251201636
+
+13) mary_ann_wilson_b - 0.8848701119422976
+
+14) thornfield_b - 0.8654569983482422
+
+15) georgiana_reed_b - 0.8625094726693001
+
+16) lowood_b - 0.8466841991763352
+
+17) celine_varens_b - 0.7986188290856873
+
+18) blanche_ingram_b - 0.7825985291717683
+
+19) mr_brocklehurst_b - 0.7769970130616187
+
+20) mr_carter_b - 0.7554351541659341
+
+21) george_lynn_b - 0.6362470550831621
+
+22) john_reed_b - 0.5961875078789906
+
+Result for the vector: george_lynn, coming from part a of the book
+Rank: 21 out of 22 characters
+Cosine similarity to the co-referring vector: 0.702903670245629
+
+1) mr_mason_b - 0.9063848853111267
+
+2) leah_b - 0.8910701339799102
+
+3) mary_ann_wilson_b - 0.885029263196633
+
+4) adele_b - 0.8837630221984984
+
+5) mr_edward_b - 0.8783878611557416
+
+6) mr_rochester_b - 0.8741067798010436
+
+7) mrs_fairfax_b - 0.8740202784538269
+
+8) eliza_b - 0.8731057308049721
+
+9) sophie_b - 0.8629377402626136
+
+10) grace_poole_b - 0.8552067366119199
+
+11) jane_eyre_b - 0.8469696549755145
+
+12) mrs_poole_b - 0.8460996999174271
+
+13) miss_ingram_b - 0.8331486235007237
+
+14) mr_brocklehurst_b - 0.8310866402218792
+
+15) thornfield_b - 0.8267430766378014
+
+16) georgiana_reed_b - 0.822765458987086
+
+17) lowood_b - 0.8042630436577242
+
+18) mr_carter_b - 0.765507698059082
+
+19) blanche_ingram_b - 0.7435909356827115
+
+20) celine_varens_b - 0.7302699524325117
+
+21) george_lynn_b - 0.702903670245629
+
+22) john_reed_b - 0.6541328430175781
+
+Result for the vector: jane_eyre, coming from part b of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9675275048646337
+
+1) jane_eyre_a - 0.9675275048646337
+
+2) mr_mason_a - 0.9444867935470832
+
+3) grace_poole_a - 0.9422349860948308
+
+4) mr_rochester_a - 0.9385609553528971
+
+5) mr_brocklehurst_a - 0.9385169707844853
+
+6) mr_carter_a - 0.9275966882705754
+
+7) mrs_fairfax_a - 0.9253606155729677
+
+8) mrs_poole_a - 0.9252101093781124
+
+9) miss_ingram_a - 0.916348154327165
+
+10) blanche_ingram_a - 0.9110281957421537
+
+11) eliza_a - 0.9080286512409033
+
+12) adele_a - 0.8992114007002966
+
+13) mary_ann_wilson_a - 0.8982571242162137
+
+14) leah_a - 0.8970132080030333
+
+15) celine_varens_a - 0.8966266451255483
+
+16) georgiana_reed_a - 0.8917751183241747
+
+17) thornfield_a - 0.8908018534897796
+
+18) sophie_a - 0.8705678427896312
+
+19) lowood_a - 0.8613270951899403
+
+20) george_lynn_a - 0.8469696549755145
+
+21) john_reed_a - 0.8259503945141927
+
+22) mr_edward_a - 0.800574171577346
+
+Result for the vector: mr_rochester, coming from part b of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9839237341926413
+
+1) mr_rochester_a - 0.9839237341926413
+
+2) mr_brocklehurst_a - 0.9770674732843143
+
+3) mr_mason_a - 0.9768343595463871
+
+4) mrs_fairfax_a - 0.9595397162986208
+
+5) grace_poole_a - 0.9504022031782896
+
+6) adele_a - 0.944591171194182
+
+7) celine_varens_a - 0.9431544610077852
+
+8) leah_a - 0.9395705813553514
+
+9) sophie_a - 0.9389008320033204
+
+10) miss_ingram_a - 0.9371324256500757
+
+11) eliza_a - 0.9341247121021472
+
+12) georgiana_reed_a - 0.9330436627242915
+
+13) jane_eyre_a - 0.9256342693785417
+
+14) mrs_poole_a - 0.9245093509847461
+
+15) mary_ann_wilson_a - 0.9219933794740955
+
+16) mr_carter_a - 0.914010480521237
+
+17) blanche_ingram_a - 0.9099324995319691
+
+18) thornfield_a - 0.896283651284301
+
+19) mr_edward_a - 0.8829437633819925
+
+20) lowood_a - 0.8769537879852323
+
+21) george_lynn_a - 0.8741067798010436
+
+22) john_reed_a - 0.8617034288159778
+
+Result for the vector: john_reed, coming from part b of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.6645933193453217
+
+1) john_reed_a - 0.6645933193453217
+
+2) george_lynn_a - 0.6541328430175781
+
+3) miss_ingram_a - 0.6461647748947144
+
+4) mr_brocklehurst_a - 0.6375969648361206
+
+5) mr_rochester_a - 0.6364648721495206
+
+6) mr_mason_a - 0.6337577104568481
+
+7) eliza_a - 0.6273371951184996
+
+8) mary_ann_wilson_a - 0.6270939485486726
+
+9) mrs_fairfax_a - 0.625633716583252
+
+10) jane_eyre_a - 0.6232413424993373
+
+11) georgiana_reed_a - 0.6224478258161452
+
+12) grace_poole_a - 0.6148919829661847
+
+13) adele_a - 0.6125614643096924
+
+14) blanche_ingram_a - 0.6115517384738777
+
+15) leah_a - 0.6104256692655586
+
+16) celine_varens_a - 0.6096047163009644
+
+17) sophie_a - 0.608801043558184
+
+18) mr_carter_a - 0.5985639334580949
+
+19) mrs_poole_a - 0.5961875078789906
+
+20) thornfield_a - 0.5928974040869035
+
+21) mr_edward_a - 0.5753922462463379
+
+22) lowood_a - 0.5708642942228502
+
+Result for the vector: adele, coming from part b of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.975872577674833
+
+1) adele_a - 0.975872577674833
+
+2) mrs_fairfax_a - 0.9732998029410974
+
+3) leah_a - 0.9661602089953399
+
+4) grace_poole_a - 0.96422195434571
+
+5) georgiana_reed_a - 0.9608081579208442
+
+6) mr_rochester_a - 0.9556774497032233
+
+7) eliza_a - 0.9546898603439399
+
+8) celine_varens_a - 0.9541032937703571
+
+9) miss_ingram_a - 0.9529709247964087
+
+10) mr_brocklehurst_a - 0.9513344793716401
+
+11) sophie_a - 0.9509356617927619
+
+12) mr_mason_a - 0.9507443934235356
+
+13) mary_ann_wilson_a - 0.9483233690261909
+
+14) blanche_ingram_a - 0.9473407864570685
+
+15) jane_eyre_a - 0.9409990310669012
+
+16) mrs_poole_a - 0.9144561290741032
+
+17) mr_carter_a - 0.9109593139935358
+
+18) thornfield_a - 0.8924013568637345
+
+19) george_lynn_a - 0.8837630221984984
+
+20) lowood_a - 0.877857029438025
+
+21) john_reed_a - 0.8567526000584498
+
+22) mr_edward_a - 0.8434368465282427
+
+Result for the vector: mary_ann_wilson, coming from part b of the book
+Rank: 8 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9411472082138128
+
+1) georgiana_reed_a - 0.9599137902259894
+
+2) mrs_fairfax_a - 0.9541106847458687
+
+3) adele_a - 0.951667192478945
+
+4) leah_a - 0.9492693856576306
+
+5) sophie_a - 0.9478491544723578
+
+6) eliza_a - 0.9423117637634344
+
+7) miss_ingram_a - 0.9416031872270608
+
+8) mary_ann_wilson_a - 0.9411472082138128
+
+9) mr_brocklehurst_a - 0.9386063850756671
+
+10) mr_rochester_a - 0.9379249811172552
+
+11) celine_varens_a - 0.9376543797460585
+
+12) mr_mason_a - 0.9312547486272621
+
+13) grace_poole_a - 0.9299666881561346
+
+14) blanche_ingram_a - 0.9299033284187384
+
+15) jane_eyre_a - 0.9011030793190067
+
+16) george_lynn_a - 0.885029263196633
+
+17) mrs_poole_a - 0.8848701119422976
+
+18) mr_carter_a - 0.8714839373250083
+
+19) thornfield_a - 0.8604706179254158
+
+20) john_reed_a - 0.8449816980990726
+
+21) lowood_a - 0.8388413786888183
+
+22) mr_edward_a - 0.8299774032844676
+
+Result for the vector: miss_ingram, coming from part b of the book
+Rank: 10 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9140271816857813
+
+1) grace_poole_a - 0.9405122644167186
+
+2) mr_brocklehurst_a - 0.9368398468744713
+
+3) jane_eyre_a - 0.9347517134027229
+
+4) mr_rochester_a - 0.9321956871922933
+
+5) mr_mason_a - 0.9303987303495033
+
+6) mrs_fairfax_a - 0.9267905630704932
+
+7) mrs_poole_a - 0.9245313636539609
+
+8) adele_a - 0.9181822215969037
+
+9) eliza_a - 0.9145878775049343
+
+10) miss_ingram_a - 0.9140271816857813
+
+11) mary_ann_wilson_a - 0.9086073257274029
+
+12) celine_varens_a - 0.9085014137179085
+
+13) blanche_ingram_a - 0.9077154613478898
+
+14) thornfield_a - 0.9058633828881439
+
+15) leah_a - 0.8998554885301285
+
+16) georgiana_reed_a - 0.8971663919538018
+
+17) sophie_a - 0.8822919323109332
+
+18) lowood_a - 0.8693088474251793
+
+19) mr_carter_a - 0.8660551051481071
+
+20) george_lynn_a - 0.8331486235007237
+
+21) mr_edward_a - 0.8167381530028035
+
+22) john_reed_a - 0.8166205152910577
+
+Result for the vector: mr_mason, coming from part b of the book
+Rank: 2 out of 22 characters
+Cosine similarity to the co-referring vector: 0.969869077205658
+
+1) mr_brocklehurst_a - 0.9705544710159302
+
+2) mr_mason_a - 0.969869077205658
+
+3) mr_rochester_a - 0.9633723475558982
+
+4) miss_ingram_a - 0.9529646039009094
+
+5) jane_eyre_a - 0.950873491220088
+
+6) mrs_fairfax_a - 0.9502876996994019
+
+7) grace_poole_a - 0.9484664171020059
+
+8) celine_varens_a - 0.9365427494049072
+
+9) eliza_a - 0.9358016810298985
+
+10) mary_ann_wilson_a - 0.9344627222098559
+
+11) adele_a - 0.9309770464897156
+
+12) georgiana_reed_a - 0.9307059604350322
+
+13) blanche_ingram_a - 0.9300126391656797
+
+14) mrs_poole_a - 0.928462918309149
+
+15) leah_a - 0.9255656279792083
+
+16) mr_carter_a - 0.9230591700637851
+
+17) sophie_a - 0.9107246941760017
+
+18) george_lynn_a - 0.9063848853111267
+
+19) thornfield_a - 0.9047514313755778
+
+20) john_reed_a - 0.888265980688819
+
+21) lowood_a - 0.8788760232255488
+
+22) mr_edward_a - 0.8702186346054077
+
+Result for the vector: mr_brocklehurst, coming from part b of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.837352221809668
+
+1) mr_brocklehurst_a - 0.837352221809668
+
+2) john_reed_a - 0.8344546805159953
+
+3) george_lynn_a - 0.8310866402218792
+
+4) miss_ingram_a - 0.8262344041816094
+
+5) mr_mason_a - 0.8160235309635985
+
+6) mr_rochester_a - 0.8082113163912095
+
+7) celine_varens_a - 0.8032830958490306
+
+8) jane_eyre_a - 0.8026578908743067
+
+9) georgiana_reed_a - 0.8011200907182915
+
+10) grace_poole_a - 0.8009521843989312
+
+11) lowood_a - 0.8005125404473511
+
+12) thornfield_a - 0.7997720479897563
+
+13) mrs_fairfax_a - 0.7979052063681581
+
+14) mary_ann_wilson_a - 0.7978202576858374
+
+15) sophie_a - 0.7942860591412342
+
+16) adele_a - 0.7915503966138445
+
+17) blanche_ingram_a - 0.7867087574887696
+
+18) leah_a - 0.785947642197789
+
+19) mr_edward_a - 0.7852967359567873
+
+20) eliza_a - 0.7850995509534169
+
+21) mrs_poole_a - 0.7769970130616187
+
+22) mr_carter_a - 0.7422249980770211
+
+Result for the vector: mrs_fairfax, coming from part b of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9818476438522339
+
+1) mrs_fairfax_a - 0.9818476438522339
+
+2) adele_a - 0.9763555526733398
+
+3) leah_a - 0.9749937944112363
+
+4) georgiana_reed_a - 0.9623480416743797
+
+5) eliza_a - 0.9620643235483379
+
+6) celine_varens_a - 0.9601409435272217
+
+7) sophie_a - 0.956053075555152
+
+8) mr_rochester_a - 0.9526043506028878
+
+9) grace_poole_a - 0.9505096048420449
+
+10) miss_ingram_a - 0.9486034512519836
+
+11) mr_brocklehurst_a - 0.947670578956604
+
+12) mary_ann_wilson_a - 0.9461554852816768
+
+13) blanche_ingram_a - 0.9400991761743548
+
+14) mr_mason_a - 0.9387210011482239
+
+15) jane_eyre_a - 0.9182600330269373
+
+16) mrs_poole_a - 0.9068174902687978
+
+17) mr_carter_a - 0.8837506840377654
+
+18) thornfield_a - 0.8784085061063226
+
+19) george_lynn_a - 0.8740202784538269
+
+20) lowood_a - 0.8541418227041869
+
+21) john_reed_a - 0.8494582951714701
+
+22) mr_edward_a - 0.8252354264259338
+
+Result for the vector: georgiana_reed, coming from part b of the book
+Rank: 2 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9383840487461148
+
+1) adele_a - 0.9452205267680022
+
+2) georgiana_reed_a - 0.9383840487461148
+
+3) mrs_fairfax_a - 0.9370718560857704
+
+4) leah_a - 0.9339089632548959
+
+5) eliza_a - 0.9245518952073926
+
+6) celine_varens_a - 0.9198140454181476
+
+7) sophie_a - 0.9181351564091631
+
+8) mary_ann_wilson_a - 0.910779465529855
+
+9) miss_ingram_a - 0.908079737906442
+
+10) grace_poole_a - 0.9079241046815043
+
+11) mr_brocklehurst_a - 0.9074940030273217
+
+12) mr_rochester_a - 0.9048794394587802
+
+13) mr_mason_a - 0.8929665024856644
+
+14) blanche_ingram_a - 0.8908738959877367
+
+15) jane_eyre_a - 0.8675843319397368
+
+16) mrs_poole_a - 0.8625094726693001
+
+17) mr_carter_a - 0.8395552635192931
+
+18) george_lynn_a - 0.822765458987086
+
+19) thornfield_a - 0.8187049139318052
+
+20) lowood_a - 0.8149916905154813
+
+21) john_reed_a - 0.8131535760668899
+
+22) mr_edward_a - 0.802289056914394
+
+Result for the vector: eliza, coming from part b of the book
+Rank: 2 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9503544822652179
+
+1) adele_a - 0.952897219446219
+
+2) eliza_a - 0.9503544822652179
+
+3) mrs_fairfax_a - 0.9486859127487518
+
+4) leah_a - 0.9440042343142172
+
+5) georgiana_reed_a - 0.9427001723081032
+
+6) mr_rochester_a - 0.9371378067557047
+
+7) grace_poole_a - 0.9368196371334471
+
+8) miss_ingram_a - 0.9353816191965828
+
+9) mary_ann_wilson_a - 0.9344422460593805
+
+10) celine_varens_a - 0.9336898605135046
+
+11) mr_brocklehurst_a - 0.9326961318461938
+
+12) sophie_a - 0.9293170806154983
+
+13) blanche_ingram_a - 0.9292621847327521
+
+14) mr_mason_a - 0.9207305586555771
+
+15) jane_eyre_a - 0.9008763641902537
+
+16) mrs_poole_a - 0.895106693664792
+
+17) mr_carter_a - 0.8771080113319191
+
+18) george_lynn_a - 0.8731057308049721
+
+19) thornfield_a - 0.8599098152002953
+
+20) lowood_a - 0.8476881546695374
+
+21) john_reed_a - 0.8338621705297767
+
+22) mr_edward_a - 0.8253128774557379
+
+Result for the vector: leah, coming from part b of the book
+Rank: 4 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9266919813545985
+
+1) eliza_a - 0.9302892088890142
+
+2) mrs_fairfax_a - 0.9295504731207821
+
+3) mr_rochester_a - 0.9268136620521611
+
+4) leah_a - 0.9266919813545985
+
+5) mr_brocklehurst_a - 0.9263261600538413
+
+6) georgiana_reed_a - 0.9258844256401128
+
+7) miss_ingram_a - 0.9212743686870133
+
+8) adele_a - 0.9208999323308524
+
+9) mr_mason_a - 0.9171431113992283
+
+10) mary_ann_wilson_a - 0.9167090654373234
+
+11) celine_varens_a - 0.9107834749946924
+
+12) sophie_a - 0.9091462492942874
+
+13) grace_poole_a - 0.9066795706749027
+
+14) blanche_ingram_a - 0.90284967422486
+
+15) george_lynn_a - 0.8910701339799102
+
+16) jane_eyre_a - 0.8863217234611575
+
+17) mrs_poole_a - 0.885271251201636
+
+18) mr_carter_a - 0.8774864819661996
+
+19) john_reed_a - 0.8513689902957114
+
+20) thornfield_a - 0.83925637496894
+
+21) mr_edward_a - 0.8271686537761314
+
+22) lowood_a - 0.8197054266929684
+
+Result for the vector: sophie, coming from part b of the book
+Rank: 5 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9353476685700022
+
+1) mrs_fairfax_a - 0.9581510399670046
+
+2) leah_a - 0.9566362759443773
+
+3) adele_a - 0.9497931569691411
+
+4) eliza_a - 0.941188089989196
+
+5) sophie_a - 0.9353476685700022
+
+6) georgiana_reed_a - 0.9348970574017832
+
+7) mr_rochester_a - 0.9340380351588768
+
+8) celine_varens_a - 0.9339573940013303
+
+9) mary_ann_wilson_a - 0.9301092541348045
+
+10) miss_ingram_a - 0.929294045525436
+
+11) grace_poole_a - 0.9268895896541584
+
+12) mr_mason_a - 0.9228170468102141
+
+13) blanche_ingram_a - 0.921672513684334
+
+14) mr_brocklehurst_a - 0.9207847071161708
+
+15) jane_eyre_a - 0.8992141365068121
+
+16) mr_carter_a - 0.8952851295471255
+
+17) mrs_poole_a - 0.8889218436386399
+
+18) george_lynn_a - 0.8629377402626136
+
+19) thornfield_a - 0.8476076216931704
+
+20) john_reed_a - 0.8242527351228884
+
+21) lowood_a - 0.8236852078062543
+
+22) mr_edward_a - 0.7937399026000456
+
+Result for the vector: lowood, coming from part b of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8947231644062
+
+1) lowood_a - 0.8947231644062
+
+2) thornfield_a - 0.8889278835697385
+
+3) mr_brocklehurst_a - 0.8685641806461935
+
+4) grace_poole_a - 0.8652970630284623
+
+5) mr_rochester_a - 0.8608108593000006
+
+6) mrs_fairfax_a - 0.8596090590720823
+
+7) mr_mason_a - 0.8558480057625789
+
+8) blanche_ingram_a - 0.8556783623311952
+
+9) miss_ingram_a - 0.8526540906819174
+
+10) mary_ann_wilson_a - 0.8473089751373499
+
+11) mrs_poole_a - 0.8466841991763352
+
+12) eliza_a - 0.8459654862839563
+
+13) jane_eyre_a - 0.8451672607859684
+
+14) adele_a - 0.8434379007481292
+
+15) georgiana_reed_a - 0.8383217857267601
+
+16) leah_a - 0.8369523439066722
+
+17) celine_varens_a - 0.8344266315952931
+
+18) sophie_a - 0.8274962100382102
+
+19) mr_carter_a - 0.8224682211875974
+
+20) george_lynn_a - 0.8042630436577242
+
+21) mr_edward_a - 0.7815109361118651
+
+22) john_reed_a - 0.777134610585308
+
+Result for the vector: thornfield, coming from part b of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9776453415789607
+
+1) thornfield_a - 0.9776453415789607
+
+2) lowood_a - 0.9130734801292484
+
+3) mr_brocklehurst_a - 0.890537685719868
+
+4) mr_rochester_a - 0.8786491155624452
+
+5) mr_mason_a - 0.8736122325889941
+
+6) grace_poole_a - 0.8694133162498536
+
+7) miss_ingram_a - 0.8660594900811038
+
+8) mrs_poole_a - 0.8654569983482422
+
+9) mrs_fairfax_a - 0.8631666384240023
+
+10) jane_eyre_a - 0.8554924130439819
+
+11) blanche_ingram_a - 0.8481812477111876
+
+12) celine_varens_a - 0.8413744663372968
+
+13) mary_ann_wilson_a - 0.8396922945976317
+
+14) eliza_a - 0.8370323777198851
+
+15) adele_a - 0.8368016578673343
+
+16) georgiana_reed_a - 0.8335624933242857
+
+17) leah_a - 0.8283533207072851
+
+18) george_lynn_a - 0.8267430766378014
+
+19) sophie_a - 0.8253579139709531
+
+20) mr_carter_a - 0.8061294786775733
+
+21) john_reed_a - 0.8052821507545455
+
+22) mr_edward_a - 0.7876390345311755
+
+Result for the vector: mr_edward, coming from part b of the book
+Rank: 21 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8576275621430628
+
+1) mr_mason_a - 0.9600166058550259
+
+2) mr_brocklehurst_a - 0.9585570668314156
+
+3) mr_rochester_a - 0.9567218371298118
+
+4) grace_poole_a - 0.94181727669445
+
+5) jane_eyre_a - 0.9312789358233137
+
+6) mrs_fairfax_a - 0.9284940319355762
+
+7) miss_ingram_a - 0.9235551311704611
+
+8) blanche_ingram_a - 0.9229059723503557
+
+9) mrs_poole_a - 0.9213549997037649
+
+10) mary_ann_wilson_a - 0.9179007909179676
+
+11) eliza_a - 0.9175423881462083
+
+12) mr_carter_a - 0.9142409563064641
+
+13) celine_varens_a - 0.9129995651840921
+
+14) georgiana_reed_a - 0.9083090315233506
+
+15) leah_a - 0.9063405012792801
+
+16) adele_a - 0.9054911080295523
+
+17) sophie_a - 0.8989140270845922
+
+18) thornfield_a - 0.8925731246129939
+
+19) george_lynn_a - 0.8783878611557416
+
+20) lowood_a - 0.8701248610168529
+
+21) mr_edward_a - 0.8576275621430628
+
+22) john_reed_a - 0.8435041401681951
+
+Result for the vector: blanche_ingram, coming from part b of the book
+Rank: 3 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8029790881847249
+
+1) mary_ann_wilson_a - 0.8105037582521151
+
+2) jane_eyre_a - 0.8078545698946201
+
+3) blanche_ingram_a - 0.8029790881847249
+
+4) grace_poole_a - 0.7933330289522444
+
+5) miss_ingram_a - 0.7890113466388804
+
+6) mrs_poole_a - 0.7825985291717683
+
+7) eliza_a - 0.7812714912022938
+
+8) mr_brocklehurst_a - 0.7789748775348008
+
+9) celine_varens_a - 0.7756839260866611
+
+10) thornfield_a - 0.7746853962728268
+
+11) mr_rochester_a - 0.7742590635131673
+
+12) mrs_fairfax_a - 0.7641898253077178
+
+13) georgiana_reed_a - 0.7636078910360207
+
+14) mr_mason_a - 0.7611632800795617
+
+15) adele_a - 0.7553445551004754
+
+16) leah_a - 0.7449888657023492
+
+17) lowood_a - 0.7447120839014153
+
+18) george_lynn_a - 0.7435909356827115
+
+19) mr_carter_a - 0.7248600125312856
+
+20) john_reed_a - 0.722375945903316
+
+21) sophie_a - 0.7191461585934351
+
+22) mr_edward_a - 0.6567664537886664
+
+Result for the vector: grace_poole, coming from part b of the book
+Rank: 1 out of 22 characters
+Cosine similarity to the co-referring vector: 0.9697041511535713
+
+1) grace_poole_a - 0.9697041511535713
+
+2) mrs_fairfax_a - 0.9469679029603079
+
+3) mr_rochester_a - 0.946203827857978
+
+4) mr_mason_a - 0.9429516230254414
+
+5) mr_brocklehurst_a - 0.9426751170948094
+
+6) jane_eyre_a - 0.9347142577171392
+
+7) eliza_a - 0.9326734542846746
+
+8) miss_ingram_a - 0.9323083798701554
+
+9) adele_a - 0.931773487819823
+
+10) celine_varens_a - 0.9309166114976059
+
+11) leah_a - 0.9280734381653871
+
+12) mrs_poole_a - 0.927053570747382
+
+13) mary_ann_wilson_a - 0.9229140877723759
+
+14) blanche_ingram_a - 0.9184532761573857
+
+15) georgiana_reed_a - 0.9174350500106877
+
+16) mr_carter_a - 0.9032161351184684
+
+17) sophie_a - 0.8985633850097721
+
+18) thornfield_a - 0.8957681842264815
+
+19) lowood_a - 0.8797739744186464
+
+20) george_lynn_a - 0.8552067366119199
+
+21) john_reed_a - 0.8365323239805134
+
+22) mr_edward_a - 0.8271560175921921
+
+Result for the vector: celine_varens, coming from part b of the book
+Rank: 6 out of 22 characters
+Cosine similarity to the co-referring vector: 0.8400782251404673
+
+1) mary_ann_wilson_a - 0.8475555595821809
+
+2) grace_poole_a - 0.8461302335417549
+
+3) mrs_fairfax_a - 0.8461028245748788
+
+4) adele_a - 0.8425485397904255
+
+5) blanche_ingram_a - 0.840673904499281
+
+6) celine_varens_a - 0.8400782251404673
+
+7) mr_rochester_a - 0.8346643846827012
+
+8) eliza_a - 0.834272901329148
+
+9) mr_brocklehurst_a - 0.8310920495445773
+
+10) miss_ingram_a - 0.8280330793877306
+
+11) leah_a - 0.827971174833582
+
+12) georgiana_reed_a - 0.8241884498820841
+
+13) mr_mason_a - 0.8236307396668652
+
+14) sophie_a - 0.8189136766092392
+
+15) jane_eyre_a - 0.810194231294898
+
+16) thornfield_a - 0.8029956935050798
+
+17) mrs_poole_a - 0.7986188290856873
+
+18) lowood_a - 0.7967283483419834
+
+19) mr_carter_a - 0.7826392054557856
+
+20) mr_edward_a - 0.7321445186224306
+
+21) george_lynn_a - 0.7302699524325117
+
+22) john_reed_a - 0.71209736394303
+
+Result for the vector: mr_carter, coming from part b of the book
+Rank: 8 out of 22 characters
+Cosine similarity to the co-referring vector: 0.7972160698642703
+
+1) eliza_a - 0.8095078950827074
+
+2) mrs_fairfax_a - 0.8064674139022827
+
+3) mary_ann_wilson_a - 0.8014147759327173
+
+4) leah_a - 0.7996801376247451
+
+5) mr_brocklehurst_a - 0.7992823719978333
+
+6) celine_varens_a - 0.7988573908805847
+
+7) miss_ingram_a - 0.7977632880210876
+
+8) mr_carter_a - 0.7972160698642703
+
+9) mr_rochester_a - 0.7970663188139404
+
+10) grace_poole_a - 0.7966583249961345
+
+11) mr_mason_a - 0.7959960699081421
+
+12) adele_a - 0.7935412526130676
+
+13) blanche_ingram_a - 0.7915381068908054
+
+14) georgiana_reed_a - 0.7838975658355707
+
+15) sophie_a - 0.7822014559627462
+
+16) jane_eyre_a - 0.7736229761614203
+
+17) george_lynn_a - 0.765507698059082
+
+18) mrs_poole_a - 0.7554351541659341
+
+19) thornfield_a - 0.7274102297532337
+
+20) lowood_a - 0.7261871532313332
+
+21) john_reed_a - 0.7195420599529723
+
+22) mr_edward_a - 0.6966118216514587
+
+Result for the vector: mrs_poole, coming from part b of the book
+Rank: 16 out of 22 characters
+Cosine similarity to the co-referring vector: 0.892405530131358
+
+1) mrs_fairfax_a - 0.9365679304769022
+
+2) adele_a - 0.9258015431702601
+
+3) blanche_ingram_a - 0.9238005510390301
+
+4) grace_poole_a - 0.922406517482387
+
+5) leah_a - 0.9211533618660784
+
+6) eliza_a - 0.9203280437285943
+
+7) mr_brocklehurst_a - 0.9179635917533518
+
+8) mr_mason_a - 0.9176352893601448
+
+9) miss_ingram_a - 0.9173003708511706
+
+10) mary_ann_wilson_a - 0.9150685294033767
+
+11) mr_rochester_a - 0.913990936934138
+
+12) georgiana_reed_a - 0.9133420807131009
+
+13) jane_eyre_a - 0.9028441521088025
+
+14) celine_varens_a - 0.8962588577347658
+
+15) sophie_a - 0.8940971697059727
+
+16) mrs_poole_a - 0.892405530131358
+
+17) mr_carter_a - 0.8837839101617398
+
+18) thornfield_a - 0.8629779640157946
+
+19) george_lynn_a - 0.8460996999174271
+
+20) lowood_a - 0.8384014521600118
+
+21) john_reed_a - 0.8093689552513789
+
+22) mr_edward_a - 0.8026858807410566
+
+Result for the vector: george_lynn, coming from part b of the book
+Rank: 2 out of 22 characters
+Cosine similarity to the co-referring vector: 0.702903670245629
+
+1) thornfield_a - 0.7161438038263552
+
+2) george_lynn_a - 0.702903670245629
+
+3) lowood_a - 0.6951649421650102
+
+4) mary_ann_wilson_a - 0.6677413782765124
+
+5) miss_ingram_a - 0.6653826037277355
+
+6) mr_brocklehurst_a - 0.6634714998883915
+
+7) georgiana_reed_a - 0.6633733109680785
+
+8) mrs_fairfax_a - 0.6611094868844454
+
+9) blanche_ingram_a - 0.6606331063071617
+
+10) mr_rochester_a - 0.6565187760017843
+
+11) eliza_a - 0.6538240496902525
+
+12) celine_varens_a - 0.653615811682691
+
+13) grace_poole_a - 0.6507483304438985
+
+14) john_reed_a - 0.6483124108128406
+
+15) mr_mason_a - 0.6477038650336197
+
+16) leah_a - 0.6464180928246465
+
+17) adele_a - 0.6433273341254803
+
+18) jane_eyre_a - 0.6404847074132809
+
+19) mrs_poole_a - 0.6362470550831621
+
+20) sophie_a - 0.6356066030987028
+
+21) mr_carter_a - 0.618064939975743
+
+22) mr_edward_a - 0.6022261144057591
+

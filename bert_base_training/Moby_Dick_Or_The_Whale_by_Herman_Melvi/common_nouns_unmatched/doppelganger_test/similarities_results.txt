@@ -1,0 +1,1152 @@
+Result for the vector: whale, coming from part a of the book
+Rank: 2 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9516685037810519
+
+1) man_b - 0.9584176515589762
+
+2) whale_b - 0.9516685037810519
+
+3) ship_b - 0.9481876492500305
+
+4) boat_b - 0.9422849451133658
+
+5) head_b - 0.9385271072387695
+
+6) water_b - 0.9317775050335383
+
+7) day_b - 0.9205676591565511
+
+8) thing_b - 0.9186474084854126
+
+9) hand_b - 0.9176445280803603
+
+10) sea_b - 0.9159807562828064
+
+11) deck_b - 0.9137714505195618
+
+12) way_b - 0.9125761985778809
+
+13) eye_b - 0.9078694636899569
+
+14) side_b - 0.8989195823669434
+
+15) time_b - 0.8842219377822266
+
+16) thou_b - 0.8507913528929588
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9837007512867916
+
+1) man_b - 0.9837007512867916
+
+2) thing_b - 0.9435200095176697
+
+3) whale_b - 0.9340974727810952
+
+4) head_b - 0.931835949420929
+
+5) hand_b - 0.9267438926322432
+
+6) day_b - 0.924775151156639
+
+7) ship_b - 0.9238157272338867
+
+8) way_b - 0.9192452430725098
+
+9) boat_b - 0.9133598260069014
+
+10) eye_b - 0.913271670742533
+
+11) time_b - 0.9038425357294843
+
+12) water_b - 0.9018848807181387
+
+13) deck_b - 0.8938241600990295
+
+14) side_b - 0.8869061470031738
+
+15) sea_b - 0.8855908513069153
+
+16) thou_b - 0.8704084312428976
+
+Result for the vector: ship, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9726641790470988
+
+1) ship_b - 0.9726641790470988
+
+2) boat_b - 0.9693982041599507
+
+3) whale_b - 0.9595786381270125
+
+4) man_b - 0.946514844894416
+
+5) deck_b - 0.9435191188145226
+
+6) head_b - 0.9369775094403338
+
+7) water_b - 0.9352116902109514
+
+8) sea_b - 0.9318786304069399
+
+9) way_b - 0.9277715726034913
+
+10) day_b - 0.9176174128765675
+
+11) hand_b - 0.9169287408313567
+
+12) side_b - 0.9093411022817448
+
+13) thing_b - 0.9055961426737239
+
+14) eye_b - 0.8985297800863051
+
+15) time_b - 0.8862597678226337
+
+16) thou_b - 0.8391264964711985
+
+Result for the vector: sea, coming from part a of the book
+Rank: 2 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9526444588860055
+
+1) ship_b - 0.953197232460496
+
+2) sea_b - 0.9526444588860055
+
+3) deck_b - 0.9426678912641958
+
+4) water_b - 0.939106123856998
+
+5) boat_b - 0.9370147510784834
+
+6) day_b - 0.9241678854577405
+
+7) whale_b - 0.9241423516443458
+
+8) man_b - 0.9236693200276727
+
+9) head_b - 0.9189438078899187
+
+10) side_b - 0.9121427378909861
+
+11) way_b - 0.9106314618524688
+
+12) hand_b - 0.9067855580895914
+
+13) thing_b - 0.8986162958055215
+
+14) eye_b - 0.8985842941504131
+
+15) time_b - 0.8981521811206818
+
+16) thou_b - 0.8370011351705646
+
+Result for the vector: boat, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9759731917413245
+
+1) boat_b - 0.9759731917413245
+
+2) ship_b - 0.9706583636606733
+
+3) whale_b - 0.9513003884195819
+
+4) deck_b - 0.9512775569392724
+
+5) head_b - 0.950842741081553
+
+6) water_b - 0.9449184851372732
+
+7) man_b - 0.9386581182479925
+
+8) hand_b - 0.933015616744295
+
+9) sea_b - 0.9304835241744819
+
+10) way_b - 0.9298253101214599
+
+11) side_b - 0.9251622006200448
+
+12) eye_b - 0.9186461068813674
+
+13) day_b - 0.9108793464040987
+
+14) thing_b - 0.8959519329099711
+
+15) time_b - 0.8856081698653683
+
+16) thou_b - 0.8331425488336311
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9740017331244115
+
+1) time_b - 0.9740017331244115
+
+2) day_b - 0.945943857366788
+
+3) way_b - 0.9239916160101678
+
+4) thing_b - 0.9092794006633418
+
+5) man_b - 0.9058644659357626
+
+6) hand_b - 0.8994201033789015
+
+7) head_b - 0.885699324947557
+
+8) eye_b - 0.8759959340095582
+
+9) ship_b - 0.8732862993053392
+
+10) deck_b - 0.8729313536245453
+
+11) water_b - 0.8664004385233322
+
+12) side_b - 0.8659856239548713
+
+13) sea_b - 0.8607987678527113
+
+14) boat_b - 0.8579876422882141
+
+15) whale_b - 0.8568146228790344
+
+16) thou_b - 0.8268278344376319
+
+Result for the vector: head, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9736372522603651
+
+1) head_b - 0.9736372522603651
+
+2) eye_b - 0.9548432542430423
+
+3) hand_b - 0.9491373270235852
+
+4) man_b - 0.9367968681571072
+
+5) ship_b - 0.929402140659158
+
+6) boat_b - 0.9282135686810778
+
+7) deck_b - 0.9275536813602953
+
+8) side_b - 0.9271505751356658
+
+9) way_b - 0.9268211402541743
+
+10) whale_b - 0.9210191094571655
+
+11) water_b - 0.919221098376578
+
+12) thing_b - 0.9152827535653939
+
+13) day_b - 0.9070786182331215
+
+14) sea_b - 0.8989001780420599
+
+15) time_b - 0.8958185253035144
+
+16) thou_b - 0.8540857266707164
+
+Result for the vector: hand, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9768582887393785
+
+1) hand_b - 0.9768582887393785
+
+2) eye_b - 0.9452049797529006
+
+3) head_b - 0.9441886577493769
+
+4) way_b - 0.9319934289459347
+
+5) man_b - 0.9314569830894537
+
+6) side_b - 0.9218344138959416
+
+7) boat_b - 0.9141799313807569
+
+8) ship_b - 0.9128387026286915
+
+9) deck_b - 0.9110472851367439
+
+10) day_b - 0.9096057739971384
+
+11) thing_b - 0.9071392472303379
+
+12) water_b - 0.9057677118251446
+
+13) whale_b - 0.9002128362401919
+
+14) time_b - 0.8973664969990737
+
+15) sea_b - 0.8834196994650558
+
+16) thou_b - 0.8493339092730461
+
+Result for the vector: thing, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9685138501508483
+
+1) thing_b - 0.9685138501508483
+
+2) man_b - 0.9361717739002989
+
+3) way_b - 0.9308968864802324
+
+4) day_b - 0.92098460307856
+
+5) time_b - 0.9209575425722514
+
+6) hand_b - 0.9157421366206984
+
+7) eye_b - 0.9114350238856647
+
+8) head_b - 0.9085055102699451
+
+9) ship_b - 0.8973314884505945
+
+10) water_b - 0.8895005980580609
+
+11) whale_b - 0.8870149456831926
+
+12) boat_b - 0.8838703840010688
+
+13) deck_b - 0.8814193151689454
+
+14) side_b - 0.8775329139789507
+
+15) sea_b - 0.872553184920176
+
+16) thou_b - 0.8396692658259235
+
+Result for the vector: way, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9661400894010137
+
+1) way_b - 0.9661400894010137
+
+2) thing_b - 0.9476534693034587
+
+3) man_b - 0.9396020698072993
+
+4) day_b - 0.9361412170059581
+
+5) time_b - 0.9327973961350978
+
+6) hand_b - 0.9276032681110447
+
+7) head_b - 0.9250131800778632
+
+8) eye_b - 0.9141858220100468
+
+9) ship_b - 0.9132170625458413
+
+10) deck_b - 0.9103074616377049
+
+11) boat_b - 0.9075279235839908
+
+12) side_b - 0.9037374200664429
+
+13) whale_b - 0.9024788141250675
+
+14) water_b - 0.8966338244051184
+
+15) sea_b - 0.8933493431418759
+
+16) thou_b - 0.8373893000251605
+
+Result for the vector: water, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9782395641421886
+
+1) water_b - 0.9782395641421886
+
+2) sea_b - 0.971168039510731
+
+3) ship_b - 0.9560785863446364
+
+4) deck_b - 0.95503067702238
+
+5) boat_b - 0.9478898048400947
+
+6) whale_b - 0.9347643852233953
+
+7) head_b - 0.93428325261374
+
+8) side_b - 0.93263083294814
+
+9) way_b - 0.932091649299364
+
+10) eye_b - 0.9267041683197087
+
+11) day_b - 0.9235204091835392
+
+12) man_b - 0.9197683834753494
+
+13) hand_b - 0.9179961310025575
+
+14) thing_b - 0.9100240415349048
+
+15) time_b - 0.8978087512679775
+
+16) thou_b - 0.8369845845112586
+
+Result for the vector: day, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.978147355748477
+
+1) day_b - 0.978147355748477
+
+2) time_b - 0.9385413770563645
+
+3) way_b - 0.9254205778491857
+
+4) man_b - 0.9170199533724729
+
+5) hand_b - 0.9042009923637805
+
+6) thing_b - 0.9035201015186386
+
+7) head_b - 0.8973250923946571
+
+8) deck_b - 0.8934053715113043
+
+9) ship_b - 0.8920758898303459
+
+10) sea_b - 0.8852679661076064
+
+11) boat_b - 0.882953763008124
+
+12) eye_b - 0.8824103474617067
+
+13) water_b - 0.8805051041101016
+
+14) side_b - 0.8759361431560617
+
+15) whale_b - 0.8742821216583314
+
+16) thou_b - 0.8451528641490557
+
+Result for the vector: eye, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9646480988070973
+
+1) eye_b - 0.9646480988070973
+
+2) head_b - 0.9313105622324519
+
+3) hand_b - 0.9238194181811463
+
+4) man_b - 0.8971672860235533
+
+5) way_b - 0.894394305181334
+
+6) side_b - 0.8844204808598904
+
+7) thing_b - 0.8824771905683638
+
+8) water_b - 0.8822944690164607
+
+9) ship_b - 0.8781413697642501
+
+10) boat_b - 0.8778163529093196
+
+11) deck_b - 0.8763653301109476
+
+12) day_b - 0.8698156398424888
+
+13) whale_b - 0.8672302702894761
+
+14) sea_b - 0.8647452850563913
+
+15) time_b - 0.8600299274939256
+
+16) thou_b - 0.8216568689057141
+
+Result for the vector: side, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9706380980826576
+
+1) side_b - 0.9706380980826576
+
+2) deck_b - 0.9412521158902593
+
+3) head_b - 0.9216885017342284
+
+4) hand_b - 0.9202499115392628
+
+5) ship_b - 0.9143716147916563
+
+6) way_b - 0.9134691409189037
+
+7) water_b - 0.9127317394992227
+
+8) boat_b - 0.9120103821742079
+
+9) whale_b - 0.89727951320654
+
+10) eye_b - 0.8949023610469865
+
+11) sea_b - 0.8947266999049978
+
+12) day_b - 0.8835811351662571
+
+13) man_b - 0.8807277679443422
+
+14) time_b - 0.8670876363787794
+
+15) thing_b - 0.8641499361902528
+
+16) thou_b - 0.8016201016390156
+
+Result for the vector: thou, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9787946990025761
+
+1) thou_b - 0.9787946990025761
+
+2) man_b - 0.885172552754145
+
+3) head_b - 0.8730852159160181
+
+4) hand_b - 0.8620694701013538
+
+5) way_b - 0.8592537213261521
+
+6) day_b - 0.8528296781036641
+
+7) time_b - 0.8459060031855793
+
+8) thing_b - 0.8427533694799758
+
+9) whale_b - 0.8379198602581289
+
+10) ship_b - 0.8362919287333633
+
+11) eye_b - 0.836145787928263
+
+12) water_b - 0.8298529240620595
+
+13) deck_b - 0.8265300599896895
+
+14) boat_b - 0.8249969795351676
+
+15) side_b - 0.8189808942102378
+
+16) sea_b - 0.8055178754904476
+
+Result for the vector: deck, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.981967776476377
+
+1) deck_b - 0.981967776476377
+
+2) ship_b - 0.9504901453998732
+
+3) boat_b - 0.9433341341217159
+
+4) side_b - 0.9423888606544993
+
+5) sea_b - 0.9317136684570814
+
+6) water_b - 0.9315285045819583
+
+7) head_b - 0.9256907381323204
+
+8) whale_b - 0.9135343756218477
+
+9) hand_b - 0.9023602546668205
+
+10) way_b - 0.9014626414019661
+
+11) man_b - 0.8943493569805647
+
+12) day_b - 0.8936480220346464
+
+13) eye_b - 0.889693591305808
+
+14) time_b - 0.8686958473143487
+
+15) thing_b - 0.8672784825348405
+
+16) thou_b - 0.8040302273008113
+
+Result for the vector: whale, coming from part b of the book
+Rank: 2 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9516685037810519
+
+1) ship_a - 0.9595786381270125
+
+2) whale_a - 0.9516685037810519
+
+3) boat_a - 0.9513003884195819
+
+4) water_a - 0.9347643852233953
+
+5) man_a - 0.9340974727810952
+
+6) sea_a - 0.9241423516443458
+
+7) head_a - 0.9210191094571655
+
+8) deck_a - 0.9135343756218477
+
+9) way_a - 0.9024788141250675
+
+10) hand_a - 0.9002128362401919
+
+11) side_a - 0.89727951320654
+
+12) thing_a - 0.8870149456831926
+
+13) day_a - 0.8742821216583314
+
+14) eye_a - 0.8672302702894761
+
+15) time_a - 0.8568146228790344
+
+16) thou_a - 0.8379198602581289
+
+Result for the vector: man, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9837007512867916
+
+1) man_a - 0.9837007512867916
+
+2) whale_a - 0.9584176515589762
+
+3) ship_a - 0.946514844894416
+
+4) way_a - 0.9396020698072993
+
+5) boat_a - 0.9386581182479925
+
+6) head_a - 0.9367968681571072
+
+7) thing_a - 0.9361717739002989
+
+8) hand_a - 0.9314569830894537
+
+9) sea_a - 0.9236693200276727
+
+10) water_a - 0.9197683834753494
+
+11) day_a - 0.9170199533724729
+
+12) time_a - 0.9058644659357626
+
+13) eye_a - 0.8971672860235533
+
+14) deck_a - 0.8943493569805647
+
+15) thou_a - 0.885172552754145
+
+16) side_a - 0.8807277679443422
+
+Result for the vector: ship, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9726641790470988
+
+1) ship_a - 0.9726641790470988
+
+2) boat_a - 0.9706583636606733
+
+3) water_a - 0.9560785863446364
+
+4) sea_a - 0.953197232460496
+
+5) deck_a - 0.9504901453998732
+
+6) whale_a - 0.9481876492500305
+
+7) head_a - 0.929402140659158
+
+8) man_a - 0.9238157272338867
+
+9) side_a - 0.9143716147916563
+
+10) way_a - 0.9132170625458413
+
+11) hand_a - 0.9128387026286915
+
+12) thing_a - 0.8973314884505945
+
+13) day_a - 0.8920758898303459
+
+14) eye_a - 0.8781413697642501
+
+15) time_a - 0.8732862993053392
+
+16) thou_a - 0.8362919287333633
+
+Result for the vector: sea, coming from part b of the book
+Rank: 2 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9526444588860055
+
+1) water_a - 0.971168039510731
+
+2) sea_a - 0.9526444588860055
+
+3) ship_a - 0.9318786304069399
+
+4) deck_a - 0.9317136684570814
+
+5) boat_a - 0.9304835241744819
+
+6) whale_a - 0.9159807562828064
+
+7) head_a - 0.8989001780420599
+
+8) side_a - 0.8947266999049978
+
+9) way_a - 0.8933493431418759
+
+10) man_a - 0.8855908513069153
+
+11) day_a - 0.8852679661076064
+
+12) hand_a - 0.8834196994650558
+
+13) thing_a - 0.872553184920176
+
+14) eye_a - 0.8647452850563913
+
+15) time_a - 0.8607987678527113
+
+16) thou_a - 0.8055178754904476
+
+Result for the vector: boat, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9759731917413245
+
+1) boat_a - 0.9759731917413245
+
+2) ship_a - 0.9693982041599507
+
+3) water_a - 0.9478898048400947
+
+4) deck_a - 0.9433341341217159
+
+5) whale_a - 0.9422849451133658
+
+6) sea_a - 0.9370147510784834
+
+7) head_a - 0.9282135686810778
+
+8) hand_a - 0.9141799313807569
+
+9) man_a - 0.9133598260069014
+
+10) side_a - 0.9120103821742079
+
+11) way_a - 0.9075279235839908
+
+12) thing_a - 0.8838703840010688
+
+13) day_a - 0.882953763008124
+
+14) eye_a - 0.8778163529093196
+
+15) time_a - 0.8579876422882141
+
+16) thou_a - 0.8249969795351676
+
+Result for the vector: time, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9740017331244115
+
+1) time_a - 0.9740017331244115
+
+2) day_a - 0.9385413770563645
+
+3) way_a - 0.9327973961350978
+
+4) thing_a - 0.9209575425722514
+
+5) man_a - 0.9038425357294843
+
+6) sea_a - 0.8981521811206818
+
+7) water_a - 0.8978087512679775
+
+8) hand_a - 0.8973664969990737
+
+9) head_a - 0.8958185253035144
+
+10) ship_a - 0.8862597678226337
+
+11) boat_a - 0.8856081698653683
+
+12) whale_a - 0.8842219377822266
+
+13) deck_a - 0.8686958473143487
+
+14) side_a - 0.8670876363787794
+
+15) eye_a - 0.8600299274939256
+
+16) thou_a - 0.8459060031855793
+
+Result for the vector: head, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9736372522603651
+
+1) head_a - 0.9736372522603651
+
+2) boat_a - 0.950842741081553
+
+3) hand_a - 0.9441886577493769
+
+4) whale_a - 0.9385271072387695
+
+5) ship_a - 0.9369775094403338
+
+6) water_a - 0.93428325261374
+
+7) man_a - 0.931835949420929
+
+8) eye_a - 0.9313105622324519
+
+9) deck_a - 0.9256907381323204
+
+10) way_a - 0.9250131800778632
+
+11) side_a - 0.9216885017342284
+
+12) sea_a - 0.9189438078899187
+
+13) thing_a - 0.9085055102699451
+
+14) day_a - 0.8973250923946571
+
+15) time_a - 0.885699324947557
+
+16) thou_a - 0.8730852159160181
+
+Result for the vector: hand, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9768582887393785
+
+1) hand_a - 0.9768582887393785
+
+2) head_a - 0.9491373270235852
+
+3) boat_a - 0.933015616744295
+
+4) way_a - 0.9276032681110447
+
+5) man_a - 0.9267438926322432
+
+6) eye_a - 0.9238194181811463
+
+7) side_a - 0.9202499115392628
+
+8) water_a - 0.9179961310025575
+
+9) whale_a - 0.9176445280803603
+
+10) ship_a - 0.9169287408313567
+
+11) thing_a - 0.9157421366206984
+
+12) sea_a - 0.9067855580895914
+
+13) day_a - 0.9042009923637805
+
+14) deck_a - 0.9023602546668205
+
+15) time_a - 0.8994201033789015
+
+16) thou_a - 0.8620694701013538
+
+Result for the vector: thing, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9685138501508483
+
+1) thing_a - 0.9685138501508483
+
+2) way_a - 0.9476534693034587
+
+3) man_a - 0.9435200095176697
+
+4) whale_a - 0.9186474084854126
+
+5) head_a - 0.9152827535653939
+
+6) water_a - 0.9100240415349048
+
+7) time_a - 0.9092794006633418
+
+8) hand_a - 0.9071392472303379
+
+9) ship_a - 0.9055961426737239
+
+10) day_a - 0.9035201015186386
+
+11) sea_a - 0.8986162958055215
+
+12) boat_a - 0.8959519329099711
+
+13) eye_a - 0.8824771905683638
+
+14) deck_a - 0.8672784825348405
+
+15) side_a - 0.8641499361902528
+
+16) thou_a - 0.8427533694799758
+
+Result for the vector: way, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9661400894010137
+
+1) way_a - 0.9661400894010137
+
+2) water_a - 0.932091649299364
+
+3) hand_a - 0.9319934289459347
+
+4) thing_a - 0.9308968864802324
+
+5) boat_a - 0.9298253101214599
+
+6) ship_a - 0.9277715726034913
+
+7) head_a - 0.9268211402541743
+
+8) day_a - 0.9254205778491857
+
+9) time_a - 0.9239916160101678
+
+10) man_a - 0.9192452430725098
+
+11) side_a - 0.9134691409189037
+
+12) whale_a - 0.9125761985778809
+
+13) sea_a - 0.9106314618524688
+
+14) deck_a - 0.9014626414019661
+
+15) eye_a - 0.894394305181334
+
+16) thou_a - 0.8592537213261521
+
+Result for the vector: water, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9782395641421886
+
+1) water_a - 0.9782395641421886
+
+2) boat_a - 0.9449184851372732
+
+3) sea_a - 0.939106123856998
+
+4) ship_a - 0.9352116902109514
+
+5) whale_a - 0.9317775050335383
+
+6) deck_a - 0.9315285045819583
+
+7) head_a - 0.919221098376578
+
+8) side_a - 0.9127317394992227
+
+9) hand_a - 0.9057677118251446
+
+10) man_a - 0.9018848807181387
+
+11) way_a - 0.8966338244051184
+
+12) thing_a - 0.8895005980580609
+
+13) eye_a - 0.8822944690164607
+
+14) day_a - 0.8805051041101016
+
+15) time_a - 0.8664004385233322
+
+16) thou_a - 0.8298529240620595
+
+Result for the vector: day, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.978147355748477
+
+1) day_a - 0.978147355748477
+
+2) time_a - 0.945943857366788
+
+3) way_a - 0.9361412170059581
+
+4) man_a - 0.924775151156639
+
+5) sea_a - 0.9241678854577405
+
+6) water_a - 0.9235204091835392
+
+7) thing_a - 0.92098460307856
+
+8) whale_a - 0.9205676591565511
+
+9) ship_a - 0.9176174128765675
+
+10) boat_a - 0.9108793464040987
+
+11) hand_a - 0.9096057739971384
+
+12) head_a - 0.9070786182331215
+
+13) deck_a - 0.8936480220346464
+
+14) side_a - 0.8835811351662571
+
+15) eye_a - 0.8698156398424888
+
+16) thou_a - 0.8528296781036641
+
+Result for the vector: eye, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9646480988070973
+
+1) eye_a - 0.9646480988070973
+
+2) head_a - 0.9548432542430423
+
+3) hand_a - 0.9452049797529006
+
+4) water_a - 0.9267041683197087
+
+5) boat_a - 0.9186461068813674
+
+6) way_a - 0.9141858220100468
+
+7) man_a - 0.913271670742533
+
+8) thing_a - 0.9114350238856647
+
+9) whale_a - 0.9078694636899569
+
+10) sea_a - 0.8985842941504131
+
+11) ship_a - 0.8985297800863051
+
+12) side_a - 0.8949023610469865
+
+13) deck_a - 0.889693591305808
+
+14) day_a - 0.8824103474617067
+
+15) time_a - 0.8759959340095582
+
+16) thou_a - 0.836145787928263
+
+Result for the vector: side, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9706380980826576
+
+1) side_a - 0.9706380980826576
+
+2) deck_a - 0.9423888606544993
+
+3) water_a - 0.93263083294814
+
+4) head_a - 0.9271505751356658
+
+5) boat_a - 0.9251622006200448
+
+6) hand_a - 0.9218344138959416
+
+7) sea_a - 0.9121427378909861
+
+8) ship_a - 0.9093411022817448
+
+9) way_a - 0.9037374200664429
+
+10) whale_a - 0.8989195823669434
+
+11) man_a - 0.8869061470031738
+
+12) eye_a - 0.8844204808598904
+
+13) thing_a - 0.8775329139789507
+
+14) day_a - 0.8759361431560617
+
+15) time_a - 0.8659856239548713
+
+16) thou_a - 0.8189808942102378
+
+Result for the vector: thou, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9787946990025761
+
+1) thou_a - 0.9787946990025761
+
+2) man_a - 0.8704084312428976
+
+3) head_a - 0.8540857266707164
+
+4) whale_a - 0.8507913528929588
+
+5) hand_a - 0.8493339092730461
+
+6) day_a - 0.8451528641490557
+
+7) thing_a - 0.8396692658259235
+
+8) ship_a - 0.8391264964711985
+
+9) way_a - 0.8373893000251605
+
+10) sea_a - 0.8370011351705646
+
+11) water_a - 0.8369845845112586
+
+12) boat_a - 0.8331425488336311
+
+13) time_a - 0.8268278344376319
+
+14) eye_a - 0.8216568689057141
+
+15) deck_a - 0.8040302273008113
+
+16) side_a - 0.8016201016390156
+
+Result for the vector: deck, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.981967776476377
+
+1) deck_a - 0.981967776476377
+
+2) water_a - 0.95503067702238
+
+3) boat_a - 0.9512775569392724
+
+4) ship_a - 0.9435191188145226
+
+5) sea_a - 0.9426678912641958
+
+6) side_a - 0.9412521158902593
+
+7) head_a - 0.9275536813602953
+
+8) whale_a - 0.9137714505195618
+
+9) hand_a - 0.9110472851367439
+
+10) way_a - 0.9103074616377049
+
+11) man_a - 0.8938241600990295
+
+12) day_a - 0.8934053715113043
+
+13) thing_a - 0.8814193151689454
+
+14) eye_a - 0.8763653301109476
+
+15) time_a - 0.8729313536245453
+
+16) thou_a - 0.8265300599896895
+

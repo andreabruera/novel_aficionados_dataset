@@ -1,0 +1,192 @@
+Result for the vector: thing, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8505756169900802
+
+1) thing_a - 0.8505756169900802
+
+2) child_a - 0.792065083980566
+
+3) man_a - 0.7721020715175838
+
+4) husband_a - 0.7454033271848194
+
+5) room_a - 0.6944158855428776
+
+6) door_a - 0.6407621311914311
+
+Result for the vector: door, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.887881782289797
+
+1) door_a - 0.887881782289797
+
+2) room_a - 0.801817774772644
+
+3) child_a - 0.7658437946941744
+
+4) thing_a - 0.7278432521633262
+
+5) man_a - 0.7113142609596252
+
+6) husband_a - 0.6888908949163826
+
+Result for the vector: child, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9225370791598653
+
+1) child_a - 0.9225370791598653
+
+2) husband_a - 0.8828249766968174
+
+3) thing_a - 0.8786256096289667
+
+4) man_a - 0.8556545886787542
+
+5) room_a - 0.8146310338158046
+
+6) door_a - 0.7561137160164463
+
+Result for the vector: husband, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9214090062027577
+
+1) husband_a - 0.9214090062027577
+
+2) child_a - 0.8684091748365026
+
+3) man_a - 0.8520987287789208
+
+4) thing_a - 0.8260319867777838
+
+5) room_a - 0.7655102242681454
+
+6) door_a - 0.7006935298856216
+
+Result for the vector: room, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.7248708009719849
+
+1) room_a - 0.7248708009719849
+
+2) door_a - 0.6407672953834327
+
+3) child_a - 0.6019530059071198
+
+4) thing_a - 0.5900959479923228
+
+5) man_a - 0.5648229718208313
+
+6) husband_a - 0.5580908822444347
+
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8919500708580017
+
+1) man_a - 0.8919500708580017
+
+2) child_a - 0.8624094046598333
+
+3) thing_a - 0.8387000368476017
+
+4) husband_a - 0.8285551914142133
+
+5) room_a - 0.7456196546554565
+
+6) door_a - 0.7067585798131999
+
+Result for the vector: thing, coming from part a of the book
+Rank: 2 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8505756169900802
+
+1) child_wiki - 0.8786256096289667
+
+2) thing_wiki - 0.8505756169900802
+
+3) man_wiki - 0.8387000368476017
+
+4) husband_wiki - 0.8260319867777838
+
+5) door_wiki - 0.7278432521633262
+
+6) room_wiki - 0.5900959479923228
+
+Result for the vector: door, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.887881782289797
+
+1) door_wiki - 0.887881782289797
+
+2) child_wiki - 0.7561137160164463
+
+3) man_wiki - 0.7067585798131999
+
+4) husband_wiki - 0.7006935298856216
+
+5) room_wiki - 0.6407672953834327
+
+6) thing_wiki - 0.6407621311914311
+
+Result for the vector: child, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9225370791598653
+
+1) child_wiki - 0.9225370791598653
+
+2) husband_wiki - 0.8684091748365026
+
+3) man_wiki - 0.8624094046598333
+
+4) thing_wiki - 0.792065083980566
+
+5) door_wiki - 0.7658437946941744
+
+6) room_wiki - 0.6019530059071198
+
+Result for the vector: husband, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9214090062027577
+
+1) husband_wiki - 0.9214090062027577
+
+2) child_wiki - 0.8828249766968174
+
+3) man_wiki - 0.8285551914142133
+
+4) thing_wiki - 0.7454033271848194
+
+5) door_wiki - 0.6888908949163826
+
+6) room_wiki - 0.5580908822444347
+
+Result for the vector: room, coming from part a of the book
+Rank: 5 out of 6 characters
+Cosine similarity to the co-referring vector: 0.7248708009719849
+
+1) child_wiki - 0.8146310338158046
+
+2) door_wiki - 0.801817774772644
+
+3) husband_wiki - 0.7655102242681454
+
+4) man_wiki - 0.7456196546554565
+
+5) room_wiki - 0.7248708009719849
+
+6) thing_wiki - 0.6944158855428776
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.8919500708580017
+
+1) man_wiki - 0.8919500708580017
+
+2) child_wiki - 0.8556545886787542
+
+3) husband_wiki - 0.8520987287789208
+
+4) thing_wiki - 0.7721020715175838
+
+5) door_wiki - 0.7113142609596252
+
+6) room_wiki - 0.5648229718208313
+

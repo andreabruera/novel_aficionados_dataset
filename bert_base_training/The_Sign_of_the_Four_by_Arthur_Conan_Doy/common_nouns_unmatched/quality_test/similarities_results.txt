@@ -1,0 +1,320 @@
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8267573610995642
+
+1) man_a - 0.8267573610995642
+
+2) treasure_a - 0.7176590989624929
+
+3) face_a - 0.7137071915690429
+
+4) case_a - 0.7110863195488336
+
+5) way_a - 0.70693896454209
+
+6) night_a - 0.6969785094261219
+
+7) side_a - 0.6703360480270426
+
+8) time_a - 0.657522082328801
+
+Result for the vector: night, coming from part i of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8702981212646363
+
+1) night_a - 0.8702981212646363
+
+2) time_a - 0.8022637128155349
+
+3) way_a - 0.7347244243241678
+
+4) treasure_a - 0.7153994058191603
+
+5) man_a - 0.7108135435227619
+
+6) case_a - 0.7066053398377121
+
+7) side_a - 0.6825796569162508
+
+8) face_a - 0.6645120580348989
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8200068473815976
+
+1) time_a - 0.8200068473815976
+
+2) night_a - 0.7505918145179802
+
+3) case_a - 0.7315705912665417
+
+4) way_a - 0.7259030178727531
+
+5) treasure_a - 0.706011754632698
+
+6) man_a - 0.6956094321971805
+
+7) face_a - 0.673622588731206
+
+8) side_a - 0.6693709891659623
+
+Result for the vector: treasure, coming from part i of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9579709768295288
+
+1) treasure_a - 0.9579709768295288
+
+2) case_a - 0.8645033417198104
+
+3) man_a - 0.83163982629776
+
+4) night_a - 0.8141133299998459
+
+5) way_a - 0.8132801055908203
+
+6) face_a - 0.80882728099823
+
+7) time_a - 0.7851852306613203
+
+8) side_a - 0.7788759469985962
+
+Result for the vector: way, coming from part i of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.6813924312591553
+
+1) way_a - 0.6813924312591553
+
+2) case_a - 0.6591334932267835
+
+3) face_a - 0.6072537302970886
+
+4) time_a - 0.5902043825266143
+
+5) man_a - 0.5848447680473328
+
+6) side_a - 0.5834162831306458
+
+7) treasure_a - 0.582116961479187
+
+8) night_a - 0.5786909712141184
+
+Result for the vector: case, coming from part i of the book
+Rank: 2 out of 8 characters
+Cosine similarity to the co-referring vector: 0.6942854366131781
+
+1) treasure_a - 0.7436755146786891
+
+2) case_a - 0.6942854366131781
+
+3) way_a - 0.6391364716968829
+
+4) night_a - 0.6327358484268233
+
+5) time_a - 0.6148552894592328
+
+6) man_a - 0.6096879011206578
+
+7) face_a - 0.6003768801913797
+
+8) side_a - 0.5962770936654277
+
+Result for the vector: face, coming from part i of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.7316555002825115
+
+1) face_a - 0.7316555002825115
+
+2) treasure_a - 0.7239790178531119
+
+3) man_a - 0.7139321182349959
+
+4) way_a - 0.703453442557259
+
+5) case_a - 0.7017389776395545
+
+6) night_a - 0.6989535481049581
+
+7) time_a - 0.6775916612866053
+
+8) side_a - 0.6769684754898693
+
+Result for the vector: side, coming from part i of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.6553341951767101
+
+1) side_a - 0.6553341951767101
+
+2) treasure_a - 0.6448645207366644
+
+3) night_a - 0.6249823421260903
+
+4) man_a - 0.6120597951376571
+
+5) case_a - 0.6063373865585807
+
+6) way_a - 0.6031555173900426
+
+7) face_a - 0.5941102746659365
+
+8) time_a - 0.5872876540079529
+
+Result for the vector: man, coming from part a of the book
+Rank: 2 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8267573610995642
+
+1) treasure_wiki - 0.83163982629776
+
+2) man_wiki - 0.8267573610995642
+
+3) face_wiki - 0.7139321182349959
+
+4) night_wiki - 0.7108135435227619
+
+5) time_wiki - 0.6956094321971805
+
+6) side_wiki - 0.6120597951376571
+
+7) case_wiki - 0.6096879011206578
+
+8) way_wiki - 0.5848447680473328
+
+Result for the vector: night, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8702981212646363
+
+1) night_wiki - 0.8702981212646363
+
+2) treasure_wiki - 0.8141133299998459
+
+3) time_wiki - 0.7505918145179802
+
+4) face_wiki - 0.6989535481049581
+
+5) man_wiki - 0.6969785094261219
+
+6) case_wiki - 0.6327358484268233
+
+7) side_wiki - 0.6249823421260903
+
+8) way_wiki - 0.5786909712141184
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8200068473815976
+
+1) time_wiki - 0.8200068473815976
+
+2) night_wiki - 0.8022637128155349
+
+3) treasure_wiki - 0.7851852306613203
+
+4) face_wiki - 0.6775916612866053
+
+5) man_wiki - 0.657522082328801
+
+6) case_wiki - 0.6148552894592328
+
+7) way_wiki - 0.5902043825266143
+
+8) side_wiki - 0.5872876540079529
+
+Result for the vector: treasure, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9579709768295288
+
+1) treasure_wiki - 0.9579709768295288
+
+2) case_wiki - 0.7436755146786891
+
+3) face_wiki - 0.7239790178531119
+
+4) man_wiki - 0.7176590989624929
+
+5) night_wiki - 0.7153994058191603
+
+6) time_wiki - 0.706011754632698
+
+7) side_wiki - 0.6448645207366644
+
+8) way_wiki - 0.582116961479187
+
+Result for the vector: way, coming from part a of the book
+Rank: 6 out of 8 characters
+Cosine similarity to the co-referring vector: 0.6813924312591553
+
+1) treasure_wiki - 0.8132801055908203
+
+2) night_wiki - 0.7347244243241678
+
+3) time_wiki - 0.7259030178727531
+
+4) man_wiki - 0.70693896454209
+
+5) face_wiki - 0.703453442557259
+
+6) way_wiki - 0.6813924312591553
+
+7) case_wiki - 0.6391364716968829
+
+8) side_wiki - 0.6031555173900426
+
+Result for the vector: case, coming from part a of the book
+Rank: 6 out of 8 characters
+Cosine similarity to the co-referring vector: 0.6942854366131781
+
+1) treasure_wiki - 0.8645033417198104
+
+2) time_wiki - 0.7315705912665417
+
+3) man_wiki - 0.7110863195488336
+
+4) night_wiki - 0.7066053398377121
+
+5) face_wiki - 0.7017389776395545
+
+6) case_wiki - 0.6942854366131781
+
+7) way_wiki - 0.6591334932267835
+
+8) side_wiki - 0.6063373865585807
+
+Result for the vector: face, coming from part a of the book
+Rank: 2 out of 8 characters
+Cosine similarity to the co-referring vector: 0.7316555002825115
+
+1) treasure_wiki - 0.80882728099823
+
+2) face_wiki - 0.7316555002825115
+
+3) man_wiki - 0.7137071915690429
+
+4) time_wiki - 0.673622588731206
+
+5) night_wiki - 0.6645120580348989
+
+6) way_wiki - 0.6072537302970886
+
+7) case_wiki - 0.6003768801913797
+
+8) side_wiki - 0.5941102746659365
+
+Result for the vector: side, coming from part a of the book
+Rank: 6 out of 8 characters
+Cosine similarity to the co-referring vector: 0.6553341951767101
+
+1) treasure_wiki - 0.7788759469985962
+
+2) night_wiki - 0.6825796569162508
+
+3) face_wiki - 0.6769684754898693
+
+4) man_wiki - 0.6703360480270426
+
+5) time_wiki - 0.6693709891659623
+
+6) side_wiki - 0.6553341951767101
+
+7) case_wiki - 0.5962770936654277
+
+8) way_wiki - 0.5834162831306458
+

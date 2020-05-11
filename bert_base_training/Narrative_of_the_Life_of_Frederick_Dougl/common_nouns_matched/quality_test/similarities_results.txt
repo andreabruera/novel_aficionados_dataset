@@ -1,0 +1,252 @@
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8276790585900534
+
+1) day_a - 0.8276790585900534
+
+2) book_a - 0.7104148786518207
+
+3) point_a - 0.6617327937365555
+
+4) piece_a - 0.6464552897403947
+
+5) chapter_a - 0.6452379649593918
+
+6) escape_a - 0.6235627980753469
+
+7) hope_a - 0.6215542780426674
+
+Result for the vector: chapter, coming from part i of the book
+Rank: 4 out of 7 characters
+Cosine similarity to the co-referring vector: 0.7186428904533386
+
+1) book_a - 0.7694201010811282
+
+2) day_a - 0.7606497406959534
+
+3) point_a - 0.7256921097223706
+
+4) chapter_a - 0.7186428904533386
+
+5) hope_a - 0.7082109873420601
+
+6) escape_a - 0.6896833777427673
+
+7) piece_a - 0.671731849662419
+
+Result for the vector: hope, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.6879595928168066
+
+1) hope_a - 0.6879595928168066
+
+2) book_a - 0.5887319094698493
+
+3) day_a - 0.5713006854057312
+
+4) point_a - 0.5307484548837876
+
+5) chapter_a - 0.4950389862060547
+
+6) piece_a - 0.4889270510949808
+
+7) escape_a - 0.4837399125099182
+
+Result for the vector: book, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8893588384412874
+
+1) book_a - 0.8893588384412874
+
+2) day_a - 0.8047860271909962
+
+3) chapter_a - 0.7591925202597047
+
+4) point_a - 0.7471305203852685
+
+5) hope_a - 0.7397233002800704
+
+6) escape_a - 0.725357819401901
+
+7) piece_a - 0.7057870696402366
+
+Result for the vector: escape, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8236804604530334
+
+1) escape_a - 0.8236804604530334
+
+2) day_a - 0.743571937084198
+
+3) book_a - 0.7223938869003138
+
+4) point_a - 0.6956426086638815
+
+5) chapter_a - 0.6654532551765442
+
+6) piece_a - 0.663250406481338
+
+7) hope_a - 0.6365124962635348
+
+Result for the vector: piece, coming from part i of the book
+Rank: 2 out of 7 characters
+Cosine similarity to the co-referring vector: 0.6400134372707202
+
+1) book_a - 0.6446631378336981
+
+2) piece_a - 0.6400134372707202
+
+3) point_a - 0.5882899059903733
+
+4) day_a - 0.5877985603929434
+
+5) hope_a - 0.5518483519554177
+
+6) chapter_a - 0.5437647376200723
+
+7) escape_a - 0.5330121199481426
+
+Result for the vector: point, coming from part i of the book
+Rank: 2 out of 7 characters
+Cosine similarity to the co-referring vector: 0.7567490709796855
+
+1) day_a - 0.7604916918424279
+
+2) point_a - 0.7567490709796855
+
+3) book_a - 0.6996497899398298
+
+4) chapter_a - 0.649033267767229
+
+5) piece_a - 0.619295216756774
+
+6) escape_a - 0.6132295910486459
+
+7) hope_a - 0.6079958028789585
+
+Result for the vector: day, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8276790585900534
+
+1) day_wiki - 0.8276790585900534
+
+2) book_wiki - 0.8047860271909962
+
+3) chapter_wiki - 0.7606497406959534
+
+4) point_wiki - 0.7604916918424279
+
+5) escape_wiki - 0.743571937084198
+
+6) piece_wiki - 0.5877985603929434
+
+7) hope_wiki - 0.5713006854057312
+
+Result for the vector: chapter, coming from part a of the book
+Rank: 2 out of 7 characters
+Cosine similarity to the co-referring vector: 0.7186428904533386
+
+1) book_wiki - 0.7591925202597047
+
+2) chapter_wiki - 0.7186428904533386
+
+3) escape_wiki - 0.6654532551765442
+
+4) point_wiki - 0.649033267767229
+
+5) day_wiki - 0.6452379649593918
+
+6) piece_wiki - 0.5437647376200723
+
+7) hope_wiki - 0.4950389862060547
+
+Result for the vector: hope, coming from part a of the book
+Rank: 3 out of 7 characters
+Cosine similarity to the co-referring vector: 0.6879595928168066
+
+1) book_wiki - 0.7397233002800704
+
+2) chapter_wiki - 0.7082109873420601
+
+3) hope_wiki - 0.6879595928168066
+
+4) escape_wiki - 0.6365124962635348
+
+5) day_wiki - 0.6215542780426674
+
+6) point_wiki - 0.6079958028789585
+
+7) piece_wiki - 0.5518483519554177
+
+Result for the vector: book, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8893588384412874
+
+1) book_wiki - 0.8893588384412874
+
+2) chapter_wiki - 0.7694201010811282
+
+3) escape_wiki - 0.7223938869003138
+
+4) day_wiki - 0.7104148786518207
+
+5) point_wiki - 0.6996497899398298
+
+6) piece_wiki - 0.6446631378336981
+
+7) hope_wiki - 0.5887319094698493
+
+Result for the vector: escape, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8236804604530334
+
+1) escape_wiki - 0.8236804604530334
+
+2) book_wiki - 0.725357819401901
+
+3) chapter_wiki - 0.6896833777427673
+
+4) day_wiki - 0.6235627980753469
+
+5) point_wiki - 0.6132295910486459
+
+6) piece_wiki - 0.5330121199481426
+
+7) hope_wiki - 0.4837399125099182
+
+Result for the vector: piece, coming from part a of the book
+Rank: 5 out of 7 characters
+Cosine similarity to the co-referring vector: 0.6400134372707202
+
+1) book_wiki - 0.7057870696402366
+
+2) chapter_wiki - 0.671731849662419
+
+3) escape_wiki - 0.663250406481338
+
+4) day_wiki - 0.6464552897403947
+
+5) piece_wiki - 0.6400134372707202
+
+6) point_wiki - 0.619295216756774
+
+7) hope_wiki - 0.4889270510949808
+
+Result for the vector: point, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.7567490709796855
+
+1) point_wiki - 0.7567490709796855
+
+2) book_wiki - 0.7471305203852685
+
+3) chapter_wiki - 0.7256921097223706
+
+4) escape_wiki - 0.6956426086638815
+
+5) day_wiki - 0.6617327937365555
+
+6) piece_wiki - 0.5882899059903733
+
+7) hope_wiki - 0.5307484548837876
+

@@ -1,0 +1,480 @@
+Result for the vector: thing, coming from part i of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.7534543422785807
+
+1) thing_a - 0.7534543422785807
+
+2) one_a - 0.7394899194976645
+
+3) child_a - 0.727877140045166
+
+4) garden_a - 0.7049412307178253
+
+5) boy_a - 0.697280090885169
+
+6) way_a - 0.6965928077697754
+
+7) robin_a - 0.678652822971344
+
+8) door_a - 0.6785388588905334
+
+9) time_a - 0.6764520608321449
+
+10) day_a - 0.6538831981350909
+
+Result for the vector: garden, coming from part i of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9249581828788208
+
+1) garden_a - 0.9249581828788208
+
+2) door_a - 0.8770216253970178
+
+3) way_a - 0.8732580097606233
+
+4) thing_a - 0.8438328783810968
+
+5) one_a - 0.8400432813154856
+
+6) boy_a - 0.8380162812461819
+
+7) robin_a - 0.8368996576190463
+
+8) child_a - 0.8282408323000928
+
+9) time_a - 0.8145556913713583
+
+10) day_a - 0.7865509518056666
+
+Result for the vector: one, coming from part i of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.7214956498591876
+
+1) one_a - 0.7214956498591876
+
+2) garden_a - 0.666082004775762
+
+3) way_a - 0.6571588124538188
+
+4) child_a - 0.6502785891128439
+
+5) thing_a - 0.6457654063981287
+
+6) boy_a - 0.6440263390541122
+
+7) door_a - 0.643794498217435
+
+8) robin_a - 0.6415635561011114
+
+9) time_a - 0.6326690127650223
+
+10) day_a - 0.6302698850631758
+
+Result for the vector: door, coming from part i of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8782181739807129
+
+1) door_a - 0.8782181739807129
+
+2) garden_a - 0.8026191709864648
+
+3) way_a - 0.7603509426116943
+
+4) robin_a - 0.760216474533081
+
+5) one_a - 0.7453093599059635
+
+6) child_a - 0.7214124202728271
+
+7) thing_a - 0.7186156679024907
+
+8) boy_a - 0.7170537541540727
+
+9) time_a - 0.6951549856410919
+
+10) day_a - 0.6785372304044516
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8560645835418879
+
+1) time_a - 0.8560645835418879
+
+2) day_a - 0.849802067864066
+
+3) way_a - 0.8249763250350952
+
+4) thing_a - 0.8078665251811444
+
+5) one_a - 0.8061333423376124
+
+6) garden_a - 0.8038182971585827
+
+7) child_a - 0.7950747013092041
+
+8) boy_a - 0.7891828292121204
+
+9) robin_a - 0.7779673337936401
+
+10) door_a - 0.7548830509185791
+
+Result for the vector: way, coming from part i of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.6225224733352661
+
+1) way_a - 0.6225224733352661
+
+2) thing_a - 0.6036676404674278
+
+3) child_a - 0.5758109092712402
+
+4) one_a - 0.5657071380949464
+
+5) boy_a - 0.5649231412960981
+
+6) garden_a - 0.5629887245304163
+
+7) time_a - 0.5457364483397144
+
+8) robin_a - 0.5310329794883728
+
+9) door_a - 0.5195522308349609
+
+10) day_a - 0.513676733593747
+
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8583886794795409
+
+1) day_a - 0.8583886794795409
+
+2) time_a - 0.7425502385229015
+
+3) way_a - 0.6764130793933001
+
+4) one_a - 0.6751516074122926
+
+5) garden_a - 0.6676795283651519
+
+6) thing_a - 0.6646257440857394
+
+7) child_a - 0.6494515135720826
+
+8) boy_a - 0.6492488368674075
+
+9) door_a - 0.6402096939149411
+
+10) robin_a - 0.6375000666826987
+
+Result for the vector: child, coming from part i of the book
+Rank: 2 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8522743074730467
+
+1) boy_a - 0.8601120710372986
+
+2) child_a - 0.8522743074730467
+
+3) one_a - 0.8479321851710231
+
+4) robin_a - 0.8433733675853405
+
+5) thing_a - 0.835399289679612
+
+6) garden_a - 0.831779321220002
+
+7) way_a - 0.828658173760286
+
+8) time_a - 0.8005213498913871
+
+9) door_a - 0.7927152041962635
+
+10) day_a - 0.7608006000518853
+
+Result for the vector: boy, coming from part i of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.7902927869732863
+
+1) boy_a - 0.7902927869732863
+
+2) child_a - 0.7807224988937378
+
+3) one_a - 0.7656976669160457
+
+4) robin_a - 0.7483604550361633
+
+5) thing_a - 0.7256822153519277
+
+6) garden_a - 0.710484104723687
+
+7) way_a - 0.6920604705810547
+
+8) door_a - 0.6747657060623169
+
+9) time_a - 0.6614359814356563
+
+10) day_a - 0.646651544967387
+
+Result for the vector: robin, coming from part i of the book
+Rank: 2 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8360592376011386
+
+1) boy_a - 0.8503162429019434
+
+2) robin_a - 0.8360592376011386
+
+3) child_a - 0.8204316145310291
+
+4) thing_a - 0.8146551008625331
+
+5) one_a - 0.8096552264279412
+
+6) way_a - 0.8091790321224643
+
+7) garden_a - 0.7985409260231012
+
+8) door_a - 0.7631393898469031
+
+9) time_a - 0.7593813991177916
+
+10) day_a - 0.7309511957422972
+
+Result for the vector: thing, coming from part a of the book
+Rank: 5 out of 10 characters
+Cosine similarity to the co-referring vector: 0.7534543422785807
+
+1) garden_wiki - 0.8438328783810968
+
+2) child_wiki - 0.835399289679612
+
+3) robin_wiki - 0.8146551008625331
+
+4) time_wiki - 0.8078665251811444
+
+5) thing_wiki - 0.7534543422785807
+
+6) boy_wiki - 0.7256822153519277
+
+7) door_wiki - 0.7186156679024907
+
+8) day_wiki - 0.6646257440857394
+
+9) one_wiki - 0.6457654063981287
+
+10) way_wiki - 0.6036676404674278
+
+Result for the vector: garden, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9249581828788208
+
+1) garden_wiki - 0.9249581828788208
+
+2) child_wiki - 0.831779321220002
+
+3) time_wiki - 0.8038182971585827
+
+4) door_wiki - 0.8026191709864648
+
+5) robin_wiki - 0.7985409260231012
+
+6) boy_wiki - 0.710484104723687
+
+7) thing_wiki - 0.7049412307178253
+
+8) day_wiki - 0.6676795283651519
+
+9) one_wiki - 0.666082004775762
+
+10) way_wiki - 0.5629887245304163
+
+Result for the vector: one, coming from part a of the book
+Rank: 8 out of 10 characters
+Cosine similarity to the co-referring vector: 0.7214956498591876
+
+1) child_wiki - 0.8479321851710231
+
+2) garden_wiki - 0.8400432813154856
+
+3) robin_wiki - 0.8096552264279412
+
+4) time_wiki - 0.8061333423376124
+
+5) boy_wiki - 0.7656976669160457
+
+6) door_wiki - 0.7453093599059635
+
+7) thing_wiki - 0.7394899194976645
+
+8) one_wiki - 0.7214956498591876
+
+9) day_wiki - 0.6751516074122926
+
+10) way_wiki - 0.5657071380949464
+
+Result for the vector: door, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8782181739807129
+
+1) door_wiki - 0.8782181739807129
+
+2) garden_wiki - 0.8770216253970178
+
+3) child_wiki - 0.7927152041962635
+
+4) robin_wiki - 0.7631393898469031
+
+5) time_wiki - 0.7548830509185791
+
+6) thing_wiki - 0.6785388588905334
+
+7) boy_wiki - 0.6747657060623169
+
+8) one_wiki - 0.643794498217435
+
+9) day_wiki - 0.6402096939149411
+
+10) way_wiki - 0.5195522308349609
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8560645835418879
+
+1) time_wiki - 0.8560645835418879
+
+2) garden_wiki - 0.8145556913713583
+
+3) child_wiki - 0.8005213498913871
+
+4) robin_wiki - 0.7593813991177916
+
+5) day_wiki - 0.7425502385229015
+
+6) door_wiki - 0.6951549856410919
+
+7) thing_wiki - 0.6764520608321449
+
+8) boy_wiki - 0.6614359814356563
+
+9) one_wiki - 0.6326690127650223
+
+10) way_wiki - 0.5457364483397144
+
+Result for the vector: way, coming from part a of the book
+Rank: 10 out of 10 characters
+Cosine similarity to the co-referring vector: 0.6225224733352661
+
+1) garden_wiki - 0.8732580097606233
+
+2) child_wiki - 0.828658173760286
+
+3) time_wiki - 0.8249763250350952
+
+4) robin_wiki - 0.8091790321224643
+
+5) door_wiki - 0.7603509426116943
+
+6) thing_wiki - 0.6965928077697754
+
+7) boy_wiki - 0.6920604705810547
+
+8) day_wiki - 0.6764130793933001
+
+9) one_wiki - 0.6571588124538188
+
+10) way_wiki - 0.6225224733352661
+
+Result for the vector: day, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8583886794795409
+
+1) day_wiki - 0.8583886794795409
+
+2) time_wiki - 0.849802067864066
+
+3) garden_wiki - 0.7865509518056666
+
+4) child_wiki - 0.7608006000518853
+
+5) robin_wiki - 0.7309511957422972
+
+6) door_wiki - 0.6785372304044516
+
+7) thing_wiki - 0.6538831981350909
+
+8) boy_wiki - 0.646651544967387
+
+9) one_wiki - 0.6302698850631758
+
+10) way_wiki - 0.513676733593747
+
+Result for the vector: child, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8522743074730467
+
+1) child_wiki - 0.8522743074730467
+
+2) garden_wiki - 0.8282408323000928
+
+3) robin_wiki - 0.8204316145310291
+
+4) time_wiki - 0.7950747013092041
+
+5) boy_wiki - 0.7807224988937378
+
+6) thing_wiki - 0.727877140045166
+
+7) door_wiki - 0.7214124202728271
+
+8) one_wiki - 0.6502785891128439
+
+9) day_wiki - 0.6494515135720826
+
+10) way_wiki - 0.5758109092712402
+
+Result for the vector: boy, coming from part a of the book
+Rank: 4 out of 10 characters
+Cosine similarity to the co-referring vector: 0.7902927869732863
+
+1) child_wiki - 0.8601120710372986
+
+2) robin_wiki - 0.8503162429019434
+
+3) garden_wiki - 0.8380162812461819
+
+4) boy_wiki - 0.7902927869732863
+
+5) time_wiki - 0.7891828292121204
+
+6) door_wiki - 0.7170537541540727
+
+7) thing_wiki - 0.697280090885169
+
+8) day_wiki - 0.6492488368674075
+
+9) one_wiki - 0.6440263390541122
+
+10) way_wiki - 0.5649231412960981
+
+Result for the vector: robin, coming from part a of the book
+Rank: 3 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8360592376011386
+
+1) child_wiki - 0.8433733675853405
+
+2) garden_wiki - 0.8368996576190463
+
+3) robin_wiki - 0.8360592376011386
+
+4) time_wiki - 0.7779673337936401
+
+5) door_wiki - 0.760216474533081
+
+6) boy_wiki - 0.7483604550361633
+
+7) thing_wiki - 0.678652822971344
+
+8) one_wiki - 0.6415635561011114
+
+9) day_wiki - 0.6375000666826987
+
+10) way_wiki - 0.5310329794883728
+

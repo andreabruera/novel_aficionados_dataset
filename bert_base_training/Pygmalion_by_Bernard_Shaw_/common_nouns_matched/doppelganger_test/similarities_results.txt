@@ -1,0 +1,480 @@
+Result for the vector: girl, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9176461100578308
+
+1) girl_b - 0.9176461100578308
+
+2) man_b - 0.8837543656679625
+
+3) mother_b - 0.8828136394731037
+
+4) thing_b - 0.8822525213806334
+
+5) woman_b - 0.8723955154418945
+
+6) way_b - 0.8502177506815062
+
+7) right_b - 0.8491152018836036
+
+8) manner_b - 0.8213213820446806
+
+9) daughter_b - 0.7834271192550659
+
+10) devil_b - 0.7077063496287865
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.964589141372565
+
+1) man_b - 0.964589141372565
+
+2) woman_b - 0.9623787645070011
+
+3) girl_b - 0.9493199809372502
+
+4) thing_b - 0.9155376776043683
+
+5) mother_b - 0.9117136220676163
+
+6) way_b - 0.875843528834129
+
+7) right_b - 0.8609358842017735
+
+8) manner_b - 0.8373617738155794
+
+9) daughter_b - 0.8317275094580012
+
+10) devil_b - 0.7463704418871364
+
+Result for the vector: way, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9536030264856252
+
+1) way_b - 0.9536030264856252
+
+2) thing_b - 0.9407002961218197
+
+3) mother_b - 0.9214015053867413
+
+4) right_b - 0.9155256202503685
+
+5) manner_b - 0.8994317858903252
+
+6) woman_b - 0.8933791518211365
+
+7) man_b - 0.8930541213187068
+
+8) girl_b - 0.892694354057312
+
+9) daughter_b - 0.8099309206008911
+
+10) devil_b - 0.7536326197604777
+
+Result for the vector: woman, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9674239427528368
+
+1) woman_b - 0.9674239427528368
+
+2) girl_b - 0.9571435711214197
+
+3) man_b - 0.953947745851837
+
+4) thing_b - 0.9132914219287563
+
+5) mother_b - 0.9087731513015476
+
+6) way_b - 0.8663632372562945
+
+7) right_b - 0.8436837447787541
+
+8) manner_b - 0.8354394737671865
+
+9) daughter_b - 0.8271241331509503
+
+10) devil_b - 0.7418750745616958
+
+Result for the vector: thing, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9653908055554861
+
+1) thing_b - 0.9653908055554861
+
+2) manner_b - 0.9135615501869289
+
+3) man_b - 0.913119494915015
+
+4) mother_b - 0.9102760064272873
+
+5) woman_b - 0.9076994712531898
+
+6) way_b - 0.9068865776062076
+
+7) right_b - 0.8989906431447693
+
+8) girl_b - 0.8856244155392415
+
+9) daughter_b - 0.7925043229756177
+
+10) devil_b - 0.7352632003708839
+
+Result for the vector: daughter, coming from part a of the book
+Rank: 9 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8566025410057644
+
+1) mother_b - 0.9544539451599189
+
+2) girl_b - 0.9337540229412348
+
+3) thing_b - 0.9262494444847172
+
+4) man_b - 0.922791769837352
+
+5) woman_b - 0.9217951251146288
+
+6) way_b - 0.9092501293718969
+
+7) right_b - 0.8858115077018801
+
+8) manner_b - 0.8685082895321089
+
+9) daughter_b - 0.8566025410057644
+
+10) devil_b - 0.7873439192771967
+
+Result for the vector: mother, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.936184465885169
+
+1) mother_b - 0.936184465885169
+
+2) thing_b - 0.9266535043716496
+
+3) man_b - 0.9138542311017789
+
+4) girl_b - 0.9120816535998393
+
+5) way_b - 0.906088817845442
+
+6) woman_b - 0.8993180930208039
+
+7) right_b - 0.8951627016067568
+
+8) manner_b - 0.8608590455143226
+
+9) daughter_b - 0.8146545180472459
+
+10) devil_b - 0.7944482564926204
+
+Result for the vector: right, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9719512479334343
+
+1) right_b - 0.9719512479334343
+
+2) thing_b - 0.9262555285539924
+
+3) mother_b - 0.9197377014316515
+
+4) man_b - 0.9027972759483637
+
+5) way_b - 0.9002678930919122
+
+6) woman_b - 0.8883227109909058
+
+7) girl_b - 0.8740808367729187
+
+8) manner_b - 0.8642363128873424
+
+9) daughter_b - 0.7994650602340698
+
+10) devil_b - 0.7375550426509964
+
+Result for the vector: manner, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8897081151169715
+
+1) manner_b - 0.8897081151169715
+
+2) mother_b - 0.8535714149475159
+
+3) thing_b - 0.8436861038208068
+
+4) woman_b - 0.8317967553017604
+
+5) right_b - 0.8215345144271909
+
+6) man_b - 0.8190275214943316
+
+7) way_b - 0.8138174788734291
+
+8) girl_b - 0.7963714478237314
+
+9) daughter_b - 0.7907513851375227
+
+10) devil_b - 0.6501739025116013
+
+Result for the vector: devil, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9174439956281204
+
+1) devil_b - 0.9174439956281204
+
+2) thing_b - 0.6355358579435445
+
+3) way_b - 0.6277175323794812
+
+4) girl_b - 0.6254957318305969
+
+5) man_b - 0.6181266676263026
+
+6) right_b - 0.6157403221285163
+
+7) woman_b - 0.6059967875480652
+
+8) mother_b - 0.5949294212502597
+
+9) manner_b - 0.5617788340251618
+
+10) daughter_b - 0.50013667345047
+
+Result for the vector: girl, coming from part b of the book
+Rank: 4 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9176461100578308
+
+1) woman_a - 0.9571435711214197
+
+2) man_a - 0.9493199809372502
+
+3) daughter_a - 0.9337540229412348
+
+4) girl_a - 0.9176461100578308
+
+5) mother_a - 0.9120816535998393
+
+6) way_a - 0.892694354057312
+
+7) thing_a - 0.8856244155392415
+
+8) right_a - 0.8740808367729187
+
+9) manner_a - 0.7963714478237314
+
+10) devil_a - 0.6254957318305969
+
+Result for the vector: man, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.964589141372565
+
+1) man_a - 0.964589141372565
+
+2) woman_a - 0.953947745851837
+
+3) daughter_a - 0.922791769837352
+
+4) mother_a - 0.9138542311017789
+
+5) thing_a - 0.913119494915015
+
+6) right_a - 0.9027972759483637
+
+7) way_a - 0.8930541213187068
+
+8) girl_a - 0.8837543656679625
+
+9) manner_a - 0.8190275214943316
+
+10) devil_a - 0.6181266676263026
+
+Result for the vector: way, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9536030264856252
+
+1) way_a - 0.9536030264856252
+
+2) daughter_a - 0.9092501293718969
+
+3) thing_a - 0.9068865776062076
+
+4) mother_a - 0.906088817845442
+
+5) right_a - 0.9002678930919122
+
+6) man_a - 0.875843528834129
+
+7) woman_a - 0.8663632372562945
+
+8) girl_a - 0.8502177506815062
+
+9) manner_a - 0.8138174788734291
+
+10) devil_a - 0.6277175323794812
+
+Result for the vector: woman, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9674239427528368
+
+1) woman_a - 0.9674239427528368
+
+2) man_a - 0.9623787645070011
+
+3) daughter_a - 0.9217951251146288
+
+4) thing_a - 0.9076994712531898
+
+5) mother_a - 0.8993180930208039
+
+6) way_a - 0.8933791518211365
+
+7) right_a - 0.8883227109909058
+
+8) girl_a - 0.8723955154418945
+
+9) manner_a - 0.8317967553017604
+
+10) devil_a - 0.6059967875480652
+
+Result for the vector: thing, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9653908055554861
+
+1) thing_a - 0.9653908055554861
+
+2) way_a - 0.9407002961218197
+
+3) mother_a - 0.9266535043716496
+
+4) right_a - 0.9262555285539924
+
+5) daughter_a - 0.9262494444847172
+
+6) man_a - 0.9155376776043683
+
+7) woman_a - 0.9132914219287563
+
+8) girl_a - 0.8822525213806334
+
+9) manner_a - 0.8436861038208068
+
+10) devil_a - 0.6355358579435445
+
+Result for the vector: daughter, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8566025410057644
+
+1) daughter_a - 0.8566025410057644
+
+2) man_a - 0.8317275094580012
+
+3) woman_a - 0.8271241331509503
+
+4) mother_a - 0.8146545180472459
+
+5) way_a - 0.8099309206008911
+
+6) right_a - 0.7994650602340698
+
+7) thing_a - 0.7925043229756177
+
+8) manner_a - 0.7907513851375227
+
+9) girl_a - 0.7834271192550659
+
+10) devil_a - 0.50013667345047
+
+Result for the vector: mother, coming from part b of the book
+Rank: 2 out of 10 characters
+Cosine similarity to the co-referring vector: 0.936184465885169
+
+1) daughter_a - 0.9544539451599189
+
+2) mother_a - 0.936184465885169
+
+3) way_a - 0.9214015053867413
+
+4) right_a - 0.9197377014316515
+
+5) man_a - 0.9117136220676163
+
+6) thing_a - 0.9102760064272873
+
+7) woman_a - 0.9087731513015476
+
+8) girl_a - 0.8828136394731037
+
+9) manner_a - 0.8535714149475159
+
+10) devil_a - 0.5949294212502597
+
+Result for the vector: right, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9719512479334343
+
+1) right_a - 0.9719512479334343
+
+2) way_a - 0.9155256202503685
+
+3) thing_a - 0.8989906431447693
+
+4) mother_a - 0.8951627016067568
+
+5) daughter_a - 0.8858115077018801
+
+6) man_a - 0.8609358842017735
+
+7) girl_a - 0.8491152018836036
+
+8) woman_a - 0.8436837447787541
+
+9) manner_a - 0.8215345144271909
+
+10) devil_a - 0.6157403221285163
+
+Result for the vector: manner, coming from part b of the book
+Rank: 3 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8897081151169715
+
+1) thing_a - 0.9135615501869289
+
+2) way_a - 0.8994317858903252
+
+3) manner_a - 0.8897081151169715
+
+4) daughter_a - 0.8685082895321089
+
+5) right_a - 0.8642363128873424
+
+6) mother_a - 0.8608590455143226
+
+7) man_a - 0.8373617738155794
+
+8) woman_a - 0.8354394737671865
+
+9) girl_a - 0.8213213820446806
+
+10) devil_a - 0.5617788340251618
+
+Result for the vector: devil, coming from part b of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9174439956281204
+
+1) devil_a - 0.9174439956281204
+
+2) mother_a - 0.7944482564926204
+
+3) daughter_a - 0.7873439192771967
+
+4) way_a - 0.7536326197604777
+
+5) man_a - 0.7463704418871364
+
+6) woman_a - 0.7418750745616958
+
+7) right_a - 0.7375550426509964
+
+8) thing_a - 0.7352632003708839
+
+9) girl_a - 0.7077063496287865
+
+10) manner_a - 0.6501739025116013
+

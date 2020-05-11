@@ -1,0 +1,32 @@
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 2 characters
+Cosine similarity to the co-referring vector: 0.9827017784118652
+
+1) man_b - 0.9827017784118652
+
+2) brother_b - 0.8983994065761228
+
+Result for the vector: brother, coming from part a of the book
+Rank: 1 out of 2 characters
+Cosine similarity to the co-referring vector: 0.9830795516419161
+
+1) brother_b - 0.9830795516419161
+
+2) man_b - 0.8926070332527161
+
+Result for the vector: man, coming from part b of the book
+Rank: 1 out of 2 characters
+Cosine similarity to the co-referring vector: 0.9827017784118652
+
+1) man_a - 0.9827017784118652
+
+2) brother_a - 0.8926070332527161
+
+Result for the vector: brother, coming from part b of the book
+Rank: 1 out of 2 characters
+Cosine similarity to the co-referring vector: 0.9830795516419161
+
+1) brother_a - 0.9830795516419161
+
+2) man_a - 0.8983994065761228
+

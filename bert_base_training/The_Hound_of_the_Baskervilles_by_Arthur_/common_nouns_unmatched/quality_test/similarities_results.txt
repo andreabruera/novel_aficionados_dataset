@@ -1,0 +1,396 @@
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9278823413813915
+
+1) man_a - 0.9278823413813915
+
+2) friend_a - 0.8673964401303758
+
+3) time_a - 0.8048423056163497
+
+4) case_a - 0.7907128916252991
+
+5) sir_a - 0.7906972280768093
+
+6) face_a - 0.7847571010815321
+
+7) moor_a - 0.7817499973475944
+
+8) day_a - 0.7800385922251037
+
+9) night_a - 0.7673895449092608
+
+Result for the vector: moor, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9419945128555165
+
+1) moor_a - 0.9419945128555165
+
+2) night_a - 0.8164512405664482
+
+3) day_a - 0.8158134598509621
+
+4) time_a - 0.8103625065304357
+
+5) case_a - 0.7997563242621808
+
+6) man_a - 0.7823551297187861
+
+7) friend_a - 0.7715592384338433
+
+8) face_a - 0.7574907541275078
+
+9) sir_a - 0.7344036540033624
+
+Result for the vector: sir, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9419686759691658
+
+1) sir_a - 0.9419686759691658
+
+2) friend_a - 0.7933992147445735
+
+3) man_a - 0.7781009674072321
+
+4) time_a - 0.736026748181985
+
+5) case_a - 0.7164613862587674
+
+6) day_a - 0.7094320308485068
+
+7) night_a - 0.7026941599067558
+
+8) moor_a - 0.6922262929880288
+
+9) face_a - 0.6652710437774706
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7891823900720665
+
+1) time_a - 0.7891823900720665
+
+2) day_a - 0.7432506833523224
+
+3) case_a - 0.7244845792958508
+
+4) friend_a - 0.7236714261165704
+
+5) night_a - 0.7222025725600089
+
+6) man_a - 0.7142596159709199
+
+7) moor_a - 0.7005514472230052
+
+8) face_a - 0.6783225515504101
+
+9) sir_a - 0.6330569823912449
+
+Result for the vector: face, coming from part i of the book
+Rank: 6 out of 9 characters
+Cosine similarity to the co-referring vector: 0.6825619529150765
+
+1) sir_a - 0.7710778117179871
+
+2) friend_a - 0.7117597632551347
+
+3) man_a - 0.7075520928173022
+
+4) time_a - 0.7012141942977905
+
+5) case_a - 0.6981844126096031
+
+6) face_a - 0.6825619529150765
+
+7) day_a - 0.6769244478299896
+
+8) night_a - 0.6706734895706177
+
+9) moor_a - 0.6599009829730091
+
+Result for the vector: friend, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8336879710145029
+
+1) friend_a - 0.8336879710145029
+
+2) man_a - 0.8043693420666863
+
+3) sir_a - 0.7531350255012512
+
+4) time_a - 0.7029871940612793
+
+5) case_a - 0.6793410586918044
+
+6) day_a - 0.6705874604336906
+
+7) night_a - 0.6637991666793823
+
+8) moor_a - 0.6616827446723805
+
+9) face_a - 0.6529908983116818
+
+Result for the vector: case, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8226651549339353
+
+1) case_a - 0.8226651549339353
+
+2) day_a - 0.8117035031318722
+
+3) moor_a - 0.7997621655535084
+
+4) time_a - 0.7989584923411328
+
+5) night_a - 0.7924481754035859
+
+6) man_a - 0.7646698636210127
+
+7) friend_a - 0.7525198158598165
+
+8) face_a - 0.7358104901539695
+
+9) sir_a - 0.7119847111711091
+
+Result for the vector: night, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8830693031272089
+
+1) night_a - 0.8830693031272089
+
+2) day_a - 0.8580187134163425
+
+3) time_a - 0.8568427222026209
+
+4) case_a - 0.8090368636581481
+
+5) moor_a - 0.7694022518040092
+
+6) friend_a - 0.7496306076755969
+
+7) man_a - 0.7411135214235359
+
+8) face_a - 0.7123261477850064
+
+9) sir_a - 0.6907747593752971
+
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7048493867933019
+
+1) day_a - 0.7048493867933019
+
+2) case_a - 0.6908383596942853
+
+3) time_a - 0.680250029578808
+
+4) night_a - 0.6197389733635779
+
+5) man_a - 0.5974570512771649
+
+6) moor_a - 0.5972412762559604
+
+7) friend_a - 0.5947461724281353
+
+8) face_a - 0.5510101914405862
+
+9) sir_a - 0.5465734926804011
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9278823413813915
+
+1) man_wiki - 0.9278823413813915
+
+2) friend_wiki - 0.8043693420666863
+
+3) moor_wiki - 0.7823551297187861
+
+4) sir_wiki - 0.7781009674072321
+
+5) case_wiki - 0.7646698636210127
+
+6) night_wiki - 0.7411135214235359
+
+7) time_wiki - 0.7142596159709199
+
+8) face_wiki - 0.7075520928173022
+
+9) day_wiki - 0.5974570512771649
+
+Result for the vector: moor, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9419945128555165
+
+1) moor_wiki - 0.9419945128555165
+
+2) case_wiki - 0.7997621655535084
+
+3) man_wiki - 0.7817499973475944
+
+4) night_wiki - 0.7694022518040092
+
+5) time_wiki - 0.7005514472230052
+
+6) sir_wiki - 0.6922262929880288
+
+7) friend_wiki - 0.6616827446723805
+
+8) face_wiki - 0.6599009829730091
+
+9) day_wiki - 0.5972412762559604
+
+Result for the vector: sir, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9419686759691658
+
+1) sir_wiki - 0.9419686759691658
+
+2) man_wiki - 0.7906972280768093
+
+3) face_wiki - 0.7710778117179871
+
+4) friend_wiki - 0.7531350255012512
+
+5) moor_wiki - 0.7344036540033624
+
+6) case_wiki - 0.7119847111711091
+
+7) night_wiki - 0.6907747593752971
+
+8) time_wiki - 0.6330569823912449
+
+9) day_wiki - 0.5465734926804011
+
+Result for the vector: time, coming from part a of the book
+Rank: 5 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7891823900720665
+
+1) night_wiki - 0.8568427222026209
+
+2) moor_wiki - 0.8103625065304357
+
+3) man_wiki - 0.8048423056163497
+
+4) case_wiki - 0.7989584923411328
+
+5) time_wiki - 0.7891823900720665
+
+6) sir_wiki - 0.736026748181985
+
+7) friend_wiki - 0.7029871940612793
+
+8) face_wiki - 0.7012141942977905
+
+9) day_wiki - 0.680250029578808
+
+Result for the vector: face, coming from part a of the book
+Rank: 5 out of 9 characters
+Cosine similarity to the co-referring vector: 0.6825619529150765
+
+1) man_wiki - 0.7847571010815321
+
+2) moor_wiki - 0.7574907541275078
+
+3) case_wiki - 0.7358104901539695
+
+4) night_wiki - 0.7123261477850064
+
+5) face_wiki - 0.6825619529150765
+
+6) time_wiki - 0.6783225515504101
+
+7) sir_wiki - 0.6652710437774706
+
+8) friend_wiki - 0.6529908983116818
+
+9) day_wiki - 0.5510101914405862
+
+Result for the vector: friend, coming from part a of the book
+Rank: 2 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8336879710145029
+
+1) man_wiki - 0.8673964401303758
+
+2) friend_wiki - 0.8336879710145029
+
+3) sir_wiki - 0.7933992147445735
+
+4) moor_wiki - 0.7715592384338433
+
+5) case_wiki - 0.7525198158598165
+
+6) night_wiki - 0.7496306076755969
+
+7) time_wiki - 0.7236714261165704
+
+8) face_wiki - 0.7117597632551347
+
+9) day_wiki - 0.5947461724281353
+
+Result for the vector: case, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8226651549339353
+
+1) case_wiki - 0.8226651549339353
+
+2) night_wiki - 0.8090368636581481
+
+3) moor_wiki - 0.7997563242621808
+
+4) man_wiki - 0.7907128916252991
+
+5) time_wiki - 0.7244845792958508
+
+6) sir_wiki - 0.7164613862587674
+
+7) face_wiki - 0.6981844126096031
+
+8) day_wiki - 0.6908383596942853
+
+9) friend_wiki - 0.6793410586918044
+
+Result for the vector: night, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8830693031272089
+
+1) night_wiki - 0.8830693031272089
+
+2) moor_wiki - 0.8164512405664482
+
+3) case_wiki - 0.7924481754035859
+
+4) man_wiki - 0.7673895449092608
+
+5) time_wiki - 0.7222025725600089
+
+6) sir_wiki - 0.7026941599067558
+
+7) face_wiki - 0.6706734895706177
+
+8) friend_wiki - 0.6637991666793823
+
+9) day_wiki - 0.6197389733635779
+
+Result for the vector: day, coming from part a of the book
+Rank: 7 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7048493867933019
+
+1) night_wiki - 0.8580187134163425
+
+2) moor_wiki - 0.8158134598509621
+
+3) case_wiki - 0.8117035031318722
+
+4) man_wiki - 0.7800385922251037
+
+5) time_wiki - 0.7432506833523224
+
+6) sir_wiki - 0.7094320308485068
+
+7) day_wiki - 0.7048493867933019
+
+8) face_wiki - 0.6769244478299896
+
+9) friend_wiki - 0.6705874604336906
+

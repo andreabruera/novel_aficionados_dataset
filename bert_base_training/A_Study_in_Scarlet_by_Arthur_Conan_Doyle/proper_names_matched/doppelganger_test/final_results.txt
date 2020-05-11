@@ -1,0 +1,9 @@
+Test: doppelganger test
+Results for: A_Study_in_Scarlet_by_Arthur_Conan_Doyle
+Model used: proper names matched
+
+Within-novel median: 1.5
+Within-novel average: 2.9285714285714284
+Within-novel MRR: 0.6232993197278913
+Within-novel standard deviation of the scores: 2.2823636155243507
+Amount of entities considered: 7.0

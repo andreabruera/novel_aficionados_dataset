@@ -1,0 +1,140 @@
+Result for the vector: hero, coming from part i of the book
+Rank: 2 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9099018141481008
+
+1) king_a - 0.9157431175862031
+
+2) hero_a - 0.9099018141481008
+
+3) man_a - 0.8802110481388017
+
+4) sword_a - 0.8703606051421542
+
+5) battle_a - 0.859332093496933
+
+Result for the vector: battle, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.878143031431115
+
+1) battle_a - 0.878143031431115
+
+2) hero_a - 0.8663619339193678
+
+3) sword_a - 0.8642748594284058
+
+4) man_a - 0.8558782339096069
+
+5) king_a - 0.8395270896521759
+
+Result for the vector: man, coming from part i of the book
+Rank: 3 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8633639216423035
+
+1) hero_a - 0.888389607225923
+
+2) king_a - 0.8749810606263866
+
+3) man_a - 0.8633639216423035
+
+4) sword_a - 0.8528234958648682
+
+5) battle_a - 0.8358644994376185
+
+Result for the vector: sword, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8640339293500158
+
+1) sword_a - 0.8640339293500158
+
+2) battle_a - 0.8450940914592286
+
+3) hero_a - 0.8401731908579458
+
+4) man_a - 0.8263539568396796
+
+5) king_a - 0.8083946223023888
+
+Result for the vector: king, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9383906236188505
+
+1) king_a - 0.9383906236188505
+
+2) hero_a - 0.8752501867786203
+
+3) man_a - 0.8517624824188675
+
+4) sword_a - 0.8514466374250286
+
+5) battle_a - 0.8315734515063096
+
+Result for the vector: hero, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9099018141481008
+
+1) hero_wiki - 0.9099018141481008
+
+2) man_wiki - 0.888389607225923
+
+3) king_wiki - 0.8752501867786203
+
+4) battle_wiki - 0.8663619339193678
+
+5) sword_wiki - 0.8401731908579458
+
+Result for the vector: battle, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.878143031431115
+
+1) battle_wiki - 0.878143031431115
+
+2) hero_wiki - 0.859332093496933
+
+3) sword_wiki - 0.8450940914592286
+
+4) man_wiki - 0.8358644994376185
+
+5) king_wiki - 0.8315734515063096
+
+Result for the vector: man, coming from part a of the book
+Rank: 2 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8633639216423035
+
+1) hero_wiki - 0.8802110481388017
+
+2) man_wiki - 0.8633639216423035
+
+3) battle_wiki - 0.8558782339096069
+
+4) king_wiki - 0.8517624824188675
+
+5) sword_wiki - 0.8263539568396796
+
+Result for the vector: sword, coming from part a of the book
+Rank: 3 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8640339293500158
+
+1) hero_wiki - 0.8703606051421542
+
+2) battle_wiki - 0.8642748594284058
+
+3) sword_wiki - 0.8640339293500158
+
+4) man_wiki - 0.8528234958648682
+
+5) king_wiki - 0.8514466374250286
+
+Result for the vector: king, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9383906236188505
+
+1) king_wiki - 0.9383906236188505
+
+2) hero_wiki - 0.9157431175862031
+
+3) man_wiki - 0.8749810606263866
+
+4) battle_wiki - 0.8395270896521759
+
+5) sword_wiki - 0.8083946223023888
+

@@ -1,0 +1,252 @@
+Result for the vector: slave, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.936009585857398
+
+1) slave_a - 0.936009585857398
+
+2) man_a - 0.9073872025378242
+
+3) master_a - 0.9001436293039559
+
+4) slavery_a - 0.8624428849684367
+
+5) day_a - 0.8362444238371344
+
+6) time_a - 0.8208222602817702
+
+7) hand_a - 0.8197063315089758
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8939030766487185
+
+1) time_a - 0.8939030766487185
+
+2) day_a - 0.8785467743873658
+
+3) man_a - 0.8441030886234709
+
+4) master_a - 0.8354321024079399
+
+5) slave_a - 0.8334740201799894
+
+6) slavery_a - 0.8150016798080519
+
+7) hand_a - 0.7728225453390222
+
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8883010015846556
+
+1) man_a - 0.8883010015846556
+
+2) slave_a - 0.8733064901780782
+
+3) master_a - 0.8652216035391873
+
+4) slavery_a - 0.8409365476573363
+
+5) day_a - 0.8389480614035301
+
+6) time_a - 0.8159125337548705
+
+7) hand_a - 0.8023065688975592
+
+Result for the vector: master, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8987417817115784
+
+1) master_a - 0.8987417817115784
+
+2) slave_a - 0.865723601920821
+
+3) man_a - 0.8611657619476318
+
+4) day_a - 0.7982115865819714
+
+5) slavery_a - 0.7888486620440683
+
+6) hand_a - 0.7873140573501587
+
+7) time_a - 0.7792933714810998
+
+Result for the vector: slavery, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8977272778072146
+
+1) slavery_a - 0.8977272778072146
+
+2) slave_a - 0.7966728089256783
+
+3) man_a - 0.7852587699890137
+
+4) master_a - 0.7727530002593994
+
+5) hand_a - 0.7270129919052124
+
+6) day_a - 0.7259626551888804
+
+7) time_a - 0.7129075102265185
+
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8256558879818998
+
+1) day_a - 0.8256558879818998
+
+2) time_a - 0.7826292644364095
+
+3) slave_a - 0.68583111082501
+
+4) man_a - 0.6824745535850525
+
+5) master_a - 0.6785094738006592
+
+6) hand_a - 0.6650742292404175
+
+7) slavery_a - 0.6414370131920881
+
+Result for the vector: hand, coming from part i of the book
+Rank: 5 out of 7 characters
+Cosine similarity to the co-referring vector: 0.6661500930786133
+
+1) master_a - 0.7014361023902893
+
+2) slave_a - 0.6928321536083325
+
+3) man_a - 0.6871628761291504
+
+4) day_a - 0.6665383776105429
+
+5) hand_a - 0.6661500930786133
+
+6) slavery_a - 0.6641173560654332
+
+7) time_a - 0.6523887722260503
+
+Result for the vector: slave, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.936009585857398
+
+1) slave_wiki - 0.936009585857398
+
+2) man_wiki - 0.8733064901780782
+
+3) master_wiki - 0.865723601920821
+
+4) time_wiki - 0.8334740201799894
+
+5) slavery_wiki - 0.7966728089256783
+
+6) hand_wiki - 0.6928321536083325
+
+7) day_wiki - 0.68583111082501
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8939030766487185
+
+1) time_wiki - 0.8939030766487185
+
+2) slave_wiki - 0.8208222602817702
+
+3) man_wiki - 0.8159125337548705
+
+4) day_wiki - 0.7826292644364095
+
+5) master_wiki - 0.7792933714810998
+
+6) slavery_wiki - 0.7129075102265185
+
+7) hand_wiki - 0.6523887722260503
+
+Result for the vector: man, coming from part a of the book
+Rank: 2 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8883010015846556
+
+1) slave_wiki - 0.9073872025378242
+
+2) man_wiki - 0.8883010015846556
+
+3) master_wiki - 0.8611657619476318
+
+4) time_wiki - 0.8441030886234709
+
+5) slavery_wiki - 0.7852587699890137
+
+6) hand_wiki - 0.6871628761291504
+
+7) day_wiki - 0.6824745535850525
+
+Result for the vector: master, coming from part a of the book
+Rank: 2 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8987417817115784
+
+1) slave_wiki - 0.9001436293039559
+
+2) master_wiki - 0.8987417817115784
+
+3) man_wiki - 0.8652216035391873
+
+4) time_wiki - 0.8354321024079399
+
+5) slavery_wiki - 0.7727530002593994
+
+6) hand_wiki - 0.7014361023902893
+
+7) day_wiki - 0.6785094738006592
+
+Result for the vector: slavery, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8977272778072146
+
+1) slavery_wiki - 0.8977272778072146
+
+2) slave_wiki - 0.8624428849684367
+
+3) man_wiki - 0.8409365476573363
+
+4) time_wiki - 0.8150016798080519
+
+5) master_wiki - 0.7888486620440683
+
+6) hand_wiki - 0.6641173560654332
+
+7) day_wiki - 0.6414370131920881
+
+Result for the vector: day, coming from part a of the book
+Rank: 4 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8256558879818998
+
+1) time_wiki - 0.8785467743873658
+
+2) man_wiki - 0.8389480614035301
+
+3) slave_wiki - 0.8362444238371344
+
+4) day_wiki - 0.8256558879818998
+
+5) master_wiki - 0.7982115865819714
+
+6) slavery_wiki - 0.7259626551888804
+
+7) hand_wiki - 0.6665383776105429
+
+Result for the vector: hand, coming from part a of the book
+Rank: 6 out of 7 characters
+Cosine similarity to the co-referring vector: 0.6661500930786133
+
+1) slave_wiki - 0.8197063315089758
+
+2) man_wiki - 0.8023065688975592
+
+3) master_wiki - 0.7873140573501587
+
+4) time_wiki - 0.7728225453390222
+
+5) slavery_wiki - 0.7270129919052124
+
+6) hand_wiki - 0.6661500930786133
+
+7) day_wiki - 0.6650742292404175
+

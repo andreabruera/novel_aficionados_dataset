@@ -1,0 +1,9 @@
+Test: doppelganger test
+Results for: Le_Morte_dArthur_Volume__by_Sir_Thoma
+Model used: proper names matched
+
+Within-novel median: 11.5
+Within-novel average: 15.805084745762711
+Within-novel MRR: 0.2883147837178815
+Within-novel standard deviation of the scores: 15.418049336144998
+Amount of entities considered: 59.0

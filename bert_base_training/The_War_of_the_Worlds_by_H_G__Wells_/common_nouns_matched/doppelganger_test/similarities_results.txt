@@ -1,0 +1,60 @@
+Result for the vector: couple, coming from part a of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9544739750341209
+
+1) couple_b - 0.9544739750341209
+
+2) fact_b - 0.672062654968343
+
+3) order_b - 0.6659200589752127
+
+Result for the vector: order, coming from part a of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.939837957010107
+
+1) order_b - 0.939837957010107
+
+2) fact_b - 0.7362314963685798
+
+3) couple_b - 0.623685214472601
+
+Result for the vector: fact, coming from part a of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9281405763709906
+
+1) fact_b - 0.9281405763709906
+
+2) order_b - 0.7444646358490044
+
+3) couple_b - 0.6185745965584883
+
+Result for the vector: couple, coming from part b of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9544739750341209
+
+1) couple_a - 0.9544739750341209
+
+2) order_a - 0.623685214472601
+
+3) fact_a - 0.6185745965584883
+
+Result for the vector: order, coming from part b of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.939837957010107
+
+1) order_a - 0.939837957010107
+
+2) fact_a - 0.7444646358490044
+
+3) couple_a - 0.6659200589752127
+
+Result for the vector: fact, coming from part b of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9281405763709906
+
+1) fact_a - 0.9281405763709906
+
+2) order_a - 0.7362314963685798
+
+3) couple_a - 0.672062654968343
+

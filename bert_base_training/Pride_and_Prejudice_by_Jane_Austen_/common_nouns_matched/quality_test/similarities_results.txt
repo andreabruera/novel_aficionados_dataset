@@ -1,0 +1,1760 @@
+Result for the vector: sister, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9366179387753691
+
+1) sister_a - 0.9366179387753691
+
+2) friend_a - 0.9360773842357913
+
+3) child_a - 0.9014758526399239
+
+4) family_a - 0.8961641850373651
+
+5) lady_a - 0.8805640935897889
+
+6) man_a - 0.8594886744327158
+
+7) fortune_a - 0.8480708093600998
+
+8) chapter_a - 0.8396332955579
+
+9) ball_a - 0.8264459475013064
+
+10) thing_a - 0.8172239174113337
+
+11) want_a - 0.8133297673863326
+
+12) account_a - 0.8117600921321033
+
+13) day_a - 0.8083950040222736
+
+14) room_a - 0.8064538836479245
+
+15) time_a - 0.8036876437850226
+
+16) nothing_a - 0.7926096443766582
+
+17) delight_a - 0.776805248641342
+
+18) knowledge_a - 0.7741544842720087
+
+19) mean_a - 0.7416575993095517
+
+20) end_a - 0.6867103167348924
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.88699477237432
+
+1) time_a - 0.88699477237432
+
+2) family_a - 0.8569996271729262
+
+3) day_a - 0.8561480810774641
+
+4) friend_a - 0.8457531401147161
+
+5) thing_a - 0.8451891449206573
+
+6) child_a - 0.8436544444355052
+
+7) fortune_a - 0.8358482620625667
+
+8) ball_a - 0.8340644141474032
+
+9) room_a - 0.8281640801625347
+
+10) account_a - 0.8182435062890513
+
+11) lady_a - 0.8132472411688854
+
+12) sister_a - 0.8088431371514707
+
+13) want_a - 0.8024529696972963
+
+14) man_a - 0.801846730819151
+
+15) nothing_a - 0.7966199396026112
+
+16) delight_a - 0.7911034822464046
+
+17) chapter_a - 0.7770762906716057
+
+18) knowledge_a - 0.7741875975355622
+
+19) mean_a - 0.7623635701591214
+
+20) end_a - 0.6982589184200132
+
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9111943139069519
+
+1) man_a - 0.9111943139069519
+
+2) lady_a - 0.8977231200438373
+
+3) family_a - 0.8636517958226022
+
+4) friend_a - 0.8455382561316432
+
+5) fortune_a - 0.8426657727558402
+
+6) child_a - 0.8409741331308106
+
+7) sister_a - 0.8242087295490836
+
+8) thing_a - 0.8203648114639355
+
+9) ball_a - 0.7900960195179065
+
+10) want_a - 0.7848341804545197
+
+11) day_a - 0.7819466563979801
+
+12) nothing_a - 0.7766757341236806
+
+13) time_a - 0.7748515933575201
+
+14) room_a - 0.7629025750582068
+
+15) account_a - 0.7615220943288408
+
+16) chapter_a - 0.7533653084475224
+
+17) delight_a - 0.7309608299112932
+
+18) mean_a - 0.724049442779885
+
+19) knowledge_a - 0.7035709685512141
+
+20) end_a - 0.6741001217484667
+
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7569755541376938
+
+1) day_a - 0.7569755541376938
+
+2) time_a - 0.7549353241920471
+
+3) thing_a - 0.7470926642417908
+
+4) lady_a - 0.7420681561272251
+
+5) child_a - 0.7397558093070984
+
+6) family_a - 0.7396707534790039
+
+7) fortune_a - 0.7316431999206543
+
+8) ball_a - 0.7309548258781433
+
+9) friend_a - 0.7293002661437064
+
+10) sister_a - 0.7197399782902012
+
+11) account_a - 0.7178751276023829
+
+12) want_a - 0.7115740180015564
+
+13) room_a - 0.70530543955001
+
+14) nothing_a - 0.7026813626289368
+
+15) chapter_a - 0.6999315023422241
+
+16) man_a - 0.6966739892959595
+
+17) delight_a - 0.6909219210790455
+
+18) knowledge_a - 0.6834342887064403
+
+19) end_a - 0.6494715213775635
+
+20) mean_a - 0.6410769392343733
+
+Result for the vector: friend, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9175132786486632
+
+1) friend_a - 0.9175132786486632
+
+2) sister_a - 0.8989326029697936
+
+3) lady_a - 0.8729033470153871
+
+4) man_a - 0.8692542392459981
+
+5) child_a - 0.8683713156955666
+
+6) family_a - 0.8679536659745193
+
+7) fortune_a - 0.8467220159338719
+
+8) chapter_a - 0.8288681013066723
+
+9) account_a - 0.8085358979861795
+
+10) want_a - 0.7985182524610621
+
+11) ball_a - 0.7982946754518359
+
+12) thing_a - 0.7969683529753488
+
+13) nothing_a - 0.7955474379332415
+
+14) time_a - 0.7914065246935784
+
+15) room_a - 0.7883359789848383
+
+16) day_a - 0.7810322409560639
+
+17) knowledge_a - 0.7808166742324885
+
+18) delight_a - 0.7535773809459947
+
+19) mean_a - 0.7298926550086051
+
+20) end_a - 0.6944859209963142
+
+Result for the vector: nothing, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8152569046463441
+
+1) nothing_a - 0.8152569046463441
+
+2) fortune_a - 0.7061604436540352
+
+3) time_a - 0.6936009708880811
+
+4) account_a - 0.6758603059011864
+
+5) want_a - 0.6691599685454399
+
+6) thing_a - 0.6634229026184748
+
+7) chapter_a - 0.6541293469590349
+
+8) family_a - 0.6540220586048341
+
+9) child_a - 0.6538463441225096
+
+10) friend_a - 0.6530623630601945
+
+11) knowledge_a - 0.6524736285209702
+
+12) day_a - 0.6463887498858969
+
+13) lady_a - 0.6415767073631332
+
+14) ball_a - 0.6399302697223276
+
+15) mean_a - 0.6323530454846152
+
+16) man_a - 0.6313081603462611
+
+17) room_a - 0.627978622913365
+
+18) delight_a - 0.6265333144029004
+
+19) sister_a - 0.6205933875022417
+
+20) end_a - 0.5951038244304773
+
+Result for the vector: room, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7759275898890264
+
+1) room_a - 0.7759275898890264
+
+2) family_a - 0.7369717955589294
+
+3) ball_a - 0.7354400157928467
+
+4) time_a - 0.7326850891113281
+
+5) fortune_a - 0.7256212830543518
+
+6) friend_a - 0.7203735757208116
+
+7) nothing_a - 0.7189918160438538
+
+8) day_a - 0.718765876256403
+
+9) chapter_a - 0.7154232263565063
+
+10) want_a - 0.7136844396591187
+
+11) lady_a - 0.7091753309473605
+
+12) thing_a - 0.7087344527244568
+
+13) child_a - 0.7045092582702637
+
+14) account_a - 0.7005071074223941
+
+15) sister_a - 0.699473145557032
+
+16) man_a - 0.6856421232223511
+
+17) knowledge_a - 0.6660781303690761
+
+18) delight_a - 0.6592850888201554
+
+19) mean_a - 0.656389731930467
+
+20) end_a - 0.6426134705543518
+
+Result for the vector: family, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9418511390686035
+
+1) family_a - 0.9418511390686035
+
+2) sister_a - 0.9267912739626749
+
+3) friend_a - 0.925764822283226
+
+4) child_a - 0.9081146121025085
+
+5) lady_a - 0.8900296622532421
+
+6) fortune_a - 0.8879839777946472
+
+7) man_a - 0.8694582581520081
+
+8) ball_a - 0.8639982342720032
+
+9) room_a - 0.8638529100330433
+
+10) chapter_a - 0.8515273928642273
+
+11) account_a - 0.8447660366981692
+
+12) day_a - 0.8397000086218125
+
+13) thing_a - 0.8389498591423035
+
+14) time_a - 0.8382604718208313
+
+15) want_a - 0.8357930779457092
+
+16) nothing_a - 0.8257936835289001
+
+17) knowledge_a - 0.7972323177595342
+
+18) delight_a - 0.7820620070658932
+
+19) mean_a - 0.7653531748477483
+
+20) end_a - 0.7166393995285034
+
+Result for the vector: lady, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8453888297081054
+
+1) lady_a - 0.8453888297081054
+
+2) man_a - 0.8325105409317901
+
+3) friend_a - 0.8301815041953866
+
+4) family_a - 0.8234618411384931
+
+5) child_a - 0.812641154966287
+
+6) sister_a - 0.8052484633102645
+
+7) fortune_a - 0.8047201153802818
+
+8) chapter_a - 0.7961765053167056
+
+9) ball_a - 0.7651644489071115
+
+10) day_a - 0.7580792081928519
+
+11) thing_a - 0.7557410743390887
+
+12) want_a - 0.7525197415042091
+
+13) room_a - 0.7509086132049614
+
+14) time_a - 0.7490587384069731
+
+15) nothing_a - 0.7403190886784157
+
+16) account_a - 0.7245338775078698
+
+17) delight_a - 0.7159942131049379
+
+18) mean_a - 0.704484862356487
+
+19) knowledge_a - 0.6721801757812548
+
+20) end_a - 0.6408780431224094
+
+Result for the vector: thing, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8441150095531366
+
+1) thing_a - 0.8441150095531366
+
+2) fortune_a - 0.8259104386514702
+
+3) time_a - 0.8235503926009189
+
+4) child_a - 0.8109061605278364
+
+5) nothing_a - 0.8033219458652717
+
+6) want_a - 0.803163397500719
+
+7) family_a - 0.8016579628978959
+
+8) friend_a - 0.8003823757741418
+
+9) account_a - 0.796394943653784
+
+10) day_a - 0.7953449006687019
+
+11) lady_a - 0.7951940053932673
+
+12) ball_a - 0.795068132583389
+
+13) sister_a - 0.7800829976920783
+
+14) man_a - 0.7755107149786197
+
+15) delight_a - 0.7693353295326287
+
+16) knowledge_a - 0.7673121413364579
+
+17) room_a - 0.7665161212105895
+
+18) chapter_a - 0.7523873300783248
+
+19) mean_a - 0.7286607733954396
+
+20) end_a - 0.696671527425739
+
+Result for the vector: chapter, coming from part i of the book
+Rank: 14 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7897317660174705
+
+1) time_a - 0.8294806087636281
+
+2) day_a - 0.8283783648867968
+
+3) account_a - 0.8175576085580286
+
+4) nothing_a - 0.8103300559127322
+
+5) fortune_a - 0.8098129260763075
+
+6) family_a - 0.8063655726473898
+
+7) ball_a - 0.8046486014546688
+
+8) friend_a - 0.8040147184129318
+
+9) want_a - 0.7981249334663288
+
+10) thing_a - 0.797470951381814
+
+11) room_a - 0.7934243802175422
+
+12) lady_a - 0.7932655338486838
+
+13) sister_a - 0.7909291746935666
+
+14) chapter_a - 0.7897317660174705
+
+15) knowledge_a - 0.7832160721292578
+
+16) child_a - 0.781614389227111
+
+17) delight_a - 0.7696722561707052
+
+18) man_a - 0.7648324054679442
+
+19) end_a - 0.7157558541589008
+
+20) mean_a - 0.7070826888084613
+
+Result for the vector: ball, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8436853289604187
+
+1) ball_a - 0.8436853289604187
+
+2) room_a - 0.7823197711896774
+
+3) day_a - 0.7784406774771419
+
+4) time_a - 0.7733213305473328
+
+5) family_a - 0.764504611492157
+
+6) lady_a - 0.7320022423268714
+
+7) fortune_a - 0.7203521132469177
+
+8) thing_a - 0.718565046787262
+
+9) friend_a - 0.7183379577104441
+
+10) sister_a - 0.7152278466726433
+
+11) chapter_a - 0.7121719717979431
+
+12) account_a - 0.7099469938826882
+
+13) end_a - 0.7066836357116699
+
+14) nothing_a - 0.7058207988739014
+
+15) want_a - 0.6962950825691223
+
+16) man_a - 0.6962066888809204
+
+17) child_a - 0.688845157623291
+
+18) delight_a - 0.6776942802849854
+
+19) knowledge_a - 0.6510420233632351
+
+20) mean_a - 0.6461464936907926
+
+Result for the vector: child, coming from part i of the book
+Rank: 5 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7469665709773866
+
+1) man_a - 0.7807836793919047
+
+2) fortune_a - 0.768889097107762
+
+3) family_a - 0.7658878247871662
+
+4) lady_a - 0.7559972550870745
+
+5) child_a - 0.7469665709773866
+
+6) friend_a - 0.7454209105545173
+
+7) sister_a - 0.7269474647358973
+
+8) thing_a - 0.7258805363320716
+
+9) time_a - 0.717656824868109
+
+10) ball_a - 0.7105869399801614
+
+11) want_a - 0.7037083263744969
+
+12) day_a - 0.7022932736015451
+
+13) room_a - 0.6944467607470408
+
+14) nothing_a - 0.6834369679168549
+
+15) account_a - 0.6824677979210824
+
+16) knowledge_a - 0.6665169795443534
+
+17) delight_a - 0.664533555889091
+
+18) mean_a - 0.64445251226427
+
+19) chapter_a - 0.6334777911331948
+
+20) end_a - 0.6114922032961646
+
+Result for the vector: mean, coming from part i of the book
+Rank: 8 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7521195564483817
+
+1) want_a - 0.7764718399329104
+
+2) fortune_a - 0.77596275663154
+
+3) friend_a - 0.7727693874790356
+
+4) thing_a - 0.7694525581271995
+
+5) family_a - 0.7683477263657897
+
+6) account_a - 0.7649517603146676
+
+7) child_a - 0.7588540767940342
+
+8) mean_a - 0.7521195564483817
+
+9) time_a - 0.7465237824036959
+
+10) man_a - 0.7424293006914451
+
+11) lady_a - 0.7422592332672159
+
+12) ball_a - 0.7397180640529446
+
+13) nothing_a - 0.7396972024260298
+
+14) room_a - 0.7357836050729281
+
+15) knowledge_a - 0.7302102720988121
+
+16) delight_a - 0.7282721996307425
+
+17) sister_a - 0.7260010132195078
+
+18) day_a - 0.7141244453899069
+
+19) chapter_a - 0.689939242001728
+
+20) end_a - 0.6400873446516612
+
+Result for the vector: fortune, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8711860179901123
+
+1) fortune_a - 0.8711860179901123
+
+2) child_a - 0.8297638297080994
+
+3) friend_a - 0.8087849148021594
+
+4) thing_a - 0.8081663250923157
+
+5) family_a - 0.7980047464370728
+
+6) sister_a - 0.7785240511766749
+
+7) account_a - 0.7662837594405228
+
+8) man_a - 0.7652618885040283
+
+9) nothing_a - 0.7613373398780823
+
+10) time_a - 0.7573519349098206
+
+11) lady_a - 0.7544789763974546
+
+12) delight_a - 0.753382697499831
+
+13) ball_a - 0.7465679049491882
+
+14) mean_a - 0.7464881833181652
+
+15) want_a - 0.7433891892433167
+
+16) knowledge_a - 0.7322649200120533
+
+17) room_a - 0.7215722633345297
+
+18) day_a - 0.7166037177027383
+
+19) chapter_a - 0.6911445260047913
+
+20) end_a - 0.5971347689628601
+
+Result for the vector: account, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.6056736237613717
+
+1) account_a - 0.6056736237613717
+
+2) fortune_a - 0.6051747979275824
+
+3) want_a - 0.6002937734214598
+
+4) delight_a - 0.5922462167666513
+
+5) time_a - 0.5914395627808443
+
+6) end_a - 0.586646395523739
+
+7) knowledge_a - 0.5756914534292927
+
+8) thing_a - 0.5753432087702518
+
+9) room_a - 0.5719763551929317
+
+10) friend_a - 0.569227346089763
+
+11) family_a - 0.5683171322440249
+
+12) day_a - 0.5660233238949373
+
+13) nothing_a - 0.560590701120815
+
+14) child_a - 0.5571137236688654
+
+15) ball_a - 0.5532297060856138
+
+16) mean_a - 0.5412104936257762
+
+17) chapter_a - 0.5382443826867458
+
+18) man_a - 0.5367728631726763
+
+19) lady_a - 0.5353737356102829
+
+20) sister_a - 0.5346660059292333
+
+Result for the vector: delight, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.6732807159423876
+
+1) delight_a - 0.6732807159423876
+
+2) knowledge_a - 0.6350426834872583
+
+3) account_a - 0.6235328053731929
+
+4) time_a - 0.5927591677164545
+
+5) want_a - 0.5874205581796512
+
+6) family_a - 0.5800666558782264
+
+7) sister_a - 0.5783427027378536
+
+8) friend_a - 0.574548747323267
+
+9) fortune_a - 0.5733332975705454
+
+10) thing_a - 0.5681518058867349
+
+11) child_a - 0.5531158180901906
+
+12) ball_a - 0.5506880015544902
+
+13) mean_a - 0.5489610819150962
+
+14) nothing_a - 0.5437352385363134
+
+15) day_a - 0.5366325858204891
+
+16) end_a - 0.5346865376643273
+
+17) lady_a - 0.5286235247401625
+
+18) chapter_a - 0.5150094339257151
+
+19) man_a - 0.5096635526218156
+
+20) room_a - 0.509003640294509
+
+Result for the vector: end, coming from part i of the book
+Rank: 20 out of 20 characters
+Cosine similarity to the co-referring vector: 0.6249896474179523
+
+1) room_a - 0.7258835487857657
+
+2) family_a - 0.7125544164345988
+
+3) fortune_a - 0.7091188642120027
+
+4) ball_a - 0.6979204624271533
+
+5) day_a - 0.69727287872272
+
+6) thing_a - 0.6896121707443053
+
+7) time_a - 0.6843925918457687
+
+8) want_a - 0.6806786859237759
+
+9) child_a - 0.6695016226023922
+
+10) friend_a - 0.6688322030105844
+
+11) account_a - 0.6677087745319348
+
+12) nothing_a - 0.6632341344128294
+
+13) man_a - 0.6606044966162594
+
+14) lady_a - 0.6572592250042464
+
+15) mean_a - 0.6493269576619528
+
+16) sister_a - 0.6462684448085373
+
+17) knowledge_a - 0.6423396446412487
+
+18) chapter_a - 0.6326761434279726
+
+19) delight_a - 0.6314149906809656
+
+20) end_a - 0.6249896474179523
+
+Result for the vector: want, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8371404409408569
+
+1) want_a - 0.8371404409408569
+
+2) fortune_a - 0.7408531308174133
+
+3) account_a - 0.7261819892688413
+
+4) friend_a - 0.7176106617698694
+
+5) mean_a - 0.7137366788073446
+
+6) knowledge_a - 0.7091579263900487
+
+7) family_a - 0.7049782276153564
+
+8) time_a - 0.7035253643989563
+
+9) nothing_a - 0.6986694931983948
+
+10) thing_a - 0.6942495107650757
+
+11) child_a - 0.6896708011627197
+
+12) delight_a - 0.6895725316064053
+
+13) ball_a - 0.6872702836990356
+
+14) man_a - 0.6830884218215942
+
+15) sister_a - 0.6829040661070434
+
+16) lady_a - 0.6620532668860726
+
+17) room_a - 0.6614964402613914
+
+18) day_a - 0.6614026028335873
+
+19) chapter_a - 0.6381604075431824
+
+20) end_a - 0.614286482334137
+
+Result for the vector: knowledge, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8448314574260404
+
+1) knowledge_a - 0.8448314574260404
+
+2) account_a - 0.7910229674896302
+
+3) want_a - 0.6969860792160034
+
+4) nothing_a - 0.6882816553115845
+
+5) fortune_a - 0.6882678866386414
+
+6) time_a - 0.6833989024162292
+
+7) friend_a - 0.6804808390570464
+
+8) thing_a - 0.6676474213600159
+
+9) delight_a - 0.664479990930559
+
+10) family_a - 0.6640012264251709
+
+11) sister_a - 0.6565201869476035
+
+12) child_a - 0.6536792516708374
+
+13) lady_a - 0.6524868400387084
+
+14) ball_a - 0.6433079838752747
+
+15) day_a - 0.6318973491161275
+
+16) room_a - 0.6259801760900137
+
+17) man_a - 0.6236164569854736
+
+18) chapter_a - 0.6210648417472839
+
+19) mean_a - 0.608846379380991
+
+20) end_a - 0.5908574461936951
+
+Result for the vector: sister, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9366179387753691
+
+1) sister_wiki - 0.9366179387753691
+
+2) family_wiki - 0.9267912739626749
+
+3) friend_wiki - 0.8989326029697936
+
+4) man_wiki - 0.8242087295490836
+
+5) time_wiki - 0.8088431371514707
+
+6) lady_wiki - 0.8052484633102645
+
+7) chapter_wiki - 0.7909291746935666
+
+8) thing_wiki - 0.7800829976920783
+
+9) fortune_wiki - 0.7785240511766749
+
+10) child_wiki - 0.7269474647358973
+
+11) mean_wiki - 0.7260010132195078
+
+12) day_wiki - 0.7197399782902012
+
+13) ball_wiki - 0.7152278466726433
+
+14) room_wiki - 0.699473145557032
+
+15) want_wiki - 0.6829040661070434
+
+16) knowledge_wiki - 0.6565201869476035
+
+17) end_wiki - 0.6462684448085373
+
+18) nothing_wiki - 0.6205933875022417
+
+19) delight_wiki - 0.5783427027378536
+
+20) account_wiki - 0.5346660059292333
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.88699477237432
+
+1) time_wiki - 0.88699477237432
+
+2) family_wiki - 0.8382604718208313
+
+3) chapter_wiki - 0.8294806087636281
+
+4) thing_wiki - 0.8235503926009189
+
+5) sister_wiki - 0.8036876437850226
+
+6) friend_wiki - 0.7914065246935784
+
+7) man_wiki - 0.7748515933575201
+
+8) ball_wiki - 0.7733213305473328
+
+9) fortune_wiki - 0.7573519349098206
+
+10) day_wiki - 0.7549353241920471
+
+11) lady_wiki - 0.7490587384069731
+
+12) mean_wiki - 0.7465237824036959
+
+13) room_wiki - 0.7326850891113281
+
+14) child_wiki - 0.717656824868109
+
+15) want_wiki - 0.7035253643989563
+
+16) nothing_wiki - 0.6936009708880811
+
+17) end_wiki - 0.6843925918457687
+
+18) knowledge_wiki - 0.6833989024162292
+
+19) delight_wiki - 0.5927591677164545
+
+20) account_wiki - 0.5914395627808443
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9111943139069519
+
+1) man_wiki - 0.9111943139069519
+
+2) family_wiki - 0.8694582581520081
+
+3) friend_wiki - 0.8692542392459981
+
+4) sister_wiki - 0.8594886744327158
+
+5) lady_wiki - 0.8325105409317901
+
+6) time_wiki - 0.801846730819151
+
+7) child_wiki - 0.7807836793919047
+
+8) thing_wiki - 0.7755107149786197
+
+9) fortune_wiki - 0.7652618885040283
+
+10) chapter_wiki - 0.7648324054679442
+
+11) mean_wiki - 0.7424293006914451
+
+12) day_wiki - 0.6966739892959595
+
+13) ball_wiki - 0.6962066888809204
+
+14) room_wiki - 0.6856421232223511
+
+15) want_wiki - 0.6830884218215942
+
+16) end_wiki - 0.6606044966162594
+
+17) nothing_wiki - 0.6313081603462611
+
+18) knowledge_wiki - 0.6236164569854736
+
+19) account_wiki - 0.5367728631726763
+
+20) delight_wiki - 0.5096635526218156
+
+Result for the vector: day, coming from part a of the book
+Rank: 10 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7569755541376938
+
+1) time_wiki - 0.8561480810774641
+
+2) family_wiki - 0.8397000086218125
+
+3) chapter_wiki - 0.8283783648867968
+
+4) sister_wiki - 0.8083950040222736
+
+5) thing_wiki - 0.7953449006687019
+
+6) man_wiki - 0.7819466563979801
+
+7) friend_wiki - 0.7810322409560639
+
+8) ball_wiki - 0.7784406774771419
+
+9) lady_wiki - 0.7580792081928519
+
+10) day_wiki - 0.7569755541376938
+
+11) room_wiki - 0.718765876256403
+
+12) fortune_wiki - 0.7166037177027383
+
+13) mean_wiki - 0.7141244453899069
+
+14) child_wiki - 0.7022932736015451
+
+15) end_wiki - 0.69727287872272
+
+16) want_wiki - 0.6614026028335873
+
+17) nothing_wiki - 0.6463887498858969
+
+18) knowledge_wiki - 0.6318973491161275
+
+19) account_wiki - 0.5660233238949373
+
+20) delight_wiki - 0.5366325858204891
+
+Result for the vector: friend, coming from part a of the book
+Rank: 3 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9175132786486632
+
+1) sister_wiki - 0.9360773842357913
+
+2) family_wiki - 0.925764822283226
+
+3) friend_wiki - 0.9175132786486632
+
+4) time_wiki - 0.8457531401147161
+
+5) man_wiki - 0.8455382561316432
+
+6) lady_wiki - 0.8301815041953866
+
+7) fortune_wiki - 0.8087849148021594
+
+8) chapter_wiki - 0.8040147184129318
+
+9) thing_wiki - 0.8003823757741418
+
+10) mean_wiki - 0.7727693874790356
+
+11) child_wiki - 0.7454209105545173
+
+12) day_wiki - 0.7293002661437064
+
+13) room_wiki - 0.7203735757208116
+
+14) ball_wiki - 0.7183379577104441
+
+15) want_wiki - 0.7176106617698694
+
+16) knowledge_wiki - 0.6804808390570464
+
+17) end_wiki - 0.6688322030105844
+
+18) nothing_wiki - 0.6530623630601945
+
+19) delight_wiki - 0.574548747323267
+
+20) account_wiki - 0.569227346089763
+
+Result for the vector: nothing, coming from part a of the book
+Rank: 2 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8152569046463441
+
+1) family_wiki - 0.8257936835289001
+
+2) nothing_wiki - 0.8152569046463441
+
+3) chapter_wiki - 0.8103300559127322
+
+4) thing_wiki - 0.8033219458652717
+
+5) time_wiki - 0.7966199396026112
+
+6) friend_wiki - 0.7955474379332415
+
+7) sister_wiki - 0.7926096443766582
+
+8) man_wiki - 0.7766757341236806
+
+9) fortune_wiki - 0.7613373398780823
+
+10) lady_wiki - 0.7403190886784157
+
+11) mean_wiki - 0.7396972024260298
+
+12) room_wiki - 0.7189918160438538
+
+13) ball_wiki - 0.7058207988739014
+
+14) day_wiki - 0.7026813626289368
+
+15) want_wiki - 0.6986694931983948
+
+16) knowledge_wiki - 0.6882816553115845
+
+17) child_wiki - 0.6834369679168549
+
+18) end_wiki - 0.6632341344128294
+
+19) account_wiki - 0.560590701120815
+
+20) delight_wiki - 0.5437352385363134
+
+Result for the vector: room, coming from part a of the book
+Rank: 7 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7759275898890264
+
+1) family_wiki - 0.8638529100330433
+
+2) time_wiki - 0.8281640801625347
+
+3) sister_wiki - 0.8064538836479245
+
+4) chapter_wiki - 0.7934243802175422
+
+5) friend_wiki - 0.7883359789848383
+
+6) ball_wiki - 0.7823197711896774
+
+7) room_wiki - 0.7759275898890264
+
+8) thing_wiki - 0.7665161212105895
+
+9) man_wiki - 0.7629025750582068
+
+10) lady_wiki - 0.7509086132049614
+
+11) mean_wiki - 0.7357836050729281
+
+12) end_wiki - 0.7258835487857657
+
+13) fortune_wiki - 0.7215722633345297
+
+14) day_wiki - 0.70530543955001
+
+15) child_wiki - 0.6944467607470408
+
+16) want_wiki - 0.6614964402613914
+
+17) nothing_wiki - 0.627978622913365
+
+18) knowledge_wiki - 0.6259801760900137
+
+19) account_wiki - 0.5719763551929317
+
+20) delight_wiki - 0.509003640294509
+
+Result for the vector: family, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9418511390686035
+
+1) family_wiki - 0.9418511390686035
+
+2) sister_wiki - 0.8961641850373651
+
+3) friend_wiki - 0.8679536659745193
+
+4) man_wiki - 0.8636517958226022
+
+5) time_wiki - 0.8569996271729262
+
+6) lady_wiki - 0.8234618411384931
+
+7) chapter_wiki - 0.8063655726473898
+
+8) thing_wiki - 0.8016579628978959
+
+9) fortune_wiki - 0.7980047464370728
+
+10) mean_wiki - 0.7683477263657897
+
+11) child_wiki - 0.7658878247871662
+
+12) ball_wiki - 0.764504611492157
+
+13) day_wiki - 0.7396707534790039
+
+14) room_wiki - 0.7369717955589294
+
+15) end_wiki - 0.7125544164345988
+
+16) want_wiki - 0.7049782276153564
+
+17) knowledge_wiki - 0.6640012264251709
+
+18) nothing_wiki - 0.6540220586048341
+
+19) delight_wiki - 0.5800666558782264
+
+20) account_wiki - 0.5683171322440249
+
+Result for the vector: lady, coming from part a of the book
+Rank: 5 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8453888297081054
+
+1) man_wiki - 0.8977231200438373
+
+2) family_wiki - 0.8900296622532421
+
+3) sister_wiki - 0.8805640935897889
+
+4) friend_wiki - 0.8729033470153871
+
+5) lady_wiki - 0.8453888297081054
+
+6) time_wiki - 0.8132472411688854
+
+7) thing_wiki - 0.7951940053932673
+
+8) chapter_wiki - 0.7932655338486838
+
+9) child_wiki - 0.7559972550870745
+
+10) fortune_wiki - 0.7544789763974546
+
+11) mean_wiki - 0.7422592332672159
+
+12) day_wiki - 0.7420681561272251
+
+13) ball_wiki - 0.7320022423268714
+
+14) room_wiki - 0.7091753309473605
+
+15) want_wiki - 0.6620532668860726
+
+16) end_wiki - 0.6572592250042464
+
+17) knowledge_wiki - 0.6524868400387084
+
+18) nothing_wiki - 0.6415767073631332
+
+19) account_wiki - 0.5353737356102829
+
+20) delight_wiki - 0.5286235247401625
+
+Result for the vector: thing, coming from part a of the book
+Rank: 2 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8441150095531366
+
+1) time_wiki - 0.8451891449206573
+
+2) thing_wiki - 0.8441150095531366
+
+3) family_wiki - 0.8389498591423035
+
+4) man_wiki - 0.8203648114639355
+
+5) sister_wiki - 0.8172239174113337
+
+6) fortune_wiki - 0.8081663250923157
+
+7) chapter_wiki - 0.797470951381814
+
+8) friend_wiki - 0.7969683529753488
+
+9) mean_wiki - 0.7694525581271995
+
+10) lady_wiki - 0.7557410743390887
+
+11) day_wiki - 0.7470926642417908
+
+12) child_wiki - 0.7258805363320716
+
+13) ball_wiki - 0.718565046787262
+
+14) room_wiki - 0.7087344527244568
+
+15) want_wiki - 0.6942495107650757
+
+16) end_wiki - 0.6896121707443053
+
+17) knowledge_wiki - 0.6676474213600159
+
+18) nothing_wiki - 0.6634229026184748
+
+19) account_wiki - 0.5753432087702518
+
+20) delight_wiki - 0.5681518058867349
+
+Result for the vector: chapter, coming from part a of the book
+Rank: 5 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7897317660174705
+
+1) family_wiki - 0.8515273928642273
+
+2) sister_wiki - 0.8396332955579
+
+3) friend_wiki - 0.8288681013066723
+
+4) lady_wiki - 0.7961765053167056
+
+5) chapter_wiki - 0.7897317660174705
+
+6) time_wiki - 0.7770762906716057
+
+7) man_wiki - 0.7533653084475224
+
+8) thing_wiki - 0.7523873300783248
+
+9) room_wiki - 0.7154232263565063
+
+10) ball_wiki - 0.7121719717979431
+
+11) day_wiki - 0.6999315023422241
+
+12) fortune_wiki - 0.6911445260047913
+
+13) mean_wiki - 0.689939242001728
+
+14) nothing_wiki - 0.6541293469590349
+
+15) want_wiki - 0.6381604075431824
+
+16) child_wiki - 0.6334777911331948
+
+17) end_wiki - 0.6326761434279726
+
+18) knowledge_wiki - 0.6210648417472839
+
+19) account_wiki - 0.5382443826867458
+
+20) delight_wiki - 0.5150094339257151
+
+Result for the vector: ball, coming from part a of the book
+Rank: 2 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8436853289604187
+
+1) family_wiki - 0.8639982342720032
+
+2) ball_wiki - 0.8436853289604187
+
+3) time_wiki - 0.8340644141474032
+
+4) sister_wiki - 0.8264459475013064
+
+5) chapter_wiki - 0.8046486014546688
+
+6) friend_wiki - 0.7982946754518359
+
+7) thing_wiki - 0.795068132583389
+
+8) man_wiki - 0.7900960195179065
+
+9) lady_wiki - 0.7651644489071115
+
+10) fortune_wiki - 0.7465679049491882
+
+11) mean_wiki - 0.7397180640529446
+
+12) room_wiki - 0.7354400157928467
+
+13) day_wiki - 0.7309548258781433
+
+14) child_wiki - 0.7105869399801614
+
+15) end_wiki - 0.6979204624271533
+
+16) want_wiki - 0.6872702836990356
+
+17) knowledge_wiki - 0.6433079838752747
+
+18) nothing_wiki - 0.6399302697223276
+
+19) account_wiki - 0.5532297060856138
+
+20) delight_wiki - 0.5506880015544902
+
+Result for the vector: child, coming from part a of the book
+Rank: 11 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7469665709773866
+
+1) family_wiki - 0.9081146121025085
+
+2) sister_wiki - 0.9014758526399239
+
+3) friend_wiki - 0.8683713156955666
+
+4) time_wiki - 0.8436544444355052
+
+5) man_wiki - 0.8409741331308106
+
+6) fortune_wiki - 0.8297638297080994
+
+7) lady_wiki - 0.812641154966287
+
+8) thing_wiki - 0.8109061605278364
+
+9) chapter_wiki - 0.781614389227111
+
+10) mean_wiki - 0.7588540767940342
+
+11) child_wiki - 0.7469665709773866
+
+12) day_wiki - 0.7397558093070984
+
+13) room_wiki - 0.7045092582702637
+
+14) want_wiki - 0.6896708011627197
+
+15) ball_wiki - 0.688845157623291
+
+16) end_wiki - 0.6695016226023922
+
+17) nothing_wiki - 0.6538463441225096
+
+18) knowledge_wiki - 0.6536792516708374
+
+19) account_wiki - 0.5571137236688654
+
+20) delight_wiki - 0.5531158180901906
+
+Result for the vector: mean, coming from part a of the book
+Rank: 3 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7521195564483817
+
+1) family_wiki - 0.7653531748477483
+
+2) time_wiki - 0.7623635701591214
+
+3) mean_wiki - 0.7521195564483817
+
+4) fortune_wiki - 0.7464881833181652
+
+5) sister_wiki - 0.7416575993095517
+
+6) friend_wiki - 0.7298926550086051
+
+7) thing_wiki - 0.7286607733954396
+
+8) man_wiki - 0.724049442779885
+
+9) want_wiki - 0.7137366788073446
+
+10) chapter_wiki - 0.7070826888084613
+
+11) lady_wiki - 0.704484862356487
+
+12) room_wiki - 0.656389731930467
+
+13) end_wiki - 0.6493269576619528
+
+14) ball_wiki - 0.6461464936907926
+
+15) child_wiki - 0.64445251226427
+
+16) day_wiki - 0.6410769392343733
+
+17) nothing_wiki - 0.6323530454846152
+
+18) knowledge_wiki - 0.608846379380991
+
+19) delight_wiki - 0.5489610819150962
+
+20) account_wiki - 0.5412104936257762
+
+Result for the vector: fortune, coming from part a of the book
+Rank: 2 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8711860179901123
+
+1) family_wiki - 0.8879839777946472
+
+2) fortune_wiki - 0.8711860179901123
+
+3) sister_wiki - 0.8480708093600998
+
+4) friend_wiki - 0.8467220159338719
+
+5) man_wiki - 0.8426657727558402
+
+6) time_wiki - 0.8358482620625667
+
+7) thing_wiki - 0.8259104386514702
+
+8) chapter_wiki - 0.8098129260763075
+
+9) lady_wiki - 0.8047201153802818
+
+10) mean_wiki - 0.77596275663154
+
+11) child_wiki - 0.768889097107762
+
+12) want_wiki - 0.7408531308174133
+
+13) day_wiki - 0.7316431999206543
+
+14) room_wiki - 0.7256212830543518
+
+15) ball_wiki - 0.7203521132469177
+
+16) end_wiki - 0.7091188642120027
+
+17) nothing_wiki - 0.7061604436540352
+
+18) knowledge_wiki - 0.6882678866386414
+
+19) account_wiki - 0.6051747979275824
+
+20) delight_wiki - 0.5733332975705454
+
+Result for the vector: account, coming from part a of the book
+Rank: 20 out of 20 characters
+Cosine similarity to the co-referring vector: 0.6056736237613717
+
+1) family_wiki - 0.8447660366981692
+
+2) time_wiki - 0.8182435062890513
+
+3) chapter_wiki - 0.8175576085580286
+
+4) sister_wiki - 0.8117600921321033
+
+5) friend_wiki - 0.8085358979861795
+
+6) thing_wiki - 0.796394943653784
+
+7) knowledge_wiki - 0.7910229674896302
+
+8) fortune_wiki - 0.7662837594405228
+
+9) mean_wiki - 0.7649517603146676
+
+10) man_wiki - 0.7615220943288408
+
+11) want_wiki - 0.7261819892688413
+
+12) lady_wiki - 0.7245338775078698
+
+13) day_wiki - 0.7178751276023829
+
+14) ball_wiki - 0.7099469938826882
+
+15) room_wiki - 0.7005071074223941
+
+16) child_wiki - 0.6824677979210824
+
+17) nothing_wiki - 0.6758603059011864
+
+18) end_wiki - 0.6677087745319348
+
+19) delight_wiki - 0.6235328053731929
+
+20) account_wiki - 0.6056736237613717
+
+Result for the vector: delight, coming from part a of the book
+Rank: 14 out of 20 characters
+Cosine similarity to the co-referring vector: 0.6732807159423876
+
+1) time_wiki - 0.7911034822464046
+
+2) family_wiki - 0.7820620070658932
+
+3) sister_wiki - 0.776805248641342
+
+4) chapter_wiki - 0.7696722561707052
+
+5) thing_wiki - 0.7693353295326287
+
+6) friend_wiki - 0.7535773809459947
+
+7) fortune_wiki - 0.753382697499831
+
+8) man_wiki - 0.7309608299112932
+
+9) mean_wiki - 0.7282721996307425
+
+10) lady_wiki - 0.7159942131049379
+
+11) day_wiki - 0.6909219210790455
+
+12) want_wiki - 0.6895725316064053
+
+13) ball_wiki - 0.6776942802849854
+
+14) delight_wiki - 0.6732807159423876
+
+15) child_wiki - 0.664533555889091
+
+16) knowledge_wiki - 0.664479990930559
+
+17) room_wiki - 0.6592850888201554
+
+18) end_wiki - 0.6314149906809656
+
+19) nothing_wiki - 0.6265333144029004
+
+20) account_wiki - 0.5922462167666513
+
+Result for the vector: end, coming from part a of the book
+Rank: 13 out of 20 characters
+Cosine similarity to the co-referring vector: 0.6249896474179523
+
+1) family_wiki - 0.7166393995285034
+
+2) chapter_wiki - 0.7157558541589008
+
+3) ball_wiki - 0.7066836357116699
+
+4) time_wiki - 0.6982589184200132
+
+5) thing_wiki - 0.696671527425739
+
+6) friend_wiki - 0.6944859209963142
+
+7) sister_wiki - 0.6867103167348924
+
+8) man_wiki - 0.6741001217484667
+
+9) day_wiki - 0.6494715213775635
+
+10) room_wiki - 0.6426134705543518
+
+11) lady_wiki - 0.6408780431224094
+
+12) mean_wiki - 0.6400873446516612
+
+13) end_wiki - 0.6249896474179523
+
+14) want_wiki - 0.614286482334137
+
+15) child_wiki - 0.6114922032961646
+
+16) fortune_wiki - 0.5971347689628601
+
+17) nothing_wiki - 0.5951038244304773
+
+18) knowledge_wiki - 0.5908574461936951
+
+19) account_wiki - 0.586646395523739
+
+20) delight_wiki - 0.5346865376643273
+
+Result for the vector: want, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8371404409408569
+
+1) want_wiki - 0.8371404409408569
+
+2) family_wiki - 0.8357930779457092
+
+3) sister_wiki - 0.8133297673863326
+
+4) thing_wiki - 0.803163397500719
+
+5) time_wiki - 0.8024529696972963
+
+6) friend_wiki - 0.7985182524610621
+
+7) chapter_wiki - 0.7981249334663288
+
+8) man_wiki - 0.7848341804545197
+
+9) mean_wiki - 0.7764718399329104
+
+10) lady_wiki - 0.7525197415042091
+
+11) fortune_wiki - 0.7433891892433167
+
+12) room_wiki - 0.7136844396591187
+
+13) day_wiki - 0.7115740180015564
+
+14) child_wiki - 0.7037083263744969
+
+15) knowledge_wiki - 0.6969860792160034
+
+16) ball_wiki - 0.6962950825691223
+
+17) end_wiki - 0.6806786859237759
+
+18) nothing_wiki - 0.6691599685454399
+
+19) account_wiki - 0.6002937734214598
+
+20) delight_wiki - 0.5874205581796512
+
+Result for the vector: knowledge, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8448314574260404
+
+1) knowledge_wiki - 0.8448314574260404
+
+2) family_wiki - 0.7972323177595342
+
+3) chapter_wiki - 0.7832160721292578
+
+4) friend_wiki - 0.7808166742324885
+
+5) time_wiki - 0.7741875975355622
+
+6) sister_wiki - 0.7741544842720087
+
+7) thing_wiki - 0.7673121413364579
+
+8) fortune_wiki - 0.7322649200120533
+
+9) mean_wiki - 0.7302102720988121
+
+10) want_wiki - 0.7091579263900487
+
+11) man_wiki - 0.7035709685512141
+
+12) day_wiki - 0.6834342887064403
+
+13) lady_wiki - 0.6721801757812548
+
+14) child_wiki - 0.6665169795443534
+
+15) room_wiki - 0.6660781303690761
+
+16) nothing_wiki - 0.6524736285209702
+
+17) ball_wiki - 0.6510420233632351
+
+18) end_wiki - 0.6423396446412487
+
+19) delight_wiki - 0.6350426834872583
+
+20) account_wiki - 0.5756914534292927
+

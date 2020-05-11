@@ -1,0 +1,252 @@
+Result for the vector: boy, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.927650304804737
+
+1) boy_a - 0.927650304804737
+
+2) girl_a - 0.8900801139926723
+
+3) hero_a - 0.8717231750488343
+
+4) life_a - 0.8679900248056651
+
+5) way_a - 0.8375164769599855
+
+6) time_a - 0.8255133978869531
+
+7) memory_a - 0.81691988504888
+
+Result for the vector: time, coming from part i of the book
+Rank: 3 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8397253060177151
+
+1) hero_a - 0.8471171421215367
+
+2) way_a - 0.8421126666832998
+
+3) time_a - 0.8397253060177151
+
+4) boy_a - 0.8200615537203284
+
+5) life_a - 0.8172343020807002
+
+6) girl_a - 0.7816619770233142
+
+7) memory_a - 0.7633307944735679
+
+Result for the vector: way, coming from part i of the book
+Rank: 2 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8200296545064095
+
+1) life_a - 0.8262186646461487
+
+2) way_a - 0.8200296545064095
+
+3) boy_a - 0.7983547090993739
+
+4) time_a - 0.7881788846307664
+
+5) memory_a - 0.769698156732432
+
+6) hero_a - 0.7508396357798373
+
+7) girl_a - 0.7416396449041842
+
+Result for the vector: girl, coming from part i of the book
+Rank: 2 out of 7 characters
+Cosine similarity to the co-referring vector: 0.6522665036678532
+
+1) boy_a - 0.6789582776402401
+
+2) girl_a - 0.6522665036678532
+
+3) life_a - 0.637233276284733
+
+4) time_a - 0.6044942500885874
+
+5) way_a - 0.59999808669062
+
+6) hero_a - 0.5954883631010383
+
+7) memory_a - 0.5531819297915144
+
+Result for the vector: life, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8145841470608638
+
+1) life_a - 0.8145841470608638
+
+2) boy_a - 0.7628403674709718
+
+3) time_a - 0.7524187340611627
+
+4) way_a - 0.7502436489012152
+
+5) memory_a - 0.7321152410369824
+
+6) hero_a - 0.7246675491333059
+
+7) girl_a - 0.699084931775643
+
+Result for the vector: hero, coming from part i of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8403687036367096
+
+1) hero_a - 0.8403687036367096
+
+2) boy_a - 0.8017529727073296
+
+3) way_a - 0.7808544607243659
+
+4) life_a - 0.7640032399893776
+
+5) girl_a - 0.763383439476787
+
+6) time_a - 0.7238576843653729
+
+7) memory_a - 0.6869723592110792
+
+Result for the vector: memory, coming from part i of the book
+Rank: 3 out of 7 characters
+Cosine similarity to the co-referring vector: 0.6270978228508228
+
+1) life_a - 0.6663757164926238
+
+2) boy_a - 0.6349882833642215
+
+3) memory_a - 0.6270978228508228
+
+4) hero_a - 0.6263181495043317
+
+5) time_a - 0.6149685703171174
+
+6) way_a - 0.6093744300304484
+
+7) girl_a - 0.598229706287401
+
+Result for the vector: boy, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.927650304804737
+
+1) boy_wiki - 0.927650304804737
+
+2) time_wiki - 0.8200615537203284
+
+3) hero_wiki - 0.8017529727073296
+
+4) way_wiki - 0.7983547090993739
+
+5) life_wiki - 0.7628403674709718
+
+6) girl_wiki - 0.6789582776402401
+
+7) memory_wiki - 0.6349882833642215
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8397253060177151
+
+1) time_wiki - 0.8397253060177151
+
+2) boy_wiki - 0.8255133978869531
+
+3) way_wiki - 0.7881788846307664
+
+4) life_wiki - 0.7524187340611627
+
+5) hero_wiki - 0.7238576843653729
+
+6) memory_wiki - 0.6149685703171174
+
+7) girl_wiki - 0.6044942500885874
+
+Result for the vector: way, coming from part a of the book
+Rank: 3 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8200296545064095
+
+1) time_wiki - 0.8421126666832998
+
+2) boy_wiki - 0.8375164769599855
+
+3) way_wiki - 0.8200296545064095
+
+4) hero_wiki - 0.7808544607243659
+
+5) life_wiki - 0.7502436489012152
+
+6) memory_wiki - 0.6093744300304484
+
+7) girl_wiki - 0.59999808669062
+
+Result for the vector: girl, coming from part a of the book
+Rank: 6 out of 7 characters
+Cosine similarity to the co-referring vector: 0.6522665036678532
+
+1) boy_wiki - 0.8900801139926723
+
+2) time_wiki - 0.7816619770233142
+
+3) hero_wiki - 0.763383439476787
+
+4) way_wiki - 0.7416396449041842
+
+5) life_wiki - 0.699084931775643
+
+6) girl_wiki - 0.6522665036678532
+
+7) memory_wiki - 0.598229706287401
+
+Result for the vector: life, coming from part a of the book
+Rank: 4 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8145841470608638
+
+1) boy_wiki - 0.8679900248056651
+
+2) way_wiki - 0.8262186646461487
+
+3) time_wiki - 0.8172343020807002
+
+4) life_wiki - 0.8145841470608638
+
+5) hero_wiki - 0.7640032399893776
+
+6) memory_wiki - 0.6663757164926238
+
+7) girl_wiki - 0.637233276284733
+
+Result for the vector: hero, coming from part a of the book
+Rank: 3 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8403687036367096
+
+1) boy_wiki - 0.8717231750488343
+
+2) time_wiki - 0.8471171421215367
+
+3) hero_wiki - 0.8403687036367096
+
+4) way_wiki - 0.7508396357798373
+
+5) life_wiki - 0.7246675491333059
+
+6) memory_wiki - 0.6263181495043317
+
+7) girl_wiki - 0.5954883631010383
+
+Result for the vector: memory, coming from part a of the book
+Rank: 6 out of 7 characters
+Cosine similarity to the co-referring vector: 0.6270978228508228
+
+1) boy_wiki - 0.81691988504888
+
+2) way_wiki - 0.769698156732432
+
+3) time_wiki - 0.7633307944735679
+
+4) life_wiki - 0.7321152410369824
+
+5) hero_wiki - 0.6869723592110792
+
+6) memory_wiki - 0.6270978228508228
+
+7) girl_wiki - 0.5531819297915144
+

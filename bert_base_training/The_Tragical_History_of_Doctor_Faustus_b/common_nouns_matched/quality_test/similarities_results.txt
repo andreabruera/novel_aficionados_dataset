@@ -1,0 +1,192 @@
+Result for the vector: soul, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9404911363417604
+
+1) soul_a - 0.9404911363417604
+
+2) emperor_a - 0.8412474800643301
+
+3) world_a - 0.8393866920105646
+
+4) circle_a - 0.8267178042699348
+
+5) hath_a - 0.8093949570350288
+
+6) end_a - 0.7962255952492725
+
+Result for the vector: hath, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.822919750896694
+
+1) hath_a - 0.822919750896694
+
+2) emperor_a - 0.7457036375999504
+
+3) circle_a - 0.7161159426958676
+
+4) soul_a - 0.6999991714954883
+
+5) world_a - 0.6905060594972349
+
+6) end_a - 0.68261965020778
+
+Result for the vector: world, coming from part i of the book
+Rank: 2 out of 6 characters
+Cosine similarity to the co-referring vector: 0.7726708650588989
+
+1) circle_a - 0.7728441032357147
+
+2) world_a - 0.7726708650588989
+
+3) soul_a - 0.7508634328842163
+
+4) emperor_a - 0.7507073730651972
+
+5) hath_a - 0.7232477119488487
+
+6) end_a - 0.7144214510917664
+
+Result for the vector: end, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.772233247756958
+
+1) end_a - 0.772233247756958
+
+2) world_a - 0.7573273777961731
+
+3) circle_a - 0.7566818884990402
+
+4) emperor_a - 0.7403404557907867
+
+5) soul_a - 0.7257822751998901
+
+6) hath_a - 0.7185960458453964
+
+Result for the vector: emperor, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.7026700796288312
+
+1) emperor_a - 0.7026700796288312
+
+2) world_a - 0.6723858118057251
+
+3) soul_a - 0.6549296379089355
+
+4) circle_a - 0.6417301724278767
+
+5) end_a - 0.6237863302230835
+
+6) hath_a - 0.5999217569758103
+
+Result for the vector: circle, coming from part i of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.710831557413159
+
+1) circle_a - 0.710831557413159
+
+2) world_a - 0.6596192121505737
+
+3) hath_a - 0.6454165558889435
+
+4) emperor_a - 0.6448147085198598
+
+5) soul_a - 0.6446396112442017
+
+6) end_a - 0.6278607249259949
+
+Result for the vector: soul, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.9404911363417604
+
+1) soul_wiki - 0.9404911363417604
+
+2) world_wiki - 0.7508634328842163
+
+3) end_wiki - 0.7257822751998901
+
+4) hath_wiki - 0.6999991714954883
+
+5) emperor_wiki - 0.6549296379089355
+
+6) circle_wiki - 0.6446396112442017
+
+Result for the vector: hath, coming from part a of the book
+Rank: 1 out of 6 characters
+Cosine similarity to the co-referring vector: 0.822919750896694
+
+1) hath_wiki - 0.822919750896694
+
+2) soul_wiki - 0.8093949570350288
+
+3) world_wiki - 0.7232477119488487
+
+4) end_wiki - 0.7185960458453964
+
+5) circle_wiki - 0.6454165558889435
+
+6) emperor_wiki - 0.5999217569758103
+
+Result for the vector: world, coming from part a of the book
+Rank: 2 out of 6 characters
+Cosine similarity to the co-referring vector: 0.7726708650588989
+
+1) soul_wiki - 0.8393866920105646
+
+2) world_wiki - 0.7726708650588989
+
+3) end_wiki - 0.7573273777961731
+
+4) hath_wiki - 0.6905060594972349
+
+5) emperor_wiki - 0.6723858118057251
+
+6) circle_wiki - 0.6596192121505737
+
+Result for the vector: end, coming from part a of the book
+Rank: 2 out of 6 characters
+Cosine similarity to the co-referring vector: 0.772233247756958
+
+1) soul_wiki - 0.7962255952492725
+
+2) end_wiki - 0.772233247756958
+
+3) world_wiki - 0.7144214510917664
+
+4) hath_wiki - 0.68261965020778
+
+5) circle_wiki - 0.6278607249259949
+
+6) emperor_wiki - 0.6237863302230835
+
+Result for the vector: emperor, coming from part a of the book
+Rank: 5 out of 6 characters
+Cosine similarity to the co-referring vector: 0.7026700796288312
+
+1) soul_wiki - 0.8412474800643301
+
+2) world_wiki - 0.7507073730651972
+
+3) hath_wiki - 0.7457036375999504
+
+4) end_wiki - 0.7403404557907867
+
+5) emperor_wiki - 0.7026700796288312
+
+6) circle_wiki - 0.6448147085198598
+
+Result for the vector: circle, coming from part a of the book
+Rank: 5 out of 6 characters
+Cosine similarity to the co-referring vector: 0.710831557413159
+
+1) soul_wiki - 0.8267178042699348
+
+2) world_wiki - 0.7728441032357147
+
+3) end_wiki - 0.7566818884990402
+
+4) hath_wiki - 0.7161159426958676
+
+5) circle_wiki - 0.710831557413159
+
+6) emperor_wiki - 0.6417301724278767
+

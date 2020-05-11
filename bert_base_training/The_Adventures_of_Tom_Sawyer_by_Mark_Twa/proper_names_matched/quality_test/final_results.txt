@@ -1,0 +1,9 @@
+Test: quality test
+Results for: The_Adventures_of_Tom_Sawyer_by_Mark_Twa
+Model used: proper names matched
+
+Within-novel median: 3.0
+Within-novel average: 4.181818181818182
+Within-novel MRR: 0.4421372819100092
+Within-novel standard deviation of the scores: 3.242282636386729
+Amount of entities considered: 11.0

@@ -1,0 +1,140 @@
+Result for the vector: mr_utterson, coming from part i of the book
+Rank: 4 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8943786291592909
+
+1) mr_hyde_a - 0.9155530110997351
+
+2) dr_henry_jekyll_a - 0.9104434523118575
+
+3) dr_lanyon_a - 0.9076944915147314
+
+4) mr_utterson_a - 0.8943786291592909
+
+5) poole_a - 0.8897341754953322
+
+Result for the vector: dr_henry_jekyll, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9374180436134338
+
+1) dr_henry_jekyll_a - 0.9374180436134338
+
+2) mr_hyde_a - 0.9331086953748894
+
+3) dr_lanyon_a - 0.931704942482417
+
+4) mr_utterson_a - 0.9115311503410339
+
+5) poole_a - 0.9020572304725647
+
+Result for the vector: mr_hyde, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.936323825340058
+
+1) mr_hyde_a - 0.936323825340058
+
+2) dr_henry_jekyll_a - 0.9250485256343217
+
+3) dr_lanyon_a - 0.9229876399040288
+
+4) mr_utterson_a - 0.9056358877203413
+
+5) poole_a - 0.8925244744136632
+
+Result for the vector: poole, coming from part i of the book
+Rank: 5 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8169148807798294
+
+1) mr_hyde_a - 0.8467712837364216
+
+2) dr_lanyon_a - 0.8418435799526135
+
+3) dr_henry_jekyll_a - 0.8374711524686564
+
+4) mr_utterson_a - 0.8270693071803248
+
+5) poole_a - 0.8169148807798294
+
+Result for the vector: dr_lanyon, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.915568351745612
+
+1) dr_lanyon_a - 0.915568351745612
+
+2) mr_hyde_a - 0.9149045398888412
+
+3) dr_henry_jekyll_a - 0.9083984439610524
+
+4) mr_utterson_a - 0.892325692911489
+
+5) poole_a - 0.8802788186239507
+
+Result for the vector: mr_utterson, coming from part a of the book
+Rank: 3 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8943786291592909
+
+1) dr_henry_jekyll_wiki - 0.9115311503410339
+
+2) mr_hyde_wiki - 0.9056358877203413
+
+3) mr_utterson_wiki - 0.8943786291592909
+
+4) dr_lanyon_wiki - 0.892325692911489
+
+5) poole_wiki - 0.8270693071803248
+
+Result for the vector: dr_henry_jekyll, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.9374180436134338
+
+1) dr_henry_jekyll_wiki - 0.9374180436134338
+
+2) mr_hyde_wiki - 0.9250485256343217
+
+3) mr_utterson_wiki - 0.9104434523118575
+
+4) dr_lanyon_wiki - 0.9083984439610524
+
+5) poole_wiki - 0.8374711524686564
+
+Result for the vector: mr_hyde, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.936323825340058
+
+1) mr_hyde_wiki - 0.936323825340058
+
+2) dr_henry_jekyll_wiki - 0.9331086953748894
+
+3) mr_utterson_wiki - 0.9155530110997351
+
+4) dr_lanyon_wiki - 0.9149045398888412
+
+5) poole_wiki - 0.8467712837364216
+
+Result for the vector: poole, coming from part a of the book
+Rank: 5 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8169148807798294
+
+1) dr_henry_jekyll_wiki - 0.9020572304725647
+
+2) mr_hyde_wiki - 0.8925244744136632
+
+3) mr_utterson_wiki - 0.8897341754953322
+
+4) dr_lanyon_wiki - 0.8802788186239507
+
+5) poole_wiki - 0.8169148807798294
+
+Result for the vector: dr_lanyon, coming from part a of the book
+Rank: 3 out of 5 characters
+Cosine similarity to the co-referring vector: 0.915568351745612
+
+1) dr_henry_jekyll_wiki - 0.931704942482417
+
+2) mr_hyde_wiki - 0.9229876399040288
+
+3) dr_lanyon_wiki - 0.915568351745612
+
+4) mr_utterson_wiki - 0.9076944915147314
+
+5) poole_wiki - 0.8418435799526135
+

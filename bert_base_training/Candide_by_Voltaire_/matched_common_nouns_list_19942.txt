@@ -1,0 +1,8 @@
+124	man_men
+75	woman_women_WOMAN
+65	day_days_Day
+45	thing_things
+32	word_words
+18	philosopher_philosophers
+12	law_laws
+10	bird_birds

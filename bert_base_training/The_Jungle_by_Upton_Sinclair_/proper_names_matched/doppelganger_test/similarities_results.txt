@@ -1,0 +1,1440 @@
+Result for the vector: jurgis_rudkus, coming from part a of the book
+Rank: 2 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9628463696585225
+
+1) jack_duane_b - 0.970630468688581
+
+2) jurgis_rudkus_b - 0.9628463696585225
+
+3) dede_antanas_b - 0.9494394063949653
+
+4) marija_berczynskas_b - 0.9451466517106735
+
+5) mike_scully_b - 0.9424129758827121
+
+6) teta_elzbieta_b - 0.942316114902503
+
+7) little_ona_b - 0.9170792376124733
+
+8) aniele_b - 0.9035056944482691
+
+9) tamoszius_kuszleika_b - 0.8856983848989989
+
+10) stanislovas_b - 0.8831174512961565
+
+11) alena_jasaityte_b - 0.8812194012141942
+
+12) phil_connor_b - 0.8719133811048654
+
+13) jones_b - 0.8715044519753687
+
+14) durham_and_company_b - 0.8448274824126091
+
+15) jonas_b - 0.8343649009248688
+
+16) brown_b - 0.7982443095300027
+
+17) kotrina_b - 0.7959623336792049
+
+18) majauszkiene_b - 0.7814037799835261
+
+Result for the vector: marija_berczynskas, coming from part a of the book
+Rank: 2 out of 18 characters
+Cosine similarity to the co-referring vector: 0.963264196016318
+
+1) teta_elzbieta_b - 0.9721437676038621
+
+2) marija_berczynskas_b - 0.963264196016318
+
+3) aniele_b - 0.942790630889499
+
+4) little_ona_b - 0.9399251586131931
+
+5) alena_jasaityte_b - 0.9256663962801475
+
+6) jack_duane_b - 0.9245043992996216
+
+7) dede_antanas_b - 0.9054030719639717
+
+8) jurgis_rudkus_b - 0.893219378388506
+
+9) mike_scully_b - 0.8855060338973999
+
+10) majauszkiene_b - 0.8559836063375253
+
+11) kotrina_b - 0.8477669863561995
+
+12) phil_connor_b - 0.8424414396286011
+
+13) stanislovas_b - 0.8204913246338784
+
+14) jones_b - 0.8202069539016775
+
+15) durham_and_company_b - 0.814592719078064
+
+16) tamoszius_kuszleika_b - 0.8124715685844421
+
+17) jonas_b - 0.7996059656143188
+
+18) brown_b - 0.7730020880699158
+
+Result for the vector: little_ona, coming from part a of the book
+Rank: 3 out of 18 characters
+Cosine similarity to the co-referring vector: 0.959099080482047
+
+1) teta_elzbieta_b - 0.983820735443876
+
+2) marija_berczynskas_b - 0.9763477139576593
+
+3) little_ona_b - 0.959099080482047
+
+4) aniele_b - 0.9543568519141183
+
+5) jack_duane_b - 0.9498262405395508
+
+6) dede_antanas_b - 0.9362651667752978
+
+7) alena_jasaityte_b - 0.927314047377466
+
+8) jurgis_rudkus_b - 0.9196213757878956
+
+9) mike_scully_b - 0.91389000415802
+
+10) phil_connor_b - 0.8764746189117432
+
+11) durham_and_company_b - 0.8513342142105103
+
+12) tamoszius_kuszleika_b - 0.8497756719589233
+
+13) stanislovas_b - 0.8448192569721203
+
+14) kotrina_b - 0.8436502721101222
+
+15) jones_b - 0.8321366458061352
+
+16) majauszkiene_b - 0.8289164798806015
+
+17) jonas_b - 0.8263993859291077
+
+18) brown_b - 0.7956648468971252
+
+Result for the vector: teta_elzbieta, coming from part a of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9860107898712228
+
+1) teta_elzbieta_b - 0.9860107898712228
+
+2) marija_berczynskas_b - 0.975100726631266
+
+3) little_ona_b - 0.9608434725059221
+
+4) aniele_b - 0.959811513446389
+
+5) jack_duane_b - 0.9513818650614121
+
+6) dede_antanas_b - 0.9362900257110662
+
+7) jurgis_rudkus_b - 0.9285824022119559
+
+8) alena_jasaityte_b - 0.92690051473373
+
+9) mike_scully_b - 0.9217224763797254
+
+10) phil_connor_b - 0.8730118350379581
+
+11) durham_and_company_b - 0.8599178278495191
+
+12) kotrina_b - 0.8483006358146727
+
+13) stanislovas_b - 0.8481593313027226
+
+14) tamoszius_kuszleika_b - 0.8458053561565083
+
+15) jones_b - 0.8429346335808917
+
+16) jonas_b - 0.8307824831734623
+
+17) majauszkiene_b - 0.8267278671264707
+
+18) brown_b - 0.803646278164014
+
+Result for the vector: dede_antanas, coming from part a of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9524397197293901
+
+1) dede_antanas_b - 0.9524397197293901
+
+2) jack_duane_b - 0.9365854225507647
+
+3) mike_scully_b - 0.9235330178459313
+
+4) teta_elzbieta_b - 0.9166859289033328
+
+5) jurgis_rudkus_b - 0.9166055545156204
+
+6) marija_berczynskas_b - 0.9150114281485766
+
+7) stanislovas_b - 0.9112577438354557
+
+8) little_ona_b - 0.9075314562814621
+
+9) aniele_b - 0.8882042765617434
+
+10) jones_b - 0.8765550965897887
+
+11) phil_connor_b - 0.8751723691923854
+
+12) alena_jasaityte_b - 0.871778726577765
+
+13) tamoszius_kuszleika_b - 0.8664648453274293
+
+14) durham_and_company_b - 0.8406689668100471
+
+15) kotrina_b - 0.8346655767757388
+
+16) brown_b - 0.8093232994868352
+
+17) majauszkiene_b - 0.7986542342489045
+
+18) jonas_b - 0.7803377974234712
+
+Result for the vector: mike_scully, coming from part a of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9577604532241821
+
+1) mike_scully_b - 0.9577604532241821
+
+2) jack_duane_b - 0.9487927556037903
+
+3) jurgis_rudkus_b - 0.9186172163074383
+
+4) dede_antanas_b - 0.9129568882558892
+
+5) teta_elzbieta_b - 0.8987663327912306
+
+6) marija_berczynskas_b - 0.8985910683450425
+
+7) jones_b - 0.8947913850657426
+
+8) little_ona_b - 0.8772893140276689
+
+9) tamoszius_kuszleika_b - 0.8755573630332947
+
+10) aniele_b - 0.8683453876766347
+
+11) phil_connor_b - 0.8635470271110535
+
+12) durham_and_company_b - 0.8628444075584412
+
+13) stanislovas_b - 0.8546364990093426
+
+14) alena_jasaityte_b - 0.8486895055359912
+
+15) brown_b - 0.8166826367378235
+
+16) jonas_b - 0.7966203689575195
+
+17) majauszkiene_b - 0.7657343009551957
+
+18) kotrina_b - 0.748904511267217
+
+Result for the vector: jack_duane, coming from part a of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9430535435676575
+
+1) jack_duane_b - 0.9430535435676575
+
+2) dede_antanas_b - 0.9409120643682535
+
+3) mike_scully_b - 0.9407612085342407
+
+4) jurgis_rudkus_b - 0.9291038194031666
+
+5) phil_connor_b - 0.9200223684310913
+
+6) marija_berczynskas_b - 0.9149691139152386
+
+7) teta_elzbieta_b - 0.9055046382847228
+
+8) little_ona_b - 0.9034221980055188
+
+9) tamoszius_kuszleika_b - 0.8879805207252502
+
+10) jones_b - 0.885424812325077
+
+11) alena_jasaityte_b - 0.8787561131265111
+
+12) aniele_b - 0.8786944223228457
+
+13) durham_and_company_b - 0.8676409125328064
+
+14) stanislovas_b - 0.855409928833848
+
+15) brown_b - 0.8071461915969849
+
+16) kotrina_b - 0.776065753463851
+
+17) jonas_b - 0.7737366557121277
+
+18) majauszkiene_b - 0.7686738830014411
+
+Result for the vector: jonas, coming from part a of the book
+Rank: 15 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8391555797802088
+
+1) jack_duane_b - 0.9679035832853198
+
+2) teta_elzbieta_b - 0.9486289872493439
+
+3) mike_scully_b - 0.9456448836816816
+
+4) marija_berczynskas_b - 0.9415541256400421
+
+5) dede_antanas_b - 0.9264059895043963
+
+6) aniele_b - 0.9222355806161328
+
+7) jurgis_rudkus_b - 0.918209428680505
+
+8) little_ona_b - 0.9178362390799824
+
+9) alena_jasaityte_b - 0.8971060843138109
+
+10) stanislovas_b - 0.8910401794004422
+
+11) jones_b - 0.8775527331295903
+
+12) tamoszius_kuszleika_b - 0.8705949446736263
+
+13) phil_connor_b - 0.8647902269598913
+
+14) durham_and_company_b - 0.8558548347906723
+
+15) jonas_b - 0.8391555797802088
+
+16) majauszkiene_b - 0.8168799415421437
+
+17) brown_b - 0.8130309228012245
+
+18) kotrina_b - 0.7993565916439828
+
+Result for the vector: tamoszius_kuszleika, coming from part a of the book
+Rank: 13 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8668616414070129
+
+1) jack_duane_b - 0.9547860622406006
+
+2) dede_antanas_b - 0.9429286088304899
+
+3) jurgis_rudkus_b - 0.9409343880693436
+
+4) mike_scully_b - 0.9397864937782288
+
+5) teta_elzbieta_b - 0.9330779870198974
+
+6) marija_berczynskas_b - 0.9315446892841072
+
+7) little_ona_b - 0.9269115561465857
+
+8) aniele_b - 0.9079060013350264
+
+9) stanislovas_b - 0.89730418340539
+
+10) alena_jasaityte_b - 0.8890252775534838
+
+11) jones_b - 0.8825019194932543
+
+12) phil_connor_b - 0.8747352957725525
+
+13) tamoszius_kuszleika_b - 0.8668616414070129
+
+14) durham_and_company_b - 0.8572049736976624
+
+15) brown_b - 0.8151237964630127
+
+16) jonas_b - 0.81175696849823
+
+17) majauszkiene_b - 0.7833803763020277
+
+18) kotrina_b - 0.7799984681605393
+
+Result for the vector: brown, coming from part a of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9253543891118289
+
+1) brown_b - 0.9253543891118289
+
+2) durham_and_company_b - 0.9150609646755749
+
+3) mike_scully_b - 0.8933705357721612
+
+4) aniele_b - 0.8819780086881551
+
+5) jones_b - 0.8782092187654056
+
+6) jack_duane_b - 0.8754385374617145
+
+7) little_ona_b - 0.8705926383248151
+
+8) teta_elzbieta_b - 0.8643565354666001
+
+9) phil_connor_b - 0.8640955944089772
+
+10) dede_antanas_b - 0.8603477651191743
+
+11) marija_berczynskas_b - 0.8552268657223502
+
+12) jurgis_rudkus_b - 0.8360278508679778
+
+13) alena_jasaityte_b - 0.8293057432977666
+
+14) tamoszius_kuszleika_b - 0.7861836190874466
+
+15) stanislovas_b - 0.7732130058642357
+
+16) majauszkiene_b - 0.7408620185430665
+
+17) kotrina_b - 0.7404981321541788
+
+18) jonas_b - 0.6764465176000156
+
+Result for the vector: aniele, coming from part a of the book
+Rank: 2 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9147681150255014
+
+1) teta_elzbieta_b - 0.9169408728515728
+
+2) aniele_b - 0.9147681150255014
+
+3) mike_scully_b - 0.9089253057330547
+
+4) jack_duane_b - 0.9079262724010684
+
+5) little_ona_b - 0.9043911425950979
+
+6) marija_berczynskas_b - 0.9040403749906781
+
+7) dede_antanas_b - 0.8992222607599485
+
+8) durham_and_company_b - 0.8817591212083019
+
+9) jurgis_rudkus_b - 0.881660621017768
+
+10) jones_b - 0.8814420437383235
+
+11) alena_jasaityte_b - 0.8788652040603407
+
+12) phil_connor_b - 0.8686857380049603
+
+13) brown_b - 0.8549257689802983
+
+14) stanislovas_b - 0.8102674227474782
+
+15) majauszkiene_b - 0.8055235263393337
+
+16) tamoszius_kuszleika_b - 0.8031459089343713
+
+17) kotrina_b - 0.8024661062678163
+
+18) jonas_b - 0.7435962267403385
+
+Result for the vector: phil_connor, coming from part a of the book
+Rank: 5 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9170289039611816
+
+1) mike_scully_b - 0.9279810786247253
+
+2) jack_duane_b - 0.9278154373168945
+
+3) jurgis_rudkus_b - 0.9198310649344646
+
+4) dede_antanas_b - 0.917784209119334
+
+5) phil_connor_b - 0.9170289039611816
+
+6) marija_berczynskas_b - 0.9154670511325319
+
+7) little_ona_b - 0.9057887410332663
+
+8) teta_elzbieta_b - 0.8952065047744829
+
+9) aniele_b - 0.8886494702905748
+
+10) jones_b - 0.8857085304595742
+
+11) alena_jasaityte_b - 0.8851880499608502
+
+12) durham_and_company_b - 0.8715853691101074
+
+13) tamoszius_kuszleika_b - 0.8530757427215576
+
+14) stanislovas_b - 0.8439273927255054
+
+15) brown_b - 0.8232361674308777
+
+16) kotrina_b - 0.7919396634065918
+
+17) majauszkiene_b - 0.7903972739218055
+
+18) jonas_b - 0.7353882789611816
+
+Result for the vector: majauszkiene, coming from part a of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.961246845796518
+
+1) majauszkiene_b - 0.961246845796518
+
+2) teta_elzbieta_b - 0.8497774511443065
+
+3) marija_berczynskas_b - 0.8443387998443488
+
+4) aniele_b - 0.833093772346154
+
+5) alena_jasaityte_b - 0.8266500933974941
+
+6) little_ona_b - 0.821683361084765
+
+7) jack_duane_b - 0.8064852952957153
+
+8) kotrina_b - 0.8041242840364163
+
+9) dede_antanas_b - 0.8010098815566244
+
+10) mike_scully_b - 0.7882359027862549
+
+11) jones_b - 0.7844781384895599
+
+12) jurgis_rudkus_b - 0.7751938335655285
+
+13) phil_connor_b - 0.7716730833053589
+
+14) durham_and_company_b - 0.7306342124938965
+
+15) stanislovas_b - 0.7264288826925241
+
+16) brown_b - 0.7081539630889893
+
+17) tamoszius_kuszleika_b - 0.703694224357605
+
+18) jonas_b - 0.6649120450019836
+
+Result for the vector: stanislovas, coming from part a of the book
+Rank: 8 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9110159437031863
+
+1) dede_antanas_b - 0.972907067960095
+
+2) marija_berczynskas_b - 0.941205000173609
+
+3) jack_duane_b - 0.9355806785129759
+
+4) teta_elzbieta_b - 0.9338726440744165
+
+5) jurgis_rudkus_b - 0.9291841749086327
+
+6) little_ona_b - 0.9285868129555542
+
+7) mike_scully_b - 0.9202696180022284
+
+8) stanislovas_b - 0.9110159437031863
+
+9) aniele_b - 0.9082960650391478
+
+10) kotrina_b - 0.9000085055823168
+
+11) phil_connor_b - 0.8946284777368994
+
+12) alena_jasaityte_b - 0.8911245659963088
+
+13) tamoszius_kuszleika_b - 0.8807740353615304
+
+14) jones_b - 0.857312892159454
+
+15) durham_and_company_b - 0.8504632293625857
+
+16) majauszkiene_b - 0.8065821643720896
+
+17) brown_b - 0.8010097979295552
+
+18) jonas_b - 0.7822017929313485
+
+Result for the vector: durham_and_company, coming from part a of the book
+Rank: 2 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9346003175914609
+
+1) brown_b - 0.9388752823062531
+
+2) durham_and_company_b - 0.9346003175914609
+
+3) mike_scully_b - 0.9228036036613863
+
+4) jack_duane_b - 0.9050377820466002
+
+5) jones_b - 0.8982630786174081
+
+6) aniele_b - 0.8906331923792816
+
+7) little_ona_b - 0.8852907810135092
+
+8) dede_antanas_b - 0.8841179138597721
+
+9) teta_elzbieta_b - 0.8837901478693113
+
+10) phil_connor_b - 0.8767770716646711
+
+11) marija_berczynskas_b - 0.8693057142860564
+
+12) jurgis_rudkus_b - 0.865578575799297
+
+13) alena_jasaityte_b - 0.8411947143433997
+
+14) tamoszius_kuszleika_b - 0.8050759558447592
+
+15) stanislovas_b - 0.789384507816577
+
+16) kotrina_b - 0.7572288449449609
+
+17) majauszkiene_b - 0.748905293480351
+
+18) jonas_b - 0.7162968560722668
+
+Result for the vector: kotrina, coming from part a of the book
+Rank: 4 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8986355066299503
+
+1) dede_antanas_b - 0.9230248928070134
+
+2) teta_elzbieta_b - 0.9195631742477482
+
+3) marija_berczynskas_b - 0.9151962126733038
+
+4) kotrina_b - 0.8986355066299503
+
+5) little_ona_b - 0.8982129364673278
+
+6) aniele_b - 0.8880217208836412
+
+7) jack_duane_b - 0.8854781457496811
+
+8) stanislovas_b - 0.8822305342876274
+
+9) alena_jasaityte_b - 0.8820645949763543
+
+10) jurgis_rudkus_b - 0.8630843501363923
+
+11) mike_scully_b - 0.850492486328336
+
+12) majauszkiene_b - 0.8260430097580015
+
+13) phil_connor_b - 0.8187797773611692
+
+14) tamoszius_kuszleika_b - 0.8129799477469967
+
+15) jones_b - 0.7935669658651132
+
+16) durham_and_company_b - 0.7742706671791885
+
+17) jonas_b - 0.7550537136165087
+
+18) brown_b - 0.7401004588544109
+
+Result for the vector: jones, coming from part a of the book
+Rank: 2 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8664099673047617
+
+1) brown_b - 0.8776996658861453
+
+2) jones_b - 0.8664099673047617
+
+3) mike_scully_b - 0.8601692831617181
+
+4) jack_duane_b - 0.8460726050181765
+
+5) durham_and_company_b - 0.832196523678097
+
+6) dede_antanas_b - 0.8079439172677895
+
+7) aniele_b - 0.8018825650215206
+
+8) teta_elzbieta_b - 0.7998196840071301
+
+9) phil_connor_b - 0.7926964040217654
+
+10) marija_berczynskas_b - 0.7922031395616957
+
+11) jurgis_rudkus_b - 0.7916990034311122
+
+12) little_ona_b - 0.7877340894541282
+
+13) alena_jasaityte_b - 0.7603756189346368
+
+14) stanislovas_b - 0.7557827234268242
+
+15) tamoszius_kuszleika_b - 0.7528786511944934
+
+16) majauszkiene_b - 0.732697455012495
+
+17) kotrina_b - 0.6777225348618668
+
+18) jonas_b - 0.6669028202833438
+
+Result for the vector: alena_jasaityte, coming from part a of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8568275656206882
+
+1) alena_jasaityte_b - 0.8568275656206882
+
+2) teta_elzbieta_b - 0.8516390831255382
+
+3) marija_berczynskas_b - 0.8322880516138096
+
+4) aniele_b - 0.8250845774957805
+
+5) little_ona_b - 0.8214953680183356
+
+6) majauszkiene_b - 0.7941301342326497
+
+7) jack_duane_b - 0.7816512584686279
+
+8) dede_antanas_b - 0.7808073032383517
+
+9) kotrina_b - 0.7683576803420605
+
+10) mike_scully_b - 0.7632828950881958
+
+11) stanislovas_b - 0.7332069436784433
+
+12) phil_connor_b - 0.7299391627311707
+
+13) jurgis_rudkus_b - 0.7222575760560509
+
+14) jones_b - 0.7033390435581572
+
+15) tamoszius_kuszleika_b - 0.6993165016174316
+
+16) durham_and_company_b - 0.6902132630348206
+
+17) brown_b - 0.6655427813529968
+
+18) jonas_b - 0.6514815092086792
+
+Result for the vector: jurgis_rudkus, coming from part b of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9628463696585225
+
+1) jurgis_rudkus_a - 0.9628463696585225
+
+2) tamoszius_kuszleika_a - 0.9409343880693436
+
+3) stanislovas_a - 0.9291841749086327
+
+4) jack_duane_a - 0.9291038194031666
+
+5) teta_elzbieta_a - 0.9285824022119559
+
+6) phil_connor_a - 0.9198310649344646
+
+7) little_ona_a - 0.9196213757878956
+
+8) mike_scully_a - 0.9186172163074383
+
+9) jonas_a - 0.918209428680505
+
+10) dede_antanas_a - 0.9166055545156204
+
+11) marija_berczynskas_a - 0.893219378388506
+
+12) aniele_a - 0.881660621017768
+
+13) durham_and_company_a - 0.865578575799297
+
+14) kotrina_a - 0.8630843501363923
+
+15) brown_a - 0.8360278508679778
+
+16) jones_a - 0.7916990034311122
+
+17) majauszkiene_a - 0.7751938335655285
+
+18) alena_jasaityte_a - 0.7222575760560509
+
+Result for the vector: marija_berczynskas, coming from part b of the book
+Rank: 3 out of 18 characters
+Cosine similarity to the co-referring vector: 0.963264196016318
+
+1) little_ona_a - 0.9763477139576593
+
+2) teta_elzbieta_a - 0.975100726631266
+
+3) marija_berczynskas_a - 0.963264196016318
+
+4) jurgis_rudkus_a - 0.9451466517106735
+
+5) jonas_a - 0.9415541256400421
+
+6) stanislovas_a - 0.941205000173609
+
+7) tamoszius_kuszleika_a - 0.9315446892841072
+
+8) phil_connor_a - 0.9154670511325319
+
+9) kotrina_a - 0.9151962126733038
+
+10) dede_antanas_a - 0.9150114281485766
+
+11) jack_duane_a - 0.9149691139152386
+
+12) aniele_a - 0.9040403749906781
+
+13) mike_scully_a - 0.8985910683450425
+
+14) durham_and_company_a - 0.8693057142860564
+
+15) brown_a - 0.8552268657223502
+
+16) majauszkiene_a - 0.8443387998443488
+
+17) alena_jasaityte_a - 0.8322880516138096
+
+18) jones_a - 0.7922031395616957
+
+Result for the vector: little_ona, coming from part b of the book
+Rank: 2 out of 18 characters
+Cosine similarity to the co-referring vector: 0.959099080482047
+
+1) teta_elzbieta_a - 0.9608434725059221
+
+2) little_ona_a - 0.959099080482047
+
+3) marija_berczynskas_a - 0.9399251586131931
+
+4) stanislovas_a - 0.9285868129555542
+
+5) tamoszius_kuszleika_a - 0.9269115561465857
+
+6) jonas_a - 0.9178362390799824
+
+7) jurgis_rudkus_a - 0.9170792376124733
+
+8) dede_antanas_a - 0.9075314562814621
+
+9) phil_connor_a - 0.9057887410332663
+
+10) aniele_a - 0.9043911425950979
+
+11) jack_duane_a - 0.9034221980055188
+
+12) kotrina_a - 0.8982129364673278
+
+13) durham_and_company_a - 0.8852907810135092
+
+14) mike_scully_a - 0.8772893140276689
+
+15) brown_a - 0.8705926383248151
+
+16) majauszkiene_a - 0.821683361084765
+
+17) alena_jasaityte_a - 0.8214953680183356
+
+18) jones_a - 0.7877340894541282
+
+Result for the vector: teta_elzbieta, coming from part b of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9860107898712228
+
+1) teta_elzbieta_a - 0.9860107898712228
+
+2) little_ona_a - 0.983820735443876
+
+3) marija_berczynskas_a - 0.9721437676038621
+
+4) jonas_a - 0.9486289872493439
+
+5) jurgis_rudkus_a - 0.942316114902503
+
+6) stanislovas_a - 0.9338726440744165
+
+7) tamoszius_kuszleika_a - 0.9330779870198974
+
+8) kotrina_a - 0.9195631742477482
+
+9) aniele_a - 0.9169408728515728
+
+10) dede_antanas_a - 0.9166859289033328
+
+11) jack_duane_a - 0.9055046382847228
+
+12) mike_scully_a - 0.8987663327912306
+
+13) phil_connor_a - 0.8952065047744829
+
+14) durham_and_company_a - 0.8837901478693113
+
+15) brown_a - 0.8643565354666001
+
+16) alena_jasaityte_a - 0.8516390831255382
+
+17) majauszkiene_a - 0.8497774511443065
+
+18) jones_a - 0.7998196840071301
+
+Result for the vector: dede_antanas, coming from part b of the book
+Rank: 2 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9524397197293901
+
+1) stanislovas_a - 0.972907067960095
+
+2) dede_antanas_a - 0.9524397197293901
+
+3) jurgis_rudkus_a - 0.9494394063949653
+
+4) tamoszius_kuszleika_a - 0.9429286088304899
+
+5) jack_duane_a - 0.9409120643682535
+
+6) teta_elzbieta_a - 0.9362900257110662
+
+7) little_ona_a - 0.9362651667752978
+
+8) jonas_a - 0.9264059895043963
+
+9) kotrina_a - 0.9230248928070134
+
+10) phil_connor_a - 0.917784209119334
+
+11) mike_scully_a - 0.9129568882558892
+
+12) marija_berczynskas_a - 0.9054030719639717
+
+13) aniele_a - 0.8992222607599485
+
+14) durham_and_company_a - 0.8841179138597721
+
+15) brown_a - 0.8603477651191743
+
+16) jones_a - 0.8079439172677895
+
+17) majauszkiene_a - 0.8010098815566244
+
+18) alena_jasaityte_a - 0.7808073032383517
+
+Result for the vector: mike_scully, coming from part b of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9577604532241821
+
+1) mike_scully_a - 0.9577604532241821
+
+2) jonas_a - 0.9456448836816816
+
+3) jurgis_rudkus_a - 0.9424129758827121
+
+4) jack_duane_a - 0.9407612085342407
+
+5) tamoszius_kuszleika_a - 0.9397864937782288
+
+6) phil_connor_a - 0.9279810786247253
+
+7) dede_antanas_a - 0.9235330178459313
+
+8) durham_and_company_a - 0.9228036036613863
+
+9) teta_elzbieta_a - 0.9217224763797254
+
+10) stanislovas_a - 0.9202696180022284
+
+11) little_ona_a - 0.91389000415802
+
+12) aniele_a - 0.9089253057330547
+
+13) brown_a - 0.8933705357721612
+
+14) marija_berczynskas_a - 0.8855060338973999
+
+15) jones_a - 0.8601692831617181
+
+16) kotrina_a - 0.850492486328336
+
+17) majauszkiene_a - 0.7882359027862549
+
+18) alena_jasaityte_a - 0.7632828950881958
+
+Result for the vector: jack_duane, coming from part b of the book
+Rank: 7 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9430535435676575
+
+1) jurgis_rudkus_a - 0.970630468688581
+
+2) jonas_a - 0.9679035832853198
+
+3) tamoszius_kuszleika_a - 0.9547860622406006
+
+4) teta_elzbieta_a - 0.9513818650614121
+
+5) little_ona_a - 0.9498262405395508
+
+6) mike_scully_a - 0.9487927556037903
+
+7) jack_duane_a - 0.9430535435676575
+
+8) dede_antanas_a - 0.9365854225507647
+
+9) stanislovas_a - 0.9355806785129759
+
+10) phil_connor_a - 0.9278154373168945
+
+11) marija_berczynskas_a - 0.9245043992996216
+
+12) aniele_a - 0.9079262724010684
+
+13) durham_and_company_a - 0.9050377820466002
+
+14) kotrina_a - 0.8854781457496811
+
+15) brown_a - 0.8754385374617145
+
+16) jones_a - 0.8460726050181765
+
+17) majauszkiene_a - 0.8064852952957153
+
+18) alena_jasaityte_a - 0.7816512584686279
+
+Result for the vector: jonas, coming from part b of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8391555797802088
+
+1) jonas_a - 0.8391555797802088
+
+2) jurgis_rudkus_a - 0.8343649009248688
+
+3) teta_elzbieta_a - 0.8307824831734623
+
+4) little_ona_a - 0.8263993859291077
+
+5) tamoszius_kuszleika_a - 0.81175696849823
+
+6) marija_berczynskas_a - 0.7996059656143188
+
+7) mike_scully_a - 0.7966203689575195
+
+8) stanislovas_a - 0.7822017929313485
+
+9) dede_antanas_a - 0.7803377974234712
+
+10) jack_duane_a - 0.7737366557121277
+
+11) kotrina_a - 0.7550537136165087
+
+12) aniele_a - 0.7435962267403385
+
+13) phil_connor_a - 0.7353882789611816
+
+14) durham_and_company_a - 0.7162968560722668
+
+15) brown_a - 0.6764465176000156
+
+16) jones_a - 0.6669028202833438
+
+17) majauszkiene_a - 0.6649120450019836
+
+18) alena_jasaityte_a - 0.6514815092086792
+
+Result for the vector: tamoszius_kuszleika, coming from part b of the book
+Rank: 6 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8668616414070129
+
+1) jack_duane_a - 0.8879805207252502
+
+2) jurgis_rudkus_a - 0.8856983848989989
+
+3) stanislovas_a - 0.8807740353615304
+
+4) mike_scully_a - 0.8755573630332947
+
+5) jonas_a - 0.8705949446736263
+
+6) tamoszius_kuszleika_a - 0.8668616414070129
+
+7) dede_antanas_a - 0.8664648453274293
+
+8) phil_connor_a - 0.8530757427215576
+
+9) little_ona_a - 0.8497756719589233
+
+10) teta_elzbieta_a - 0.8458053561565083
+
+11) kotrina_a - 0.8129799477469967
+
+12) marija_berczynskas_a - 0.8124715685844421
+
+13) durham_and_company_a - 0.8050759558447592
+
+14) aniele_a - 0.8031459089343713
+
+15) brown_a - 0.7861836190874466
+
+16) jones_a - 0.7528786511944934
+
+17) majauszkiene_a - 0.703694224357605
+
+18) alena_jasaityte_a - 0.6993165016174316
+
+Result for the vector: brown, coming from part b of the book
+Rank: 2 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9253543891118289
+
+1) durham_and_company_a - 0.9388752823062531
+
+2) brown_a - 0.9253543891118289
+
+3) jones_a - 0.8776996658861453
+
+4) aniele_a - 0.8549257689802983
+
+5) phil_connor_a - 0.8232361674308777
+
+6) mike_scully_a - 0.8166826367378235
+
+7) tamoszius_kuszleika_a - 0.8151237964630127
+
+8) jonas_a - 0.8130309228012245
+
+9) dede_antanas_a - 0.8093232994868352
+
+10) jack_duane_a - 0.8071461915969849
+
+11) teta_elzbieta_a - 0.803646278164014
+
+12) stanislovas_a - 0.8010097979295552
+
+13) jurgis_rudkus_a - 0.7982443095300027
+
+14) little_ona_a - 0.7956648468971252
+
+15) marija_berczynskas_a - 0.7730020880699158
+
+16) kotrina_a - 0.7401004588544109
+
+17) majauszkiene_a - 0.7081539630889893
+
+18) alena_jasaityte_a - 0.6655427813529968
+
+Result for the vector: aniele, coming from part b of the book
+Rank: 5 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9147681150255014
+
+1) teta_elzbieta_a - 0.959811513446389
+
+2) little_ona_a - 0.9543568519141183
+
+3) marija_berczynskas_a - 0.942790630889499
+
+4) jonas_a - 0.9222355806161328
+
+5) aniele_a - 0.9147681150255014
+
+6) stanislovas_a - 0.9082960650391478
+
+7) tamoszius_kuszleika_a - 0.9079060013350264
+
+8) jurgis_rudkus_a - 0.9035056944482691
+
+9) durham_and_company_a - 0.8906331923792816
+
+10) phil_connor_a - 0.8886494702905748
+
+11) dede_antanas_a - 0.8882042765617434
+
+12) kotrina_a - 0.8880217208836412
+
+13) brown_a - 0.8819780086881551
+
+14) jack_duane_a - 0.8786944223228457
+
+15) mike_scully_a - 0.8683453876766347
+
+16) majauszkiene_a - 0.833093772346154
+
+17) alena_jasaityte_a - 0.8250845774957805
+
+18) jones_a - 0.8018825650215206
+
+Result for the vector: phil_connor, coming from part b of the book
+Rank: 2 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9170289039611816
+
+1) jack_duane_a - 0.9200223684310913
+
+2) phil_connor_a - 0.9170289039611816
+
+3) stanislovas_a - 0.8946284777368994
+
+4) durham_and_company_a - 0.8767770716646711
+
+5) little_ona_a - 0.8764746189117432
+
+6) dede_antanas_a - 0.8751723691923854
+
+7) tamoszius_kuszleika_a - 0.8747352957725525
+
+8) teta_elzbieta_a - 0.8730118350379581
+
+9) jurgis_rudkus_a - 0.8719133811048654
+
+10) aniele_a - 0.8686857380049603
+
+11) jonas_a - 0.8647902269598913
+
+12) brown_a - 0.8640955944089772
+
+13) mike_scully_a - 0.8635470271110535
+
+14) marija_berczynskas_a - 0.8424414396286011
+
+15) kotrina_a - 0.8187797773611692
+
+16) jones_a - 0.7926964040217654
+
+17) majauszkiene_a - 0.7716730833053589
+
+18) alena_jasaityte_a - 0.7299391627311707
+
+Result for the vector: majauszkiene, coming from part b of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.961246845796518
+
+1) majauszkiene_a - 0.961246845796518
+
+2) marija_berczynskas_a - 0.8559836063375253
+
+3) little_ona_a - 0.8289164798806015
+
+4) teta_elzbieta_a - 0.8267278671264707
+
+5) kotrina_a - 0.8260430097580015
+
+6) jonas_a - 0.8168799415421437
+
+7) stanislovas_a - 0.8065821643720896
+
+8) aniele_a - 0.8055235263393337
+
+9) dede_antanas_a - 0.7986542342489045
+
+10) alena_jasaityte_a - 0.7941301342326497
+
+11) phil_connor_a - 0.7903972739218055
+
+12) tamoszius_kuszleika_a - 0.7833803763020277
+
+13) jurgis_rudkus_a - 0.7814037799835261
+
+14) jack_duane_a - 0.7686738830014411
+
+15) mike_scully_a - 0.7657343009551957
+
+16) durham_and_company_a - 0.748905293480351
+
+17) brown_a - 0.7408620185430665
+
+18) jones_a - 0.732697455012495
+
+Result for the vector: stanislovas, coming from part b of the book
+Rank: 2 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9110159437031863
+
+1) dede_antanas_a - 0.9112577438354557
+
+2) stanislovas_a - 0.9110159437031863
+
+3) tamoszius_kuszleika_a - 0.89730418340539
+
+4) jonas_a - 0.8910401794004422
+
+5) jurgis_rudkus_a - 0.8831174512961565
+
+6) kotrina_a - 0.8822305342876274
+
+7) jack_duane_a - 0.855409928833848
+
+8) mike_scully_a - 0.8546364990093426
+
+9) teta_elzbieta_a - 0.8481593313027226
+
+10) little_ona_a - 0.8448192569721203
+
+11) phil_connor_a - 0.8439273927255054
+
+12) marija_berczynskas_a - 0.8204913246338784
+
+13) aniele_a - 0.8102674227474782
+
+14) durham_and_company_a - 0.789384507816577
+
+15) brown_a - 0.7732130058642357
+
+16) jones_a - 0.7557827234268242
+
+17) alena_jasaityte_a - 0.7332069436784433
+
+18) majauszkiene_a - 0.7264288826925241
+
+Result for the vector: durham_and_company, coming from part b of the book
+Rank: 1 out of 18 characters
+Cosine similarity to the co-referring vector: 0.9346003175914609
+
+1) durham_and_company_a - 0.9346003175914609
+
+2) brown_a - 0.9150609646755749
+
+3) aniele_a - 0.8817591212083019
+
+4) phil_connor_a - 0.8715853691101074
+
+5) jack_duane_a - 0.8676409125328064
+
+6) mike_scully_a - 0.8628444075584412
+
+7) teta_elzbieta_a - 0.8599178278495191
+
+8) tamoszius_kuszleika_a - 0.8572049736976624
+
+9) jonas_a - 0.8558548347906723
+
+10) little_ona_a - 0.8513342142105103
+
+11) stanislovas_a - 0.8504632293625857
+
+12) jurgis_rudkus_a - 0.8448274824126091
+
+13) dede_antanas_a - 0.8406689668100471
+
+14) jones_a - 0.832196523678097
+
+15) marija_berczynskas_a - 0.814592719078064
+
+16) kotrina_a - 0.7742706671791885
+
+17) majauszkiene_a - 0.7306342124938965
+
+18) alena_jasaityte_a - 0.6902132630348206
+
+Result for the vector: kotrina, coming from part b of the book
+Rank: 2 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8986355066299503
+
+1) stanislovas_a - 0.9000085055823168
+
+2) kotrina_a - 0.8986355066299503
+
+3) teta_elzbieta_a - 0.8483006358146727
+
+4) marija_berczynskas_a - 0.8477669863561995
+
+5) little_ona_a - 0.8436502721101222
+
+6) dede_antanas_a - 0.8346655767757388
+
+7) majauszkiene_a - 0.8041242840364163
+
+8) aniele_a - 0.8024661062678163
+
+9) jonas_a - 0.7993565916439828
+
+10) jurgis_rudkus_a - 0.7959623336792049
+
+11) phil_connor_a - 0.7919396634065918
+
+12) tamoszius_kuszleika_a - 0.7799984681605393
+
+13) jack_duane_a - 0.776065753463851
+
+14) alena_jasaityte_a - 0.7683576803420605
+
+15) durham_and_company_a - 0.7572288449449609
+
+16) mike_scully_a - 0.748904511267217
+
+17) brown_a - 0.7404981321541788
+
+18) jones_a - 0.6777225348618668
+
+Result for the vector: jones, coming from part b of the book
+Rank: 11 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8664099673047617
+
+1) durham_and_company_a - 0.8982630786174081
+
+2) mike_scully_a - 0.8947913850657426
+
+3) phil_connor_a - 0.8857085304595742
+
+4) jack_duane_a - 0.885424812325077
+
+5) tamoszius_kuszleika_a - 0.8825019194932543
+
+6) aniele_a - 0.8814420437383235
+
+7) brown_a - 0.8782092187654056
+
+8) jonas_a - 0.8775527331295903
+
+9) dede_antanas_a - 0.8765550965897887
+
+10) jurgis_rudkus_a - 0.8715044519753687
+
+11) jones_a - 0.8664099673047617
+
+12) stanislovas_a - 0.857312892159454
+
+13) teta_elzbieta_a - 0.8429346335808917
+
+14) little_ona_a - 0.8321366458061352
+
+15) marija_berczynskas_a - 0.8202069539016775
+
+16) kotrina_a - 0.7935669658651132
+
+17) majauszkiene_a - 0.7844781384895599
+
+18) alena_jasaityte_a - 0.7033390435581572
+
+Result for the vector: alena_jasaityte, coming from part b of the book
+Rank: 13 out of 18 characters
+Cosine similarity to the co-referring vector: 0.8568275656206882
+
+1) little_ona_a - 0.927314047377466
+
+2) teta_elzbieta_a - 0.92690051473373
+
+3) marija_berczynskas_a - 0.9256663962801475
+
+4) jonas_a - 0.8971060843138109
+
+5) stanislovas_a - 0.8911245659963088
+
+6) tamoszius_kuszleika_a - 0.8890252775534838
+
+7) phil_connor_a - 0.8851880499608502
+
+8) kotrina_a - 0.8820645949763543
+
+9) jurgis_rudkus_a - 0.8812194012141942
+
+10) aniele_a - 0.8788652040603407
+
+11) jack_duane_a - 0.8787561131265111
+
+12) dede_antanas_a - 0.871778726577765
+
+13) alena_jasaityte_a - 0.8568275656206882
+
+14) mike_scully_a - 0.8486895055359912
+
+15) durham_and_company_a - 0.8411947143433997
+
+16) brown_a - 0.8293057432977666
+
+17) majauszkiene_a - 0.8266500933974941
+
+18) jones_a - 0.7603756189346368
+

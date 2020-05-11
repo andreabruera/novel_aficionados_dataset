@@ -1,0 +1,140 @@
+Result for the vector: girl, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.7220173478126526
+
+1) girl_a - 0.7220173478126526
+
+2) year_a - 0.5755678415298462
+
+3) mind_a - 0.5737918786344495
+
+4) room_a - 0.562522444875387
+
+5) air_a - 0.526126886702745
+
+Result for the vector: room, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.7983887789232703
+
+1) room_a - 0.7983887789232703
+
+2) air_a - 0.6218832771286642
+
+3) girl_a - 0.6211672980636948
+
+4) mind_a - 0.6171187302015709
+
+5) year_a - 0.5556983252494052
+
+Result for the vector: air, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8389424277612891
+
+1) air_a - 0.8389424277612891
+
+2) room_a - 0.7014861347062749
+
+3) girl_a - 0.6979006348789129
+
+4) mind_a - 0.6661256551258855
+
+5) year_a - 0.6621969140885433
+
+Result for the vector: year, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8329597215080442
+
+1) year_a - 0.8329597215080442
+
+2) mind_a - 0.7631235491298602
+
+3) girl_a - 0.7564445283147987
+
+4) room_a - 0.7437191009521538
+
+5) air_a - 0.7066638573017511
+
+Result for the vector: mind, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.7215374161187488
+
+1) mind_a - 0.7215374161187488
+
+2) room_a - 0.6886601076913008
+
+3) year_a - 0.681849758735286
+
+4) girl_a - 0.6792588638817599
+
+5) air_a - 0.6302004897355629
+
+Result for the vector: girl, coming from part a of the book
+Rank: 2 out of 5 characters
+Cosine similarity to the co-referring vector: 0.7220173478126526
+
+1) year_wiki - 0.7564445283147987
+
+2) girl_wiki - 0.7220173478126526
+
+3) air_wiki - 0.6979006348789129
+
+4) mind_wiki - 0.6792588638817599
+
+5) room_wiki - 0.6211672980636948
+
+Result for the vector: room, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.7983887789232703
+
+1) room_wiki - 0.7983887789232703
+
+2) year_wiki - 0.7437191009521538
+
+3) air_wiki - 0.7014861347062749
+
+4) mind_wiki - 0.6886601076913008
+
+5) girl_wiki - 0.562522444875387
+
+Result for the vector: air, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8389424277612891
+
+1) air_wiki - 0.8389424277612891
+
+2) year_wiki - 0.7066638573017511
+
+3) mind_wiki - 0.6302004897355629
+
+4) room_wiki - 0.6218832771286642
+
+5) girl_wiki - 0.526126886702745
+
+Result for the vector: year, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8329597215080442
+
+1) year_wiki - 0.8329597215080442
+
+2) mind_wiki - 0.681849758735286
+
+3) air_wiki - 0.6621969140885433
+
+4) girl_wiki - 0.5755678415298462
+
+5) room_wiki - 0.5556983252494052
+
+Result for the vector: mind, coming from part a of the book
+Rank: 2 out of 5 characters
+Cosine similarity to the co-referring vector: 0.7215374161187488
+
+1) year_wiki - 0.7631235491298602
+
+2) mind_wiki - 0.7215374161187488
+
+3) air_wiki - 0.6661256551258855
+
+4) room_wiki - 0.6171187302015709
+
+5) girl_wiki - 0.5737918786344495
+

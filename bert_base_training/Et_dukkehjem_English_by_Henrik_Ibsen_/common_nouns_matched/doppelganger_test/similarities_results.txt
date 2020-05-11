@@ -1,0 +1,252 @@
+Result for the vector: thing, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.968795113276272
+
+1) thing_b - 0.968795113276272
+
+2) something_b - 0.9199197375559107
+
+3) child_b - 0.9004750282846471
+
+4) evening_b - 0.8717561027931319
+
+5) husband_b - 0.8404856384524257
+
+6) door_b - 0.8263045731316994
+
+7) table_b - 0.7421043054051998
+
+Result for the vector: door, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9692578875133875
+
+1) door_b - 0.9692578875133875
+
+2) table_b - 0.8519447357621631
+
+3) thing_b - 0.7697334015051619
+
+4) child_b - 0.7564353281908257
+
+5) something_b - 0.7355224990133225
+
+6) evening_b - 0.7228933522498671
+
+7) husband_b - 0.7087450834734766
+
+Result for the vector: child, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9423459733930961
+
+1) child_b - 0.9423459733930961
+
+2) husband_b - 0.8885189957309384
+
+3) thing_b - 0.8880896236923324
+
+4) something_b - 0.8762779162095875
+
+5) door_b - 0.8618644136746149
+
+6) evening_b - 0.8382249763801751
+
+7) table_b - 0.8006067037401617
+
+Result for the vector: husband, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.970622687656364
+
+1) husband_b - 0.970622687656364
+
+2) child_b - 0.9204382479843903
+
+3) thing_b - 0.8368481203136603
+
+4) something_b - 0.833554690115856
+
+5) evening_b - 0.8091497889921347
+
+6) door_b - 0.7871851667386506
+
+7) table_b - 0.7157172391246104
+
+Result for the vector: something, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9521857130804269
+
+1) something_b - 0.9521857130804269
+
+2) thing_b - 0.8875421151569043
+
+3) child_b - 0.8414019407930916
+
+4) evening_b - 0.8281527613264925
+
+5) husband_b - 0.8156676535507341
+
+6) door_b - 0.7865485294519116
+
+7) table_b - 0.6980333744307383
+
+Result for the vector: table, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9115321364542242
+
+1) table_b - 0.9115321364542242
+
+2) door_b - 0.893966343819102
+
+3) child_b - 0.8184663545171365
+
+4) thing_b - 0.8172884827044244
+
+5) something_b - 0.7943155046889614
+
+6) evening_b - 0.7697284633406778
+
+7) husband_b - 0.7686086434955227
+
+Result for the vector: evening, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8803978037597199
+
+1) evening_b - 0.8803978037597199
+
+2) thing_b - 0.854648896254435
+
+3) child_b - 0.8036756760494144
+
+4) something_b - 0.8035711890884394
+
+5) door_b - 0.7901533827414192
+
+6) husband_b - 0.7361539445015172
+
+7) table_b - 0.7045078907467033
+
+Result for the vector: thing, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.968795113276272
+
+1) thing_a - 0.968795113276272
+
+2) child_a - 0.8880896236923324
+
+3) something_a - 0.8875421151569043
+
+4) evening_a - 0.854648896254435
+
+5) husband_a - 0.8368481203136603
+
+6) table_a - 0.8172884827044244
+
+7) door_a - 0.7697334015051619
+
+Result for the vector: door, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9692578875133875
+
+1) door_a - 0.9692578875133875
+
+2) table_a - 0.893966343819102
+
+3) child_a - 0.8618644136746149
+
+4) thing_a - 0.8263045731316994
+
+5) evening_a - 0.7901533827414192
+
+6) husband_a - 0.7871851667386506
+
+7) something_a - 0.7865485294519116
+
+Result for the vector: child, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9423459733930961
+
+1) child_a - 0.9423459733930961
+
+2) husband_a - 0.9204382479843903
+
+3) thing_a - 0.9004750282846471
+
+4) something_a - 0.8414019407930916
+
+5) table_a - 0.8184663545171365
+
+6) evening_a - 0.8036756760494144
+
+7) door_a - 0.7564353281908257
+
+Result for the vector: husband, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.970622687656364
+
+1) husband_a - 0.970622687656364
+
+2) child_a - 0.8885189957309384
+
+3) thing_a - 0.8404856384524257
+
+4) something_a - 0.8156676535507341
+
+5) table_a - 0.7686086434955227
+
+6) evening_a - 0.7361539445015172
+
+7) door_a - 0.7087450834734766
+
+Result for the vector: something, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9521857130804269
+
+1) something_a - 0.9521857130804269
+
+2) thing_a - 0.9199197375559107
+
+3) child_a - 0.8762779162095875
+
+4) husband_a - 0.833554690115856
+
+5) evening_a - 0.8035711890884394
+
+6) table_a - 0.7943155046889614
+
+7) door_a - 0.7355224990133225
+
+Result for the vector: table, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9115321364542242
+
+1) table_a - 0.9115321364542242
+
+2) door_a - 0.8519447357621631
+
+3) child_a - 0.8006067037401617
+
+4) thing_a - 0.7421043054051998
+
+5) husband_a - 0.7157172391246104
+
+6) evening_a - 0.7045078907467033
+
+7) something_a - 0.6980333744307383
+
+Result for the vector: evening, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.8803978037597199
+
+1) evening_a - 0.8803978037597199
+
+2) thing_a - 0.8717561027931319
+
+3) child_a - 0.8382249763801751
+
+4) something_a - 0.8281527613264925
+
+5) husband_a - 0.8091497889921347
+
+6) table_a - 0.7697284633406778
+
+7) door_a - 0.7228933522498671
+

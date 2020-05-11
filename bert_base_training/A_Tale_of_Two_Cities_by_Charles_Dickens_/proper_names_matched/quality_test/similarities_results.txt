@@ -1,0 +1,1932 @@
+Result for the vector: mr_jarvis_lorry, coming from part i of the book
+Rank: 5 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9147616726444223
+
+1) monsieur_defarge_a - 0.9259144111922882
+
+2) miss_lucie_a - 0.9225467535797717
+
+3) mr_charles_darnay_a - 0.9198842144150544
+
+4) mr_stryver_a - 0.9156212483531938
+
+5) mr_jarvis_lorry_a - 0.9147616726444223
+
+6) miss_pross_a - 0.9099467611439798
+
+7) mr_barsad_a - 0.9086293957862899
+
+8) mr_carton_a - 0.9081572403720395
+
+9) saint_antoine_a - 0.9070252561248711
+
+10) miss_manette_a - 0.9052123057336078
+
+11) monseigneur_a - 0.904153596859748
+
+12) mr_jerry_cruncher_a - 0.9033052440517914
+
+13) tellson_s_bank_a - 0.9013370510728237
+
+14) roger_cly_a - 0.8796002674460269
+
+15) mrs_cruncher_a - 0.874995425344065
+
+16) jacques_one_a - 0.8687637682979537
+
+17) house_a - 0.8429948372254081
+
+18) monsieur_the_marquis_a - 0.8319037160988252
+
+19) bailey_a - 0.7930007474420673
+
+20) monsieur_gabelle_a - 0.7792703571109914
+
+21) tribunal_a - 0.6128644212646026
+
+Result for the vector: mr_jerry_cruncher, coming from part i of the book
+Rank: 5 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9179805468309268
+
+1) mr_charles_darnay_a - 0.9221816016543882
+
+2) monsieur_defarge_a - 0.920621266439112
+
+3) mr_stryver_a - 0.9203422201393743
+
+4) miss_lucie_a - 0.9186947297271941
+
+5) mr_jerry_cruncher_a - 0.9179805468309268
+
+6) mr_carton_a - 0.9154987880884895
+
+7) mr_barsad_a - 0.9096518376158335
+
+8) miss_pross_a - 0.9081304128092427
+
+9) mr_jarvis_lorry_a - 0.9068613592899673
+
+10) miss_manette_a - 0.9049904999142732
+
+11) monseigneur_a - 0.9021769703732131
+
+12) tellson_s_bank_a - 0.8896606630289302
+
+13) saint_antoine_a - 0.8844313220171326
+
+14) roger_cly_a - 0.8824387981687906
+
+15) mrs_cruncher_a - 0.8659983197449652
+
+16) jacques_one_a - 0.8657273054122986
+
+17) house_a - 0.8400526642799437
+
+18) monsieur_the_marquis_a - 0.8210925949271094
+
+19) bailey_a - 0.8002751588657532
+
+20) monsieur_gabelle_a - 0.7755669622937706
+
+21) tribunal_a - 0.609690285306591
+
+Result for the vector: mr_charles_darnay, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9278938727315605
+
+1) mr_charles_darnay_a - 0.9278938727315605
+
+2) miss_lucie_a - 0.9273452119437003
+
+3) monsieur_defarge_a - 0.9244688659273226
+
+4) mr_stryver_a - 0.9209135307787311
+
+5) mr_carton_a - 0.9200575900112162
+
+6) miss_manette_a - 0.917652909895619
+
+7) miss_pross_a - 0.9172456313821443
+
+8) mr_barsad_a - 0.9162860139864104
+
+9) mr_jerry_cruncher_a - 0.9138121553547491
+
+10) mr_jarvis_lorry_a - 0.9133281656103249
+
+11) monseigneur_a - 0.9119229264213415
+
+12) tellson_s_bank_a - 0.9049859699615402
+
+13) saint_antoine_a - 0.9023146243972745
+
+14) roger_cly_a - 0.8972289768364115
+
+15) mrs_cruncher_a - 0.8847851088515004
+
+16) jacques_one_a - 0.8698803186416688
+
+17) house_a - 0.8513258099556029
+
+18) monsieur_the_marquis_a - 0.8264738813921158
+
+19) bailey_a - 0.7980886222071404
+
+20) monsieur_gabelle_a - 0.7923949012285814
+
+21) tribunal_a - 0.6120581395660732
+
+Result for the vector: miss_pross, coming from part i of the book
+Rank: 3 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9130032982527425
+
+1) miss_lucie_a - 0.9265382522229815
+
+2) monsieur_defarge_a - 0.9159605079830454
+
+3) miss_pross_a - 0.9130032982527425
+
+4) mr_charles_darnay_a - 0.9042951677109488
+
+5) miss_manette_a - 0.894877049479592
+
+6) mr_carton_a - 0.8904665312588129
+
+7) mr_barsad_a - 0.8886705504263119
+
+8) mrs_cruncher_a - 0.8880422909297643
+
+9) mr_stryver_a - 0.8856731380637037
+
+10) mr_jarvis_lorry_a - 0.8803325486480523
+
+11) roger_cly_a - 0.8768571468421411
+
+12) tellson_s_bank_a - 0.8742723800458985
+
+13) mr_jerry_cruncher_a - 0.8729849642203751
+
+14) monseigneur_a - 0.8712681714834163
+
+15) saint_antoine_a - 0.8623904421794957
+
+16) jacques_one_a - 0.8526784435712922
+
+17) house_a - 0.8281131037507478
+
+18) monsieur_the_marquis_a - 0.8030243637881637
+
+19) monsieur_gabelle_a - 0.7812802093076799
+
+20) bailey_a - 0.7688705095985547
+
+21) tribunal_a - 0.5883209039259789
+
+Result for the vector: monsieur_defarge, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9171444128241801
+
+1) monsieur_defarge_a - 0.9171444128241801
+
+2) miss_manette_a - 0.8999765038518369
+
+3) miss_lucie_a - 0.8945011496543884
+
+4) mr_carton_a - 0.8862261772155762
+
+5) mr_charles_darnay_a - 0.8853541612625122
+
+6) miss_pross_a - 0.8839222927186203
+
+7) mr_barsad_a - 0.879024174184328
+
+8) mr_stryver_a - 0.8724082816255609
+
+9) saint_antoine_a - 0.8720875642325752
+
+10) monseigneur_a - 0.870302677154541
+
+11) mr_jarvis_lorry_a - 0.8654032349586487
+
+12) tellson_s_bank_a - 0.861717657838153
+
+13) roger_cly_a - 0.860615100282881
+
+14) mr_jerry_cruncher_a - 0.8575141429901123
+
+15) jacques_one_a - 0.8452423307155189
+
+16) mrs_cruncher_a - 0.8356519937515259
+
+17) house_a - 0.8249690040964497
+
+18) monsieur_gabelle_a - 0.798867917263297
+
+19) monsieur_the_marquis_a - 0.7988348007202148
+
+20) bailey_a - 0.7609443353480947
+
+21) tribunal_a - 0.5781486630439758
+
+Result for the vector: miss_manette, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8480297760936912
+
+1) miss_manette_a - 0.8480297760936912
+
+2) monsieur_defarge_a - 0.8016386152778822
+
+3) mr_charles_darnay_a - 0.8006021022976075
+
+4) mr_carton_a - 0.7963968156694421
+
+5) mr_stryver_a - 0.7873897172313479
+
+6) miss_pross_a - 0.7811571853318433
+
+7) monseigneur_a - 0.7774982684105122
+
+8) miss_lucie_a - 0.7770694129785723
+
+9) mr_jerry_cruncher_a - 0.7759278647878133
+
+10) tellson_s_bank_a - 0.7753010295062422
+
+11) mr_barsad_a - 0.7752640113391883
+
+12) mr_jarvis_lorry_a - 0.7623487342103942
+
+13) roger_cly_a - 0.7601119732923491
+
+14) jacques_one_a - 0.7540887965533526
+
+15) house_a - 0.73739824481612
+
+16) saint_antoine_a - 0.7336653312245208
+
+17) monsieur_gabelle_a - 0.7275695312664769
+
+18) mrs_cruncher_a - 0.7156135057095742
+
+19) monsieur_the_marquis_a - 0.6994039624751798
+
+20) bailey_a - 0.6868601423329064
+
+21) tribunal_a - 0.5549625919748128
+
+Result for the vector: miss_lucie, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9257460832595825
+
+1) miss_lucie_a - 0.9257460832595825
+
+2) monsieur_defarge_a - 0.9031065644685382
+
+3) miss_pross_a - 0.9005775570181008
+
+4) miss_manette_a - 0.8861492411912455
+
+5) mr_charles_darnay_a - 0.8858910202980042
+
+6) mrs_cruncher_a - 0.8747438192367554
+
+7) mr_carton_a - 0.8743095993995667
+
+8) mr_barsad_a - 0.8729396126550324
+
+9) tellson_s_bank_a - 0.8728128227218663
+
+10) mr_stryver_a - 0.864864120612172
+
+11) roger_cly_a - 0.8529452339692487
+
+12) mr_jarvis_lorry_a - 0.8527989983558655
+
+13) mr_jerry_cruncher_a - 0.8480566740036011
+
+14) monseigneur_a - 0.8466783761978149
+
+15) saint_antoine_a - 0.8435284746744778
+
+16) jacques_one_a - 0.8429873083241413
+
+17) house_a - 0.8268119199984136
+
+18) monsieur_the_marquis_a - 0.7917060256004333
+
+19) monsieur_gabelle_a - 0.7729174900798641
+
+20) bailey_a - 0.7634600086855933
+
+21) tribunal_a - 0.585841178894043
+
+Result for the vector: mr_stryver, coming from part i of the book
+Rank: 2 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9161393219440267
+
+1) mr_charles_darnay_a - 0.9227572679519653
+
+2) mr_stryver_a - 0.9161393219440267
+
+3) monsieur_defarge_a - 0.9101905769223335
+
+4) miss_lucie_a - 0.9096236228942871
+
+5) mr_carton_a - 0.9092927575111389
+
+6) mr_jerry_cruncher_a - 0.9078389406204224
+
+7) miss_manette_a - 0.9030561562709686
+
+8) miss_pross_a - 0.9030509110628536
+
+9) mr_jarvis_lorry_a - 0.9011017084121704
+
+10) monseigneur_a - 0.8965609073638916
+
+11) mr_barsad_a - 0.895416584474343
+
+12) tellson_s_bank_a - 0.8898521197018544
+
+13) roger_cly_a - 0.8826309109518208
+
+14) saint_antoine_a - 0.8715114853236525
+
+15) mrs_cruncher_a - 0.8695144057273865
+
+16) jacques_one_a - 0.8643382272518753
+
+17) house_a - 0.8350685337145025
+
+18) monsieur_the_marquis_a - 0.8055284023284912
+
+19) monsieur_gabelle_a - 0.7907724158574918
+
+20) bailey_a - 0.7897236001821097
+
+21) tribunal_a - 0.5994781851768494
+
+Result for the vector: tellson_s_bank, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9191864825264897
+
+1) tellson_s_bank_a - 0.9191864825264897
+
+2) house_a - 0.8774806930136283
+
+3) monseigneur_a - 0.8607404232025146
+
+4) mr_stryver_a - 0.8568053926237608
+
+5) mr_charles_darnay_a - 0.8527265191078186
+
+6) monsieur_defarge_a - 0.8493339925607454
+
+7) miss_manette_a - 0.847202438449575
+
+8) miss_pross_a - 0.8463838283558157
+
+9) mr_barsad_a - 0.846080566825884
+
+10) mr_carton_a - 0.8457443714141846
+
+11) monsieur_the_marquis_a - 0.8414835333824158
+
+12) mr_jerry_cruncher_a - 0.8396750688552856
+
+13) saint_antoine_a - 0.8345757971577588
+
+14) miss_lucie_a - 0.8342056274414062
+
+15) roger_cly_a - 0.8324586997168872
+
+16) jacques_one_a - 0.8275100095564136
+
+17) bailey_a - 0.8134826644083719
+
+18) mr_jarvis_lorry_a - 0.8065443634986877
+
+19) mrs_cruncher_a - 0.7863131761550903
+
+20) monsieur_gabelle_a - 0.7478685233828205
+
+21) tribunal_a - 0.6106357574462891
+
+Result for the vector: monsieur_the_marquis, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9279909410473989
+
+1) monsieur_the_marquis_a - 0.9279909410473989
+
+2) tellson_s_bank_a - 0.8641872825455211
+
+3) house_a - 0.8545117123570563
+
+4) mr_carton_a - 0.8374844443048375
+
+5) mr_stryver_a - 0.835419208184345
+
+6) monsieur_defarge_a - 0.8349464090120565
+
+7) saint_antoine_a - 0.8331472178189289
+
+8) monseigneur_a - 0.8330986748069134
+
+9) roger_cly_a - 0.8329073687140566
+
+10) mr_barsad_a - 0.8314131993897677
+
+11) mr_charles_darnay_a - 0.8311606893289298
+
+12) miss_lucie_a - 0.8302349695633346
+
+13) mr_jerry_cruncher_a - 0.8287054547281703
+
+14) miss_manette_a - 0.8234223583261142
+
+15) miss_pross_a - 0.8232911685146929
+
+16) mr_jarvis_lorry_a - 0.8122348431418793
+
+17) bailey_a - 0.8117990960062449
+
+18) jacques_one_a - 0.8089577910614705
+
+19) mrs_cruncher_a - 0.7727875939842345
+
+20) monsieur_gabelle_a - 0.7324118118864738
+
+21) tribunal_a - 0.5977398335260106
+
+Result for the vector: mr_carton, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9254161208372038
+
+1) mr_carton_a - 0.9254161208372038
+
+2) monsieur_defarge_a - 0.9246927544657882
+
+3) miss_manette_a - 0.9233764592703678
+
+4) mr_charles_darnay_a - 0.923276314344852
+
+5) mr_stryver_a - 0.9204229390747563
+
+6) miss_lucie_a - 0.9176105359064959
+
+7) mr_barsad_a - 0.9158653394104339
+
+8) mr_jarvis_lorry_a - 0.9114834175725742
+
+9) mr_jerry_cruncher_a - 0.9111869441048038
+
+10) miss_pross_a - 0.9071763379153399
+
+11) monseigneur_a - 0.8970123056158719
+
+12) tellson_s_bank_a - 0.887787964871415
+
+13) saint_antoine_a - 0.8842721386904691
+
+14) roger_cly_a - 0.8785797764140665
+
+15) jacques_one_a - 0.8647828343898966
+
+16) mrs_cruncher_a - 0.8623134061916644
+
+17) house_a - 0.841030983740513
+
+18) monsieur_the_marquis_a - 0.8137296660268762
+
+19) monsieur_gabelle_a - 0.7941118496323094
+
+20) bailey_a - 0.7844528473728067
+
+21) tribunal_a - 0.6024945256120575
+
+Result for the vector: saint_antoine, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8032950402288155
+
+1) saint_antoine_a - 0.8032950402288155
+
+2) tellson_s_bank_a - 0.7878583922555035
+
+3) monseigneur_a - 0.7658719420433044
+
+4) house_a - 0.742647126755291
+
+5) monsieur_defarge_a - 0.7340332707186515
+
+6) mr_charles_darnay_a - 0.728586733341217
+
+7) miss_manette_a - 0.7265470949951348
+
+8) jacques_one_a - 0.7254647180161061
+
+9) roger_cly_a - 0.7248275496014226
+
+10) miss_lucie_a - 0.723426342010498
+
+11) miss_pross_a - 0.7221507761298737
+
+12) mr_carton_a - 0.7152627110481262
+
+13) mr_stryver_a - 0.7137090435190643
+
+14) mr_jarvis_lorry_a - 0.699825644493103
+
+15) monsieur_gabelle_a - 0.6988233270365123
+
+16) mr_barsad_a - 0.6981692522218603
+
+17) mr_jerry_cruncher_a - 0.6976569294929504
+
+18) monsieur_the_marquis_a - 0.6854865550994873
+
+19) bailey_a - 0.6799505138456258
+
+20) mrs_cruncher_a - 0.6719479560852051
+
+21) tribunal_a - 0.5250608921051025
+
+Result for the vector: mr_barsad, coming from part i of the book
+Rank: 2 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8966339436144186
+
+1) miss_manette_a - 0.8997880876190754
+
+2) mr_barsad_a - 0.8966339436144186
+
+3) mr_stryver_a - 0.8907262156928667
+
+4) monsieur_defarge_a - 0.8900592196058297
+
+5) mr_carton_a - 0.8877103261774989
+
+6) mr_charles_darnay_a - 0.8815992403983632
+
+7) mr_jerry_cruncher_a - 0.8772065566305269
+
+8) mr_jarvis_lorry_a - 0.8730770869897075
+
+9) miss_lucie_a - 0.8694069307689045
+
+10) tellson_s_bank_a - 0.8645812353741524
+
+11) miss_pross_a - 0.8619544588354691
+
+12) monseigneur_a - 0.8555651817062621
+
+13) saint_antoine_a - 0.8486857576983359
+
+14) roger_cly_a - 0.8426020898761237
+
+15) mrs_cruncher_a - 0.8292505639344805
+
+16) jacques_one_a - 0.8253699541091978
+
+17) house_a - 0.8077966570854245
+
+18) monsieur_the_marquis_a - 0.7874116174824024
+
+19) bailey_a - 0.7682675857384574
+
+20) monsieur_gabelle_a - 0.7580047538275035
+
+21) tribunal_a - 0.5872871629766929
+
+Result for the vector: jacques_one, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7577089956153636
+
+1) jacques_one_a - 0.7577089956153636
+
+2) mr_barsad_a - 0.7493393197852606
+
+3) tellson_s_bank_a - 0.747515306321031
+
+4) mr_carton_a - 0.7389419830476068
+
+5) mr_stryver_a - 0.7387920086496045
+
+6) roger_cly_a - 0.7362018008172004
+
+7) monsieur_defarge_a - 0.7335986495018058
+
+8) mr_charles_darnay_a - 0.7329024831710779
+
+9) mr_jerry_cruncher_a - 0.732056931730693
+
+10) miss_pross_a - 0.7312686923857894
+
+11) monseigneur_a - 0.7309143107584543
+
+12) miss_lucie_a - 0.7280426187489869
+
+13) miss_manette_a - 0.7234247225359591
+
+14) house_a - 0.7209214900825631
+
+15) monsieur_the_marquis_a - 0.7192283440096187
+
+16) saint_antoine_a - 0.7168758893944087
+
+17) mr_jarvis_lorry_a - 0.706013697027345
+
+18) bailey_a - 0.6836355298217196
+
+19) mrs_cruncher_a - 0.667040010271073
+
+20) monsieur_gabelle_a - 0.639140095915776
+
+21) tribunal_a - 0.5216256069168096
+
+Result for the vector: monsieur_gabelle, coming from part i of the book
+Rank: 19 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7377060681090245
+
+1) monsieur_defarge_a - 0.8479864597320617
+
+2) miss_lucie_a - 0.8421604131364591
+
+3) saint_antoine_a - 0.8383700597772018
+
+4) mr_jarvis_lorry_a - 0.8377353049674463
+
+5) mr_charles_darnay_a - 0.8303989869118356
+
+6) mr_carton_a - 0.8289929134253926
+
+7) miss_manette_a - 0.8282222458918862
+
+8) mr_barsad_a - 0.8274565688533646
+
+9) mr_stryver_a - 0.8210194844919161
+
+10) miss_pross_a - 0.8188165154189156
+
+11) monseigneur_a - 0.8177038539824587
+
+12) roger_cly_a - 0.8164371008742752
+
+13) mr_jerry_cruncher_a - 0.8110146039119613
+
+14) tellson_s_bank_a - 0.8050960054821973
+
+15) jacques_one_a - 0.7981623651787799
+
+16) monsieur_the_marquis_a - 0.7882899768179683
+
+17) mrs_cruncher_a - 0.7818971406282713
+
+18) house_a - 0.7674065509549914
+
+19) monsieur_gabelle_a - 0.7377060681090245
+
+20) bailey_a - 0.7182447222033652
+
+21) tribunal_a - 0.5493671566625153
+
+Result for the vector: house, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8608334064483704
+
+1) house_a - 0.8608334064483704
+
+2) tellson_s_bank_a - 0.8197102058106669
+
+3) mr_carton_a - 0.788583266054588
+
+4) saint_antoine_a - 0.7885314335106108
+
+5) miss_manette_a - 0.7871679790516038
+
+6) monsieur_defarge_a - 0.7866708381975697
+
+7) mr_barsad_a - 0.7828235730073073
+
+8) miss_pross_a - 0.782531691638739
+
+9) mr_charles_darnay_a - 0.7803040015878692
+
+10) monseigneur_a - 0.7799998390674509
+
+11) miss_lucie_a - 0.7784659134427271
+
+12) mr_stryver_a - 0.777445776525752
+
+13) mr_jerry_cruncher_a - 0.7711705429059604
+
+14) monsieur_the_marquis_a - 0.7680383782409669
+
+15) roger_cly_a - 0.7672762364694095
+
+16) jacques_one_a - 0.7666108608245904
+
+17) bailey_a - 0.7570750262096629
+
+18) mr_jarvis_lorry_a - 0.7553319785196781
+
+19) mrs_cruncher_a - 0.7304701048415975
+
+20) monsieur_gabelle_a - 0.7277736988337605
+
+21) tribunal_a - 0.5622272826568663
+
+Result for the vector: bailey, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8667833963890856
+
+1) bailey_a - 0.8667833963890856
+
+2) house_a - 0.7372338332394474
+
+3) tellson_s_bank_a - 0.7164646129054344
+
+4) monseigneur_a - 0.6927887797355652
+
+5) mr_stryver_a - 0.6788774548288443
+
+6) mr_charles_darnay_a - 0.6783550977706909
+
+7) mr_carton_a - 0.6769302487373352
+
+8) mr_barsad_a - 0.676676114698533
+
+9) mr_jerry_cruncher_a - 0.6763743758201599
+
+10) saint_antoine_a - 0.6674111684385293
+
+11) monsieur_the_marquis_a - 0.6655981540679932
+
+12) miss_manette_a - 0.6650944751388508
+
+13) roger_cly_a - 0.6634310085603898
+
+14) miss_pross_a - 0.6626808449410432
+
+15) jacques_one_a - 0.6553871837027571
+
+16) miss_lucie_a - 0.6551035046577454
+
+17) monsieur_defarge_a - 0.654562452707438
+
+18) mr_jarvis_lorry_a - 0.638892412185669
+
+19) mrs_cruncher_a - 0.6199937462806702
+
+20) monsieur_gabelle_a - 0.590169145434661
+
+21) tribunal_a - 0.5000720620155334
+
+Result for the vector: roger_cly, coming from part i of the book
+Rank: 11 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8683772267440466
+
+1) mr_barsad_a - 0.8965136018258577
+
+2) monsieur_defarge_a - 0.8936055771834346
+
+3) mr_stryver_a - 0.8919109774642278
+
+4) miss_manette_a - 0.8911519711523216
+
+5) mr_carton_a - 0.8888046675208029
+
+6) miss_lucie_a - 0.8865055970254913
+
+7) mr_charles_darnay_a - 0.8846379449747783
+
+8) mr_jerry_cruncher_a - 0.8749731108530245
+
+9) mr_jarvis_lorry_a - 0.8745639845469004
+
+10) miss_pross_a - 0.8706620412670488
+
+11) roger_cly_a - 0.8683772267440466
+
+12) tellson_s_bank_a - 0.8641617379092272
+
+13) monseigneur_a - 0.8635932125802778
+
+14) saint_antoine_a - 0.860235171935127
+
+15) mrs_cruncher_a - 0.8358992240368872
+
+16) jacques_one_a - 0.8306537866592466
+
+17) house_a - 0.8159517645835934
+
+18) monsieur_the_marquis_a - 0.7956071374182201
+
+19) bailey_a - 0.7654072782154636
+
+20) monsieur_gabelle_a - 0.7626198813176513
+
+21) tribunal_a - 0.5979208706570202
+
+Result for the vector: mrs_cruncher, coming from part i of the book
+Rank: 18 out of 21 characters
+Cosine similarity to the co-referring vector: 0.6677366099043667
+
+1) miss_lucie_a - 0.7485846577387694
+
+2) miss_pross_a - 0.7358343601227015
+
+3) tellson_s_bank_a - 0.7339264750480861
+
+4) monsieur_defarge_a - 0.7327298044079206
+
+5) miss_manette_a - 0.7313367724418848
+
+6) mr_barsad_a - 0.7303326026100847
+
+7) mr_carton_a - 0.7263794215177851
+
+8) mr_charles_darnay_a - 0.7245812087751927
+
+9) mr_stryver_a - 0.720499470367886
+
+10) roger_cly_a - 0.7195523857403405
+
+11) monseigneur_a - 0.715907480228844
+
+12) mr_jerry_cruncher_a - 0.7146485107718173
+
+13) jacques_one_a - 0.7052971545039024
+
+14) monsieur_the_marquis_a - 0.7046097164880941
+
+15) mr_jarvis_lorry_a - 0.6948588722776071
+
+16) saint_antoine_a - 0.6912873821388782
+
+17) house_a - 0.6843924930329726
+
+18) mrs_cruncher_a - 0.6677366099043667
+
+19) monsieur_gabelle_a - 0.6407541250733347
+
+20) bailey_a - 0.6379420757293882
+
+21) tribunal_a - 0.5277861985905444
+
+Result for the vector: tribunal, coming from part i of the book
+Rank: 21 out of 21 characters
+Cosine similarity to the co-referring vector: 0.45660674830634984
+
+1) house_a - 0.7070979229095075
+
+2) tellson_s_bank_a - 0.6943736622857472
+
+3) mr_barsad_a - 0.6813920533242237
+
+4) roger_cly_a - 0.6763049758581852
+
+5) bailey_a - 0.6700977080885706
+
+6) monseigneur_a - 0.6647633513949316
+
+7) mr_carton_a - 0.6642167768349196
+
+8) monsieur_the_marquis_a - 0.6621927820329212
+
+9) mr_stryver_a - 0.6606138939214398
+
+10) miss_pross_a - 0.6585681452927341
+
+11) mr_charles_darnay_a - 0.6568145360461166
+
+12) miss_manette_a - 0.6525107051413002
+
+13) miss_lucie_a - 0.651370188512196
+
+14) saint_antoine_a - 0.6510101362761841
+
+15) monsieur_defarge_a - 0.6487511396408128
+
+16) mr_jerry_cruncher_a - 0.6482989401639151
+
+17) jacques_one_a - 0.6433630414768408
+
+18) mr_jarvis_lorry_a - 0.6241225228236613
+
+19) mrs_cruncher_a - 0.6219676958341791
+
+20) monsieur_gabelle_a - 0.581159155092445
+
+21) tribunal_a - 0.45660674830634984
+
+Result for the vector: monseigneur, coming from part i of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9318893551826477
+
+1) monseigneur_a - 0.9318893551826477
+
+2) saint_antoine_a - 0.9313587227868657
+
+3) tellson_s_bank_a - 0.9201713895593483
+
+4) mr_stryver_a - 0.9031236921435236
+
+5) mr_charles_darnay_a - 0.8991222381591797
+
+6) monsieur_defarge_a - 0.8960571823154216
+
+7) mr_jarvis_lorry_a - 0.8956733345985413
+
+8) mr_jerry_cruncher_a - 0.894163191318512
+
+9) miss_lucie_a - 0.8929238319396973
+
+10) mr_carton_a - 0.8894804120063782
+
+11) miss_manette_a - 0.8887626661345228
+
+12) miss_pross_a - 0.8886172308186081
+
+13) mr_barsad_a - 0.8744573853748261
+
+14) roger_cly_a - 0.8630956668584251
+
+15) mrs_cruncher_a - 0.862794041633606
+
+16) jacques_one_a - 0.8574677194674197
+
+17) house_a - 0.8431928847317183
+
+18) monsieur_the_marquis_a - 0.8144093751907349
+
+19) bailey_a - 0.7952302342378871
+
+20) monsieur_gabelle_a - 0.7645550791224818
+
+21) tribunal_a - 0.6005619764328003
+
+Result for the vector: mr_jarvis_lorry, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9147616726444223
+
+1) mr_jarvis_lorry_wiki - 0.9147616726444223
+
+2) mr_charles_darnay_wiki - 0.9133281656103249
+
+3) mr_carton_wiki - 0.9114834175725742
+
+4) mr_jerry_cruncher_wiki - 0.9068613592899673
+
+5) mr_stryver_wiki - 0.9011017084121704
+
+6) monseigneur_wiki - 0.8956733345985413
+
+7) miss_pross_wiki - 0.8803325486480523
+
+8) roger_cly_wiki - 0.8745639845469004
+
+9) mr_barsad_wiki - 0.8730770869897075
+
+10) monsieur_defarge_wiki - 0.8654032349586487
+
+11) miss_lucie_wiki - 0.8527989983558655
+
+12) monsieur_gabelle_wiki - 0.8377353049674463
+
+13) monsieur_the_marquis_wiki - 0.8122348431418793
+
+14) tellson_s_bank_wiki - 0.8065443634986877
+
+15) miss_manette_wiki - 0.7623487342103942
+
+16) house_wiki - 0.7553319785196781
+
+17) jacques_one_wiki - 0.706013697027345
+
+18) saint_antoine_wiki - 0.699825644493103
+
+19) mrs_cruncher_wiki - 0.6948588722776071
+
+20) bailey_wiki - 0.638892412185669
+
+21) tribunal_wiki - 0.6241225228236613
+
+Result for the vector: mr_jerry_cruncher, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9179805468309268
+
+1) mr_jerry_cruncher_wiki - 0.9179805468309268
+
+2) mr_charles_darnay_wiki - 0.9138121553547491
+
+3) mr_carton_wiki - 0.9111869441048038
+
+4) mr_stryver_wiki - 0.9078389406204224
+
+5) mr_jarvis_lorry_wiki - 0.9033052440517914
+
+6) monseigneur_wiki - 0.894163191318512
+
+7) mr_barsad_wiki - 0.8772065566305269
+
+8) roger_cly_wiki - 0.8749731108530245
+
+9) miss_pross_wiki - 0.8729849642203751
+
+10) monsieur_defarge_wiki - 0.8575141429901123
+
+11) miss_lucie_wiki - 0.8480566740036011
+
+12) tellson_s_bank_wiki - 0.8396750688552856
+
+13) monsieur_the_marquis_wiki - 0.8287054547281703
+
+14) monsieur_gabelle_wiki - 0.8110146039119613
+
+15) miss_manette_wiki - 0.7759278647878133
+
+16) house_wiki - 0.7711705429059604
+
+17) jacques_one_wiki - 0.732056931730693
+
+18) mrs_cruncher_wiki - 0.7146485107718173
+
+19) saint_antoine_wiki - 0.6976569294929504
+
+20) bailey_wiki - 0.6763743758201599
+
+21) tribunal_wiki - 0.6482989401639151
+
+Result for the vector: mr_charles_darnay, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9278938727315605
+
+1) mr_charles_darnay_wiki - 0.9278938727315605
+
+2) mr_carton_wiki - 0.923276314344852
+
+3) mr_stryver_wiki - 0.9227572679519653
+
+4) mr_jerry_cruncher_wiki - 0.9221816016543882
+
+5) mr_jarvis_lorry_wiki - 0.9198842144150544
+
+6) miss_pross_wiki - 0.9042951677109488
+
+7) monseigneur_wiki - 0.8991222381591797
+
+8) miss_lucie_wiki - 0.8858910202980042
+
+9) monsieur_defarge_wiki - 0.8853541612625122
+
+10) roger_cly_wiki - 0.8846379449747783
+
+11) mr_barsad_wiki - 0.8815992403983632
+
+12) tellson_s_bank_wiki - 0.8527265191078186
+
+13) monsieur_the_marquis_wiki - 0.8311606893289298
+
+14) monsieur_gabelle_wiki - 0.8303989869118356
+
+15) miss_manette_wiki - 0.8006021022976075
+
+16) house_wiki - 0.7803040015878692
+
+17) jacques_one_wiki - 0.7329024831710779
+
+18) saint_antoine_wiki - 0.728586733341217
+
+19) mrs_cruncher_wiki - 0.7245812087751927
+
+20) bailey_wiki - 0.6783550977706909
+
+21) tribunal_wiki - 0.6568145360461166
+
+Result for the vector: miss_pross, coming from part a of the book
+Rank: 2 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9130032982527425
+
+1) mr_charles_darnay_wiki - 0.9172456313821443
+
+2) miss_pross_wiki - 0.9130032982527425
+
+3) mr_jarvis_lorry_wiki - 0.9099467611439798
+
+4) mr_jerry_cruncher_wiki - 0.9081304128092427
+
+5) mr_carton_wiki - 0.9071763379153399
+
+6) mr_stryver_wiki - 0.9030509110628536
+
+7) miss_lucie_wiki - 0.9005775570181008
+
+8) monseigneur_wiki - 0.8886172308186081
+
+9) monsieur_defarge_wiki - 0.8839222927186203
+
+10) roger_cly_wiki - 0.8706620412670488
+
+11) mr_barsad_wiki - 0.8619544588354691
+
+12) tellson_s_bank_wiki - 0.8463838283558157
+
+13) monsieur_the_marquis_wiki - 0.8232911685146929
+
+14) monsieur_gabelle_wiki - 0.8188165154189156
+
+15) house_wiki - 0.782531691638739
+
+16) miss_manette_wiki - 0.7811571853318433
+
+17) mrs_cruncher_wiki - 0.7358343601227015
+
+18) jacques_one_wiki - 0.7312686923857894
+
+19) saint_antoine_wiki - 0.7221507761298737
+
+20) bailey_wiki - 0.6626808449410432
+
+21) tribunal_wiki - 0.6585681452927341
+
+Result for the vector: monsieur_defarge, coming from part a of the book
+Rank: 5 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9171444128241801
+
+1) mr_jarvis_lorry_wiki - 0.9259144111922882
+
+2) mr_carton_wiki - 0.9246927544657882
+
+3) mr_charles_darnay_wiki - 0.9244688659273226
+
+4) mr_jerry_cruncher_wiki - 0.920621266439112
+
+5) monsieur_defarge_wiki - 0.9171444128241801
+
+6) miss_pross_wiki - 0.9159605079830454
+
+7) mr_stryver_wiki - 0.9101905769223335
+
+8) miss_lucie_wiki - 0.9031065644685382
+
+9) monseigneur_wiki - 0.8960571823154216
+
+10) roger_cly_wiki - 0.8936055771834346
+
+11) mr_barsad_wiki - 0.8900592196058297
+
+12) tellson_s_bank_wiki - 0.8493339925607454
+
+13) monsieur_gabelle_wiki - 0.8479864597320617
+
+14) monsieur_the_marquis_wiki - 0.8349464090120565
+
+15) miss_manette_wiki - 0.8016386152778822
+
+16) house_wiki - 0.7866708381975697
+
+17) saint_antoine_wiki - 0.7340332707186515
+
+18) jacques_one_wiki - 0.7335986495018058
+
+19) mrs_cruncher_wiki - 0.7327298044079206
+
+20) bailey_wiki - 0.654562452707438
+
+21) tribunal_wiki - 0.6487511396408128
+
+Result for the vector: miss_manette, coming from part a of the book
+Rank: 12 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8480297760936912
+
+1) mr_carton_wiki - 0.9233764592703678
+
+2) mr_charles_darnay_wiki - 0.917652909895619
+
+3) mr_jarvis_lorry_wiki - 0.9052123057336078
+
+4) mr_jerry_cruncher_wiki - 0.9049904999142732
+
+5) mr_stryver_wiki - 0.9030561562709686
+
+6) monsieur_defarge_wiki - 0.8999765038518369
+
+7) mr_barsad_wiki - 0.8997880876190754
+
+8) miss_pross_wiki - 0.894877049479592
+
+9) roger_cly_wiki - 0.8911519711523216
+
+10) monseigneur_wiki - 0.8887626661345228
+
+11) miss_lucie_wiki - 0.8861492411912455
+
+12) miss_manette_wiki - 0.8480297760936912
+
+13) tellson_s_bank_wiki - 0.847202438449575
+
+14) monsieur_gabelle_wiki - 0.8282222458918862
+
+15) monsieur_the_marquis_wiki - 0.8234223583261142
+
+16) house_wiki - 0.7871679790516038
+
+17) mrs_cruncher_wiki - 0.7313367724418848
+
+18) saint_antoine_wiki - 0.7265470949951348
+
+19) jacques_one_wiki - 0.7234247225359591
+
+20) bailey_wiki - 0.6650944751388508
+
+21) tribunal_wiki - 0.6525107051413002
+
+Result for the vector: miss_lucie, coming from part a of the book
+Rank: 3 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9257460832595825
+
+1) mr_charles_darnay_wiki - 0.9273452119437003
+
+2) miss_pross_wiki - 0.9265382522229815
+
+3) miss_lucie_wiki - 0.9257460832595825
+
+4) mr_jarvis_lorry_wiki - 0.9225467535797717
+
+5) mr_jerry_cruncher_wiki - 0.9186947297271941
+
+6) mr_carton_wiki - 0.9176105359064959
+
+7) mr_stryver_wiki - 0.9096236228942871
+
+8) monsieur_defarge_wiki - 0.8945011496543884
+
+9) monseigneur_wiki - 0.8929238319396973
+
+10) roger_cly_wiki - 0.8865055970254913
+
+11) mr_barsad_wiki - 0.8694069307689045
+
+12) monsieur_gabelle_wiki - 0.8421604131364591
+
+13) tellson_s_bank_wiki - 0.8342056274414062
+
+14) monsieur_the_marquis_wiki - 0.8302349695633346
+
+15) house_wiki - 0.7784659134427271
+
+16) miss_manette_wiki - 0.7770694129785723
+
+17) mrs_cruncher_wiki - 0.7485846577387694
+
+18) jacques_one_wiki - 0.7280426187489869
+
+19) saint_antoine_wiki - 0.723426342010498
+
+20) bailey_wiki - 0.6551035046577454
+
+21) tribunal_wiki - 0.651370188512196
+
+Result for the vector: mr_stryver, coming from part a of the book
+Rank: 4 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9161393219440267
+
+1) mr_charles_darnay_wiki - 0.9209135307787311
+
+2) mr_carton_wiki - 0.9204229390747563
+
+3) mr_jerry_cruncher_wiki - 0.9203422201393743
+
+4) mr_stryver_wiki - 0.9161393219440267
+
+5) mr_jarvis_lorry_wiki - 0.9156212483531938
+
+6) monseigneur_wiki - 0.9031236921435236
+
+7) roger_cly_wiki - 0.8919109774642278
+
+8) mr_barsad_wiki - 0.8907262156928667
+
+9) miss_pross_wiki - 0.8856731380637037
+
+10) monsieur_defarge_wiki - 0.8724082816255609
+
+11) miss_lucie_wiki - 0.864864120612172
+
+12) tellson_s_bank_wiki - 0.8568053926237608
+
+13) monsieur_the_marquis_wiki - 0.835419208184345
+
+14) monsieur_gabelle_wiki - 0.8210194844919161
+
+15) miss_manette_wiki - 0.7873897172313479
+
+16) house_wiki - 0.777445776525752
+
+17) jacques_one_wiki - 0.7387920086496045
+
+18) mrs_cruncher_wiki - 0.720499470367886
+
+19) saint_antoine_wiki - 0.7137090435190643
+
+20) bailey_wiki - 0.6788774548288443
+
+21) tribunal_wiki - 0.6606138939214398
+
+Result for the vector: tellson_s_bank, coming from part a of the book
+Rank: 2 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9191864825264897
+
+1) monseigneur_wiki - 0.9201713895593483
+
+2) tellson_s_bank_wiki - 0.9191864825264897
+
+3) mr_charles_darnay_wiki - 0.9049859699615402
+
+4) mr_jarvis_lorry_wiki - 0.9013370510728237
+
+5) mr_stryver_wiki - 0.8898521197018544
+
+6) mr_jerry_cruncher_wiki - 0.8896606630289302
+
+7) mr_carton_wiki - 0.887787964871415
+
+8) miss_pross_wiki - 0.8742723800458985
+
+9) miss_lucie_wiki - 0.8728128227218663
+
+10) mr_barsad_wiki - 0.8645812353741524
+
+11) monsieur_the_marquis_wiki - 0.8641872825455211
+
+12) roger_cly_wiki - 0.8641617379092272
+
+13) monsieur_defarge_wiki - 0.861717657838153
+
+14) house_wiki - 0.8197102058106669
+
+15) monsieur_gabelle_wiki - 0.8050960054821973
+
+16) saint_antoine_wiki - 0.7878583922555035
+
+17) miss_manette_wiki - 0.7753010295062422
+
+18) jacques_one_wiki - 0.747515306321031
+
+19) mrs_cruncher_wiki - 0.7339264750480861
+
+20) bailey_wiki - 0.7164646129054344
+
+21) tribunal_wiki - 0.6943736622857472
+
+Result for the vector: monsieur_the_marquis, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9279909410473989
+
+1) monsieur_the_marquis_wiki - 0.9279909410473989
+
+2) tellson_s_bank_wiki - 0.8414835333824158
+
+3) mr_jarvis_lorry_wiki - 0.8319037160988252
+
+4) mr_charles_darnay_wiki - 0.8264738813921158
+
+5) mr_jerry_cruncher_wiki - 0.8210925949271094
+
+6) monseigneur_wiki - 0.8144093751907349
+
+7) mr_carton_wiki - 0.8137296660268762
+
+8) mr_stryver_wiki - 0.8055284023284912
+
+9) miss_pross_wiki - 0.8030243637881637
+
+10) monsieur_defarge_wiki - 0.7988348007202148
+
+11) roger_cly_wiki - 0.7956071374182201
+
+12) miss_lucie_wiki - 0.7917060256004333
+
+13) monsieur_gabelle_wiki - 0.7882899768179683
+
+14) mr_barsad_wiki - 0.7874116174824024
+
+15) house_wiki - 0.7680383782409669
+
+16) jacques_one_wiki - 0.7192283440096187
+
+17) mrs_cruncher_wiki - 0.7046097164880941
+
+18) miss_manette_wiki - 0.6994039624751798
+
+19) saint_antoine_wiki - 0.6854865550994873
+
+20) bailey_wiki - 0.6655981540679932
+
+21) tribunal_wiki - 0.6621927820329212
+
+Result for the vector: mr_carton, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9254161208372038
+
+1) mr_carton_wiki - 0.9254161208372038
+
+2) mr_charles_darnay_wiki - 0.9200575900112162
+
+3) mr_jerry_cruncher_wiki - 0.9154987880884895
+
+4) mr_stryver_wiki - 0.9092927575111389
+
+5) mr_jarvis_lorry_wiki - 0.9081572403720395
+
+6) miss_pross_wiki - 0.8904665312588129
+
+7) monseigneur_wiki - 0.8894804120063782
+
+8) roger_cly_wiki - 0.8888046675208029
+
+9) mr_barsad_wiki - 0.8877103261774989
+
+10) monsieur_defarge_wiki - 0.8862261772155762
+
+11) miss_lucie_wiki - 0.8743095993995667
+
+12) tellson_s_bank_wiki - 0.8457443714141846
+
+13) monsieur_the_marquis_wiki - 0.8374844443048375
+
+14) monsieur_gabelle_wiki - 0.8289929134253926
+
+15) miss_manette_wiki - 0.7963968156694421
+
+16) house_wiki - 0.788583266054588
+
+17) jacques_one_wiki - 0.7389419830476068
+
+18) mrs_cruncher_wiki - 0.7263794215177851
+
+19) saint_antoine_wiki - 0.7152627110481262
+
+20) bailey_wiki - 0.6769302487373352
+
+21) tribunal_wiki - 0.6642167768349196
+
+Result for the vector: saint_antoine, coming from part a of the book
+Rank: 15 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8032950402288155
+
+1) monseigneur_wiki - 0.9313587227868657
+
+2) mr_jarvis_lorry_wiki - 0.9070252561248711
+
+3) mr_charles_darnay_wiki - 0.9023146243972745
+
+4) mr_jerry_cruncher_wiki - 0.8844313220171326
+
+5) mr_carton_wiki - 0.8842721386904691
+
+6) monsieur_defarge_wiki - 0.8720875642325752
+
+7) mr_stryver_wiki - 0.8715114853236525
+
+8) miss_pross_wiki - 0.8623904421794957
+
+9) roger_cly_wiki - 0.860235171935127
+
+10) mr_barsad_wiki - 0.8486857576983359
+
+11) miss_lucie_wiki - 0.8435284746744778
+
+12) monsieur_gabelle_wiki - 0.8383700597772018
+
+13) tellson_s_bank_wiki - 0.8345757971577588
+
+14) monsieur_the_marquis_wiki - 0.8331472178189289
+
+15) saint_antoine_wiki - 0.8032950402288155
+
+16) house_wiki - 0.7885314335106108
+
+17) miss_manette_wiki - 0.7336653312245208
+
+18) jacques_one_wiki - 0.7168758893944087
+
+19) mrs_cruncher_wiki - 0.6912873821388782
+
+20) bailey_wiki - 0.6674111684385293
+
+21) tribunal_wiki - 0.6510101362761841
+
+Result for the vector: mr_barsad, coming from part a of the book
+Rank: 5 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8966339436144186
+
+1) mr_charles_darnay_wiki - 0.9162860139864104
+
+2) mr_carton_wiki - 0.9158653394104339
+
+3) mr_jerry_cruncher_wiki - 0.9096518376158335
+
+4) mr_jarvis_lorry_wiki - 0.9086293957862899
+
+5) mr_barsad_wiki - 0.8966339436144186
+
+6) roger_cly_wiki - 0.8965136018258577
+
+7) mr_stryver_wiki - 0.895416584474343
+
+8) miss_pross_wiki - 0.8886705504263119
+
+9) monsieur_defarge_wiki - 0.879024174184328
+
+10) monseigneur_wiki - 0.8744573853748261
+
+11) miss_lucie_wiki - 0.8729396126550324
+
+12) tellson_s_bank_wiki - 0.846080566825884
+
+13) monsieur_the_marquis_wiki - 0.8314131993897677
+
+14) monsieur_gabelle_wiki - 0.8274565688533646
+
+15) house_wiki - 0.7828235730073073
+
+16) miss_manette_wiki - 0.7752640113391883
+
+17) jacques_one_wiki - 0.7493393197852606
+
+18) mrs_cruncher_wiki - 0.7303326026100847
+
+19) saint_antoine_wiki - 0.6981692522218603
+
+20) tribunal_wiki - 0.6813920533242237
+
+21) bailey_wiki - 0.676676114698533
+
+Result for the vector: jacques_one, coming from part a of the book
+Rank: 16 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7577089956153636
+
+1) mr_charles_darnay_wiki - 0.8698803186416688
+
+2) mr_jarvis_lorry_wiki - 0.8687637682979537
+
+3) mr_jerry_cruncher_wiki - 0.8657273054122986
+
+4) mr_carton_wiki - 0.8647828343898966
+
+5) mr_stryver_wiki - 0.8643382272518753
+
+6) monseigneur_wiki - 0.8574677194674197
+
+7) miss_pross_wiki - 0.8526784435712922
+
+8) monsieur_defarge_wiki - 0.8452423307155189
+
+9) miss_lucie_wiki - 0.8429873083241413
+
+10) roger_cly_wiki - 0.8306537866592466
+
+11) tellson_s_bank_wiki - 0.8275100095564136
+
+12) mr_barsad_wiki - 0.8253699541091978
+
+13) monsieur_the_marquis_wiki - 0.8089577910614705
+
+14) monsieur_gabelle_wiki - 0.7981623651787799
+
+15) house_wiki - 0.7666108608245904
+
+16) jacques_one_wiki - 0.7577089956153636
+
+17) miss_manette_wiki - 0.7540887965533526
+
+18) saint_antoine_wiki - 0.7254647180161061
+
+19) mrs_cruncher_wiki - 0.7052971545039024
+
+20) bailey_wiki - 0.6553871837027571
+
+21) tribunal_wiki - 0.6433630414768408
+
+Result for the vector: monsieur_gabelle, coming from part a of the book
+Rank: 13 out of 21 characters
+Cosine similarity to the co-referring vector: 0.7377060681090245
+
+1) monsieur_defarge_wiki - 0.798867917263297
+
+2) mr_carton_wiki - 0.7941118496323094
+
+3) mr_charles_darnay_wiki - 0.7923949012285814
+
+4) mr_stryver_wiki - 0.7907724158574918
+
+5) miss_pross_wiki - 0.7812802093076799
+
+6) mr_jarvis_lorry_wiki - 0.7792703571109914
+
+7) mr_jerry_cruncher_wiki - 0.7755669622937706
+
+8) miss_lucie_wiki - 0.7729174900798641
+
+9) monseigneur_wiki - 0.7645550791224818
+
+10) roger_cly_wiki - 0.7626198813176513
+
+11) mr_barsad_wiki - 0.7580047538275035
+
+12) tellson_s_bank_wiki - 0.7478685233828205
+
+13) monsieur_gabelle_wiki - 0.7377060681090245
+
+14) monsieur_the_marquis_wiki - 0.7324118118864738
+
+15) house_wiki - 0.7277736988337605
+
+16) miss_manette_wiki - 0.7275695312664769
+
+17) saint_antoine_wiki - 0.6988233270365123
+
+18) mrs_cruncher_wiki - 0.6407541250733347
+
+19) jacques_one_wiki - 0.639140095915776
+
+20) bailey_wiki - 0.590169145434661
+
+21) tribunal_wiki - 0.581159155092445
+
+Result for the vector: house, coming from part a of the book
+Rank: 2 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8608334064483704
+
+1) tellson_s_bank_wiki - 0.8774806930136283
+
+2) house_wiki - 0.8608334064483704
+
+3) monsieur_the_marquis_wiki - 0.8545117123570563
+
+4) mr_charles_darnay_wiki - 0.8513258099556029
+
+5) monseigneur_wiki - 0.8431928847317183
+
+6) mr_jarvis_lorry_wiki - 0.8429948372254081
+
+7) mr_carton_wiki - 0.841030983740513
+
+8) mr_jerry_cruncher_wiki - 0.8400526642799437
+
+9) mr_stryver_wiki - 0.8350685337145025
+
+10) miss_pross_wiki - 0.8281131037507478
+
+11) miss_lucie_wiki - 0.8268119199984136
+
+12) monsieur_defarge_wiki - 0.8249690040964497
+
+13) roger_cly_wiki - 0.8159517645835934
+
+14) mr_barsad_wiki - 0.8077966570854245
+
+15) monsieur_gabelle_wiki - 0.7674065509549914
+
+16) saint_antoine_wiki - 0.742647126755291
+
+17) miss_manette_wiki - 0.73739824481612
+
+18) bailey_wiki - 0.7372338332394474
+
+19) jacques_one_wiki - 0.7209214900825631
+
+20) tribunal_wiki - 0.7070979229095075
+
+21) mrs_cruncher_wiki - 0.6843924930329726
+
+Result for the vector: bailey, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8667833963890856
+
+1) bailey_wiki - 0.8667833963890856
+
+2) tellson_s_bank_wiki - 0.8134826644083719
+
+3) monsieur_the_marquis_wiki - 0.8117990960062449
+
+4) mr_jerry_cruncher_wiki - 0.8002751588657532
+
+5) mr_charles_darnay_wiki - 0.7980886222071404
+
+6) monseigneur_wiki - 0.7952302342378871
+
+7) mr_jarvis_lorry_wiki - 0.7930007474420673
+
+8) mr_stryver_wiki - 0.7897236001821097
+
+9) mr_carton_wiki - 0.7844528473728067
+
+10) miss_pross_wiki - 0.7688705095985547
+
+11) mr_barsad_wiki - 0.7682675857384574
+
+12) roger_cly_wiki - 0.7654072782154636
+
+13) miss_lucie_wiki - 0.7634600086855933
+
+14) monsieur_defarge_wiki - 0.7609443353480947
+
+15) house_wiki - 0.7570750262096629
+
+16) monsieur_gabelle_wiki - 0.7182447222033652
+
+17) miss_manette_wiki - 0.6868601423329064
+
+18) jacques_one_wiki - 0.6836355298217196
+
+19) saint_antoine_wiki - 0.6799505138456258
+
+20) tribunal_wiki - 0.6700977080885706
+
+21) mrs_cruncher_wiki - 0.6379420757293882
+
+Result for the vector: roger_cly, coming from part a of the book
+Rank: 7 out of 21 characters
+Cosine similarity to the co-referring vector: 0.8683772267440466
+
+1) mr_charles_darnay_wiki - 0.8972289768364115
+
+2) mr_stryver_wiki - 0.8826309109518208
+
+3) mr_jerry_cruncher_wiki - 0.8824387981687906
+
+4) mr_jarvis_lorry_wiki - 0.8796002674460269
+
+5) mr_carton_wiki - 0.8785797764140665
+
+6) miss_pross_wiki - 0.8768571468421411
+
+7) roger_cly_wiki - 0.8683772267440466
+
+8) monseigneur_wiki - 0.8630956668584251
+
+9) monsieur_defarge_wiki - 0.860615100282881
+
+10) miss_lucie_wiki - 0.8529452339692487
+
+11) mr_barsad_wiki - 0.8426020898761237
+
+12) monsieur_the_marquis_wiki - 0.8329073687140566
+
+13) tellson_s_bank_wiki - 0.8324586997168872
+
+14) monsieur_gabelle_wiki - 0.8164371008742752
+
+15) house_wiki - 0.7672762364694095
+
+16) miss_manette_wiki - 0.7601119732923491
+
+17) jacques_one_wiki - 0.7362018008172004
+
+18) saint_antoine_wiki - 0.7248275496014226
+
+19) mrs_cruncher_wiki - 0.7195523857403405
+
+20) tribunal_wiki - 0.6763049758581852
+
+21) bailey_wiki - 0.6634310085603898
+
+Result for the vector: mrs_cruncher, coming from part a of the book
+Rank: 18 out of 21 characters
+Cosine similarity to the co-referring vector: 0.6677366099043667
+
+1) miss_pross_wiki - 0.8880422909297643
+
+2) mr_charles_darnay_wiki - 0.8847851088515004
+
+3) mr_jarvis_lorry_wiki - 0.874995425344065
+
+4) miss_lucie_wiki - 0.8747438192367554
+
+5) mr_stryver_wiki - 0.8695144057273865
+
+6) mr_jerry_cruncher_wiki - 0.8659983197449652
+
+7) monseigneur_wiki - 0.862794041633606
+
+8) mr_carton_wiki - 0.8623134061916644
+
+9) roger_cly_wiki - 0.8358992240368872
+
+10) monsieur_defarge_wiki - 0.8356519937515259
+
+11) mr_barsad_wiki - 0.8292505639344805
+
+12) tellson_s_bank_wiki - 0.7863131761550903
+
+13) monsieur_gabelle_wiki - 0.7818971406282713
+
+14) monsieur_the_marquis_wiki - 0.7727875939842345
+
+15) house_wiki - 0.7304701048415975
+
+16) miss_manette_wiki - 0.7156135057095742
+
+17) saint_antoine_wiki - 0.6719479560852051
+
+18) mrs_cruncher_wiki - 0.6677366099043667
+
+19) jacques_one_wiki - 0.667040010271073
+
+20) tribunal_wiki - 0.6219676958341791
+
+21) bailey_wiki - 0.6199937462806702
+
+Result for the vector: tribunal, coming from part a of the book
+Rank: 21 out of 21 characters
+Cosine similarity to the co-referring vector: 0.45660674830634984
+
+1) mr_jarvis_lorry_wiki - 0.6128644212646026
+
+2) mr_charles_darnay_wiki - 0.6120581395660732
+
+3) tellson_s_bank_wiki - 0.6106357574462891
+
+4) mr_jerry_cruncher_wiki - 0.609690285306591
+
+5) mr_carton_wiki - 0.6024945256120575
+
+6) monseigneur_wiki - 0.6005619764328003
+
+7) mr_stryver_wiki - 0.5994781851768494
+
+8) roger_cly_wiki - 0.5979208706570202
+
+9) monsieur_the_marquis_wiki - 0.5977398335260106
+
+10) miss_pross_wiki - 0.5883209039259789
+
+11) mr_barsad_wiki - 0.5872871629766929
+
+12) miss_lucie_wiki - 0.585841178894043
+
+13) monsieur_defarge_wiki - 0.5781486630439758
+
+14) house_wiki - 0.5622272826568663
+
+15) miss_manette_wiki - 0.5549625919748128
+
+16) monsieur_gabelle_wiki - 0.5493671566625153
+
+17) mrs_cruncher_wiki - 0.5277861985905444
+
+18) saint_antoine_wiki - 0.5250608921051025
+
+19) jacques_one_wiki - 0.5216256069168096
+
+20) bailey_wiki - 0.5000720620155334
+
+21) tribunal_wiki - 0.45660674830634984
+
+Result for the vector: monseigneur, coming from part a of the book
+Rank: 1 out of 21 characters
+Cosine similarity to the co-referring vector: 0.9318893551826477
+
+1) monseigneur_wiki - 0.9318893551826477
+
+2) mr_charles_darnay_wiki - 0.9119229264213415
+
+3) mr_jarvis_lorry_wiki - 0.904153596859748
+
+4) mr_jerry_cruncher_wiki - 0.9021769703732131
+
+5) mr_carton_wiki - 0.8970123056158719
+
+6) mr_stryver_wiki - 0.8965609073638916
+
+7) miss_pross_wiki - 0.8712681714834163
+
+8) monsieur_defarge_wiki - 0.870302677154541
+
+9) roger_cly_wiki - 0.8635932125802778
+
+10) tellson_s_bank_wiki - 0.8607404232025146
+
+11) mr_barsad_wiki - 0.8555651817062621
+
+12) miss_lucie_wiki - 0.8466783761978149
+
+13) monsieur_the_marquis_wiki - 0.8330986748069134
+
+14) monsieur_gabelle_wiki - 0.8177038539824587
+
+15) house_wiki - 0.7799998390674509
+
+16) miss_manette_wiki - 0.7774982684105122
+
+17) saint_antoine_wiki - 0.7658719420433044
+
+18) jacques_one_wiki - 0.7309143107584543
+
+19) mrs_cruncher_wiki - 0.715907480228844
+
+20) bailey_wiki - 0.6927887797355652
+
+21) tribunal_wiki - 0.6647633513949316
+

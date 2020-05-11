@@ -1,0 +1,396 @@
+Result for the vector: night, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9752096228364002
+
+1) night_b - 0.9752096228364002
+
+2) time_b - 0.9088297431963546
+
+3) hour_b - 0.8910866975784302
+
+4) word_b - 0.8871845141429351
+
+5) light_b - 0.8796536326408386
+
+6) hand_b - 0.832789828347555
+
+7) eye_b - 0.8285084017666702
+
+8) head_b - 0.7622908212119844
+
+9) line_b - 0.7503623515151543
+
+Result for the vector: hand, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9677955162220476
+
+1) hand_b - 0.9677955162220476
+
+2) eye_b - 0.911626924470298
+
+3) head_b - 0.8764740342608149
+
+4) word_b - 0.8687056044130036
+
+5) night_b - 0.8624756768316852
+
+6) time_b - 0.850241966581638
+
+7) light_b - 0.8378821764483046
+
+8) hour_b - 0.7742228604158368
+
+9) line_b - 0.7313644507934071
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9629455186692206
+
+1) time_b - 0.9629455186692206
+
+2) night_b - 0.9231850183959315
+
+3) hour_b - 0.8965135216712952
+
+4) word_b - 0.8726654800575462
+
+5) light_b - 0.8496630191802979
+
+6) hand_b - 0.8320466179875519
+
+7) eye_b - 0.8194627410013304
+
+8) head_b - 0.759080574457681
+
+9) line_b - 0.706167894234188
+
+Result for the vector: eye, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9728083884246701
+
+1) eye_b - 0.9728083884246701
+
+2) head_b - 0.9046062713392105
+
+3) hand_b - 0.9025232079652796
+
+4) word_b - 0.8615830027113693
+
+5) light_b - 0.8391944074150581
+
+6) night_b - 0.823418988891154
+
+7) time_b - 0.8099977743622988
+
+8) hour_b - 0.7624129511364087
+
+9) line_b - 0.6807513833046008
+
+Result for the vector: head, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9697198849749514
+
+1) head_b - 0.9697198849749514
+
+2) eye_b - 0.9138363872121692
+
+3) hand_b - 0.8926033313634013
+
+4) word_b - 0.7732016118524592
+
+5) night_b - 0.7676618327993704
+
+6) light_b - 0.7671924829483032
+
+7) time_b - 0.7490423172141516
+
+8) hour_b - 0.7005990743637085
+
+9) line_b - 0.6120293967706335
+
+Result for the vector: word, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9381865969562672
+
+1) word_b - 0.9381865969562672
+
+2) time_b - 0.8977725505828921
+
+3) night_b - 0.8840976093978438
+
+4) eye_b - 0.8799360132236512
+
+5) hand_b - 0.873835086822516
+
+6) light_b - 0.8327072958524662
+
+7) hour_b - 0.8263657196542207
+
+8) head_b - 0.8092863559722958
+
+9) line_b - 0.7284957494144738
+
+Result for the vector: light, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.921957914712555
+
+1) light_b - 0.921957914712555
+
+2) word_b - 0.8875391088356197
+
+3) night_b - 0.8582120878037223
+
+4) eye_b - 0.8538583262605008
+
+5) hand_b - 0.8390003442764342
+
+6) time_b - 0.8226709365844785
+
+7) head_b - 0.7811182737350519
+
+8) hour_b - 0.7810908090418108
+
+9) line_b - 0.7308157407265019
+
+Result for the vector: hour, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9212971925735474
+
+1) hour_b - 0.9212971925735474
+
+2) time_b - 0.8580861603072992
+
+3) night_b - 0.8559386985283706
+
+4) word_b - 0.8038944835788684
+
+5) light_b - 0.7980512380599976
+
+6) hand_b - 0.7515897006743981
+
+7) eye_b - 0.750990889996019
+
+8) head_b - 0.6940928515251202
+
+9) line_b - 0.6486264080627925
+
+Result for the vector: line, coming from part a of the book
+Rank: 7 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7983993053913355
+
+1) light_b - 0.8466207041329359
+
+2) word_b - 0.8420678816377124
+
+3) night_b - 0.8381134771176265
+
+4) hand_b - 0.8107849488364118
+
+5) eye_b - 0.8082857017687382
+
+6) time_b - 0.8072196370857633
+
+7) line_b - 0.7983993053913355
+
+8) hour_b - 0.7875158425425247
+
+9) head_b - 0.7486699892881507
+
+Result for the vector: night, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9752096228364002
+
+1) night_a - 0.9752096228364002
+
+2) time_a - 0.9231850183959315
+
+3) word_a - 0.8840976093978438
+
+4) hand_a - 0.8624756768316852
+
+5) light_a - 0.8582120878037223
+
+6) hour_a - 0.8559386985283706
+
+7) line_a - 0.8381134771176265
+
+8) eye_a - 0.823418988891154
+
+9) head_a - 0.7676618327993704
+
+Result for the vector: hand, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9677955162220476
+
+1) hand_a - 0.9677955162220476
+
+2) eye_a - 0.9025232079652796
+
+3) head_a - 0.8926033313634013
+
+4) word_a - 0.873835086822516
+
+5) light_a - 0.8390003442764342
+
+6) night_a - 0.832789828347555
+
+7) time_a - 0.8320466179875519
+
+8) line_a - 0.8107849488364118
+
+9) hour_a - 0.7515897006743981
+
+Result for the vector: time, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9629455186692206
+
+1) time_a - 0.9629455186692206
+
+2) night_a - 0.9088297431963546
+
+3) word_a - 0.8977725505828921
+
+4) hour_a - 0.8580861603072992
+
+5) hand_a - 0.850241966581638
+
+6) light_a - 0.8226709365844785
+
+7) eye_a - 0.8099977743622988
+
+8) line_a - 0.8072196370857633
+
+9) head_a - 0.7490423172141516
+
+Result for the vector: eye, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9728083884246701
+
+1) eye_a - 0.9728083884246701
+
+2) head_a - 0.9138363872121692
+
+3) hand_a - 0.911626924470298
+
+4) word_a - 0.8799360132236512
+
+5) light_a - 0.8538583262605008
+
+6) night_a - 0.8285084017666702
+
+7) time_a - 0.8194627410013304
+
+8) line_a - 0.8082857017687382
+
+9) hour_a - 0.750990889996019
+
+Result for the vector: head, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9697198849749514
+
+1) head_a - 0.9697198849749514
+
+2) eye_a - 0.9046062713392105
+
+3) hand_a - 0.8764740342608149
+
+4) word_a - 0.8092863559722958
+
+5) light_a - 0.7811182737350519
+
+6) night_a - 0.7622908212119844
+
+7) time_a - 0.759080574457681
+
+8) line_a - 0.7486699892881507
+
+9) hour_a - 0.6940928515251202
+
+Result for the vector: word, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9381865969562672
+
+1) word_a - 0.9381865969562672
+
+2) light_a - 0.8875391088356197
+
+3) night_a - 0.8871845141429351
+
+4) time_a - 0.8726654800575462
+
+5) hand_a - 0.8687056044130036
+
+6) eye_a - 0.8615830027113693
+
+7) line_a - 0.8420678816377124
+
+8) hour_a - 0.8038944835788684
+
+9) head_a - 0.7732016118524592
+
+Result for the vector: light, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.921957914712555
+
+1) light_a - 0.921957914712555
+
+2) night_a - 0.8796536326408386
+
+3) time_a - 0.8496630191802979
+
+4) line_a - 0.8466207041329359
+
+5) eye_a - 0.8391944074150581
+
+6) hand_a - 0.8378821764483046
+
+7) word_a - 0.8327072958524662
+
+8) hour_a - 0.7980512380599976
+
+9) head_a - 0.7671924829483032
+
+Result for the vector: hour, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9212971925735474
+
+1) hour_a - 0.9212971925735474
+
+2) time_a - 0.8965135216712952
+
+3) night_a - 0.8910866975784302
+
+4) word_a - 0.8263657196542207
+
+5) line_a - 0.7875158425425247
+
+6) light_a - 0.7810908090418108
+
+7) hand_a - 0.7742228604158368
+
+8) eye_a - 0.7624129511364087
+
+9) head_a - 0.7005990743637085
+
+Result for the vector: line, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7983993053913355
+
+1) line_a - 0.7983993053913355
+
+2) night_a - 0.7503623515151543
+
+3) hand_a - 0.7313644507934071
+
+4) light_a - 0.7308157407265019
+
+5) word_a - 0.7284957494144738
+
+6) time_a - 0.706167894234188
+
+7) eye_a - 0.6807513833046008
+
+8) hour_a - 0.6486264080627925
+
+9) head_a - 0.6120293967706335
+

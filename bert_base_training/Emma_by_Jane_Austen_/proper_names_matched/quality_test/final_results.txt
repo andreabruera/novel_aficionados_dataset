@@ -1,0 +1,9 @@
+Test: quality test
+Results for: Emma_by_Jane_Austen_
+Model used: proper names matched
+
+Within-novel median: 3.0
+Within-novel average: 6.183333333333334
+Within-novel MRR: 0.5028761813129663
+Within-novel standard deviation of the scores: 7.331420204995906
+Amount of entities considered: 30.0

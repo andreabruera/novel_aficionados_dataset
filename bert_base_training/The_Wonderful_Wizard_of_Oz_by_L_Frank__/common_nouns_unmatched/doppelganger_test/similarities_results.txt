@@ -1,0 +1,252 @@
+Result for the vector: girl, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9862668530622966
+
+1) girl_b - 0.9862668530622966
+
+2) man_b - 0.9610192775726318
+
+3) head_b - 0.8618835210800171
+
+4) tree_b - 0.8545357758360237
+
+5) heart_b - 0.8532627987798604
+
+6) country_b - 0.8447660988848151
+
+7) time_b - 0.8417336533387181
+
+Result for the vector: head, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9744883454878678
+
+1) head_b - 0.9744883454878678
+
+2) heart_b - 0.8959981613155892
+
+3) country_b - 0.8591836434846217
+
+4) man_b - 0.8458776038179673
+
+5) girl_b - 0.839150165344788
+
+6) tree_b - 0.8327523817792006
+
+7) time_b - 0.8237995259821735
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9703157526442875
+
+1) man_b - 0.9703157526442875
+
+2) girl_b - 0.9600092792505609
+
+3) head_b - 0.8889016442836327
+
+4) tree_b - 0.8670890410489555
+
+5) heart_b - 0.8652198411851889
+
+6) time_b - 0.848021337507897
+
+7) country_b - 0.8459620567582947
+
+Result for the vector: heart, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9658766676746913
+
+1) heart_b - 0.9658766676746913
+
+2) head_b - 0.9110167675604379
+
+3) man_b - 0.8605225765393644
+
+4) time_b - 0.8522115614035929
+
+5) country_b - 0.8496992260755507
+
+6) girl_b - 0.837606757115111
+
+7) tree_b - 0.7990634800678243
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9528458174650954
+
+1) time_b - 0.9528458174650954
+
+2) country_b - 0.8200054383271468
+
+3) head_b - 0.8101766705513
+
+4) heart_b - 0.8015757323720248
+
+5) man_b - 0.7983527183532715
+
+6) girl_b - 0.7870896116388363
+
+7) tree_b - 0.7833079357972277
+
+Result for the vector: tree, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9615836189289616
+
+1) tree_b - 0.9615836189289616
+
+2) country_b - 0.8820753238111411
+
+3) head_b - 0.8385173678398132
+
+4) girl_b - 0.8245229334207911
+
+5) man_b - 0.8160396218299866
+
+6) time_b - 0.8098682391800652
+
+7) heart_b - 0.7820090754636326
+
+Result for the vector: country, coming from part a of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9485799104821887
+
+1) country_b - 0.9485799104821887
+
+2) tree_b - 0.8441873285658895
+
+3) time_b - 0.8395035958586115
+
+4) head_b - 0.8306212324274336
+
+5) heart_b - 0.8255704679445133
+
+6) man_b - 0.8233846320739184
+
+7) girl_b - 0.8158708920555906
+
+Result for the vector: girl, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9862668530622966
+
+1) girl_a - 0.9862668530622966
+
+2) man_a - 0.9600092792505609
+
+3) head_a - 0.839150165344788
+
+4) heart_a - 0.837606757115111
+
+5) tree_a - 0.8245229334207911
+
+6) country_a - 0.8158708920555906
+
+7) time_a - 0.7870896116388363
+
+Result for the vector: head, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9744883454878678
+
+1) head_a - 0.9744883454878678
+
+2) heart_a - 0.9110167675604379
+
+3) man_a - 0.8889016442836327
+
+4) girl_a - 0.8618835210800171
+
+5) tree_a - 0.8385173678398132
+
+6) country_a - 0.8306212324274336
+
+7) time_a - 0.8101766705513
+
+Result for the vector: man, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9703157526442875
+
+1) man_a - 0.9703157526442875
+
+2) girl_a - 0.9610192775726318
+
+3) heart_a - 0.8605225765393644
+
+4) head_a - 0.8458776038179673
+
+5) country_a - 0.8233846320739184
+
+6) tree_a - 0.8160396218299866
+
+7) time_a - 0.7983527183532715
+
+Result for the vector: heart, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9658766676746913
+
+1) heart_a - 0.9658766676746913
+
+2) head_a - 0.8959981613155892
+
+3) man_a - 0.8652198411851889
+
+4) girl_a - 0.8532627987798604
+
+5) country_a - 0.8255704679445133
+
+6) time_a - 0.8015757323720248
+
+7) tree_a - 0.7820090754636326
+
+Result for the vector: time, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9528458174650954
+
+1) time_a - 0.9528458174650954
+
+2) heart_a - 0.8522115614035929
+
+3) man_a - 0.848021337507897
+
+4) girl_a - 0.8417336533387181
+
+5) country_a - 0.8395035958586115
+
+6) head_a - 0.8237995259821735
+
+7) tree_a - 0.8098682391800652
+
+Result for the vector: tree, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9615836189289616
+
+1) tree_a - 0.9615836189289616
+
+2) man_a - 0.8670890410489555
+
+3) girl_a - 0.8545357758360237
+
+4) country_a - 0.8441873285658895
+
+5) head_a - 0.8327523817792006
+
+6) heart_a - 0.7990634800678243
+
+7) time_a - 0.7833079357972277
+
+Result for the vector: country, coming from part b of the book
+Rank: 1 out of 7 characters
+Cosine similarity to the co-referring vector: 0.9485799104821887
+
+1) country_a - 0.9485799104821887
+
+2) tree_a - 0.8820753238111411
+
+3) head_a - 0.8591836434846217
+
+4) heart_a - 0.8496992260755507
+
+5) man_a - 0.8459620567582947
+
+6) girl_a - 0.8447660988848151
+
+7) time_a - 0.8200054383271468
+

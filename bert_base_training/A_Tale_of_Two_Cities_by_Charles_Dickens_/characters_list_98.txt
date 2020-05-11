@@ -1,0 +1,66 @@
+321	Mr. Jarvis Lorry_Jarvis Lorry_Mr. Jarvis_Mr. Lorry_Jarvis
+198	Mr. Jerry Cruncher_Jerry Cruncher_Mr. Cruncher_Jerry
+182	Mr. Charles Darnay_Charles Darnay_Mr. Charles_Mr. Darnay_Charles_Darnay
+161	Miss Pross_Pross
+150	Monsieur Defarge_Monsieur_Defarge
+142	Miss Manette_Manette
+121	Miss Lucie_Lucie
+98	Mr. Stryver_Stryver
+94	Tellson 's Bank_Tellson_Bank
+81	Madame Defarge
+60	Monsieur the Marquis_Monsieur_Marquis
+53	Mr. Carton_Carton
+46	Saint Antoine_Antoine
+34	Mr. Barsad_Barsad
+33	Jacques One_Jacques
+25	Monsieur Gabelle_Gabelle
+25	Jacques Three
+24	House
+17	Foulon
+16	Marquis St. Evremonde_Evremonde
+16	Bailey
+14	Roger Cly_Cly
+14	La Force
+13	Mrs. Cruncher
+12	Temple Bar_Temple
+12	Tribunal
+11	Monseigneur
+10	Young Jerry
+8	Sydney Carton
+7	Gaspard
+7	Charles Evremonde
+7	Beauvais
+7	John Barsad_Barsad_John
+7	Monsieur Manette
+6	Lucie Manette
+6	Alexandre Manette
+6	George Washington_George
+6	Joe
+5	Mr. Attorney-General
+4	Cross
+4	Yaha
+4	Tom
+4	King
+4	Court
+4	Brutus
+4	Samson
+3	North
+3	State
+3	Newgate
+3	Lewis
+3	Ernest Defarge
+2	National Palace
+2	Jacques Two
+2	Woodman
+2	Lucifer
+2	Mr. Crunches
+2	Bastille
+2	Army
+2	Time
+2	XIV
+2	Monsieur Charles
+2	VIII
+2	Hill
+2	Law
+2	Therese Defarge
+2	La Guillotine

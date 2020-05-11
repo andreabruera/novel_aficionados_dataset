@@ -1,0 +1,140 @@
+Result for the vector: night, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.7055524167089227
+
+1) night_a - 0.7055524167089227
+
+2) time_a - 0.6991812228180485
+
+3) house_a - 0.6965334830602111
+
+4) hand_a - 0.6953411102294922
+
+5) face_a - 0.6195782423019409
+
+Result for the vector: hand, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.7378683530013784
+
+1) hand_a - 0.7378683530013784
+
+2) face_a - 0.7325967986939442
+
+3) time_a - 0.7206980682667629
+
+4) night_a - 0.7135205864906362
+
+5) house_a - 0.6931153170007845
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.6687004171252795
+
+1) time_a - 0.6687004171252795
+
+2) night_a - 0.6512568204845904
+
+3) house_a - 0.6145489582150564
+
+4) face_a - 0.6021361947059631
+
+5) hand_a - 0.5992018580436707
+
+Result for the vector: house, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8731169180204461
+
+1) house_a - 0.8731169180204461
+
+2) night_a - 0.8245080427215038
+
+3) time_a - 0.8131214380264513
+
+4) hand_a - 0.7665062229029921
+
+5) face_a - 0.7523998317241922
+
+Result for the vector: face, coming from part i of the book
+Rank: 4 out of 5 characters
+Cosine similarity to the co-referring vector: 0.7155137827686213
+
+1) house_a - 0.7321933507919364
+
+2) night_a - 0.7282685961403136
+
+3) hand_a - 0.7209037708697469
+
+4) face_a - 0.7155137827686213
+
+5) time_a - 0.7129238076760768
+
+Result for the vector: night, coming from part a of the book
+Rank: 4 out of 5 characters
+Cosine similarity to the co-referring vector: 0.7055524167089227
+
+1) house_wiki - 0.8245080427215038
+
+2) face_wiki - 0.7282685961403136
+
+3) hand_wiki - 0.7135205864906362
+
+4) night_wiki - 0.7055524167089227
+
+5) time_wiki - 0.6512568204845904
+
+Result for the vector: hand, coming from part a of the book
+Rank: 2 out of 5 characters
+Cosine similarity to the co-referring vector: 0.7378683530013784
+
+1) house_wiki - 0.7665062229029921
+
+2) hand_wiki - 0.7378683530013784
+
+3) face_wiki - 0.7209037708697469
+
+4) night_wiki - 0.6953411102294922
+
+5) time_wiki - 0.5992018580436707
+
+Result for the vector: time, coming from part a of the book
+Rank: 5 out of 5 characters
+Cosine similarity to the co-referring vector: 0.6687004171252795
+
+1) house_wiki - 0.8131214380264513
+
+2) hand_wiki - 0.7206980682667629
+
+3) face_wiki - 0.7129238076760768
+
+4) night_wiki - 0.6991812228180485
+
+5) time_wiki - 0.6687004171252795
+
+Result for the vector: house, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8731169180204461
+
+1) house_wiki - 0.8731169180204461
+
+2) face_wiki - 0.7321933507919364
+
+3) night_wiki - 0.6965334830602111
+
+4) hand_wiki - 0.6931153170007845
+
+5) time_wiki - 0.6145489582150564
+
+Result for the vector: face, coming from part a of the book
+Rank: 3 out of 5 characters
+Cosine similarity to the co-referring vector: 0.7155137827686213
+
+1) house_wiki - 0.7523998317241922
+
+2) hand_wiki - 0.7325967986939442
+
+3) face_wiki - 0.7155137827686213
+
+4) night_wiki - 0.6195782423019409
+
+5) time_wiki - 0.6021361947059631
+

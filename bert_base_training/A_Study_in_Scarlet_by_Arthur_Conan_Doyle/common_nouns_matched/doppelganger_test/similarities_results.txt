@@ -1,0 +1,320 @@
+Result for the vector: hand, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9603230333520807
+
+1) hand_b - 0.9603230333520807
+
+2) heart_b - 0.9041585383320742
+
+3) life_b - 0.8704656516950607
+
+4) word_b - 0.8549059802405918
+
+5) house_b - 0.823357476892249
+
+6) thing_b - 0.8078789229465188
+
+7) night_b - 0.7872985601425171
+
+8) matter_b - 0.7850294837338054
+
+Result for the vector: house, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9806893760171456
+
+1) house_b - 0.9806893760171456
+
+2) night_b - 0.8686004359364266
+
+3) life_b - 0.8627230770487067
+
+4) thing_b - 0.8520292220080826
+
+5) heart_b - 0.8498336255748719
+
+6) word_b - 0.8370701365941533
+
+7) matter_b - 0.8188232995482326
+
+8) hand_b - 0.8078999519348202
+
+Result for the vector: night, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9458308501789231
+
+1) night_b - 0.9458308501789231
+
+2) house_b - 0.8792305444753835
+
+3) life_b - 0.8579254575438484
+
+4) heart_b - 0.8338499416753701
+
+5) thing_b - 0.8309697857210138
+
+6) word_b - 0.8216927508986608
+
+7) matter_b - 0.8120961543292986
+
+8) hand_b - 0.7816287977959634
+
+Result for the vector: life, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9361066894404133
+
+1) life_b - 0.9361066894404133
+
+2) thing_b - 0.8851684996385292
+
+3) heart_b - 0.8836922118847259
+
+4) word_b - 0.8658523719486808
+
+5) matter_b - 0.8512103050225807
+
+6) night_b - 0.845387876033783
+
+7) hand_b - 0.8422915245468348
+
+8) house_b - 0.828464224499249
+
+Result for the vector: heart, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8853851625093736
+
+1) heart_b - 0.8853851625093736
+
+2) hand_b - 0.8432957436618667
+
+3) life_b - 0.8199955439572936
+
+4) house_b - 0.7906553260077859
+
+5) thing_b - 0.7802369129516548
+
+6) word_b - 0.7779327895721503
+
+7) night_b - 0.7574390769004822
+
+8) matter_b - 0.7437954697730871
+
+Result for the vector: thing, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9426941871643133
+
+1) thing_b - 0.9426941871643133
+
+2) matter_b - 0.92360562086106
+
+3) word_b - 0.9180493999690322
+
+4) life_b - 0.8885960049274106
+
+5) night_b - 0.8596002375841297
+
+6) heart_b - 0.8477895259857238
+
+7) house_b - 0.8471611212434059
+
+8) hand_b - 0.8396307634867147
+
+Result for the vector: word, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9350171205370823
+
+1) word_b - 0.9350171205370823
+
+2) thing_b - 0.8556614690230526
+
+3) heart_b - 0.8349726396831704
+
+4) life_b - 0.8348955807276537
+
+5) matter_b - 0.8300237858267085
+
+6) hand_b - 0.8285104036331236
+
+7) night_b - 0.815381061114011
+
+8) house_b - 0.8133220914996384
+
+Result for the vector: matter, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9218024336754588
+
+1) matter_b - 0.9218024336754588
+
+2) thing_b - 0.8938212128334911
+
+3) life_b - 0.8878318469674823
+
+4) word_b - 0.8698897180059901
+
+5) house_b - 0.8504713595475402
+
+6) heart_b - 0.8475730166562526
+
+7) night_b - 0.8443260444499867
+
+8) hand_b - 0.8130545150984394
+
+Result for the vector: hand, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9603230333520807
+
+1) hand_a - 0.9603230333520807
+
+2) heart_a - 0.8432957436618667
+
+3) life_a - 0.8422915245468348
+
+4) thing_a - 0.8396307634867147
+
+5) word_a - 0.8285104036331236
+
+6) matter_a - 0.8130545150984394
+
+7) house_a - 0.8078999519348202
+
+8) night_a - 0.7816287977959634
+
+Result for the vector: house, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9806893760171456
+
+1) house_a - 0.9806893760171456
+
+2) night_a - 0.8792305444753835
+
+3) matter_a - 0.8504713595475402
+
+4) thing_a - 0.8471611212434059
+
+5) life_a - 0.828464224499249
+
+6) hand_a - 0.823357476892249
+
+7) word_a - 0.8133220914996384
+
+8) heart_a - 0.7906553260077859
+
+Result for the vector: night, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9458308501789231
+
+1) night_a - 0.9458308501789231
+
+2) house_a - 0.8686004359364266
+
+3) thing_a - 0.8596002375841297
+
+4) life_a - 0.845387876033783
+
+5) matter_a - 0.8443260444499867
+
+6) word_a - 0.815381061114011
+
+7) hand_a - 0.7872985601425171
+
+8) heart_a - 0.7574390769004822
+
+Result for the vector: life, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9361066894404133
+
+1) life_a - 0.9361066894404133
+
+2) thing_a - 0.8885960049274106
+
+3) matter_a - 0.8878318469674823
+
+4) hand_a - 0.8704656516950607
+
+5) house_a - 0.8627230770487067
+
+6) night_a - 0.8579254575438484
+
+7) word_a - 0.8348955807276537
+
+8) heart_a - 0.8199955439572936
+
+Result for the vector: heart, coming from part b of the book
+Rank: 2 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8853851625093736
+
+1) hand_a - 0.9041585383320742
+
+2) heart_a - 0.8853851625093736
+
+3) life_a - 0.8836922118847259
+
+4) house_a - 0.8498336255748719
+
+5) thing_a - 0.8477895259857238
+
+6) matter_a - 0.8475730166562526
+
+7) word_a - 0.8349726396831704
+
+8) night_a - 0.8338499416753701
+
+Result for the vector: thing, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9426941871643133
+
+1) thing_a - 0.9426941871643133
+
+2) matter_a - 0.8938212128334911
+
+3) life_a - 0.8851684996385292
+
+4) word_a - 0.8556614690230526
+
+5) house_a - 0.8520292220080826
+
+6) night_a - 0.8309697857210138
+
+7) hand_a - 0.8078789229465188
+
+8) heart_a - 0.7802369129516548
+
+Result for the vector: word, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9350171205370823
+
+1) word_a - 0.9350171205370823
+
+2) thing_a - 0.9180493999690322
+
+3) matter_a - 0.8698897180059901
+
+4) life_a - 0.8658523719486808
+
+5) hand_a - 0.8549059802405918
+
+6) house_a - 0.8370701365941533
+
+7) night_a - 0.8216927508986608
+
+8) heart_a - 0.7779327895721503
+
+Result for the vector: matter, coming from part b of the book
+Rank: 2 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9218024336754588
+
+1) thing_a - 0.92360562086106
+
+2) matter_a - 0.9218024336754588
+
+3) life_a - 0.8512103050225807
+
+4) word_a - 0.8300237858267085
+
+5) house_a - 0.8188232995482326
+
+6) night_a - 0.8120961543292986
+
+7) hand_a - 0.7850294837338054
+
+8) heart_a - 0.7437954697730871
+

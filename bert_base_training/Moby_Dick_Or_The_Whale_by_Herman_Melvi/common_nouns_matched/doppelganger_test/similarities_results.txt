@@ -1,0 +1,1152 @@
+Result for the vector: sea, coming from part a of the book
+Rank: 2 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9522441852456646
+
+1) world_b - 0.9592128085855491
+
+2) sea_b - 0.9522441852456646
+
+3) morning_b - 0.9253737054653889
+
+4) day_b - 0.9223827352269953
+
+5) tail_b - 0.9216453754411563
+
+6) blood_b - 0.9190934026511526
+
+7) brain_b - 0.9179997346400914
+
+8) bulk_b - 0.9069738173210289
+
+9) sleep_b - 0.9044459731711741
+
+10) peril_b - 0.899329337497675
+
+11) stone_b - 0.8975044221429734
+
+12) letter_b - 0.8898567226486426
+
+13) dart_b - 0.8870531652255939
+
+14) fear_b - 0.8774180223866183
+
+15) length_b - 0.8653970102847548
+
+16) magnitude_b - 0.8473063363822206
+
+Result for the vector: day, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9769420610035712
+
+1) day_b - 0.9769420610035712
+
+2) morning_b - 0.9557951119068215
+
+3) world_b - 0.9196300506591797
+
+4) sleep_b - 0.906467080116272
+
+5) peril_b - 0.9047442731413694
+
+6) brain_b - 0.8997689097913161
+
+7) fear_b - 0.8923590907622531
+
+8) blood_b - 0.8897088235790255
+
+9) tail_b - 0.8895700639742591
+
+10) letter_b - 0.8851737976074219
+
+11) sea_b - 0.8828736404029958
+
+12) bulk_b - 0.8824579259803446
+
+13) dart_b - 0.8817097019130185
+
+14) stone_b - 0.8708444314691779
+
+15) length_b - 0.847832092772003
+
+16) magnitude_b - 0.840808629989624
+
+Result for the vector: world, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9862589240074158
+
+1) world_b - 0.9862589240074158
+
+2) sea_b - 0.9340515058102085
+
+3) brain_b - 0.9289611216450777
+
+4) day_b - 0.9249328926165652
+
+5) tail_b - 0.9234193013060525
+
+6) morning_b - 0.9208930181924706
+
+7) bulk_b - 0.9151277047243536
+
+8) blood_b - 0.9077884013778941
+
+9) peril_b - 0.9016746937230428
+
+10) sleep_b - 0.896547794342041
+
+11) fear_b - 0.8919676075020367
+
+12) letter_b - 0.8861314654350281
+
+13) dart_b - 0.8801708888905726
+
+14) stone_b - 0.8754904344385619
+
+15) magnitude_b - 0.8677083849906921
+
+16) length_b - 0.8384232617364384
+
+Result for the vector: tail, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9654999416470598
+
+1) tail_b - 0.9654999416470598
+
+2) brain_b - 0.9451357407908467
+
+3) bulk_b - 0.9343204615735199
+
+4) blood_b - 0.9272141543371494
+
+5) world_b - 0.9121195130276987
+
+6) sleep_b - 0.8998844683239197
+
+7) dart_b - 0.8934651740234882
+
+8) magnitude_b - 0.8897236651346899
+
+9) sea_b - 0.8851890495532326
+
+10) letter_b - 0.8788316918115815
+
+11) morning_b - 0.8778497126281604
+
+12) fear_b - 0.874594710839742
+
+13) day_b - 0.8744049072265687
+
+14) peril_b - 0.863494770110277
+
+15) length_b - 0.8625466987434984
+
+16) stone_b - 0.8592420984218003
+
+Result for the vector: length, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.966887410508113
+
+1) length_b - 0.966887410508113
+
+2) bulk_b - 0.9006034076573896
+
+3) magnitude_b - 0.8843119533619939
+
+4) peril_b - 0.8824268439325159
+
+5) day_b - 0.8824035840996767
+
+6) tail_b - 0.8798842286925839
+
+7) brain_b - 0.8714597178440564
+
+8) blood_b - 0.8680936536900831
+
+9) sleep_b - 0.8610878338374932
+
+10) dart_b - 0.8608712388123804
+
+11) morning_b - 0.8605129552499247
+
+12) world_b - 0.8554213980593934
+
+13) letter_b - 0.8496089308754814
+
+14) fear_b - 0.8396484756260575
+
+15) stone_b - 0.8361655874449953
+
+16) sea_b - 0.8335381250197083
+
+Result for the vector: morning, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9707615410373758
+
+1) morning_b - 0.9707615410373758
+
+2) day_b - 0.9539848566055366
+
+3) world_b - 0.9086573178376383
+
+4) sleep_b - 0.9031884727961751
+
+5) brain_b - 0.8941864041741711
+
+6) sea_b - 0.8885888986938677
+
+7) tail_b - 0.887548936897643
+
+8) dart_b - 0.8870708480988923
+
+9) fear_b - 0.885010739861
+
+10) blood_b - 0.8815759561567359
+
+11) letter_b - 0.8794574213351372
+
+12) peril_b - 0.8762759713797603
+
+13) stone_b - 0.8727610262917249
+
+14) bulk_b - 0.861532653296117
+
+15) length_b - 0.8430850096839655
+
+16) magnitude_b - 0.8264257415279319
+
+Result for the vector: blood, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9634645006975846
+
+1) blood_b - 0.9634645006975846
+
+2) brain_b - 0.9309647319583393
+
+3) bulk_b - 0.9196134901507574
+
+4) tail_b - 0.9193708348649259
+
+5) world_b - 0.9112013578414917
+
+6) fear_b - 0.9059367292002827
+
+7) sleep_b - 0.9039320945739746
+
+8) peril_b - 0.888450092765685
+
+9) sea_b - 0.8875210151101431
+
+10) day_b - 0.8857483199684827
+
+11) letter_b - 0.8832154273986816
+
+12) stone_b - 0.8824819396446995
+
+13) morning_b - 0.8800806474637615
+
+14) dart_b - 0.8750535324183997
+
+15) magnitude_b - 0.8594604730606079
+
+16) length_b - 0.8284232718692275
+
+Result for the vector: brain, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9609557939715156
+
+1) brain_b - 0.9609557939715156
+
+2) tail_b - 0.9461214260422797
+
+3) bulk_b - 0.9341349958656836
+
+4) blood_b - 0.9307407459395939
+
+5) world_b - 0.9286383071135974
+
+6) sleep_b - 0.9076824458742875
+
+7) fear_b - 0.8907145061450247
+
+8) magnitude_b - 0.8887482550367197
+
+9) peril_b - 0.8832679723719402
+
+10) sea_b - 0.8816487910820268
+
+11) day_b - 0.8802482676728015
+
+12) letter_b - 0.8753046654255593
+
+13) morning_b - 0.8708384969580656
+
+14) dart_b - 0.8642583827895443
+
+15) stone_b - 0.855702553519534
+
+16) length_b - 0.830336665203078
+
+Result for the vector: bulk, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9405322741827705
+
+1) bulk_b - 0.9405322741827705
+
+2) tail_b - 0.9217748092547189
+
+3) brain_b - 0.9092158892049726
+
+4) magnitude_b - 0.8990166187286377
+
+5) blood_b - 0.8942565384950333
+
+6) peril_b - 0.8829504321247097
+
+7) world_b - 0.8801910281181335
+
+8) sleep_b - 0.8653765916824341
+
+9) sea_b - 0.8602733445493455
+
+10) day_b - 0.8509148866483517
+
+11) fear_b - 0.8493876636758312
+
+12) letter_b - 0.8470571041107178
+
+13) length_b - 0.8392774558498006
+
+14) stone_b - 0.8392026520250662
+
+15) dart_b - 0.8390743232325137
+
+16) morning_b - 0.8280506832569445
+
+Result for the vector: peril, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9556508633882475
+
+1) peril_b - 0.9556508633882475
+
+2) bulk_b - 0.9374551773071556
+
+3) world_b - 0.9283189092062669
+
+4) brain_b - 0.9256079935805789
+
+5) tail_b - 0.921847636809819
+
+6) fear_b - 0.9156808257103226
+
+7) blood_b - 0.9148455807474748
+
+8) sleep_b - 0.91024004343034
+
+9) day_b - 0.9080019428733501
+
+10) dart_b - 0.9001563727949031
+
+11) sea_b - 0.8894167874853104
+
+12) magnitude_b - 0.885431097201246
+
+13) letter_b - 0.8843428950718579
+
+14) morning_b - 0.8832917739923006
+
+15) length_b - 0.8583725010378797
+
+16) stone_b - 0.8580705438894495
+
+Result for the vector: fear, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9456781181289038
+
+1) fear_b - 0.9456781181289038
+
+2) sleep_b - 0.8918398554229666
+
+3) peril_b - 0.8899205923080508
+
+4) brain_b - 0.8848449714250824
+
+5) blood_b - 0.8701316714286866
+
+6) day_b - 0.8677152237552671
+
+7) tail_b - 0.8652783632278503
+
+8) world_b - 0.862755230829433
+
+9) bulk_b - 0.861323007266356
+
+10) morning_b - 0.8559957742691101
+
+11) dart_b - 0.8509644865989745
+
+12) letter_b - 0.8454843667438264
+
+13) magnitude_b - 0.8270990149437809
+
+14) stone_b - 0.8267839550972044
+
+15) sea_b - 0.8080142989184214
+
+16) length_b - 0.7939729690551814
+
+Result for the vector: letter, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9173567568468085
+
+1) letter_b - 0.9173567568468085
+
+2) brain_b - 0.9056352264446306
+
+3) tail_b - 0.9015059202460707
+
+4) world_b - 0.8933587936567905
+
+5) blood_b - 0.8933329315980431
+
+6) day_b - 0.8903209170986046
+
+7) bulk_b - 0.8869717520202719
+
+8) fear_b - 0.886358539489648
+
+9) peril_b - 0.8827074503091773
+
+10) stone_b - 0.8824352955092437
+
+11) sleep_b - 0.8717967531620492
+
+12) morning_b - 0.87001398593146
+
+13) dart_b - 0.8650612573307412
+
+14) sea_b - 0.8589753596447979
+
+15) magnitude_b - 0.8385186445271569
+
+16) length_b - 0.8162919635685726
+
+Result for the vector: stone, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9405099469271355
+
+1) stone_b - 0.9405099469271355
+
+2) blood_b - 0.9165508473947428
+
+3) brain_b - 0.9137366907282716
+
+4) tail_b - 0.9108416762697233
+
+5) letter_b - 0.9082246097393222
+
+6) world_b - 0.9051993162989417
+
+7) bulk_b - 0.897161641970736
+
+8) day_b - 0.8946272934640018
+
+9) sea_b - 0.8906309143648949
+
+10) morning_b - 0.8901108238068013
+
+11) sleep_b - 0.8865331079522706
+
+12) peril_b - 0.8784619307976421
+
+13) fear_b - 0.877751987181436
+
+14) dart_b - 0.875629935394829
+
+15) magnitude_b - 0.850628699381015
+
+16) length_b - 0.8431558357728802
+
+Result for the vector: dart, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8520764112472595
+
+1) dart_b - 0.8520764112472595
+
+2) sleep_b - 0.8282993333518123
+
+3) blood_b - 0.825672149658209
+
+4) fear_b - 0.8169998635649893
+
+5) peril_b - 0.8108526468277035
+
+6) tail_b - 0.8106254935264645
+
+7) brain_b - 0.8054440029627092
+
+8) letter_b - 0.7975742696269925
+
+9) bulk_b - 0.7975022317467917
+
+10) day_b - 0.7961414809395648
+
+11) stone_b - 0.7875691056251581
+
+12) morning_b - 0.7749362587928827
+
+13) world_b - 0.7747645839908485
+
+14) sea_b - 0.7623889617423361
+
+15) length_b - 0.7528945207595878
+
+16) magnitude_b - 0.7371682368021165
+
+Result for the vector: sleep, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9385709203141396
+
+1) sleep_b - 0.9385709203141396
+
+2) fear_b - 0.8996024311299761
+
+3) brain_b - 0.8942535190061883
+
+4) day_b - 0.8874245882034365
+
+5) morning_b - 0.8849791425491401
+
+6) blood_b - 0.8844383496715605
+
+7) world_b - 0.8838852117130049
+
+8) tail_b - 0.8831836124439701
+
+9) peril_b - 0.8790434743114145
+
+10) dart_b - 0.8743191511250554
+
+11) bulk_b - 0.8688746329174117
+
+12) stone_b - 0.8562854103701818
+
+13) letter_b - 0.8552239027485921
+
+14) sea_b - 0.8531215103341185
+
+15) magnitude_b - 0.8229780302656886
+
+16) length_b - 0.8217829678317347
+
+Result for the vector: magnitude, coming from part a of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9285639013571922
+
+1) magnitude_b - 0.9285639013571922
+
+2) bulk_b - 0.9277413659712396
+
+3) tail_b - 0.8978919569447134
+
+4) brain_b - 0.8976801962351936
+
+5) peril_b - 0.8890571196573178
+
+6) blood_b - 0.8782714226952647
+
+7) length_b - 0.8705826037080416
+
+8) day_b - 0.865314551275115
+
+9) world_b - 0.8636014028070746
+
+10) letter_b - 0.8589529563244694
+
+11) fear_b - 0.8575719338483968
+
+12) sleep_b - 0.8521217880103902
+
+13) dart_b - 0.8343369064920727
+
+14) stone_b - 0.8331789076604427
+
+15) sea_b - 0.8229244351387258
+
+16) morning_b - 0.8199857199217596
+
+Result for the vector: sea, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9522441852456646
+
+1) sea_a - 0.9522441852456646
+
+2) world_a - 0.9340515058102085
+
+3) stone_a - 0.8906309143648949
+
+4) peril_a - 0.8894167874853104
+
+5) morning_a - 0.8885888986938677
+
+6) blood_a - 0.8875210151101431
+
+7) tail_a - 0.8851890495532326
+
+8) day_a - 0.8828736404029958
+
+9) brain_a - 0.8816487910820268
+
+10) bulk_a - 0.8602733445493455
+
+11) letter_a - 0.8589753596447979
+
+12) sleep_a - 0.8531215103341185
+
+13) length_a - 0.8335381250197083
+
+14) magnitude_a - 0.8229244351387258
+
+15) fear_a - 0.8080142989184214
+
+16) dart_a - 0.7623889617423361
+
+Result for the vector: day, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9769420610035712
+
+1) day_a - 0.9769420610035712
+
+2) morning_a - 0.9539848566055366
+
+3) world_a - 0.9249328926165652
+
+4) sea_a - 0.9223827352269953
+
+5) peril_a - 0.9080019428733501
+
+6) stone_a - 0.8946272934640018
+
+7) letter_a - 0.8903209170986046
+
+8) sleep_a - 0.8874245882034365
+
+9) blood_a - 0.8857483199684827
+
+10) length_a - 0.8824035840996767
+
+11) brain_a - 0.8802482676728015
+
+12) tail_a - 0.8744049072265687
+
+13) fear_a - 0.8677152237552671
+
+14) magnitude_a - 0.865314551275115
+
+15) bulk_a - 0.8509148866483517
+
+16) dart_a - 0.7961414809395648
+
+Result for the vector: world, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9862589240074158
+
+1) world_a - 0.9862589240074158
+
+2) sea_a - 0.9592128085855491
+
+3) brain_a - 0.9286383071135974
+
+4) peril_a - 0.9283189092062669
+
+5) day_a - 0.9196300506591797
+
+6) tail_a - 0.9121195130276987
+
+7) blood_a - 0.9112013578414917
+
+8) morning_a - 0.9086573178376383
+
+9) stone_a - 0.9051993162989417
+
+10) letter_a - 0.8933587936567905
+
+11) sleep_a - 0.8838852117130049
+
+12) bulk_a - 0.8801910281181335
+
+13) magnitude_a - 0.8636014028070746
+
+14) fear_a - 0.862755230829433
+
+15) length_a - 0.8554213980593934
+
+16) dart_a - 0.7747645839908485
+
+Result for the vector: tail, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9654999416470598
+
+1) tail_a - 0.9654999416470598
+
+2) brain_a - 0.9461214260422797
+
+3) world_a - 0.9234193013060525
+
+4) peril_a - 0.921847636809819
+
+5) bulk_a - 0.9217748092547189
+
+6) sea_a - 0.9216453754411563
+
+7) blood_a - 0.9193708348649259
+
+8) stone_a - 0.9108416762697233
+
+9) letter_a - 0.9015059202460707
+
+10) magnitude_a - 0.8978919569447134
+
+11) day_a - 0.8895700639742591
+
+12) morning_a - 0.887548936897643
+
+13) sleep_a - 0.8831836124439701
+
+14) length_a - 0.8798842286925839
+
+15) fear_a - 0.8652783632278503
+
+16) dart_a - 0.8106254935264645
+
+Result for the vector: length, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.966887410508113
+
+1) length_a - 0.966887410508113
+
+2) magnitude_a - 0.8705826037080416
+
+3) sea_a - 0.8653970102847548
+
+4) tail_a - 0.8625466987434984
+
+5) peril_a - 0.8583725010378797
+
+6) day_a - 0.847832092772003
+
+7) stone_a - 0.8431558357728802
+
+8) morning_a - 0.8430850096839655
+
+9) bulk_a - 0.8392774558498006
+
+10) world_a - 0.8384232617364384
+
+11) brain_a - 0.830336665203078
+
+12) blood_a - 0.8284232718692275
+
+13) sleep_a - 0.8217829678317347
+
+14) letter_a - 0.8162919635685726
+
+15) fear_a - 0.7939729690551814
+
+16) dart_a - 0.7528945207595878
+
+Result for the vector: morning, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9707615410373758
+
+1) morning_a - 0.9707615410373758
+
+2) day_a - 0.9557951119068215
+
+3) sea_a - 0.9253737054653889
+
+4) world_a - 0.9208930181924706
+
+5) stone_a - 0.8901108238068013
+
+6) sleep_a - 0.8849791425491401
+
+7) peril_a - 0.8832917739923006
+
+8) blood_a - 0.8800806474637615
+
+9) tail_a - 0.8778497126281604
+
+10) brain_a - 0.8708384969580656
+
+11) letter_a - 0.87001398593146
+
+12) length_a - 0.8605129552499247
+
+13) fear_a - 0.8559957742691101
+
+14) bulk_a - 0.8280506832569445
+
+15) magnitude_a - 0.8199857199217596
+
+16) dart_a - 0.7749362587928827
+
+Result for the vector: blood, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9634645006975846
+
+1) blood_a - 0.9634645006975846
+
+2) brain_a - 0.9307407459395939
+
+3) tail_a - 0.9272141543371494
+
+4) sea_a - 0.9190934026511526
+
+5) stone_a - 0.9165508473947428
+
+6) peril_a - 0.9148455807474748
+
+7) world_a - 0.9077884013778941
+
+8) bulk_a - 0.8942565384950333
+
+9) letter_a - 0.8933329315980431
+
+10) day_a - 0.8897088235790255
+
+11) sleep_a - 0.8844383496715605
+
+12) morning_a - 0.8815759561567359
+
+13) magnitude_a - 0.8782714226952647
+
+14) fear_a - 0.8701316714286866
+
+15) length_a - 0.8680936536900831
+
+16) dart_a - 0.825672149658209
+
+Result for the vector: brain, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9609557939715156
+
+1) brain_a - 0.9609557939715156
+
+2) tail_a - 0.9451357407908467
+
+3) blood_a - 0.9309647319583393
+
+4) world_a - 0.9289611216450777
+
+5) peril_a - 0.9256079935805789
+
+6) sea_a - 0.9179997346400914
+
+7) stone_a - 0.9137366907282716
+
+8) bulk_a - 0.9092158892049726
+
+9) letter_a - 0.9056352264446306
+
+10) day_a - 0.8997689097913161
+
+11) magnitude_a - 0.8976801962351936
+
+12) sleep_a - 0.8942535190061883
+
+13) morning_a - 0.8941864041741711
+
+14) fear_a - 0.8848449714250824
+
+15) length_a - 0.8714597178440564
+
+16) dart_a - 0.8054440029627092
+
+Result for the vector: bulk, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9405322741827705
+
+1) bulk_a - 0.9405322741827705
+
+2) peril_a - 0.9374551773071556
+
+3) tail_a - 0.9343204615735199
+
+4) brain_a - 0.9341349958656836
+
+5) magnitude_a - 0.9277413659712396
+
+6) blood_a - 0.9196134901507574
+
+7) world_a - 0.9151277047243536
+
+8) sea_a - 0.9069738173210289
+
+9) length_a - 0.9006034076573896
+
+10) stone_a - 0.897161641970736
+
+11) letter_a - 0.8869717520202719
+
+12) day_a - 0.8824579259803446
+
+13) sleep_a - 0.8688746329174117
+
+14) morning_a - 0.861532653296117
+
+15) fear_a - 0.861323007266356
+
+16) dart_a - 0.7975022317467917
+
+Result for the vector: peril, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9556508633882475
+
+1) peril_a - 0.9556508633882475
+
+2) day_a - 0.9047442731413694
+
+3) world_a - 0.9016746937230428
+
+4) sea_a - 0.899329337497675
+
+5) fear_a - 0.8899205923080508
+
+6) magnitude_a - 0.8890571196573178
+
+7) blood_a - 0.888450092765685
+
+8) brain_a - 0.8832679723719402
+
+9) bulk_a - 0.8829504321247097
+
+10) letter_a - 0.8827074503091773
+
+11) length_a - 0.8824268439325159
+
+12) sleep_a - 0.8790434743114145
+
+13) stone_a - 0.8784619307976421
+
+14) morning_a - 0.8762759713797603
+
+15) tail_a - 0.863494770110277
+
+16) dart_a - 0.8108526468277035
+
+Result for the vector: fear, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9456781181289038
+
+1) fear_a - 0.9456781181289038
+
+2) peril_a - 0.9156808257103226
+
+3) blood_a - 0.9059367292002827
+
+4) sleep_a - 0.8996024311299761
+
+5) day_a - 0.8923590907622531
+
+6) world_a - 0.8919676075020367
+
+7) brain_a - 0.8907145061450247
+
+8) letter_a - 0.886358539489648
+
+9) morning_a - 0.885010739861
+
+10) stone_a - 0.877751987181436
+
+11) sea_a - 0.8774180223866183
+
+12) tail_a - 0.874594710839742
+
+13) magnitude_a - 0.8575719338483968
+
+14) bulk_a - 0.8493876636758312
+
+15) length_a - 0.8396484756260575
+
+16) dart_a - 0.8169998635649893
+
+Result for the vector: letter, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9173567568468085
+
+1) letter_a - 0.9173567568468085
+
+2) stone_a - 0.9082246097393222
+
+3) sea_a - 0.8898567226486426
+
+4) world_a - 0.8861314654350281
+
+5) day_a - 0.8851737976074219
+
+6) peril_a - 0.8843428950718579
+
+7) blood_a - 0.8832154273986816
+
+8) morning_a - 0.8794574213351372
+
+9) tail_a - 0.8788316918115815
+
+10) brain_a - 0.8753046654255593
+
+11) magnitude_a - 0.8589529563244694
+
+12) sleep_a - 0.8552239027485921
+
+13) length_a - 0.8496089308754814
+
+14) bulk_a - 0.8470571041107178
+
+15) fear_a - 0.8454843667438264
+
+16) dart_a - 0.7975742696269925
+
+Result for the vector: stone, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9405099469271355
+
+1) stone_a - 0.9405099469271355
+
+2) sea_a - 0.8975044221429734
+
+3) blood_a - 0.8824819396446995
+
+4) letter_a - 0.8824352955092437
+
+5) world_a - 0.8754904344385619
+
+6) morning_a - 0.8727610262917249
+
+7) day_a - 0.8708444314691779
+
+8) tail_a - 0.8592420984218003
+
+9) peril_a - 0.8580705438894495
+
+10) sleep_a - 0.8562854103701818
+
+11) brain_a - 0.855702553519534
+
+12) bulk_a - 0.8392026520250662
+
+13) length_a - 0.8361655874449953
+
+14) magnitude_a - 0.8331789076604427
+
+15) fear_a - 0.8267839550972044
+
+16) dart_a - 0.7875691056251581
+
+Result for the vector: dart, coming from part b of the book
+Rank: 13 out of 16 characters
+Cosine similarity to the co-referring vector: 0.8520764112472595
+
+1) peril_a - 0.9001563727949031
+
+2) tail_a - 0.8934651740234882
+
+3) morning_a - 0.8870708480988923
+
+4) sea_a - 0.8870531652255939
+
+5) day_a - 0.8817097019130185
+
+6) world_a - 0.8801708888905726
+
+7) stone_a - 0.875629935394829
+
+8) blood_a - 0.8750535324183997
+
+9) sleep_a - 0.8743191511250554
+
+10) letter_a - 0.8650612573307412
+
+11) brain_a - 0.8642583827895443
+
+12) length_a - 0.8608712388123804
+
+13) dart_a - 0.8520764112472595
+
+14) fear_a - 0.8509644865989745
+
+15) bulk_a - 0.8390743232325137
+
+16) magnitude_a - 0.8343369064920727
+
+Result for the vector: sleep, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9385709203141396
+
+1) sleep_a - 0.9385709203141396
+
+2) peril_a - 0.91024004343034
+
+3) brain_a - 0.9076824458742875
+
+4) day_a - 0.906467080116272
+
+5) sea_a - 0.9044459731711741
+
+6) blood_a - 0.9039320945739746
+
+7) morning_a - 0.9031884727961751
+
+8) tail_a - 0.8998844683239197
+
+9) world_a - 0.896547794342041
+
+10) fear_a - 0.8918398554229666
+
+11) stone_a - 0.8865331079522706
+
+12) letter_a - 0.8717967531620492
+
+13) bulk_a - 0.8653765916824341
+
+14) length_a - 0.8610878338374932
+
+15) magnitude_a - 0.8521217880103902
+
+16) dart_a - 0.8282993333518123
+
+Result for the vector: magnitude, coming from part b of the book
+Rank: 1 out of 16 characters
+Cosine similarity to the co-referring vector: 0.9285639013571922
+
+1) magnitude_a - 0.9285639013571922
+
+2) bulk_a - 0.8990166187286377
+
+3) tail_a - 0.8897236651346899
+
+4) brain_a - 0.8887482550367197
+
+5) peril_a - 0.885431097201246
+
+6) length_a - 0.8843119533619939
+
+7) world_a - 0.8677083849906921
+
+8) blood_a - 0.8594604730606079
+
+9) stone_a - 0.850628699381015
+
+10) sea_a - 0.8473063363822206
+
+11) day_a - 0.840808629989624
+
+12) letter_a - 0.8385186445271569
+
+13) fear_a - 0.8270990149437809
+
+14) morning_a - 0.8264257415279319
+
+15) sleep_a - 0.8229780302656886
+
+16) dart_a - 0.7371682368021165
+

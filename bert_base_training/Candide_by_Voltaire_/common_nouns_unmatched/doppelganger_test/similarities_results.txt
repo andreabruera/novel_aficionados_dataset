@@ -1,0 +1,320 @@
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9790743564456004
+
+1) man_b - 0.9790743564456004
+
+2) woman_b - 0.9444542146406002
+
+3) thing_b - 0.9016702829795923
+
+4) world_b - 0.885035024289498
+
+5) day_b - 0.8685339689254761
+
+6) country_b - 0.8625757273354321
+
+7) time_b - 0.8497265830554543
+
+8) nothing_b - 0.8417096138000488
+
+Result for the vector: woman, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9826063785860616
+
+1) woman_b - 0.9826063785860616
+
+2) man_b - 0.9142283098969894
+
+3) world_b - 0.85090283762251
+
+4) thing_b - 0.8489808530222877
+
+5) country_b - 0.833834603473661
+
+6) day_b - 0.823007345199585
+
+7) time_b - 0.7967247604347698
+
+8) nothing_b - 0.7943576574325562
+
+Result for the vector: day, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9727817806265685
+
+1) day_b - 0.9727817806265685
+
+2) time_b - 0.9101356646297379
+
+3) thing_b - 0.8979118648925085
+
+4) man_b - 0.8844058513641608
+
+5) country_b - 0.873804304784427
+
+6) world_b - 0.8656462430954226
+
+7) nothing_b - 0.8395345402318847
+
+8) woman_b - 0.8081519248531133
+
+Result for the vector: world, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9790894960271781
+
+1) world_b - 0.9790894960271781
+
+2) country_b - 0.9501895561983823
+
+3) thing_b - 0.8874940939251145
+
+4) man_b - 0.8699726903406074
+
+5) day_b - 0.8554834723472595
+
+6) time_b - 0.8458342804263321
+
+7) nothing_b - 0.8368933796882629
+
+8) woman_b - 0.8112780468580286
+
+Result for the vector: country, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9755113386379691
+
+1) country_b - 0.9755113386379691
+
+2) world_b - 0.948584249362515
+
+3) thing_b - 0.8825615644455018
+
+4) man_b - 0.8719326028703352
+
+5) day_b - 0.8696621578730455
+
+6) time_b - 0.8546105195233694
+
+7) nothing_b - 0.8399467968909038
+
+8) woman_b - 0.8129465487785921
+
+Result for the vector: thing, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9703416210616757
+
+1) thing_b - 0.9703416210616757
+
+2) man_b - 0.9022210603287364
+
+3) nothing_b - 0.8969682332239493
+
+4) world_b - 0.8778752989471671
+
+5) country_b - 0.8739138876616128
+
+6) time_b - 0.8709482060295686
+
+7) day_b - 0.8687732063261578
+
+8) woman_b - 0.8179015326831879
+
+Result for the vector: time, coming from part a of the book
+Rank: 2 out of 8 characters
+Cosine similarity to the co-referring vector: 0.926052057092076
+
+1) day_b - 0.9335518439741058
+
+2) time_b - 0.926052057092076
+
+3) thing_b - 0.8986265063285892
+
+4) country_b - 0.896010413171413
+
+5) world_b - 0.8903521103296493
+
+6) man_b - 0.8842496068923978
+
+7) nothing_b - 0.8661266485528156
+
+8) woman_b - 0.8074681059204594
+
+Result for the vector: nothing, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9590942239221485
+
+1) nothing_b - 0.9590942239221485
+
+2) thing_b - 0.8793376684188905
+
+3) country_b - 0.8534741481355057
+
+4) man_b - 0.8518935177135812
+
+5) day_b - 0.8516299040096956
+
+6) world_b - 0.8501450151464385
+
+7) time_b - 0.8492068811541992
+
+8) woman_b - 0.7667047788779007
+
+Result for the vector: man, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9790743564456004
+
+1) man_a - 0.9790743564456004
+
+2) woman_a - 0.9142283098969894
+
+3) thing_a - 0.9022210603287364
+
+4) day_a - 0.8844058513641608
+
+5) time_a - 0.8842496068923978
+
+6) country_a - 0.8719326028703352
+
+7) world_a - 0.8699726903406074
+
+8) nothing_a - 0.8518935177135812
+
+Result for the vector: woman, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9826063785860616
+
+1) woman_a - 0.9826063785860616
+
+2) man_a - 0.9444542146406002
+
+3) thing_a - 0.8179015326831879
+
+4) country_a - 0.8129465487785921
+
+5) world_a - 0.8112780468580286
+
+6) day_a - 0.8081519248531133
+
+7) time_a - 0.8074681059204594
+
+8) nothing_a - 0.7667047788779007
+
+Result for the vector: day, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9727817806265685
+
+1) day_a - 0.9727817806265685
+
+2) time_a - 0.9335518439741058
+
+3) country_a - 0.8696621578730455
+
+4) thing_a - 0.8687732063261578
+
+5) man_a - 0.8685339689254761
+
+6) world_a - 0.8554834723472595
+
+7) nothing_a - 0.8516299040096956
+
+8) woman_a - 0.823007345199585
+
+Result for the vector: world, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9790894960271781
+
+1) world_a - 0.9790894960271781
+
+2) country_a - 0.948584249362515
+
+3) time_a - 0.8903521103296493
+
+4) man_a - 0.885035024289498
+
+5) thing_a - 0.8778752989471671
+
+6) day_a - 0.8656462430954226
+
+7) woman_a - 0.85090283762251
+
+8) nothing_a - 0.8501450151464385
+
+Result for the vector: country, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9755113386379691
+
+1) country_a - 0.9755113386379691
+
+2) world_a - 0.9501895561983823
+
+3) time_a - 0.896010413171413
+
+4) thing_a - 0.8739138876616128
+
+5) day_a - 0.873804304784427
+
+6) man_a - 0.8625757273354321
+
+7) nothing_a - 0.8534741481355057
+
+8) woman_a - 0.833834603473661
+
+Result for the vector: thing, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9703416210616757
+
+1) thing_a - 0.9703416210616757
+
+2) man_a - 0.9016702829795923
+
+3) time_a - 0.8986265063285892
+
+4) day_a - 0.8979118648925085
+
+5) world_a - 0.8874940939251145
+
+6) country_a - 0.8825615644455018
+
+7) nothing_a - 0.8793376684188905
+
+8) woman_a - 0.8489808530222877
+
+Result for the vector: time, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.926052057092076
+
+1) time_a - 0.926052057092076
+
+2) day_a - 0.9101356646297379
+
+3) thing_a - 0.8709482060295686
+
+4) country_a - 0.8546105195233694
+
+5) man_a - 0.8497265830554543
+
+6) nothing_a - 0.8492068811541992
+
+7) world_a - 0.8458342804263321
+
+8) woman_a - 0.7967247604347698
+
+Result for the vector: nothing, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9590942239221485
+
+1) nothing_a - 0.9590942239221485
+
+2) thing_a - 0.8969682332239493
+
+3) time_a - 0.8661266485528156
+
+4) man_a - 0.8417096138000488
+
+5) country_a - 0.8399467968909038
+
+6) day_a - 0.8395345402318847
+
+7) world_a - 0.8368933796882629
+
+8) woman_a - 0.7943576574325562
+

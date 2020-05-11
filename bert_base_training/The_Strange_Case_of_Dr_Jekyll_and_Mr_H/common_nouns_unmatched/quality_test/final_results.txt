@@ -1,0 +1,9 @@
+Test: quality test
+Results for: The_Strange_Case_of_Dr_Jekyll_and_Mr_H
+Model used: common nouns unmatched
+
+Within-novel median: 1.0
+Within-novel average: 1.8333333333333333
+Within-novel MRR: 0.736111111111111
+Within-novel standard deviation of the scores: 1.1426091000668408
+Amount of entities considered: 6.0

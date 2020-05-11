@@ -1,0 +1,480 @@
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9402628576598865
+
+1) man_a - 0.9402628576598865
+
+2) life_a - 0.9077523405699544
+
+3) friend_a - 0.8978373140741231
+
+4) feeling_a - 0.8887788785959627
+
+5) death_a - 0.8723453619377242
+
+6) day_a - 0.8646285018546298
+
+7) father_a - 0.8526504635810913
+
+8) eye_a - 0.8515791639215037
+
+9) night_a - 0.8366950348979193
+
+10) time_a - 0.8208111524581968
+
+Result for the vector: father, coming from part i of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9145484515755462
+
+1) father_a - 0.9145484515755462
+
+2) friend_a - 0.9073120626006149
+
+3) man_a - 0.847093939781189
+
+4) life_a - 0.8385043144226074
+
+5) feeling_a - 0.8239976272584437
+
+6) eye_a - 0.819765711419753
+
+7) day_a - 0.8062506318092346
+
+8) death_a - 0.7997013568789175
+
+9) night_a - 0.7733962074878106
+
+10) time_a - 0.7661268571690846
+
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9078881795473008
+
+1) day_a - 0.9078881795473008
+
+2) night_a - 0.8814677141347272
+
+3) time_a - 0.8739417791366639
+
+4) feeling_a - 0.8525002774595883
+
+5) life_a - 0.841831693540116
+
+6) death_a - 0.8372706521370846
+
+7) man_a - 0.8301501971393721
+
+8) friend_a - 0.8139622564923124
+
+9) eye_a - 0.8067194579029277
+
+10) father_a - 0.8008628487587032
+
+Result for the vector: friend, coming from part i of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8911557728741034
+
+1) friend_a - 0.8911557728741034
+
+2) father_a - 0.8555062582051393
+
+3) man_a - 0.8441176070009953
+
+4) feeling_a - 0.8320398678767754
+
+5) life_a - 0.8222245222993056
+
+6) eye_a - 0.7998739957734344
+
+7) day_a - 0.7951272963025364
+
+8) death_a - 0.7923900957340059
+
+9) night_a - 0.7539183272743754
+
+10) time_a - 0.7528221684237276
+
+Result for the vector: eye, coming from part i of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.7230078628368258
+
+1) eye_a - 0.7230078628368258
+
+2) feeling_a - 0.6347547769546554
+
+3) death_a - 0.6108211825032102
+
+4) life_a - 0.6078919534618837
+
+5) man_a - 0.5905472392169986
+
+6) friend_a - 0.576089910515241
+
+7) night_a - 0.5699398517608683
+
+8) day_a - 0.5675628523566049
+
+9) father_a - 0.5622855499131143
+
+10) time_a - 0.5473730620590522
+
+Result for the vector: life, coming from part i of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9499134421348572
+
+1) life_a - 0.9499134421348572
+
+2) death_a - 0.9142023597419969
+
+3) feeling_a - 0.9095276052041306
+
+4) man_a - 0.8831835389137268
+
+5) friend_a - 0.8750150464479644
+
+6) day_a - 0.8712099194526672
+
+7) eye_a - 0.8623411912423731
+
+8) night_a - 0.8464213105189035
+
+9) time_a - 0.8437058832470123
+
+10) father_a - 0.8343943854805476
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8441341426452499
+
+1) time_a - 0.8441341426452499
+
+2) day_a - 0.8264687061309814
+
+3) night_a - 0.8122520558683853
+
+4) man_a - 0.7796464562416077
+
+5) life_a - 0.7755745649337769
+
+6) feeling_a - 0.7735425964866535
+
+7) death_a - 0.7639073361130758
+
+8) friend_a - 0.7448823077941632
+
+9) father_a - 0.7391015731752869
+
+10) eye_a - 0.7346349577496937
+
+Result for the vector: feeling, coming from part i of the book
+Rank: 2 out of 10 characters
+Cosine similarity to the co-referring vector: 0.6170109966980223
+
+1) life_a - 0.6281701547998109
+
+2) feeling_a - 0.6170109966980223
+
+3) father_a - 0.6052882075309797
+
+4) man_a - 0.60034694669563
+
+5) friend_a - 0.598004978954646
+
+6) death_a - 0.5882917467268804
+
+7) eye_a - 0.5872295919886377
+
+8) day_a - 0.5692228335605373
+
+9) time_a - 0.5625412464141886
+
+10) night_a - 0.5585290719832096
+
+Result for the vector: night, coming from part i of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8811818361282411
+
+1) night_a - 0.8811818361282411
+
+2) day_a - 0.8614845193317261
+
+3) time_a - 0.8199661755521507
+
+4) death_a - 0.7863212930847374
+
+5) life_a - 0.7763447628226748
+
+6) feeling_a - 0.7672069668769891
+
+7) man_a - 0.7567109320587488
+
+8) father_a - 0.7547902768600318
+
+9) friend_a - 0.7526495533570251
+
+10) eye_a - 0.7389327948331355
+
+Result for the vector: death, coming from part i of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9077884229358565
+
+1) death_a - 0.9077884229358565
+
+2) life_a - 0.8539736270904541
+
+3) feeling_a - 0.8332955340566928
+
+4) night_a - 0.8046122309796687
+
+5) day_a - 0.792273223400116
+
+6) man_a - 0.7900888323783875
+
+7) eye_a - 0.7854096527519722
+
+8) time_a - 0.7838615050233322
+
+9) friend_a - 0.7764635317463738
+
+10) father_a - 0.7699647408702829
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9402628576598865
+
+1) man_wiki - 0.9402628576598865
+
+2) life_wiki - 0.8831835389137268
+
+3) father_wiki - 0.847093939781189
+
+4) friend_wiki - 0.8441176070009953
+
+5) day_wiki - 0.8301501971393721
+
+6) death_wiki - 0.7900888323783875
+
+7) time_wiki - 0.7796464562416077
+
+8) night_wiki - 0.7567109320587488
+
+9) feeling_wiki - 0.60034694669563
+
+10) eye_wiki - 0.5905472392169986
+
+Result for the vector: father, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9145484515755462
+
+1) father_wiki - 0.9145484515755462
+
+2) friend_wiki - 0.8555062582051393
+
+3) man_wiki - 0.8526504635810913
+
+4) life_wiki - 0.8343943854805476
+
+5) day_wiki - 0.8008628487587032
+
+6) death_wiki - 0.7699647408702829
+
+7) night_wiki - 0.7547902768600318
+
+8) time_wiki - 0.7391015731752869
+
+9) feeling_wiki - 0.6052882075309797
+
+10) eye_wiki - 0.5622855499131143
+
+Result for the vector: day, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9078881795473008
+
+1) day_wiki - 0.9078881795473008
+
+2) life_wiki - 0.8712099194526672
+
+3) man_wiki - 0.8646285018546298
+
+4) night_wiki - 0.8614845193317261
+
+5) time_wiki - 0.8264687061309814
+
+6) father_wiki - 0.8062506318092346
+
+7) friend_wiki - 0.7951272963025364
+
+8) death_wiki - 0.792273223400116
+
+9) feeling_wiki - 0.5692228335605373
+
+10) eye_wiki - 0.5675628523566049
+
+Result for the vector: friend, coming from part a of the book
+Rank: 3 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8911557728741034
+
+1) father_wiki - 0.9073120626006149
+
+2) man_wiki - 0.8978373140741231
+
+3) friend_wiki - 0.8911557728741034
+
+4) life_wiki - 0.8750150464479644
+
+5) day_wiki - 0.8139622564923124
+
+6) death_wiki - 0.7764635317463738
+
+7) night_wiki - 0.7526495533570251
+
+8) time_wiki - 0.7448823077941632
+
+9) feeling_wiki - 0.598004978954646
+
+10) eye_wiki - 0.576089910515241
+
+Result for the vector: eye, coming from part a of the book
+Rank: 9 out of 10 characters
+Cosine similarity to the co-referring vector: 0.7230078628368258
+
+1) life_wiki - 0.8623411912423731
+
+2) man_wiki - 0.8515791639215037
+
+3) father_wiki - 0.819765711419753
+
+4) day_wiki - 0.8067194579029277
+
+5) friend_wiki - 0.7998739957734344
+
+6) death_wiki - 0.7854096527519722
+
+7) night_wiki - 0.7389327948331355
+
+8) time_wiki - 0.7346349577496937
+
+9) eye_wiki - 0.7230078628368258
+
+10) feeling_wiki - 0.5872295919886377
+
+Result for the vector: life, coming from part a of the book
+Rank: 1 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9499134421348572
+
+1) life_wiki - 0.9499134421348572
+
+2) man_wiki - 0.9077523405699544
+
+3) death_wiki - 0.8539736270904541
+
+4) day_wiki - 0.841831693540116
+
+5) father_wiki - 0.8385043144226074
+
+6) friend_wiki - 0.8222245222993056
+
+7) night_wiki - 0.7763447628226748
+
+8) time_wiki - 0.7755745649337769
+
+9) feeling_wiki - 0.6281701547998109
+
+10) eye_wiki - 0.6078919534618837
+
+Result for the vector: time, coming from part a of the book
+Rank: 2 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8441341426452499
+
+1) day_wiki - 0.8739417791366639
+
+2) time_wiki - 0.8441341426452499
+
+3) life_wiki - 0.8437058832470123
+
+4) man_wiki - 0.8208111524581968
+
+5) night_wiki - 0.8199661755521507
+
+6) death_wiki - 0.7838615050233322
+
+7) father_wiki - 0.7661268571690846
+
+8) friend_wiki - 0.7528221684237276
+
+9) feeling_wiki - 0.5625412464141886
+
+10) eye_wiki - 0.5473730620590522
+
+Result for the vector: feeling, coming from part a of the book
+Rank: 10 out of 10 characters
+Cosine similarity to the co-referring vector: 0.6170109966980223
+
+1) life_wiki - 0.9095276052041306
+
+2) man_wiki - 0.8887788785959627
+
+3) day_wiki - 0.8525002774595883
+
+4) death_wiki - 0.8332955340566928
+
+5) friend_wiki - 0.8320398678767754
+
+6) father_wiki - 0.8239976272584437
+
+7) time_wiki - 0.7735425964866535
+
+8) night_wiki - 0.7672069668769891
+
+9) eye_wiki - 0.6347547769546554
+
+10) feeling_wiki - 0.6170109966980223
+
+Result for the vector: night, coming from part a of the book
+Rank: 2 out of 10 characters
+Cosine similarity to the co-referring vector: 0.8811818361282411
+
+1) day_wiki - 0.8814677141347272
+
+2) night_wiki - 0.8811818361282411
+
+3) life_wiki - 0.8464213105189035
+
+4) man_wiki - 0.8366950348979193
+
+5) time_wiki - 0.8122520558683853
+
+6) death_wiki - 0.8046122309796687
+
+7) father_wiki - 0.7733962074878106
+
+8) friend_wiki - 0.7539183272743754
+
+9) eye_wiki - 0.5699398517608683
+
+10) feeling_wiki - 0.5585290719832096
+
+Result for the vector: death, coming from part a of the book
+Rank: 2 out of 10 characters
+Cosine similarity to the co-referring vector: 0.9077884229358565
+
+1) life_wiki - 0.9142023597419969
+
+2) death_wiki - 0.9077884229358565
+
+3) man_wiki - 0.8723453619377242
+
+4) day_wiki - 0.8372706521370846
+
+5) father_wiki - 0.7997013568789175
+
+6) friend_wiki - 0.7923900957340059
+
+7) night_wiki - 0.7863212930847374
+
+8) time_wiki - 0.7639073361130758
+
+9) eye_wiki - 0.6108211825032102
+
+10) feeling_wiki - 0.5882917467268804
+

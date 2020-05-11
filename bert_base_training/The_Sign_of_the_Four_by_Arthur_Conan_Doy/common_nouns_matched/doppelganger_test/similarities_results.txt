@@ -1,0 +1,572 @@
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9813469052314758
+
+1) man_b - 0.9813469052314758
+
+2) one_b - 0.9111526608467102
+
+3) case_b - 0.8753383681379792
+
+4) place_b - 0.8722330331802368
+
+5) story_b - 0.8390471243290394
+
+6) leg_b - 0.8329252004623413
+
+7) life_b - 0.8216834770629732
+
+8) arm_b - 0.8147806039583337
+
+9) fact_b - 0.7451075315475464
+
+10) chapter_b - 0.6879076957702637
+
+11) power_b - 0.6247361898422241
+
+Result for the vector: case, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.95586669181983
+
+1) case_b - 0.95586669181983
+
+2) story_b - 0.9151604721045792
+
+3) place_b - 0.9062305688858032
+
+4) life_b - 0.9023856578835469
+
+5) one_b - 0.8974449634552002
+
+6) man_b - 0.8938026428222656
+
+7) leg_b - 0.8264951109886169
+
+8) fact_b - 0.8247991800308228
+
+9) arm_b - 0.7966481568427006
+
+10) chapter_b - 0.7247452139854431
+
+11) power_b - 0.6847233772277832
+
+Result for the vector: place, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9577341675758362
+
+1) place_b - 0.9577341675758362
+
+2) case_b - 0.9263248995736197
+
+3) man_b - 0.8942846655845642
+
+4) one_b - 0.8812503814697266
+
+5) story_b - 0.8744411989713445
+
+6) life_b - 0.8614795886588357
+
+7) leg_b - 0.8204438090324402
+
+8) arm_b - 0.803277146620922
+
+9) fact_b - 0.7861273288726807
+
+10) chapter_b - 0.7105349898338318
+
+11) power_b - 0.6631894111633301
+
+Result for the vector: one, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9743789724820551
+
+1) one_b - 0.9743789724820551
+
+2) man_b - 0.9024837286020441
+
+3) case_b - 0.8863826590522524
+
+4) place_b - 0.8762096427741545
+
+5) story_b - 0.8452721993868533
+
+6) life_b - 0.832188879484273
+
+7) leg_b - 0.8119201902127327
+
+8) arm_b - 0.7892328861584431
+
+9) fact_b - 0.7732313505778122
+
+10) chapter_b - 0.7091143342588647
+
+11) power_b - 0.6483750536553581
+
+Result for the vector: leg, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9334731101989746
+
+1) leg_b - 0.9334731101989746
+
+2) man_b - 0.8793865442276001
+
+3) life_b - 0.8666442116114983
+
+4) one_b - 0.865363597869873
+
+5) case_b - 0.8635974445103091
+
+6) arm_b - 0.8625271402283242
+
+7) place_b - 0.8441367149353027
+
+8) story_b - 0.8316628832616155
+
+9) fact_b - 0.7244389653205872
+
+10) chapter_b - 0.6777729392051697
+
+11) power_b - 0.6250228881835938
+
+Result for the vector: life, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9284965481166186
+
+1) life_b - 0.9284965481166186
+
+2) case_b - 0.8865886926651064
+
+3) story_b - 0.845524013042456
+
+4) place_b - 0.839574942614143
+
+5) one_b - 0.8294802409720292
+
+6) man_b - 0.8236417875503443
+
+7) leg_b - 0.7671538730172008
+
+8) arm_b - 0.7507664858381169
+
+9) fact_b - 0.6807278585000135
+
+10) chapter_b - 0.6761312081735618
+
+11) power_b - 0.6312172632683966
+
+Result for the vector: fact, coming from part a of the book
+Rank: 6 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8587002754211426
+
+1) case_b - 0.9211357784948233
+
+2) story_b - 0.9034634771027269
+
+3) place_b - 0.8746597170829773
+
+4) one_b - 0.8724884390830994
+
+5) man_b - 0.8681971430778503
+
+6) fact_b - 0.8587002754211426
+
+7) life_b - 0.8434866164036636
+
+8) leg_b - 0.8072909116744995
+
+9) arm_b - 0.7785864008315576
+
+10) power_b - 0.7017551064491272
+
+11) chapter_b - 0.6960061192512512
+
+Result for the vector: arm, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8943510714560124
+
+1) arm_b - 0.8943510714560124
+
+2) leg_b - 0.8528501391410828
+
+3) man_b - 0.7790204882621765
+
+4) place_b - 0.7600805759429932
+
+5) one_b - 0.7589111328125
+
+6) story_b - 0.7459852544060515
+
+7) case_b - 0.7424641098060687
+
+8) life_b - 0.7312793295813019
+
+9) fact_b - 0.6495369076728821
+
+10) chapter_b - 0.5915446877479553
+
+11) power_b - 0.565597653388977
+
+Result for the vector: story, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8999002635538564
+
+1) story_b - 0.8999002635538564
+
+2) case_b - 0.869870312817688
+
+3) life_b - 0.8578925386859423
+
+4) place_b - 0.8448661154668253
+
+5) man_b - 0.8276576605251299
+
+6) leg_b - 0.818545065099595
+
+7) arm_b - 0.8149757120056682
+
+8) one_b - 0.808610760139142
+
+9) fact_b - 0.7506037651772832
+
+10) power_b - 0.674858787672669
+
+11) chapter_b - 0.6669325033506794
+
+Result for the vector: chapter, coming from part a of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8636276721954346
+
+1) chapter_b - 0.8636276721954346
+
+2) one_b - 0.7093971967697144
+
+3) case_b - 0.7063213411761142
+
+4) story_b - 0.7010719597978581
+
+5) man_b - 0.6890271902084351
+
+6) place_b - 0.6889285445213318
+
+7) life_b - 0.6675724585311151
+
+8) fact_b - 0.6364669799804688
+
+9) leg_b - 0.620104193687439
+
+10) arm_b - 0.6048325535754838
+
+11) power_b - 0.48827460408210754
+
+Result for the vector: power, coming from part a of the book
+Rank: 9 out of 11 characters
+Cosine similarity to the co-referring vector: 0.7867069840431213
+
+1) case_b - 0.8464891223006933
+
+2) place_b - 0.8318256735801697
+
+3) man_b - 0.8297629356384277
+
+4) story_b - 0.8248658671895202
+
+5) one_b - 0.8242242932319641
+
+6) life_b - 0.8116797321033652
+
+7) leg_b - 0.8042120933532715
+
+8) arm_b - 0.7941580537463409
+
+9) power_b - 0.7867069840431213
+
+10) fact_b - 0.7297190427780151
+
+11) chapter_b - 0.6276535391807556
+
+Result for the vector: man, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9813469052314758
+
+1) man_a - 0.9813469052314758
+
+2) one_a - 0.9024837286020441
+
+3) place_a - 0.8942846655845642
+
+4) case_a - 0.8938026428222656
+
+5) leg_a - 0.8793865442276001
+
+6) fact_a - 0.8681971430778503
+
+7) power_a - 0.8297629356384277
+
+8) story_a - 0.8276576605251299
+
+9) life_a - 0.8236417875503443
+
+10) arm_a - 0.7790204882621765
+
+11) chapter_a - 0.6890271902084351
+
+Result for the vector: case, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.95586669181983
+
+1) case_a - 0.95586669181983
+
+2) place_a - 0.9263248995736197
+
+3) fact_a - 0.9211357784948233
+
+4) life_a - 0.8865886926651064
+
+5) one_a - 0.8863826590522524
+
+6) man_a - 0.8753383681379792
+
+7) story_a - 0.869870312817688
+
+8) leg_a - 0.8635974445103091
+
+9) power_a - 0.8464891223006933
+
+10) arm_a - 0.7424641098060687
+
+11) chapter_a - 0.7063213411761142
+
+Result for the vector: place, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9577341675758362
+
+1) place_a - 0.9577341675758362
+
+2) case_a - 0.9062305688858032
+
+3) one_a - 0.8762096427741545
+
+4) fact_a - 0.8746597170829773
+
+5) man_a - 0.8722330331802368
+
+6) story_a - 0.8448661154668253
+
+7) leg_a - 0.8441367149353027
+
+8) life_a - 0.839574942614143
+
+9) power_a - 0.8318256735801697
+
+10) arm_a - 0.7600805759429932
+
+11) chapter_a - 0.6889285445213318
+
+Result for the vector: one, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9743789724820551
+
+1) one_a - 0.9743789724820551
+
+2) man_a - 0.9111526608467102
+
+3) case_a - 0.8974449634552002
+
+4) place_a - 0.8812503814697266
+
+5) fact_a - 0.8724884390830994
+
+6) leg_a - 0.865363597869873
+
+7) life_a - 0.8294802409720292
+
+8) power_a - 0.8242242932319641
+
+9) story_a - 0.808610760139142
+
+10) arm_a - 0.7589111328125
+
+11) chapter_a - 0.7093971967697144
+
+Result for the vector: leg, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9334731101989746
+
+1) leg_a - 0.9334731101989746
+
+2) arm_a - 0.8528501391410828
+
+3) man_a - 0.8329252004623413
+
+4) case_a - 0.8264951109886169
+
+5) place_a - 0.8204438090324402
+
+6) story_a - 0.818545065099595
+
+7) one_a - 0.8119201902127327
+
+8) fact_a - 0.8072909116744995
+
+9) power_a - 0.8042120933532715
+
+10) life_a - 0.7671538730172008
+
+11) chapter_a - 0.620104193687439
+
+Result for the vector: life, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.9284965481166186
+
+1) life_a - 0.9284965481166186
+
+2) case_a - 0.9023856578835469
+
+3) leg_a - 0.8666442116114983
+
+4) place_a - 0.8614795886588357
+
+5) story_a - 0.8578925386859423
+
+6) fact_a - 0.8434866164036636
+
+7) one_a - 0.832188879484273
+
+8) man_a - 0.8216834770629732
+
+9) power_a - 0.8116797321033652
+
+10) arm_a - 0.7312793295813019
+
+11) chapter_a - 0.6675724585311151
+
+Result for the vector: fact, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8587002754211426
+
+1) fact_a - 0.8587002754211426
+
+2) case_a - 0.8247991800308228
+
+3) place_a - 0.7861273288726807
+
+4) one_a - 0.7732313505778122
+
+5) story_a - 0.7506037651772832
+
+6) man_a - 0.7451075315475464
+
+7) power_a - 0.7297190427780151
+
+8) leg_a - 0.7244389653205872
+
+9) life_a - 0.6807278585000135
+
+10) arm_a - 0.6495369076728821
+
+11) chapter_a - 0.6364669799804688
+
+Result for the vector: arm, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8943510714560124
+
+1) arm_a - 0.8943510714560124
+
+2) leg_a - 0.8625271402283242
+
+3) story_a - 0.8149757120056682
+
+4) man_a - 0.8147806039583337
+
+5) place_a - 0.803277146620922
+
+6) case_a - 0.7966481568427006
+
+7) power_a - 0.7941580537463409
+
+8) one_a - 0.7892328861584431
+
+9) fact_a - 0.7785864008315576
+
+10) life_a - 0.7507664858381169
+
+11) chapter_a - 0.6048325535754838
+
+Result for the vector: story, coming from part b of the book
+Rank: 3 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8999002635538564
+
+1) case_a - 0.9151604721045792
+
+2) fact_a - 0.9034634771027269
+
+3) story_a - 0.8999002635538564
+
+4) place_a - 0.8744411989713445
+
+5) life_a - 0.845524013042456
+
+6) one_a - 0.8452721993868533
+
+7) man_a - 0.8390471243290394
+
+8) leg_a - 0.8316628832616155
+
+9) power_a - 0.8248658671895202
+
+10) arm_a - 0.7459852544060515
+
+11) chapter_a - 0.7010719597978581
+
+Result for the vector: chapter, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.8636276721954346
+
+1) chapter_a - 0.8636276721954346
+
+2) case_a - 0.7247452139854431
+
+3) place_a - 0.7105349898338318
+
+4) one_a - 0.7091143342588647
+
+5) fact_a - 0.6960061192512512
+
+6) man_a - 0.6879076957702637
+
+7) leg_a - 0.6777729392051697
+
+8) life_a - 0.6761312081735618
+
+9) story_a - 0.6669325033506794
+
+10) power_a - 0.6276535391807556
+
+11) arm_a - 0.5915446877479553
+
+Result for the vector: power, coming from part b of the book
+Rank: 1 out of 11 characters
+Cosine similarity to the co-referring vector: 0.7867069840431213
+
+1) power_a - 0.7867069840431213
+
+2) fact_a - 0.7017551064491272
+
+3) case_a - 0.6847233772277832
+
+4) story_a - 0.674858787672669
+
+5) place_a - 0.6631894111633301
+
+6) one_a - 0.6483750536553581
+
+7) life_a - 0.6312172632683966
+
+8) leg_a - 0.6250228881835938
+
+9) man_a - 0.6247361898422241
+
+10) arm_a - 0.565597653388977
+
+11) chapter_a - 0.48827460408210754
+

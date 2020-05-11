@@ -1,0 +1,1596 @@
+Result for the vector: miss_anne_elliot, coming from part i of the book
+Rank: 3 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9484488589240404
+
+1) henrietta_a - 0.9528973926450901
+
+2) mary_a - 0.9492517366336387
+
+3) miss_anne_elliot_a - 0.9484488589240404
+
+4) lady_russell_a - 0.944608474785851
+
+5) louisa_musgrove_a - 0.9441168556317894
+
+6) elizabeth_a - 0.94160088374623
+
+7) mrs_charles_musgrove_a - 0.9415465243053347
+
+8) mrs_clay_a - 0.9378009047807615
+
+9) mrs_croft_a - 0.9376345519096786
+
+10) mrs_harville_a - 0.9282836828570005
+
+11) frederick_wentworth_a - 0.8890257676564879
+
+12) kellynch_hall_a - 0.8842369054485482
+
+13) charles_hayter_a - 0.8728356621514555
+
+14) mr_wentworth_a - 0.8605899388125519
+
+15) uppercross_cottage_a - 0.860409157908785
+
+16) miss_musgroves_a - 0.8165391464876126
+
+17) james_benwick_a - 0.804650151868178
+
+18) harvilles_a - 0.8030680422586269
+
+19) william_walter_elliot_a - 0.7891140328781658
+
+Result for the vector: mr_wentworth, coming from part i of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9472472071647644
+
+1) mr_wentworth_a - 0.9472472071647644
+
+2) mrs_harville_a - 0.9372909944442215
+
+3) james_benwick_a - 0.9236259505971716
+
+4) mrs_croft_a - 0.9195605516433716
+
+5) mrs_charles_musgrove_a - 0.902732253074646
+
+6) miss_anne_elliot_a - 0.9023798049914736
+
+7) henrietta_a - 0.8822047640207284
+
+8) mary_a - 0.878768265247345
+
+9) lady_russell_a - 0.8742406368255615
+
+10) louisa_musgrove_a - 0.8665350079536438
+
+11) elizabeth_a - 0.8635196685791016
+
+12) frederick_wentworth_a - 0.8590754866600037
+
+13) charles_hayter_a - 0.8566797461104559
+
+14) kellynch_hall_a - 0.8494554341488619
+
+15) mrs_clay_a - 0.8446736839219159
+
+16) william_walter_elliot_a - 0.8381797325068636
+
+17) uppercross_cottage_a - 0.822558581829071
+
+18) miss_musgroves_a - 0.7695984473704832
+
+19) harvilles_a - 0.7517485470621925
+
+Result for the vector: mrs_charles_musgrove, coming from part i of the book
+Rank: 5 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9133187532424927
+
+1) miss_anne_elliot_a - 0.9343301018673259
+
+2) mrs_croft_a - 0.9314712285995483
+
+3) frederick_wentworth_a - 0.919763445854187
+
+4) mrs_harville_a - 0.919207779145473
+
+5) mrs_charles_musgrove_a - 0.9133187532424927
+
+6) henrietta_a - 0.9125485964148417
+
+7) mary_a - 0.9112874269485474
+
+8) charles_hayter_a - 0.9083653147002884
+
+9) elizabeth_a - 0.9004974365234375
+
+10) louisa_musgrove_a - 0.8967708945274353
+
+11) lady_russell_a - 0.8964598178863525
+
+12) mrs_clay_a - 0.882237010135474
+
+13) mr_wentworth_a - 0.8775915503501892
+
+14) kellynch_hall_a - 0.8758832364221592
+
+15) uppercross_cottage_a - 0.8446506857872009
+
+16) william_walter_elliot_a - 0.8383173596357516
+
+17) miss_musgroves_a - 0.825198913371531
+
+18) james_benwick_a - 0.8189307559173863
+
+19) harvilles_a - 0.8083720092995187
+
+Result for the vector: lady_russell, coming from part i of the book
+Rank: 2 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9264405325913763
+
+1) mary_a - 0.9284053998235123
+
+2) lady_russell_a - 0.9264405325913763
+
+3) henrietta_a - 0.9261329682031832
+
+4) elizabeth_a - 0.9218623591579429
+
+5) miss_anne_elliot_a - 0.9211214686776958
+
+6) mrs_charles_musgrove_a - 0.9162644694009123
+
+7) louisa_musgrove_a - 0.9151792475688025
+
+8) mrs_croft_a - 0.9148573824678308
+
+9) mrs_clay_a - 0.9083874116405739
+
+10) mrs_harville_a - 0.8900401791966126
+
+11) kellynch_hall_a - 0.8878223962889815
+
+12) frederick_wentworth_a - 0.8686512034327525
+
+13) uppercross_cottage_a - 0.8655932465549274
+
+14) charles_hayter_a - 0.8578901290893616
+
+15) mr_wentworth_a - 0.835381259642916
+
+16) miss_musgroves_a - 0.7938786262761321
+
+17) harvilles_a - 0.7791701292002355
+
+18) james_benwick_a - 0.771283090114599
+
+19) william_walter_elliot_a - 0.7647976963041156
+
+Result for the vector: william_walter_elliot, coming from part i of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9615961599825673
+
+1) william_walter_elliot_a - 0.9615961599825673
+
+2) mr_wentworth_a - 0.859809398651123
+
+3) mrs_harville_a - 0.8568924324778451
+
+4) mrs_croft_a - 0.8518671989440918
+
+5) frederick_wentworth_a - 0.848909318447113
+
+6) mrs_charles_musgrove_a - 0.8477894067764282
+
+7) miss_anne_elliot_a - 0.8429832960953307
+
+8) james_benwick_a - 0.8283077580745379
+
+9) henrietta_a - 0.8202000749230444
+
+10) mary_a - 0.8193261027336121
+
+11) charles_hayter_a - 0.8068943734828026
+
+12) elizabeth_a - 0.8063574433326721
+
+13) lady_russell_a - 0.8055322170257568
+
+14) louisa_musgrove_a - 0.8034065961837769
+
+15) kellynch_hall_a - 0.7822940609104616
+
+16) mrs_clay_a - 0.7784826623489073
+
+17) uppercross_cottage_a - 0.7573785185813904
+
+18) miss_musgroves_a - 0.7004674881836026
+
+19) harvilles_a - 0.6826734949751804
+
+Result for the vector: mary, coming from part i of the book
+Rank: 2 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9162389586114279
+
+1) miss_anne_elliot_a - 0.9163151879686341
+
+2) mary_a - 0.9162389586114279
+
+3) henrietta_a - 0.9151146906751025
+
+4) louisa_musgrove_a - 0.9060247484460339
+
+5) elizabeth_a - 0.9058592263376267
+
+6) mrs_clay_a - 0.9027294996654391
+
+7) mrs_croft_a - 0.901126021213892
+
+8) lady_russell_a - 0.8990193545233834
+
+9) mrs_charles_musgrove_a - 0.8971563516352402
+
+10) frederick_wentworth_a - 0.8962070284013185
+
+11) mrs_harville_a - 0.8840571836284269
+
+12) charles_hayter_a - 0.8773682713508668
+
+13) kellynch_hall_a - 0.8594222152577647
+
+14) uppercross_cottage_a - 0.8318300146955275
+
+15) miss_musgroves_a - 0.8229077002025579
+
+16) mr_wentworth_a - 0.8168961892662175
+
+17) harvilles_a - 0.8117041959409947
+
+18) william_walter_elliot_a - 0.7669065684294616
+
+19) james_benwick_a - 0.7420955896377616
+
+Result for the vector: louisa_musgrove, coming from part i of the book
+Rank: 2 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9457622235104839
+
+1) henrietta_a - 0.9524880079932361
+
+2) louisa_musgrove_a - 0.9457622235104839
+
+3) mary_a - 0.9447854227083484
+
+4) lady_russell_a - 0.9357196169233846
+
+5) elizabeth_a - 0.9343388158871221
+
+6) mrs_charles_musgrove_a - 0.930762776045475
+
+7) miss_anne_elliot_a - 0.9283255977436692
+
+8) mrs_clay_a - 0.9267941160920937
+
+9) mrs_croft_a - 0.9208982681157335
+
+10) mrs_harville_a - 0.9097897193023914
+
+11) frederick_wentworth_a - 0.9009562252812181
+
+12) kellynch_hall_a - 0.876868992598297
+
+13) charles_hayter_a - 0.8666978716794497
+
+14) uppercross_cottage_a - 0.8556569390705957
+
+15) mr_wentworth_a - 0.8330742319733879
+
+16) miss_musgroves_a - 0.818661139727142
+
+17) harvilles_a - 0.808755766823557
+
+18) william_walter_elliot_a - 0.7863513720317535
+
+19) james_benwick_a - 0.7731898236531348
+
+Result for the vector: elizabeth, coming from part i of the book
+Rank: 3 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9127241477103122
+
+1) miss_anne_elliot_a - 0.9153184941221327
+
+2) mary_a - 0.9150607091116125
+
+3) elizabeth_a - 0.9127241477103122
+
+4) henrietta_a - 0.9119851641663957
+
+5) lady_russell_a - 0.9008008359908125
+
+6) louisa_musgrove_a - 0.9001739144117998
+
+7) mrs_croft_a - 0.8992935539134145
+
+8) mrs_clay_a - 0.8988283336861078
+
+9) mrs_charles_musgrove_a - 0.8890395892811375
+
+10) frederick_wentworth_a - 0.8817101858007749
+
+11) mrs_harville_a - 0.8799550342600114
+
+12) charles_hayter_a - 0.8799364185446961
+
+13) kellynch_hall_a - 0.8371389896538283
+
+14) mr_wentworth_a - 0.8100511062084368
+
+15) uppercross_cottage_a - 0.8062739603192911
+
+16) miss_musgroves_a - 0.7935475593613868
+
+17) harvilles_a - 0.780896497911436
+
+18) william_walter_elliot_a - 0.7751559518138299
+
+19) james_benwick_a - 0.7393111456672302
+
+Result for the vector: henrietta, coming from part i of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9151437333140678
+
+1) henrietta_a - 0.9151437333140678
+
+2) mary_a - 0.9130699738180733
+
+3) mrs_clay_a - 0.9053379353679601
+
+4) miss_anne_elliot_a - 0.9038260636433469
+
+5) louisa_musgrove_a - 0.9032554145746993
+
+6) elizabeth_a - 0.898832214017849
+
+7) lady_russell_a - 0.8930017479656106
+
+8) mrs_charles_musgrove_a - 0.88654972475175
+
+9) mrs_croft_a - 0.8865167633871185
+
+10) mrs_harville_a - 0.8775959422353655
+
+11) frederick_wentworth_a - 0.87147714239632
+
+12) charles_hayter_a - 0.8579711571983429
+
+13) kellynch_hall_a - 0.8270494754196464
+
+14) uppercross_cottage_a - 0.802508258520578
+
+15) mr_wentworth_a - 0.797585451890778
+
+16) miss_musgroves_a - 0.7796909708061033
+
+17) harvilles_a - 0.7675963778736489
+
+18) william_walter_elliot_a - 0.7635335239589128
+
+19) james_benwick_a - 0.7337642192070105
+
+Result for the vector: james_benwick, coming from part i of the book
+Rank: 3 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9204557036810275
+
+1) mr_wentworth_a - 0.9319234530971393
+
+2) mrs_harville_a - 0.9295496663585442
+
+3) james_benwick_a - 0.9204557036810275
+
+4) mrs_croft_a - 0.9034082351083631
+
+5) mrs_charles_musgrove_a - 0.8813495110661098
+
+6) miss_anne_elliot_a - 0.8769689798355165
+
+7) henrietta_a - 0.8556986451149048
+
+8) mary_a - 0.8518821685384427
+
+9) lady_russell_a - 0.8440371844746376
+
+10) louisa_musgrove_a - 0.8384927011434629
+
+11) charles_hayter_a - 0.8337051470631186
+
+12) elizabeth_a - 0.8336628178559069
+
+13) frederick_wentworth_a - 0.8298736912087401
+
+14) mrs_clay_a - 0.8207201957702696
+
+15) william_walter_elliot_a - 0.818551396770737
+
+16) kellynch_hall_a - 0.8176193563426707
+
+17) uppercross_cottage_a - 0.7936555866208337
+
+18) miss_musgroves_a - 0.7439675705442587
+
+19) harvilles_a - 0.7253135442733816
+
+Result for the vector: mrs_clay, coming from part i of the book
+Rank: 7 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9021043777465885
+
+1) henrietta_a - 0.9183960556984013
+
+2) mary_a - 0.912496214360226
+
+3) elizabeth_a - 0.9095121676020539
+
+4) miss_anne_elliot_a - 0.9092877507209842
+
+5) lady_russell_a - 0.9050582107866892
+
+6) louisa_musgrove_a - 0.903472727330166
+
+7) mrs_clay_a - 0.9021043777465885
+
+8) mrs_charles_musgrove_a - 0.8942403260326207
+
+9) mrs_croft_a - 0.8922016088842403
+
+10) mrs_harville_a - 0.8847753737933858
+
+11) frederick_wentworth_a - 0.8499428719316217
+
+12) kellynch_hall_a - 0.8359641726081077
+
+13) charles_hayter_a - 0.8286689724124703
+
+14) uppercross_cottage_a - 0.8117716424601306
+
+15) mr_wentworth_a - 0.8020438669893835
+
+16) miss_musgroves_a - 0.7976490617499067
+
+17) harvilles_a - 0.7922630906105098
+
+18) william_walter_elliot_a - 0.7721878060046523
+
+19) james_benwick_a - 0.7494837344308216
+
+Result for the vector: mrs_croft, coming from part i of the book
+Rank: 2 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9286383390426636
+
+1) mrs_harville_a - 0.9311062375040725
+
+2) mrs_croft_a - 0.9286383390426636
+
+3) mr_wentworth_a - 0.9125854969024658
+
+4) miss_anne_elliot_a - 0.909691089969344
+
+5) mrs_charles_musgrove_a - 0.8879543542861938
+
+6) henrietta_a - 0.8805012631715112
+
+7) james_benwick_a - 0.8780904484933363
+
+8) charles_hayter_a - 0.8727324084799062
+
+9) mary_a - 0.8718696236610413
+
+10) lady_russell_a - 0.867475688457489
+
+11) elizabeth_a - 0.8670132160186768
+
+12) frederick_wentworth_a - 0.8635858297348022
+
+13) louisa_musgrove_a - 0.8617912530899048
+
+14) mrs_clay_a - 0.8499929219480126
+
+15) kellynch_hall_a - 0.8447060174100438
+
+16) william_walter_elliot_a - 0.8195237761593994
+
+17) uppercross_cottage_a - 0.8174965381622314
+
+18) miss_musgroves_a - 0.7876199718600506
+
+19) harvilles_a - 0.7672573785339237
+
+Result for the vector: mrs_harville, coming from part i of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9525546119378395
+
+1) mrs_harville_a - 0.9525546119378395
+
+2) mr_wentworth_a - 0.9465824365615845
+
+3) james_benwick_a - 0.9296610993348914
+
+4) mrs_croft_a - 0.9214991927146912
+
+5) miss_anne_elliot_a - 0.9010423958922876
+
+6) mrs_charles_musgrove_a - 0.8914220333099365
+
+7) henrietta_a - 0.8755133077808221
+
+8) mary_a - 0.8713858127593994
+
+9) frederick_wentworth_a - 0.8666117787361145
+
+10) lady_russell_a - 0.859566867351532
+
+11) louisa_musgrove_a - 0.8575945496559143
+
+12) elizabeth_a - 0.8566797971725464
+
+13) charles_hayter_a - 0.8556340422848453
+
+14) william_walter_elliot_a - 0.8476668848892122
+
+15) mrs_clay_a - 0.8406304622072271
+
+16) kellynch_hall_a - 0.8390385104371952
+
+17) uppercross_cottage_a - 0.8134269714355469
+
+18) miss_musgroves_a - 0.7746026150763817
+
+19) harvilles_a - 0.7547634097792764
+
+Result for the vector: charles_hayter, coming from part i of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9211178563026463
+
+1) charles_hayter_a - 0.9211178563026463
+
+2) mrs_croft_a - 0.8799308681570511
+
+3) miss_anne_elliot_a - 0.875862427004445
+
+4) frederick_wentworth_a - 0.8741364033059655
+
+5) henrietta_a - 0.8679400165116916
+
+6) mrs_harville_a - 0.8666572391995372
+
+7) louisa_musgrove_a - 0.8645302814805234
+
+8) mrs_charles_musgrove_a - 0.8618857429163823
+
+9) mary_a - 0.8606712388192191
+
+10) elizabeth_a - 0.8515975652220829
+
+11) lady_russell_a - 0.846046764129792
+
+12) kellynch_hall_a - 0.841377832561056
+
+13) mr_wentworth_a - 0.8370807365082876
+
+14) mrs_clay_a - 0.8331127862267159
+
+15) uppercross_cottage_a - 0.8128460868780567
+
+16) miss_musgroves_a - 0.7814848916395192
+
+17) harvilles_a - 0.7753410473262763
+
+18) william_walter_elliot_a - 0.7713928725070259
+
+19) james_benwick_a - 0.7701211982748764
+
+Result for the vector: kellynch_hall, coming from part i of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9098771214485427
+
+1) kellynch_hall_a - 0.9098771214485427
+
+2) uppercross_cottage_a - 0.8898940551154743
+
+3) mrs_croft_a - 0.8651281434450382
+
+4) miss_anne_elliot_a - 0.865033125585282
+
+5) elizabeth_a - 0.8537835900525619
+
+6) mary_a - 0.8512378157660802
+
+7) frederick_wentworth_a - 0.849290949021697
+
+8) henrietta_a - 0.8489771215278739
+
+9) lady_russell_a - 0.8435591272782299
+
+10) louisa_musgrove_a - 0.839409570623591
+
+11) mrs_charles_musgrove_a - 0.8372262522251966
+
+12) charles_hayter_a - 0.8363917968506825
+
+13) mrs_harville_a - 0.8349404983133853
+
+14) mrs_clay_a - 0.8237127346478836
+
+15) miss_musgroves_a - 0.7884057742961936
+
+16) mr_wentworth_a - 0.7877794847225584
+
+17) harvilles_a - 0.7720018813613455
+
+18) william_walter_elliot_a - 0.729428459618759
+
+19) james_benwick_a - 0.7160891721301892
+
+Result for the vector: frederick_wentworth, coming from part i of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.898530417593148
+
+1) frederick_wentworth_a - 0.898530417593148
+
+2) mrs_croft_a - 0.8538933309253071
+
+3) charles_hayter_a - 0.839794397354132
+
+4) mrs_harville_a - 0.8397355830433
+
+5) miss_anne_elliot_a - 0.8378704593027185
+
+6) mrs_charles_musgrove_a - 0.827486147134672
+
+7) mr_wentworth_a - 0.8233687176328148
+
+8) mary_a - 0.8206079495315536
+
+9) henrietta_a - 0.8204349661391933
+
+10) william_walter_elliot_a - 0.8153920902662362
+
+11) louisa_musgrove_a - 0.8071929697509405
+
+12) elizabeth_a - 0.8067133311458442
+
+13) lady_russell_a - 0.7985583423708895
+
+14) kellynch_hall_a - 0.7923052434739452
+
+15) mrs_clay_a - 0.7866193397783446
+
+16) james_benwick_a - 0.7641153931617791
+
+17) uppercross_cottage_a - 0.76232235207095
+
+18) miss_musgroves_a - 0.7435411879606121
+
+19) harvilles_a - 0.729624656394083
+
+Result for the vector: miss_musgroves, coming from part i of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9308467147511291
+
+1) miss_musgroves_a - 0.9308467147511291
+
+2) harvilles_a - 0.9305709517682733
+
+3) mrs_croft_a - 0.8505366355500615
+
+4) mrs_harville_a - 0.8471837205157033
+
+5) miss_anne_elliot_a - 0.8460889871226533
+
+6) henrietta_a - 0.8409126211300637
+
+7) mary_a - 0.8346594473516626
+
+8) lady_russell_a - 0.8328496714144764
+
+9) louisa_musgrove_a - 0.8317684430938046
+
+10) elizabeth_a - 0.8313903708094594
+
+11) kellynch_hall_a - 0.8283482892305811
+
+12) mrs_charles_musgrove_a - 0.8265905872935422
+
+13) frederick_wentworth_a - 0.8156927714164731
+
+14) mrs_clay_a - 0.8130956665391524
+
+15) uppercross_cottage_a - 0.8071505312413308
+
+16) charles_hayter_a - 0.8009819984436092
+
+17) mr_wentworth_a - 0.7764466271666676
+
+18) james_benwick_a - 0.7238229513168386
+
+19) william_walter_elliot_a - 0.6978811649573894
+
+Result for the vector: uppercross_cottage, coming from part i of the book
+Rank: 2 out of 19 characters
+Cosine similarity to the co-referring vector: 0.8876555032935455
+
+1) kellynch_hall_a - 0.8889157374651917
+
+2) uppercross_cottage_a - 0.8876555032935455
+
+3) miss_anne_elliot_a - 0.836663544178015
+
+4) mrs_croft_a - 0.830035875437507
+
+5) mrs_harville_a - 0.8264570585949138
+
+6) lady_russell_a - 0.8116589300835785
+
+7) henrietta_a - 0.8087862730026303
+
+8) mary_a - 0.8078996653616642
+
+9) elizabeth_a - 0.8074373717643412
+
+10) mrs_charles_musgrove_a - 0.8070800419402112
+
+11) louisa_musgrove_a - 0.7997372269787071
+
+12) mrs_clay_a - 0.7947781085968074
+
+13) frederick_wentworth_a - 0.7858700283843276
+
+14) charles_hayter_a - 0.7777205374574021
+
+15) miss_musgroves_a - 0.7764980561584844
+
+16) mr_wentworth_a - 0.773437275085613
+
+17) harvilles_a - 0.7492460608482414
+
+18) james_benwick_a - 0.7290589536358173
+
+19) william_walter_elliot_a - 0.6886648330490368
+
+Result for the vector: harvilles, coming from part i of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9091034748348724
+
+1) harvilles_a - 0.9091034748348724
+
+2) miss_musgroves_a - 0.9014066995028674
+
+3) miss_anne_elliot_a - 0.827709272001023
+
+4) mrs_croft_a - 0.8239493019565736
+
+5) lady_russell_a - 0.8222195751136419
+
+6) kellynch_hall_a - 0.8221019963530992
+
+7) mary_a - 0.8215937859294951
+
+8) henrietta_a - 0.8165927663379404
+
+9) elizabeth_a - 0.8153755907826306
+
+10) louisa_musgrove_a - 0.8109536412642495
+
+11) frederick_wentworth_a - 0.809156203542835
+
+12) mrs_charles_musgrove_a - 0.8072254302270843
+
+13) uppercross_cottage_a - 0.804480278625497
+
+14) mrs_harville_a - 0.8000237226500346
+
+15) mrs_clay_a - 0.7948536391425409
+
+16) charles_hayter_a - 0.7879658106575697
+
+17) mr_wentworth_a - 0.7447609527337838
+
+18) james_benwick_a - 0.6773711241075089
+
+19) william_walter_elliot_a - 0.6759570643876234
+
+Result for the vector: miss_anne_elliot, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9484488589240404
+
+1) miss_anne_elliot_wiki - 0.9484488589240404
+
+2) mrs_charles_musgrove_wiki - 0.9343301018673259
+
+3) louisa_musgrove_wiki - 0.9283255977436692
+
+4) lady_russell_wiki - 0.9211214686776958
+
+5) mary_wiki - 0.9163151879686341
+
+6) elizabeth_wiki - 0.9153184941221327
+
+7) mrs_croft_wiki - 0.909691089969344
+
+8) mrs_clay_wiki - 0.9092877507209842
+
+9) henrietta_wiki - 0.9038260636433469
+
+10) mr_wentworth_wiki - 0.9023798049914736
+
+11) mrs_harville_wiki - 0.9010423958922876
+
+12) james_benwick_wiki - 0.8769689798355165
+
+13) charles_hayter_wiki - 0.875862427004445
+
+14) kellynch_hall_wiki - 0.865033125585282
+
+15) miss_musgroves_wiki - 0.8460889871226533
+
+16) william_walter_elliot_wiki - 0.8429832960953307
+
+17) frederick_wentworth_wiki - 0.8378704593027185
+
+18) uppercross_cottage_wiki - 0.836663544178015
+
+19) harvilles_wiki - 0.827709272001023
+
+Result for the vector: mr_wentworth, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9472472071647644
+
+1) mr_wentworth_wiki - 0.9472472071647644
+
+2) mrs_harville_wiki - 0.9465824365615845
+
+3) james_benwick_wiki - 0.9319234530971393
+
+4) mrs_croft_wiki - 0.9125854969024658
+
+5) mrs_charles_musgrove_wiki - 0.8775915503501892
+
+6) miss_anne_elliot_wiki - 0.8605899388125519
+
+7) william_walter_elliot_wiki - 0.859809398651123
+
+8) charles_hayter_wiki - 0.8370807365082876
+
+9) lady_russell_wiki - 0.835381259642916
+
+10) louisa_musgrove_wiki - 0.8330742319733879
+
+11) frederick_wentworth_wiki - 0.8233687176328148
+
+12) mary_wiki - 0.8168961892662175
+
+13) elizabeth_wiki - 0.8100511062084368
+
+14) mrs_clay_wiki - 0.8020438669893835
+
+15) henrietta_wiki - 0.797585451890778
+
+16) kellynch_hall_wiki - 0.7877794847225584
+
+17) miss_musgroves_wiki - 0.7764466271666676
+
+18) uppercross_cottage_wiki - 0.773437275085613
+
+19) harvilles_wiki - 0.7447609527337838
+
+Result for the vector: mrs_charles_musgrove, coming from part a of the book
+Rank: 4 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9133187532424927
+
+1) miss_anne_elliot_wiki - 0.9415465243053347
+
+2) louisa_musgrove_wiki - 0.930762776045475
+
+3) lady_russell_wiki - 0.9162644694009123
+
+4) mrs_charles_musgrove_wiki - 0.9133187532424927
+
+5) mr_wentworth_wiki - 0.902732253074646
+
+6) mary_wiki - 0.8971563516352402
+
+7) mrs_clay_wiki - 0.8942403260326207
+
+8) mrs_harville_wiki - 0.8914220333099365
+
+9) elizabeth_wiki - 0.8890395892811375
+
+10) mrs_croft_wiki - 0.8879543542861938
+
+11) henrietta_wiki - 0.88654972475175
+
+12) james_benwick_wiki - 0.8813495110661098
+
+13) charles_hayter_wiki - 0.8618857429163823
+
+14) william_walter_elliot_wiki - 0.8477894067764282
+
+15) kellynch_hall_wiki - 0.8372262522251966
+
+16) frederick_wentworth_wiki - 0.827486147134672
+
+17) miss_musgroves_wiki - 0.8265905872935422
+
+18) harvilles_wiki - 0.8072254302270843
+
+19) uppercross_cottage_wiki - 0.8070800419402112
+
+Result for the vector: lady_russell, coming from part a of the book
+Rank: 3 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9264405325913763
+
+1) miss_anne_elliot_wiki - 0.944608474785851
+
+2) louisa_musgrove_wiki - 0.9357196169233846
+
+3) lady_russell_wiki - 0.9264405325913763
+
+4) mrs_clay_wiki - 0.9050582107866892
+
+5) elizabeth_wiki - 0.9008008359908125
+
+6) mary_wiki - 0.8990193545233834
+
+7) mrs_charles_musgrove_wiki - 0.8964598178863525
+
+8) henrietta_wiki - 0.8930017479656106
+
+9) mr_wentworth_wiki - 0.8742406368255615
+
+10) mrs_croft_wiki - 0.867475688457489
+
+11) mrs_harville_wiki - 0.859566867351532
+
+12) charles_hayter_wiki - 0.846046764129792
+
+13) james_benwick_wiki - 0.8440371844746376
+
+14) kellynch_hall_wiki - 0.8435591272782299
+
+15) miss_musgroves_wiki - 0.8328496714144764
+
+16) harvilles_wiki - 0.8222195751136419
+
+17) uppercross_cottage_wiki - 0.8116589300835785
+
+18) william_walter_elliot_wiki - 0.8055322170257568
+
+19) frederick_wentworth_wiki - 0.7985583423708895
+
+Result for the vector: william_walter_elliot, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9615961599825673
+
+1) william_walter_elliot_wiki - 0.9615961599825673
+
+2) mrs_harville_wiki - 0.8476668848892122
+
+3) mrs_charles_musgrove_wiki - 0.8383173596357516
+
+4) mr_wentworth_wiki - 0.8381797325068636
+
+5) mrs_croft_wiki - 0.8195237761593994
+
+6) james_benwick_wiki - 0.818551396770737
+
+7) frederick_wentworth_wiki - 0.8153920902662362
+
+8) miss_anne_elliot_wiki - 0.7891140328781658
+
+9) louisa_musgrove_wiki - 0.7863513720317535
+
+10) elizabeth_wiki - 0.7751559518138299
+
+11) mrs_clay_wiki - 0.7721878060046523
+
+12) charles_hayter_wiki - 0.7713928725070259
+
+13) mary_wiki - 0.7669065684294616
+
+14) lady_russell_wiki - 0.7647976963041156
+
+15) henrietta_wiki - 0.7635335239589128
+
+16) kellynch_hall_wiki - 0.729428459618759
+
+17) miss_musgroves_wiki - 0.6978811649573894
+
+18) uppercross_cottage_wiki - 0.6886648330490368
+
+19) harvilles_wiki - 0.6759570643876234
+
+Result for the vector: mary, coming from part a of the book
+Rank: 4 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9162389586114279
+
+1) miss_anne_elliot_wiki - 0.9492517366336387
+
+2) louisa_musgrove_wiki - 0.9447854227083484
+
+3) lady_russell_wiki - 0.9284053998235123
+
+4) mary_wiki - 0.9162389586114279
+
+5) elizabeth_wiki - 0.9150607091116125
+
+6) henrietta_wiki - 0.9130699738180733
+
+7) mrs_clay_wiki - 0.912496214360226
+
+8) mrs_charles_musgrove_wiki - 0.9112874269485474
+
+9) mr_wentworth_wiki - 0.878768265247345
+
+10) mrs_croft_wiki - 0.8718696236610413
+
+11) mrs_harville_wiki - 0.8713858127593994
+
+12) charles_hayter_wiki - 0.8606712388192191
+
+13) james_benwick_wiki - 0.8518821685384427
+
+14) kellynch_hall_wiki - 0.8512378157660802
+
+15) miss_musgroves_wiki - 0.8346594473516626
+
+16) harvilles_wiki - 0.8215937859294951
+
+17) frederick_wentworth_wiki - 0.8206079495315536
+
+18) william_walter_elliot_wiki - 0.8193261027336121
+
+19) uppercross_cottage_wiki - 0.8078996653616642
+
+Result for the vector: louisa_musgrove, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9457622235104839
+
+1) louisa_musgrove_wiki - 0.9457622235104839
+
+2) miss_anne_elliot_wiki - 0.9441168556317894
+
+3) lady_russell_wiki - 0.9151792475688025
+
+4) mary_wiki - 0.9060247484460339
+
+5) mrs_clay_wiki - 0.903472727330166
+
+6) henrietta_wiki - 0.9032554145746993
+
+7) elizabeth_wiki - 0.9001739144117998
+
+8) mrs_charles_musgrove_wiki - 0.8967708945274353
+
+9) mr_wentworth_wiki - 0.8665350079536438
+
+10) charles_hayter_wiki - 0.8645302814805234
+
+11) mrs_croft_wiki - 0.8617912530899048
+
+12) mrs_harville_wiki - 0.8575945496559143
+
+13) kellynch_hall_wiki - 0.839409570623591
+
+14) james_benwick_wiki - 0.8384927011434629
+
+15) miss_musgroves_wiki - 0.8317684430938046
+
+16) harvilles_wiki - 0.8109536412642495
+
+17) frederick_wentworth_wiki - 0.8071929697509405
+
+18) william_walter_elliot_wiki - 0.8034065961837769
+
+19) uppercross_cottage_wiki - 0.7997372269787071
+
+Result for the vector: elizabeth, coming from part a of the book
+Rank: 4 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9127241477103122
+
+1) miss_anne_elliot_wiki - 0.94160088374623
+
+2) louisa_musgrove_wiki - 0.9343388158871221
+
+3) lady_russell_wiki - 0.9218623591579429
+
+4) elizabeth_wiki - 0.9127241477103122
+
+5) mrs_clay_wiki - 0.9095121676020539
+
+6) mary_wiki - 0.9058592263376267
+
+7) mrs_charles_musgrove_wiki - 0.9004974365234375
+
+8) henrietta_wiki - 0.898832214017849
+
+9) mrs_croft_wiki - 0.8670132160186768
+
+10) mr_wentworth_wiki - 0.8635196685791016
+
+11) mrs_harville_wiki - 0.8566797971725464
+
+12) kellynch_hall_wiki - 0.8537835900525619
+
+13) charles_hayter_wiki - 0.8515975652220829
+
+14) james_benwick_wiki - 0.8336628178559069
+
+15) miss_musgroves_wiki - 0.8313903708094594
+
+16) harvilles_wiki - 0.8153755907826306
+
+17) uppercross_cottage_wiki - 0.8074373717643412
+
+18) frederick_wentworth_wiki - 0.8067133311458442
+
+19) william_walter_elliot_wiki - 0.8063574433326721
+
+Result for the vector: henrietta, coming from part a of the book
+Rank: 5 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9151437333140678
+
+1) miss_anne_elliot_wiki - 0.9528973926450901
+
+2) louisa_musgrove_wiki - 0.9524880079932361
+
+3) lady_russell_wiki - 0.9261329682031832
+
+4) mrs_clay_wiki - 0.9183960556984013
+
+5) henrietta_wiki - 0.9151437333140678
+
+6) mary_wiki - 0.9151146906751025
+
+7) mrs_charles_musgrove_wiki - 0.9125485964148417
+
+8) elizabeth_wiki - 0.9119851641663957
+
+9) mr_wentworth_wiki - 0.8822047640207284
+
+10) mrs_croft_wiki - 0.8805012631715112
+
+11) mrs_harville_wiki - 0.8755133077808221
+
+12) charles_hayter_wiki - 0.8679400165116916
+
+13) james_benwick_wiki - 0.8556986451149048
+
+14) kellynch_hall_wiki - 0.8489771215278739
+
+15) miss_musgroves_wiki - 0.8409126211300637
+
+16) frederick_wentworth_wiki - 0.8204349661391933
+
+17) william_walter_elliot_wiki - 0.8202000749230444
+
+18) harvilles_wiki - 0.8165927663379404
+
+19) uppercross_cottage_wiki - 0.8087862730026303
+
+Result for the vector: james_benwick, coming from part a of the book
+Rank: 3 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9204557036810275
+
+1) mrs_harville_wiki - 0.9296610993348914
+
+2) mr_wentworth_wiki - 0.9236259505971716
+
+3) james_benwick_wiki - 0.9204557036810275
+
+4) mrs_croft_wiki - 0.8780904484933363
+
+5) william_walter_elliot_wiki - 0.8283077580745379
+
+6) mrs_charles_musgrove_wiki - 0.8189307559173863
+
+7) miss_anne_elliot_wiki - 0.804650151868178
+
+8) louisa_musgrove_wiki - 0.7731898236531348
+
+9) lady_russell_wiki - 0.771283090114599
+
+10) charles_hayter_wiki - 0.7701211982748764
+
+11) frederick_wentworth_wiki - 0.7641153931617791
+
+12) mrs_clay_wiki - 0.7494837344308216
+
+13) mary_wiki - 0.7420955896377616
+
+14) elizabeth_wiki - 0.7393111456672302
+
+15) henrietta_wiki - 0.7337642192070105
+
+16) uppercross_cottage_wiki - 0.7290589536358173
+
+17) miss_musgroves_wiki - 0.7238229513168386
+
+18) kellynch_hall_wiki - 0.7160891721301892
+
+19) harvilles_wiki - 0.6773711241075089
+
+Result for the vector: mrs_clay, coming from part a of the book
+Rank: 6 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9021043777465885
+
+1) miss_anne_elliot_wiki - 0.9378009047807615
+
+2) louisa_musgrove_wiki - 0.9267941160920937
+
+3) lady_russell_wiki - 0.9083874116405739
+
+4) henrietta_wiki - 0.9053379353679601
+
+5) mary_wiki - 0.9027294996654391
+
+6) mrs_clay_wiki - 0.9021043777465885
+
+7) elizabeth_wiki - 0.8988283336861078
+
+8) mrs_charles_musgrove_wiki - 0.882237010135474
+
+9) mrs_croft_wiki - 0.8499929219480126
+
+10) mr_wentworth_wiki - 0.8446736839219159
+
+11) mrs_harville_wiki - 0.8406304622072271
+
+12) charles_hayter_wiki - 0.8331127862267159
+
+13) kellynch_hall_wiki - 0.8237127346478836
+
+14) james_benwick_wiki - 0.8207201957702696
+
+15) miss_musgroves_wiki - 0.8130956665391524
+
+16) harvilles_wiki - 0.7948536391425409
+
+17) uppercross_cottage_wiki - 0.7947781085968074
+
+18) frederick_wentworth_wiki - 0.7866193397783446
+
+19) william_walter_elliot_wiki - 0.7784826623489073
+
+Result for the vector: mrs_croft, coming from part a of the book
+Rank: 3 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9286383390426636
+
+1) miss_anne_elliot_wiki - 0.9376345519096786
+
+2) mrs_charles_musgrove_wiki - 0.9314712285995483
+
+3) mrs_croft_wiki - 0.9286383390426636
+
+4) mrs_harville_wiki - 0.9214991927146912
+
+5) louisa_musgrove_wiki - 0.9208982681157335
+
+6) mr_wentworth_wiki - 0.9195605516433716
+
+7) lady_russell_wiki - 0.9148573824678308
+
+8) james_benwick_wiki - 0.9034082351083631
+
+9) mary_wiki - 0.901126021213892
+
+10) elizabeth_wiki - 0.8992935539134145
+
+11) mrs_clay_wiki - 0.8922016088842403
+
+12) henrietta_wiki - 0.8865167633871185
+
+13) charles_hayter_wiki - 0.8799308681570511
+
+14) kellynch_hall_wiki - 0.8651281434450382
+
+15) frederick_wentworth_wiki - 0.8538933309253071
+
+16) william_walter_elliot_wiki - 0.8518671989440918
+
+17) miss_musgroves_wiki - 0.8505366355500615
+
+18) uppercross_cottage_wiki - 0.830035875437507
+
+19) harvilles_wiki - 0.8239493019565736
+
+Result for the vector: mrs_harville, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9525546119378395
+
+1) mrs_harville_wiki - 0.9525546119378395
+
+2) mr_wentworth_wiki - 0.9372909944442215
+
+3) mrs_croft_wiki - 0.9311062375040725
+
+4) james_benwick_wiki - 0.9295496663585442
+
+5) miss_anne_elliot_wiki - 0.9282836828570005
+
+6) mrs_charles_musgrove_wiki - 0.919207779145473
+
+7) louisa_musgrove_wiki - 0.9097897193023914
+
+8) lady_russell_wiki - 0.8900401791966126
+
+9) mrs_clay_wiki - 0.8847753737933858
+
+10) mary_wiki - 0.8840571836284269
+
+11) elizabeth_wiki - 0.8799550342600114
+
+12) henrietta_wiki - 0.8775959422353655
+
+13) charles_hayter_wiki - 0.8666572391995372
+
+14) william_walter_elliot_wiki - 0.8568924324778451
+
+15) miss_musgroves_wiki - 0.8471837205157033
+
+16) frederick_wentworth_wiki - 0.8397355830433
+
+17) kellynch_hall_wiki - 0.8349404983133853
+
+18) uppercross_cottage_wiki - 0.8264570585949138
+
+19) harvilles_wiki - 0.8000237226500346
+
+Result for the vector: charles_hayter, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9211178563026463
+
+1) charles_hayter_wiki - 0.9211178563026463
+
+2) mrs_charles_musgrove_wiki - 0.9083653147002884
+
+3) elizabeth_wiki - 0.8799364185446961
+
+4) mary_wiki - 0.8773682713508668
+
+5) miss_anne_elliot_wiki - 0.8728356621514555
+
+6) mrs_croft_wiki - 0.8727324084799062
+
+7) louisa_musgrove_wiki - 0.8666978716794497
+
+8) henrietta_wiki - 0.8579711571983429
+
+9) lady_russell_wiki - 0.8578901290893616
+
+10) mr_wentworth_wiki - 0.8566797461104559
+
+11) mrs_harville_wiki - 0.8556340422848453
+
+12) frederick_wentworth_wiki - 0.839794397354132
+
+13) kellynch_hall_wiki - 0.8363917968506825
+
+14) james_benwick_wiki - 0.8337051470631186
+
+15) mrs_clay_wiki - 0.8286689724124703
+
+16) william_walter_elliot_wiki - 0.8068943734828026
+
+17) miss_musgroves_wiki - 0.8009819984436092
+
+18) harvilles_wiki - 0.7879658106575697
+
+19) uppercross_cottage_wiki - 0.7777205374574021
+
+Result for the vector: kellynch_hall, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9098771214485427
+
+1) kellynch_hall_wiki - 0.9098771214485427
+
+2) uppercross_cottage_wiki - 0.8889157374651917
+
+3) lady_russell_wiki - 0.8878223962889815
+
+4) miss_anne_elliot_wiki - 0.8842369054485482
+
+5) louisa_musgrove_wiki - 0.876868992598297
+
+6) mrs_charles_musgrove_wiki - 0.8758832364221592
+
+7) mary_wiki - 0.8594222152577647
+
+8) mr_wentworth_wiki - 0.8494554341488619
+
+9) mrs_croft_wiki - 0.8447060174100438
+
+10) charles_hayter_wiki - 0.841377832561056
+
+11) mrs_harville_wiki - 0.8390385104371952
+
+12) elizabeth_wiki - 0.8371389896538283
+
+13) mrs_clay_wiki - 0.8359641726081077
+
+14) miss_musgroves_wiki - 0.8283482892305811
+
+15) henrietta_wiki - 0.8270494754196464
+
+16) harvilles_wiki - 0.8221019963530992
+
+17) james_benwick_wiki - 0.8176193563426707
+
+18) frederick_wentworth_wiki - 0.7923052434739452
+
+19) william_walter_elliot_wiki - 0.7822940609104616
+
+Result for the vector: frederick_wentworth, coming from part a of the book
+Rank: 3 out of 19 characters
+Cosine similarity to the co-referring vector: 0.898530417593148
+
+1) mrs_charles_musgrove_wiki - 0.919763445854187
+
+2) louisa_musgrove_wiki - 0.9009562252812181
+
+3) frederick_wentworth_wiki - 0.898530417593148
+
+4) mary_wiki - 0.8962070284013185
+
+5) miss_anne_elliot_wiki - 0.8890257676564879
+
+6) elizabeth_wiki - 0.8817101858007749
+
+7) charles_hayter_wiki - 0.8741364033059655
+
+8) henrietta_wiki - 0.87147714239632
+
+9) lady_russell_wiki - 0.8686512034327525
+
+10) mrs_harville_wiki - 0.8666117787361145
+
+11) mrs_croft_wiki - 0.8635858297348022
+
+12) mr_wentworth_wiki - 0.8590754866600037
+
+13) mrs_clay_wiki - 0.8499428719316217
+
+14) kellynch_hall_wiki - 0.849290949021697
+
+15) william_walter_elliot_wiki - 0.848909318447113
+
+16) james_benwick_wiki - 0.8298736912087401
+
+17) miss_musgroves_wiki - 0.8156927714164731
+
+18) harvilles_wiki - 0.809156203542835
+
+19) uppercross_cottage_wiki - 0.7858700283843276
+
+Result for the vector: miss_musgroves, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9308467147511291
+
+1) miss_musgroves_wiki - 0.9308467147511291
+
+2) harvilles_wiki - 0.9014066995028674
+
+3) mrs_charles_musgrove_wiki - 0.825198913371531
+
+4) mary_wiki - 0.8229077002025579
+
+5) louisa_musgrove_wiki - 0.818661139727142
+
+6) miss_anne_elliot_wiki - 0.8165391464876126
+
+7) mrs_clay_wiki - 0.7976490617499067
+
+8) lady_russell_wiki - 0.7938786262761321
+
+9) elizabeth_wiki - 0.7935475593613868
+
+10) kellynch_hall_wiki - 0.7884057742961936
+
+11) mrs_croft_wiki - 0.7876199718600506
+
+12) charles_hayter_wiki - 0.7814848916395192
+
+13) henrietta_wiki - 0.7796909708061033
+
+14) uppercross_cottage_wiki - 0.7764980561584844
+
+15) mrs_harville_wiki - 0.7746026150763817
+
+16) mr_wentworth_wiki - 0.7695984473704832
+
+17) james_benwick_wiki - 0.7439675705442587
+
+18) frederick_wentworth_wiki - 0.7435411879606121
+
+19) william_walter_elliot_wiki - 0.7004674881836026
+
+Result for the vector: uppercross_cottage, coming from part a of the book
+Rank: 2 out of 19 characters
+Cosine similarity to the co-referring vector: 0.8876555032935455
+
+1) kellynch_hall_wiki - 0.8898940551154743
+
+2) uppercross_cottage_wiki - 0.8876555032935455
+
+3) lady_russell_wiki - 0.8655932465549274
+
+4) miss_anne_elliot_wiki - 0.860409157908785
+
+5) louisa_musgrove_wiki - 0.8556569390705957
+
+6) mrs_charles_musgrove_wiki - 0.8446506857872009
+
+7) mary_wiki - 0.8318300146955275
+
+8) mr_wentworth_wiki - 0.822558581829071
+
+9) mrs_croft_wiki - 0.8174965381622314
+
+10) mrs_harville_wiki - 0.8134269714355469
+
+11) charles_hayter_wiki - 0.8128460868780567
+
+12) mrs_clay_wiki - 0.8117716424601306
+
+13) miss_musgroves_wiki - 0.8071505312413308
+
+14) elizabeth_wiki - 0.8062739603192911
+
+15) harvilles_wiki - 0.804480278625497
+
+16) henrietta_wiki - 0.802508258520578
+
+17) james_benwick_wiki - 0.7936555866208337
+
+18) frederick_wentworth_wiki - 0.76232235207095
+
+19) william_walter_elliot_wiki - 0.7573785185813904
+
+Result for the vector: harvilles, coming from part a of the book
+Rank: 2 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9091034748348724
+
+1) miss_musgroves_wiki - 0.9305709517682733
+
+2) harvilles_wiki - 0.9091034748348724
+
+3) mary_wiki - 0.8117041959409947
+
+4) louisa_musgrove_wiki - 0.808755766823557
+
+5) mrs_charles_musgrove_wiki - 0.8083720092995187
+
+6) miss_anne_elliot_wiki - 0.8030680422586269
+
+7) mrs_clay_wiki - 0.7922630906105098
+
+8) elizabeth_wiki - 0.780896497911436
+
+9) lady_russell_wiki - 0.7791701292002355
+
+10) charles_hayter_wiki - 0.7753410473262763
+
+11) kellynch_hall_wiki - 0.7720018813613455
+
+12) henrietta_wiki - 0.7675963778736489
+
+13) mrs_croft_wiki - 0.7672573785339237
+
+14) mrs_harville_wiki - 0.7547634097792764
+
+15) mr_wentworth_wiki - 0.7517485470621925
+
+16) uppercross_cottage_wiki - 0.7492460608482414
+
+17) frederick_wentworth_wiki - 0.729624656394083
+
+18) james_benwick_wiki - 0.7253135442733816
+
+19) william_walter_elliot_wiki - 0.6826734949751804
+

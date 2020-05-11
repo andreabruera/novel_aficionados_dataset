@@ -1,0 +1,396 @@
+Result for the vector: day, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9716789705561996
+
+1) day_b - 0.9716789705561996
+
+2) friend_b - 0.8736375645615138
+
+3) school_b - 0.863880165584079
+
+4) escape_b - 0.8413997387051753
+
+5) hope_b - 0.8347489139288031
+
+6) nothing_b - 0.8332620660379071
+
+7) book_b - 0.7940066334013138
+
+8) chapter_b - 0.6971709728240967
+
+9) piece_b - 0.6383763767256524
+
+Result for the vector: nothing, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.955462178237297
+
+1) nothing_b - 0.955462178237297
+
+2) friend_b - 0.8439229978300128
+
+3) day_b - 0.8365432078455702
+
+4) hope_b - 0.8350126795489612
+
+5) escape_b - 0.8065163137470667
+
+6) school_b - 0.7967483638748127
+
+7) book_b - 0.7625361029112496
+
+8) piece_b - 0.6340598056930316
+
+9) chapter_b - 0.6332915395460934
+
+Result for the vector: friend, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9398608279394116
+
+1) friend_b - 0.9398608279394116
+
+2) day_b - 0.8210061788559019
+
+3) book_b - 0.8156226277351437
+
+4) hope_b - 0.8141814470291195
+
+5) escape_b - 0.8091269363013582
+
+6) nothing_b - 0.8026176573406382
+
+7) school_b - 0.7942922956595069
+
+8) chapter_b - 0.6402836060354956
+
+9) piece_b - 0.6253073662153046
+
+Result for the vector: chapter, coming from part a of the book
+Rank: 3 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7611938118934631
+
+1) friend_b - 0.7802544367161742
+
+2) day_b - 0.774002061724787
+
+3) chapter_b - 0.7611938118934631
+
+4) escape_b - 0.7254789635253583
+
+5) school_b - 0.7220270799382295
+
+6) nothing_b - 0.7201261782796646
+
+7) book_b - 0.708489639072994
+
+8) hope_b - 0.7040133895882017
+
+9) piece_b - 0.5395311987679492
+
+Result for the vector: hope, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9049484616456582
+
+1) hope_b - 0.9049484616456582
+
+2) friend_b - 0.824451446533209
+
+3) day_b - 0.7944330328027049
+
+4) escape_b - 0.7707065939903314
+
+5) nothing_b - 0.7684888425747485
+
+6) book_b - 0.7625006154180307
+
+7) school_b - 0.7450978755950981
+
+8) piece_b - 0.5939117670059246
+
+9) chapter_b - 0.5886859052590085
+
+Result for the vector: book, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8698182702064576
+
+1) book_b - 0.8698182702064576
+
+2) day_b - 0.8610478639602722
+
+3) friend_b - 0.85954882388725
+
+4) school_b - 0.8349349099475253
+
+5) hope_b - 0.817818760871893
+
+6) escape_b - 0.8160130004867314
+
+7) nothing_b - 0.8145805486786822
+
+8) chapter_b - 0.6838266441925392
+
+9) piece_b - 0.6147518021164177
+
+Result for the vector: school, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9067941959622998
+
+1) school_b - 0.9067941959622998
+
+2) day_b - 0.8411900306457314
+
+3) friend_b - 0.801858258136616
+
+4) book_b - 0.7822269667522306
+
+5) escape_b - 0.7734499112695522
+
+6) nothing_b - 0.767457338268445
+
+7) hope_b - 0.7518150062450784
+
+8) piece_b - 0.5960759761288191
+
+9) chapter_b - 0.5893734693527222
+
+Result for the vector: escape, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8825190733361812
+
+1) escape_b - 0.8825190733361812
+
+2) friend_b - 0.7876025564907472
+
+3) day_b - 0.7781720029218212
+
+4) hope_b - 0.7708099943882237
+
+5) school_b - 0.7590841794559862
+
+6) nothing_b - 0.7461918885936657
+
+7) book_b - 0.6897706204516078
+
+8) piece_b - 0.6352250197395681
+
+9) chapter_b - 0.5999383926391602
+
+Result for the vector: piece, coming from part a of the book
+Rank: 4 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7452645079712746
+
+1) day_b - 0.7615196193623206
+
+2) escape_b - 0.7488757148720141
+
+3) friend_b - 0.7478224412255782
+
+4) piece_b - 0.7452645079712746
+
+5) nothing_b - 0.7434772168811018
+
+6) hope_b - 0.7286954577590937
+
+7) school_b - 0.7094843772207414
+
+8) book_b - 0.6937761927046951
+
+9) chapter_b - 0.584623235005833
+
+Result for the vector: day, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9716789705561996
+
+1) day_a - 0.9716789705561996
+
+2) book_a - 0.8610478639602722
+
+3) school_a - 0.8411900306457314
+
+4) nothing_a - 0.8365432078455702
+
+5) friend_a - 0.8210061788559019
+
+6) hope_a - 0.7944330328027049
+
+7) escape_a - 0.7781720029218212
+
+8) chapter_a - 0.774002061724787
+
+9) piece_a - 0.7615196193623206
+
+Result for the vector: nothing, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.955462178237297
+
+1) nothing_a - 0.955462178237297
+
+2) day_a - 0.8332620660379071
+
+3) book_a - 0.8145805486786822
+
+4) friend_a - 0.8026176573406382
+
+5) hope_a - 0.7684888425747485
+
+6) school_a - 0.767457338268445
+
+7) escape_a - 0.7461918885936657
+
+8) piece_a - 0.7434772168811018
+
+9) chapter_a - 0.7201261782796646
+
+Result for the vector: friend, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9398608279394116
+
+1) friend_a - 0.9398608279394116
+
+2) day_a - 0.8736375645615138
+
+3) book_a - 0.85954882388725
+
+4) nothing_a - 0.8439229978300128
+
+5) hope_a - 0.824451446533209
+
+6) school_a - 0.801858258136616
+
+7) escape_a - 0.7876025564907472
+
+8) chapter_a - 0.7802544367161742
+
+9) piece_a - 0.7478224412255782
+
+Result for the vector: chapter, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7611938118934631
+
+1) chapter_a - 0.7611938118934631
+
+2) day_a - 0.6971709728240967
+
+3) book_a - 0.6838266441925392
+
+4) friend_a - 0.6402836060354956
+
+5) nothing_a - 0.6332915395460934
+
+6) escape_a - 0.5999383926391602
+
+7) school_a - 0.5893734693527222
+
+8) hope_a - 0.5886859052590085
+
+9) piece_a - 0.584623235005833
+
+Result for the vector: hope, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9049484616456582
+
+1) hope_a - 0.9049484616456582
+
+2) nothing_a - 0.8350126795489612
+
+3) day_a - 0.8347489139288031
+
+4) book_a - 0.817818760871893
+
+5) friend_a - 0.8141814470291195
+
+6) escape_a - 0.7708099943882237
+
+7) school_a - 0.7518150062450784
+
+8) piece_a - 0.7286954577590937
+
+9) chapter_a - 0.7040133895882017
+
+Result for the vector: book, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8698182702064576
+
+1) book_a - 0.8698182702064576
+
+2) friend_a - 0.8156226277351437
+
+3) day_a - 0.7940066334013138
+
+4) school_a - 0.7822269667522306
+
+5) nothing_a - 0.7625361029112496
+
+6) hope_a - 0.7625006154180307
+
+7) chapter_a - 0.708489639072994
+
+8) piece_a - 0.6937761927046951
+
+9) escape_a - 0.6897706204516078
+
+Result for the vector: school, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9067941959622998
+
+1) school_a - 0.9067941959622998
+
+2) day_a - 0.863880165584079
+
+3) book_a - 0.8349349099475253
+
+4) nothing_a - 0.7967483638748127
+
+5) friend_a - 0.7942922956595069
+
+6) escape_a - 0.7590841794559862
+
+7) hope_a - 0.7450978755950981
+
+8) chapter_a - 0.7220270799382295
+
+9) piece_a - 0.7094843772207414
+
+Result for the vector: escape, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8825190733361812
+
+1) escape_a - 0.8825190733361812
+
+2) day_a - 0.8413997387051753
+
+3) book_a - 0.8160130004867314
+
+4) friend_a - 0.8091269363013582
+
+5) nothing_a - 0.8065163137470667
+
+6) school_a - 0.7734499112695522
+
+7) hope_a - 0.7707065939903314
+
+8) piece_a - 0.7488757148720141
+
+9) chapter_a - 0.7254789635253583
+
+Result for the vector: piece, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7452645079712746
+
+1) piece_a - 0.7452645079712746
+
+2) day_a - 0.6383763767256524
+
+3) escape_a - 0.6352250197395681
+
+4) nothing_a - 0.6340598056930316
+
+5) friend_a - 0.6253073662153046
+
+6) book_a - 0.6147518021164177
+
+7) school_a - 0.5960759761288191
+
+8) hope_a - 0.5939117670059246
+
+9) chapter_a - 0.5395311987679492
+

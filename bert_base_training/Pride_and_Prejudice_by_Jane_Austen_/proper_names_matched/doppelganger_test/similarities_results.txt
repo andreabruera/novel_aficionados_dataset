@@ -1,0 +1,3360 @@
+Result for the vector: miss_elizabeth_bennet, coming from part a of the book
+Rank: 2 out of 28 characters
+Cosine similarity to the co-referring vector: 0.94349878689641
+
+1) mrs_gardiner_b - 0.95774889495982
+
+2) miss_elizabeth_bennet_b - 0.94349878689641
+
+3) mrs_forster_b - 0.9378653448184041
+
+4) mr_bingley_b - 0.9375303424876741
+
+5) mr_darcy_b - 0.9271901293283641
+
+6) lady_catherine_de_bourgh_b - 0.9158476914212832
+
+7) kitty_b - 0.9039111251937002
+
+8) jane_b - 0.8927267523787429
+
+9) mr_wickham_b - 0.8922695581752341
+
+10) miss_lydia_bennet_b - 0.8919125199317995
+
+11) mr_collins_b - 0.8913942044142379
+
+12) fitzwilliam_b - 0.8909882968075115
+
+13) georgiana_b - 0.8842362899498594
+
+14) mary_king_b - 0.8741835430751135
+
+15) lady_lucas_b - 0.8698542118072572
+
+16) mrs_phillips_b - 0.8641152028831492
+
+17) mr_denny_b - 0.8617073297500671
+
+18) miss_lizzy_b - 0.8533594274474229
+
+19) charlotte_lucas_b - 0.8524162349204737
+
+20) mrs_collins_b - 0.8521036593852261
+
+21) maria_lucas_b - 0.8377524364664458
+
+22) pemberley_house_b - 0.8151636719703732
+
+23) mrs_long_b - 0.8148532620159842
+
+24) rosings_b - 0.8115184419442166
+
+25) william_lucas_b - 0.7969636442086923
+
+26) mrs_hurst_b - 0.7785049676895197
+
+27) miss_lucas_b - 0.7166198064911493
+
+28) miss_eliza_bennet_b - 0.6780742598727799
+
+Result for the vector: mr_darcy, coming from part a of the book
+Rank: 5 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9669028481129296
+
+1) mr_wickham_b - 0.9717389311479318
+
+2) kitty_b - 0.9700062257055334
+
+3) jane_b - 0.9682708037303135
+
+4) lady_catherine_de_bourgh_b - 0.9674609553010733
+
+5) mr_darcy_b - 0.9669028481129296
+
+6) miss_lydia_bennet_b - 0.9622909955306659
+
+7) miss_elizabeth_bennet_b - 0.9613907841183624
+
+8) mr_bingley_b - 0.9601613831712532
+
+9) mr_collins_b - 0.9582996318697559
+
+10) georgiana_b - 0.953330931266021
+
+11) mrs_collins_b - 0.9450912410129663
+
+12) mary_king_b - 0.9388225005653568
+
+13) miss_lizzy_b - 0.9385832548141746
+
+14) charlotte_lucas_b - 0.9266782955335703
+
+15) mrs_gardiner_b - 0.9198494505792676
+
+16) mr_denny_b - 0.9194616531363122
+
+17) maria_lucas_b - 0.9045113480853099
+
+18) lady_lucas_b - 0.9015556993882134
+
+19) mrs_phillips_b - 0.8975898623466747
+
+20) mrs_forster_b - 0.8937918024224827
+
+21) mrs_long_b - 0.8729785529349572
+
+22) pemberley_house_b - 0.8645670171797918
+
+23) rosings_b - 0.8589940499060275
+
+24) mrs_hurst_b - 0.8230853360447903
+
+25) william_lucas_b - 0.8100152385253057
+
+26) fitzwilliam_b - 0.8032671574672705
+
+27) miss_lucas_b - 0.7800502514899132
+
+28) miss_eliza_bennet_b - 0.7769220205452522
+
+Result for the vector: jane, coming from part a of the book
+Rank: 1 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9847831432586011
+
+1) jane_b - 0.9847831432586011
+
+2) lady_catherine_de_bourgh_b - 0.9840948288412482
+
+3) kitty_b - 0.980172398069811
+
+4) miss_lydia_bennet_b - 0.977337658405311
+
+5) georgiana_b - 0.9719095263588993
+
+6) mr_darcy_b - 0.9701131004027682
+
+7) miss_elizabeth_bennet_b - 0.9676000456571761
+
+8) mr_wickham_b - 0.9659549614217917
+
+9) mr_bingley_b - 0.9654067179318255
+
+10) mary_king_b - 0.9642702362376327
+
+11) mr_collins_b - 0.9580537701813137
+
+12) charlotte_lucas_b - 0.9401294064367525
+
+13) mrs_collins_b - 0.9375218786286205
+
+14) maria_lucas_b - 0.9299542030705786
+
+15) lady_lucas_b - 0.9241486787796086
+
+16) miss_lizzy_b - 0.9226262111736174
+
+17) mrs_gardiner_b - 0.9216261003463149
+
+18) mrs_phillips_b - 0.917855098631068
+
+19) mrs_long_b - 0.9136452130290755
+
+20) mr_denny_b - 0.9044699668884342
+
+21) pemberley_house_b - 0.8775501847267213
+
+22) mrs_forster_b - 0.8757359050433705
+
+23) rosings_b - 0.8640877685494576
+
+24) mrs_hurst_b - 0.8318254947662412
+
+25) miss_lucas_b - 0.7841366062082897
+
+26) fitzwilliam_b - 0.7808795701933177
+
+27) william_lucas_b - 0.7697500127702958
+
+28) miss_eliza_bennet_b - 0.766742779806688
+
+Result for the vector: mr_bingley, coming from part a of the book
+Rank: 1 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9801274538040161
+
+1) mr_bingley_b - 0.9801274538040161
+
+2) mr_darcy_b - 0.972663938999176
+
+3) miss_elizabeth_bennet_b - 0.963542337839889
+
+4) lady_catherine_de_bourgh_b - 0.9606010604083859
+
+5) mr_wickham_b - 0.9586044549942017
+
+6) kitty_b - 0.9546021846173909
+
+7) jane_b - 0.9545620964337024
+
+8) mr_collins_b - 0.9518028497695923
+
+9) miss_lydia_bennet_b - 0.95003384053909
+
+10) georgiana_b - 0.9454342755416484
+
+11) mrs_gardiner_b - 0.9400103723996672
+
+12) mrs_forster_b - 0.932601594859508
+
+13) mary_king_b - 0.9300075769424438
+
+14) mrs_collins_b - 0.9195449948310852
+
+15) mr_denny_b - 0.9153353521427738
+
+16) lady_lucas_b - 0.9140353151580896
+
+17) charlotte_lucas_b - 0.9113633089445066
+
+18) miss_lizzy_b - 0.9007254957287977
+
+19) maria_lucas_b - 0.8929507998511438
+
+20) mrs_phillips_b - 0.8928808697604159
+
+21) mrs_long_b - 0.8646179437637329
+
+22) fitzwilliam_b - 0.863258957862854
+
+23) pemberley_house_b - 0.8586367880485543
+
+24) rosings_b - 0.8495373129844666
+
+25) william_lucas_b - 0.8312897682189941
+
+26) mrs_hurst_b - 0.8210659516493067
+
+27) miss_lucas_b - 0.7850152850151062
+
+28) miss_eliza_bennet_b - 0.7354552149772644
+
+Result for the vector: mr_wickham, coming from part a of the book
+Rank: 2 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9745865754659948
+
+1) mr_darcy_b - 0.974809675658038
+
+2) mr_wickham_b - 0.9745865754659948
+
+3) mr_bingley_b - 0.9701047828824758
+
+4) mr_collins_b - 0.9659568955289397
+
+5) jane_b - 0.9594399308824498
+
+6) miss_lydia_bennet_b - 0.9592016600848733
+
+7) kitty_b - 0.9562744809307351
+
+8) lady_catherine_de_bourgh_b - 0.9543929668899159
+
+9) georgiana_b - 0.9526640488903546
+
+10) miss_elizabeth_bennet_b - 0.950957678401128
+
+11) mr_denny_b - 0.9331645607797413
+
+12) mary_king_b - 0.9296945610551409
+
+13) charlotte_lucas_b - 0.9265782556957564
+
+14) mrs_gardiner_b - 0.9254397474098318
+
+15) mrs_collins_b - 0.9243862904425354
+
+16) mrs_forster_b - 0.9142865436418721
+
+17) lady_lucas_b - 0.90533050048326
+
+18) maria_lucas_b - 0.9028815569210981
+
+19) miss_lizzy_b - 0.9025497225627651
+
+20) mrs_phillips_b - 0.8797364640471618
+
+21) pemberley_house_b - 0.8696200433033747
+
+22) rosings_b - 0.8536013619184903
+
+23) mrs_long_b - 0.8510619059521531
+
+24) fitzwilliam_b - 0.8386554967956397
+
+25) mrs_hurst_b - 0.8357615622068852
+
+26) william_lucas_b - 0.8266169675176436
+
+27) miss_lucas_b - 0.7583493220314185
+
+28) miss_eliza_bennet_b - 0.7422079069080328
+
+Result for the vector: miss_lydia_bennet, coming from part a of the book
+Rank: 4 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9667840619812129
+
+1) kitty_b - 0.9790615476855866
+
+2) lady_catherine_de_bourgh_b - 0.9697276082878571
+
+3) jane_b - 0.9686504928484226
+
+4) miss_lydia_bennet_b - 0.9667840619812129
+
+5) miss_elizabeth_bennet_b - 0.9662209749222076
+
+6) mary_king_b - 0.9587664653341283
+
+7) georgiana_b - 0.9502680986640294
+
+8) mr_darcy_b - 0.9479611578034042
+
+9) mr_bingley_b - 0.9452998703360779
+
+10) mr_wickham_b - 0.9433134861810887
+
+11) mr_collins_b - 0.94300008499622
+
+12) mrs_gardiner_b - 0.9338029741401139
+
+13) mrs_collins_b - 0.921624014184003
+
+14) mrs_phillips_b - 0.9186039761056957
+
+15) maria_lucas_b - 0.9173050298716203
+
+16) charlotte_lucas_b - 0.9142218385538168
+
+17) lady_lucas_b - 0.9128805450868428
+
+18) miss_lizzy_b - 0.9112978789096168
+
+19) mrs_long_b - 0.903401922774092
+
+20) mr_denny_b - 0.8992996275842555
+
+21) mrs_forster_b - 0.8799071049718123
+
+22) rosings_b - 0.8433389850450832
+
+23) pemberley_house_b - 0.8405450677546953
+
+24) mrs_hurst_b - 0.8348250487551198
+
+25) william_lucas_b - 0.7842426557251682
+
+26) fitzwilliam_b - 0.777337398846465
+
+27) miss_lucas_b - 0.76324316701375
+
+28) miss_eliza_bennet_b - 0.7448635405464773
+
+Result for the vector: mr_collins, coming from part a of the book
+Rank: 2 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9696156364450256
+
+1) mr_darcy_b - 0.9705930334683098
+
+2) mr_collins_b - 0.9696156364450256
+
+3) mr_wickham_b - 0.9667401890003811
+
+4) miss_lydia_bennet_b - 0.9644583421299865
+
+5) jane_b - 0.9638391998862509
+
+6) mr_bingley_b - 0.9624595023667533
+
+7) lady_catherine_de_bourgh_b - 0.9611152077718269
+
+8) miss_elizabeth_bennet_b - 0.959294371478745
+
+9) georgiana_b - 0.9585943222045966
+
+10) kitty_b - 0.9580568671226569
+
+11) mary_king_b - 0.9336573442016466
+
+12) mr_denny_b - 0.9326810160495062
+
+13) mrs_collins_b - 0.9281356291851793
+
+14) charlotte_lucas_b - 0.9279586076736516
+
+15) mrs_gardiner_b - 0.9212030768394536
+
+16) maria_lucas_b - 0.91136731905049
+
+17) miss_lizzy_b - 0.9087601954484015
+
+18) lady_lucas_b - 0.9086006770850035
+
+19) mrs_forster_b - 0.9028776441332171
+
+20) mrs_phillips_b - 0.878472991080716
+
+21) mrs_long_b - 0.8575848852148599
+
+22) pemberley_house_b - 0.8510496438800864
+
+23) rosings_b - 0.8347989222287504
+
+24) mrs_hurst_b - 0.8234023837330798
+
+25) fitzwilliam_b - 0.8230969204364387
+
+26) william_lucas_b - 0.8160494456320685
+
+27) miss_lucas_b - 0.7717833382954217
+
+28) miss_eliza_bennet_b - 0.7444028702022369
+
+Result for the vector: lady_catherine_de_bourgh, coming from part a of the book
+Rank: 1 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9761438660664523
+
+1) lady_catherine_de_bourgh_b - 0.9761438660664523
+
+2) mr_darcy_b - 0.9732726812362671
+
+3) jane_b - 0.9719379237871748
+
+4) kitty_b - 0.9690852779695244
+
+5) mr_wickham_b - 0.9673632383346558
+
+6) miss_lydia_bennet_b - 0.9665192941736771
+
+7) mr_bingley_b - 0.9612946510314941
+
+8) georgiana_b - 0.9569084073955787
+
+9) miss_elizabeth_bennet_b - 0.9523745122402393
+
+10) mr_collins_b - 0.9500043392181396
+
+11) mrs_collins_b - 0.9491361379623413
+
+12) mary_king_b - 0.9429688453674316
+
+13) charlotte_lucas_b - 0.9337599913024924
+
+14) mrs_gardiner_b - 0.9299976271392346
+
+15) lady_lucas_b - 0.9282030420424384
+
+16) mrs_phillips_b - 0.9225572439960016
+
+17) miss_lizzy_b - 0.9097417700598579
+
+18) mrs_long_b - 0.9042292237281799
+
+19) mrs_forster_b - 0.9016148658050512
+
+20) maria_lucas_b - 0.897935596046913
+
+21) mr_denny_b - 0.8924297030228215
+
+22) pemberley_house_b - 0.8841587236022204
+
+23) rosings_b - 0.8827833533287048
+
+24) mrs_hurst_b - 0.8514116317875181
+
+25) fitzwilliam_b - 0.8131631016731262
+
+26) william_lucas_b - 0.7906869649887085
+
+27) miss_lucas_b - 0.7706969976425171
+
+28) miss_eliza_bennet_b - 0.766083836555481
+
+Result for the vector: miss_lizzy, coming from part a of the book
+Rank: 1 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9664366901332115
+
+1) miss_lizzy_b - 0.9664366901332115
+
+2) kitty_b - 0.9663559834532758
+
+3) lady_catherine_de_bourgh_b - 0.9569018197982999
+
+4) jane_b - 0.9542260481647873
+
+5) miss_lydia_bennet_b - 0.944328427314765
+
+6) miss_elizabeth_bennet_b - 0.9412515128404955
+
+7) mr_wickham_b - 0.9359366335906621
+
+8) mary_king_b - 0.934617225252557
+
+9) mrs_collins_b - 0.9338831940958997
+
+10) mr_darcy_b - 0.9303664606591205
+
+11) charlotte_lucas_b - 0.9298260295598472
+
+12) georgiana_b - 0.9246268362251715
+
+13) mr_bingley_b - 0.9221554444935669
+
+14) mr_collins_b - 0.9129065923150441
+
+15) mrs_phillips_b - 0.9128292358823014
+
+16) mrs_long_b - 0.898588484609815
+
+17) mrs_gardiner_b - 0.8944828636070652
+
+18) maria_lucas_b - 0.8787199592971849
+
+19) lady_lucas_b - 0.8785660266876283
+
+20) mr_denny_b - 0.8661798238754334
+
+21) mrs_forster_b - 0.8510942116705933
+
+22) pemberley_house_b - 0.8306046724319517
+
+23) rosings_b - 0.8290177089561412
+
+24) mrs_hurst_b - 0.785233080387121
+
+25) miss_eliza_bennet_b - 0.7805524003176464
+
+26) miss_lucas_b - 0.7800187599647798
+
+27) william_lucas_b - 0.7567817117701954
+
+28) fitzwilliam_b - 0.7439136657766316
+
+Result for the vector: kitty, coming from part a of the book
+Rank: 1 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9658970853151645
+
+1) kitty_b - 0.9658970853151645
+
+2) jane_b - 0.9530283496686328
+
+3) mary_king_b - 0.9519633054733276
+
+4) lady_catherine_de_bourgh_b - 0.9495092913362176
+
+5) miss_elizabeth_bennet_b - 0.942028157952811
+
+6) miss_lydia_bennet_b - 0.9419055546465863
+
+7) mr_collins_b - 0.9353424310684204
+
+8) georgiana_b - 0.9305959981324691
+
+9) mr_bingley_b - 0.9281806945800781
+
+10) mr_darcy_b - 0.9251667261123657
+
+11) mr_wickham_b - 0.9193955659866333
+
+12) mrs_gardiner_b - 0.9131519250183167
+
+13) mrs_collins_b - 0.910855770111084
+
+14) miss_lizzy_b - 0.909724961552035
+
+15) charlotte_lucas_b - 0.9065467770965845
+
+16) lady_lucas_b - 0.9013052523914146
+
+17) maria_lucas_b - 0.8990170627539479
+
+18) mrs_long_b - 0.8965463638305664
+
+19) mr_denny_b - 0.889191442083804
+
+20) mrs_phillips_b - 0.8880694641984211
+
+21) mrs_forster_b - 0.8595127039712139
+
+22) mrs_hurst_b - 0.8496087699895379
+
+23) pemberley_house_b - 0.8083152656743103
+
+24) rosings_b - 0.7904472351074219
+
+25) miss_lucas_b - 0.7744764089584351
+
+26) william_lucas_b - 0.767905592918396
+
+27) fitzwilliam_b - 0.7623127698898315
+
+28) miss_eliza_bennet_b - 0.7377516031265259
+
+Result for the vector: mrs_gardiner, coming from part a of the book
+Rank: 11 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9234776496887273
+
+1) miss_elizabeth_bennet_b - 0.9591842220755038
+
+2) lady_catherine_de_bourgh_b - 0.9570641181228271
+
+3) mr_darcy_b - 0.9565941665526745
+
+4) miss_lydia_bennet_b - 0.9556946701639497
+
+5) kitty_b - 0.9546798467636176
+
+6) jane_b - 0.9503422037072964
+
+7) mr_bingley_b - 0.9497334331115164
+
+8) georgiana_b - 0.9480068087577888
+
+9) mr_wickham_b - 0.9409916961784198
+
+10) mr_collins_b - 0.9395094477837965
+
+11) mrs_gardiner_b - 0.9234776496887273
+
+12) mrs_collins_b - 0.9217236591412834
+
+13) mary_king_b - 0.9214790416645449
+
+14) miss_lizzy_b - 0.9151904037481452
+
+15) charlotte_lucas_b - 0.9090673327446048
+
+16) lady_lucas_b - 0.9078205714011873
+
+17) mrs_phillips_b - 0.9043400940692513
+
+18) mr_denny_b - 0.9040132646576482
+
+19) maria_lucas_b - 0.895247062615788
+
+20) mrs_forster_b - 0.8913546340695973
+
+21) pemberley_house_b - 0.8705661142547266
+
+22) mrs_long_b - 0.8692082088713786
+
+23) rosings_b - 0.8532949598607412
+
+24) fitzwilliam_b - 0.8103234058811325
+
+25) mrs_hurst_b - 0.7964839096646201
+
+26) william_lucas_b - 0.7764244542374895
+
+27) miss_eliza_bennet_b - 0.7641285517292365
+
+28) miss_lucas_b - 0.7440101947790514
+
+Result for the vector: william_lucas, coming from part a of the book
+Rank: 1 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9451751145616122
+
+1) william_lucas_b - 0.9451751145616122
+
+2) mrs_forster_b - 0.814694548091139
+
+3) mr_bingley_b - 0.8128516785590855
+
+4) mr_darcy_b - 0.7965595247412025
+
+5) mrs_gardiner_b - 0.7962256912916075
+
+6) fitzwilliam_b - 0.7896157032480431
+
+7) mr_collins_b - 0.7887418992077186
+
+8) miss_elizabeth_bennet_b - 0.7785891758554807
+
+9) mr_wickham_b - 0.7770886554069142
+
+10) lady_catherine_de_bourgh_b - 0.7732521065100431
+
+11) kitty_b - 0.771959570412687
+
+12) jane_b - 0.7683570155991044
+
+13) charlotte_lucas_b - 0.7605893897307646
+
+14) miss_lydia_bennet_b - 0.7580361962318475
+
+15) mr_denny_b - 0.7569183707237297
+
+16) mrs_collins_b - 0.7530478982300832
+
+17) georgiana_b - 0.7527726587328125
+
+18) mary_king_b - 0.7507661133547967
+
+19) mrs_phillips_b - 0.7504984586539654
+
+20) lady_lucas_b - 0.7472119927406364
+
+21) miss_lizzy_b - 0.736697601670457
+
+22) mrs_hurst_b - 0.735084652900701
+
+23) maria_lucas_b - 0.7211500191345834
+
+24) pemberley_house_b - 0.679061174392705
+
+25) rosings_b - 0.6693564850475511
+
+26) mrs_long_b - 0.6663761337771348
+
+27) miss_lucas_b - 0.6168713201957166
+
+28) miss_eliza_bennet_b - 0.5950082185859561
+
+Result for the vector: mrs_forster, coming from part a of the book
+Rank: 2 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9517688693724732
+
+1) fitzwilliam_b - 0.9636531759397147
+
+2) mrs_forster_b - 0.9517688693724732
+
+3) mrs_gardiner_b - 0.8286332241108085
+
+4) mr_bingley_b - 0.8181213384306834
+
+5) mr_darcy_b - 0.8057265521802475
+
+6) william_lucas_b - 0.7876863714363093
+
+7) miss_elizabeth_bennet_b - 0.7814189167944994
+
+8) mr_collins_b - 0.7719378105383462
+
+9) lady_lucas_b - 0.7639582840166945
+
+10) mr_wickham_b - 0.7639429200870672
+
+11) lady_catherine_de_bourgh_b - 0.7625433661069492
+
+12) mr_denny_b - 0.7591286384280302
+
+13) kitty_b - 0.7502882257018052
+
+14) jane_b - 0.7360945186671328
+
+15) miss_lydia_bennet_b - 0.7335414946265368
+
+16) georgiana_b - 0.7267023108392294
+
+17) mrs_phillips_b - 0.7150291757259589
+
+18) mrs_collins_b - 0.7133380387228146
+
+19) mary_king_b - 0.7091531964884165
+
+20) rosings_b - 0.7085228177464852
+
+21) charlotte_lucas_b - 0.7073353318174113
+
+22) pemberley_house_b - 0.7032843264893588
+
+23) miss_lizzy_b - 0.6919397689158008
+
+24) mrs_hurst_b - 0.6866108196923872
+
+25) mrs_long_b - 0.6694221100038922
+
+26) maria_lucas_b - 0.6665949026700796
+
+27) miss_lucas_b - 0.6008801639342359
+
+28) miss_eliza_bennet_b - 0.5502199098533368
+
+Result for the vector: mary_king, coming from part a of the book
+Rank: 7 out of 28 characters
+Cosine similarity to the co-referring vector: 0.953387348454814
+
+1) lady_catherine_de_bourgh_b - 0.9732469900397652
+
+2) jane_b - 0.9731978162048945
+
+3) miss_lydia_bennet_b - 0.9677839548394644
+
+4) miss_elizabeth_bennet_b - 0.9677485477549692
+
+5) kitty_b - 0.9653758714981155
+
+6) georgiana_b - 0.958379716921461
+
+7) mary_king_b - 0.953387348454814
+
+8) mr_darcy_b - 0.9471766038887685
+
+9) mr_bingley_b - 0.939336685518524
+
+10) mr_wickham_b - 0.9338771979176167
+
+11) mr_collins_b - 0.9301771798782704
+
+12) maria_lucas_b - 0.9188169788609134
+
+13) charlotte_lucas_b - 0.9178629244010805
+
+14) mrs_collins_b - 0.9173949038206016
+
+15) miss_lizzy_b - 0.917166627898826
+
+16) mrs_long_b - 0.9065558584498129
+
+17) mrs_phillips_b - 0.9044484283523277
+
+18) mrs_gardiner_b - 0.9028493492946259
+
+19) lady_lucas_b - 0.8973809090895277
+
+20) mr_denny_b - 0.8812186313765021
+
+21) mrs_forster_b - 0.8482345161717568
+
+22) pemberley_house_b - 0.8302201178866734
+
+23) rosings_b - 0.8165666108300276
+
+24) mrs_hurst_b - 0.791485499574438
+
+25) miss_lucas_b - 0.7831217879987299
+
+26) miss_eliza_bennet_b - 0.7569765674166852
+
+27) fitzwilliam_b - 0.7560363041173314
+
+28) william_lucas_b - 0.7348602633136593
+
+Result for the vector: mrs_collins, coming from part a of the book
+Rank: 13 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9170233060703707
+
+1) lady_catherine_de_bourgh_b - 0.9638869475159997
+
+2) jane_b - 0.9625460814670934
+
+3) kitty_b - 0.9621971294644917
+
+4) miss_lydia_bennet_b - 0.9605071544647285
+
+5) miss_elizabeth_bennet_b - 0.95484328000805
+
+6) mary_king_b - 0.9545023468433429
+
+7) georgiana_b - 0.9504700958168393
+
+8) mr_darcy_b - 0.938313011031569
+
+9) mrs_gardiner_b - 0.9382628276034799
+
+10) mr_bingley_b - 0.9360750355675812
+
+11) mr_collins_b - 0.934547368613044
+
+12) mr_wickham_b - 0.9241777107609699
+
+13) mrs_collins_b - 0.9170233060703707
+
+14) lady_lucas_b - 0.9140100479126041
+
+15) maria_lucas_b - 0.9126894798073364
+
+16) charlotte_lucas_b - 0.9102197992539646
+
+17) mrs_long_b - 0.9061545785573392
+
+18) mrs_phillips_b - 0.9023069914030464
+
+19) mr_denny_b - 0.8885524272918764
+
+20) miss_lizzy_b - 0.8821242066399697
+
+21) mrs_forster_b - 0.8490808263147218
+
+22) pemberley_house_b - 0.8300393223762571
+
+23) mrs_hurst_b - 0.819494307041174
+
+24) rosings_b - 0.8163656701823684
+
+25) miss_lucas_b - 0.7654223581896821
+
+26) william_lucas_b - 0.7524092344993822
+
+27) fitzwilliam_b - 0.7489022166191224
+
+28) miss_eliza_bennet_b - 0.7232942746106236
+
+Result for the vector: mrs_phillips, coming from part a of the book
+Rank: 14 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9177852967041442
+
+1) miss_elizabeth_bennet_b - 0.9663757641763475
+
+2) lady_catherine_de_bourgh_b - 0.9655715514889827
+
+3) mr_bingley_b - 0.9597741365432739
+
+4) mr_darcy_b - 0.9575539827346802
+
+5) kitty_b - 0.9574291731459412
+
+6) jane_b - 0.9570993470281172
+
+7) mrs_gardiner_b - 0.9556946184817201
+
+8) miss_lydia_bennet_b - 0.95276933626946
+
+9) georgiana_b - 0.9510045676824725
+
+10) mr_collins_b - 0.943030059337616
+
+11) mary_king_b - 0.9404886960983276
+
+12) mr_wickham_b - 0.936194121837616
+
+13) lady_lucas_b - 0.9253250912025641
+
+14) mrs_phillips_b - 0.9177852967041442
+
+15) mrs_forster_b - 0.9096943953360113
+
+16) charlotte_lucas_b - 0.9091073924835107
+
+17) maria_lucas_b - 0.9064946444778043
+
+18) mrs_collins_b - 0.9029303193092346
+
+19) mr_denny_b - 0.8990532695682821
+
+20) mrs_long_b - 0.8895981311798096
+
+21) miss_lizzy_b - 0.8759364633635984
+
+22) pemberley_house_b - 0.8557903084629973
+
+23) rosings_b - 0.8519033789634705
+
+24) fitzwilliam_b - 0.8358327150344849
+
+25) mrs_hurst_b - 0.8325560589168122
+
+26) william_lucas_b - 0.7983112335205078
+
+27) miss_lucas_b - 0.7610207796096802
+
+28) miss_eliza_bennet_b - 0.7113613486289978
+
+Result for the vector: miss_lucas, coming from part a of the book
+Rank: 25 out of 28 characters
+Cosine similarity to the co-referring vector: 0.7726559178438249
+
+1) kitty_b - 0.9762091665018598
+
+2) jane_b - 0.9751977629900684
+
+3) lady_catherine_de_bourgh_b - 0.9724894472214783
+
+4) miss_lydia_bennet_b - 0.9628310799598763
+
+5) georgiana_b - 0.9610207127307996
+
+6) miss_elizabeth_bennet_b - 0.9596651172438487
+
+7) mr_wickham_b - 0.9547973302127539
+
+8) mr_darcy_b - 0.9533265856905844
+
+9) mary_king_b - 0.9523697523850367
+
+10) mr_bingley_b - 0.9485759169712134
+
+11) mr_collins_b - 0.9388303197127407
+
+12) charlotte_lucas_b - 0.9271259394733978
+
+13) mrs_collins_b - 0.9257676049609436
+
+14) miss_lizzy_b - 0.9226621527679901
+
+15) maria_lucas_b - 0.9224911057206696
+
+16) mrs_phillips_b - 0.9188075806842616
+
+17) mrs_gardiner_b - 0.9151233535857971
+
+18) lady_lucas_b - 0.9044960737228458
+
+19) mrs_long_b - 0.9011251985356109
+
+20) mr_denny_b - 0.8924368619918887
+
+21) mrs_forster_b - 0.8612429756296663
+
+22) pemberley_house_b - 0.8606473803520264
+
+23) rosings_b - 0.856472321959001
+
+24) mrs_hurst_b - 0.8157315850257931
+
+25) miss_lucas_b - 0.7726559178438249
+
+26) william_lucas_b - 0.766518725960332
+
+27) fitzwilliam_b - 0.7588755632117068
+
+28) miss_eliza_bennet_b - 0.753415897284992
+
+Result for the vector: rosings, coming from part a of the book
+Rank: 2 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9620592594146729
+
+1) pemberley_house_b - 0.9817263473109231
+
+2) rosings_b - 0.9620592594146729
+
+3) mr_wickham_b - 0.8599714040756226
+
+4) mr_darcy_b - 0.8589037656784058
+
+5) georgiana_b - 0.855810889255353
+
+6) mr_collins_b - 0.8458666801452637
+
+7) lady_lucas_b - 0.8426426555301356
+
+8) miss_lydia_bennet_b - 0.8424205686104651
+
+9) mr_bingley_b - 0.8422049283981323
+
+10) lady_catherine_de_bourgh_b - 0.8412028801799682
+
+11) kitty_b - 0.8405912017469896
+
+12) jane_b - 0.8365413199824492
+
+13) mrs_collins_b - 0.8188846111297607
+
+14) miss_elizabeth_bennet_b - 0.8180548331802943
+
+15) charlotte_lucas_b - 0.8164321889619729
+
+16) mrs_phillips_b - 0.8078112235294371
+
+17) mary_king_b - 0.8059903383255005
+
+18) mrs_gardiner_b - 0.8054251786813048
+
+19) maria_lucas_b - 0.8031831623072379
+
+20) mrs_forster_b - 0.7920914404474029
+
+21) miss_lizzy_b - 0.7849580901911207
+
+22) mr_denny_b - 0.7813547123285971
+
+23) mrs_long_b - 0.7649062275886536
+
+24) mrs_hurst_b - 0.7334871729306695
+
+25) fitzwilliam_b - 0.719342052936554
+
+26) miss_eliza_bennet_b - 0.6857713460922241
+
+27) william_lucas_b - 0.6849808692932129
+
+28) miss_lucas_b - 0.6259410381317139
+
+Result for the vector: miss_eliza_bennet, coming from part a of the book
+Rank: 24 out of 28 characters
+Cosine similarity to the co-referring vector: 0.7976992485164757
+
+1) miss_lizzy_b - 0.9725076556206026
+
+2) kitty_b - 0.9160312960166658
+
+3) mrs_collins_b - 0.9062366969867648
+
+4) lady_catherine_de_bourgh_b - 0.9052210010917523
+
+5) charlotte_lucas_b - 0.8990582763587545
+
+6) jane_b - 0.8961430335258033
+
+7) mr_wickham_b - 0.8960739250271295
+
+8) miss_lydia_bennet_b - 0.8916176959784695
+
+9) mr_darcy_b - 0.8904417026569552
+
+10) miss_elizabeth_bennet_b - 0.8838977536911378
+
+11) georgiana_b - 0.8827142645546496
+
+12) mr_bingley_b - 0.8785337660949014
+
+13) mrs_phillips_b - 0.8744629621505986
+
+14) mr_collins_b - 0.865425332239316
+
+15) mary_king_b - 0.8643059568769942
+
+16) mrs_gardiner_b - 0.8458746579810908
+
+17) maria_lucas_b - 0.8361164981300414
+
+18) mr_denny_b - 0.8354453746280759
+
+19) lady_lucas_b - 0.8163520961437412
+
+20) mrs_forster_b - 0.8120250011734671
+
+21) mrs_long_b - 0.8100309145487503
+
+22) pemberley_house_b - 0.8032136803651491
+
+23) rosings_b - 0.7992275117906998
+
+24) miss_eliza_bennet_b - 0.7976992485164757
+
+25) mrs_hurst_b - 0.7468103313702951
+
+26) william_lucas_b - 0.7378031894926111
+
+27) fitzwilliam_b - 0.7226523426356776
+
+28) miss_lucas_b - 0.7216547395771483
+
+Result for the vector: mrs_hurst, coming from part a of the book
+Rank: 18 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9036049842834537
+
+1) jane_b - 0.9615504455104376
+
+2) kitty_b - 0.9606493758381157
+
+3) mary_king_b - 0.9595442438397279
+
+4) lady_catherine_de_bourgh_b - 0.9594502163097236
+
+5) miss_elizabeth_bennet_b - 0.9515598983502479
+
+6) miss_lydia_bennet_b - 0.9459306001663276
+
+7) georgiana_b - 0.944976992013813
+
+8) mr_collins_b - 0.9388237632022062
+
+9) mr_bingley_b - 0.9349566140796789
+
+10) mr_darcy_b - 0.9311870377548331
+
+11) mr_wickham_b - 0.9196904349511619
+
+12) mrs_gardiner_b - 0.9167842368144706
+
+13) lady_lucas_b - 0.916548371315009
+
+14) mrs_long_b - 0.9103527718572173
+
+15) charlotte_lucas_b - 0.9068153611641692
+
+16) mrs_collins_b - 0.9050562438335289
+
+17) maria_lucas_b - 0.904509457811435
+
+18) mrs_hurst_b - 0.9036049842834537
+
+19) mrs_phillips_b - 0.8964702672117487
+
+20) mr_denny_b - 0.8816776275634828
+
+21) miss_lizzy_b - 0.8729455102183518
+
+22) mrs_forster_b - 0.8573965089737424
+
+23) pemberley_house_b - 0.8175448179245053
+
+24) rosings_b - 0.8053455468806313
+
+25) miss_lucas_b - 0.772719098763521
+
+26) william_lucas_b - 0.767998411178685
+
+27) fitzwilliam_b - 0.7677161235978543
+
+28) miss_eliza_bennet_b - 0.6989200294661517
+
+Result for the vector: fitzwilliam, coming from part a of the book
+Rank: 2 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9554012417793274
+
+1) mrs_forster_b - 0.9724725162213349
+
+2) fitzwilliam_b - 0.9554012417793274
+
+3) mr_bingley_b - 0.9144788980484009
+
+4) mrs_gardiner_b - 0.907828813324643
+
+5) mr_darcy_b - 0.9054825305938721
+
+6) miss_elizabeth_bennet_b - 0.8918740620463032
+
+7) mr_wickham_b - 0.8770224452018738
+
+8) kitty_b - 0.8767321183245127
+
+9) lady_catherine_de_bourgh_b - 0.8759734891645165
+
+10) mr_collins_b - 0.8713870644569397
+
+11) mr_denny_b - 0.8691896122211002
+
+12) miss_lydia_bennet_b - 0.8570602451002759
+
+13) jane_b - 0.8551149623130254
+
+14) georgiana_b - 0.8515284149927861
+
+15) miss_lizzy_b - 0.8469999614954101
+
+16) lady_lucas_b - 0.8420752788827004
+
+17) mrs_collins_b - 0.8392091393470764
+
+18) mrs_phillips_b - 0.8359420495102406
+
+19) william_lucas_b - 0.8350478410720825
+
+20) mary_king_b - 0.8278102874755859
+
+21) charlotte_lucas_b - 0.8270226224051358
+
+22) pemberley_house_b - 0.8001489520161733
+
+23) rosings_b - 0.7970472574234009
+
+24) maria_lucas_b - 0.7924998042732423
+
+25) mrs_long_b - 0.768215000629425
+
+26) mrs_hurst_b - 0.7628288723724422
+
+27) miss_lucas_b - 0.69991534948349
+
+28) miss_eliza_bennet_b - 0.6893101334571838
+
+Result for the vector: maria_lucas, coming from part a of the book
+Rank: 13 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9265498155250984
+
+1) kitty_b - 0.9675679802894661
+
+2) jane_b - 0.9650919704221465
+
+3) lady_catherine_de_bourgh_b - 0.9643175272033392
+
+4) miss_lydia_bennet_b - 0.9618127300516045
+
+5) georgiana_b - 0.9598814249038764
+
+6) miss_elizabeth_bennet_b - 0.9520054373750889
+
+7) mr_darcy_b - 0.9465543595882885
+
+8) mary_king_b - 0.9447731938822997
+
+9) mr_collins_b - 0.9433574642752106
+
+10) mr_bingley_b - 0.936951156672906
+
+11) mr_wickham_b - 0.9331225712968468
+
+12) charlotte_lucas_b - 0.9285264015197819
+
+13) maria_lucas_b - 0.9265498155250984
+
+14) mrs_collins_b - 0.9205300164538648
+
+15) mrs_gardiner_b - 0.9103314280510013
+
+16) miss_lizzy_b - 0.9094422513579126
+
+17) lady_lucas_b - 0.9065571911999215
+
+18) mrs_phillips_b - 0.9036924300377257
+
+19) mr_denny_b - 0.892408119727149
+
+20) mrs_long_b - 0.8921196992468671
+
+21) mrs_forster_b - 0.8606459588774982
+
+22) pemberley_house_b - 0.8313597239684729
+
+23) mrs_hurst_b - 0.8255766422243884
+
+24) rosings_b - 0.8154786715196786
+
+25) miss_lucas_b - 0.7686495047002749
+
+26) fitzwilliam_b - 0.7673147778102637
+
+27) william_lucas_b - 0.7583604310965808
+
+28) miss_eliza_bennet_b - 0.737580700968547
+
+Result for the vector: lady_lucas, coming from part a of the book
+Rank: 12 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9296998977661199
+
+1) kitty_b - 0.9614767478136125
+
+2) mr_darcy_b - 0.9556973602952163
+
+3) lady_catherine_de_bourgh_b - 0.954677970568006
+
+4) jane_b - 0.953689129540652
+
+5) miss_elizabeth_bennet_b - 0.9526364775083502
+
+6) mr_bingley_b - 0.9508372574545605
+
+7) miss_lydia_bennet_b - 0.9492788314819404
+
+8) georgiana_b - 0.9488088549603396
+
+9) mr_wickham_b - 0.9473843605885307
+
+10) mr_collins_b - 0.939167681982061
+
+11) mary_king_b - 0.9301510494857418
+
+12) lady_lucas_b - 0.9296998977661199
+
+13) mrs_gardiner_b - 0.9199723696741617
+
+14) mrs_collins_b - 0.9176669169862932
+
+15) charlotte_lucas_b - 0.9071069470516506
+
+16) miss_lizzy_b - 0.9055895378131517
+
+17) mrs_phillips_b - 0.9039219193598192
+
+18) mrs_forster_b - 0.8969488411232583
+
+19) mr_denny_b - 0.8921579122543398
+
+20) maria_lucas_b - 0.8862884972605592
+
+21) mrs_long_b - 0.8784971905650398
+
+22) pemberley_house_b - 0.8700702190399232
+
+23) rosings_b - 0.8647740563884956
+
+24) fitzwilliam_b - 0.8264398082232605
+
+25) mrs_hurst_b - 0.8170765638351498
+
+26) william_lucas_b - 0.7851906546836716
+
+27) miss_lucas_b - 0.7655646344682806
+
+28) miss_eliza_bennet_b - 0.7531879691369565
+
+Result for the vector: charlotte_lucas, coming from part a of the book
+Rank: 12 out of 28 characters
+Cosine similarity to the co-referring vector: 0.936038255691535
+
+1) miss_lydia_bennet_b - 0.9785413716484751
+
+2) lady_catherine_de_bourgh_b - 0.9767495074942272
+
+3) jane_b - 0.9759137310904624
+
+4) kitty_b - 0.9740146994590828
+
+5) georgiana_b - 0.9717675447464058
+
+6) mr_darcy_b - 0.9680034499170469
+
+7) miss_elizabeth_bennet_b - 0.9661638080174597
+
+8) mr_wickham_b - 0.9605810022700447
+
+9) mr_bingley_b - 0.9579625104643428
+
+10) mary_king_b - 0.9490403502607572
+
+11) mr_collins_b - 0.9483985870122085
+
+12) charlotte_lucas_b - 0.936038255691535
+
+13) mrs_collins_b - 0.9350679478089795
+
+14) miss_lizzy_b - 0.9340919295494747
+
+15) mrs_phillips_b - 0.9176468898268555
+
+16) lady_lucas_b - 0.9174483916101922
+
+17) maria_lucas_b - 0.9154096468159245
+
+18) mrs_gardiner_b - 0.9127752184867923
+
+19) mr_denny_b - 0.9063916690816485
+
+20) mrs_long_b - 0.9028688015263574
+
+21) mrs_forster_b - 0.8644727564562498
+
+22) pemberley_house_b - 0.8644404845762831
+
+23) rosings_b - 0.8487065344277954
+
+24) mrs_hurst_b - 0.8138646261530669
+
+25) miss_eliza_bennet_b - 0.780568646226446
+
+26) fitzwilliam_b - 0.7711697680455322
+
+27) miss_lucas_b - 0.7662767628596298
+
+28) william_lucas_b - 0.7578594540273831
+
+Result for the vector: georgiana, coming from part a of the book
+Rank: 11 out of 28 characters
+Cosine similarity to the co-referring vector: 0.8216508520633622
+
+1) miss_lydia_bennet_b - 0.8493870823479457
+
+2) jane_b - 0.8434249227382161
+
+3) lady_catherine_de_bourgh_b - 0.8405725420374519
+
+4) mr_bingley_b - 0.8365077777514253
+
+5) kitty_b - 0.8348895808988693
+
+6) mr_darcy_b - 0.8331811229206529
+
+7) miss_elizabeth_bennet_b - 0.8259258451284993
+
+8) mr_wickham_b - 0.8258692414604772
+
+9) mrs_long_b - 0.8248951226347889
+
+10) mary_king_b - 0.8226898101198505
+
+11) georgiana_b - 0.8216508520633622
+
+12) mrs_collins_b - 0.8123702779257687
+
+13) charlotte_lucas_b - 0.8058278444902933
+
+14) lady_lucas_b - 0.7988036511189328
+
+15) mr_collins_b - 0.797274982604388
+
+16) miss_lizzy_b - 0.7938160896301495
+
+17) mrs_phillips_b - 0.788676500320457
+
+18) mrs_gardiner_b - 0.7729132040091402
+
+19) mr_denny_b - 0.7487898019772428
+
+20) maria_lucas_b - 0.7451435841833955
+
+21) pemberley_house_b - 0.7443193932150722
+
+22) rosings_b - 0.7300979769346738
+
+23) mrs_forster_b - 0.7254695617642087
+
+24) miss_eliza_bennet_b - 0.7126584902594725
+
+25) mrs_hurst_b - 0.7076428009825005
+
+26) miss_lucas_b - 0.6909894574868082
+
+27) fitzwilliam_b - 0.6654665071328338
+
+28) william_lucas_b - 0.618728234616312
+
+Result for the vector: mrs_long, coming from part a of the book
+Rank: 13 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9147188936090144
+
+1) kitty_b - 0.9525344683964747
+
+2) jane_b - 0.9520825715114218
+
+3) lady_catherine_de_bourgh_b - 0.9461972681401531
+
+4) miss_lydia_bennet_b - 0.939456844877319
+
+5) mr_wickham_b - 0.9373412411612646
+
+6) mary_king_b - 0.9372087996366266
+
+7) mrs_collins_b - 0.9328249374873921
+
+8) mr_collins_b - 0.926459101631019
+
+9) mr_darcy_b - 0.9257689990332428
+
+10) miss_elizabeth_bennet_b - 0.9250363893861195
+
+11) georgiana_b - 0.9210061752496347
+
+12) mr_bingley_b - 0.9161762272172046
+
+13) mrs_long_b - 0.9147188936090144
+
+14) charlotte_lucas_b - 0.9065164057458555
+
+15) miss_lizzy_b - 0.905722358311214
+
+16) mrs_phillips_b - 0.9008511095478239
+
+17) lady_lucas_b - 0.886745889789989
+
+18) mrs_gardiner_b - 0.8820404743540181
+
+19) mr_denny_b - 0.8783275674278354
+
+20) maria_lucas_b - 0.8761945889112108
+
+21) mrs_forster_b - 0.8519985499380306
+
+22) pemberley_house_b - 0.8378741298205377
+
+23) rosings_b - 0.8346505413845346
+
+24) miss_lucas_b - 0.8014857411827372
+
+25) mrs_hurst_b - 0.7926066034382528
+
+26) william_lucas_b - 0.758030258358427
+
+27) miss_eliza_bennet_b - 0.7474567516880263
+
+28) fitzwilliam_b - 0.7300428369654074
+
+Result for the vector: mr_denny, coming from part a of the book
+Rank: 14 out of 28 characters
+Cosine similarity to the co-referring vector: 0.8960855541280258
+
+1) mr_collins_b - 0.9423792362213135
+
+2) mr_bingley_b - 0.9296311140060425
+
+3) mr_darcy_b - 0.9274568557739258
+
+4) miss_elizabeth_bennet_b - 0.9265938909761842
+
+5) lady_catherine_de_bourgh_b - 0.9223705805054484
+
+6) jane_b - 0.9219465530498793
+
+7) kitty_b - 0.9176945139351793
+
+8) miss_lydia_bennet_b - 0.917549128386328
+
+9) georgiana_b - 0.9103396588361483
+
+10) mr_wickham_b - 0.9088590145111084
+
+11) mrs_gardiner_b - 0.9060002025365724
+
+12) mrs_forster_b - 0.9057033871743168
+
+13) mary_king_b - 0.9037758708000183
+
+14) mr_denny_b - 0.8960855541280258
+
+15) lady_lucas_b - 0.8883748584017089
+
+16) mrs_collins_b - 0.8852007389068604
+
+17) maria_lucas_b - 0.8842827345217094
+
+18) charlotte_lucas_b - 0.8782717658119357
+
+19) mrs_phillips_b - 0.8536036785121408
+
+20) miss_lizzy_b - 0.8458069746724457
+
+21) mrs_long_b - 0.8390273451805115
+
+22) mrs_hurst_b - 0.8381687902312764
+
+23) fitzwilliam_b - 0.8358445167541504
+
+24) william_lucas_b - 0.8207977414131165
+
+25) pemberley_house_b - 0.8086594825184051
+
+26) rosings_b - 0.799658477306366
+
+27) miss_lucas_b - 0.7385409474372864
+
+28) miss_eliza_bennet_b - 0.6935397982597351
+
+Result for the vector: pemberley_house, coming from part a of the book
+Rank: 1 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9353067240301819
+
+1) pemberley_house_b - 0.9353067240301819
+
+2) rosings_b - 0.9132159948348999
+
+3) mr_wickham_b - 0.9057557582855225
+
+4) mr_darcy_b - 0.8960272073745728
+
+5) miss_lydia_bennet_b - 0.8843812873590775
+
+6) georgiana_b - 0.8825420807276931
+
+7) mr_collins_b - 0.8786383271217346
+
+8) mr_bingley_b - 0.8780662417411804
+
+9) kitty_b - 0.8776877595372359
+
+10) jane_b - 0.8730365298103255
+
+11) lady_catherine_de_bourgh_b - 0.8729354403297738
+
+12) mrs_collins_b - 0.8711660504341125
+
+13) charlotte_lucas_b - 0.8563506092816243
+
+14) lady_lucas_b - 0.8556965503511772
+
+15) miss_elizabeth_bennet_b - 0.8468828018764082
+
+16) miss_lizzy_b - 0.8428117224202547
+
+17) mrs_phillips_b - 0.8379149630171164
+
+18) mary_king_b - 0.8377233147621155
+
+19) mr_denny_b - 0.8358390233420758
+
+20) mrs_gardiner_b - 0.827742169633976
+
+21) mrs_forster_b - 0.8183723227714621
+
+22) maria_lucas_b - 0.8156509046450531
+
+23) mrs_long_b - 0.7991008758544922
+
+24) mrs_hurst_b - 0.7519120426125565
+
+25) fitzwilliam_b - 0.7464010715484619
+
+26) miss_eliza_bennet_b - 0.7420653104782104
+
+27) william_lucas_b - 0.7136811017990112
+
+28) miss_lucas_b - 0.6685751676559448
+
+Result for the vector: miss_elizabeth_bennet, coming from part b of the book
+Rank: 17 out of 28 characters
+Cosine similarity to the co-referring vector: 0.94349878689641
+
+1) mary_king_a - 0.9677485477549692
+
+2) jane_a - 0.9676000456571761
+
+3) mrs_phillips_a - 0.9663757641763475
+
+4) miss_lydia_bennet_a - 0.9662209749222076
+
+5) charlotte_lucas_a - 0.9661638080174597
+
+6) mr_bingley_a - 0.963542337839889
+
+7) mr_darcy_a - 0.9613907841183624
+
+8) miss_lucas_a - 0.9596651172438487
+
+9) mr_collins_a - 0.959294371478745
+
+10) mrs_gardiner_a - 0.9591842220755038
+
+11) mrs_collins_a - 0.95484328000805
+
+12) lady_lucas_a - 0.9526364775083502
+
+13) lady_catherine_de_bourgh_a - 0.9523745122402393
+
+14) maria_lucas_a - 0.9520054373750889
+
+15) mrs_hurst_a - 0.9515598983502479
+
+16) mr_wickham_a - 0.950957678401128
+
+17) miss_elizabeth_bennet_a - 0.94349878689641
+
+18) kitty_a - 0.942028157952811
+
+19) miss_lizzy_a - 0.9412515128404955
+
+20) mr_denny_a - 0.9265938909761842
+
+21) mrs_long_a - 0.9250363893861195
+
+22) fitzwilliam_a - 0.8918740620463032
+
+23) miss_eliza_bennet_a - 0.8838977536911378
+
+24) pemberley_house_a - 0.8468828018764082
+
+25) georgiana_a - 0.8259258451284993
+
+26) rosings_a - 0.8180548331802943
+
+27) mrs_forster_a - 0.7814189167944994
+
+28) william_lucas_a - 0.7785891758554807
+
+Result for the vector: mr_darcy, coming from part b of the book
+Rank: 7 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9669028481129296
+
+1) mr_wickham_a - 0.974809675658038
+
+2) lady_catherine_de_bourgh_a - 0.9732726812362671
+
+3) mr_bingley_a - 0.972663938999176
+
+4) mr_collins_a - 0.9705930334683098
+
+5) jane_a - 0.9701131004027682
+
+6) charlotte_lucas_a - 0.9680034499170469
+
+7) mr_darcy_a - 0.9669028481129296
+
+8) mrs_phillips_a - 0.9575539827346802
+
+9) mrs_gardiner_a - 0.9565941665526745
+
+10) lady_lucas_a - 0.9556973602952163
+
+11) miss_lucas_a - 0.9533265856905844
+
+12) miss_lydia_bennet_a - 0.9479611578034042
+
+13) mary_king_a - 0.9471766038887685
+
+14) maria_lucas_a - 0.9465543595882885
+
+15) mrs_collins_a - 0.938313011031569
+
+16) mrs_hurst_a - 0.9311870377548331
+
+17) miss_lizzy_a - 0.9303664606591205
+
+18) mr_denny_a - 0.9274568557739258
+
+19) miss_elizabeth_bennet_a - 0.9271901293283641
+
+20) mrs_long_a - 0.9257689990332428
+
+21) kitty_a - 0.9251667261123657
+
+22) fitzwilliam_a - 0.9054825305938721
+
+23) pemberley_house_a - 0.8960272073745728
+
+24) miss_eliza_bennet_a - 0.8904417026569552
+
+25) rosings_a - 0.8589037656784058
+
+26) georgiana_a - 0.8331811229206529
+
+27) mrs_forster_a - 0.8057265521802475
+
+28) william_lucas_a - 0.7965595247412025
+
+Result for the vector: jane, coming from part b of the book
+Rank: 1 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9847831432586011
+
+1) jane_a - 0.9847831432586011
+
+2) charlotte_lucas_a - 0.9759137310904624
+
+3) miss_lucas_a - 0.9751977629900684
+
+4) mary_king_a - 0.9731978162048945
+
+5) lady_catherine_de_bourgh_a - 0.9719379237871748
+
+6) miss_lydia_bennet_a - 0.9686504928484226
+
+7) mr_darcy_a - 0.9682708037303135
+
+8) maria_lucas_a - 0.9650919704221465
+
+9) mr_collins_a - 0.9638391998862509
+
+10) mrs_collins_a - 0.9625460814670934
+
+11) mrs_hurst_a - 0.9615504455104376
+
+12) mr_wickham_a - 0.9594399308824498
+
+13) mrs_phillips_a - 0.9570993470281172
+
+14) mr_bingley_a - 0.9545620964337024
+
+15) miss_lizzy_a - 0.9542260481647873
+
+16) lady_lucas_a - 0.953689129540652
+
+17) kitty_a - 0.9530283496686328
+
+18) mrs_long_a - 0.9520825715114218
+
+19) mrs_gardiner_a - 0.9503422037072964
+
+20) mr_denny_a - 0.9219465530498793
+
+21) miss_eliza_bennet_a - 0.8961430335258033
+
+22) miss_elizabeth_bennet_a - 0.8927267523787429
+
+23) pemberley_house_a - 0.8730365298103255
+
+24) fitzwilliam_a - 0.8551149623130254
+
+25) georgiana_a - 0.8434249227382161
+
+26) rosings_a - 0.8365413199824492
+
+27) william_lucas_a - 0.7683570155991044
+
+28) mrs_forster_a - 0.7360945186671328
+
+Result for the vector: mr_bingley, coming from part b of the book
+Rank: 1 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9801274538040161
+
+1) mr_bingley_a - 0.9801274538040161
+
+2) mr_wickham_a - 0.9701047828824758
+
+3) jane_a - 0.9654067179318255
+
+4) mr_collins_a - 0.9624595023667533
+
+5) lady_catherine_de_bourgh_a - 0.9612946510314941
+
+6) mr_darcy_a - 0.9601613831712532
+
+7) mrs_phillips_a - 0.9597741365432739
+
+8) charlotte_lucas_a - 0.9579625104643428
+
+9) lady_lucas_a - 0.9508372574545605
+
+10) mrs_gardiner_a - 0.9497334331115164
+
+11) miss_lucas_a - 0.9485759169712134
+
+12) miss_lydia_bennet_a - 0.9452998703360779
+
+13) mary_king_a - 0.939336685518524
+
+14) miss_elizabeth_bennet_a - 0.9375303424876741
+
+15) maria_lucas_a - 0.936951156672906
+
+16) mrs_collins_a - 0.9360750355675812
+
+17) mrs_hurst_a - 0.9349566140796789
+
+18) mr_denny_a - 0.9296311140060425
+
+19) kitty_a - 0.9281806945800781
+
+20) miss_lizzy_a - 0.9221554444935669
+
+21) mrs_long_a - 0.9161762272172046
+
+22) fitzwilliam_a - 0.9144788980484009
+
+23) miss_eliza_bennet_a - 0.8785337660949014
+
+24) pemberley_house_a - 0.8780662417411804
+
+25) rosings_a - 0.8422049283981323
+
+26) georgiana_a - 0.8365077777514253
+
+27) mrs_forster_a - 0.8181213384306834
+
+28) william_lucas_a - 0.8128516785590855
+
+Result for the vector: mr_wickham, coming from part b of the book
+Rank: 1 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9745865754659948
+
+1) mr_wickham_a - 0.9745865754659948
+
+2) mr_darcy_a - 0.9717389311479318
+
+3) lady_catherine_de_bourgh_a - 0.9673632383346558
+
+4) mr_collins_a - 0.9667401890003811
+
+5) jane_a - 0.9659549614217917
+
+6) charlotte_lucas_a - 0.9605810022700447
+
+7) mr_bingley_a - 0.9586044549942017
+
+8) miss_lucas_a - 0.9547973302127539
+
+9) lady_lucas_a - 0.9473843605885307
+
+10) miss_lydia_bennet_a - 0.9433134861810887
+
+11) mrs_gardiner_a - 0.9409916961784198
+
+12) mrs_long_a - 0.9373412411612646
+
+13) mrs_phillips_a - 0.936194121837616
+
+14) miss_lizzy_a - 0.9359366335906621
+
+15) mary_king_a - 0.9338771979176167
+
+16) maria_lucas_a - 0.9331225712968468
+
+17) mrs_collins_a - 0.9241777107609699
+
+18) mrs_hurst_a - 0.9196904349511619
+
+19) kitty_a - 0.9193955659866333
+
+20) mr_denny_a - 0.9088590145111084
+
+21) pemberley_house_a - 0.9057557582855225
+
+22) miss_eliza_bennet_a - 0.8960739250271295
+
+23) miss_elizabeth_bennet_a - 0.8922695581752341
+
+24) fitzwilliam_a - 0.8770224452018738
+
+25) rosings_a - 0.8599714040756226
+
+26) georgiana_a - 0.8258692414604772
+
+27) william_lucas_a - 0.7770886554069142
+
+28) mrs_forster_a - 0.7639429200870672
+
+Result for the vector: miss_lydia_bennet, coming from part b of the book
+Rank: 4 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9667840619812129
+
+1) charlotte_lucas_a - 0.9785413716484751
+
+2) jane_a - 0.977337658405311
+
+3) mary_king_a - 0.9677839548394644
+
+4) miss_lydia_bennet_a - 0.9667840619812129
+
+5) lady_catherine_de_bourgh_a - 0.9665192941736771
+
+6) mr_collins_a - 0.9644583421299865
+
+7) miss_lucas_a - 0.9628310799598763
+
+8) mr_darcy_a - 0.9622909955306659
+
+9) maria_lucas_a - 0.9618127300516045
+
+10) mrs_collins_a - 0.9605071544647285
+
+11) mr_wickham_a - 0.9592016600848733
+
+12) mrs_gardiner_a - 0.9556946701639497
+
+13) mrs_phillips_a - 0.95276933626946
+
+14) mr_bingley_a - 0.95003384053909
+
+15) lady_lucas_a - 0.9492788314819404
+
+16) mrs_hurst_a - 0.9459306001663276
+
+17) miss_lizzy_a - 0.944328427314765
+
+18) kitty_a - 0.9419055546465863
+
+19) mrs_long_a - 0.939456844877319
+
+20) mr_denny_a - 0.917549128386328
+
+21) miss_elizabeth_bennet_a - 0.8919125199317995
+
+22) miss_eliza_bennet_a - 0.8916176959784695
+
+23) pemberley_house_a - 0.8843812873590775
+
+24) fitzwilliam_a - 0.8570602451002759
+
+25) georgiana_a - 0.8493870823479457
+
+26) rosings_a - 0.8424205686104651
+
+27) william_lucas_a - 0.7580361962318475
+
+28) mrs_forster_a - 0.7335414946265368
+
+Result for the vector: mr_collins, coming from part b of the book
+Rank: 1 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9696156364450256
+
+1) mr_collins_a - 0.9696156364450256
+
+2) mr_wickham_a - 0.9659568955289397
+
+3) mr_darcy_a - 0.9582996318697559
+
+4) jane_a - 0.9580537701813137
+
+5) mr_bingley_a - 0.9518028497695923
+
+6) lady_catherine_de_bourgh_a - 0.9500043392181396
+
+7) charlotte_lucas_a - 0.9483985870122085
+
+8) maria_lucas_a - 0.9433574642752106
+
+9) mrs_phillips_a - 0.943030059337616
+
+10) miss_lydia_bennet_a - 0.94300008499622
+
+11) mr_denny_a - 0.9423792362213135
+
+12) mrs_gardiner_a - 0.9395094477837965
+
+13) lady_lucas_a - 0.939167681982061
+
+14) miss_lucas_a - 0.9388303197127407
+
+15) mrs_hurst_a - 0.9388237632022062
+
+16) kitty_a - 0.9353424310684204
+
+17) mrs_collins_a - 0.934547368613044
+
+18) mary_king_a - 0.9301771798782704
+
+19) mrs_long_a - 0.926459101631019
+
+20) miss_lizzy_a - 0.9129065923150441
+
+21) miss_elizabeth_bennet_a - 0.8913942044142379
+
+22) pemberley_house_a - 0.8786383271217346
+
+23) fitzwilliam_a - 0.8713870644569397
+
+24) miss_eliza_bennet_a - 0.865425332239316
+
+25) rosings_a - 0.8458666801452637
+
+26) georgiana_a - 0.797274982604388
+
+27) william_lucas_a - 0.7887418992077186
+
+28) mrs_forster_a - 0.7719378105383462
+
+Result for the vector: lady_catherine_de_bourgh, coming from part b of the book
+Rank: 3 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9761438660664523
+
+1) jane_a - 0.9840948288412482
+
+2) charlotte_lucas_a - 0.9767495074942272
+
+3) lady_catherine_de_bourgh_a - 0.9761438660664523
+
+4) mary_king_a - 0.9732469900397652
+
+5) miss_lucas_a - 0.9724894472214783
+
+6) miss_lydia_bennet_a - 0.9697276082878571
+
+7) mr_darcy_a - 0.9674609553010733
+
+8) mrs_phillips_a - 0.9655715514889827
+
+9) maria_lucas_a - 0.9643175272033392
+
+10) mrs_collins_a - 0.9638869475159997
+
+11) mr_collins_a - 0.9611152077718269
+
+12) mr_bingley_a - 0.9606010604083859
+
+13) mrs_hurst_a - 0.9594502163097236
+
+14) mrs_gardiner_a - 0.9570641181228271
+
+15) miss_lizzy_a - 0.9569018197982999
+
+16) lady_lucas_a - 0.954677970568006
+
+17) mr_wickham_a - 0.9543929668899159
+
+18) kitty_a - 0.9495092913362176
+
+19) mrs_long_a - 0.9461972681401531
+
+20) mr_denny_a - 0.9223705805054484
+
+21) miss_elizabeth_bennet_a - 0.9158476914212832
+
+22) miss_eliza_bennet_a - 0.9052210010917523
+
+23) fitzwilliam_a - 0.8759734891645165
+
+24) pemberley_house_a - 0.8729354403297738
+
+25) rosings_a - 0.8412028801799682
+
+26) georgiana_a - 0.8405725420374519
+
+27) william_lucas_a - 0.7732521065100431
+
+28) mrs_forster_a - 0.7625433661069492
+
+Result for the vector: miss_lizzy, coming from part b of the book
+Rank: 2 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9664366901332115
+
+1) miss_eliza_bennet_a - 0.9725076556206026
+
+2) miss_lizzy_a - 0.9664366901332115
+
+3) mr_darcy_a - 0.9385832548141746
+
+4) charlotte_lucas_a - 0.9340919295494747
+
+5) miss_lucas_a - 0.9226621527679901
+
+6) jane_a - 0.9226262111736174
+
+7) mary_king_a - 0.917166627898826
+
+8) mrs_gardiner_a - 0.9151904037481452
+
+9) miss_lydia_bennet_a - 0.9112978789096168
+
+10) lady_catherine_de_bourgh_a - 0.9097417700598579
+
+11) kitty_a - 0.909724961552035
+
+12) maria_lucas_a - 0.9094422513579126
+
+13) mr_collins_a - 0.9087601954484015
+
+14) mrs_long_a - 0.905722358311214
+
+15) lady_lucas_a - 0.9055895378131517
+
+16) mr_wickham_a - 0.9025497225627651
+
+17) mr_bingley_a - 0.9007254957287977
+
+18) mrs_collins_a - 0.8821242066399697
+
+19) mrs_phillips_a - 0.8759364633635984
+
+20) mrs_hurst_a - 0.8729455102183518
+
+21) miss_elizabeth_bennet_a - 0.8533594274474229
+
+22) fitzwilliam_a - 0.8469999614954101
+
+23) mr_denny_a - 0.8458069746724457
+
+24) pemberley_house_a - 0.8428117224202547
+
+25) georgiana_a - 0.7938160896301495
+
+26) rosings_a - 0.7849580901911207
+
+27) william_lucas_a - 0.736697601670457
+
+28) mrs_forster_a - 0.6919397689158008
+
+Result for the vector: kitty, coming from part b of the book
+Rank: 9 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9658970853151645
+
+1) jane_a - 0.980172398069811
+
+2) miss_lydia_bennet_a - 0.9790615476855866
+
+3) miss_lucas_a - 0.9762091665018598
+
+4) charlotte_lucas_a - 0.9740146994590828
+
+5) mr_darcy_a - 0.9700062257055334
+
+6) lady_catherine_de_bourgh_a - 0.9690852779695244
+
+7) maria_lucas_a - 0.9675679802894661
+
+8) miss_lizzy_a - 0.9663559834532758
+
+9) kitty_a - 0.9658970853151645
+
+10) mary_king_a - 0.9653758714981155
+
+11) mrs_collins_a - 0.9621971294644917
+
+12) lady_lucas_a - 0.9614767478136125
+
+13) mrs_hurst_a - 0.9606493758381157
+
+14) mr_collins_a - 0.9580568671226569
+
+15) mrs_phillips_a - 0.9574291731459412
+
+16) mr_wickham_a - 0.9562744809307351
+
+17) mrs_gardiner_a - 0.9546798467636176
+
+18) mr_bingley_a - 0.9546021846173909
+
+19) mrs_long_a - 0.9525344683964747
+
+20) mr_denny_a - 0.9176945139351793
+
+21) miss_eliza_bennet_a - 0.9160312960166658
+
+22) miss_elizabeth_bennet_a - 0.9039111251937002
+
+23) pemberley_house_a - 0.8776877595372359
+
+24) fitzwilliam_a - 0.8767321183245127
+
+25) rosings_a - 0.8405912017469896
+
+26) georgiana_a - 0.8348895808988693
+
+27) william_lucas_a - 0.771959570412687
+
+28) mrs_forster_a - 0.7502882257018052
+
+Result for the vector: mrs_gardiner, coming from part b of the book
+Rank: 8 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9234776496887273
+
+1) miss_elizabeth_bennet_a - 0.95774889495982
+
+2) mrs_phillips_a - 0.9556946184817201
+
+3) mr_bingley_a - 0.9400103723996672
+
+4) mrs_collins_a - 0.9382628276034799
+
+5) miss_lydia_bennet_a - 0.9338029741401139
+
+6) lady_catherine_de_bourgh_a - 0.9299976271392346
+
+7) mr_wickham_a - 0.9254397474098318
+
+8) mrs_gardiner_a - 0.9234776496887273
+
+9) jane_a - 0.9216261003463149
+
+10) mr_collins_a - 0.9212030768394536
+
+11) lady_lucas_a - 0.9199723696741617
+
+12) mr_darcy_a - 0.9198494505792676
+
+13) mrs_hurst_a - 0.9167842368144706
+
+14) miss_lucas_a - 0.9151233535857971
+
+15) kitty_a - 0.9131519250183167
+
+16) charlotte_lucas_a - 0.9127752184867923
+
+17) maria_lucas_a - 0.9103314280510013
+
+18) fitzwilliam_a - 0.907828813324643
+
+19) mr_denny_a - 0.9060002025365724
+
+20) mary_king_a - 0.9028493492946259
+
+21) miss_lizzy_a - 0.8944828636070652
+
+22) mrs_long_a - 0.8820404743540181
+
+23) miss_eliza_bennet_a - 0.8458746579810908
+
+24) mrs_forster_a - 0.8286332241108085
+
+25) pemberley_house_a - 0.827742169633976
+
+26) rosings_a - 0.8054251786813048
+
+27) william_lucas_a - 0.7962256912916075
+
+28) georgiana_a - 0.7729132040091402
+
+Result for the vector: william_lucas, coming from part b of the book
+Rank: 1 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9451751145616122
+
+1) william_lucas_a - 0.9451751145616122
+
+2) fitzwilliam_a - 0.8350478410720825
+
+3) mr_bingley_a - 0.8312897682189941
+
+4) mr_wickham_a - 0.8266169675176436
+
+5) mr_denny_a - 0.8207977414131165
+
+6) mr_collins_a - 0.8160494456320685
+
+7) mr_darcy_a - 0.8100152385253057
+
+8) mrs_phillips_a - 0.7983112335205078
+
+9) miss_elizabeth_bennet_a - 0.7969636442086923
+
+10) lady_catherine_de_bourgh_a - 0.7906869649887085
+
+11) mrs_forster_a - 0.7876863714363093
+
+12) lady_lucas_a - 0.7851906546836716
+
+13) miss_lydia_bennet_a - 0.7842426557251682
+
+14) mrs_gardiner_a - 0.7764244542374895
+
+15) jane_a - 0.7697500127702958
+
+16) mrs_hurst_a - 0.767998411178685
+
+17) kitty_a - 0.767905592918396
+
+18) miss_lucas_a - 0.766518725960332
+
+19) maria_lucas_a - 0.7583604310965808
+
+20) mrs_long_a - 0.758030258358427
+
+21) charlotte_lucas_a - 0.7578594540273831
+
+22) miss_lizzy_a - 0.7567817117701954
+
+23) mrs_collins_a - 0.7524092344993822
+
+24) miss_eliza_bennet_a - 0.7378031894926111
+
+25) mary_king_a - 0.7348602633136593
+
+26) pemberley_house_a - 0.7136811017990112
+
+27) rosings_a - 0.6849808692932129
+
+28) georgiana_a - 0.618728234616312
+
+Result for the vector: mrs_forster, coming from part b of the book
+Rank: 2 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9517688693724732
+
+1) fitzwilliam_a - 0.9724725162213349
+
+2) mrs_forster_a - 0.9517688693724732
+
+3) miss_elizabeth_bennet_a - 0.9378653448184041
+
+4) mr_bingley_a - 0.932601594859508
+
+5) mr_wickham_a - 0.9142865436418721
+
+6) mrs_phillips_a - 0.9096943953360113
+
+7) mr_denny_a - 0.9057033871743168
+
+8) mr_collins_a - 0.9028776441332171
+
+9) lady_catherine_de_bourgh_a - 0.9016148658050512
+
+10) lady_lucas_a - 0.8969488411232583
+
+11) mr_darcy_a - 0.8937918024224827
+
+12) mrs_gardiner_a - 0.8913546340695973
+
+13) miss_lydia_bennet_a - 0.8799071049718123
+
+14) jane_a - 0.8757359050433705
+
+15) charlotte_lucas_a - 0.8644727564562498
+
+16) miss_lucas_a - 0.8612429756296663
+
+17) maria_lucas_a - 0.8606459588774982
+
+18) kitty_a - 0.8595127039712139
+
+19) mrs_hurst_a - 0.8573965089737424
+
+20) mrs_long_a - 0.8519985499380306
+
+21) miss_lizzy_a - 0.8510942116705933
+
+22) mrs_collins_a - 0.8490808263147218
+
+23) mary_king_a - 0.8482345161717568
+
+24) pemberley_house_a - 0.8183723227714621
+
+25) william_lucas_a - 0.814694548091139
+
+26) miss_eliza_bennet_a - 0.8120250011734671
+
+27) rosings_a - 0.7920914404474029
+
+28) georgiana_a - 0.7254695617642087
+
+Result for the vector: mary_king, coming from part b of the book
+Rank: 5 out of 28 characters
+Cosine similarity to the co-referring vector: 0.953387348454814
+
+1) jane_a - 0.9642702362376327
+
+2) mrs_hurst_a - 0.9595442438397279
+
+3) miss_lydia_bennet_a - 0.9587664653341283
+
+4) mrs_collins_a - 0.9545023468433429
+
+5) mary_king_a - 0.953387348454814
+
+6) miss_lucas_a - 0.9523697523850367
+
+7) kitty_a - 0.9519633054733276
+
+8) charlotte_lucas_a - 0.9490403502607572
+
+9) maria_lucas_a - 0.9447731938822997
+
+10) lady_catherine_de_bourgh_a - 0.9429688453674316
+
+11) mrs_phillips_a - 0.9404886960983276
+
+12) mr_darcy_a - 0.9388225005653568
+
+13) mrs_long_a - 0.9372087996366266
+
+14) miss_lizzy_a - 0.934617225252557
+
+15) mr_collins_a - 0.9336573442016466
+
+16) lady_lucas_a - 0.9301510494857418
+
+17) mr_bingley_a - 0.9300075769424438
+
+18) mr_wickham_a - 0.9296945610551409
+
+19) mrs_gardiner_a - 0.9214790416645449
+
+20) mr_denny_a - 0.9037758708000183
+
+21) miss_elizabeth_bennet_a - 0.8741835430751135
+
+22) miss_eliza_bennet_a - 0.8643059568769942
+
+23) pemberley_house_a - 0.8377233147621155
+
+24) fitzwilliam_a - 0.8278102874755859
+
+25) georgiana_a - 0.8226898101198505
+
+26) rosings_a - 0.8059903383255005
+
+27) william_lucas_a - 0.7507661133547967
+
+28) mrs_forster_a - 0.7091531964884165
+
+Result for the vector: mrs_collins, coming from part b of the book
+Rank: 16 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9170233060703707
+
+1) lady_catherine_de_bourgh_a - 0.9491361379623413
+
+2) mr_darcy_a - 0.9450912410129663
+
+3) jane_a - 0.9375218786286205
+
+4) charlotte_lucas_a - 0.9350679478089795
+
+5) miss_lizzy_a - 0.9338831940958997
+
+6) mrs_long_a - 0.9328249374873921
+
+7) mr_collins_a - 0.9281356291851793
+
+8) miss_lucas_a - 0.9257676049609436
+
+9) mr_wickham_a - 0.9243862904425354
+
+10) mrs_gardiner_a - 0.9217236591412834
+
+11) miss_lydia_bennet_a - 0.921624014184003
+
+12) maria_lucas_a - 0.9205300164538648
+
+13) mr_bingley_a - 0.9195449948310852
+
+14) lady_lucas_a - 0.9176669169862932
+
+15) mary_king_a - 0.9173949038206016
+
+16) mrs_collins_a - 0.9170233060703707
+
+17) kitty_a - 0.910855770111084
+
+18) miss_eliza_bennet_a - 0.9062366969867648
+
+19) mrs_hurst_a - 0.9050562438335289
+
+20) mrs_phillips_a - 0.9029303193092346
+
+21) mr_denny_a - 0.8852007389068604
+
+22) pemberley_house_a - 0.8711660504341125
+
+23) miss_elizabeth_bennet_a - 0.8521036593852261
+
+24) fitzwilliam_a - 0.8392091393470764
+
+25) rosings_a - 0.8188846111297607
+
+26) georgiana_a - 0.8123702779257687
+
+27) william_lucas_a - 0.7530478982300832
+
+28) mrs_forster_a - 0.7133380387228146
+
+Result for the vector: mrs_phillips, coming from part b of the book
+Rank: 5 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9177852967041442
+
+1) lady_catherine_de_bourgh_a - 0.9225572439960016
+
+2) miss_lucas_a - 0.9188075806842616
+
+3) miss_lydia_bennet_a - 0.9186039761056957
+
+4) jane_a - 0.917855098631068
+
+5) mrs_phillips_a - 0.9177852967041442
+
+6) charlotte_lucas_a - 0.9176468898268555
+
+7) miss_lizzy_a - 0.9128292358823014
+
+8) mary_king_a - 0.9044484283523277
+
+9) mrs_gardiner_a - 0.9043400940692513
+
+10) lady_lucas_a - 0.9039219193598192
+
+11) maria_lucas_a - 0.9036924300377257
+
+12) mrs_collins_a - 0.9023069914030464
+
+13) mrs_long_a - 0.9008511095478239
+
+14) mr_darcy_a - 0.8975898623466747
+
+15) mrs_hurst_a - 0.8964702672117487
+
+16) mr_bingley_a - 0.8928808697604159
+
+17) kitty_a - 0.8880694641984211
+
+18) mr_wickham_a - 0.8797364640471618
+
+19) mr_collins_a - 0.878472991080716
+
+20) miss_eliza_bennet_a - 0.8744629621505986
+
+21) miss_elizabeth_bennet_a - 0.8641152028831492
+
+22) mr_denny_a - 0.8536036785121408
+
+23) pemberley_house_a - 0.8379149630171164
+
+24) fitzwilliam_a - 0.8359420495102406
+
+25) rosings_a - 0.8078112235294371
+
+26) georgiana_a - 0.788676500320457
+
+27) william_lucas_a - 0.7504984586539654
+
+28) mrs_forster_a - 0.7150291757259589
+
+Result for the vector: miss_lucas, coming from part b of the book
+Rank: 9 out of 28 characters
+Cosine similarity to the co-referring vector: 0.7726559178438249
+
+1) mrs_long_a - 0.8014857411827372
+
+2) mr_bingley_a - 0.7850152850151062
+
+3) jane_a - 0.7841366062082897
+
+4) mary_king_a - 0.7831217879987299
+
+5) mr_darcy_a - 0.7800502514899132
+
+6) miss_lizzy_a - 0.7800187599647798
+
+7) kitty_a - 0.7744764089584351
+
+8) mrs_hurst_a - 0.772719098763521
+
+9) miss_lucas_a - 0.7726559178438249
+
+10) mr_collins_a - 0.7717833382954217
+
+11) lady_catherine_de_bourgh_a - 0.7706969976425171
+
+12) maria_lucas_a - 0.7686495047002749
+
+13) charlotte_lucas_a - 0.7662767628596298
+
+14) lady_lucas_a - 0.7655646344682806
+
+15) mrs_collins_a - 0.7654223581896821
+
+16) miss_lydia_bennet_a - 0.76324316701375
+
+17) mrs_phillips_a - 0.7610207796096802
+
+18) mr_wickham_a - 0.7583493220314185
+
+19) mrs_gardiner_a - 0.7440101947790514
+
+20) mr_denny_a - 0.7385409474372864
+
+21) miss_eliza_bennet_a - 0.7216547395771483
+
+22) miss_elizabeth_bennet_a - 0.7166198064911493
+
+23) fitzwilliam_a - 0.69991534948349
+
+24) georgiana_a - 0.6909894574868082
+
+25) pemberley_house_a - 0.6685751676559448
+
+26) rosings_a - 0.6259410381317139
+
+27) william_lucas_a - 0.6168713201957166
+
+28) mrs_forster_a - 0.6008801639342359
+
+Result for the vector: rosings, coming from part b of the book
+Rank: 1 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9620592594146729
+
+1) rosings_a - 0.9620592594146729
+
+2) pemberley_house_a - 0.9132159948348999
+
+3) lady_catherine_de_bourgh_a - 0.8827833533287048
+
+4) lady_lucas_a - 0.8647740563884956
+
+5) jane_a - 0.8640877685494576
+
+6) mr_darcy_a - 0.8589940499060275
+
+7) miss_lucas_a - 0.856472321959001
+
+8) mr_wickham_a - 0.8536013619184903
+
+9) mrs_gardiner_a - 0.8532949598607412
+
+10) mrs_phillips_a - 0.8519033789634705
+
+11) mr_bingley_a - 0.8495373129844666
+
+12) charlotte_lucas_a - 0.8487065344277954
+
+13) miss_lydia_bennet_a - 0.8433389850450832
+
+14) mr_collins_a - 0.8347989222287504
+
+15) mrs_long_a - 0.8346505413845346
+
+16) miss_lizzy_a - 0.8290177089561412
+
+17) mary_king_a - 0.8165666108300276
+
+18) mrs_collins_a - 0.8163656701823684
+
+19) maria_lucas_a - 0.8154786715196786
+
+20) miss_elizabeth_bennet_a - 0.8115184419442166
+
+21) mrs_hurst_a - 0.8053455468806313
+
+22) mr_denny_a - 0.799658477306366
+
+23) miss_eliza_bennet_a - 0.7992275117906998
+
+24) fitzwilliam_a - 0.7970472574234009
+
+25) kitty_a - 0.7904472351074219
+
+26) georgiana_a - 0.7300979769346738
+
+27) mrs_forster_a - 0.7085228177464852
+
+28) william_lucas_a - 0.6693564850475511
+
+Result for the vector: miss_eliza_bennet, coming from part b of the book
+Rank: 1 out of 28 characters
+Cosine similarity to the co-referring vector: 0.7976992485164757
+
+1) miss_eliza_bennet_a - 0.7976992485164757
+
+2) charlotte_lucas_a - 0.780568646226446
+
+3) miss_lizzy_a - 0.7805524003176464
+
+4) mr_darcy_a - 0.7769220205452522
+
+5) jane_a - 0.766742779806688
+
+6) lady_catherine_de_bourgh_a - 0.766083836555481
+
+7) mrs_gardiner_a - 0.7641285517292365
+
+8) mary_king_a - 0.7569765674166852
+
+9) miss_lucas_a - 0.753415897284992
+
+10) lady_lucas_a - 0.7531879691369565
+
+11) mrs_long_a - 0.7474567516880263
+
+12) miss_lydia_bennet_a - 0.7448635405464773
+
+13) mr_collins_a - 0.7444028702022369
+
+14) mr_wickham_a - 0.7422079069080328
+
+15) pemberley_house_a - 0.7420653104782104
+
+16) kitty_a - 0.7377516031265259
+
+17) maria_lucas_a - 0.737580700968547
+
+18) mr_bingley_a - 0.7354552149772644
+
+19) mrs_collins_a - 0.7232942746106236
+
+20) georgiana_a - 0.7126584902594725
+
+21) mrs_phillips_a - 0.7113613486289978
+
+22) mrs_hurst_a - 0.6989200294661517
+
+23) mr_denny_a - 0.6935397982597351
+
+24) fitzwilliam_a - 0.6893101334571838
+
+25) rosings_a - 0.6857713460922241
+
+26) miss_elizabeth_bennet_a - 0.6780742598727799
+
+27) william_lucas_a - 0.5950082185859561
+
+28) mrs_forster_a - 0.5502199098533368
+
+Result for the vector: mrs_hurst, coming from part b of the book
+Rank: 1 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9036049842834537
+
+1) mrs_hurst_a - 0.9036049842834537
+
+2) lady_catherine_de_bourgh_a - 0.8514116317875181
+
+3) kitty_a - 0.8496087699895379
+
+4) mr_denny_a - 0.8381687902312764
+
+5) mr_wickham_a - 0.8357615622068852
+
+6) miss_lydia_bennet_a - 0.8348250487551198
+
+7) mrs_phillips_a - 0.8325560589168122
+
+8) jane_a - 0.8318254947662412
+
+9) maria_lucas_a - 0.8255766422243884
+
+10) mr_collins_a - 0.8234023837330798
+
+11) mr_darcy_a - 0.8230853360447903
+
+12) mr_bingley_a - 0.8210659516493067
+
+13) mrs_collins_a - 0.819494307041174
+
+14) lady_lucas_a - 0.8170765638351498
+
+15) miss_lucas_a - 0.8157315850257931
+
+16) charlotte_lucas_a - 0.8138646261530669
+
+17) mrs_gardiner_a - 0.7964839096646201
+
+18) mrs_long_a - 0.7926066034382528
+
+19) mary_king_a - 0.791485499574438
+
+20) miss_lizzy_a - 0.785233080387121
+
+21) miss_elizabeth_bennet_a - 0.7785049676895197
+
+22) fitzwilliam_a - 0.7628288723724422
+
+23) pemberley_house_a - 0.7519120426125565
+
+24) miss_eliza_bennet_a - 0.7468103313702951
+
+25) william_lucas_a - 0.735084652900701
+
+26) rosings_a - 0.7334871729306695
+
+27) georgiana_a - 0.7076428009825005
+
+28) mrs_forster_a - 0.6866108196923872
+
+Result for the vector: fitzwilliam, coming from part b of the book
+Rank: 2 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9554012417793274
+
+1) mrs_forster_a - 0.9636531759397147
+
+2) fitzwilliam_a - 0.9554012417793274
+
+3) miss_elizabeth_bennet_a - 0.8909882968075115
+
+4) mr_bingley_a - 0.863258957862854
+
+5) mr_wickham_a - 0.8386554967956397
+
+6) mr_denny_a - 0.8358445167541504
+
+7) mrs_phillips_a - 0.8358327150344849
+
+8) lady_lucas_a - 0.8264398082232605
+
+9) mr_collins_a - 0.8230969204364387
+
+10) lady_catherine_de_bourgh_a - 0.8131631016731262
+
+11) mrs_gardiner_a - 0.8103234058811325
+
+12) mr_darcy_a - 0.8032671574672705
+
+13) william_lucas_a - 0.7896157032480431
+
+14) jane_a - 0.7808795701933177
+
+15) miss_lydia_bennet_a - 0.777337398846465
+
+16) charlotte_lucas_a - 0.7711697680455322
+
+17) mrs_hurst_a - 0.7677161235978543
+
+18) maria_lucas_a - 0.7673147778102637
+
+19) kitty_a - 0.7623127698898315
+
+20) miss_lucas_a - 0.7588755632117068
+
+21) mary_king_a - 0.7560363041173314
+
+22) mrs_collins_a - 0.7489022166191224
+
+23) pemberley_house_a - 0.7464010715484619
+
+24) miss_lizzy_a - 0.7439136657766316
+
+25) mrs_long_a - 0.7300428369654074
+
+26) miss_eliza_bennet_a - 0.7226523426356776
+
+27) rosings_a - 0.719342052936554
+
+28) georgiana_a - 0.6654665071328338
+
+Result for the vector: maria_lucas, coming from part b of the book
+Rank: 2 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9265498155250984
+
+1) jane_a - 0.9299542030705786
+
+2) maria_lucas_a - 0.9265498155250984
+
+3) miss_lucas_a - 0.9224911057206696
+
+4) mary_king_a - 0.9188169788609134
+
+5) miss_lydia_bennet_a - 0.9173050298716203
+
+6) charlotte_lucas_a - 0.9154096468159245
+
+7) mrs_collins_a - 0.9126894798073364
+
+8) mr_collins_a - 0.91136731905049
+
+9) mrs_phillips_a - 0.9064946444778043
+
+10) mr_darcy_a - 0.9045113480853099
+
+11) mrs_hurst_a - 0.904509457811435
+
+12) mr_wickham_a - 0.9028815569210981
+
+13) kitty_a - 0.8990170627539479
+
+14) lady_catherine_de_bourgh_a - 0.897935596046913
+
+15) mrs_gardiner_a - 0.895247062615788
+
+16) mr_bingley_a - 0.8929507998511438
+
+17) lady_lucas_a - 0.8862884972605592
+
+18) mr_denny_a - 0.8842827345217094
+
+19) miss_lizzy_a - 0.8787199592971849
+
+20) mrs_long_a - 0.8761945889112108
+
+21) miss_elizabeth_bennet_a - 0.8377524364664458
+
+22) miss_eliza_bennet_a - 0.8361164981300414
+
+23) pemberley_house_a - 0.8156509046450531
+
+24) rosings_a - 0.8031831623072379
+
+25) fitzwilliam_a - 0.7924998042732423
+
+26) georgiana_a - 0.7451435841833955
+
+27) william_lucas_a - 0.7211500191345834
+
+28) mrs_forster_a - 0.6665949026700796
+
+Result for the vector: lady_lucas, coming from part b of the book
+Rank: 1 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9296998977661199
+
+1) lady_lucas_a - 0.9296998977661199
+
+2) lady_catherine_de_bourgh_a - 0.9282030420424384
+
+3) mrs_phillips_a - 0.9253250912025641
+
+4) jane_a - 0.9241486787796086
+
+5) charlotte_lucas_a - 0.9174483916101922
+
+6) mrs_hurst_a - 0.916548371315009
+
+7) mr_bingley_a - 0.9140353151580896
+
+8) mrs_collins_a - 0.9140100479126041
+
+9) miss_lydia_bennet_a - 0.9128805450868428
+
+10) mr_collins_a - 0.9086006770850035
+
+11) mrs_gardiner_a - 0.9078205714011873
+
+12) maria_lucas_a - 0.9065571911999215
+
+13) mr_wickham_a - 0.90533050048326
+
+14) miss_lucas_a - 0.9044960737228458
+
+15) mr_darcy_a - 0.9015556993882134
+
+16) kitty_a - 0.9013052523914146
+
+17) mary_king_a - 0.8973809090895277
+
+18) mr_denny_a - 0.8883748584017089
+
+19) mrs_long_a - 0.886745889789989
+
+20) miss_lizzy_a - 0.8785660266876283
+
+21) miss_elizabeth_bennet_a - 0.8698542118072572
+
+22) pemberley_house_a - 0.8556965503511772
+
+23) rosings_a - 0.8426426555301356
+
+24) fitzwilliam_a - 0.8420752788827004
+
+25) miss_eliza_bennet_a - 0.8163520961437412
+
+26) georgiana_a - 0.7988036511189328
+
+27) mrs_forster_a - 0.7639582840166945
+
+28) william_lucas_a - 0.7472119927406364
+
+Result for the vector: charlotte_lucas, coming from part b of the book
+Rank: 2 out of 28 characters
+Cosine similarity to the co-referring vector: 0.936038255691535
+
+1) jane_a - 0.9401294064367525
+
+2) charlotte_lucas_a - 0.936038255691535
+
+3) lady_catherine_de_bourgh_a - 0.9337599913024924
+
+4) miss_lizzy_a - 0.9298260295598472
+
+5) maria_lucas_a - 0.9285264015197819
+
+6) mr_collins_a - 0.9279586076736516
+
+7) miss_lucas_a - 0.9271259394733978
+
+8) mr_darcy_a - 0.9266782955335703
+
+9) mr_wickham_a - 0.9265782556957564
+
+10) mary_king_a - 0.9178629244010805
+
+11) miss_lydia_bennet_a - 0.9142218385538168
+
+12) mr_bingley_a - 0.9113633089445066
+
+13) mrs_collins_a - 0.9102197992539646
+
+14) mrs_phillips_a - 0.9091073924835107
+
+15) mrs_gardiner_a - 0.9090673327446048
+
+16) lady_lucas_a - 0.9071069470516506
+
+17) mrs_hurst_a - 0.9068153611641692
+
+18) kitty_a - 0.9065467770965845
+
+19) mrs_long_a - 0.9065164057458555
+
+20) miss_eliza_bennet_a - 0.8990582763587545
+
+21) mr_denny_a - 0.8782717658119357
+
+22) pemberley_house_a - 0.8563506092816243
+
+23) miss_elizabeth_bennet_a - 0.8524162349204737
+
+24) fitzwilliam_a - 0.8270226224051358
+
+25) rosings_a - 0.8164321889619729
+
+26) georgiana_a - 0.8058278444902933
+
+27) william_lucas_a - 0.7605893897307646
+
+28) mrs_forster_a - 0.7073353318174113
+
+Result for the vector: georgiana, coming from part b of the book
+Rank: 26 out of 28 characters
+Cosine similarity to the co-referring vector: 0.8216508520633622
+
+1) jane_a - 0.9719095263588993
+
+2) charlotte_lucas_a - 0.9717675447464058
+
+3) miss_lucas_a - 0.9610207127307996
+
+4) maria_lucas_a - 0.9598814249038764
+
+5) mr_collins_a - 0.9585943222045966
+
+6) mary_king_a - 0.958379716921461
+
+7) lady_catherine_de_bourgh_a - 0.9569084073955787
+
+8) mr_darcy_a - 0.953330931266021
+
+9) mr_wickham_a - 0.9526640488903546
+
+10) mrs_phillips_a - 0.9510045676824725
+
+11) mrs_collins_a - 0.9504700958168393
+
+12) miss_lydia_bennet_a - 0.9502680986640294
+
+13) lady_lucas_a - 0.9488088549603396
+
+14) mrs_gardiner_a - 0.9480068087577888
+
+15) mr_bingley_a - 0.9454342755416484
+
+16) mrs_hurst_a - 0.944976992013813
+
+17) kitty_a - 0.9305959981324691
+
+18) miss_lizzy_a - 0.9246268362251715
+
+19) mrs_long_a - 0.9210061752496347
+
+20) mr_denny_a - 0.9103396588361483
+
+21) miss_elizabeth_bennet_a - 0.8842362899498594
+
+22) miss_eliza_bennet_a - 0.8827142645546496
+
+23) pemberley_house_a - 0.8825420807276931
+
+24) rosings_a - 0.855810889255353
+
+25) fitzwilliam_a - 0.8515284149927861
+
+26) georgiana_a - 0.8216508520633622
+
+27) william_lucas_a - 0.7527726587328125
+
+28) mrs_forster_a - 0.7267023108392294
+
+Result for the vector: mrs_long, coming from part b of the book
+Rank: 1 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9147188936090144
+
+1) mrs_long_a - 0.9147188936090144
+
+2) jane_a - 0.9136452130290755
+
+3) mrs_hurst_a - 0.9103527718572173
+
+4) mary_king_a - 0.9065558584498129
+
+5) mrs_collins_a - 0.9061545785573392
+
+6) lady_catherine_de_bourgh_a - 0.9042292237281799
+
+7) miss_lydia_bennet_a - 0.903401922774092
+
+8) charlotte_lucas_a - 0.9028688015263574
+
+9) miss_lucas_a - 0.9011251985356109
+
+10) miss_lizzy_a - 0.898588484609815
+
+11) kitty_a - 0.8965463638305664
+
+12) maria_lucas_a - 0.8921196992468671
+
+13) mrs_phillips_a - 0.8895981311798096
+
+14) lady_lucas_a - 0.8784971905650398
+
+15) mr_darcy_a - 0.8729785529349572
+
+16) mrs_gardiner_a - 0.8692082088713786
+
+17) mr_bingley_a - 0.8646179437637329
+
+18) mr_collins_a - 0.8575848852148599
+
+19) mr_wickham_a - 0.8510619059521531
+
+20) mr_denny_a - 0.8390273451805115
+
+21) georgiana_a - 0.8248951226347889
+
+22) miss_elizabeth_bennet_a - 0.8148532620159842
+
+23) miss_eliza_bennet_a - 0.8100309145487503
+
+24) pemberley_house_a - 0.7991008758544922
+
+25) fitzwilliam_a - 0.768215000629425
+
+26) rosings_a - 0.7649062275886536
+
+27) mrs_forster_a - 0.6694221100038922
+
+28) william_lucas_a - 0.6663761337771348
+
+Result for the vector: mr_denny, coming from part b of the book
+Rank: 10 out of 28 characters
+Cosine similarity to the co-referring vector: 0.8960855541280258
+
+1) mr_wickham_a - 0.9331645607797413
+
+2) mr_collins_a - 0.9326810160495062
+
+3) mr_darcy_a - 0.9194616531363122
+
+4) mr_bingley_a - 0.9153353521427738
+
+5) charlotte_lucas_a - 0.9063916690816485
+
+6) jane_a - 0.9044699668884342
+
+7) mrs_gardiner_a - 0.9040132646576482
+
+8) miss_lydia_bennet_a - 0.8992996275842555
+
+9) mrs_phillips_a - 0.8990532695682821
+
+10) mr_denny_a - 0.8960855541280258
+
+11) miss_lucas_a - 0.8924368619918887
+
+12) lady_catherine_de_bourgh_a - 0.8924297030228215
+
+13) maria_lucas_a - 0.892408119727149
+
+14) lady_lucas_a - 0.8921579122543398
+
+15) kitty_a - 0.889191442083804
+
+16) mrs_collins_a - 0.8885524272918764
+
+17) mrs_hurst_a - 0.8816776275634828
+
+18) mary_king_a - 0.8812186313765021
+
+19) mrs_long_a - 0.8783275674278354
+
+20) fitzwilliam_a - 0.8691896122211002
+
+21) miss_lizzy_a - 0.8661798238754334
+
+22) miss_elizabeth_bennet_a - 0.8617073297500671
+
+23) pemberley_house_a - 0.8358390233420758
+
+24) miss_eliza_bennet_a - 0.8354453746280759
+
+25) rosings_a - 0.7813547123285971
+
+26) mrs_forster_a - 0.7591286384280302
+
+27) william_lucas_a - 0.7569183707237297
+
+28) georgiana_a - 0.7487898019772428
+
+Result for the vector: pemberley_house, coming from part b of the book
+Rank: 2 out of 28 characters
+Cosine similarity to the co-referring vector: 0.9353067240301819
+
+1) rosings_a - 0.9817263473109231
+
+2) pemberley_house_a - 0.9353067240301819
+
+3) lady_catherine_de_bourgh_a - 0.8841587236022204
+
+4) jane_a - 0.8775501847267213
+
+5) mrs_gardiner_a - 0.8705661142547266
+
+6) lady_lucas_a - 0.8700702190399232
+
+7) mr_wickham_a - 0.8696200433033747
+
+8) mr_darcy_a - 0.8645670171797918
+
+9) charlotte_lucas_a - 0.8644404845762831
+
+10) miss_lucas_a - 0.8606473803520264
+
+11) mr_bingley_a - 0.8586367880485543
+
+12) mrs_phillips_a - 0.8557903084629973
+
+13) mr_collins_a - 0.8510496438800864
+
+14) miss_lydia_bennet_a - 0.8405450677546953
+
+15) mrs_long_a - 0.8378741298205377
+
+16) maria_lucas_a - 0.8313597239684729
+
+17) miss_lizzy_a - 0.8306046724319517
+
+18) mary_king_a - 0.8302201178866734
+
+19) mrs_collins_a - 0.8300393223762571
+
+20) mrs_hurst_a - 0.8175448179245053
+
+21) miss_elizabeth_bennet_a - 0.8151636719703732
+
+22) mr_denny_a - 0.8086594825184051
+
+23) kitty_a - 0.8083152656743103
+
+24) miss_eliza_bennet_a - 0.8032136803651491
+
+25) fitzwilliam_a - 0.8001489520161733
+
+26) georgiana_a - 0.7443193932150722
+
+27) mrs_forster_a - 0.7032843264893588
+
+28) william_lucas_a - 0.679061174392705
+

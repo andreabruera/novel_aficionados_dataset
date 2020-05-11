@@ -1,0 +1,60 @@
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9276612444125881
+
+1) time_b - 0.9276612444125881
+
+2) scene_b - 0.8380153372269467
+
+3) day_b - 0.7915461187633219
+
+Result for the vector: day, coming from part a of the book
+Rank: 3 out of 3 characters
+Cosine similarity to the co-referring vector: 0.7578021287918091
+
+1) time_b - 0.8972691297531128
+
+2) scene_b - 0.843690404672004
+
+3) day_b - 0.7578021287918091
+
+Result for the vector: scene, coming from part a of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.8602491104454347
+
+1) scene_b - 0.8602491104454347
+
+2) time_b - 0.8258221745491028
+
+3) day_b - 0.6635062098503113
+
+Result for the vector: time, coming from part b of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.9276612444125881
+
+1) time_a - 0.9276612444125881
+
+2) day_a - 0.8972691297531128
+
+3) scene_a - 0.8258221745491028
+
+Result for the vector: day, coming from part b of the book
+Rank: 2 out of 3 characters
+Cosine similarity to the co-referring vector: 0.7578021287918091
+
+1) time_a - 0.7915461187633219
+
+2) day_a - 0.7578021287918091
+
+3) scene_a - 0.6635062098503113
+
+Result for the vector: scene, coming from part b of the book
+Rank: 1 out of 3 characters
+Cosine similarity to the co-referring vector: 0.8602491104454347
+
+1) scene_a - 0.8602491104454347
+
+2) day_a - 0.843690404672004
+
+3) time_a - 0.8380153372269467
+

@@ -1,0 +1,96 @@
+Result for the vector: thing, coming from part i of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8772172404994241
+
+1) thing_a - 0.8772172404994241
+
+2) way_a - 0.8666964252772094
+
+3) book_a - 0.7726609842383289
+
+4) foot_a - 0.755666769872109
+
+Result for the vector: way, coming from part i of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.7895548814269844
+
+1) way_a - 0.7895548814269844
+
+2) thing_a - 0.7785195576262224
+
+3) foot_a - 0.7680409641302497
+
+4) book_a - 0.7029816927302905
+
+Result for the vector: foot, coming from part i of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.5600487494512277
+
+1) foot_a - 0.5600487494512277
+
+2) way_a - 0.5477625458098985
+
+3) thing_a - 0.5436315860528709
+
+4) book_a - 0.5370463452962853
+
+Result for the vector: book, coming from part i of the book
+Rank: 2 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8205183392917619
+
+1) thing_a - 0.8287279256799203
+
+2) book_a - 0.8205183392917619
+
+3) way_a - 0.7991301059463656
+
+4) foot_a - 0.7593903398150408
+
+Result for the vector: thing, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8772172404994241
+
+1) thing_wiki - 0.8772172404994241
+
+2) book_wiki - 0.8287279256799203
+
+3) way_wiki - 0.7785195576262224
+
+4) foot_wiki - 0.5436315860528709
+
+Result for the vector: way, coming from part a of the book
+Rank: 3 out of 4 characters
+Cosine similarity to the co-referring vector: 0.7895548814269844
+
+1) thing_wiki - 0.8666964252772094
+
+2) book_wiki - 0.7991301059463656
+
+3) way_wiki - 0.7895548814269844
+
+4) foot_wiki - 0.5477625458098985
+
+Result for the vector: foot, coming from part a of the book
+Rank: 4 out of 4 characters
+Cosine similarity to the co-referring vector: 0.5600487494512277
+
+1) way_wiki - 0.7680409641302497
+
+2) book_wiki - 0.7593903398150408
+
+3) thing_wiki - 0.755666769872109
+
+4) foot_wiki - 0.5600487494512277
+
+Result for the vector: book, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8205183392917619
+
+1) book_wiki - 0.8205183392917619
+
+2) thing_wiki - 0.7726609842383289
+
+3) way_wiki - 0.7029816927302905
+
+4) foot_wiki - 0.5370463452962853
+

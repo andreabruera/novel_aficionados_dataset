@@ -1,0 +1,1020 @@
+Result for the vector: ahab, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.926335334777832
+
+1) ahab_b - 0.926335334777832
+
+2) mr_stubb_b - 0.9184641886672877
+
+3) pip_b - 0.9184290815336076
+
+4) tashtego_b - 0.9174931645393372
+
+5) gabriel_b - 0.9173288022675757
+
+6) fedallah_b - 0.9136441349983215
+
+7) mr_starbuck_b - 0.907260000705719
+
+8) daggoo_b - 0.904808651827741
+
+9) jonah_b - 0.890262292654794
+
+10) peleg_b - 0.870306439977502
+
+11) cook_b - 0.8664460857840741
+
+12) yojo_b - 0.7877793438566136
+
+13) ishmael_b - 0.7874462008476257
+
+14) dick_b - 0.7149779200553894
+
+15) elijah_b - 0.6197524070739746
+
+Result for the vector: mr_stubb, coming from part a of the book
+Rank: 4 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9714173708656584
+
+1) mr_starbuck_b - 0.9810113322132049
+
+2) pip_b - 0.9742430479236784
+
+3) tashtego_b - 0.9722649471601893
+
+4) mr_stubb_b - 0.9714173708656584
+
+5) ahab_b - 0.9690781254125777
+
+6) fedallah_b - 0.9657475372703368
+
+7) cook_b - 0.9564904622446939
+
+8) gabriel_b - 0.9550726129093026
+
+9) daggoo_b - 0.9523710097603202
+
+10) jonah_b - 0.9233253552511694
+
+11) yojo_b - 0.8794356728272829
+
+12) ishmael_b - 0.8607790553105455
+
+13) peleg_b - 0.7408301543199832
+
+14) elijah_b - 0.718752520158738
+
+15) dick_b - 0.705376106180186
+
+Result for the vector: mr_starbuck, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9856459515516885
+
+1) mr_starbuck_b - 0.9856459515516885
+
+2) pip_b - 0.9780169168680476
+
+3) tashtego_b - 0.9752571612290021
+
+4) mr_stubb_b - 0.9691980536225956
+
+5) ahab_b - 0.9683076181045103
+
+6) fedallah_b - 0.9615881488814245
+
+7) cook_b - 0.9559606392453975
+
+8) daggoo_b - 0.9552137362447414
+
+9) gabriel_b - 0.9520528657389211
+
+10) jonah_b - 0.9181718826294206
+
+11) ishmael_b - 0.8745576888850168
+
+12) yojo_b - 0.8727632392472212
+
+13) peleg_b - 0.7319134357130358
+
+14) elijah_b - 0.6998759865908688
+
+15) dick_b - 0.6976511838851998
+
+Result for the vector: jonah, coming from part a of the book
+Rank: 9 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9398386650940975
+
+1) pip_b - 0.9732680610796339
+
+2) ahab_b - 0.9671193033861529
+
+3) mr_starbuck_b - 0.966716495160747
+
+4) tashtego_b - 0.9647786287765507
+
+5) gabriel_b - 0.9599174213310999
+
+6) mr_stubb_b - 0.958545474962766
+
+7) fedallah_b - 0.9584453366797012
+
+8) daggoo_b - 0.9412564950807152
+
+9) jonah_b - 0.9398386650940975
+
+10) cook_b - 0.922952500669743
+
+11) ishmael_b - 0.8729886597086816
+
+12) yojo_b - 0.8637551326678828
+
+13) peleg_b - 0.7339719752661064
+
+14) elijah_b - 0.7045698199781643
+
+15) dick_b - 0.7004173428193368
+
+Result for the vector: dick, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.981232762336731
+
+1) dick_b - 0.981232762336731
+
+2) tashtego_b - 0.7203415632247925
+
+3) daggoo_b - 0.7195868230358624
+
+4) cook_b - 0.711174445678328
+
+5) pip_b - 0.7111346297779912
+
+6) ahab_b - 0.7057307958602905
+
+7) fedallah_b - 0.7045202255249023
+
+8) mr_stubb_b - 0.704328435401415
+
+9) gabriel_b - 0.7033383459847675
+
+10) mr_starbuck_b - 0.7031497359275818
+
+11) jonah_b - 0.695474111494321
+
+12) yojo_b - 0.656952222767341
+
+13) ishmael_b - 0.6055816411972046
+
+14) peleg_b - 0.5777430190001129
+
+15) elijah_b - 0.5478997230529785
+
+Result for the vector: peleg, coming from part a of the book
+Rank: 13 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8179051388558677
+
+1) ahab_b - 0.9532132148742676
+
+2) mr_stubb_b - 0.9478475482554721
+
+3) mr_starbuck_b - 0.9466827511787415
+
+4) tashtego_b - 0.9417120218276978
+
+5) pip_b - 0.9390948451104869
+
+6) gabriel_b - 0.9341058413417892
+
+7) daggoo_b - 0.933240063996314
+
+8) fedallah_b - 0.9306173324584961
+
+9) cook_b - 0.919472579987493
+
+10) jonah_b - 0.8947355025691457
+
+11) yojo_b - 0.8365956046226275
+
+12) ishmael_b - 0.8192950487136841
+
+13) peleg_b - 0.8179051388558677
+
+14) dick_b - 0.7100898027420044
+
+15) elijah_b - 0.7087657451629639
+
+Result for the vector: pip, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9308623671531744
+
+1) pip_b - 0.9308623671531744
+
+2) cook_b - 0.9267791509628361
+
+3) mr_starbuck_b - 0.9232369615576856
+
+4) tashtego_b - 0.9206051779154065
+
+5) daggoo_b - 0.9016352354505662
+
+6) fedallah_b - 0.8977494178861049
+
+7) mr_stubb_b - 0.8972805142402712
+
+8) ahab_b - 0.8877791695463179
+
+9) gabriel_b - 0.87203665423721
+
+10) jonah_b - 0.8443737347794312
+
+11) ishmael_b - 0.8315638799407425
+
+12) yojo_b - 0.8192048668861447
+
+13) dick_b - 0.7006338060279982
+
+14) elijah_b - 0.6575309430081226
+
+15) peleg_b - 0.6448577046394394
+
+Result for the vector: daggoo, coming from part a of the book
+Rank: 7 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9498519927351631
+
+1) tashtego_b - 0.9643037297906731
+
+2) pip_b - 0.9610512256622383
+
+3) mr_starbuck_b - 0.9602243876590977
+
+4) mr_stubb_b - 0.9600591659545966
+
+5) ahab_b - 0.9599859690657853
+
+6) fedallah_b - 0.9529096456116244
+
+7) daggoo_b - 0.9498519927351631
+
+8) gabriel_b - 0.943632985082238
+
+9) cook_b - 0.9313476085662908
+
+10) jonah_b - 0.9087859825109228
+
+11) yojo_b - 0.8492237329483092
+
+12) ishmael_b - 0.8407485390155651
+
+13) peleg_b - 0.7181076407432607
+
+14) dick_b - 0.6960399565720544
+
+15) elijah_b - 0.6902879291944474
+
+Result for the vector: tashtego, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9729820505987393
+
+1) tashtego_b - 0.9729820505987393
+
+2) mr_starbuck_b - 0.9707345383921558
+
+3) mr_stubb_b - 0.9675365725116047
+
+4) pip_b - 0.9656576555183345
+
+5) daggoo_b - 0.9645766083163144
+
+6) ahab_b - 0.963277759356634
+
+7) fedallah_b - 0.9613937162522264
+
+8) gabriel_b - 0.9487711504468017
+
+9) cook_b - 0.9349702674185911
+
+10) jonah_b - 0.9279181318234432
+
+11) yojo_b - 0.8600295352900582
+
+12) ishmael_b - 0.8418500517696126
+
+13) peleg_b - 0.7255989640237136
+
+14) dick_b - 0.7133740953580097
+
+15) elijah_b - 0.6681082446510658
+
+Result for the vector: fedallah, coming from part a of the book
+Rank: 4 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9402318632464507
+
+1) mr_starbuck_b - 0.9478381903268002
+
+2) tashtego_b - 0.9457933339003738
+
+3) pip_b - 0.9428848692315973
+
+4) fedallah_b - 0.9402318632464507
+
+5) daggoo_b - 0.9335880398294871
+
+6) mr_stubb_b - 0.9324421367118195
+
+7) ahab_b - 0.9307012003242271
+
+8) gabriel_b - 0.916597160202353
+
+9) jonah_b - 0.910294050591844
+
+10) cook_b - 0.9095915067682854
+
+11) yojo_b - 0.8359614806221151
+
+12) ishmael_b - 0.828213821159971
+
+13) peleg_b - 0.7294259989945889
+
+14) dick_b - 0.6967498840838752
+
+15) elijah_b - 0.647115788035645
+
+Result for the vector: gabriel, coming from part a of the book
+Rank: 2 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8060884119894631
+
+1) pip_b - 0.8077482695729586
+
+2) gabriel_b - 0.8060884119894631
+
+3) fedallah_b - 0.7999547719955444
+
+4) tashtego_b - 0.7994694709777832
+
+5) jonah_b - 0.7933288566266183
+
+6) mr_starbuck_b - 0.7921590805053711
+
+7) mr_stubb_b - 0.7855107316070373
+
+8) daggoo_b - 0.7773045566911089
+
+9) ahab_b - 0.7766000628471375
+
+10) cook_b - 0.7714285390717676
+
+11) yojo_b - 0.7379068292434926
+
+12) ishmael_b - 0.7375642657279968
+
+13) peleg_b - 0.6691352922239737
+
+14) dick_b - 0.608904242515564
+
+15) elijah_b - 0.5024832487106323
+
+Result for the vector: ishmael, coming from part a of the book
+Rank: 11 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8788319302301464
+
+1) mr_starbuck_b - 0.9523916868930067
+
+2) pip_b - 0.9473497334301789
+
+3) cook_b - 0.9443612761066823
+
+4) tashtego_b - 0.935370747126894
+
+5) mr_stubb_b - 0.9252332538088257
+
+6) fedallah_b - 0.9233332918087682
+
+7) ahab_b - 0.921384577668634
+
+8) daggoo_b - 0.9175553469260923
+
+9) gabriel_b - 0.9105231490575365
+
+10) jonah_b - 0.89008366406464
+
+11) ishmael_b - 0.8788319302301464
+
+12) yojo_b - 0.8430384584619453
+
+13) peleg_b - 0.7011852024572847
+
+14) elijah_b - 0.6807883572108545
+
+15) dick_b - 0.6799060893114764
+
+Result for the vector: yojo, coming from part a of the book
+Rank: 11 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8287474019081964
+
+1) mr_stubb_b - 0.9265886588937859
+
+2) fedallah_b - 0.9186908006668091
+
+3) mr_starbuck_b - 0.9181870222091675
+
+4) tashtego_b - 0.9172417521476746
+
+5) jonah_b - 0.9142339723389181
+
+6) gabriel_b - 0.9139033828348934
+
+7) ahab_b - 0.9138771295547485
+
+8) pip_b - 0.9113205128121087
+
+9) daggoo_b - 0.9031828757306549
+
+10) cook_b - 0.8569125618390717
+
+11) yojo_b - 0.8287474019081964
+
+12) ishmael_b - 0.8002650141716003
+
+13) peleg_b - 0.7169210483478887
+
+14) dick_b - 0.6302765607833862
+
+15) elijah_b - 0.5813021063804626
+
+Result for the vector: elijah, coming from part a of the book
+Rank: 15 out of 15 characters
+Cosine similarity to the co-referring vector: 0.675808985483112
+
+1) mr_starbuck_b - 0.9471687706012283
+
+2) mr_stubb_b - 0.9413765142707211
+
+3) tashtego_b - 0.9388958848180856
+
+4) fedallah_b - 0.9358776249958517
+
+5) ahab_b - 0.9343664685269332
+
+6) pip_b - 0.9336303551637704
+
+7) daggoo_b - 0.9273175727157181
+
+8) gabriel_b - 0.9176935876103203
+
+9) cook_b - 0.9167169431785412
+
+10) jonah_b - 0.8867322735030956
+
+11) yojo_b - 0.8456346576649358
+
+12) ishmael_b - 0.8257772430314292
+
+13) peleg_b - 0.7280148591977526
+
+14) dick_b - 0.6782435966584935
+
+15) elijah_b - 0.675808985483112
+
+Result for the vector: cook, coming from part a of the book
+Rank: 10 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8649568396755511
+
+1) fedallah_b - 0.896030407434193
+
+2) pip_b - 0.8927955499643997
+
+3) tashtego_b - 0.8922724531184195
+
+4) ahab_b - 0.8907441301484483
+
+5) jonah_b - 0.8886465098400459
+
+6) mr_starbuck_b - 0.885828713028811
+
+7) mr_stubb_b - 0.8827545503085567
+
+8) daggoo_b - 0.8819953728911895
+
+9) gabriel_b - 0.8808816124848012
+
+10) cook_b - 0.8649568396755511
+
+11) ishmael_b - 0.8008736611974954
+
+12) yojo_b - 0.8004905939687234
+
+13) peleg_b - 0.7148391860531993
+
+14) dick_b - 0.682158830551903
+
+15) elijah_b - 0.6273426939265877
+
+Result for the vector: ahab, coming from part b of the book
+Rank: 9 out of 15 characters
+Cosine similarity to the co-referring vector: 0.926335334777832
+
+1) mr_stubb_a - 0.9690781254125777
+
+2) mr_starbuck_a - 0.9683076181045103
+
+3) jonah_a - 0.9671193033861529
+
+4) tashtego_a - 0.963277759356634
+
+5) daggoo_a - 0.9599859690657853
+
+6) peleg_a - 0.9532132148742676
+
+7) elijah_a - 0.9343664685269332
+
+8) fedallah_a - 0.9307012003242271
+
+9) ahab_a - 0.926335334777832
+
+10) ishmael_a - 0.921384577668634
+
+11) yojo_a - 0.9138771295547485
+
+12) cook_a - 0.8907441301484483
+
+13) pip_a - 0.8877791695463179
+
+14) gabriel_a - 0.7766000628471375
+
+15) dick_a - 0.7057307958602905
+
+Result for the vector: mr_stubb, coming from part b of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9714173708656584
+
+1) mr_stubb_a - 0.9714173708656584
+
+2) mr_starbuck_a - 0.9691980536225956
+
+3) tashtego_a - 0.9675365725116047
+
+4) daggoo_a - 0.9600591659545966
+
+5) jonah_a - 0.958545474962766
+
+6) peleg_a - 0.9478475482554721
+
+7) elijah_a - 0.9413765142707211
+
+8) fedallah_a - 0.9324421367118195
+
+9) yojo_a - 0.9265886588937859
+
+10) ishmael_a - 0.9252332538088257
+
+11) ahab_a - 0.9184641886672877
+
+12) pip_a - 0.8972805142402712
+
+13) cook_a - 0.8827545503085567
+
+14) gabriel_a - 0.7855107316070373
+
+15) dick_a - 0.704328435401415
+
+Result for the vector: mr_starbuck, coming from part b of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9856459515516885
+
+1) mr_starbuck_a - 0.9856459515516885
+
+2) mr_stubb_a - 0.9810113322132049
+
+3) tashtego_a - 0.9707345383921558
+
+4) jonah_a - 0.966716495160747
+
+5) daggoo_a - 0.9602243876590977
+
+6) ishmael_a - 0.9523916868930067
+
+7) fedallah_a - 0.9478381903268002
+
+8) elijah_a - 0.9471687706012283
+
+9) peleg_a - 0.9466827511787415
+
+10) pip_a - 0.9232369615576856
+
+11) yojo_a - 0.9181870222091675
+
+12) ahab_a - 0.907260000705719
+
+13) cook_a - 0.885828713028811
+
+14) gabriel_a - 0.7921590805053711
+
+15) dick_a - 0.7031497359275818
+
+Result for the vector: jonah, coming from part b of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9398386650940975
+
+1) jonah_a - 0.9398386650940975
+
+2) tashtego_a - 0.9279181318234432
+
+3) mr_stubb_a - 0.9233253552511694
+
+4) mr_starbuck_a - 0.9181718826294206
+
+5) yojo_a - 0.9142339723389181
+
+6) fedallah_a - 0.910294050591844
+
+7) daggoo_a - 0.9087859825109228
+
+8) peleg_a - 0.8947355025691457
+
+9) ahab_a - 0.890262292654794
+
+10) ishmael_a - 0.89008366406464
+
+11) cook_a - 0.8886465098400459
+
+12) elijah_a - 0.8867322735030956
+
+13) pip_a - 0.8443737347794312
+
+14) gabriel_a - 0.7933288566266183
+
+15) dick_a - 0.695474111494321
+
+Result for the vector: dick, coming from part b of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.981232762336731
+
+1) dick_a - 0.981232762336731
+
+2) ahab_a - 0.7149779200553894
+
+3) tashtego_a - 0.7133740953580097
+
+4) peleg_a - 0.7100898027420044
+
+5) mr_stubb_a - 0.705376106180186
+
+6) pip_a - 0.7006338060279982
+
+7) jonah_a - 0.7004173428193368
+
+8) mr_starbuck_a - 0.6976511838851998
+
+9) fedallah_a - 0.6967498840838752
+
+10) daggoo_a - 0.6960399565720544
+
+11) cook_a - 0.682158830551903
+
+12) ishmael_a - 0.6799060893114764
+
+13) elijah_a - 0.6782435966584935
+
+14) yojo_a - 0.6302765607833862
+
+15) gabriel_a - 0.608904242515564
+
+Result for the vector: peleg, coming from part b of the book
+Rank: 2 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8179051388558677
+
+1) ahab_a - 0.870306439977502
+
+2) peleg_a - 0.8179051388558677
+
+3) mr_stubb_a - 0.7408301543199832
+
+4) jonah_a - 0.7339719752661064
+
+5) mr_starbuck_a - 0.7319134357130358
+
+6) fedallah_a - 0.7294259989945889
+
+7) elijah_a - 0.7280148591977526
+
+8) tashtego_a - 0.7255989640237136
+
+9) daggoo_a - 0.7181076407432607
+
+10) yojo_a - 0.7169210483478887
+
+11) cook_a - 0.7148391860531993
+
+12) ishmael_a - 0.7011852024572847
+
+13) gabriel_a - 0.6691352922239737
+
+14) pip_a - 0.6448577046394394
+
+15) dick_a - 0.5777430190001129
+
+Result for the vector: pip, coming from part b of the book
+Rank: 10 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9308623671531744
+
+1) mr_starbuck_a - 0.9780169168680476
+
+2) mr_stubb_a - 0.9742430479236784
+
+3) jonah_a - 0.9732680610796339
+
+4) tashtego_a - 0.9656576555183345
+
+5) daggoo_a - 0.9610512256622383
+
+6) ishmael_a - 0.9473497334301789
+
+7) fedallah_a - 0.9428848692315973
+
+8) peleg_a - 0.9390948451104869
+
+9) elijah_a - 0.9336303551637704
+
+10) pip_a - 0.9308623671531744
+
+11) ahab_a - 0.9184290815336076
+
+12) yojo_a - 0.9113205128121087
+
+13) cook_a - 0.8927955499643997
+
+14) gabriel_a - 0.8077482695729586
+
+15) dick_a - 0.7111346297779912
+
+Result for the vector: daggoo, coming from part b of the book
+Rank: 4 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9498519927351631
+
+1) tashtego_a - 0.9645766083163144
+
+2) mr_starbuck_a - 0.9552137362447414
+
+3) mr_stubb_a - 0.9523710097603202
+
+4) daggoo_a - 0.9498519927351631
+
+5) jonah_a - 0.9412564950807152
+
+6) fedallah_a - 0.9335880398294871
+
+7) peleg_a - 0.933240063996314
+
+8) elijah_a - 0.9273175727157181
+
+9) ishmael_a - 0.9175553469260923
+
+10) ahab_a - 0.904808651827741
+
+11) yojo_a - 0.9031828757306549
+
+12) pip_a - 0.9016352354505662
+
+13) cook_a - 0.8819953728911895
+
+14) gabriel_a - 0.7773045566911089
+
+15) dick_a - 0.7195868230358624
+
+Result for the vector: tashtego, coming from part b of the book
+Rank: 2 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9729820505987393
+
+1) mr_starbuck_a - 0.9752571612290021
+
+2) tashtego_a - 0.9729820505987393
+
+3) mr_stubb_a - 0.9722649471601893
+
+4) jonah_a - 0.9647786287765507
+
+5) daggoo_a - 0.9643037297906731
+
+6) fedallah_a - 0.9457933339003738
+
+7) peleg_a - 0.9417120218276978
+
+8) elijah_a - 0.9388958848180856
+
+9) ishmael_a - 0.935370747126894
+
+10) pip_a - 0.9206051779154065
+
+11) ahab_a - 0.9174931645393372
+
+12) yojo_a - 0.9172417521476746
+
+13) cook_a - 0.8922724531184195
+
+14) gabriel_a - 0.7994694709777832
+
+15) dick_a - 0.7203415632247925
+
+Result for the vector: fedallah, coming from part b of the book
+Rank: 6 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9402318632464507
+
+1) mr_stubb_a - 0.9657475372703368
+
+2) mr_starbuck_a - 0.9615881488814245
+
+3) tashtego_a - 0.9613937162522264
+
+4) jonah_a - 0.9584453366797012
+
+5) daggoo_a - 0.9529096456116244
+
+6) fedallah_a - 0.9402318632464507
+
+7) elijah_a - 0.9358776249958517
+
+8) peleg_a - 0.9306173324584961
+
+9) ishmael_a - 0.9233332918087682
+
+10) yojo_a - 0.9186908006668091
+
+11) ahab_a - 0.9136441349983215
+
+12) pip_a - 0.8977494178861049
+
+13) cook_a - 0.896030407434193
+
+14) gabriel_a - 0.7999547719955444
+
+15) dick_a - 0.7045202255249023
+
+Result for the vector: gabriel, coming from part b of the book
+Rank: 14 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8060884119894631
+
+1) jonah_a - 0.9599174213310999
+
+2) mr_stubb_a - 0.9550726129093026
+
+3) mr_starbuck_a - 0.9520528657389211
+
+4) tashtego_a - 0.9487711504468017
+
+5) daggoo_a - 0.943632985082238
+
+6) peleg_a - 0.9341058413417892
+
+7) elijah_a - 0.9176935876103203
+
+8) ahab_a - 0.9173288022675757
+
+9) fedallah_a - 0.916597160202353
+
+10) yojo_a - 0.9139033828348934
+
+11) ishmael_a - 0.9105231490575365
+
+12) cook_a - 0.8808816124848012
+
+13) pip_a - 0.87203665423721
+
+14) gabriel_a - 0.8060884119894631
+
+15) dick_a - 0.7033383459847675
+
+Result for the vector: ishmael, coming from part b of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8788319302301464
+
+1) ishmael_a - 0.8788319302301464
+
+2) mr_starbuck_a - 0.8745576888850168
+
+3) jonah_a - 0.8729886597086816
+
+4) mr_stubb_a - 0.8607790553105455
+
+5) tashtego_a - 0.8418500517696126
+
+6) daggoo_a - 0.8407485390155651
+
+7) pip_a - 0.8315638799407425
+
+8) fedallah_a - 0.828213821159971
+
+9) elijah_a - 0.8257772430314292
+
+10) peleg_a - 0.8192950487136841
+
+11) cook_a - 0.8008736611974954
+
+12) yojo_a - 0.8002650141716003
+
+13) ahab_a - 0.7874462008476257
+
+14) gabriel_a - 0.7375642657279968
+
+15) dick_a - 0.6055816411972046
+
+Result for the vector: yojo, coming from part b of the book
+Rank: 10 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8287474019081964
+
+1) mr_stubb_a - 0.8794356728272829
+
+2) mr_starbuck_a - 0.8727632392472212
+
+3) jonah_a - 0.8637551326678828
+
+4) tashtego_a - 0.8600295352900582
+
+5) daggoo_a - 0.8492237329483092
+
+6) elijah_a - 0.8456346576649358
+
+7) ishmael_a - 0.8430384584619453
+
+8) peleg_a - 0.8365956046226275
+
+9) fedallah_a - 0.8359614806221151
+
+10) yojo_a - 0.8287474019081964
+
+11) pip_a - 0.8192048668861447
+
+12) cook_a - 0.8004905939687234
+
+13) ahab_a - 0.7877793438566136
+
+14) gabriel_a - 0.7379068292434926
+
+15) dick_a - 0.656952222767341
+
+Result for the vector: elijah, coming from part b of the book
+Rank: 7 out of 15 characters
+Cosine similarity to the co-referring vector: 0.675808985483112
+
+1) mr_stubb_a - 0.718752520158738
+
+2) peleg_a - 0.7087657451629639
+
+3) jonah_a - 0.7045698199781643
+
+4) mr_starbuck_a - 0.6998759865908688
+
+5) daggoo_a - 0.6902879291944474
+
+6) ishmael_a - 0.6807883572108545
+
+7) elijah_a - 0.675808985483112
+
+8) tashtego_a - 0.6681082446510658
+
+9) pip_a - 0.6575309430081226
+
+10) fedallah_a - 0.647115788035645
+
+11) cook_a - 0.6273426939265877
+
+12) ahab_a - 0.6197524070739746
+
+13) yojo_a - 0.5813021063804626
+
+14) dick_a - 0.5478997230529785
+
+15) gabriel_a - 0.5024832487106323
+
+Result for the vector: cook, coming from part b of the book
+Rank: 12 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8649568396755511
+
+1) mr_stubb_a - 0.9564904622446939
+
+2) mr_starbuck_a - 0.9559606392453975
+
+3) ishmael_a - 0.9443612761066823
+
+4) tashtego_a - 0.9349702674185911
+
+5) daggoo_a - 0.9313476085662908
+
+6) pip_a - 0.9267791509628361
+
+7) jonah_a - 0.922952500669743
+
+8) peleg_a - 0.919472579987493
+
+9) elijah_a - 0.9167169431785412
+
+10) fedallah_a - 0.9095915067682854
+
+11) ahab_a - 0.8664460857840741
+
+12) cook_a - 0.8649568396755511
+
+13) yojo_a - 0.8569125618390717
+
+14) gabriel_a - 0.7714285390717676
+
+15) dick_a - 0.711174445678328
+

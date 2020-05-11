@@ -1,0 +1,396 @@
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9795542955398838
+
+1) man_b - 0.9795542955398838
+
+2) thing_b - 0.9204278994626759
+
+3) girl_b - 0.9100987857639211
+
+4) world_b - 0.9032477678804404
+
+5) time_b - 0.8665220061851883
+
+6) way_b - 0.864599434041842
+
+7) rose_b - 0.819892872565573
+
+8) desire_b - 0.7978773472162956
+
+9) point_b - 0.7081294655800067
+
+Result for the vector: thing, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9706906334594875
+
+1) thing_b - 0.9706906334594875
+
+2) man_b - 0.9009193568599899
+
+3) way_b - 0.8957321786481444
+
+4) time_b - 0.8884050581334549
+
+5) world_b - 0.8871942494155726
+
+6) rose_b - 0.832622503262091
+
+7) girl_b - 0.8255899898532069
+
+8) desire_b - 0.8205586916374774
+
+9) point_b - 0.7516003175139226
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9672941873283966
+
+1) time_b - 0.9672941873283966
+
+2) thing_b - 0.9051963247651382
+
+3) way_b - 0.8923648137397823
+
+4) man_b - 0.87177471472848
+
+5) world_b - 0.8674492577478545
+
+6) rose_b - 0.8131048437027713
+
+7) girl_b - 0.8077258822999664
+
+8) desire_b - 0.7691733470312762
+
+9) point_b - 0.7344532548380049
+
+Result for the vector: world, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9886608719825815
+
+1) world_b - 0.9886608719825815
+
+2) thing_b - 0.9202898002189057
+
+3) man_b - 0.8949555221226644
+
+4) way_b - 0.8918713137873392
+
+5) time_b - 0.8717995285987916
+
+6) girl_b - 0.8226454257965147
+
+7) rose_b - 0.798022627830511
+
+8) desire_b - 0.7951685068111736
+
+9) point_b - 0.7214540409175249
+
+Result for the vector: way, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9624478176174015
+
+1) way_b - 0.9624478176174015
+
+2) thing_b - 0.9303027308348163
+
+3) time_b - 0.9016388117290267
+
+4) world_b - 0.8946843210050884
+
+5) man_b - 0.8768193868614036
+
+6) desire_b - 0.8437257409095764
+
+7) rose_b - 0.8260683520991607
+
+8) girl_b - 0.8042204496729121
+
+9) point_b - 0.7744813234232334
+
+Result for the vector: girl, coming from part a of the book
+Rank: 2 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9336674292484011
+
+1) man_b - 0.9506661384106644
+
+2) girl_b - 0.9336674292484011
+
+3) thing_b - 0.918580050383824
+
+4) world_b - 0.913307259880631
+
+5) way_b - 0.8775216864062501
+
+6) time_b - 0.8602286743845136
+
+7) rose_b - 0.8228335591753054
+
+8) desire_b - 0.7910145645728981
+
+9) point_b - 0.689369376414531
+
+Result for the vector: rose, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9314251623838946
+
+1) rose_b - 0.9314251623838946
+
+2) thing_b - 0.8981016217530884
+
+3) man_b - 0.8854716028919946
+
+4) time_b - 0.8621194527006801
+
+5) way_b - 0.8533438356723824
+
+6) world_b - 0.851566093973387
+
+7) girl_b - 0.823790809656285
+
+8) desire_b - 0.7542886284417745
+
+9) point_b - 0.6948811957452555
+
+Result for the vector: point, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9383483639332614
+
+1) point_b - 0.9383483639332614
+
+2) way_b - 0.7614248848810845
+
+3) time_b - 0.7557002001166105
+
+4) thing_b - 0.7380270205752384
+
+5) world_b - 0.7356667237679095
+
+6) man_b - 0.6982943359087117
+
+7) rose_b - 0.6721649560731702
+
+8) desire_b - 0.662168105711455
+
+9) girl_b - 0.6522795376444414
+
+Result for the vector: desire, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9239937893146721
+
+1) desire_b - 0.9239937893146721
+
+2) thing_b - 0.8418292371274433
+
+3) way_b - 0.8327138969003347
+
+4) time_b - 0.8130067233147331
+
+5) man_b - 0.8097961899699092
+
+6) world_b - 0.8082572462635501
+
+7) rose_b - 0.774444781972321
+
+8) girl_b - 0.7379928451178408
+
+9) point_b - 0.6827862655286262
+
+Result for the vector: man, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9795542955398838
+
+1) man_a - 0.9795542955398838
+
+2) girl_a - 0.9506661384106644
+
+3) thing_a - 0.9009193568599899
+
+4) world_a - 0.8949555221226644
+
+5) rose_a - 0.8854716028919946
+
+6) way_a - 0.8768193868614036
+
+7) time_a - 0.87177471472848
+
+8) desire_a - 0.8097961899699092
+
+9) point_a - 0.6982943359087117
+
+Result for the vector: thing, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9706906334594875
+
+1) thing_a - 0.9706906334594875
+
+2) way_a - 0.9303027308348163
+
+3) man_a - 0.9204278994626759
+
+4) world_a - 0.9202898002189057
+
+5) girl_a - 0.918580050383824
+
+6) time_a - 0.9051963247651382
+
+7) rose_a - 0.8981016217530884
+
+8) desire_a - 0.8418292371274433
+
+9) point_a - 0.7380270205752384
+
+Result for the vector: time, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9672941873283966
+
+1) time_a - 0.9672941873283966
+
+2) way_a - 0.9016388117290267
+
+3) thing_a - 0.8884050581334549
+
+4) world_a - 0.8717995285987916
+
+5) man_a - 0.8665220061851883
+
+6) rose_a - 0.8621194527006801
+
+7) girl_a - 0.8602286743845136
+
+8) desire_a - 0.8130067233147331
+
+9) point_a - 0.7557002001166105
+
+Result for the vector: world, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9886608719825815
+
+1) world_a - 0.9886608719825815
+
+2) girl_a - 0.913307259880631
+
+3) man_a - 0.9032477678804404
+
+4) way_a - 0.8946843210050884
+
+5) thing_a - 0.8871942494155726
+
+6) time_a - 0.8674492577478545
+
+7) rose_a - 0.851566093973387
+
+8) desire_a - 0.8082572462635501
+
+9) point_a - 0.7356667237679095
+
+Result for the vector: way, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9624478176174015
+
+1) way_a - 0.9624478176174015
+
+2) thing_a - 0.8957321786481444
+
+3) time_a - 0.8923648137397823
+
+4) world_a - 0.8918713137873392
+
+5) girl_a - 0.8775216864062501
+
+6) man_a - 0.864599434041842
+
+7) rose_a - 0.8533438356723824
+
+8) desire_a - 0.8327138969003347
+
+9) point_a - 0.7614248848810845
+
+Result for the vector: girl, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9336674292484011
+
+1) girl_a - 0.9336674292484011
+
+2) man_a - 0.9100987857639211
+
+3) thing_a - 0.8255899898532069
+
+4) rose_a - 0.823790809656285
+
+5) world_a - 0.8226454257965147
+
+6) time_a - 0.8077258822999664
+
+7) way_a - 0.8042204496729121
+
+8) desire_a - 0.7379928451178408
+
+9) point_a - 0.6522795376444414
+
+Result for the vector: rose, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9314251623838946
+
+1) rose_a - 0.9314251623838946
+
+2) thing_a - 0.832622503262091
+
+3) way_a - 0.8260683520991607
+
+4) girl_a - 0.8228335591753054
+
+5) man_a - 0.819892872565573
+
+6) time_a - 0.8131048437027713
+
+7) world_a - 0.798022627830511
+
+8) desire_a - 0.774444781972321
+
+9) point_a - 0.6721649560731702
+
+Result for the vector: point, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9383483639332614
+
+1) point_a - 0.9383483639332614
+
+2) way_a - 0.7744813234232334
+
+3) thing_a - 0.7516003175139226
+
+4) time_a - 0.7344532548380049
+
+5) world_a - 0.7214540409175249
+
+6) man_a - 0.7081294655800067
+
+7) rose_a - 0.6948811957452555
+
+8) girl_a - 0.689369376414531
+
+9) desire_a - 0.6827862655286262
+
+Result for the vector: desire, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9239937893146721
+
+1) desire_a - 0.9239937893146721
+
+2) way_a - 0.8437257409095764
+
+3) thing_a - 0.8205586916374774
+
+4) man_a - 0.7978773472162956
+
+5) world_a - 0.7951685068111736
+
+6) girl_a - 0.7910145645728981
+
+7) time_a - 0.7691733470312762
+
+8) rose_a - 0.7542886284417745
+
+9) point_a - 0.662168105711455
+

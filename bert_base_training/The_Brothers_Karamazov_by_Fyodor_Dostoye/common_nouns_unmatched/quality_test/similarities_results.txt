@@ -1,0 +1,1292 @@
+Result for the vector: man, coming from part i of the book
+Rank: 3 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9104803907298576
+
+1) people_a - 0.9338855107954598
+
+2) woman_a - 0.9324163516635827
+
+3) man_a - 0.9104803907298576
+
+4) boy_a - 0.906946182250983
+
+5) one_a - 0.886824793408825
+
+6) day_a - 0.8745301105222107
+
+7) something_a - 0.8735173420001676
+
+8) heart_a - 0.8734868915692697
+
+9) money_a - 0.8657567501068176
+
+10) nothing_a - 0.8653384607626843
+
+11) brother_a - 0.8566746201113108
+
+12) word_a - 0.8548312273722171
+
+13) life_a - 0.8479735002525631
+
+14) way_a - 0.8267019597647238
+
+15) hand_a - 0.8115049600601254
+
+16) time_a - 0.7894471162228184
+
+17) moment_a - 0.7768638597049754
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9166087085915704
+
+1) time_a - 0.9166087085915704
+
+2) moment_a - 0.8679686886025536
+
+3) day_a - 0.864942542609128
+
+4) way_a - 0.8439147220875439
+
+5) word_a - 0.8161432390255705
+
+6) people_a - 0.8129776735570573
+
+7) one_a - 0.8099276068785077
+
+8) life_a - 0.8079169278095322
+
+9) something_a - 0.800807082677099
+
+10) boy_a - 0.7982528327333483
+
+11) heart_a - 0.7962246895961588
+
+12) money_a - 0.7934627646323533
+
+13) nothing_a - 0.7819587951314839
+
+14) woman_a - 0.7790090309982914
+
+15) brother_a - 0.7744800083184248
+
+16) man_a - 0.7618217837267613
+
+17) hand_a - 0.7495413496680278
+
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9028698590812313
+
+1) day_a - 0.9028698590812313
+
+2) way_a - 0.8527713681272221
+
+3) time_a - 0.8507931232452635
+
+4) heart_a - 0.8449898043293126
+
+5) moment_a - 0.8394783735275507
+
+6) life_a - 0.83834122076561
+
+7) word_a - 0.8340895373714581
+
+8) people_a - 0.830441594123864
+
+9) boy_a - 0.8274099929684537
+
+10) one_a - 0.8268522230562957
+
+11) money_a - 0.8225841627965008
+
+12) woman_a - 0.820175157173718
+
+13) something_a - 0.8198182201602254
+
+14) brother_a - 0.8129877074971605
+
+15) nothing_a - 0.8053836574464471
+
+16) hand_a - 0.7881683833498853
+
+17) man_a - 0.7849833753734766
+
+Result for the vector: one, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9283555150032043
+
+1) one_a - 0.9283555150032043
+
+2) something_a - 0.8574017882347107
+
+3) boy_a - 0.8400176072131176
+
+4) day_a - 0.8369950901566476
+
+5) brother_a - 0.8319346904754639
+
+6) nothing_a - 0.8319209318208154
+
+7) woman_a - 0.8313430795473782
+
+8) people_a - 0.8279421720435883
+
+9) money_a - 0.8263469234911769
+
+10) heart_a - 0.8233735666648423
+
+11) word_a - 0.8159435987472534
+
+12) way_a - 0.8116411679004941
+
+13) life_a - 0.8071471693261618
+
+14) man_a - 0.8038326022724761
+
+15) hand_a - 0.7870771161959851
+
+16) time_a - 0.7844306569612866
+
+17) moment_a - 0.7714048351532079
+
+Result for the vector: hand, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8640400686287936
+
+1) hand_a - 0.8640400686287936
+
+2) heart_a - 0.8393903470402764
+
+3) life_a - 0.8019126296613408
+
+4) way_a - 0.793657017132223
+
+5) day_a - 0.7912506696954572
+
+6) word_a - 0.7900025248527527
+
+7) money_a - 0.7876590363776124
+
+8) boy_a - 0.7668183902989872
+
+9) something_a - 0.7626602053642273
+
+10) time_a - 0.7618238045959294
+
+11) one_a - 0.7584644556045532
+
+12) woman_a - 0.757043741853349
+
+13) brother_a - 0.7558023929595947
+
+14) people_a - 0.7506230772284415
+
+15) nothing_a - 0.7503580599809863
+
+16) moment_a - 0.741160004277235
+
+17) man_a - 0.7067287143034522
+
+Result for the vector: money, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9310367580121935
+
+1) money_a - 0.9310367580121935
+
+2) word_a - 0.8385375545665746
+
+3) something_a - 0.8374455377394662
+
+4) day_a - 0.8355506711528738
+
+5) nothing_a - 0.8354312679428751
+
+6) heart_a - 0.8236200704348261
+
+7) life_a - 0.821885648650776
+
+8) boy_a - 0.8180430206137351
+
+9) hand_a - 0.8178162248998105
+
+10) woman_a - 0.8163648868150873
+
+11) way_a - 0.8154034504535002
+
+12) people_a - 0.8030958302249503
+
+13) one_a - 0.8027682069263762
+
+14) time_a - 0.7843087397357797
+
+15) brother_a - 0.7793246244579162
+
+16) man_a - 0.7630896427088885
+
+17) moment_a - 0.7450417268375699
+
+Result for the vector: word, coming from part i of the book
+Rank: 5 out of 17 characters
+Cosine similarity to the co-referring vector: 0.7644903204148831
+
+1) nothing_a - 0.8000703692352331
+
+2) something_a - 0.7922411684846196
+
+3) money_a - 0.7811110019683893
+
+4) one_a - 0.7649945756796269
+
+5) word_a - 0.7644903204148831
+
+6) day_a - 0.764434791671196
+
+7) boy_a - 0.762482881546026
+
+8) people_a - 0.7616984702169105
+
+9) woman_a - 0.758013643085553
+
+10) way_a - 0.7575320294461215
+
+11) heart_a - 0.7567550829940936
+
+12) brother_a - 0.7558949735227256
+
+13) life_a - 0.7453293578228576
+
+14) man_a - 0.7186988927484879
+
+15) hand_a - 0.7098557353019764
+
+16) time_a - 0.7081870262734423
+
+17) moment_a - 0.6853835991253724
+
+Result for the vector: moment, coming from part i of the book
+Rank: 2 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8210210480131608
+
+1) day_a - 0.8438744703419037
+
+2) moment_a - 0.8210210480131608
+
+3) time_a - 0.8182727965604314
+
+4) word_a - 0.7969073532168494
+
+5) way_a - 0.7910827994346675
+
+6) one_a - 0.7631476380317009
+
+7) life_a - 0.7611268843227823
+
+8) boy_a - 0.7571580120513454
+
+9) something_a - 0.755895838492862
+
+10) woman_a - 0.7541668493300843
+
+11) heart_a - 0.7519260644912773
+
+12) money_a - 0.7492631374911234
+
+13) nothing_a - 0.7339360713958792
+
+14) people_a - 0.7259206281758491
+
+15) brother_a - 0.7163573334430071
+
+16) man_a - 0.7135398387908987
+
+17) hand_a - 0.7046582346747201
+
+Result for the vector: heart, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8899875614050793
+
+1) heart_a - 0.8899875614050793
+
+2) life_a - 0.8575373803101408
+
+3) word_a - 0.8345199476039398
+
+4) way_a - 0.8293743482418585
+
+5) brother_a - 0.8287273296334547
+
+6) day_a - 0.8286234038247707
+
+7) hand_a - 0.8243352911772098
+
+8) people_a - 0.820401373565405
+
+9) money_a - 0.8166013494075555
+
+10) boy_a - 0.8152357472690122
+
+11) something_a - 0.8086696508130331
+
+12) one_a - 0.8050586821156351
+
+13) woman_a - 0.7926118250257864
+
+14) nothing_a - 0.7815988426924128
+
+15) time_a - 0.7722871858309517
+
+16) man_a - 0.7610535394831467
+
+17) moment_a - 0.7604350984744904
+
+Result for the vector: life, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9238745294846772
+
+1) life_a - 0.9238745294846772
+
+2) heart_a - 0.911246787161018
+
+3) day_a - 0.8755031563191701
+
+4) word_a - 0.8739723638312615
+
+5) way_a - 0.867298559272461
+
+6) something_a - 0.865019627510333
+
+7) money_a - 0.8625264167785706
+
+8) boy_a - 0.8537809252739014
+
+9) people_a - 0.8530610116160655
+
+10) brother_a - 0.8485027641950406
+
+11) one_a - 0.8465604873561584
+
+12) woman_a - 0.8432105528351533
+
+13) nothing_a - 0.8392328215559933
+
+14) time_a - 0.8191451322522969
+
+15) man_a - 0.8185733176978448
+
+16) hand_a - 0.8170008063316403
+
+17) moment_a - 0.7897084230010888
+
+Result for the vector: something, coming from part i of the book
+Rank: 2 out of 17 characters
+Cosine similarity to the co-referring vector: 0.7404731512069702
+
+1) one_a - 0.7593691945075989
+
+2) something_a - 0.7404731512069702
+
+3) woman_a - 0.7228732324502839
+
+4) heart_a - 0.7129267029209923
+
+5) nothing_a - 0.7109965854289195
+
+6) day_a - 0.7068588944333465
+
+7) man_a - 0.7066906269377109
+
+8) people_a - 0.7060480363426302
+
+9) way_a - 0.7047270712419123
+
+10) boy_a - 0.7022924245770243
+
+11) money_a - 0.6996599852836136
+
+12) word_a - 0.6994643211364746
+
+13) brother_a - 0.6906007528305054
+
+14) life_a - 0.6893978324353052
+
+15) time_a - 0.6743154137510602
+
+16) hand_a - 0.6628433861043099
+
+17) moment_a - 0.6609080029616407
+
+Result for the vector: nothing, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.895492288604612
+
+1) nothing_a - 0.895492288604612
+
+2) something_a - 0.8938682345708683
+
+3) money_a - 0.8492943211759024
+
+4) people_a - 0.8328431893651503
+
+5) heart_a - 0.8258703104892313
+
+6) one_a - 0.8185467367931232
+
+7) word_a - 0.8104228022820597
+
+8) day_a - 0.8094718342704674
+
+9) way_a - 0.7961889864150024
+
+10) life_a - 0.7951145049997869
+
+11) boy_a - 0.7928304188993951
+
+12) brother_a - 0.7905177709614569
+
+13) woman_a - 0.7832307090300744
+
+14) man_a - 0.7651840220336938
+
+15) hand_a - 0.755254813008441
+
+16) moment_a - 0.7457777776983079
+
+17) time_a - 0.7423099193438797
+
+Result for the vector: brother, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8701311349868774
+
+1) brother_a - 0.8701311349868774
+
+2) boy_a - 0.8598883664541478
+
+3) woman_a - 0.8298371681522483
+
+4) man_a - 0.8226114021175278
+
+5) people_a - 0.8222259071142621
+
+6) one_a - 0.8110730051994324
+
+7) day_a - 0.8106647971470597
+
+8) word_a - 0.8043559789657593
+
+9) way_a - 0.8002622246585964
+
+10) life_a - 0.8002359509538401
+
+11) heart_a - 0.7983446837458217
+
+12) money_a - 0.7914088840132301
+
+13) something_a - 0.7853424549102783
+
+14) time_a - 0.7656576354095556
+
+15) nothing_a - 0.7642425439213204
+
+16) hand_a - 0.7509080023114696
+
+17) moment_a - 0.7340026776793863
+
+Result for the vector: boy, coming from part i of the book
+Rank: 2 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9142792769836965
+
+1) woman_a - 0.9155262981512043
+
+2) boy_a - 0.9142792769836965
+
+3) people_a - 0.9108759058566046
+
+4) man_a - 0.8920635645351686
+
+5) brother_a - 0.8482846021652222
+
+6) one_a - 0.8451948165893555
+
+7) day_a - 0.8431295407751069
+
+8) money_a - 0.8336126109130761
+
+9) word_a - 0.8286595344543457
+
+10) heart_a - 0.8195622670911406
+
+11) life_a - 0.8186882978286836
+
+12) something_a - 0.8126341104507446
+
+13) nothing_a - 0.8020286678058717
+
+14) way_a - 0.8018409131860202
+
+15) hand_a - 0.7815024126471541
+
+16) time_a - 0.7640680985531979
+
+17) moment_a - 0.7329630533412811
+
+Result for the vector: woman, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9228460421722573
+
+1) woman_a - 0.9228460421722573
+
+2) boy_a - 0.918658306438721
+
+3) people_a - 0.9066099953550109
+
+4) brother_a - 0.8871485523670065
+
+5) day_a - 0.8775437662789617
+
+6) man_a - 0.8759762048721376
+
+7) money_a - 0.8756978363630576
+
+8) one_a - 0.8702853244713158
+
+9) heart_a - 0.8639665842056335
+
+10) something_a - 0.8570052300098691
+
+11) word_a - 0.8537996920227836
+
+12) way_a - 0.8402910232544005
+
+13) nothing_a - 0.8395481705665648
+
+14) life_a - 0.8380662952124744
+
+15) hand_a - 0.8230224636819915
+
+16) time_a - 0.8012070300353238
+
+17) moment_a - 0.7833404153598111
+
+Result for the vector: way, coming from part i of the book
+Rank: 3 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8310207329963764
+
+1) people_a - 0.8389443063106854
+
+2) something_a - 0.8385487295062122
+
+3) way_a - 0.8310207329963764
+
+4) heart_a - 0.8257229535909947
+
+5) word_a - 0.8252024754761189
+
+6) money_a - 0.8216736912727415
+
+7) life_a - 0.8199968093634635
+
+8) woman_a - 0.8191734308250749
+
+9) boy_a - 0.8188919425010739
+
+10) day_a - 0.8177790994113985
+
+11) nothing_a - 0.8066088787783529
+
+12) one_a - 0.7995105505281372
+
+13) brother_a - 0.7971619488500401
+
+14) man_a - 0.7773322132429822
+
+15) hand_a - 0.7561749219894462
+
+16) time_a - 0.7549493762820708
+
+17) moment_a - 0.7547234746649073
+
+Result for the vector: people, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8565975256678553
+
+1) people_a - 0.8565975256678553
+
+2) heart_a - 0.8277442557964187
+
+3) boy_a - 0.8271066443387669
+
+4) something_a - 0.8220661878585815
+
+5) one_a - 0.8219892382621765
+
+6) day_a - 0.8200019842386841
+
+7) woman_a - 0.8168514018312518
+
+8) word_a - 0.8089259266853333
+
+9) brother_a - 0.8008561730384827
+
+10) money_a - 0.8008133054264384
+
+11) nothing_a - 0.7973245503112956
+
+12) life_a - 0.7951691983690623
+
+13) way_a - 0.7912031536577266
+
+14) man_a - 0.788488519877881
+
+15) hand_a - 0.7641907193774428
+
+16) moment_a - 0.7539512221755108
+
+17) time_a - 0.7407586265514696
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9104803907298576
+
+1) man_wiki - 0.9104803907298576
+
+2) boy_wiki - 0.8920635645351686
+
+3) woman_wiki - 0.8759762048721376
+
+4) brother_wiki - 0.8226114021175278
+
+5) life_wiki - 0.8185733176978448
+
+6) one_wiki - 0.8038326022724761
+
+7) people_wiki - 0.788488519877881
+
+8) day_wiki - 0.7849833753734766
+
+9) way_wiki - 0.7773322132429822
+
+10) nothing_wiki - 0.7651840220336938
+
+11) money_wiki - 0.7630896427088885
+
+12) time_wiki - 0.7618217837267613
+
+13) heart_wiki - 0.7610535394831467
+
+14) word_wiki - 0.7186988927484879
+
+15) moment_wiki - 0.7135398387908987
+
+16) hand_wiki - 0.7067287143034522
+
+17) something_wiki - 0.7066906269377109
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9166087085915704
+
+1) time_wiki - 0.9166087085915704
+
+2) day_wiki - 0.8507931232452635
+
+3) life_wiki - 0.8191451322522969
+
+4) moment_wiki - 0.8182727965604314
+
+5) woman_wiki - 0.8012070300353238
+
+6) man_wiki - 0.7894471162228184
+
+7) one_wiki - 0.7844306569612866
+
+8) money_wiki - 0.7843087397357797
+
+9) heart_wiki - 0.7722871858309517
+
+10) brother_wiki - 0.7656576354095556
+
+11) boy_wiki - 0.7640680985531979
+
+12) hand_wiki - 0.7618238045959294
+
+13) way_wiki - 0.7549493762820708
+
+14) nothing_wiki - 0.7423099193438797
+
+15) people_wiki - 0.7407586265514696
+
+16) word_wiki - 0.7081870262734423
+
+17) something_wiki - 0.6743154137510602
+
+Result for the vector: day, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9028698590812313
+
+1) day_wiki - 0.9028698590812313
+
+2) woman_wiki - 0.8775437662789617
+
+3) life_wiki - 0.8755031563191701
+
+4) man_wiki - 0.8745301105222107
+
+5) time_wiki - 0.864942542609128
+
+6) moment_wiki - 0.8438744703419037
+
+7) boy_wiki - 0.8431295407751069
+
+8) one_wiki - 0.8369950901566476
+
+9) money_wiki - 0.8355506711528738
+
+10) heart_wiki - 0.8286234038247707
+
+11) people_wiki - 0.8200019842386841
+
+12) way_wiki - 0.8177790994113985
+
+13) brother_wiki - 0.8106647971470597
+
+14) nothing_wiki - 0.8094718342704674
+
+15) hand_wiki - 0.7912506696954572
+
+16) word_wiki - 0.764434791671196
+
+17) something_wiki - 0.7068588944333465
+
+Result for the vector: one, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9283555150032043
+
+1) one_wiki - 0.9283555150032043
+
+2) man_wiki - 0.886824793408825
+
+3) woman_wiki - 0.8702853244713158
+
+4) life_wiki - 0.8465604873561584
+
+5) boy_wiki - 0.8451948165893555
+
+6) day_wiki - 0.8268522230562957
+
+7) people_wiki - 0.8219892382621765
+
+8) nothing_wiki - 0.8185467367931232
+
+9) brother_wiki - 0.8110730051994324
+
+10) time_wiki - 0.8099276068785077
+
+11) heart_wiki - 0.8050586821156351
+
+12) money_wiki - 0.8027682069263762
+
+13) way_wiki - 0.7995105505281372
+
+14) word_wiki - 0.7649945756796269
+
+15) moment_wiki - 0.7631476380317009
+
+16) something_wiki - 0.7593691945075989
+
+17) hand_wiki - 0.7584644556045532
+
+Result for the vector: hand, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8640400686287936
+
+1) hand_wiki - 0.8640400686287936
+
+2) heart_wiki - 0.8243352911772098
+
+3) woman_wiki - 0.8230224636819915
+
+4) money_wiki - 0.8178162248998105
+
+5) life_wiki - 0.8170008063316403
+
+6) man_wiki - 0.8115049600601254
+
+7) day_wiki - 0.7881683833498853
+
+8) one_wiki - 0.7870771161959851
+
+9) boy_wiki - 0.7815024126471541
+
+10) people_wiki - 0.7641907193774428
+
+11) way_wiki - 0.7561749219894462
+
+12) nothing_wiki - 0.755254813008441
+
+13) brother_wiki - 0.7509080023114696
+
+14) time_wiki - 0.7495413496680278
+
+15) word_wiki - 0.7098557353019764
+
+16) moment_wiki - 0.7046582346747201
+
+17) something_wiki - 0.6628433861043099
+
+Result for the vector: money, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9310367580121935
+
+1) money_wiki - 0.9310367580121935
+
+2) woman_wiki - 0.8756978363630576
+
+3) man_wiki - 0.8657567501068176
+
+4) life_wiki - 0.8625264167785706
+
+5) nothing_wiki - 0.8492943211759024
+
+6) boy_wiki - 0.8336126109130761
+
+7) one_wiki - 0.8263469234911769
+
+8) day_wiki - 0.8225841627965008
+
+9) way_wiki - 0.8216736912727415
+
+10) heart_wiki - 0.8166013494075555
+
+11) people_wiki - 0.8008133054264384
+
+12) time_wiki - 0.7934627646323533
+
+13) brother_wiki - 0.7914088840132301
+
+14) hand_wiki - 0.7876590363776124
+
+15) word_wiki - 0.7811110019683893
+
+16) moment_wiki - 0.7492631374911234
+
+17) something_wiki - 0.6996599852836136
+
+Result for the vector: word, coming from part a of the book
+Rank: 16 out of 17 characters
+Cosine similarity to the co-referring vector: 0.7644903204148831
+
+1) life_wiki - 0.8739723638312615
+
+2) man_wiki - 0.8548312273722171
+
+3) woman_wiki - 0.8537996920227836
+
+4) money_wiki - 0.8385375545665746
+
+5) heart_wiki - 0.8345199476039398
+
+6) day_wiki - 0.8340895373714581
+
+7) boy_wiki - 0.8286595344543457
+
+8) way_wiki - 0.8252024754761189
+
+9) time_wiki - 0.8161432390255705
+
+10) one_wiki - 0.8159435987472534
+
+11) nothing_wiki - 0.8104228022820597
+
+12) people_wiki - 0.8089259266853333
+
+13) brother_wiki - 0.8043559789657593
+
+14) moment_wiki - 0.7969073532168494
+
+15) hand_wiki - 0.7900025248527527
+
+16) word_wiki - 0.7644903204148831
+
+17) something_wiki - 0.6994643211364746
+
+Result for the vector: moment, coming from part a of the book
+Rank: 3 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8210210480131608
+
+1) time_wiki - 0.8679686886025536
+
+2) day_wiki - 0.8394783735275507
+
+3) moment_wiki - 0.8210210480131608
+
+4) life_wiki - 0.7897084230010888
+
+5) woman_wiki - 0.7833404153598111
+
+6) man_wiki - 0.7768638597049754
+
+7) one_wiki - 0.7714048351532079
+
+8) heart_wiki - 0.7604350984744904
+
+9) way_wiki - 0.7547234746649073
+
+10) people_wiki - 0.7539512221755108
+
+11) nothing_wiki - 0.7457777776983079
+
+12) money_wiki - 0.7450417268375699
+
+13) hand_wiki - 0.741160004277235
+
+14) brother_wiki - 0.7340026776793863
+
+15) boy_wiki - 0.7329630533412811
+
+16) word_wiki - 0.6853835991253724
+
+17) something_wiki - 0.6609080029616407
+
+Result for the vector: heart, coming from part a of the book
+Rank: 2 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8899875614050793
+
+1) life_wiki - 0.911246787161018
+
+2) heart_wiki - 0.8899875614050793
+
+3) man_wiki - 0.8734868915692697
+
+4) woman_wiki - 0.8639665842056335
+
+5) day_wiki - 0.8449898043293126
+
+6) hand_wiki - 0.8393903470402764
+
+7) people_wiki - 0.8277442557964187
+
+8) nothing_wiki - 0.8258703104892313
+
+9) way_wiki - 0.8257229535909947
+
+10) money_wiki - 0.8236200704348261
+
+11) one_wiki - 0.8233735666648423
+
+12) boy_wiki - 0.8195622670911406
+
+13) brother_wiki - 0.7983446837458217
+
+14) time_wiki - 0.7962246895961588
+
+15) word_wiki - 0.7567550829940936
+
+16) moment_wiki - 0.7519260644912773
+
+17) something_wiki - 0.7129267029209923
+
+Result for the vector: life, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9238745294846772
+
+1) life_wiki - 0.9238745294846772
+
+2) heart_wiki - 0.8575373803101408
+
+3) man_wiki - 0.8479735002525631
+
+4) day_wiki - 0.83834122076561
+
+5) woman_wiki - 0.8380662952124744
+
+6) money_wiki - 0.821885648650776
+
+7) way_wiki - 0.8199968093634635
+
+8) boy_wiki - 0.8186882978286836
+
+9) time_wiki - 0.8079169278095322
+
+10) one_wiki - 0.8071471693261618
+
+11) hand_wiki - 0.8019126296613408
+
+12) brother_wiki - 0.8002359509538401
+
+13) people_wiki - 0.7951691983690623
+
+14) nothing_wiki - 0.7951145049997869
+
+15) moment_wiki - 0.7611268843227823
+
+16) word_wiki - 0.7453293578228576
+
+17) something_wiki - 0.6893978324353052
+
+Result for the vector: something, coming from part a of the book
+Rank: 17 out of 17 characters
+Cosine similarity to the co-referring vector: 0.7404731512069702
+
+1) nothing_wiki - 0.8938682345708683
+
+2) man_wiki - 0.8735173420001676
+
+3) life_wiki - 0.865019627510333
+
+4) one_wiki - 0.8574017882347107
+
+5) woman_wiki - 0.8570052300098691
+
+6) way_wiki - 0.8385487295062122
+
+7) money_wiki - 0.8374455377394662
+
+8) people_wiki - 0.8220661878585815
+
+9) day_wiki - 0.8198182201602254
+
+10) boy_wiki - 0.8126341104507446
+
+11) heart_wiki - 0.8086696508130331
+
+12) time_wiki - 0.800807082677099
+
+13) word_wiki - 0.7922411684846196
+
+14) brother_wiki - 0.7853424549102783
+
+15) hand_wiki - 0.7626602053642273
+
+16) moment_wiki - 0.755895838492862
+
+17) something_wiki - 0.7404731512069702
+
+Result for the vector: nothing, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.895492288604612
+
+1) nothing_wiki - 0.895492288604612
+
+2) man_wiki - 0.8653384607626843
+
+3) woman_wiki - 0.8395481705665648
+
+4) life_wiki - 0.8392328215559933
+
+5) money_wiki - 0.8354312679428751
+
+6) one_wiki - 0.8319209318208154
+
+7) way_wiki - 0.8066088787783529
+
+8) day_wiki - 0.8053836574464471
+
+9) boy_wiki - 0.8020286678058717
+
+10) word_wiki - 0.8000703692352331
+
+11) people_wiki - 0.7973245503112956
+
+12) time_wiki - 0.7819587951314839
+
+13) heart_wiki - 0.7815988426924128
+
+14) brother_wiki - 0.7642425439213204
+
+15) hand_wiki - 0.7503580599809863
+
+16) moment_wiki - 0.7339360713958792
+
+17) something_wiki - 0.7109965854289195
+
+Result for the vector: brother, coming from part a of the book
+Rank: 2 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8701311349868774
+
+1) woman_wiki - 0.8871485523670065
+
+2) brother_wiki - 0.8701311349868774
+
+3) man_wiki - 0.8566746201113108
+
+4) life_wiki - 0.8485027641950406
+
+5) boy_wiki - 0.8482846021652222
+
+6) one_wiki - 0.8319346904754639
+
+7) heart_wiki - 0.8287273296334547
+
+8) day_wiki - 0.8129877074971605
+
+9) people_wiki - 0.8008561730384827
+
+10) way_wiki - 0.7971619488500401
+
+11) nothing_wiki - 0.7905177709614569
+
+12) money_wiki - 0.7793246244579162
+
+13) time_wiki - 0.7744800083184248
+
+14) word_wiki - 0.7558949735227256
+
+15) hand_wiki - 0.7558023929595947
+
+16) moment_wiki - 0.7163573334430071
+
+17) something_wiki - 0.6906007528305054
+
+Result for the vector: boy, coming from part a of the book
+Rank: 2 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9142792769836965
+
+1) woman_wiki - 0.918658306438721
+
+2) boy_wiki - 0.9142792769836965
+
+3) man_wiki - 0.906946182250983
+
+4) brother_wiki - 0.8598883664541478
+
+5) life_wiki - 0.8537809252739014
+
+6) one_wiki - 0.8400176072131176
+
+7) day_wiki - 0.8274099929684537
+
+8) people_wiki - 0.8271066443387669
+
+9) way_wiki - 0.8188919425010739
+
+10) money_wiki - 0.8180430206137351
+
+11) heart_wiki - 0.8152357472690122
+
+12) time_wiki - 0.7982528327333483
+
+13) nothing_wiki - 0.7928304188993951
+
+14) hand_wiki - 0.7668183902989872
+
+15) word_wiki - 0.762482881546026
+
+16) moment_wiki - 0.7571580120513454
+
+17) something_wiki - 0.7022924245770243
+
+Result for the vector: woman, coming from part a of the book
+Rank: 2 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9228460421722573
+
+1) man_wiki - 0.9324163516635827
+
+2) woman_wiki - 0.9228460421722573
+
+3) boy_wiki - 0.9155262981512043
+
+4) life_wiki - 0.8432105528351533
+
+5) one_wiki - 0.8313430795473782
+
+6) brother_wiki - 0.8298371681522483
+
+7) day_wiki - 0.820175157173718
+
+8) way_wiki - 0.8191734308250749
+
+9) people_wiki - 0.8168514018312518
+
+10) money_wiki - 0.8163648868150873
+
+11) heart_wiki - 0.7926118250257864
+
+12) nothing_wiki - 0.7832307090300744
+
+13) time_wiki - 0.7790090309982914
+
+14) word_wiki - 0.758013643085553
+
+15) hand_wiki - 0.757043741853349
+
+16) moment_wiki - 0.7541668493300843
+
+17) something_wiki - 0.7228732324502839
+
+Result for the vector: way, coming from part a of the book
+Rank: 5 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8310207329963764
+
+1) life_wiki - 0.867298559272461
+
+2) day_wiki - 0.8527713681272221
+
+3) time_wiki - 0.8439147220875439
+
+4) woman_wiki - 0.8402910232544005
+
+5) way_wiki - 0.8310207329963764
+
+6) heart_wiki - 0.8293743482418585
+
+7) man_wiki - 0.8267019597647238
+
+8) money_wiki - 0.8154034504535002
+
+9) one_wiki - 0.8116411679004941
+
+10) boy_wiki - 0.8018409131860202
+
+11) brother_wiki - 0.8002622246585964
+
+12) nothing_wiki - 0.7961889864150024
+
+13) hand_wiki - 0.793657017132223
+
+14) people_wiki - 0.7912031536577266
+
+15) moment_wiki - 0.7910827994346675
+
+16) word_wiki - 0.7575320294461215
+
+17) something_wiki - 0.7047270712419123
+
+Result for the vector: people, coming from part a of the book
+Rank: 4 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8565975256678553
+
+1) man_wiki - 0.9338855107954598
+
+2) boy_wiki - 0.9108759058566046
+
+3) woman_wiki - 0.9066099953550109
+
+4) people_wiki - 0.8565975256678553
+
+5) life_wiki - 0.8530610116160655
+
+6) way_wiki - 0.8389443063106854
+
+7) nothing_wiki - 0.8328431893651503
+
+8) day_wiki - 0.830441594123864
+
+9) one_wiki - 0.8279421720435883
+
+10) brother_wiki - 0.8222259071142621
+
+11) heart_wiki - 0.820401373565405
+
+12) time_wiki - 0.8129776735570573
+
+13) money_wiki - 0.8030958302249503
+
+14) word_wiki - 0.7616984702169105
+
+15) hand_wiki - 0.7506230772284415
+
+16) moment_wiki - 0.7259206281758491
+
+17) something_wiki - 0.7060480363426302
+

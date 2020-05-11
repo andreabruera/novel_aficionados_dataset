@@ -1,0 +1,96 @@
+Result for the vector: alice, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9710011771619675
+
+1) alice_b - 0.9710011771619675
+
+2) hare_b - 0.7944163916831137
+
+3) bill_b - 0.7886419640352698
+
+4) caterpillar_b - 0.675019542127268
+
+Result for the vector: hare, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9429947733879089
+
+1) hare_b - 0.9429947733879089
+
+2) alice_b - 0.7468551993370056
+
+3) bill_b - 0.727779453496291
+
+4) caterpillar_b - 0.6633291445178315
+
+Result for the vector: caterpillar, coming from part a of the book
+Rank: 4 out of 4 characters
+Cosine similarity to the co-referring vector: 0.7744621903345358
+
+1) bill_b - 0.8245870120700395
+
+2) alice_b - 0.8116518967359142
+
+3) hare_b - 0.7983729363457612
+
+4) caterpillar_b - 0.7744621903345358
+
+Result for the vector: bill, coming from part a of the book
+Rank: 2 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8463899653902652
+
+1) alice_b - 0.8879874348640442
+
+2) bill_b - 0.8463899653902652
+
+3) hare_b - 0.8346638083457947
+
+4) caterpillar_b - 0.7268154783954944
+
+Result for the vector: alice, coming from part b of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9710011771619675
+
+1) alice_a - 0.9710011771619675
+
+2) bill_a - 0.8879874348640442
+
+3) caterpillar_a - 0.8116518967359142
+
+4) hare_a - 0.7468551993370056
+
+Result for the vector: hare, coming from part b of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9429947733879089
+
+1) hare_a - 0.9429947733879089
+
+2) bill_a - 0.8346638083457947
+
+3) caterpillar_a - 0.7983729363457612
+
+4) alice_a - 0.7944163916831137
+
+Result for the vector: caterpillar, coming from part b of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.7744621903345358
+
+1) caterpillar_a - 0.7744621903345358
+
+2) bill_a - 0.7268154783954944
+
+3) alice_a - 0.675019542127268
+
+4) hare_a - 0.6633291445178315
+
+Result for the vector: bill, coming from part b of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.8463899653902652
+
+1) bill_a - 0.8463899653902652
+
+2) caterpillar_a - 0.8245870120700395
+
+3) alice_a - 0.7886419640352698
+
+4) hare_a - 0.727779453496291
+

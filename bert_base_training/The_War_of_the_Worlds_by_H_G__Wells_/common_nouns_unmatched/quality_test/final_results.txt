@@ -1,0 +1,9 @@
+Test: quality test
+Results for: The_War_of_the_Worlds_by_H_G__Wells_
+Model used: common nouns unmatched
+
+Within-novel median: 1.0
+Within-novel average: 1.25
+Within-novel MRR: 0.875
+Within-novel standard deviation of the scores: 0.4330127018922193
+Amount of entities considered: 2.0

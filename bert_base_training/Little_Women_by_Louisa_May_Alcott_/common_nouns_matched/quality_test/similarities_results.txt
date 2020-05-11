@@ -1,0 +1,1020 @@
+Result for the vector: girl, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9286176243012538
+
+1) girl_a - 0.9286176243012538
+
+2) woman_a - 0.9112231029538055
+
+3) thing_a - 0.8859762745478434
+
+4) stage_a - 0.8770650070743281
+
+5) present_a - 0.8686108691410529
+
+6) something_a - 0.8648529664865368
+
+7) game_a - 0.8640828228120245
+
+8) face_a - 0.8601513677970832
+
+9) sketch_a - 0.8542519553228816
+
+10) time_a - 0.8364947590078231
+
+11) help_a - 0.8357450517188092
+
+12) hand_a - 0.8235716854887736
+
+13) drawing_a - 0.8026214245887737
+
+14) door_a - 0.8015110852135535
+
+15) expression_a - 0.7398804932654642
+
+Result for the vector: time, coming from part i of the book
+Rank: 3 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8624435827203356
+
+1) thing_a - 0.8708425914236856
+
+2) present_a - 0.8690843660185258
+
+3) time_a - 0.8624435827203356
+
+4) game_a - 0.8589338744322274
+
+5) girl_a - 0.8563168901830527
+
+6) something_a - 0.8492029309273007
+
+7) stage_a - 0.8420146703720333
+
+8) woman_a - 0.839373930748657
+
+9) face_a - 0.8369453743761391
+
+10) sketch_a - 0.8345951236259642
+
+11) hand_a - 0.8168320764999475
+
+12) help_a - 0.809171520570341
+
+13) door_a - 0.7990567565807708
+
+14) drawing_a - 0.7660585185254626
+
+15) expression_a - 0.7367144383958435
+
+Result for the vector: thing, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9159005284309387
+
+1) thing_a - 0.9159005284309387
+
+2) something_a - 0.861733420101818
+
+3) present_a - 0.8504070550445962
+
+4) girl_a - 0.8319060306605097
+
+5) game_a - 0.8296336430092852
+
+6) face_a - 0.8254066109657288
+
+7) woman_a - 0.8166458850099414
+
+8) time_a - 0.8162295818328857
+
+9) stage_a - 0.8069388636277809
+
+10) sketch_a - 0.8026458260243203
+
+11) hand_a - 0.7986475705294367
+
+12) help_a - 0.7852605581283569
+
+13) drawing_a - 0.7617878175847436
+
+14) door_a - 0.7520426139844246
+
+15) expression_a - 0.7210632396378077
+
+Result for the vector: hand, coming from part i of the book
+Rank: 8 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7605848992393824
+
+1) time_a - 0.8010907411900388
+
+2) thing_a - 0.7979122638080203
+
+3) face_a - 0.7803734773508754
+
+4) present_a - 0.7779964308139474
+
+5) stage_a - 0.7712389783917366
+
+6) woman_a - 0.7681035261215882
+
+7) something_a - 0.7616205158264244
+
+8) hand_a - 0.7605848992393824
+
+9) girl_a - 0.7594620955150725
+
+10) game_a - 0.7344849766330404
+
+11) sketch_a - 0.7063619458947904
+
+12) door_a - 0.7010998547732743
+
+13) help_a - 0.6913402882617801
+
+14) expression_a - 0.6777056465481803
+
+15) drawing_a - 0.6706940535331419
+
+Result for the vector: face, coming from part i of the book
+Rank: 5 out of 15 characters
+Cosine similarity to the co-referring vector: 0.6369005225241507
+
+1) thing_a - 0.6643391647541037
+
+2) girl_a - 0.6625192165374802
+
+3) present_a - 0.6624680951199645
+
+4) woman_a - 0.6515277014548515
+
+5) face_a - 0.6369005225241507
+
+6) stage_a - 0.6321645913418408
+
+7) game_a - 0.6311721362080737
+
+8) sketch_a - 0.6306215744840261
+
+9) help_a - 0.6266917363817546
+
+10) something_a - 0.6246160193591164
+
+11) hand_a - 0.6211622501805127
+
+12) time_a - 0.6182793747353192
+
+13) door_a - 0.5835943743819931
+
+14) drawing_a - 0.5829854110461964
+
+15) expression_a - 0.5060520179333708
+
+Result for the vector: something, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7727532711927076
+
+1) something_a - 0.7727532711927076
+
+2) thing_a - 0.7058884501457214
+
+3) game_a - 0.6451012876690213
+
+4) stage_a - 0.6433814338900414
+
+5) girl_a - 0.6409850930580453
+
+6) woman_a - 0.6366198252624224
+
+7) time_a - 0.6349028944969177
+
+8) present_a - 0.6336218496335666
+
+9) face_a - 0.6257604360580444
+
+10) help_a - 0.6219223737716675
+
+11) sketch_a - 0.6209439491100416
+
+12) hand_a - 0.6091752415403878
+
+13) door_a - 0.5791394287091326
+
+14) drawing_a - 0.5680911879593852
+
+15) expression_a - 0.5496629804171917
+
+Result for the vector: woman, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8675956984637889
+
+1) woman_a - 0.8675956984637889
+
+2) girl_a - 0.8364154793968526
+
+3) thing_a - 0.8178345561027527
+
+4) face_a - 0.7800264358520508
+
+5) stage_a - 0.77759728164641
+
+6) present_a - 0.7759864196769263
+
+7) time_a - 0.7749605178833008
+
+8) something_a - 0.7734509436429727
+
+9) game_a - 0.7720991833269123
+
+10) hand_a - 0.7500871866993433
+
+11) help_a - 0.7458455562591553
+
+12) sketch_a - 0.7438835806985454
+
+13) door_a - 0.7170701240620058
+
+14) drawing_a - 0.6984823762465953
+
+15) expression_a - 0.6658391753339288
+
+Result for the vector: door, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.5215639031399462
+
+1) door_a - 0.5215639031399462
+
+2) girl_a - 0.47159946134093716
+
+3) woman_a - 0.46023233116365486
+
+4) present_a - 0.4583303307491746
+
+5) thing_a - 0.45702505111694336
+
+6) face_a - 0.45209604501724243
+
+7) game_a - 0.4492356150886791
+
+8) hand_a - 0.44624861754468864
+
+9) stage_a - 0.4412118722452996
+
+10) time_a - 0.4401608109474182
+
+11) something_a - 0.43368633791045713
+
+12) help_a - 0.42196032404899597
+
+13) drawing_a - 0.4170923183615405
+
+14) sketch_a - 0.41654119890437435
+
+15) expression_a - 0.36584951674041316
+
+Result for the vector: expression, coming from part i of the book
+Rank: 9 out of 15 characters
+Cosine similarity to the co-referring vector: 0.523428502491534
+
+1) something_a - 0.5663618266037402
+
+2) help_a - 0.552500221282258
+
+3) thing_a - 0.5521893830412269
+
+4) present_a - 0.5427932194224857
+
+5) sketch_a - 0.5408354675271915
+
+6) game_a - 0.5375465199406767
+
+7) face_a - 0.5357670507292192
+
+8) time_a - 0.5238597705280653
+
+9) expression_a - 0.523428502491534
+
+10) stage_a - 0.5211234428507294
+
+11) drawing_a - 0.509401203322554
+
+12) hand_a - 0.5056579715797868
+
+13) girl_a - 0.5028486847877538
+
+14) woman_a - 0.4904340646058977
+
+15) door_a - 0.4744784064124592
+
+Result for the vector: help, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8759170361683138
+
+1) help_a - 0.8759170361683138
+
+2) present_a - 0.7910015569629608
+
+3) thing_a - 0.7807239992073804
+
+4) game_a - 0.7713192062555564
+
+5) something_a - 0.7709201990497531
+
+6) girl_a - 0.7685794463330428
+
+7) woman_a - 0.7606376124188452
+
+8) stage_a - 0.758222916947616
+
+9) face_a - 0.7527854519592659
+
+10) sketch_a - 0.7420169489974854
+
+11) time_a - 0.7382562224498024
+
+12) hand_a - 0.7378603723437153
+
+13) door_a - 0.7166704197729147
+
+14) drawing_a - 0.6913131313492556
+
+15) expression_a - 0.6821367565001187
+
+Result for the vector: present, coming from part i of the book
+Rank: 6 out of 15 characters
+Cosine similarity to the co-referring vector: 0.5439356293639925
+
+1) girl_a - 0.5761524095444446
+
+2) woman_a - 0.5713734201006123
+
+3) stage_a - 0.5577206680441739
+
+4) thing_a - 0.5541262030601501
+
+5) something_a - 0.5481289086495568
+
+6) present_a - 0.5439356293639925
+
+7) help_a - 0.5354004502296448
+
+8) face_a - 0.5350019335746765
+
+9) drawing_a - 0.533614130831608
+
+10) game_a - 0.5302931386407109
+
+11) time_a - 0.5293490290641785
+
+12) sketch_a - 0.5269996491671064
+
+13) door_a - 0.5265502490565257
+
+14) hand_a - 0.5236872150711555
+
+15) expression_a - 0.47557142231294136
+
+Result for the vector: game, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7492949663752277
+
+1) game_a - 0.7492949663752277
+
+2) sketch_a - 0.7425292883796043
+
+3) thing_a - 0.722921712572678
+
+4) girl_a - 0.7030230760574391
+
+5) stage_a - 0.7014912429138273
+
+6) present_a - 0.6961619491770207
+
+7) face_a - 0.6908801013755871
+
+8) woman_a - 0.6848956958856314
+
+9) time_a - 0.6713339490493517
+
+10) something_a - 0.6712635763758867
+
+11) hand_a - 0.6619495346486014
+
+12) door_a - 0.6552380909238542
+
+13) help_a - 0.6536042483809154
+
+14) drawing_a - 0.6377653643805223
+
+15) expression_a - 0.6283846054535633
+
+Result for the vector: sketch, coming from part i of the book
+Rank: 11 out of 15 characters
+Cosine similarity to the co-referring vector: 0.6491806151436292
+
+1) girl_a - 0.6896656710507278
+
+2) thing_a - 0.6835151692014779
+
+3) game_a - 0.6776329471091768
+
+4) woman_a - 0.6753970972838688
+
+5) something_a - 0.6738883256912424
+
+6) present_a - 0.6720470385523523
+
+7) stage_a - 0.668513298034687
+
+8) time_a - 0.6648108166681794
+
+9) face_a - 0.6635014815924832
+
+10) help_a - 0.6518149790984463
+
+11) sketch_a - 0.6491806151436292
+
+12) hand_a - 0.6445063564475665
+
+13) door_a - 0.6443202515554275
+
+14) drawing_a - 0.6068819399546518
+
+15) expression_a - 0.563665058394378
+
+Result for the vector: drawing, coming from part i of the book
+Rank: 9 out of 15 characters
+Cosine similarity to the co-referring vector: 0.4834562972297936
+
+1) something_a - 0.5036444222397262
+
+2) present_a - 0.5035947415466377
+
+3) thing_a - 0.5002387911152482
+
+4) game_a - 0.4968814698053723
+
+5) face_a - 0.49670766284190626
+
+6) stage_a - 0.4912930863042324
+
+7) girl_a - 0.4903006407528944
+
+8) woman_a - 0.484217970622657
+
+9) drawing_a - 0.4834562972297936
+
+10) sketch_a - 0.48059062833274285
+
+11) time_a - 0.47574861275400576
+
+12) hand_a - 0.475141329330921
+
+13) help_a - 0.46877677645614096
+
+14) door_a - 0.4627130903430635
+
+15) expression_a - 0.4481114847759742
+
+Result for the vector: stage, coming from part i of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7730775936292291
+
+1) stage_a - 0.7730775936292291
+
+2) thing_a - 0.710657852252851
+
+3) game_a - 0.7006856799125721
+
+4) sketch_a - 0.6988120617606541
+
+5) present_a - 0.6971030235290577
+
+6) girl_a - 0.6962231759758978
+
+7) time_a - 0.6892843431660937
+
+8) something_a - 0.6861159018347315
+
+9) woman_a - 0.6835987364173339
+
+10) door_a - 0.6814726984062014
+
+11) face_a - 0.6813268851443014
+
+12) help_a - 0.6611121498875541
+
+13) hand_a - 0.6510323882103013
+
+14) drawing_a - 0.6384456157684372
+
+15) expression_a - 0.5993937253952069
+
+Result for the vector: girl, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9286176243012538
+
+1) girl_wiki - 0.9286176243012538
+
+2) time_wiki - 0.8563168901830527
+
+3) woman_wiki - 0.8364154793968526
+
+4) thing_wiki - 0.8319060306605097
+
+5) help_wiki - 0.7685794463330428
+
+6) hand_wiki - 0.7594620955150725
+
+7) game_wiki - 0.7030230760574391
+
+8) stage_wiki - 0.6962231759758978
+
+9) sketch_wiki - 0.6896656710507278
+
+10) face_wiki - 0.6625192165374802
+
+11) something_wiki - 0.6409850930580453
+
+12) present_wiki - 0.5761524095444446
+
+13) expression_wiki - 0.5028486847877538
+
+14) drawing_wiki - 0.4903006407528944
+
+15) door_wiki - 0.47159946134093716
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8624435827203356
+
+1) time_wiki - 0.8624435827203356
+
+2) girl_wiki - 0.8364947590078231
+
+3) thing_wiki - 0.8162295818328857
+
+4) hand_wiki - 0.8010907411900388
+
+5) woman_wiki - 0.7749605178833008
+
+6) help_wiki - 0.7382562224498024
+
+7) stage_wiki - 0.6892843431660937
+
+8) game_wiki - 0.6713339490493517
+
+9) sketch_wiki - 0.6648108166681794
+
+10) something_wiki - 0.6349028944969177
+
+11) face_wiki - 0.6182793747353192
+
+12) present_wiki - 0.5293490290641785
+
+13) expression_wiki - 0.5238597705280653
+
+14) drawing_wiki - 0.47574861275400576
+
+15) door_wiki - 0.4401608109474182
+
+Result for the vector: thing, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.9159005284309387
+
+1) thing_wiki - 0.9159005284309387
+
+2) girl_wiki - 0.8859762745478434
+
+3) time_wiki - 0.8708425914236856
+
+4) woman_wiki - 0.8178345561027527
+
+5) hand_wiki - 0.7979122638080203
+
+6) help_wiki - 0.7807239992073804
+
+7) game_wiki - 0.722921712572678
+
+8) stage_wiki - 0.710657852252851
+
+9) something_wiki - 0.7058884501457214
+
+10) sketch_wiki - 0.6835151692014779
+
+11) face_wiki - 0.6643391647541037
+
+12) present_wiki - 0.5541262030601501
+
+13) expression_wiki - 0.5521893830412269
+
+14) drawing_wiki - 0.5002387911152482
+
+15) door_wiki - 0.45702505111694336
+
+Result for the vector: hand, coming from part a of the book
+Rank: 4 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7605848992393824
+
+1) girl_wiki - 0.8235716854887736
+
+2) time_wiki - 0.8168320764999475
+
+3) thing_wiki - 0.7986475705294367
+
+4) hand_wiki - 0.7605848992393824
+
+5) woman_wiki - 0.7500871866993433
+
+6) help_wiki - 0.7378603723437153
+
+7) game_wiki - 0.6619495346486014
+
+8) stage_wiki - 0.6510323882103013
+
+9) sketch_wiki - 0.6445063564475665
+
+10) face_wiki - 0.6211622501805127
+
+11) something_wiki - 0.6091752415403878
+
+12) present_wiki - 0.5236872150711555
+
+13) expression_wiki - 0.5056579715797868
+
+14) drawing_wiki - 0.475141329330921
+
+15) door_wiki - 0.44624861754468864
+
+Result for the vector: face, coming from part a of the book
+Rank: 10 out of 15 characters
+Cosine similarity to the co-referring vector: 0.6369005225241507
+
+1) girl_wiki - 0.8601513677970832
+
+2) time_wiki - 0.8369453743761391
+
+3) thing_wiki - 0.8254066109657288
+
+4) hand_wiki - 0.7803734773508754
+
+5) woman_wiki - 0.7800264358520508
+
+6) help_wiki - 0.7527854519592659
+
+7) game_wiki - 0.6908801013755871
+
+8) stage_wiki - 0.6813268851443014
+
+9) sketch_wiki - 0.6635014815924832
+
+10) face_wiki - 0.6369005225241507
+
+11) something_wiki - 0.6257604360580444
+
+12) expression_wiki - 0.5357670507292192
+
+13) present_wiki - 0.5350019335746765
+
+14) drawing_wiki - 0.49670766284190626
+
+15) door_wiki - 0.45209604501724243
+
+Result for the vector: something, coming from part a of the book
+Rank: 5 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7727532711927076
+
+1) girl_wiki - 0.8648529664865368
+
+2) thing_wiki - 0.861733420101818
+
+3) time_wiki - 0.8492029309273007
+
+4) woman_wiki - 0.7734509436429727
+
+5) something_wiki - 0.7727532711927076
+
+6) help_wiki - 0.7709201990497531
+
+7) hand_wiki - 0.7616205158264244
+
+8) stage_wiki - 0.6861159018347315
+
+9) sketch_wiki - 0.6738883256912424
+
+10) game_wiki - 0.6712635763758867
+
+11) face_wiki - 0.6246160193591164
+
+12) expression_wiki - 0.5663618266037402
+
+13) present_wiki - 0.5481289086495568
+
+14) drawing_wiki - 0.5036444222397262
+
+15) door_wiki - 0.43368633791045713
+
+Result for the vector: woman, coming from part a of the book
+Rank: 2 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8675956984637889
+
+1) girl_wiki - 0.9112231029538055
+
+2) woman_wiki - 0.8675956984637889
+
+3) time_wiki - 0.839373930748657
+
+4) thing_wiki - 0.8166458850099414
+
+5) hand_wiki - 0.7681035261215882
+
+6) help_wiki - 0.7606376124188452
+
+7) game_wiki - 0.6848956958856314
+
+8) stage_wiki - 0.6835987364173339
+
+9) sketch_wiki - 0.6753970972838688
+
+10) face_wiki - 0.6515277014548515
+
+11) something_wiki - 0.6366198252624224
+
+12) present_wiki - 0.5713734201006123
+
+13) expression_wiki - 0.4904340646058977
+
+14) drawing_wiki - 0.484217970622657
+
+15) door_wiki - 0.46023233116365486
+
+Result for the vector: door, coming from part a of the book
+Rank: 13 out of 15 characters
+Cosine similarity to the co-referring vector: 0.5215639031399462
+
+1) girl_wiki - 0.8015110852135535
+
+2) time_wiki - 0.7990567565807708
+
+3) thing_wiki - 0.7520426139844246
+
+4) woman_wiki - 0.7170701240620058
+
+5) help_wiki - 0.7166704197729147
+
+6) hand_wiki - 0.7010998547732743
+
+7) stage_wiki - 0.6814726984062014
+
+8) game_wiki - 0.6552380909238542
+
+9) sketch_wiki - 0.6443202515554275
+
+10) face_wiki - 0.5835943743819931
+
+11) something_wiki - 0.5791394287091326
+
+12) present_wiki - 0.5265502490565257
+
+13) door_wiki - 0.5215639031399462
+
+14) expression_wiki - 0.4744784064124592
+
+15) drawing_wiki - 0.4627130903430635
+
+Result for the vector: expression, coming from part a of the book
+Rank: 11 out of 15 characters
+Cosine similarity to the co-referring vector: 0.523428502491534
+
+1) girl_wiki - 0.7398804932654642
+
+2) time_wiki - 0.7367144383958435
+
+3) thing_wiki - 0.7210632396378077
+
+4) help_wiki - 0.6821367565001187
+
+5) hand_wiki - 0.6777056465481803
+
+6) woman_wiki - 0.6658391753339288
+
+7) game_wiki - 0.6283846054535633
+
+8) stage_wiki - 0.5993937253952069
+
+9) sketch_wiki - 0.563665058394378
+
+10) something_wiki - 0.5496629804171917
+
+11) expression_wiki - 0.523428502491534
+
+12) face_wiki - 0.5060520179333708
+
+13) present_wiki - 0.47557142231294136
+
+14) drawing_wiki - 0.4481114847759742
+
+15) door_wiki - 0.36584951674041316
+
+Result for the vector: help, coming from part a of the book
+Rank: 1 out of 15 characters
+Cosine similarity to the co-referring vector: 0.8759170361683138
+
+1) help_wiki - 0.8759170361683138
+
+2) girl_wiki - 0.8357450517188092
+
+3) time_wiki - 0.809171520570341
+
+4) thing_wiki - 0.7852605581283569
+
+5) woman_wiki - 0.7458455562591553
+
+6) hand_wiki - 0.6913402882617801
+
+7) stage_wiki - 0.6611121498875541
+
+8) game_wiki - 0.6536042483809154
+
+9) sketch_wiki - 0.6518149790984463
+
+10) face_wiki - 0.6266917363817546
+
+11) something_wiki - 0.6219223737716675
+
+12) expression_wiki - 0.552500221282258
+
+13) present_wiki - 0.5354004502296448
+
+14) drawing_wiki - 0.46877677645614096
+
+15) door_wiki - 0.42196032404899597
+
+Result for the vector: present, coming from part a of the book
+Rank: 12 out of 15 characters
+Cosine similarity to the co-referring vector: 0.5439356293639925
+
+1) time_wiki - 0.8690843660185258
+
+2) girl_wiki - 0.8686108691410529
+
+3) thing_wiki - 0.8504070550445962
+
+4) help_wiki - 0.7910015569629608
+
+5) hand_wiki - 0.7779964308139474
+
+6) woman_wiki - 0.7759864196769263
+
+7) stage_wiki - 0.6971030235290577
+
+8) game_wiki - 0.6961619491770207
+
+9) sketch_wiki - 0.6720470385523523
+
+10) face_wiki - 0.6624680951199645
+
+11) something_wiki - 0.6336218496335666
+
+12) present_wiki - 0.5439356293639925
+
+13) expression_wiki - 0.5427932194224857
+
+14) drawing_wiki - 0.5035947415466377
+
+15) door_wiki - 0.4583303307491746
+
+Result for the vector: game, coming from part a of the book
+Rank: 6 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7492949663752277
+
+1) girl_wiki - 0.8640828228120245
+
+2) time_wiki - 0.8589338744322274
+
+3) thing_wiki - 0.8296336430092852
+
+4) woman_wiki - 0.7720991833269123
+
+5) help_wiki - 0.7713192062555564
+
+6) game_wiki - 0.7492949663752277
+
+7) hand_wiki - 0.7344849766330404
+
+8) stage_wiki - 0.7006856799125721
+
+9) sketch_wiki - 0.6776329471091768
+
+10) something_wiki - 0.6451012876690213
+
+11) face_wiki - 0.6311721362080737
+
+12) expression_wiki - 0.5375465199406767
+
+13) present_wiki - 0.5302931386407109
+
+14) drawing_wiki - 0.4968814698053723
+
+15) door_wiki - 0.4492356150886791
+
+Result for the vector: sketch, coming from part a of the book
+Rank: 9 out of 15 characters
+Cosine similarity to the co-referring vector: 0.6491806151436292
+
+1) girl_wiki - 0.8542519553228816
+
+2) time_wiki - 0.8345951236259642
+
+3) thing_wiki - 0.8026458260243203
+
+4) woman_wiki - 0.7438835806985454
+
+5) game_wiki - 0.7425292883796043
+
+6) help_wiki - 0.7420169489974854
+
+7) hand_wiki - 0.7063619458947904
+
+8) stage_wiki - 0.6988120617606541
+
+9) sketch_wiki - 0.6491806151436292
+
+10) face_wiki - 0.6306215744840261
+
+11) something_wiki - 0.6209439491100416
+
+12) expression_wiki - 0.5408354675271915
+
+13) present_wiki - 0.5269996491671064
+
+14) drawing_wiki - 0.48059062833274285
+
+15) door_wiki - 0.41654119890437435
+
+Result for the vector: drawing, coming from part a of the book
+Rank: 14 out of 15 characters
+Cosine similarity to the co-referring vector: 0.4834562972297936
+
+1) girl_wiki - 0.8026214245887737
+
+2) time_wiki - 0.7660585185254626
+
+3) thing_wiki - 0.7617878175847436
+
+4) woman_wiki - 0.6984823762465953
+
+5) help_wiki - 0.6913131313492556
+
+6) hand_wiki - 0.6706940535331419
+
+7) stage_wiki - 0.6384456157684372
+
+8) game_wiki - 0.6377653643805223
+
+9) sketch_wiki - 0.6068819399546518
+
+10) face_wiki - 0.5829854110461964
+
+11) something_wiki - 0.5680911879593852
+
+12) present_wiki - 0.533614130831608
+
+13) expression_wiki - 0.509401203322554
+
+14) drawing_wiki - 0.4834562972297936
+
+15) door_wiki - 0.4170923183615405
+
+Result for the vector: stage, coming from part a of the book
+Rank: 5 out of 15 characters
+Cosine similarity to the co-referring vector: 0.7730775936292291
+
+1) girl_wiki - 0.8770650070743281
+
+2) time_wiki - 0.8420146703720333
+
+3) thing_wiki - 0.8069388636277809
+
+4) woman_wiki - 0.77759728164641
+
+5) stage_wiki - 0.7730775936292291
+
+6) hand_wiki - 0.7712389783917366
+
+7) help_wiki - 0.758222916947616
+
+8) game_wiki - 0.7014912429138273
+
+9) sketch_wiki - 0.668513298034687
+
+10) something_wiki - 0.6433814338900414
+
+11) face_wiki - 0.6321645913418408
+
+12) present_wiki - 0.5577206680441739
+
+13) expression_wiki - 0.5211234428507294
+
+14) drawing_wiki - 0.4912930863042324
+
+15) door_wiki - 0.4412118722452996
+

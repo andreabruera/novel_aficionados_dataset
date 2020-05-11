@@ -1,0 +1,9 @@
+Test: quality test
+Results for: The_Count_of_Monte_Cristo_Illustrated_b
+Model used: proper names matched
+
+Within-novel median: 10.5
+Within-novel average: 13.477777777777778
+Within-novel MRR: 0.3020540836916717
+Within-novel standard deviation of the scores: 11.843636620357014
+Amount of entities considered: 45.0

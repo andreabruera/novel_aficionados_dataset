@@ -1,0 +1,320 @@
+Result for the vector: uncle_jack, coming from part i of the book
+Rank: 6 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8969177665163434
+
+1) mr_ernest_worthing_a - 0.9309766292572088
+
+2) mr_bunbury_a - 0.9245076820547786
+
+3) gwendolen_a - 0.9157269869961538
+
+4) miss_cecily_cardew_a - 0.9120678410449218
+
+5) lady_bracknell_a - 0.9002706527387317
+
+6) uncle_jack_a - 0.8969177665163434
+
+7) algernon_moncrieff_a - 0.8925520181655947
+
+8) dr_chasuble_a - 0.8585523451237488
+
+Result for the vector: miss_cecily_cardew, coming from part i of the book
+Rank: 3 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8632419190858666
+
+1) gwendolen_a - 0.8848313288239869
+
+2) mr_ernest_worthing_a - 0.8826483418135862
+
+3) miss_cecily_cardew_a - 0.8632419190858666
+
+4) mr_bunbury_a - 0.8553662300109863
+
+5) lady_bracknell_a - 0.8526153056254816
+
+6) uncle_jack_a - 0.8317840695381165
+
+7) dr_chasuble_a - 0.8284687995910645
+
+8) algernon_moncrieff_a - 0.8226347459933024
+
+Result for the vector: algernon_moncrieff, coming from part i of the book
+Rank: 6 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8865957788584117
+
+1) mr_ernest_worthing_a - 0.9288148241528781
+
+2) mr_bunbury_a - 0.9208599328994751
+
+3) gwendolen_a - 0.9144593698793123
+
+4) miss_cecily_cardew_a - 0.9076622183524257
+
+5) lady_bracknell_a - 0.8919066255148292
+
+6) algernon_moncrieff_a - 0.8865957788584117
+
+7) uncle_jack_a - 0.8836463093757629
+
+8) dr_chasuble_a - 0.8573874831199646
+
+Result for the vector: gwendolen, coming from part i of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.912187007432799
+
+1) gwendolen_a - 0.912187007432799
+
+2) mr_ernest_worthing_a - 0.8917632102966372
+
+3) miss_cecily_cardew_a - 0.8835494657099884
+
+4) mr_bunbury_a - 0.881341524044186
+
+5) lady_bracknell_a - 0.8697211897705567
+
+6) uncle_jack_a - 0.8538834539721353
+
+7) algernon_moncrieff_a - 0.8528106212616028
+
+8) dr_chasuble_a - 0.8280684454400289
+
+Result for the vector: mr_ernest_worthing, coming from part i of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9515781940911048
+
+1) mr_ernest_worthing_a - 0.9515781940911048
+
+2) mr_bunbury_a - 0.9336426814581579
+
+3) lady_bracknell_a - 0.9316221475601263
+
+4) miss_cecily_cardew_a - 0.9309098720550604
+
+5) gwendolen_a - 0.9242401308179101
+
+6) algernon_moncrieff_a - 0.9194160603780819
+
+7) uncle_jack_a - 0.9176757882640252
+
+8) dr_chasuble_a - 0.8925655420163613
+
+Result for the vector: mr_bunbury, coming from part i of the book
+Rank: 2 out of 8 characters
+Cosine similarity to the co-referring vector: 0.892208993434906
+
+1) mr_ernest_worthing_a - 0.8996378719590842
+
+2) mr_bunbury_a - 0.892208993434906
+
+3) miss_cecily_cardew_a - 0.8838880131311424
+
+4) gwendolen_a - 0.8787362765136048
+
+5) lady_bracknell_a - 0.8692436892245017
+
+6) uncle_jack_a - 0.867883026599884
+
+7) algernon_moncrieff_a - 0.867847434750048
+
+8) dr_chasuble_a - 0.8288524746894836
+
+Result for the vector: lady_bracknell, coming from part i of the book
+Rank: 5 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8763570859219396
+
+1) gwendolen_a - 0.9020245285652192
+
+2) mr_ernest_worthing_a - 0.8994027316214298
+
+3) miss_cecily_cardew_a - 0.8908387487626838
+
+4) mr_bunbury_a - 0.8773797154426575
+
+5) lady_bracknell_a - 0.8763570859219396
+
+6) uncle_jack_a - 0.8581331968307495
+
+7) algernon_moncrieff_a - 0.8556597146785104
+
+8) dr_chasuble_a - 0.8465908765792847
+
+Result for the vector: dr_chasuble, coming from part i of the book
+Rank: 8 out of 8 characters
+Cosine similarity to the co-referring vector: 0.7426782097028632
+
+1) gwendolen_a - 0.8013809921415141
+
+2) mr_bunbury_a - 0.801162946293531
+
+3) mr_ernest_worthing_a - 0.7983083484540401
+
+4) miss_cecily_cardew_a - 0.7867977619171198
+
+5) uncle_jack_a - 0.7708542806419315
+
+6) lady_bracknell_a - 0.7704430222511346
+
+7) algernon_moncrieff_a - 0.7658703644121128
+
+8) dr_chasuble_a - 0.7426782097028632
+
+Result for the vector: uncle_jack, coming from part a of the book
+Rank: 2 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8969177665163434
+
+1) mr_ernest_worthing_wiki - 0.9176757882640252
+
+2) uncle_jack_wiki - 0.8969177665163434
+
+3) algernon_moncrieff_wiki - 0.8836463093757629
+
+4) mr_bunbury_wiki - 0.867883026599884
+
+5) lady_bracknell_wiki - 0.8581331968307495
+
+6) gwendolen_wiki - 0.8538834539721353
+
+7) miss_cecily_cardew_wiki - 0.8317840695381165
+
+8) dr_chasuble_wiki - 0.7708542806419315
+
+Result for the vector: miss_cecily_cardew, coming from part a of the book
+Rank: 7 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8632419190858666
+
+1) mr_ernest_worthing_wiki - 0.9309098720550604
+
+2) uncle_jack_wiki - 0.9120678410449218
+
+3) algernon_moncrieff_wiki - 0.9076622183524257
+
+4) lady_bracknell_wiki - 0.8908387487626838
+
+5) mr_bunbury_wiki - 0.8838880131311424
+
+6) gwendolen_wiki - 0.8835494657099884
+
+7) miss_cecily_cardew_wiki - 0.8632419190858666
+
+8) dr_chasuble_wiki - 0.7867977619171198
+
+Result for the vector: algernon_moncrieff, coming from part a of the book
+Rank: 3 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8865957788584117
+
+1) mr_ernest_worthing_wiki - 0.9194160603780819
+
+2) uncle_jack_wiki - 0.8925520181655947
+
+3) algernon_moncrieff_wiki - 0.8865957788584117
+
+4) mr_bunbury_wiki - 0.867847434750048
+
+5) lady_bracknell_wiki - 0.8556597146785104
+
+6) gwendolen_wiki - 0.8528106212616028
+
+7) miss_cecily_cardew_wiki - 0.8226347459933024
+
+8) dr_chasuble_wiki - 0.7658703644121128
+
+Result for the vector: gwendolen, coming from part a of the book
+Rank: 4 out of 8 characters
+Cosine similarity to the co-referring vector: 0.912187007432799
+
+1) mr_ernest_worthing_wiki - 0.9242401308179101
+
+2) uncle_jack_wiki - 0.9157269869961538
+
+3) algernon_moncrieff_wiki - 0.9144593698793123
+
+4) gwendolen_wiki - 0.912187007432799
+
+5) lady_bracknell_wiki - 0.9020245285652192
+
+6) miss_cecily_cardew_wiki - 0.8848313288239869
+
+7) mr_bunbury_wiki - 0.8787362765136048
+
+8) dr_chasuble_wiki - 0.8013809921415141
+
+Result for the vector: mr_ernest_worthing, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9515781940911048
+
+1) mr_ernest_worthing_wiki - 0.9515781940911048
+
+2) uncle_jack_wiki - 0.9309766292572088
+
+3) algernon_moncrieff_wiki - 0.9288148241528781
+
+4) mr_bunbury_wiki - 0.8996378719590842
+
+5) lady_bracknell_wiki - 0.8994027316214298
+
+6) gwendolen_wiki - 0.8917632102966372
+
+7) miss_cecily_cardew_wiki - 0.8826483418135862
+
+8) dr_chasuble_wiki - 0.7983083484540401
+
+Result for the vector: mr_bunbury, coming from part a of the book
+Rank: 4 out of 8 characters
+Cosine similarity to the co-referring vector: 0.892208993434906
+
+1) mr_ernest_worthing_wiki - 0.9336426814581579
+
+2) uncle_jack_wiki - 0.9245076820547786
+
+3) algernon_moncrieff_wiki - 0.9208599328994751
+
+4) mr_bunbury_wiki - 0.892208993434906
+
+5) gwendolen_wiki - 0.881341524044186
+
+6) lady_bracknell_wiki - 0.8773797154426575
+
+7) miss_cecily_cardew_wiki - 0.8553662300109863
+
+8) dr_chasuble_wiki - 0.801162946293531
+
+Result for the vector: lady_bracknell, coming from part a of the book
+Rank: 4 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8763570859219396
+
+1) mr_ernest_worthing_wiki - 0.9316221475601263
+
+2) uncle_jack_wiki - 0.9002706527387317
+
+3) algernon_moncrieff_wiki - 0.8919066255148292
+
+4) lady_bracknell_wiki - 0.8763570859219396
+
+5) gwendolen_wiki - 0.8697211897705567
+
+6) mr_bunbury_wiki - 0.8692436892245017
+
+7) miss_cecily_cardew_wiki - 0.8526153056254816
+
+8) dr_chasuble_wiki - 0.7704430222511346
+
+Result for the vector: dr_chasuble, coming from part a of the book
+Rank: 8 out of 8 characters
+Cosine similarity to the co-referring vector: 0.7426782097028632
+
+1) mr_ernest_worthing_wiki - 0.8925655420163613
+
+2) uncle_jack_wiki - 0.8585523451237488
+
+3) algernon_moncrieff_wiki - 0.8573874831199646
+
+4) lady_bracknell_wiki - 0.8465908765792847
+
+5) mr_bunbury_wiki - 0.8288524746894836
+
+6) miss_cecily_cardew_wiki - 0.8284687995910645
+
+7) gwendolen_wiki - 0.8280684454400289
+
+8) dr_chasuble_wiki - 0.7426782097028632
+

@@ -1,0 +1,32 @@
+Result for the vector: john, coming from part i of the book
+Rank: 1 out of 2 characters
+Cosine similarity to the co-referring vector: 0.880617961957218
+
+1) john_a - 0.880617961957218
+
+2) jennie_a - 0.7654462545019051
+
+Result for the vector: jennie, coming from part i of the book
+Rank: 2 out of 2 characters
+Cosine similarity to the co-referring vector: 0.7441138694388183
+
+1) john_a - 0.7563683696232336
+
+2) jennie_a - 0.7441138694388183
+
+Result for the vector: john, coming from part a of the book
+Rank: 1 out of 2 characters
+Cosine similarity to the co-referring vector: 0.880617961957218
+
+1) john_wiki - 0.880617961957218
+
+2) jennie_wiki - 0.7563683696232336
+
+Result for the vector: jennie, coming from part a of the book
+Rank: 2 out of 2 characters
+Cosine similarity to the co-referring vector: 0.7441138694388183
+
+1) john_wiki - 0.7654462545019051
+
+2) jennie_wiki - 0.7441138694388183
+

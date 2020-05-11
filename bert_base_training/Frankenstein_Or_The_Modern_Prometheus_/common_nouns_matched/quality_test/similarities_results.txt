@@ -1,0 +1,140 @@
+Result for the vector: night, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8817922332039158
+
+1) night_a - 0.8817922332039158
+
+2) body_a - 0.7762799823701358
+
+3) account_a - 0.7683710913879344
+
+4) cottage_a - 0.7676253409050713
+
+5) success_a - 0.7243175938318739
+
+Result for the vector: cottage, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.747784420715834
+
+1) cottage_a - 0.747784420715834
+
+2) night_a - 0.6904597899728828
+
+3) body_a - 0.6726752129406003
+
+4) account_a - 0.6446687175234773
+
+5) success_a - 0.629155416165454
+
+Result for the vector: body, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8450901667854372
+
+1) body_a - 0.8450901667854372
+
+2) success_a - 0.7658267021179199
+
+3) account_a - 0.7550593018531799
+
+4) cottage_a - 0.7408972007303599
+
+5) night_a - 0.7365001879036551
+
+Result for the vector: account, coming from part i of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.6997351050376892
+
+1) account_a - 0.6997351050376892
+
+2) body_a - 0.616784150908963
+
+3) night_a - 0.5932842846682251
+
+4) success_a - 0.5881553888320923
+
+5) cottage_a - 0.578004735052727
+
+Result for the vector: success, coming from part i of the book
+Rank: 2 out of 5 characters
+Cosine similarity to the co-referring vector: 0.6845652069021826
+
+1) account_a - 0.7023998708248103
+
+2) success_a - 0.6845652069021826
+
+3) body_a - 0.6553156561035711
+
+4) night_a - 0.6468006354690169
+
+5) cottage_a - 0.6126592524444612
+
+Result for the vector: night, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8817922332039158
+
+1) night_wiki - 0.8817922332039158
+
+2) body_wiki - 0.7365001879036551
+
+3) cottage_wiki - 0.6904597899728828
+
+4) success_wiki - 0.6468006354690169
+
+5) account_wiki - 0.5932842846682251
+
+Result for the vector: cottage, coming from part a of the book
+Rank: 2 out of 5 characters
+Cosine similarity to the co-referring vector: 0.747784420715834
+
+1) night_wiki - 0.7676253409050713
+
+2) cottage_wiki - 0.747784420715834
+
+3) body_wiki - 0.7408972007303599
+
+4) success_wiki - 0.6126592524444612
+
+5) account_wiki - 0.578004735052727
+
+Result for the vector: body, coming from part a of the book
+Rank: 1 out of 5 characters
+Cosine similarity to the co-referring vector: 0.8450901667854372
+
+1) body_wiki - 0.8450901667854372
+
+2) night_wiki - 0.7762799823701358
+
+3) cottage_wiki - 0.6726752129406003
+
+4) success_wiki - 0.6553156561035711
+
+5) account_wiki - 0.616784150908963
+
+Result for the vector: account, coming from part a of the book
+Rank: 4 out of 5 characters
+Cosine similarity to the co-referring vector: 0.6997351050376892
+
+1) night_wiki - 0.7683710913879344
+
+2) body_wiki - 0.7550593018531799
+
+3) success_wiki - 0.7023998708248103
+
+4) account_wiki - 0.6997351050376892
+
+5) cottage_wiki - 0.6446687175234773
+
+Result for the vector: success, coming from part a of the book
+Rank: 3 out of 5 characters
+Cosine similarity to the co-referring vector: 0.6845652069021826
+
+1) body_wiki - 0.7658267021179199
+
+2) night_wiki - 0.7243175938318739
+
+3) success_wiki - 0.6845652069021826
+
+4) cottage_wiki - 0.629155416165454
+
+5) account_wiki - 0.5881553888320923
+

@@ -1,0 +1,1760 @@
+Result for the vector: sister, coming from part i of the book
+Rank: 3 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9362561740722569
+
+1) daughter_a - 0.9441699070981121
+
+2) friend_a - 0.936860978603363
+
+3) sister_a - 0.9362561740722569
+
+4) mother_a - 0.9258819818496704
+
+5) father_a - 0.9233141036851348
+
+6) aunt_a - 0.9187160134315491
+
+7) girl_a - 0.9084205627441406
+
+8) family_a - 0.8970733880996704
+
+9) lady_a - 0.883097575080112
+
+10) feeling_a - 0.8693296416595141
+
+11) man_a - 0.8603599071502686
+
+12) letter_a - 0.8476704520884595
+
+13) house_a - 0.8393980264663696
+
+14) manner_a - 0.8377916216850281
+
+15) way_a - 0.8136371263049335
+
+16) day_a - 0.8102951645851135
+
+17) room_a - 0.8086143364174022
+
+18) time_a - 0.8048403859138489
+
+19) nothing_a - 0.7939893007278442
+
+20) morning_a - 0.791910720353681
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8901337915738713
+
+1) time_a - 0.8901337915738713
+
+2) way_a - 0.8807818151452321
+
+3) family_a - 0.8604075229410856
+
+4) day_a - 0.858978084264881
+
+5) letter_a - 0.85348904929892
+
+6) feeling_a - 0.8515612471380485
+
+7) friend_a - 0.8498274594442538
+
+8) manner_a - 0.8479294090228936
+
+9) house_a - 0.8408768678234155
+
+10) daughter_a - 0.8326872735637972
+
+11) morning_a - 0.8320701122283994
+
+12) room_a - 0.8298981887162944
+
+13) mother_a - 0.8236376538060712
+
+14) father_a - 0.8224951134625141
+
+15) lady_a - 0.8202399290037042
+
+16) girl_a - 0.8165612111426136
+
+17) sister_a - 0.8138673305511532
+
+18) man_a - 0.8082660322347913
+
+19) aunt_a - 0.8051524046154278
+
+20) nothing_a - 0.8029536487432524
+
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9146831308210833
+
+1) man_a - 0.9146831308210833
+
+2) lady_a - 0.8979270604144163
+
+3) girl_a - 0.8962448506428261
+
+4) family_a - 0.8658702035507624
+
+5) daughter_a - 0.8588321720857722
+
+6) friend_a - 0.848198260313221
+
+7) father_a - 0.8430551132808618
+
+8) mother_a - 0.8309015283257228
+
+9) aunt_a - 0.8294646987159464
+
+10) sister_a - 0.8264813772892574
+
+11) feeling_a - 0.8186525974248582
+
+12) house_a - 0.807262563921886
+
+13) manner_a - 0.7952991364985451
+
+14) way_a - 0.7863917457811609
+
+15) letter_a - 0.7849943977587711
+
+16) day_a - 0.7849058146746702
+
+17) nothing_a - 0.7773676746299173
+
+18) time_a - 0.7755649320949597
+
+19) room_a - 0.7657893807480378
+
+20) morning_a - 0.7538882269296608
+
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7585284257812259
+
+1) day_a - 0.7585284257812259
+
+2) time_a - 0.7563973810435916
+
+3) feeling_a - 0.7524931507551671
+
+4) lady_a - 0.7450686541240724
+
+5) girl_a - 0.7426533852426194
+
+6) family_a - 0.7413053070720861
+
+7) mother_a - 0.7409194266248105
+
+8) morning_a - 0.7395936561115198
+
+9) manner_a - 0.7388239658579859
+
+10) daughter_a - 0.7327940841676597
+
+11) father_a - 0.731584179714172
+
+12) friend_a - 0.731213228034186
+
+13) house_a - 0.7276605529987495
+
+14) aunt_a - 0.7273518605618573
+
+15) letter_a - 0.726093075457017
+
+16) sister_a - 0.7215495441496915
+
+17) way_a - 0.7169207334518484
+
+18) room_a - 0.7073966191893913
+
+19) nothing_a - 0.70393039560733
+
+20) man_a - 0.6976907433455751
+
+Result for the vector: friend, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9195513129234314
+
+1) friend_a - 0.9195513129234314
+
+2) sister_a - 0.8979809941064735
+
+3) aunt_a - 0.8972218036651611
+
+4) father_a - 0.897045505399054
+
+5) daughter_a - 0.8962756662450934
+
+6) mother_a - 0.8957176804542542
+
+7) girl_a - 0.8919306397438049
+
+8) lady_a - 0.8730515090288593
+
+9) man_a - 0.8718540668487549
+
+10) family_a - 0.8686715364456177
+
+11) feeling_a - 0.8582975951280681
+
+12) house_a - 0.8284603357315063
+
+13) manner_a - 0.8273167610168457
+
+14) letter_a - 0.8156332506805617
+
+15) nothing_a - 0.7980525493621826
+
+16) time_a - 0.7978489398956299
+
+17) room_a - 0.7928655394476065
+
+18) way_a - 0.7897985452293497
+
+19) day_a - 0.7880812883377075
+
+20) morning_a - 0.7777496112734325
+
+Result for the vector: nothing, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8161948919296265
+
+1) nothing_a - 0.8161948919296265
+
+2) time_a - 0.6955567598342896
+
+3) feeling_a - 0.6875503491685391
+
+4) letter_a - 0.6753029234978217
+
+5) way_a - 0.6659746566995786
+
+6) manner_a - 0.6593168377876282
+
+7) family_a - 0.657192587852478
+
+8) mother_a - 0.6568992733955383
+
+9) friend_a - 0.6544559597969055
+
+10) father_a - 0.6524492916525301
+
+11) day_a - 0.6482443809509277
+
+12) lady_a - 0.6437131337777582
+
+13) house_a - 0.6409250497817993
+
+14) morning_a - 0.639375231303262
+
+15) aunt_a - 0.6360852718353271
+
+16) daughter_a - 0.6356423090589738
+
+17) girl_a - 0.6356162428855896
+
+18) man_a - 0.6337360739707947
+
+19) room_a - 0.6303586804439255
+
+20) sister_a - 0.6241687760252501
+
+Result for the vector: family, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9417381917394302
+
+1) family_a - 0.9417381917394302
+
+2) daughter_a - 0.9383507091298525
+
+3) father_a - 0.9360532278919426
+
+4) mother_a - 0.9354025164006657
+
+5) sister_a - 0.9272186246849746
+
+6) friend_a - 0.9260410710548732
+
+7) aunt_a - 0.9213466095121752
+
+8) girl_a - 0.9069719966070671
+
+9) house_a - 0.899198776531294
+
+10) lady_a - 0.8915255601123452
+
+11) feeling_a - 0.8891895016303406
+
+12) letter_a - 0.870216455168032
+
+13) man_a - 0.8694984394610874
+
+14) room_a - 0.8647483233067427
+
+15) manner_a - 0.8633931360606485
+
+16) way_a - 0.8498469591140807
+
+17) day_a - 0.8406316732983798
+
+18) time_a - 0.8386458850714051
+
+19) morning_a - 0.8266945091850151
+
+20) nothing_a - 0.8259524806766239
+
+Result for the vector: room, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7761101989614781
+
+1) room_a - 0.7761101989614781
+
+2) house_a - 0.7604186534881592
+
+3) family_a - 0.7379876971244812
+
+4) time_a - 0.7330024838447571
+
+5) feeling_a - 0.7307802335590553
+
+6) way_a - 0.7282054858330195
+
+7) manner_a - 0.7224329710006714
+
+8) mother_a - 0.7216405272483826
+
+9) letter_a - 0.7209664035707506
+
+10) friend_a - 0.7197684645652771
+
+11) nothing_a - 0.7196411490440369
+
+12) day_a - 0.7190535068511963
+
+13) aunt_a - 0.7179696559906006
+
+14) morning_a - 0.7157869508393448
+
+15) lady_a - 0.7115810765720748
+
+16) father_a - 0.7096854794400409
+
+17) girl_a - 0.7072579264640808
+
+18) daughter_a - 0.7017045230181376
+
+19) sister_a - 0.7007486402542222
+
+20) man_a - 0.6859970688819885
+
+Result for the vector: manner, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8770633339881897
+
+1) manner_a - 0.8770633339881897
+
+2) feeling_a - 0.85744882485999
+
+3) sister_a - 0.8343309262793719
+
+4) daughter_a - 0.8302556523756881
+
+5) friend_a - 0.8292443752288818
+
+6) mother_a - 0.8291653394699097
+
+7) girl_a - 0.8212182521820068
+
+8) father_a - 0.8199482774796213
+
+9) lady_a - 0.8198621058299725
+
+10) family_a - 0.812545120716095
+
+11) aunt_a - 0.8025017976760864
+
+12) man_a - 0.7774772644042969
+
+13) letter_a - 0.7759425141760006
+
+14) time_a - 0.7695093154907227
+
+15) nothing_a - 0.768180251121521
+
+16) house_a - 0.764789342880249
+
+17) way_a - 0.7576742027803793
+
+18) day_a - 0.7349912524223328
+
+19) room_a - 0.7342256028383304
+
+20) morning_a - 0.7160439064476558
+
+Result for the vector: mother, coming from part i of the book
+Rank: 2 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8675077816101251
+
+1) father_a - 0.8749924115843501
+
+2) mother_a - 0.8675077816101251
+
+3) sister_a - 0.8553731782623213
+
+4) daughter_a - 0.8486089020138324
+
+5) aunt_a - 0.8472177638774447
+
+6) friend_a - 0.832474018111051
+
+7) feeling_a - 0.805896247487595
+
+8) family_a - 0.804742360256385
+
+9) girl_a - 0.7866958018152658
+
+10) lady_a - 0.7687866641263194
+
+11) manner_a - 0.7687769165270605
+
+12) house_a - 0.7486942633597337
+
+13) man_a - 0.7471698745241727
+
+14) time_a - 0.7341370205324004
+
+15) letter_a - 0.7311310447610683
+
+16) way_a - 0.719670002430976
+
+17) day_a - 0.7137522314117027
+
+18) nothing_a - 0.713223240173556
+
+19) room_a - 0.7044277753447573
+
+20) morning_a - 0.6992813140368098
+
+Result for the vector: father, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9185337199091668
+
+1) father_a - 0.9185337199091668
+
+2) mother_a - 0.9174365078638947
+
+3) aunt_a - 0.9115992460131425
+
+4) friend_a - 0.9110371145915129
+
+5) daughter_a - 0.910575920973773
+
+6) sister_a - 0.9070712057628905
+
+7) family_a - 0.8995719224086981
+
+8) girl_a - 0.8540022031665508
+
+9) feeling_a - 0.8524706695921487
+
+10) lady_a - 0.8467037747358974
+
+11) house_a - 0.8431146992181155
+
+12) letter_a - 0.8364907904256347
+
+13) man_a - 0.8321188340222492
+
+14) manner_a - 0.8143856768126991
+
+15) room_a - 0.8136083948366379
+
+16) way_a - 0.8096684345306551
+
+17) day_a - 0.8016814232373666
+
+18) time_a - 0.8010684490522284
+
+19) morning_a - 0.7911972763777623
+
+20) nothing_a - 0.7907000419706122
+
+Result for the vector: daughter, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9570169708445945
+
+1) daughter_a - 0.9570169708445945
+
+2) sister_a - 0.9292819499969548
+
+3) friend_a - 0.9205988002180354
+
+4) family_a - 0.9197177243064494
+
+5) father_a - 0.9140307358485168
+
+6) girl_a - 0.9133694716316163
+
+7) mother_a - 0.9124168701420365
+
+8) aunt_a - 0.9106466716913402
+
+9) lady_a - 0.8900271457482257
+
+10) man_a - 0.8605610645151788
+
+11) feeling_a - 0.8604013330581619
+
+12) house_a - 0.8525932343359744
+
+13) letter_a - 0.8442828125183008
+
+14) manner_a - 0.8289036052765626
+
+15) way_a - 0.8265323432126455
+
+16) room_a - 0.8207674729366747
+
+17) day_a - 0.8179485689370986
+
+18) time_a - 0.8063839558591831
+
+19) nothing_a - 0.7963643548705803
+
+20) morning_a - 0.7931517958641109
+
+Result for the vector: letter, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8778653260864807
+
+1) letter_a - 0.8778653260864807
+
+2) feeling_a - 0.8297626915079043
+
+3) manner_a - 0.8141592034196393
+
+4) friend_a - 0.808649111309596
+
+5) aunt_a - 0.7979070423786083
+
+6) mother_a - 0.7978786109613558
+
+7) father_a - 0.7939419273172788
+
+8) sister_a - 0.792081534862524
+
+9) daughter_a - 0.7904449215929144
+
+10) family_a - 0.7894079559688556
+
+11) time_a - 0.7884367578289975
+
+12) lady_a - 0.7883128741346983
+
+13) nothing_a - 0.7860645524301872
+
+14) way_a - 0.7841312627948835
+
+15) girl_a - 0.7811928261037379
+
+16) day_a - 0.777231858803742
+
+17) house_a - 0.7732632621087602
+
+18) morning_a - 0.7668070197105462
+
+19) man_a - 0.7531079502766116
+
+20) room_a - 0.7455881389625109
+
+Result for the vector: lady, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8480176148435671
+
+1) lady_a - 0.8480176148435671
+
+2) girl_a - 0.8479466438293457
+
+3) man_a - 0.8316679000854492
+
+4) friend_a - 0.8289361596107483
+
+5) daughter_a - 0.8268250473387557
+
+6) aunt_a - 0.8256696462631226
+
+7) family_a - 0.8234143257141113
+
+8) mother_a - 0.8124935626983643
+
+9) father_a - 0.8084821929356879
+
+10) sister_a - 0.8058118339889163
+
+11) house_a - 0.7779869437217712
+
+12) feeling_a - 0.775019165131334
+
+13) letter_a - 0.7618698562863371
+
+14) way_a - 0.7617530680747683
+
+15) day_a - 0.7585103511810303
+
+16) manner_a - 0.7518271803855896
+
+17) room_a - 0.7517623005196743
+
+18) time_a - 0.7489715814590454
+
+19) nothing_a - 0.74024897813797
+
+20) morning_a - 0.7384054816719615
+
+Result for the vector: way, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9049028044823175
+
+1) way_a - 0.9049028044823175
+
+2) manner_a - 0.8580967103300533
+
+3) house_a - 0.8554082426672142
+
+4) letter_a - 0.8541816553744164
+
+5) feeling_a - 0.8536530725828296
+
+6) room_a - 0.8497401565468354
+
+7) time_a - 0.844254067197686
+
+8) family_a - 0.8438072707538186
+
+9) day_a - 0.8408726954980326
+
+10) friend_a - 0.8394717478437288
+
+11) morning_a - 0.8321701884269773
+
+12) mother_a - 0.8249742284401806
+
+13) father_a - 0.8171170462896331
+
+14) girl_a - 0.8089359288773509
+
+15) aunt_a - 0.8055621865726835
+
+16) lady_a - 0.8033085113719438
+
+17) man_a - 0.8024552346739328
+
+18) sister_a - 0.8004309535026607
+
+19) daughter_a - 0.8001861095594865
+
+20) nothing_a - 0.7925504322380099
+
+Result for the vector: feeling, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9027032620199368
+
+1) feeling_a - 0.9027032620199368
+
+2) manner_a - 0.8693647565869804
+
+3) mother_a - 0.828856184678336
+
+4) friend_a - 0.8252362154635416
+
+5) father_a - 0.8188084119913633
+
+6) daughter_a - 0.8169194241666122
+
+7) sister_a - 0.8129099849733796
+
+8) family_a - 0.811505211428277
+
+9) letter_a - 0.8018896821540026
+
+10) lady_a - 0.7947040069975871
+
+11) time_a - 0.7942547912229443
+
+12) way_a - 0.7936166515375158
+
+13) aunt_a - 0.7911120764415364
+
+14) girl_a - 0.7894842138425334
+
+15) nothing_a - 0.7891562094530086
+
+16) man_a - 0.7683089466371221
+
+17) house_a - 0.7643927423113087
+
+18) day_a - 0.7489132954698797
+
+19) room_a - 0.7421594636988961
+
+20) morning_a - 0.7230660534818865
+
+Result for the vector: house, coming from part i of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8964159488677979
+
+1) house_a - 0.8964159488677979
+
+2) room_a - 0.8723230514141321
+
+3) family_a - 0.8631561398506165
+
+4) way_a - 0.84386747144863
+
+5) friend_a - 0.8259745240211487
+
+6) father_a - 0.8188864208595309
+
+7) daughter_a - 0.815684819688941
+
+8) letter_a - 0.8103528151231574
+
+9) mother_a - 0.8087221384048462
+
+10) aunt_a - 0.807857096195221
+
+11) manner_a - 0.8069429397583008
+
+12) day_a - 0.8022773861885071
+
+13) girl_a - 0.8019651770591736
+
+14) feeling_a - 0.7998213171692754
+
+15) sister_a - 0.7978100301140543
+
+16) lady_a - 0.7922706952417782
+
+17) man_a - 0.7916309833526611
+
+18) time_a - 0.7888762950897217
+
+19) morning_a - 0.787011755286948
+
+20) nothing_a - 0.7750841975212097
+
+Result for the vector: aunt, coming from part i of the book
+Rank: 4 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8961286010665551
+
+1) friend_a - 0.9076629336081203
+
+2) daughter_a - 0.9040422766196086
+
+3) sister_a - 0.9021012899754893
+
+4) aunt_a - 0.8961286010665551
+
+5) father_a - 0.895622033663626
+
+6) mother_a - 0.8912678425748458
+
+7) family_a - 0.8676542718616578
+
+8) girl_a - 0.8619423590932885
+
+9) lady_a - 0.8397857451311332
+
+10) man_a - 0.8172147979012266
+
+11) feeling_a - 0.8165623679664046
+
+12) house_a - 0.8137049786028293
+
+13) letter_a - 0.8016821980977803
+
+14) manner_a - 0.7952830913494189
+
+15) room_a - 0.7773407499776943
+
+16) way_a - 0.77614045143128
+
+17) day_a - 0.7703597086453625
+
+18) time_a - 0.7574972058834324
+
+19) morning_a - 0.7565012268422572
+
+20) nothing_a - 0.7400723254637538
+
+Result for the vector: girl, coming from part i of the book
+Rank: 2 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8500174283981323
+
+1) daughter_a - 0.8535121337626024
+
+2) girl_a - 0.8500174283981323
+
+3) family_a - 0.8471436500549316
+
+4) lady_a - 0.8293710147584753
+
+5) sister_a - 0.8095028513966306
+
+6) friend_a - 0.7834444046020508
+
+7) father_a - 0.7819640896363207
+
+8) mother_a - 0.7804338335990906
+
+9) aunt_a - 0.7747513651847839
+
+10) house_a - 0.7634726762771606
+
+11) man_a - 0.7532294988632202
+
+12) feeling_a - 0.7464010635616063
+
+13) room_a - 0.7342490274609347
+
+14) day_a - 0.7325851321220398
+
+15) letter_a - 0.7207602310860393
+
+16) time_a - 0.7117782831192017
+
+17) manner_a - 0.7047422528266907
+
+18) morning_a - 0.7046913084571786
+
+19) way_a - 0.70346228500976
+
+20) nothing_a - 0.6967581510543823
+
+Result for the vector: morning, coming from part i of the book
+Rank: 4 out of 20 characters
+Cosine similarity to the co-referring vector: 0.5164674212653991
+
+1) family_a - 0.526673436164856
+
+2) house_a - 0.526609480381012
+
+3) lady_a - 0.5247456460888001
+
+4) morning_a - 0.5164674212653991
+
+5) day_a - 0.5148954391479492
+
+6) room_a - 0.5115631804987013
+
+7) mother_a - 0.5100491642951965
+
+8) girl_a - 0.5091707110404968
+
+9) man_a - 0.5068448781967163
+
+10) friend_a - 0.5040485858917236
+
+11) aunt_a - 0.5031620860099792
+
+12) father_a - 0.5003060102098011
+
+13) time_a - 0.4996466040611267
+
+14) way_a - 0.4976354537985008
+
+15) feeling_a - 0.4964152122162654
+
+16) letter_a - 0.4947347785295368
+
+17) sister_a - 0.48834845493147133
+
+18) manner_a - 0.48306676745414734
+
+19) daughter_a - 0.4823926532981593
+
+20) nothing_a - 0.47652387619018555
+
+Result for the vector: sister, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9362561740722569
+
+1) sister_wiki - 0.9362561740722569
+
+2) daughter_wiki - 0.9292819499969548
+
+3) family_wiki - 0.9272186246849746
+
+4) father_wiki - 0.9070712057628905
+
+5) aunt_wiki - 0.9021012899754893
+
+6) friend_wiki - 0.8979809941064735
+
+7) mother_wiki - 0.8553731782623213
+
+8) manner_wiki - 0.8343309262793719
+
+9) man_wiki - 0.8264813772892574
+
+10) time_wiki - 0.8138673305511532
+
+11) feeling_wiki - 0.8129099849733796
+
+12) girl_wiki - 0.8095028513966306
+
+13) lady_wiki - 0.8058118339889163
+
+14) way_wiki - 0.8004309535026607
+
+15) house_wiki - 0.7978100301140543
+
+16) letter_wiki - 0.792081534862524
+
+17) day_wiki - 0.7215495441496915
+
+18) room_wiki - 0.7007486402542222
+
+19) nothing_wiki - 0.6241687760252501
+
+20) morning_wiki - 0.48834845493147133
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8901337915738713
+
+1) time_wiki - 0.8901337915738713
+
+2) way_wiki - 0.844254067197686
+
+3) family_wiki - 0.8386458850714051
+
+4) daughter_wiki - 0.8063839558591831
+
+5) sister_wiki - 0.8048403859138489
+
+6) father_wiki - 0.8010684490522284
+
+7) friend_wiki - 0.7978489398956299
+
+8) feeling_wiki - 0.7942547912229443
+
+9) house_wiki - 0.7888762950897217
+
+10) letter_wiki - 0.7884367578289975
+
+11) man_wiki - 0.7755649320949597
+
+12) manner_wiki - 0.7695093154907227
+
+13) aunt_wiki - 0.7574972058834324
+
+14) day_wiki - 0.7563973810435916
+
+15) lady_wiki - 0.7489715814590454
+
+16) mother_wiki - 0.7341370205324004
+
+17) room_wiki - 0.7330024838447571
+
+18) girl_wiki - 0.7117782831192017
+
+19) nothing_wiki - 0.6955567598342896
+
+20) morning_wiki - 0.4996466040611267
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9146831308210833
+
+1) man_wiki - 0.9146831308210833
+
+2) friend_wiki - 0.8718540668487549
+
+3) family_wiki - 0.8694984394610874
+
+4) daughter_wiki - 0.8605610645151788
+
+5) sister_wiki - 0.8603599071502686
+
+6) father_wiki - 0.8321188340222492
+
+7) lady_wiki - 0.8316679000854492
+
+8) aunt_wiki - 0.8172147979012266
+
+9) time_wiki - 0.8082660322347913
+
+10) way_wiki - 0.8024552346739328
+
+11) house_wiki - 0.7916309833526611
+
+12) manner_wiki - 0.7774772644042969
+
+13) feeling_wiki - 0.7683089466371221
+
+14) girl_wiki - 0.7532294988632202
+
+15) letter_wiki - 0.7531079502766116
+
+16) mother_wiki - 0.7471698745241727
+
+17) day_wiki - 0.6976907433455751
+
+18) room_wiki - 0.6859970688819885
+
+19) nothing_wiki - 0.6337360739707947
+
+20) morning_wiki - 0.5068448781967163
+
+Result for the vector: day, coming from part a of the book
+Rank: 12 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7585284257812259
+
+1) time_wiki - 0.858978084264881
+
+2) way_wiki - 0.8408726954980326
+
+3) family_wiki - 0.8406316732983798
+
+4) daughter_wiki - 0.8179485689370986
+
+5) sister_wiki - 0.8102951645851135
+
+6) house_wiki - 0.8022773861885071
+
+7) father_wiki - 0.8016814232373666
+
+8) friend_wiki - 0.7880812883377075
+
+9) man_wiki - 0.7849058146746702
+
+10) letter_wiki - 0.777231858803742
+
+11) aunt_wiki - 0.7703597086453625
+
+12) day_wiki - 0.7585284257812259
+
+13) lady_wiki - 0.7585103511810303
+
+14) feeling_wiki - 0.7489132954698797
+
+15) manner_wiki - 0.7349912524223328
+
+16) girl_wiki - 0.7325851321220398
+
+17) room_wiki - 0.7190535068511963
+
+18) mother_wiki - 0.7137522314117027
+
+19) nothing_wiki - 0.6482443809509277
+
+20) morning_wiki - 0.5148954391479492
+
+Result for the vector: friend, coming from part a of the book
+Rank: 4 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9195513129234314
+
+1) sister_wiki - 0.936860978603363
+
+2) family_wiki - 0.9260410710548732
+
+3) daughter_wiki - 0.9205988002180354
+
+4) friend_wiki - 0.9195513129234314
+
+5) father_wiki - 0.9110371145915129
+
+6) aunt_wiki - 0.9076629336081203
+
+7) time_wiki - 0.8498274594442538
+
+8) man_wiki - 0.848198260313221
+
+9) way_wiki - 0.8394717478437288
+
+10) mother_wiki - 0.832474018111051
+
+11) manner_wiki - 0.8292443752288818
+
+12) lady_wiki - 0.8289361596107483
+
+13) house_wiki - 0.8259745240211487
+
+14) feeling_wiki - 0.8252362154635416
+
+15) letter_wiki - 0.808649111309596
+
+16) girl_wiki - 0.7834444046020508
+
+17) day_wiki - 0.731213228034186
+
+18) room_wiki - 0.7197684645652771
+
+19) nothing_wiki - 0.6544559597969055
+
+20) morning_wiki - 0.5040485858917236
+
+Result for the vector: nothing, coming from part a of the book
+Rank: 2 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8161948919296265
+
+1) family_wiki - 0.8259524806766239
+
+2) nothing_wiki - 0.8161948919296265
+
+3) time_wiki - 0.8029536487432524
+
+4) friend_wiki - 0.7980525493621826
+
+5) daughter_wiki - 0.7963643548705803
+
+6) sister_wiki - 0.7939893007278442
+
+7) way_wiki - 0.7925504322380099
+
+8) father_wiki - 0.7907000419706122
+
+9) feeling_wiki - 0.7891562094530086
+
+10) letter_wiki - 0.7860645524301872
+
+11) man_wiki - 0.7773676746299173
+
+12) house_wiki - 0.7750841975212097
+
+13) manner_wiki - 0.768180251121521
+
+14) lady_wiki - 0.74024897813797
+
+15) aunt_wiki - 0.7400723254637538
+
+16) room_wiki - 0.7196411490440369
+
+17) mother_wiki - 0.713223240173556
+
+18) day_wiki - 0.70393039560733
+
+19) girl_wiki - 0.6967581510543823
+
+20) morning_wiki - 0.47652387619018555
+
+Result for the vector: family, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9417381917394302
+
+1) family_wiki - 0.9417381917394302
+
+2) daughter_wiki - 0.9197177243064494
+
+3) father_wiki - 0.8995719224086981
+
+4) sister_wiki - 0.8970733880996704
+
+5) friend_wiki - 0.8686715364456177
+
+6) aunt_wiki - 0.8676542718616578
+
+7) man_wiki - 0.8658702035507624
+
+8) house_wiki - 0.8631561398506165
+
+9) time_wiki - 0.8604075229410856
+
+10) girl_wiki - 0.8471436500549316
+
+11) way_wiki - 0.8438072707538186
+
+12) lady_wiki - 0.8234143257141113
+
+13) manner_wiki - 0.812545120716095
+
+14) feeling_wiki - 0.811505211428277
+
+15) mother_wiki - 0.804742360256385
+
+16) letter_wiki - 0.7894079559688556
+
+17) day_wiki - 0.7413053070720861
+
+18) room_wiki - 0.7379876971244812
+
+19) nothing_wiki - 0.657192587852478
+
+20) morning_wiki - 0.526673436164856
+
+Result for the vector: room, coming from part a of the book
+Rank: 10 out of 20 characters
+Cosine similarity to the co-referring vector: 0.7761101989614781
+
+1) house_wiki - 0.8723230514141321
+
+2) family_wiki - 0.8647483233067427
+
+3) way_wiki - 0.8497401565468354
+
+4) time_wiki - 0.8298981887162944
+
+5) daughter_wiki - 0.8207674729366747
+
+6) father_wiki - 0.8136083948366379
+
+7) sister_wiki - 0.8086143364174022
+
+8) friend_wiki - 0.7928655394476065
+
+9) aunt_wiki - 0.7773407499776943
+
+10) room_wiki - 0.7761101989614781
+
+11) man_wiki - 0.7657893807480378
+
+12) lady_wiki - 0.7517623005196743
+
+13) letter_wiki - 0.7455881389625109
+
+14) feeling_wiki - 0.7421594636988961
+
+15) girl_wiki - 0.7342490274609347
+
+16) manner_wiki - 0.7342256028383304
+
+17) day_wiki - 0.7073966191893913
+
+18) mother_wiki - 0.7044277753447573
+
+19) nothing_wiki - 0.6303586804439255
+
+20) morning_wiki - 0.5115631804987013
+
+Result for the vector: manner, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8770633339881897
+
+1) manner_wiki - 0.8770633339881897
+
+2) feeling_wiki - 0.8693647565869804
+
+3) family_wiki - 0.8633931360606485
+
+4) way_wiki - 0.8580967103300533
+
+5) time_wiki - 0.8479294090228936
+
+6) sister_wiki - 0.8377916216850281
+
+7) daughter_wiki - 0.8289036052765626
+
+8) friend_wiki - 0.8273167610168457
+
+9) father_wiki - 0.8143856768126991
+
+10) letter_wiki - 0.8141592034196393
+
+11) house_wiki - 0.8069429397583008
+
+12) man_wiki - 0.7952991364985451
+
+13) aunt_wiki - 0.7952830913494189
+
+14) mother_wiki - 0.7687769165270605
+
+15) lady_wiki - 0.7518271803855896
+
+16) day_wiki - 0.7388239658579859
+
+17) room_wiki - 0.7224329710006714
+
+18) girl_wiki - 0.7047422528266907
+
+19) nothing_wiki - 0.6593168377876282
+
+20) morning_wiki - 0.48306676745414734
+
+Result for the vector: mother, coming from part a of the book
+Rank: 7 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8675077816101251
+
+1) family_wiki - 0.9354025164006657
+
+2) sister_wiki - 0.9258819818496704
+
+3) father_wiki - 0.9174365078638947
+
+4) daughter_wiki - 0.9124168701420365
+
+5) friend_wiki - 0.8957176804542542
+
+6) aunt_wiki - 0.8912678425748458
+
+7) mother_wiki - 0.8675077816101251
+
+8) man_wiki - 0.8309015283257228
+
+9) manner_wiki - 0.8291653394699097
+
+10) feeling_wiki - 0.828856184678336
+
+11) way_wiki - 0.8249742284401806
+
+12) time_wiki - 0.8236376538060712
+
+13) lady_wiki - 0.8124935626983643
+
+14) house_wiki - 0.8087221384048462
+
+15) letter_wiki - 0.7978786109613558
+
+16) girl_wiki - 0.7804338335990906
+
+17) day_wiki - 0.7409194266248105
+
+18) room_wiki - 0.7216405272483826
+
+19) nothing_wiki - 0.6568992733955383
+
+20) morning_wiki - 0.5100491642951965
+
+Result for the vector: father, coming from part a of the book
+Rank: 3 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9185337199091668
+
+1) family_wiki - 0.9360532278919426
+
+2) sister_wiki - 0.9233141036851348
+
+3) father_wiki - 0.9185337199091668
+
+4) daughter_wiki - 0.9140307358485168
+
+5) friend_wiki - 0.897045505399054
+
+6) aunt_wiki - 0.895622033663626
+
+7) mother_wiki - 0.8749924115843501
+
+8) man_wiki - 0.8430551132808618
+
+9) time_wiki - 0.8224951134625141
+
+10) manner_wiki - 0.8199482774796213
+
+11) house_wiki - 0.8188864208595309
+
+12) feeling_wiki - 0.8188084119913633
+
+13) way_wiki - 0.8171170462896331
+
+14) lady_wiki - 0.8084821929356879
+
+15) letter_wiki - 0.7939419273172788
+
+16) girl_wiki - 0.7819640896363207
+
+17) day_wiki - 0.731584179714172
+
+18) room_wiki - 0.7096854794400409
+
+19) nothing_wiki - 0.6524492916525301
+
+20) morning_wiki - 0.5003060102098011
+
+Result for the vector: daughter, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9570169708445945
+
+1) daughter_wiki - 0.9570169708445945
+
+2) sister_wiki - 0.9441699070981121
+
+3) family_wiki - 0.9383507091298525
+
+4) father_wiki - 0.910575920973773
+
+5) aunt_wiki - 0.9040422766196086
+
+6) friend_wiki - 0.8962756662450934
+
+7) man_wiki - 0.8588321720857722
+
+8) girl_wiki - 0.8535121337626024
+
+9) mother_wiki - 0.8486089020138324
+
+10) time_wiki - 0.8326872735637972
+
+11) manner_wiki - 0.8302556523756881
+
+12) lady_wiki - 0.8268250473387557
+
+13) feeling_wiki - 0.8169194241666122
+
+14) house_wiki - 0.815684819688941
+
+15) way_wiki - 0.8001861095594865
+
+16) letter_wiki - 0.7904449215929144
+
+17) day_wiki - 0.7327940841676597
+
+18) room_wiki - 0.7017045230181376
+
+19) nothing_wiki - 0.6356423090589738
+
+20) morning_wiki - 0.4823926532981593
+
+Result for the vector: letter, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8778653260864807
+
+1) letter_wiki - 0.8778653260864807
+
+2) family_wiki - 0.870216455168032
+
+3) way_wiki - 0.8541816553744164
+
+4) time_wiki - 0.85348904929892
+
+5) sister_wiki - 0.8476704520884595
+
+6) daughter_wiki - 0.8442828125183008
+
+7) father_wiki - 0.8364907904256347
+
+8) friend_wiki - 0.8156332506805617
+
+9) house_wiki - 0.8103528151231574
+
+10) feeling_wiki - 0.8018896821540026
+
+11) aunt_wiki - 0.8016821980977803
+
+12) man_wiki - 0.7849943977587711
+
+13) manner_wiki - 0.7759425141760006
+
+14) lady_wiki - 0.7618698562863371
+
+15) mother_wiki - 0.7311310447610683
+
+16) day_wiki - 0.726093075457017
+
+17) room_wiki - 0.7209664035707506
+
+18) girl_wiki - 0.7207602310860393
+
+19) nothing_wiki - 0.6753029234978217
+
+20) morning_wiki - 0.4947347785295368
+
+Result for the vector: lady, coming from part a of the book
+Rank: 6 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8480176148435671
+
+1) man_wiki - 0.8979270604144163
+
+2) family_wiki - 0.8915255601123452
+
+3) daughter_wiki - 0.8900271457482257
+
+4) sister_wiki - 0.883097575080112
+
+5) friend_wiki - 0.8730515090288593
+
+6) lady_wiki - 0.8480176148435671
+
+7) father_wiki - 0.8467037747358974
+
+8) aunt_wiki - 0.8397857451311332
+
+9) girl_wiki - 0.8293710147584753
+
+10) time_wiki - 0.8202399290037042
+
+11) manner_wiki - 0.8198621058299725
+
+12) way_wiki - 0.8033085113719438
+
+13) feeling_wiki - 0.7947040069975871
+
+14) house_wiki - 0.7922706952417782
+
+15) letter_wiki - 0.7883128741346983
+
+16) mother_wiki - 0.7687866641263194
+
+17) day_wiki - 0.7450686541240724
+
+18) room_wiki - 0.7115810765720748
+
+19) nothing_wiki - 0.6437131337777582
+
+20) morning_wiki - 0.5247456460888001
+
+Result for the vector: way, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9049028044823175
+
+1) way_wiki - 0.9049028044823175
+
+2) time_wiki - 0.8807818151452321
+
+3) family_wiki - 0.8498469591140807
+
+4) house_wiki - 0.84386747144863
+
+5) daughter_wiki - 0.8265323432126455
+
+6) sister_wiki - 0.8136371263049335
+
+7) father_wiki - 0.8096684345306551
+
+8) feeling_wiki - 0.7936166515375158
+
+9) friend_wiki - 0.7897985452293497
+
+10) man_wiki - 0.7863917457811609
+
+11) letter_wiki - 0.7841312627948835
+
+12) aunt_wiki - 0.77614045143128
+
+13) lady_wiki - 0.7617530680747683
+
+14) manner_wiki - 0.7576742027803793
+
+15) room_wiki - 0.7282054858330195
+
+16) mother_wiki - 0.719670002430976
+
+17) day_wiki - 0.7169207334518484
+
+18) girl_wiki - 0.70346228500976
+
+19) nothing_wiki - 0.6659746566995786
+
+20) morning_wiki - 0.4976354537985008
+
+Result for the vector: feeling, coming from part a of the book
+Rank: 1 out of 20 characters
+Cosine similarity to the co-referring vector: 0.9027032620199368
+
+1) feeling_wiki - 0.9027032620199368
+
+2) family_wiki - 0.8891895016303406
+
+3) sister_wiki - 0.8693296416595141
+
+4) daughter_wiki - 0.8604013330581619
+
+5) friend_wiki - 0.8582975951280681
+
+6) manner_wiki - 0.85744882485999
+
+7) way_wiki - 0.8536530725828296
+
+8) father_wiki - 0.8524706695921487
+
+9) time_wiki - 0.8515612471380485
+
+10) letter_wiki - 0.8297626915079043
+
+11) man_wiki - 0.8186525974248582
+
+12) aunt_wiki - 0.8165623679664046
+
+13) mother_wiki - 0.805896247487595
+
+14) house_wiki - 0.7998213171692754
+
+15) lady_wiki - 0.775019165131334
+
+16) day_wiki - 0.7524931507551671
+
+17) girl_wiki - 0.7464010635616063
+
+18) room_wiki - 0.7307802335590553
+
+19) nothing_wiki - 0.6875503491685391
+
+20) morning_wiki - 0.4964152122162654
+
+Result for the vector: house, coming from part a of the book
+Rank: 2 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8964159488677979
+
+1) family_wiki - 0.899198776531294
+
+2) house_wiki - 0.8964159488677979
+
+3) way_wiki - 0.8554082426672142
+
+4) daughter_wiki - 0.8525932343359744
+
+5) father_wiki - 0.8431146992181155
+
+6) time_wiki - 0.8408768678234155
+
+7) sister_wiki - 0.8393980264663696
+
+8) friend_wiki - 0.8284603357315063
+
+9) aunt_wiki - 0.8137049786028293
+
+10) man_wiki - 0.807262563921886
+
+11) lady_wiki - 0.7779869437217712
+
+12) letter_wiki - 0.7732632621087602
+
+13) manner_wiki - 0.764789342880249
+
+14) feeling_wiki - 0.7643927423113087
+
+15) girl_wiki - 0.7634726762771606
+
+16) room_wiki - 0.7604186534881592
+
+17) mother_wiki - 0.7486942633597337
+
+18) day_wiki - 0.7276605529987495
+
+19) nothing_wiki - 0.6409250497817993
+
+20) morning_wiki - 0.526609480381012
+
+Result for the vector: aunt, coming from part a of the book
+Rank: 6 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8961286010665551
+
+1) family_wiki - 0.9213466095121752
+
+2) sister_wiki - 0.9187160134315491
+
+3) father_wiki - 0.9115992460131425
+
+4) daughter_wiki - 0.9106466716913402
+
+5) friend_wiki - 0.8972218036651611
+
+6) aunt_wiki - 0.8961286010665551
+
+7) mother_wiki - 0.8472177638774447
+
+8) man_wiki - 0.8294646987159464
+
+9) lady_wiki - 0.8256696462631226
+
+10) house_wiki - 0.807857096195221
+
+11) way_wiki - 0.8055621865726835
+
+12) time_wiki - 0.8051524046154278
+
+13) manner_wiki - 0.8025017976760864
+
+14) letter_wiki - 0.7979070423786083
+
+15) feeling_wiki - 0.7911120764415364
+
+16) girl_wiki - 0.7747513651847839
+
+17) day_wiki - 0.7273518605618573
+
+18) room_wiki - 0.7179696559906006
+
+19) nothing_wiki - 0.6360852718353271
+
+20) morning_wiki - 0.5031620860099792
+
+Result for the vector: girl, coming from part a of the book
+Rank: 8 out of 20 characters
+Cosine similarity to the co-referring vector: 0.8500174283981323
+
+1) daughter_wiki - 0.9133694716316163
+
+2) sister_wiki - 0.9084205627441406
+
+3) family_wiki - 0.9069719966070671
+
+4) man_wiki - 0.8962448506428261
+
+5) friend_wiki - 0.8919306397438049
+
+6) aunt_wiki - 0.8619423590932885
+
+7) father_wiki - 0.8540022031665508
+
+8) girl_wiki - 0.8500174283981323
+
+9) lady_wiki - 0.8479466438293457
+
+10) manner_wiki - 0.8212182521820068
+
+11) time_wiki - 0.8165612111426136
+
+12) way_wiki - 0.8089359288773509
+
+13) house_wiki - 0.8019651770591736
+
+14) feeling_wiki - 0.7894842138425334
+
+15) mother_wiki - 0.7866958018152658
+
+16) letter_wiki - 0.7811928261037379
+
+17) day_wiki - 0.7426533852426194
+
+18) room_wiki - 0.7072579264640808
+
+19) nothing_wiki - 0.6356162428855896
+
+20) morning_wiki - 0.5091707110404968
+
+Result for the vector: morning, coming from part a of the book
+Rank: 20 out of 20 characters
+Cosine similarity to the co-referring vector: 0.5164674212653991
+
+1) way_wiki - 0.8321701884269773
+
+2) time_wiki - 0.8320701122283994
+
+3) family_wiki - 0.8266945091850151
+
+4) daughter_wiki - 0.7931517958641109
+
+5) sister_wiki - 0.791910720353681
+
+6) father_wiki - 0.7911972763777623
+
+7) house_wiki - 0.787011755286948
+
+8) friend_wiki - 0.7777496112734325
+
+9) letter_wiki - 0.7668070197105462
+
+10) aunt_wiki - 0.7565012268422572
+
+11) man_wiki - 0.7538882269296608
+
+12) day_wiki - 0.7395936561115198
+
+13) lady_wiki - 0.7384054816719615
+
+14) feeling_wiki - 0.7230660534818865
+
+15) manner_wiki - 0.7160439064476558
+
+16) room_wiki - 0.7157869508393448
+
+17) girl_wiki - 0.7046913084571786
+
+18) mother_wiki - 0.6992813140368098
+
+19) nothing_wiki - 0.639375231303262
+
+20) morning_wiki - 0.5164674212653991
+

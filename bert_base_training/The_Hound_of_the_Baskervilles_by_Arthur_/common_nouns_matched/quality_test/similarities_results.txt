@@ -1,0 +1,320 @@
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9262265563011235
+
+1) man_a - 0.9262265563011235
+
+2) time_a - 0.803708732128149
+
+3) stick_a - 0.7948802709579524
+
+4) sir_a - 0.7915299050387659
+
+5) face_a - 0.7835624322500023
+
+6) moor_a - 0.7812105417251642
+
+7) voice_a - 0.7281122913561401
+
+8) occasion_a - 0.6848147323617192
+
+Result for the vector: moor, coming from part i of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9408837627311035
+
+1) moor_a - 0.9408837627311035
+
+2) time_a - 0.808577202728128
+
+3) stick_a - 0.7849856275337186
+
+4) man_a - 0.7798877024784443
+
+5) face_a - 0.7549325002750039
+
+6) sir_a - 0.7345707197615319
+
+7) occasion_a - 0.7280814213704229
+
+8) voice_a - 0.7057528320403708
+
+Result for the vector: sir, coming from part i of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9418796685517533
+
+1) sir_a - 0.9418796685517533
+
+2) man_a - 0.7776206069897214
+
+3) time_a - 0.7358906898759203
+
+4) stick_a - 0.7022426838296263
+
+5) moor_a - 0.6921786803773261
+
+6) face_a - 0.6640857660642759
+
+7) voice_a - 0.6366442062471073
+
+8) occasion_a - 0.6324633421069469
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.7894418365095965
+
+1) time_a - 0.7894418365095965
+
+2) man_a - 0.7142548731413572
+
+3) moor_a - 0.7008825122784084
+
+4) occasion_a - 0.6970360279083252
+
+5) face_a - 0.6773164474164384
+
+6) stick_a - 0.6638387045956442
+
+7) voice_a - 0.6363757415265774
+
+8) sir_a - 0.6332837531949211
+
+Result for the vector: face, coming from part i of the book
+Rank: 4 out of 8 characters
+Cosine similarity to the co-referring vector: 0.6819769943349661
+
+1) sir_a - 0.7710033884943545
+
+2) man_a - 0.7068562086310275
+
+3) time_a - 0.7007214009331835
+
+4) face_a - 0.6819769943349661
+
+5) stick_a - 0.6786030126450663
+
+6) moor_a - 0.6599616014980327
+
+7) voice_a - 0.6396939921014345
+
+8) occasion_a - 0.6050968170166016
+
+Result for the vector: voice, coming from part i of the book
+Rank: 8 out of 8 characters
+Cosine similarity to the co-referring vector: 0.527859452707706
+
+1) time_a - 0.6027472852023085
+
+2) stick_a - 0.5726747171476662
+
+3) man_a - 0.5663812418948874
+
+4) sir_a - 0.5532829330349845
+
+5) face_a - 0.5516136453036563
+
+6) moor_a - 0.5513299374979781
+
+7) occasion_a - 0.5410244464874268
+
+8) voice_a - 0.527859452707706
+
+Result for the vector: stick, coming from part i of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.7016767441227005
+
+1) stick_a - 0.7016767441227005
+
+2) time_a - 0.6999276459260211
+
+3) man_a - 0.6961835207829773
+
+4) moor_a - 0.6820468496056301
+
+5) sir_a - 0.6789081895026028
+
+6) face_a - 0.6457351638595812
+
+7) occasion_a - 0.616234302520752
+
+8) voice_a - 0.6010660649616838
+
+Result for the vector: occasion, coming from part i of the book
+Rank: 6 out of 8 characters
+Cosine similarity to the co-referring vector: 0.429499089717865
+
+1) moor_a - 0.5147217205332694
+
+2) face_a - 0.4638312001178028
+
+3) stick_a - 0.46131164066126185
+
+4) time_a - 0.461128058366296
+
+5) man_a - 0.4375043548641001
+
+6) occasion_a - 0.429499089717865
+
+7) voice_a - 0.39816014744760647
+
+8) sir_a - 0.396527629987229
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9262265563011235
+
+1) man_wiki - 0.9262265563011235
+
+2) moor_wiki - 0.7798877024784443
+
+3) sir_wiki - 0.7776206069897214
+
+4) time_wiki - 0.7142548731413572
+
+5) face_wiki - 0.7068562086310275
+
+6) stick_wiki - 0.6961835207829773
+
+7) voice_wiki - 0.5663812418948874
+
+8) occasion_wiki - 0.4375043548641001
+
+Result for the vector: moor, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9408837627311035
+
+1) moor_wiki - 0.9408837627311035
+
+2) man_wiki - 0.7812105417251642
+
+3) time_wiki - 0.7008825122784084
+
+4) sir_wiki - 0.6921786803773261
+
+5) stick_wiki - 0.6820468496056301
+
+6) face_wiki - 0.6599616014980327
+
+7) voice_wiki - 0.5513299374979781
+
+8) occasion_wiki - 0.5147217205332694
+
+Result for the vector: sir, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9418796685517533
+
+1) sir_wiki - 0.9418796685517533
+
+2) man_wiki - 0.7915299050387659
+
+3) face_wiki - 0.7710033884943545
+
+4) moor_wiki - 0.7345707197615319
+
+5) stick_wiki - 0.6789081895026028
+
+6) time_wiki - 0.6332837531949211
+
+7) voice_wiki - 0.5532829330349845
+
+8) occasion_wiki - 0.396527629987229
+
+Result for the vector: time, coming from part a of the book
+Rank: 3 out of 8 characters
+Cosine similarity to the co-referring vector: 0.7894418365095965
+
+1) moor_wiki - 0.808577202728128
+
+2) man_wiki - 0.803708732128149
+
+3) time_wiki - 0.7894418365095965
+
+4) sir_wiki - 0.7358906898759203
+
+5) face_wiki - 0.7007214009331835
+
+6) stick_wiki - 0.6999276459260211
+
+7) voice_wiki - 0.6027472852023085
+
+8) occasion_wiki - 0.461128058366296
+
+Result for the vector: face, coming from part a of the book
+Rank: 3 out of 8 characters
+Cosine similarity to the co-referring vector: 0.6819769943349661
+
+1) man_wiki - 0.7835624322500023
+
+2) moor_wiki - 0.7549325002750039
+
+3) face_wiki - 0.6819769943349661
+
+4) time_wiki - 0.6773164474164384
+
+5) sir_wiki - 0.6640857660642759
+
+6) stick_wiki - 0.6457351638595812
+
+7) voice_wiki - 0.5516136453036563
+
+8) occasion_wiki - 0.4638312001178028
+
+Result for the vector: voice, coming from part a of the book
+Rank: 7 out of 8 characters
+Cosine similarity to the co-referring vector: 0.527859452707706
+
+1) man_wiki - 0.7281122913561401
+
+2) moor_wiki - 0.7057528320403708
+
+3) face_wiki - 0.6396939921014345
+
+4) sir_wiki - 0.6366442062471073
+
+5) time_wiki - 0.6363757415265774
+
+6) stick_wiki - 0.6010660649616838
+
+7) voice_wiki - 0.527859452707706
+
+8) occasion_wiki - 0.39816014744760647
+
+Result for the vector: stick, coming from part a of the book
+Rank: 4 out of 8 characters
+Cosine similarity to the co-referring vector: 0.7016767441227005
+
+1) man_wiki - 0.7948802709579524
+
+2) moor_wiki - 0.7849856275337186
+
+3) sir_wiki - 0.7022426838296263
+
+4) stick_wiki - 0.7016767441227005
+
+5) face_wiki - 0.6786030126450663
+
+6) time_wiki - 0.6638387045956442
+
+7) voice_wiki - 0.5726747171476662
+
+8) occasion_wiki - 0.46131164066126185
+
+Result for the vector: occasion, coming from part a of the book
+Rank: 8 out of 8 characters
+Cosine similarity to the co-referring vector: 0.429499089717865
+
+1) moor_wiki - 0.7280814213704229
+
+2) time_wiki - 0.6970360279083252
+
+3) man_wiki - 0.6848147323617192
+
+4) sir_wiki - 0.6324633421069469
+
+5) stick_wiki - 0.616234302520752
+
+6) face_wiki - 0.6050968170166016
+
+7) voice_wiki - 0.5410244464874268
+
+8) occasion_wiki - 0.429499089717865
+

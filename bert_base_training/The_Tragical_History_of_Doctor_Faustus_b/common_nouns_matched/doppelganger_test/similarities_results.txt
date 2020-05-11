@@ -1,0 +1,320 @@
+Result for the vector: soul, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9801062941551208
+
+1) soul_b - 0.9801062941551208
+
+2) end_b - 0.8951947359798774
+
+3) world_b - 0.8314213203521642
+
+4) emperor_b - 0.8300242626638158
+
+5) hath_b - 0.8212414979934692
+
+6) wilt_b - 0.7762177221839944
+
+7) circle_b - 0.7617500367388269
+
+8) hast_b - 0.717223065064964
+
+Result for the vector: hath, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9486974133876671
+
+1) hath_b - 0.9486974133876671
+
+2) soul_b - 0.8514233396729867
+
+3) end_b - 0.8492580472538542
+
+4) emperor_b - 0.8164146299238791
+
+5) wilt_b - 0.800686633668738
+
+6) hast_b - 0.7971278070547612
+
+7) world_b - 0.7938715920142169
+
+8) circle_b - 0.7718753270805676
+
+Result for the vector: world, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9309072689573971
+
+1) world_b - 0.9309072689573971
+
+2) end_b - 0.8991794258111548
+
+3) soul_b - 0.8981136679649353
+
+4) emperor_b - 0.8764510898052409
+
+5) circle_b - 0.8503719643312734
+
+6) hath_b - 0.7967652082443237
+
+7) wilt_b - 0.7183222388721183
+
+8) hast_b - 0.6822613071047493
+
+Result for the vector: end, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8811388874393374
+
+1) end_b - 0.8811388874393374
+
+2) soul_b - 0.850346028804779
+
+3) emperor_b - 0.8006169437626725
+
+4) world_b - 0.7954702966616088
+
+5) hath_b - 0.7606343030929565
+
+6) circle_b - 0.7221261742899162
+
+7) wilt_b - 0.7046549530224491
+
+8) hast_b - 0.6750059917565601
+
+Result for the vector: hast, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9312263172133989
+
+1) hast_b - 0.9312263172133989
+
+2) wilt_b - 0.9142930780140487
+
+3) hath_b - 0.8306229114532471
+
+4) soul_b - 0.7650957107543945
+
+5) end_b - 0.7344295601376764
+
+6) world_b - 0.7151971333022694
+
+7) emperor_b - 0.7009845732468926
+
+8) circle_b - 0.6466000447571416
+
+Result for the vector: emperor, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.911807780754117
+
+1) emperor_b - 0.911807780754117
+
+2) soul_b - 0.8855822018135923
+
+3) end_b - 0.8700446668307189
+
+4) hath_b - 0.8671201984357968
+
+5) world_b - 0.8379610140838388
+
+6) circle_b - 0.7843650427626194
+
+7) wilt_b - 0.7720504497334767
+
+8) hast_b - 0.7317255735397391
+
+Result for the vector: wilt, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9491144984432756
+
+1) wilt_b - 0.9491144984432756
+
+2) hast_b - 0.8706956842334399
+
+3) hath_b - 0.7873105641398005
+
+4) soul_b - 0.7600522267834019
+
+5) end_b - 0.7197168898413712
+
+6) world_b - 0.6998058020721369
+
+7) emperor_b - 0.6909744717799676
+
+8) circle_b - 0.6335343659283622
+
+Result for the vector: circle, coming from part a of the book
+Rank: 6 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8244109399441462
+
+1) end_b - 0.8898798027742184
+
+2) soul_b - 0.8770509508787514
+
+3) world_b - 0.8668546934978885
+
+4) emperor_b - 0.8361306581185679
+
+5) hath_b - 0.8251505106508181
+
+6) circle_b - 0.8244109399441462
+
+7) wilt_b - 0.7307104411086127
+
+8) hast_b - 0.695506209938609
+
+Result for the vector: soul, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9801062941551208
+
+1) soul_a - 0.9801062941551208
+
+2) world_a - 0.8981136679649353
+
+3) emperor_a - 0.8855822018135923
+
+4) circle_a - 0.8770509508787514
+
+5) hath_a - 0.8514233396729867
+
+6) end_a - 0.850346028804779
+
+7) hast_a - 0.7650957107543945
+
+8) wilt_a - 0.7600522267834019
+
+Result for the vector: hath, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9486974133876671
+
+1) hath_a - 0.9486974133876671
+
+2) emperor_a - 0.8671201984357968
+
+3) hast_a - 0.8306229114532471
+
+4) circle_a - 0.8251505106508181
+
+5) soul_a - 0.8212414979934692
+
+6) world_a - 0.7967652082443237
+
+7) wilt_a - 0.7873105641398005
+
+8) end_a - 0.7606343030929565
+
+Result for the vector: world, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9309072689573971
+
+1) world_a - 0.9309072689573971
+
+2) circle_a - 0.8668546934978885
+
+3) emperor_a - 0.8379610140838388
+
+4) soul_a - 0.8314213203521642
+
+5) end_a - 0.7954702966616088
+
+6) hath_a - 0.7938715920142169
+
+7) hast_a - 0.7151971333022694
+
+8) wilt_a - 0.6998058020721369
+
+Result for the vector: end, coming from part b of the book
+Rank: 4 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8811388874393374
+
+1) world_a - 0.8991794258111548
+
+2) soul_a - 0.8951947359798774
+
+3) circle_a - 0.8898798027742184
+
+4) end_a - 0.8811388874393374
+
+5) emperor_a - 0.8700446668307189
+
+6) hath_a - 0.8492580472538542
+
+7) hast_a - 0.7344295601376764
+
+8) wilt_a - 0.7197168898413712
+
+Result for the vector: hast, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9312263172133989
+
+1) hast_a - 0.9312263172133989
+
+2) wilt_a - 0.8706956842334399
+
+3) hath_a - 0.7971278070547612
+
+4) emperor_a - 0.7317255735397391
+
+5) soul_a - 0.717223065064964
+
+6) circle_a - 0.695506209938609
+
+7) world_a - 0.6822613071047493
+
+8) end_a - 0.6750059917565601
+
+Result for the vector: emperor, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.911807780754117
+
+1) emperor_a - 0.911807780754117
+
+2) world_a - 0.8764510898052409
+
+3) circle_a - 0.8361306581185679
+
+4) soul_a - 0.8300242626638158
+
+5) hath_a - 0.8164146299238791
+
+6) end_a - 0.8006169437626725
+
+7) hast_a - 0.7009845732468926
+
+8) wilt_a - 0.6909744717799676
+
+Result for the vector: wilt, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9491144984432756
+
+1) wilt_a - 0.9491144984432756
+
+2) hast_a - 0.9142930780140487
+
+3) hath_a - 0.800686633668738
+
+4) soul_a - 0.7762177221839944
+
+5) emperor_a - 0.7720504497334767
+
+6) circle_a - 0.7307104411086127
+
+7) world_a - 0.7183222388721183
+
+8) end_a - 0.7046549530224491
+
+Result for the vector: circle, coming from part b of the book
+Rank: 2 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8244109399441462
+
+1) world_a - 0.8503719643312734
+
+2) circle_a - 0.8244109399441462
+
+3) emperor_a - 0.7843650427626194
+
+4) hath_a - 0.7718753270805676
+
+5) soul_a - 0.7617500367388269
+
+6) end_a - 0.7221261742899162
+
+7) hast_a - 0.6466000447571416
+
+8) wilt_a - 0.6335343659283622
+

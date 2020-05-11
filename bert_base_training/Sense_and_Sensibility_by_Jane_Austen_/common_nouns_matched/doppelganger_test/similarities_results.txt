@@ -1,0 +1,1596 @@
+Result for the vector: sister, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9830473934184606
+
+1) sister_b - 0.9830473934184606
+
+2) mother_b - 0.9805411100387643
+
+3) father_b - 0.962474165110242
+
+4) lady_b - 0.9243931680194339
+
+5) fortune_b - 0.9148501056254036
+
+6) sake_b - 0.9108942747116153
+
+7) attachment_b - 0.9018847942352359
+
+8) man_b - 0.8935543894767825
+
+9) house_b - 0.888948625984884
+
+10) sense_b - 0.8866085342531539
+
+11) subject_b - 0.8805006075203796
+
+12) letter_b - 0.8794221210135309
+
+13) knowledge_b - 0.8789357470831736
+
+14) nothing_b - 0.8736566305160585
+
+15) thing_b - 0.8734777418944528
+
+16) wish_b - 0.8727422356605592
+
+17) time_b - 0.8706425428390565
+
+18) day_b - 0.8391367005272746
+
+19) month_b - 0.8201464796240902
+
+Result for the vector: mother, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9837648868560861
+
+1) mother_b - 0.9837648868560861
+
+2) sister_b - 0.9698552742384787
+
+3) father_b - 0.9494004815459556
+
+4) lady_b - 0.917899121987715
+
+5) man_b - 0.879580616950995
+
+6) fortune_b - 0.8784956191176914
+
+7) sake_b - 0.8782740831375184
+
+8) attachment_b - 0.8749188184738221
+
+9) house_b - 0.869226284669277
+
+10) sense_b - 0.8666510502488063
+
+11) letter_b - 0.8525317223388998
+
+12) wish_b - 0.8503222465515197
+
+13) knowledge_b - 0.8498767524884211
+
+14) nothing_b - 0.8424628376960814
+
+15) subject_b - 0.8414493108659586
+
+16) time_b - 0.8412306308746398
+
+17) thing_b - 0.8382717178191802
+
+18) day_b - 0.810076214084174
+
+19) month_b - 0.8022652628738002
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9845831421763064
+
+1) time_b - 0.9845831421763064
+
+2) day_b - 0.9196935343925186
+
+3) thing_b - 0.8964132728330474
+
+4) subject_b - 0.8929535874183733
+
+5) house_b - 0.8870092899777198
+
+6) letter_b - 0.8743300587737552
+
+7) month_b - 0.870527453987168
+
+8) attachment_b - 0.8704802029466282
+
+9) nothing_b - 0.867632829970213
+
+10) lady_b - 0.8651525458602718
+
+11) knowledge_b - 0.8595314789376941
+
+12) sense_b - 0.8553754263668805
+
+13) sake_b - 0.8546444437543568
+
+14) fortune_b - 0.8504608362638588
+
+15) sister_b - 0.8475646720062479
+
+16) mother_b - 0.8453900494474099
+
+17) man_b - 0.8385293772466119
+
+18) wish_b - 0.8385182907846661
+
+19) father_b - 0.8364217476342085
+
+Result for the vector: thing, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9873808622360299
+
+1) thing_b - 0.9873808622360299
+
+2) attachment_b - 0.9190220929357895
+
+3) subject_b - 0.9124141983739036
+
+4) time_b - 0.911426137515767
+
+5) letter_b - 0.9077729041711762
+
+6) day_b - 0.9003753066062992
+
+7) lady_b - 0.894088685512549
+
+8) nothing_b - 0.8876888885868921
+
+9) man_b - 0.8857821362278299
+
+10) sense_b - 0.8857718178169852
+
+11) knowledge_b - 0.8844082424397339
+
+12) house_b - 0.8803047751835407
+
+13) wish_b - 0.8707280313100777
+
+14) mother_b - 0.8608463572446874
+
+15) fortune_b - 0.8596967458725037
+
+16) sister_b - 0.8550666825493276
+
+17) sake_b - 0.8438383526994762
+
+18) month_b - 0.8371477127075255
+
+19) father_b - 0.8302938443247188
+
+Result for the vector: day, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9819807995546358
+
+1) day_b - 0.9819807995546358
+
+2) time_b - 0.9177748609915475
+
+3) thing_b - 0.9071558658573564
+
+4) month_b - 0.8949511584610453
+
+5) subject_b - 0.8905707597732544
+
+6) letter_b - 0.8717635273933411
+
+7) house_b - 0.8664855520146488
+
+8) lady_b - 0.8647266545728851
+
+9) attachment_b - 0.8519561378982
+
+10) nothing_b - 0.8343291977447764
+
+11) man_b - 0.8299146992019013
+
+12) knowledge_b - 0.8284246325492859
+
+13) mother_b - 0.8234271512373015
+
+14) sister_b - 0.8215653438775582
+
+15) wish_b - 0.8197747576370994
+
+16) sense_b - 0.8079007863998413
+
+17) father_b - 0.8001843690872192
+
+18) sake_b - 0.799464178117266
+
+19) fortune_b - 0.7967501757592081
+
+Result for the vector: nothing, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9815614830516902
+
+1) nothing_b - 0.9815614830516902
+
+2) thing_b - 0.8753235265805455
+
+3) time_b - 0.8677451093348811
+
+4) sense_b - 0.8620450496673584
+
+5) lady_b - 0.8607014930666398
+
+6) letter_b - 0.8605674505233765
+
+7) attachment_b - 0.8602171623577394
+
+8) fortune_b - 0.8552002224445491
+
+9) wish_b - 0.8543685761470466
+
+10) sister_b - 0.8521561192413709
+
+11) subject_b - 0.8473188877105713
+
+12) knowledge_b - 0.8470771312713623
+
+13) mother_b - 0.8458821269344031
+
+14) house_b - 0.844649452608895
+
+15) sake_b - 0.8431966994287565
+
+16) day_b - 0.8355204364967621
+
+17) man_b - 0.8322943548980755
+
+18) month_b - 0.8237760557994891
+
+19) father_b - 0.8184103965759277
+
+Result for the vector: house, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9809286617125745
+
+1) house_b - 0.9809286617125745
+
+2) subject_b - 0.909774124622345
+
+3) lady_b - 0.9044687094967804
+
+4) time_b - 0.8896790808630554
+
+5) mother_b - 0.8854860135623225
+
+6) letter_b - 0.8835744857788086
+
+7) thing_b - 0.8787153886983046
+
+8) sister_b - 0.87657101838926
+
+9) fortune_b - 0.8716339392443875
+
+10) man_b - 0.8711220102833519
+
+11) day_b - 0.8696511310131048
+
+12) attachment_b - 0.8687880117423543
+
+13) father_b - 0.8608337044715881
+
+14) nothing_b - 0.8489182085443626
+
+15) knowledge_b - 0.8460000157356262
+
+16) sense_b - 0.8433557152748108
+
+17) sake_b - 0.8370551564064543
+
+18) wish_b - 0.8345654109379419
+
+19) month_b - 0.8134266026870386
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9810655139606579
+
+1) man_b - 0.9810655139606579
+
+2) lady_b - 0.9373301267623968
+
+3) thing_b - 0.8852236270904604
+
+4) mother_b - 0.8811105631458088
+
+5) attachment_b - 0.8551145368677929
+
+6) subject_b - 0.8548184719789954
+
+7) sister_b - 0.8546321646759654
+
+8) letter_b - 0.8509070366080397
+
+9) house_b - 0.8491622479267884
+
+10) father_b - 0.8434445951316016
+
+11) time_b - 0.8321837982912305
+
+12) sense_b - 0.829321990649583
+
+13) fortune_b - 0.8190319538116513
+
+14) knowledge_b - 0.8167699684637818
+
+15) nothing_b - 0.8165481309237325
+
+16) day_b - 0.8163402080535946
+
+17) wish_b - 0.8006733297499025
+
+18) sake_b - 0.7890868438378759
+
+19) month_b - 0.7872949838638361
+
+Result for the vector: letter, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9784592072778271
+
+1) letter_b - 0.9784592072778271
+
+2) thing_b - 0.9054187693325836
+
+3) subject_b - 0.90043874684919
+
+4) attachment_b - 0.896742787860129
+
+5) lady_b - 0.8944087169183372
+
+6) knowledge_b - 0.886491258724746
+
+7) mother_b - 0.8740540407316197
+
+8) house_b - 0.8728611805182533
+
+9) day_b - 0.8658493259324623
+
+10) time_b - 0.8653932471690645
+
+11) sister_b - 0.8641467447543284
+
+12) wish_b - 0.8624578375356841
+
+13) nothing_b - 0.857799734407665
+
+14) sense_b - 0.8568767479249942
+
+15) man_b - 0.8541822091991462
+
+16) fortune_b - 0.8305041835463324
+
+17) father_b - 0.8257942938024697
+
+18) sake_b - 0.8227437979800732
+
+19) month_b - 0.8096320047426234
+
+Result for the vector: lady, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9709830862869689
+
+1) lady_b - 0.9709830862869689
+
+2) man_b - 0.9372451938840648
+
+3) mother_b - 0.9032995162427729
+
+4) sister_b - 0.8909187517391555
+
+5) house_b - 0.8663915555010433
+
+6) father_b - 0.8639479875564575
+
+7) subject_b - 0.8538505434989929
+
+8) thing_b - 0.8520638258495242
+
+9) letter_b - 0.8511779308319092
+
+10) attachment_b - 0.8501753300323901
+
+11) time_b - 0.8424233888135335
+
+12) day_b - 0.8373495243400066
+
+13) month_b - 0.8373151920625697
+
+14) nothing_b - 0.8298029404996088
+
+15) sense_b - 0.8286205530166626
+
+16) knowledge_b - 0.8264192342758179
+
+17) fortune_b - 0.8110790140079879
+
+18) wish_b - 0.8082586641157484
+
+19) sake_b - 0.8070939894262573
+
+Result for the vector: subject, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9703183191824979
+
+1) subject_b - 0.9703183191824979
+
+2) thing_b - 0.910943984985358
+
+3) attachment_b - 0.9046871775761631
+
+4) letter_b - 0.8989529669908917
+
+5) lady_b - 0.8866856098175112
+
+6) time_b - 0.8787934328563889
+
+7) knowledge_b - 0.8780969453992296
+
+8) house_b - 0.8749791011251642
+
+9) day_b - 0.8614699840545715
+
+10) sense_b - 0.8557723846571231
+
+11) mother_b - 0.8530557330780347
+
+12) sister_b - 0.8489759817414373
+
+13) man_b - 0.8483567418626855
+
+14) nothing_b - 0.8433324285349335
+
+15) wish_b - 0.8378656103771197
+
+16) fortune_b - 0.8291354179382383
+
+17) sake_b - 0.8243527025755999
+
+18) father_b - 0.8226396547174674
+
+19) month_b - 0.7987312078476009
+
+Result for the vector: wish, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.96895748376847
+
+1) wish_b - 0.96895748376847
+
+2) attachment_b - 0.915892362594611
+
+3) sense_b - 0.9147722670300182
+
+4) sister_b - 0.9061998883187609
+
+5) mother_b - 0.9034548997879093
+
+6) knowledge_b - 0.9000213086617789
+
+7) thing_b - 0.899500775277707
+
+8) fortune_b - 0.8938213460232431
+
+9) sake_b - 0.8926336169242922
+
+10) nothing_b - 0.8920879364013735
+
+11) letter_b - 0.8877836398949425
+
+12) time_b - 0.8808092474937501
+
+13) lady_b - 0.8747629970029589
+
+14) subject_b - 0.8724589867865451
+
+15) father_b - 0.8719902558320929
+
+16) house_b - 0.8642624101482523
+
+17) man_b - 0.8559079170227112
+
+18) day_b - 0.8369493290125524
+
+19) month_b - 0.8114213718678203
+
+Result for the vector: month, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9446141935310061
+
+1) month_b - 0.9446141935310061
+
+2) day_b - 0.9098531171460629
+
+3) time_b - 0.8548342244277758
+
+4) nothing_b - 0.8225744015745732
+
+5) lady_b - 0.8150416038992414
+
+6) letter_b - 0.8145194185840596
+
+7) thing_b - 0.7972361441308479
+
+8) house_b - 0.7968880892727522
+
+9) attachment_b - 0.7831315035561263
+
+10) mother_b - 0.7825808758312812
+
+11) wish_b - 0.7819664711346257
+
+12) sake_b - 0.7796659701963145
+
+13) sister_b - 0.7773608167220623
+
+14) subject_b - 0.7765933373504912
+
+15) man_b - 0.776168488745951
+
+16) sense_b - 0.7733172869667997
+
+17) knowledge_b - 0.7721448634992448
+
+18) fortune_b - 0.7568690712554862
+
+19) father_b - 0.7448952267970377
+
+Result for the vector: fortune, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.948807057667201
+
+1) fortune_b - 0.948807057667201
+
+2) attachment_b - 0.9033926186923628
+
+3) sense_b - 0.9006644487380981
+
+4) sake_b - 0.8985056937631567
+
+5) mother_b - 0.8957982125402578
+
+6) house_b - 0.8867298499667886
+
+7) sister_b - 0.885865350293999
+
+8) thing_b - 0.8857946327802336
+
+9) knowledge_b - 0.8849853873252869
+
+10) time_b - 0.8801107478075789
+
+11) father_b - 0.8771136403083801
+
+12) letter_b - 0.8769784569740295
+
+13) lady_b - 0.8715260548309136
+
+14) wish_b - 0.8708155828228261
+
+15) nothing_b - 0.8622177325357373
+
+16) subject_b - 0.8604761958122253
+
+17) man_b - 0.8515491574079316
+
+18) day_b - 0.8299185532282936
+
+19) month_b - 0.8028075577502002
+
+Result for the vector: attachment, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9650517126887033
+
+1) attachment_b - 0.9650517126887033
+
+2) sense_b - 0.91417396068573
+
+3) knowledge_b - 0.907295286655426
+
+4) fortune_b - 0.8987654387215057
+
+5) mother_b - 0.8928814594220261
+
+6) thing_b - 0.8924840624620968
+
+7) sister_b - 0.884797771405978
+
+8) letter_b - 0.884750485420227
+
+9) subject_b - 0.8782052397727966
+
+10) sake_b - 0.8761199786591558
+
+11) wish_b - 0.8750820830415453
+
+12) lady_b - 0.8740219398750046
+
+13) father_b - 0.8683719635009766
+
+14) time_b - 0.8619328223506929
+
+15) nothing_b - 0.8608967744769603
+
+16) house_b - 0.8576086333264611
+
+17) man_b - 0.8516613929473539
+
+18) day_b - 0.818247843876354
+
+19) month_b - 0.793754505738886
+
+Result for the vector: sake, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9568613844761774
+
+1) sake_b - 0.9568613844761774
+
+2) wish_b - 0.8782638529067318
+
+3) sister_b - 0.877518448903626
+
+4) nothing_b - 0.8746096716029055
+
+5) mother_b - 0.8724732030976067
+
+6) time_b - 0.8702522748257638
+
+7) attachment_b - 0.8698539966605923
+
+8) sense_b - 0.8683961786751596
+
+9) knowledge_b - 0.8618635103865314
+
+10) lady_b - 0.8557222571538671
+
+11) house_b - 0.8548728573625428
+
+12) thing_b - 0.8532475916595839
+
+13) letter_b - 0.852787869836352
+
+14) fortune_b - 0.8503956287863612
+
+15) father_b - 0.8392923665890316
+
+16) subject_b - 0.829816898129362
+
+17) day_b - 0.8188383091188616
+
+18) man_b - 0.8133107161562368
+
+19) month_b - 0.7920269494040765
+
+Result for the vector: sense, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9621970917758764
+
+1) sense_b - 0.9621970917758764
+
+2) knowledge_b - 0.9181740508831225
+
+3) attachment_b - 0.9138083730282996
+
+4) thing_b - 0.903605118931103
+
+5) fortune_b - 0.8962150955520717
+
+6) wish_b - 0.8877730038098495
+
+7) mother_b - 0.8820306325564075
+
+8) sister_b - 0.8782498618811122
+
+9) letter_b - 0.8762474247438429
+
+10) nothing_b - 0.874265696831525
+
+11) sake_b - 0.8741300962606198
+
+12) time_b - 0.8697195312297301
+
+13) lady_b - 0.8629255388566168
+
+14) subject_b - 0.8584962062683325
+
+15) man_b - 0.8525612012315249
+
+16) house_b - 0.8491445526735802
+
+17) father_b - 0.8489982052741865
+
+18) day_b - 0.8098491444958965
+
+19) month_b - 0.7864133099337387
+
+Result for the vector: father, coming from part a of the book
+Rank: 3 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9496471568836918
+
+1) mother_b - 0.9670942137511348
+
+2) sister_b - 0.9525095167767442
+
+3) father_b - 0.9496471568836918
+
+4) lady_b - 0.8903272947961658
+
+5) sake_b - 0.8822594618123966
+
+6) fortune_b - 0.8747809119326695
+
+7) man_b - 0.8708567359788233
+
+8) attachment_b - 0.8703632095347913
+
+9) sense_b - 0.8581415074509835
+
+10) house_b - 0.8574830123052383
+
+11) wish_b - 0.853048001138929
+
+12) knowledge_b - 0.8444357169996419
+
+13) letter_b - 0.8406212580389163
+
+14) subject_b - 0.833067203553534
+
+15) time_b - 0.8322304239204433
+
+16) thing_b - 0.8311832694277114
+
+17) nothing_b - 0.8272778741336535
+
+18) day_b - 0.8014602781647696
+
+19) month_b - 0.7805871469307378
+
+Result for the vector: knowledge, coming from part a of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9414930413373727
+
+1) knowledge_b - 0.9414930413373727
+
+2) sense_b - 0.9344099242198624
+
+3) attachment_b - 0.9156438859145861
+
+4) thing_b - 0.8822205136883093
+
+5) wish_b - 0.8779729822922396
+
+6) letter_b - 0.8767291454399713
+
+7) mother_b - 0.8759706242137046
+
+8) sister_b - 0.8698763588107906
+
+9) fortune_b - 0.8669425328408301
+
+10) sake_b - 0.8564594644678611
+
+11) time_b - 0.8530295157975839
+
+12) house_b - 0.853029226534551
+
+13) subject_b - 0.8502750575214616
+
+14) lady_b - 0.8496798366499181
+
+15) nothing_b - 0.8456102885704732
+
+16) father_b - 0.8418146560413116
+
+17) man_b - 0.8281892249245852
+
+18) day_b - 0.7924355392196579
+
+19) month_b - 0.7647451898607621
+
+Result for the vector: sister, coming from part b of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9830473934184606
+
+1) sister_a - 0.9830473934184606
+
+2) mother_a - 0.9698552742384787
+
+3) father_a - 0.9525095167767442
+
+4) wish_a - 0.9061998883187609
+
+5) lady_a - 0.8909187517391555
+
+6) fortune_a - 0.885865350293999
+
+7) attachment_a - 0.884797771405978
+
+8) sense_a - 0.8782498618811122
+
+9) sake_a - 0.877518448903626
+
+10) house_a - 0.87657101838926
+
+11) knowledge_a - 0.8698763588107906
+
+12) letter_a - 0.8641467447543284
+
+13) thing_a - 0.8550666825493276
+
+14) man_a - 0.8546321646759654
+
+15) nothing_a - 0.8521561192413709
+
+16) subject_a - 0.8489759817414373
+
+17) time_a - 0.8475646720062479
+
+18) day_a - 0.8215653438775582
+
+19) month_a - 0.7773608167220623
+
+Result for the vector: mother, coming from part b of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9837648868560861
+
+1) mother_a - 0.9837648868560861
+
+2) sister_a - 0.9805411100387643
+
+3) father_a - 0.9670942137511348
+
+4) wish_a - 0.9034548997879093
+
+5) lady_a - 0.9032995162427729
+
+6) fortune_a - 0.8957982125402578
+
+7) attachment_a - 0.8928814594220261
+
+8) house_a - 0.8854860135623225
+
+9) sense_a - 0.8820306325564075
+
+10) man_a - 0.8811105631458088
+
+11) knowledge_a - 0.8759706242137046
+
+12) letter_a - 0.8740540407316197
+
+13) sake_a - 0.8724732030976067
+
+14) thing_a - 0.8608463572446874
+
+15) subject_a - 0.8530557330780347
+
+16) nothing_a - 0.8458821269344031
+
+17) time_a - 0.8453900494474099
+
+18) day_a - 0.8234271512373015
+
+19) month_a - 0.7825808758312812
+
+Result for the vector: time, coming from part b of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9845831421763064
+
+1) time_a - 0.9845831421763064
+
+2) day_a - 0.9177748609915475
+
+3) thing_a - 0.911426137515767
+
+4) house_a - 0.8896790808630554
+
+5) wish_a - 0.8808092474937501
+
+6) fortune_a - 0.8801107478075789
+
+7) subject_a - 0.8787934328563889
+
+8) sister_a - 0.8706425428390565
+
+9) sake_a - 0.8702522748257638
+
+10) sense_a - 0.8697195312297301
+
+11) nothing_a - 0.8677451093348811
+
+12) letter_a - 0.8653932471690645
+
+13) attachment_a - 0.8619328223506929
+
+14) month_a - 0.8548342244277758
+
+15) knowledge_a - 0.8530295157975839
+
+16) lady_a - 0.8424233888135335
+
+17) mother_a - 0.8412306308746398
+
+18) father_a - 0.8322304239204433
+
+19) man_a - 0.8321837982912305
+
+Result for the vector: thing, coming from part b of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9873808622360299
+
+1) thing_a - 0.9873808622360299
+
+2) subject_a - 0.910943984985358
+
+3) day_a - 0.9071558658573564
+
+4) letter_a - 0.9054187693325836
+
+5) sense_a - 0.903605118931103
+
+6) wish_a - 0.899500775277707
+
+7) time_a - 0.8964132728330474
+
+8) attachment_a - 0.8924840624620968
+
+9) fortune_a - 0.8857946327802336
+
+10) man_a - 0.8852236270904604
+
+11) knowledge_a - 0.8822205136883093
+
+12) house_a - 0.8787153886983046
+
+13) nothing_a - 0.8753235265805455
+
+14) sister_a - 0.8734777418944528
+
+15) sake_a - 0.8532475916595839
+
+16) lady_a - 0.8520638258495242
+
+17) mother_a - 0.8382717178191802
+
+18) father_a - 0.8311832694277114
+
+19) month_a - 0.7972361441308479
+
+Result for the vector: day, coming from part b of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9819807995546358
+
+1) day_a - 0.9819807995546358
+
+2) time_a - 0.9196935343925186
+
+3) month_a - 0.9098531171460629
+
+4) thing_a - 0.9003753066062992
+
+5) house_a - 0.8696511310131048
+
+6) letter_a - 0.8658493259324623
+
+7) subject_a - 0.8614699840545715
+
+8) sister_a - 0.8391367005272746
+
+9) lady_a - 0.8373495243400066
+
+10) wish_a - 0.8369493290125524
+
+11) nothing_a - 0.8355204364967621
+
+12) fortune_a - 0.8299185532282936
+
+13) sake_a - 0.8188383091188616
+
+14) attachment_a - 0.818247843876354
+
+15) man_a - 0.8163402080535946
+
+16) mother_a - 0.810076214084174
+
+17) sense_a - 0.8098491444958965
+
+18) father_a - 0.8014602781647696
+
+19) knowledge_a - 0.7924355392196579
+
+Result for the vector: nothing, coming from part b of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9815614830516902
+
+1) nothing_a - 0.9815614830516902
+
+2) wish_a - 0.8920879364013735
+
+3) thing_a - 0.8876888885868921
+
+4) sake_a - 0.8746096716029055
+
+5) sense_a - 0.874265696831525
+
+6) sister_a - 0.8736566305160585
+
+7) time_a - 0.867632829970213
+
+8) fortune_a - 0.8622177325357373
+
+9) attachment_a - 0.8608967744769603
+
+10) letter_a - 0.857799734407665
+
+11) house_a - 0.8489182085443626
+
+12) knowledge_a - 0.8456102885704732
+
+13) subject_a - 0.8433324285349335
+
+14) mother_a - 0.8424628376960814
+
+15) day_a - 0.8343291977447764
+
+16) lady_a - 0.8298029404996088
+
+17) father_a - 0.8272778741336535
+
+18) month_a - 0.8225744015745732
+
+19) man_a - 0.8165481309237325
+
+Result for the vector: house, coming from part b of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9809286617125745
+
+1) house_a - 0.9809286617125745
+
+2) sister_a - 0.888948625984884
+
+3) time_a - 0.8870092899777198
+
+4) fortune_a - 0.8867298499667886
+
+5) thing_a - 0.8803047751835407
+
+6) subject_a - 0.8749791011251642
+
+7) letter_a - 0.8728611805182533
+
+8) mother_a - 0.869226284669277
+
+9) day_a - 0.8664855520146488
+
+10) lady_a - 0.8663915555010433
+
+11) wish_a - 0.8642624101482523
+
+12) attachment_a - 0.8576086333264611
+
+13) father_a - 0.8574830123052383
+
+14) sake_a - 0.8548728573625428
+
+15) knowledge_a - 0.853029226534551
+
+16) man_a - 0.8491622479267884
+
+17) sense_a - 0.8491445526735802
+
+18) nothing_a - 0.844649452608895
+
+19) month_a - 0.7968880892727522
+
+Result for the vector: man, coming from part b of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9810655139606579
+
+1) man_a - 0.9810655139606579
+
+2) lady_a - 0.9372451938840648
+
+3) sister_a - 0.8935543894767825
+
+4) thing_a - 0.8857821362278299
+
+5) mother_a - 0.879580616950995
+
+6) house_a - 0.8711220102833519
+
+7) father_a - 0.8708567359788233
+
+8) wish_a - 0.8559079170227112
+
+9) letter_a - 0.8541822091991462
+
+10) sense_a - 0.8525612012315249
+
+11) attachment_a - 0.8516613929473539
+
+12) fortune_a - 0.8515491574079316
+
+13) subject_a - 0.8483567418626855
+
+14) time_a - 0.8385293772466119
+
+15) nothing_a - 0.8322943548980755
+
+16) day_a - 0.8299146992019013
+
+17) knowledge_a - 0.8281892249245852
+
+18) sake_a - 0.8133107161562368
+
+19) month_a - 0.776168488745951
+
+Result for the vector: letter, coming from part b of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9784592072778271
+
+1) letter_a - 0.9784592072778271
+
+2) thing_a - 0.9077729041711762
+
+3) subject_a - 0.8989529669908917
+
+4) wish_a - 0.8877836398949425
+
+5) attachment_a - 0.884750485420227
+
+6) house_a - 0.8835744857788086
+
+7) sister_a - 0.8794221210135309
+
+8) fortune_a - 0.8769784569740295
+
+9) knowledge_a - 0.8767291454399713
+
+10) sense_a - 0.8762474247438429
+
+11) time_a - 0.8743300587737552
+
+12) day_a - 0.8717635273933411
+
+13) nothing_a - 0.8605674505233765
+
+14) sake_a - 0.852787869836352
+
+15) mother_a - 0.8525317223388998
+
+16) lady_a - 0.8511779308319092
+
+17) man_a - 0.8509070366080397
+
+18) father_a - 0.8406212580389163
+
+19) month_a - 0.8145194185840596
+
+Result for the vector: lady, coming from part b of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9709830862869689
+
+1) lady_a - 0.9709830862869689
+
+2) man_a - 0.9373301267623968
+
+3) sister_a - 0.9243931680194339
+
+4) mother_a - 0.917899121987715
+
+5) house_a - 0.9044687094967804
+
+6) letter_a - 0.8944087169183372
+
+7) thing_a - 0.894088685512549
+
+8) father_a - 0.8903272947961658
+
+9) subject_a - 0.8866856098175112
+
+10) wish_a - 0.8747629970029589
+
+11) attachment_a - 0.8740219398750046
+
+12) fortune_a - 0.8715260548309136
+
+13) time_a - 0.8651525458602718
+
+14) day_a - 0.8647266545728851
+
+15) sense_a - 0.8629255388566168
+
+16) nothing_a - 0.8607014930666398
+
+17) sake_a - 0.8557222571538671
+
+18) knowledge_a - 0.8496798366499181
+
+19) month_a - 0.8150416038992414
+
+Result for the vector: subject, coming from part b of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9703183191824979
+
+1) subject_a - 0.9703183191824979
+
+2) thing_a - 0.9124141983739036
+
+3) house_a - 0.909774124622345
+
+4) letter_a - 0.90043874684919
+
+5) time_a - 0.8929535874183733
+
+6) day_a - 0.8905707597732544
+
+7) sister_a - 0.8805006075203796
+
+8) attachment_a - 0.8782052397727966
+
+9) wish_a - 0.8724589867865451
+
+10) fortune_a - 0.8604761958122253
+
+11) sense_a - 0.8584962062683325
+
+12) man_a - 0.8548184719789954
+
+13) lady_a - 0.8538505434989929
+
+14) knowledge_a - 0.8502750575214616
+
+15) nothing_a - 0.8473188877105713
+
+16) mother_a - 0.8414493108659586
+
+17) father_a - 0.833067203553534
+
+18) sake_a - 0.829816898129362
+
+19) month_a - 0.7765933373504912
+
+Result for the vector: wish, coming from part b of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.96895748376847
+
+1) wish_a - 0.96895748376847
+
+2) sense_a - 0.8877730038098495
+
+3) sake_a - 0.8782638529067318
+
+4) knowledge_a - 0.8779729822922396
+
+5) attachment_a - 0.8750820830415453
+
+6) sister_a - 0.8727422356605592
+
+7) fortune_a - 0.8708155828228261
+
+8) thing_a - 0.8707280313100777
+
+9) letter_a - 0.8624578375356841
+
+10) nothing_a - 0.8543685761470466
+
+11) father_a - 0.853048001138929
+
+12) mother_a - 0.8503222465515197
+
+13) time_a - 0.8385182907846661
+
+14) subject_a - 0.8378656103771197
+
+15) house_a - 0.8345654109379419
+
+16) day_a - 0.8197747576370994
+
+17) lady_a - 0.8082586641157484
+
+18) man_a - 0.8006733297499025
+
+19) month_a - 0.7819664711346257
+
+Result for the vector: month, coming from part b of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9446141935310061
+
+1) month_a - 0.9446141935310061
+
+2) day_a - 0.8949511584610453
+
+3) time_a - 0.870527453987168
+
+4) lady_a - 0.8373151920625697
+
+5) thing_a - 0.8371477127075255
+
+6) nothing_a - 0.8237760557994891
+
+7) sister_a - 0.8201464796240902
+
+8) house_a - 0.8134266026870386
+
+9) wish_a - 0.8114213718678203
+
+10) letter_a - 0.8096320047426234
+
+11) fortune_a - 0.8028075577502002
+
+12) mother_a - 0.8022652628738002
+
+13) subject_a - 0.7987312078476009
+
+14) attachment_a - 0.793754505738886
+
+15) sake_a - 0.7920269494040765
+
+16) man_a - 0.7872949838638361
+
+17) sense_a - 0.7864133099337387
+
+18) father_a - 0.7805871469307378
+
+19) knowledge_a - 0.7647451898607621
+
+Result for the vector: fortune, coming from part b of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.948807057667201
+
+1) fortune_a - 0.948807057667201
+
+2) sister_a - 0.9148501056254036
+
+3) attachment_a - 0.8987654387215057
+
+4) sense_a - 0.8962150955520717
+
+5) wish_a - 0.8938213460232431
+
+6) mother_a - 0.8784956191176914
+
+7) father_a - 0.8747809119326695
+
+8) house_a - 0.8716339392443875
+
+9) knowledge_a - 0.8669425328408301
+
+10) thing_a - 0.8596967458725037
+
+11) nothing_a - 0.8552002224445491
+
+12) time_a - 0.8504608362638588
+
+13) sake_a - 0.8503956287863612
+
+14) letter_a - 0.8305041835463324
+
+15) subject_a - 0.8291354179382383
+
+16) man_a - 0.8190319538116513
+
+17) lady_a - 0.8110790140079879
+
+18) day_a - 0.7967501757592081
+
+19) month_a - 0.7568690712554862
+
+Result for the vector: attachment, coming from part b of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9650517126887033
+
+1) attachment_a - 0.9650517126887033
+
+2) thing_a - 0.9190220929357895
+
+3) wish_a - 0.915892362594611
+
+4) knowledge_a - 0.9156438859145861
+
+5) sense_a - 0.9138083730282996
+
+6) subject_a - 0.9046871775761631
+
+7) fortune_a - 0.9033926186923628
+
+8) sister_a - 0.9018847942352359
+
+9) letter_a - 0.896742787860129
+
+10) mother_a - 0.8749188184738221
+
+11) time_a - 0.8704802029466282
+
+12) father_a - 0.8703632095347913
+
+13) sake_a - 0.8698539966605923
+
+14) house_a - 0.8687880117423543
+
+15) nothing_a - 0.8602171623577394
+
+16) man_a - 0.8551145368677929
+
+17) day_a - 0.8519561378982
+
+18) lady_a - 0.8501753300323901
+
+19) month_a - 0.7831315035561263
+
+Result for the vector: sake, coming from part b of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9568613844761774
+
+1) sake_a - 0.9568613844761774
+
+2) sister_a - 0.9108942747116153
+
+3) fortune_a - 0.8985056937631567
+
+4) wish_a - 0.8926336169242922
+
+5) father_a - 0.8822594618123966
+
+6) mother_a - 0.8782740831375184
+
+7) attachment_a - 0.8761199786591558
+
+8) sense_a - 0.8741300962606198
+
+9) knowledge_a - 0.8564594644678611
+
+10) time_a - 0.8546444437543568
+
+11) thing_a - 0.8438383526994762
+
+12) nothing_a - 0.8431966994287565
+
+13) house_a - 0.8370551564064543
+
+14) subject_a - 0.8243527025755999
+
+15) letter_a - 0.8227437979800732
+
+16) lady_a - 0.8070939894262573
+
+17) day_a - 0.799464178117266
+
+18) man_a - 0.7890868438378759
+
+19) month_a - 0.7796659701963145
+
+Result for the vector: sense, coming from part b of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9621970917758764
+
+1) sense_a - 0.9621970917758764
+
+2) knowledge_a - 0.9344099242198624
+
+3) wish_a - 0.9147722670300182
+
+4) attachment_a - 0.91417396068573
+
+5) fortune_a - 0.9006644487380981
+
+6) sister_a - 0.8866085342531539
+
+7) thing_a - 0.8857718178169852
+
+8) sake_a - 0.8683961786751596
+
+9) mother_a - 0.8666510502488063
+
+10) nothing_a - 0.8620450496673584
+
+11) father_a - 0.8581415074509835
+
+12) letter_a - 0.8568767479249942
+
+13) subject_a - 0.8557723846571231
+
+14) time_a - 0.8553754263668805
+
+15) house_a - 0.8433557152748108
+
+16) man_a - 0.829321990649583
+
+17) lady_a - 0.8286205530166626
+
+18) day_a - 0.8079007863998413
+
+19) month_a - 0.7733172869667997
+
+Result for the vector: father, coming from part b of the book
+Rank: 2 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9496471568836918
+
+1) sister_a - 0.962474165110242
+
+2) father_a - 0.9496471568836918
+
+3) mother_a - 0.9494004815459556
+
+4) fortune_a - 0.8771136403083801
+
+5) wish_a - 0.8719902558320929
+
+6) attachment_a - 0.8683719635009766
+
+7) lady_a - 0.8639479875564575
+
+8) house_a - 0.8608337044715881
+
+9) sense_a - 0.8489982052741865
+
+10) man_a - 0.8434445951316016
+
+11) knowledge_a - 0.8418146560413116
+
+12) sake_a - 0.8392923665890316
+
+13) time_a - 0.8364217476342085
+
+14) thing_a - 0.8302938443247188
+
+15) letter_a - 0.8257942938024697
+
+16) subject_a - 0.8226396547174674
+
+17) nothing_a - 0.8184103965759277
+
+18) day_a - 0.8001843690872192
+
+19) month_a - 0.7448952267970377
+
+Result for the vector: knowledge, coming from part b of the book
+Rank: 1 out of 19 characters
+Cosine similarity to the co-referring vector: 0.9414930413373727
+
+1) knowledge_a - 0.9414930413373727
+
+2) sense_a - 0.9181740508831225
+
+3) attachment_a - 0.907295286655426
+
+4) wish_a - 0.9000213086617789
+
+5) letter_a - 0.886491258724746
+
+6) fortune_a - 0.8849853873252869
+
+7) thing_a - 0.8844082424397339
+
+8) sister_a - 0.8789357470831736
+
+9) subject_a - 0.8780969453992296
+
+10) sake_a - 0.8618635103865314
+
+11) time_a - 0.8595314789376941
+
+12) mother_a - 0.8498767524884211
+
+13) nothing_a - 0.8470771312713623
+
+14) house_a - 0.8460000157356262
+
+15) father_a - 0.8444357169996419
+
+16) day_a - 0.8284246325492859
+
+17) lady_a - 0.8264192342758179
+
+18) man_a - 0.8167699684637818
+
+19) month_a - 0.7721448634992448
+

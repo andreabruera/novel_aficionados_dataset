@@ -1,0 +1,396 @@
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9797523617744516
+
+1) man_b - 0.9797523617744516
+
+2) woman_b - 0.9644994714557826
+
+3) thing_b - 0.9206758737564152
+
+4) life_b - 0.8886512981237529
+
+5) face_b - 0.8804060745481312
+
+6) time_b - 0.863978429314903
+
+7) something_b - 0.8507225424481969
+
+8) eye_b - 0.8414671421051085
+
+9) hand_b - 0.8070680865130527
+
+Result for the vector: life, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9714993868471199
+
+1) life_b - 0.9714993868471199
+
+2) thing_b - 0.9378515630122339
+
+3) face_b - 0.9184870269619921
+
+4) eye_b - 0.8907792828609332
+
+5) man_b - 0.8904279731683858
+
+6) time_b - 0.8879858388917891
+
+7) something_b - 0.8677421448691963
+
+8) woman_b - 0.8529773617427434
+
+9) hand_b - 0.836405177544954
+
+Result for the vector: thing, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9705763511819229
+
+1) thing_b - 0.9705763511819229
+
+2) life_b - 0.9228094266170752
+
+3) something_b - 0.908027302261919
+
+4) man_b - 0.9011570988016564
+
+5) face_b - 0.8874849215167917
+
+6) time_b - 0.8870657153686596
+
+7) woman_b - 0.8866700665152056
+
+8) eye_b - 0.8608538757227897
+
+9) hand_b - 0.8187192190456987
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9675139188766548
+
+1) time_b - 0.9675139188766548
+
+2) thing_b - 0.9057806246542186
+
+3) life_b - 0.8780375719070497
+
+4) man_b - 0.8727381381108597
+
+5) face_b - 0.8657573541547461
+
+6) woman_b - 0.8570993627846636
+
+7) something_b - 0.8476615638934649
+
+8) eye_b - 0.8443739003689408
+
+9) hand_b - 0.8066272735595761
+
+Result for the vector: eye, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9763834781532482
+
+1) eye_b - 0.9763834781532482
+
+2) face_b - 0.9320985952645126
+
+3) hand_b - 0.9142255408369492
+
+4) life_b - 0.8656081139094935
+
+5) thing_b - 0.8613087874260941
+
+6) man_b - 0.8268244616143599
+
+7) time_b - 0.8256019495965797
+
+8) woman_b - 0.8139872197505007
+
+9) something_b - 0.8127600792872933
+
+Result for the vector: hand, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9804067611694406
+
+1) hand_b - 0.9804067611694406
+
+2) face_b - 0.9271263523622558
+
+3) eye_b - 0.9233747812062763
+
+4) thing_b - 0.8742531091865171
+
+5) life_b - 0.8646593689918579
+
+6) man_b - 0.8505859553115421
+
+7) time_b - 0.84226685762406
+
+8) woman_b - 0.8308049541232032
+
+9) something_b - 0.8226648078760633
+
+Result for the vector: something, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9839385151863098
+
+1) something_b - 0.9839385151863098
+
+2) thing_b - 0.9203239130780765
+
+3) life_b - 0.8893213802171592
+
+4) time_b - 0.872030429365066
+
+5) face_b - 0.8669726848602295
+
+6) man_b - 0.8658211907254956
+
+7) eye_b - 0.8458101245278061
+
+8) woman_b - 0.842600405216217
+
+9) hand_b - 0.7981598256921678
+
+Result for the vector: face, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9823421846424248
+
+1) face_b - 0.9823421846424248
+
+2) eye_b - 0.9549711996351242
+
+3) hand_b - 0.9275303483009404
+
+4) life_b - 0.9153406023979253
+
+5) thing_b - 0.9116851792710806
+
+6) man_b - 0.8788957740192682
+
+7) woman_b - 0.8606765353276425
+
+8) time_b - 0.8575396537780823
+
+9) something_b - 0.8482541532365008
+
+Result for the vector: woman, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9766161469678774
+
+1) woman_b - 0.9766161469678774
+
+2) man_b - 0.9590192510451243
+
+3) thing_b - 0.9323521377410658
+
+4) life_b - 0.888146943560439
+
+5) face_b - 0.8817532203491726
+
+6) time_b - 0.8726195768940841
+
+7) something_b - 0.8645568651489242
+
+8) eye_b - 0.8566993731201831
+
+9) hand_b - 0.8170051087734169
+
+Result for the vector: man, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9797523617744516
+
+1) man_a - 0.9797523617744516
+
+2) woman_a - 0.9590192510451243
+
+3) thing_a - 0.9011570988016564
+
+4) life_a - 0.8904279731683858
+
+5) face_a - 0.8788957740192682
+
+6) time_a - 0.8727381381108597
+
+7) something_a - 0.8658211907254956
+
+8) hand_a - 0.8505859553115421
+
+9) eye_a - 0.8268244616143599
+
+Result for the vector: life, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9714993868471199
+
+1) life_a - 0.9714993868471199
+
+2) thing_a - 0.9228094266170752
+
+3) face_a - 0.9153406023979253
+
+4) something_a - 0.8893213802171592
+
+5) man_a - 0.8886512981237529
+
+6) woman_a - 0.888146943560439
+
+7) time_a - 0.8780375719070497
+
+8) eye_a - 0.8656081139094935
+
+9) hand_a - 0.8646593689918579
+
+Result for the vector: thing, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9705763511819229
+
+1) thing_a - 0.9705763511819229
+
+2) life_a - 0.9378515630122339
+
+3) woman_a - 0.9323521377410658
+
+4) man_a - 0.9206758737564152
+
+5) something_a - 0.9203239130780765
+
+6) face_a - 0.9116851792710806
+
+7) time_a - 0.9057806246542186
+
+8) hand_a - 0.8742531091865171
+
+9) eye_a - 0.8613087874260941
+
+Result for the vector: time, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9675139188766548
+
+1) time_a - 0.9675139188766548
+
+2) life_a - 0.8879858388917891
+
+3) thing_a - 0.8870657153686596
+
+4) woman_a - 0.8726195768940841
+
+5) something_a - 0.872030429365066
+
+6) man_a - 0.863978429314903
+
+7) face_a - 0.8575396537780823
+
+8) hand_a - 0.84226685762406
+
+9) eye_a - 0.8256019495965797
+
+Result for the vector: eye, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9763834781532482
+
+1) eye_a - 0.9763834781532482
+
+2) face_a - 0.9549711996351242
+
+3) hand_a - 0.9233747812062763
+
+4) life_a - 0.8907792828609332
+
+5) thing_a - 0.8608538757227897
+
+6) woman_a - 0.8566993731201831
+
+7) something_a - 0.8458101245278061
+
+8) time_a - 0.8443739003689408
+
+9) man_a - 0.8414671421051085
+
+Result for the vector: hand, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9804067611694406
+
+1) hand_a - 0.9804067611694406
+
+2) face_a - 0.9275303483009404
+
+3) eye_a - 0.9142255408369492
+
+4) life_a - 0.836405177544954
+
+5) thing_a - 0.8187192190456987
+
+6) woman_a - 0.8170051087734169
+
+7) man_a - 0.8070680865130527
+
+8) time_a - 0.8066272735595761
+
+9) something_a - 0.7981598256921678
+
+Result for the vector: something, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9839385151863098
+
+1) something_a - 0.9839385151863098
+
+2) thing_a - 0.908027302261919
+
+3) life_a - 0.8677421448691963
+
+4) woman_a - 0.8645568651489242
+
+5) man_a - 0.8507225424481969
+
+6) face_a - 0.8482541532365008
+
+7) time_a - 0.8476615638934649
+
+8) hand_a - 0.8226648078760633
+
+9) eye_a - 0.8127600792872933
+
+Result for the vector: face, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9823421846424248
+
+1) face_a - 0.9823421846424248
+
+2) eye_a - 0.9320985952645126
+
+3) hand_a - 0.9271263523622558
+
+4) life_a - 0.9184870269619921
+
+5) thing_a - 0.8874849215167917
+
+6) woman_a - 0.8817532203491726
+
+7) man_a - 0.8804060745481312
+
+8) something_a - 0.8669726848602295
+
+9) time_a - 0.8657573541547461
+
+Result for the vector: woman, coming from part b of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9766161469678774
+
+1) woman_a - 0.9766161469678774
+
+2) man_a - 0.9644994714557826
+
+3) thing_a - 0.8866700665152056
+
+4) face_a - 0.8606765353276425
+
+5) time_a - 0.8570993627846636
+
+6) life_a - 0.8529773617427434
+
+7) something_a - 0.842600405216217
+
+8) hand_a - 0.8308049541232032
+
+9) eye_a - 0.8139872197505007
+

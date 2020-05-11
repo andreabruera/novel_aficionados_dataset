@@ -1,0 +1,9 @@
+Test: quality test
+Results for: Hard_Times_by_Charles_Dickens_
+Model used: common nouns matched
+
+Within-novel median: 1.5
+Within-novel average: 3.6153846153846154
+Within-novel MRR: 0.622879897879898
+Within-novel standard deviation of the scores: 3.464955578324679
+Amount of entities considered: 13.0

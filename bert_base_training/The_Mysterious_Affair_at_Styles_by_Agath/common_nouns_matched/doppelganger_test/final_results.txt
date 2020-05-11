@@ -1,0 +1,9 @@
+Test: doppelganger test
+Results for: The_Mysterious_Affair_at_Styles_by_Agath
+Model used: common nouns matched
+
+Within-novel median: 1.0
+Within-novel average: 1.0714285714285714
+Within-novel MRR: 0.9642857142857143
+Within-novel standard deviation of the scores: 0.25753937681885636
+Amount of entities considered: 21.0

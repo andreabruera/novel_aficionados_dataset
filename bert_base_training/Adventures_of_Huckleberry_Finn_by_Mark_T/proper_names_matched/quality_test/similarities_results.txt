@@ -1,0 +1,896 @@
+Result for the vector: jim_tom_sawyer, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9260160923004216
+
+1) jim_tom_sawyer_a - 0.9260160923004216
+
+2) miss_watson_a - 0.8992816149760271
+
+3) buck_harkness_a - 0.8947616752840103
+
+4) miss_mary_jane_a - 0.8877428107108377
+
+5) huck_creeps_a - 0.8812012672424379
+
+6) sherburn_a - 0.8745570293898928
+
+7) huck_finn_a - 0.8527198854350907
+
+8) george_jackson_a - 0.8524433198503637
+
+9) thatcher_a - 0.8416022563935686
+
+10) mars_sid_a - 0.8304316896457502
+
+11) boggs_a - 0.8052678472122964
+
+12) dey_a - 0.7883383631706293
+
+13) uncle_silas_a - 0.7799015510023578
+
+14) aunt_sally_a - 0.7603180122754588
+
+Result for the vector: huck_creeps, coming from part i of the book
+Rank: 6 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8509029834924365
+
+1) jim_tom_sawyer_a - 0.9129540376094574
+
+2) buck_harkness_a - 0.8817874193191528
+
+3) miss_watson_a - 0.8770580887794495
+
+4) miss_mary_jane_a - 0.8743452429771423
+
+5) sherburn_a - 0.8545949627096951
+
+6) huck_creeps_a - 0.8509029834924365
+
+7) mars_sid_a - 0.8366596698760986
+
+8) thatcher_a - 0.836387574672699
+
+9) george_jackson_a - 0.8241063251558751
+
+10) huck_finn_a - 0.8161467800227883
+
+11) boggs_a - 0.7836562266144902
+
+12) dey_a - 0.7618740342930549
+
+13) uncle_silas_a - 0.7503077983856201
+
+14) aunt_sally_a - 0.7208083105569084
+
+Result for the vector: miss_mary_jane, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7013795375823975
+
+1) miss_mary_jane_a - 0.7013795375823975
+
+2) miss_watson_a - 0.6732138395309448
+
+3) huck_creeps_a - 0.64830454300019
+
+4) jim_tom_sawyer_a - 0.6379246331498257
+
+5) george_jackson_a - 0.6344322940368838
+
+6) mars_sid_a - 0.627144455909729
+
+7) buck_harkness_a - 0.6172360181808472
+
+8) sherburn_a - 0.6008360923084127
+
+9) boggs_a - 0.5998015761257168
+
+10) uncle_silas_a - 0.5940709114074707
+
+11) huck_finn_a - 0.5887231581642136
+
+12) thatcher_a - 0.5593807101249695
+
+13) dey_a - 0.5514430075023775
+
+14) aunt_sally_a - 0.5405723774774309
+
+Result for the vector: aunt_sally, coming from part i of the book
+Rank: 14 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7199754548058198
+
+1) miss_mary_jane_a - 0.8638678789138794
+
+2) miss_watson_a - 0.8605343699455261
+
+3) jim_tom_sawyer_a - 0.851282665057025
+
+4) huck_creeps_a - 0.8419467304976758
+
+5) buck_harkness_a - 0.8303077816963196
+
+6) george_jackson_a - 0.8140807637024395
+
+7) huck_finn_a - 0.8041790607082299
+
+8) mars_sid_a - 0.7996401786804199
+
+9) sherburn_a - 0.7907024136813684
+
+10) thatcher_a - 0.7743940353393555
+
+11) boggs_a - 0.7547513696403141
+
+12) uncle_silas_a - 0.7425134778022766
+
+13) dey_a - 0.7404791271400986
+
+14) aunt_sally_a - 0.7199754548058198
+
+Result for the vector: miss_watson, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.896469837637555
+
+1) miss_watson_a - 0.896469837637555
+
+2) miss_mary_jane_a - 0.8919068639333941
+
+3) jim_tom_sawyer_a - 0.8739162237744065
+
+4) huck_creeps_a - 0.8660838167567472
+
+5) buck_harkness_a - 0.8518136232010366
+
+6) george_jackson_a - 0.8396115899086058
+
+7) huck_finn_a - 0.8229401111602842
+
+8) sherburn_a - 0.819960618613986
+
+9) thatcher_a - 0.8092283720238002
+
+10) mars_sid_a - 0.7897497540861529
+
+11) uncle_silas_a - 0.7894689566213529
+
+12) dey_a - 0.7738834889073981
+
+13) boggs_a - 0.7624475955963189
+
+14) aunt_sally_a - 0.746078431606298
+
+Result for the vector: uncle_silas, coming from part i of the book
+Rank: 13 out of 14 characters
+Cosine similarity to the co-referring vector: 0.6904957890510559
+
+1) mars_sid_a - 0.8486741185188293
+
+2) miss_mary_jane_a - 0.8430522680282593
+
+3) boggs_a - 0.8323728342278516
+
+4) miss_watson_a - 0.829302191734314
+
+5) jim_tom_sawyer_a - 0.8278120858781302
+
+6) buck_harkness_a - 0.8123161196708679
+
+7) huck_creeps_a - 0.8061090227300526
+
+8) huck_finn_a - 0.7871148459383768
+
+9) george_jackson_a - 0.7816783059643704
+
+10) thatcher_a - 0.7705297470092773
+
+11) sherburn_a - 0.7643105474988147
+
+12) dey_a - 0.717420058404205
+
+13) uncle_silas_a - 0.6904957890510559
+
+14) aunt_sally_a - 0.6732888623052169
+
+Result for the vector: mars_sid, coming from part i of the book
+Rank: 11 out of 14 characters
+Cosine similarity to the co-referring vector: 0.6574120717469478
+
+1) huck_creeps_a - 0.7598212730937847
+
+2) miss_watson_a - 0.747849725122742
+
+3) jim_tom_sawyer_a - 0.7471145764853216
+
+4) buck_harkness_a - 0.7357455115242458
+
+5) miss_mary_jane_a - 0.7296483734145279
+
+6) huck_finn_a - 0.7224866201716623
+
+7) george_jackson_a - 0.7219348599256453
+
+8) sherburn_a - 0.7155964631553261
+
+9) thatcher_a - 0.7096551272170287
+
+10) uncle_silas_a - 0.6754105888429462
+
+11) mars_sid_a - 0.6574120717469478
+
+12) dey_a - 0.6460660503487001
+
+13) aunt_sally_a - 0.6418156601621804
+
+14) boggs_a - 0.6279509628967315
+
+Result for the vector: huck_finn, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7173860073089651
+
+1) huck_finn_a - 0.7173860073089651
+
+2) miss_mary_jane_a - 0.5665385981477152
+
+3) huck_creeps_a - 0.5632950588112999
+
+4) jim_tom_sawyer_a - 0.5608855413334917
+
+5) miss_watson_a - 0.5512879758305573
+
+6) sherburn_a - 0.545397119086901
+
+7) uncle_silas_a - 0.5420289312583855
+
+8) george_jackson_a - 0.538781404495243
+
+9) thatcher_a - 0.5345682779211842
+
+10) buck_harkness_a - 0.5308569949354541
+
+11) aunt_sally_a - 0.5243417024612465
+
+12) dey_a - 0.4737920494327486
+
+13) boggs_a - 0.47234913706779813
+
+14) mars_sid_a - 0.45467087896639913
+
+Result for the vector: george_jackson, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.6341689010959219
+
+1) george_jackson_a - 0.6341689010959219
+
+2) jim_tom_sawyer_a - 0.5949464681776494
+
+3) miss_mary_jane_a - 0.593517541885376
+
+4) miss_watson_a - 0.5883623361587524
+
+5) huck_creeps_a - 0.5823781143201532
+
+6) buck_harkness_a - 0.5781906843185425
+
+7) huck_finn_a - 0.5731585367416474
+
+8) sherburn_a - 0.5730300461974804
+
+9) thatcher_a - 0.5669116973876953
+
+10) boggs_a - 0.5436469044474912
+
+11) uncle_silas_a - 0.5205726623535156
+
+12) mars_sid_a - 0.5170873403549194
+
+13) dey_a - 0.5123250775143467
+
+14) aunt_sally_a - 0.5074495379596682
+
+Result for the vector: sherburn, coming from part i of the book
+Rank: 3 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7637443314867087
+
+1) thatcher_a - 0.7855328577121722
+
+2) jim_tom_sawyer_a - 0.7671020447429352
+
+3) sherburn_a - 0.7637443314867087
+
+4) miss_watson_a - 0.760648279112788
+
+5) huck_creeps_a - 0.7605919073953807
+
+6) miss_mary_jane_a - 0.7513429222890284
+
+7) buck_harkness_a - 0.750400811386017
+
+8) george_jackson_a - 0.7353914537792648
+
+9) huck_finn_a - 0.7302008432030292
+
+10) uncle_silas_a - 0.6856217163060099
+
+11) dey_a - 0.6783893087406214
+
+12) boggs_a - 0.6758160188307859
+
+13) aunt_sally_a - 0.662246426210031
+
+14) mars_sid_a - 0.6238832922120983
+
+Result for the vector: thatcher, coming from part i of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7799748778343201
+
+1) thatcher_a - 0.7799748778343201
+
+2) miss_mary_jane_a - 0.7667559385299683
+
+3) miss_watson_a - 0.7614113092422485
+
+4) jim_tom_sawyer_a - 0.7593589568520227
+
+5) huck_creeps_a - 0.7567857648857985
+
+6) sherburn_a - 0.7522581892244419
+
+7) huck_finn_a - 0.7495076507036491
+
+8) george_jackson_a - 0.7339173992823017
+
+9) buck_harkness_a - 0.7308048605918884
+
+10) uncle_silas_a - 0.7131881713867188
+
+11) aunt_sally_a - 0.6695695322495432
+
+12) dey_a - 0.6687111455970332
+
+13) boggs_a - 0.6590572392378604
+
+14) mars_sid_a - 0.6495063900947571
+
+Result for the vector: dey, coming from part i of the book
+Rank: 2 out of 14 characters
+Cosine similarity to the co-referring vector: 0.5714224747247305
+
+1) huck_creeps_a - 0.5925290165105235
+
+2) dey_a - 0.5714224747247305
+
+3) george_jackson_a - 0.5691149486772642
+
+4) jim_tom_sawyer_a - 0.5635017920584083
+
+5) miss_watson_a - 0.5634699967625757
+
+6) buck_harkness_a - 0.558364560457878
+
+7) huck_finn_a - 0.540267846028186
+
+8) miss_mary_jane_a - 0.5358294727649835
+
+9) sherburn_a - 0.5173560113947412
+
+10) boggs_a - 0.49391852228619515
+
+11) uncle_silas_a - 0.4905663571268063
+
+12) aunt_sally_a - 0.46901095941826115
+
+13) thatcher_a - 0.4677916885428169
+
+14) mars_sid_a - 0.45111678103656777
+
+Result for the vector: boggs, coming from part i of the book
+Rank: 9 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7697496414184625
+
+1) thatcher_a - 0.8473057837900068
+
+2) jim_tom_sawyer_a - 0.8289446438616939
+
+3) sherburn_a - 0.8183598166215456
+
+4) buck_harkness_a - 0.806989502490194
+
+5) miss_mary_jane_a - 0.801035952506308
+
+6) miss_watson_a - 0.7891647941371935
+
+7) huck_creeps_a - 0.781207229947182
+
+8) mars_sid_a - 0.7786017192243518
+
+9) boggs_a - 0.7697496414184625
+
+10) george_jackson_a - 0.7683683037757928
+
+11) huck_finn_a - 0.7572318911552482
+
+12) dey_a - 0.7023425457069223
+
+13) uncle_silas_a - 0.666177054275451
+
+14) aunt_sally_a - 0.6661528348922777
+
+Result for the vector: buck_harkness, coming from part i of the book
+Rank: 2 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8447374105453491
+
+1) jim_tom_sawyer_a - 0.8633382997907236
+
+2) buck_harkness_a - 0.8447374105453491
+
+3) miss_watson_a - 0.8428646326065063
+
+4) miss_mary_jane_a - 0.8335274457931519
+
+5) huck_creeps_a - 0.8276603324615772
+
+6) george_jackson_a - 0.8083147888371237
+
+7) sherburn_a - 0.7948141212595246
+
+8) thatcher_a - 0.7818562984466553
+
+9) huck_finn_a - 0.7758688793104233
+
+10) boggs_a - 0.7754660710970219
+
+11) mars_sid_a - 0.7723760604858398
+
+12) uncle_silas_a - 0.7361781597137451
+
+13) dey_a - 0.7273380322850936
+
+14) aunt_sally_a - 0.6953688678365283
+
+Result for the vector: jim_tom_sawyer, coming from part a of the book
+Rank: 1 out of 14 characters
+Cosine similarity to the co-referring vector: 0.9260160923004216
+
+1) jim_tom_sawyer_wiki - 0.9260160923004216
+
+2) huck_creeps_wiki - 0.9129540376094574
+
+3) miss_watson_wiki - 0.8739162237744065
+
+4) buck_harkness_wiki - 0.8633382997907236
+
+5) aunt_sally_wiki - 0.851282665057025
+
+6) boggs_wiki - 0.8289446438616939
+
+7) uncle_silas_wiki - 0.8278120858781302
+
+8) sherburn_wiki - 0.7671020447429352
+
+9) thatcher_wiki - 0.7593589568520227
+
+10) mars_sid_wiki - 0.7471145764853216
+
+11) miss_mary_jane_wiki - 0.6379246331498257
+
+12) george_jackson_wiki - 0.5949464681776494
+
+13) dey_wiki - 0.5635017920584083
+
+14) huck_finn_wiki - 0.5608855413334917
+
+Result for the vector: huck_creeps, coming from part a of the book
+Rank: 3 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8509029834924365
+
+1) jim_tom_sawyer_wiki - 0.8812012672424379
+
+2) miss_watson_wiki - 0.8660838167567472
+
+3) huck_creeps_wiki - 0.8509029834924365
+
+4) aunt_sally_wiki - 0.8419467304976758
+
+5) buck_harkness_wiki - 0.8276603324615772
+
+6) uncle_silas_wiki - 0.8061090227300526
+
+7) boggs_wiki - 0.781207229947182
+
+8) sherburn_wiki - 0.7605919073953807
+
+9) mars_sid_wiki - 0.7598212730937847
+
+10) thatcher_wiki - 0.7567857648857985
+
+11) miss_mary_jane_wiki - 0.64830454300019
+
+12) dey_wiki - 0.5925290165105235
+
+13) george_jackson_wiki - 0.5823781143201532
+
+14) huck_finn_wiki - 0.5632950588112999
+
+Result for the vector: miss_mary_jane, coming from part a of the book
+Rank: 11 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7013795375823975
+
+1) miss_watson_wiki - 0.8919068639333941
+
+2) jim_tom_sawyer_wiki - 0.8877428107108377
+
+3) huck_creeps_wiki - 0.8743452429771423
+
+4) aunt_sally_wiki - 0.8638678789138794
+
+5) uncle_silas_wiki - 0.8430522680282593
+
+6) buck_harkness_wiki - 0.8335274457931519
+
+7) boggs_wiki - 0.801035952506308
+
+8) thatcher_wiki - 0.7667559385299683
+
+9) sherburn_wiki - 0.7513429222890284
+
+10) mars_sid_wiki - 0.7296483734145279
+
+11) miss_mary_jane_wiki - 0.7013795375823975
+
+12) george_jackson_wiki - 0.593517541885376
+
+13) huck_finn_wiki - 0.5665385981477152
+
+14) dey_wiki - 0.5358294727649835
+
+Result for the vector: aunt_sally, coming from part a of the book
+Rank: 4 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7199754548058198
+
+1) jim_tom_sawyer_wiki - 0.7603180122754588
+
+2) miss_watson_wiki - 0.746078431606298
+
+3) huck_creeps_wiki - 0.7208083105569084
+
+4) aunt_sally_wiki - 0.7199754548058198
+
+5) buck_harkness_wiki - 0.6953688678365283
+
+6) uncle_silas_wiki - 0.6732888623052169
+
+7) thatcher_wiki - 0.6695695322495432
+
+8) boggs_wiki - 0.6661528348922777
+
+9) sherburn_wiki - 0.662246426210031
+
+10) mars_sid_wiki - 0.6418156601621804
+
+11) miss_mary_jane_wiki - 0.5405723774774309
+
+12) huck_finn_wiki - 0.5243417024612465
+
+13) george_jackson_wiki - 0.5074495379596682
+
+14) dey_wiki - 0.46901095941826115
+
+Result for the vector: miss_watson, coming from part a of the book
+Rank: 2 out of 14 characters
+Cosine similarity to the co-referring vector: 0.896469837637555
+
+1) jim_tom_sawyer_wiki - 0.8992816149760271
+
+2) miss_watson_wiki - 0.896469837637555
+
+3) huck_creeps_wiki - 0.8770580887794495
+
+4) aunt_sally_wiki - 0.8605343699455261
+
+5) buck_harkness_wiki - 0.8428646326065063
+
+6) uncle_silas_wiki - 0.829302191734314
+
+7) boggs_wiki - 0.7891647941371935
+
+8) thatcher_wiki - 0.7614113092422485
+
+9) sherburn_wiki - 0.760648279112788
+
+10) mars_sid_wiki - 0.747849725122742
+
+11) miss_mary_jane_wiki - 0.6732138395309448
+
+12) george_jackson_wiki - 0.5883623361587524
+
+13) dey_wiki - 0.5634699967625757
+
+14) huck_finn_wiki - 0.5512879758305573
+
+Result for the vector: uncle_silas, coming from part a of the book
+Rank: 7 out of 14 characters
+Cosine similarity to the co-referring vector: 0.6904957890510559
+
+1) miss_watson_wiki - 0.7894689566213529
+
+2) jim_tom_sawyer_wiki - 0.7799015510023578
+
+3) huck_creeps_wiki - 0.7503077983856201
+
+4) aunt_sally_wiki - 0.7425134778022766
+
+5) buck_harkness_wiki - 0.7361781597137451
+
+6) thatcher_wiki - 0.7131881713867188
+
+7) uncle_silas_wiki - 0.6904957890510559
+
+8) sherburn_wiki - 0.6856217163060099
+
+9) mars_sid_wiki - 0.6754105888429462
+
+10) boggs_wiki - 0.666177054275451
+
+11) miss_mary_jane_wiki - 0.5940709114074707
+
+12) huck_finn_wiki - 0.5420289312583855
+
+13) george_jackson_wiki - 0.5205726623535156
+
+14) dey_wiki - 0.4905663571268063
+
+Result for the vector: mars_sid, coming from part a of the book
+Rank: 8 out of 14 characters
+Cosine similarity to the co-referring vector: 0.6574120717469478
+
+1) uncle_silas_wiki - 0.8486741185188293
+
+2) huck_creeps_wiki - 0.8366596698760986
+
+3) jim_tom_sawyer_wiki - 0.8304316896457502
+
+4) aunt_sally_wiki - 0.7996401786804199
+
+5) miss_watson_wiki - 0.7897497540861529
+
+6) boggs_wiki - 0.7786017192243518
+
+7) buck_harkness_wiki - 0.7723760604858398
+
+8) mars_sid_wiki - 0.6574120717469478
+
+9) thatcher_wiki - 0.6495063900947571
+
+10) miss_mary_jane_wiki - 0.627144455909729
+
+11) sherburn_wiki - 0.6238832922120983
+
+12) george_jackson_wiki - 0.5170873403549194
+
+13) huck_finn_wiki - 0.45467087896639913
+
+14) dey_wiki - 0.45111678103656777
+
+Result for the vector: huck_finn, coming from part a of the book
+Rank: 11 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7173860073089651
+
+1) jim_tom_sawyer_wiki - 0.8527198854350907
+
+2) miss_watson_wiki - 0.8229401111602842
+
+3) huck_creeps_wiki - 0.8161467800227883
+
+4) aunt_sally_wiki - 0.8041790607082299
+
+5) uncle_silas_wiki - 0.7871148459383768
+
+6) buck_harkness_wiki - 0.7758688793104233
+
+7) boggs_wiki - 0.7572318911552482
+
+8) thatcher_wiki - 0.7495076507036491
+
+9) sherburn_wiki - 0.7302008432030292
+
+10) mars_sid_wiki - 0.7224866201716623
+
+11) huck_finn_wiki - 0.7173860073089651
+
+12) miss_mary_jane_wiki - 0.5887231581642136
+
+13) george_jackson_wiki - 0.5731585367416474
+
+14) dey_wiki - 0.540267846028186
+
+Result for the vector: george_jackson, coming from part a of the book
+Rank: 12 out of 14 characters
+Cosine similarity to the co-referring vector: 0.6341689010959219
+
+1) jim_tom_sawyer_wiki - 0.8524433198503637
+
+2) miss_watson_wiki - 0.8396115899086058
+
+3) huck_creeps_wiki - 0.8241063251558751
+
+4) aunt_sally_wiki - 0.8140807637024395
+
+5) buck_harkness_wiki - 0.8083147888371237
+
+6) uncle_silas_wiki - 0.7816783059643704
+
+7) boggs_wiki - 0.7683683037757928
+
+8) sherburn_wiki - 0.7353914537792648
+
+9) thatcher_wiki - 0.7339173992823017
+
+10) mars_sid_wiki - 0.7219348599256453
+
+11) miss_mary_jane_wiki - 0.6344322940368838
+
+12) george_jackson_wiki - 0.6341689010959219
+
+13) dey_wiki - 0.5691149486772642
+
+14) huck_finn_wiki - 0.538781404495243
+
+Result for the vector: sherburn, coming from part a of the book
+Rank: 8 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7637443314867087
+
+1) jim_tom_sawyer_wiki - 0.8745570293898928
+
+2) huck_creeps_wiki - 0.8545949627096951
+
+3) miss_watson_wiki - 0.819960618613986
+
+4) boggs_wiki - 0.8183598166215456
+
+5) buck_harkness_wiki - 0.7948141212595246
+
+6) aunt_sally_wiki - 0.7907024136813684
+
+7) uncle_silas_wiki - 0.7643105474988147
+
+8) sherburn_wiki - 0.7637443314867087
+
+9) thatcher_wiki - 0.7522581892244419
+
+10) mars_sid_wiki - 0.7155964631553261
+
+11) miss_mary_jane_wiki - 0.6008360923084127
+
+12) george_jackson_wiki - 0.5730300461974804
+
+13) huck_finn_wiki - 0.545397119086901
+
+14) dey_wiki - 0.5173560113947412
+
+Result for the vector: thatcher, coming from part a of the book
+Rank: 7 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7799748778343201
+
+1) boggs_wiki - 0.8473057837900068
+
+2) jim_tom_sawyer_wiki - 0.8416022563935686
+
+3) huck_creeps_wiki - 0.836387574672699
+
+4) miss_watson_wiki - 0.8092283720238002
+
+5) sherburn_wiki - 0.7855328577121722
+
+6) buck_harkness_wiki - 0.7818562984466553
+
+7) thatcher_wiki - 0.7799748778343201
+
+8) aunt_sally_wiki - 0.7743940353393555
+
+9) uncle_silas_wiki - 0.7705297470092773
+
+10) mars_sid_wiki - 0.7096551272170287
+
+11) george_jackson_wiki - 0.5669116973876953
+
+12) miss_mary_jane_wiki - 0.5593807101249695
+
+13) huck_finn_wiki - 0.5345682779211842
+
+14) dey_wiki - 0.4677916885428169
+
+Result for the vector: dey, coming from part a of the book
+Rank: 11 out of 14 characters
+Cosine similarity to the co-referring vector: 0.5714224747247305
+
+1) jim_tom_sawyer_wiki - 0.7883383631706293
+
+2) miss_watson_wiki - 0.7738834889073981
+
+3) huck_creeps_wiki - 0.7618740342930549
+
+4) aunt_sally_wiki - 0.7404791271400986
+
+5) buck_harkness_wiki - 0.7273380322850936
+
+6) uncle_silas_wiki - 0.717420058404205
+
+7) boggs_wiki - 0.7023425457069223
+
+8) sherburn_wiki - 0.6783893087406214
+
+9) thatcher_wiki - 0.6687111455970332
+
+10) mars_sid_wiki - 0.6460660503487001
+
+11) dey_wiki - 0.5714224747247305
+
+12) miss_mary_jane_wiki - 0.5514430075023775
+
+13) george_jackson_wiki - 0.5123250775143467
+
+14) huck_finn_wiki - 0.4737920494327486
+
+Result for the vector: boggs, coming from part a of the book
+Rank: 5 out of 14 characters
+Cosine similarity to the co-referring vector: 0.7697496414184625
+
+1) uncle_silas_wiki - 0.8323728342278516
+
+2) jim_tom_sawyer_wiki - 0.8052678472122964
+
+3) huck_creeps_wiki - 0.7836562266144902
+
+4) buck_harkness_wiki - 0.7754660710970219
+
+5) boggs_wiki - 0.7697496414184625
+
+6) miss_watson_wiki - 0.7624475955963189
+
+7) aunt_sally_wiki - 0.7547513696403141
+
+8) sherburn_wiki - 0.6758160188307859
+
+9) thatcher_wiki - 0.6590572392378604
+
+10) mars_sid_wiki - 0.6279509628967315
+
+11) miss_mary_jane_wiki - 0.5998015761257168
+
+12) george_jackson_wiki - 0.5436469044474912
+
+13) dey_wiki - 0.49391852228619515
+
+14) huck_finn_wiki - 0.47234913706779813
+
+Result for the vector: buck_harkness, coming from part a of the book
+Rank: 4 out of 14 characters
+Cosine similarity to the co-referring vector: 0.8447374105453491
+
+1) jim_tom_sawyer_wiki - 0.8947616752840103
+
+2) huck_creeps_wiki - 0.8817874193191528
+
+3) miss_watson_wiki - 0.8518136232010366
+
+4) buck_harkness_wiki - 0.8447374105453491
+
+5) aunt_sally_wiki - 0.8303077816963196
+
+6) uncle_silas_wiki - 0.8123161196708679
+
+7) boggs_wiki - 0.806989502490194
+
+8) sherburn_wiki - 0.750400811386017
+
+9) mars_sid_wiki - 0.7357455115242458
+
+10) thatcher_wiki - 0.7308048605918884
+
+11) miss_mary_jane_wiki - 0.6172360181808472
+
+12) george_jackson_wiki - 0.5781906843185425
+
+13) dey_wiki - 0.558364560457878
+
+14) huck_finn_wiki - 0.5308569949354541
+

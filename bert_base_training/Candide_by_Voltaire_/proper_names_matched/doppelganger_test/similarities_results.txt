@@ -1,0 +1,320 @@
+Result for the vector: mr_martin, coming from part a of the book
+Rank: 2 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9002403616905212
+
+1) friar_giroflée_b - 0.9133665068904814
+
+2) mr_martin_b - 0.9002403616905212
+
+3) dr_pangloss_b - 0.9000132739536019
+
+4) cacambo_b - 0.8842672040621775
+
+5) paquette_b - 0.883886768354569
+
+6) voltaire_b - 0.8796791434288025
+
+7) candide_b - 0.8780404998039917
+
+8) buenos_ayres_b - 0.7798544400887027
+
+Result for the vector: dr_pangloss, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9814425728985581
+
+1) dr_pangloss_b - 0.9814425728985581
+
+2) candide_b - 0.9718933735020907
+
+3) mr_martin_b - 0.9696523565261169
+
+4) cacambo_b - 0.9680845737457344
+
+5) friar_giroflée_b - 0.9530267799448782
+
+6) paquette_b - 0.951644012037992
+
+7) voltaire_b - 0.9168139149657555
+
+8) buenos_ayres_b - 0.8084741589881763
+
+Result for the vector: cacambo, coming from part a of the book
+Rank: 4 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9623691085530983
+
+1) candide_b - 0.9747767738931518
+
+2) dr_pangloss_b - 0.9727093271228578
+
+3) mr_martin_b - 0.9656718044583661
+
+4) cacambo_b - 0.9623691085530983
+
+5) friar_giroflée_b - 0.9556233598106306
+
+6) paquette_b - 0.940529556854699
+
+7) voltaire_b - 0.8946843947188051
+
+8) buenos_ayres_b - 0.7809768058033963
+
+Result for the vector: candide, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9793015426605519
+
+1) candide_b - 0.9793015426605519
+
+2) dr_pangloss_b - 0.9729281373939512
+
+3) mr_martin_b - 0.961603908586619
+
+4) cacambo_b - 0.9587652348368084
+
+5) friar_giroflée_b - 0.9479752527497588
+
+6) paquette_b - 0.9431343427478469
+
+7) voltaire_b - 0.9294966736285891
+
+8) buenos_ayres_b - 0.8066537264975147
+
+Result for the vector: voltaire, coming from part a of the book
+Rank: 4 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9233113068381743
+
+1) dr_pangloss_b - 0.9391096975541903
+
+2) candide_b - 0.931748883307253
+
+3) mr_martin_b - 0.9306493525536175
+
+4) voltaire_b - 0.9233113068381743
+
+5) cacambo_b - 0.9224182459809749
+
+6) paquette_b - 0.9185405616341364
+
+7) friar_giroflée_b - 0.9167503962664632
+
+8) buenos_ayres_b - 0.7807527809213598
+
+Result for the vector: paquette, coming from part a of the book
+Rank: 4 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8916931281455666
+
+1) dr_pangloss_b - 0.9139710119979987
+
+2) cacambo_b - 0.9095762318120157
+
+3) mr_martin_b - 0.9022802710533142
+
+4) paquette_b - 0.8916931281455666
+
+5) candide_b - 0.8909633224628392
+
+6) friar_giroflée_b - 0.8771303442561278
+
+7) voltaire_b - 0.8568516373634338
+
+8) buenos_ayres_b - 0.7601123678717726
+
+Result for the vector: buenos_ayres, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9581316995063934
+
+1) buenos_ayres_b - 0.9581316995063934
+
+2) paquette_b - 0.809653543275178
+
+3) cacambo_b - 0.806966531691942
+
+4) mr_martin_b - 0.7976054549217224
+
+5) friar_giroflée_b - 0.788476492348141
+
+6) candide_b - 0.7857703694242033
+
+7) dr_pangloss_b - 0.7778438462112055
+
+8) voltaire_b - 0.7311729788780212
+
+Result for the vector: friar_giroflée, coming from part a of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8682048995372852
+
+1) friar_giroflée_b - 0.8682048995372852
+
+2) dr_pangloss_b - 0.824635624885565
+
+3) mr_martin_b - 0.8194686662834102
+
+4) cacambo_b - 0.813557483381925
+
+5) paquette_b - 0.8102352732279864
+
+6) voltaire_b - 0.808424938227234
+
+7) candide_b - 0.7875357270240839
+
+8) buenos_ayres_b - 0.7061935102516574
+
+Result for the vector: mr_martin, coming from part b of the book
+Rank: 6 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9002403616905212
+
+1) dr_pangloss_a - 0.9696523565261169
+
+2) cacambo_a - 0.9656718044583661
+
+3) candide_a - 0.961603908586619
+
+4) voltaire_a - 0.9306493525536175
+
+5) paquette_a - 0.9022802710533142
+
+6) mr_martin_a - 0.9002403616905212
+
+7) friar_giroflée_a - 0.8194686662834102
+
+8) buenos_ayres_a - 0.7976054549217224
+
+Result for the vector: dr_pangloss, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9814425728985581
+
+1) dr_pangloss_a - 0.9814425728985581
+
+2) candide_a - 0.9729281373939512
+
+3) cacambo_a - 0.9727093271228578
+
+4) voltaire_a - 0.9391096975541903
+
+5) paquette_a - 0.9139710119979987
+
+6) mr_martin_a - 0.9000132739536019
+
+7) friar_giroflée_a - 0.824635624885565
+
+8) buenos_ayres_a - 0.7778438462112055
+
+Result for the vector: cacambo, coming from part b of the book
+Rank: 2 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9623691085530983
+
+1) dr_pangloss_a - 0.9680845737457344
+
+2) cacambo_a - 0.9623691085530983
+
+3) candide_a - 0.9587652348368084
+
+4) voltaire_a - 0.9224182459809749
+
+5) paquette_a - 0.9095762318120157
+
+6) mr_martin_a - 0.8842672040621775
+
+7) friar_giroflée_a - 0.813557483381925
+
+8) buenos_ayres_a - 0.806966531691942
+
+Result for the vector: candide, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9793015426605519
+
+1) candide_a - 0.9793015426605519
+
+2) cacambo_a - 0.9747767738931518
+
+3) dr_pangloss_a - 0.9718933735020907
+
+4) voltaire_a - 0.931748883307253
+
+5) paquette_a - 0.8909633224628392
+
+6) mr_martin_a - 0.8780404998039917
+
+7) friar_giroflée_a - 0.7875357270240839
+
+8) buenos_ayres_a - 0.7857703694242033
+
+Result for the vector: voltaire, coming from part b of the book
+Rank: 2 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9233113068381743
+
+1) candide_a - 0.9294966736285891
+
+2) voltaire_a - 0.9233113068381743
+
+3) dr_pangloss_a - 0.9168139149657555
+
+4) cacambo_a - 0.8946843947188051
+
+5) mr_martin_a - 0.8796791434288025
+
+6) paquette_a - 0.8568516373634338
+
+7) friar_giroflée_a - 0.808424938227234
+
+8) buenos_ayres_a - 0.7311729788780212
+
+Result for the vector: paquette, coming from part b of the book
+Rank: 5 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8916931281455666
+
+1) dr_pangloss_a - 0.951644012037992
+
+2) candide_a - 0.9431343427478469
+
+3) cacambo_a - 0.940529556854699
+
+4) voltaire_a - 0.9185405616341364
+
+5) paquette_a - 0.8916931281455666
+
+6) mr_martin_a - 0.883886768354569
+
+7) friar_giroflée_a - 0.8102352732279864
+
+8) buenos_ayres_a - 0.809653543275178
+
+Result for the vector: buenos_ayres, coming from part b of the book
+Rank: 1 out of 8 characters
+Cosine similarity to the co-referring vector: 0.9581316995063934
+
+1) buenos_ayres_a - 0.9581316995063934
+
+2) dr_pangloss_a - 0.8084741589881763
+
+3) candide_a - 0.8066537264975147
+
+4) cacambo_a - 0.7809768058033963
+
+5) voltaire_a - 0.7807527809213598
+
+6) mr_martin_a - 0.7798544400887027
+
+7) paquette_a - 0.7601123678717726
+
+8) friar_giroflée_a - 0.7061935102516574
+
+Result for the vector: friar_giroflée, coming from part b of the book
+Rank: 7 out of 8 characters
+Cosine similarity to the co-referring vector: 0.8682048995372852
+
+1) cacambo_a - 0.9556233598106306
+
+2) dr_pangloss_a - 0.9530267799448782
+
+3) candide_a - 0.9479752527497588
+
+4) voltaire_a - 0.9167503962664632
+
+5) mr_martin_a - 0.9133665068904814
+
+6) paquette_a - 0.8771303442561278
+
+7) friar_giroflée_a - 0.8682048995372852
+
+8) buenos_ayres_a - 0.788476492348141
+

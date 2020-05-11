@@ -1,0 +1,1292 @@
+Result for the vector: sister, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9156847646424461
+
+1) sister_a - 0.9156847646424461
+
+2) mother_a - 0.9094829017232264
+
+3) lady_a - 0.8947854167478844
+
+4) uncle_a - 0.8755334689895371
+
+5) father_a - 0.8729255015022701
+
+6) house_a - 0.8617251680224994
+
+7) fortune_a - 0.8485073627820835
+
+8) attachment_a - 0.8451620524928567
+
+9) man_a - 0.8386087706192561
+
+10) thing_a - 0.822970958416888
+
+11) letter_a - 0.8221907370629866
+
+12) sense_a - 0.8197037333338518
+
+13) subject_a - 0.8175491420836806
+
+14) knowledge_a - 0.8104673479873304
+
+15) day_a - 0.808791362191282
+
+16) time_a - 0.8029333226839727
+
+17) sorrow_a - 0.8001267790681112
+
+Result for the vector: mother, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9542546217745091
+
+1) mother_a - 0.9542546217745091
+
+2) sister_a - 0.9291644011931898
+
+3) father_a - 0.913750730194217
+
+4) uncle_a - 0.9105313313640752
+
+5) lady_a - 0.8514143139966929
+
+6) fortune_a - 0.8488429098631701
+
+7) attachment_a - 0.8395333790501001
+
+8) house_a - 0.8320137162216747
+
+9) man_a - 0.8263110518455564
+
+10) knowledge_a - 0.8160925617162977
+
+11) sense_a - 0.8060654410817389
+
+12) letter_a - 0.8010965587342621
+
+13) sorrow_a - 0.7986067055410185
+
+14) thing_a - 0.7895073294639644
+
+15) subject_a - 0.7779675722122248
+
+16) time_a - 0.7721367614187864
+
+17) day_a - 0.7613931156035149
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.868062444444763
+
+1) time_a - 0.868062444444763
+
+2) day_a - 0.818878401451017
+
+3) fortune_a - 0.811545539590452
+
+4) thing_a - 0.8056445121765194
+
+5) sister_a - 0.8052266007931949
+
+6) house_a - 0.7911476964442563
+
+7) sense_a - 0.7869223932806247
+
+8) attachment_a - 0.7849176397870579
+
+9) sorrow_a - 0.7843946919794109
+
+10) mother_a - 0.7702094638597327
+
+11) letter_a - 0.7700777605291848
+
+12) subject_a - 0.7674939632415826
+
+13) uncle_a - 0.7634502367317959
+
+14) knowledge_a - 0.762305869918724
+
+15) father_a - 0.7580788217257404
+
+16) lady_a - 0.7439027872027641
+
+17) man_a - 0.7335377931594901
+
+Result for the vector: thing, coming from part i of the book
+Rank: 2 out of 17 characters
+Cosine similarity to the co-referring vector: 0.7505111918005786
+
+1) sister_a - 0.7597536384692253
+
+2) thing_a - 0.7505111918005786
+
+3) attachment_a - 0.7398566669097573
+
+4) subject_a - 0.7386834841574359
+
+5) time_a - 0.7340910811993318
+
+6) house_a - 0.7191115068594998
+
+7) sense_a - 0.7165574520631048
+
+8) day_a - 0.7150209589321307
+
+9) fortune_a - 0.7113382856254266
+
+10) knowledge_a - 0.6950779946125303
+
+11) sorrow_a - 0.692500077784072
+
+12) lady_a - 0.6893425604113272
+
+13) letter_a - 0.6870244777842422
+
+14) mother_a - 0.685145599416733
+
+15) uncle_a - 0.6726625371966569
+
+16) man_a - 0.671355565528745
+
+17) father_a - 0.6709643806176652
+
+Result for the vector: day, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8213588978480038
+
+1) day_a - 0.8213588978480038
+
+2) time_a - 0.7685303092003087
+
+3) thing_a - 0.7429442252483621
+
+4) house_a - 0.70929792038178
+
+5) fortune_a - 0.6996162175674747
+
+6) subject_a - 0.6959531125994503
+
+7) sense_a - 0.6873543504321713
+
+8) sister_a - 0.683696988290011
+
+9) letter_a - 0.6834258074754674
+
+10) lady_a - 0.678325972357513
+
+11) man_a - 0.6782414125348087
+
+12) attachment_a - 0.676123461261213
+
+13) mother_a - 0.6696398859572219
+
+14) sorrow_a - 0.6679938238850001
+
+15) knowledge_a - 0.6666934490204047
+
+16) father_a - 0.6594583182719851
+
+17) uncle_a - 0.6586220250049886
+
+Result for the vector: house, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8548102888351866
+
+1) house_a - 0.8548102888351866
+
+2) sister_a - 0.8072514304222381
+
+3) fortune_a - 0.8065002445280712
+
+4) mother_a - 0.8006840110640538
+
+5) attachment_a - 0.7876496784478249
+
+6) thing_a - 0.7862756252288874
+
+7) father_a - 0.7843244180969378
+
+8) uncle_a - 0.7842024307492292
+
+9) letter_a - 0.7841349220476932
+
+10) lady_a - 0.7821609844065314
+
+11) subject_a - 0.781364798545843
+
+12) time_a - 0.7776061429020206
+
+13) knowledge_a - 0.7758011951565155
+
+14) sense_a - 0.7691433383738012
+
+15) man_a - 0.7657662630081231
+
+16) sorrow_a - 0.7643949476833598
+
+17) day_a - 0.75779967056511
+
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9110678593395024
+
+1) man_a - 0.9110678593395024
+
+2) lady_a - 0.8806779526856064
+
+3) sister_a - 0.8417534326462026
+
+4) mother_a - 0.841384956754164
+
+5) sense_a - 0.8285717121192483
+
+6) father_a - 0.825531170469725
+
+7) thing_a - 0.8238706903688879
+
+8) uncle_a - 0.8193770754708734
+
+9) attachment_a - 0.8119487986625731
+
+10) fortune_a - 0.8098693120635433
+
+11) house_a - 0.8087616194770847
+
+12) knowledge_a - 0.8061902389072803
+
+13) subject_a - 0.8020328637302776
+
+14) letter_a - 0.7981648207257915
+
+15) sorrow_a - 0.780157138691213
+
+16) time_a - 0.7694886280325346
+
+17) day_a - 0.7579631497903938
+
+Result for the vector: letter, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8809830808932605
+
+1) letter_a - 0.8809830808932605
+
+2) subject_a - 0.8531077679267206
+
+3) attachment_a - 0.8517159907987139
+
+4) sister_a - 0.8412994146347106
+
+5) sorrow_a - 0.8400815474962761
+
+6) sense_a - 0.8395489704474594
+
+7) thing_a - 0.8371083930601605
+
+8) knowledge_a - 0.8296799368238577
+
+9) house_a - 0.8253263339205796
+
+10) lady_a - 0.8193313587110439
+
+11) mother_a - 0.8144465684890805
+
+12) fortune_a - 0.8132746330932016
+
+13) time_a - 0.8052518119957798
+
+14) father_a - 0.7975499988332423
+
+15) man_a - 0.7933317669234554
+
+16) day_a - 0.7921798949134427
+
+17) uncle_a - 0.7887799739837702
+
+Result for the vector: lady, coming from part i of the book
+Rank: 2 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8539628982543945
+
+1) man_a - 0.8715110497766123
+
+2) lady_a - 0.8539628982543945
+
+3) sister_a - 0.8230259313002799
+
+4) mother_a - 0.8127487786262514
+
+5) house_a - 0.8063693046569824
+
+6) sense_a - 0.80081416375764
+
+7) thing_a - 0.8007542609718896
+
+8) uncle_a - 0.797184872459465
+
+9) letter_a - 0.7945370192411889
+
+10) attachment_a - 0.791452169418335
+
+11) fortune_a - 0.7858914136886597
+
+12) knowledge_a - 0.7853195327139514
+
+13) subject_a - 0.7792232764230219
+
+14) father_a - 0.7791629665840559
+
+15) sorrow_a - 0.760665081759247
+
+16) time_a - 0.7598591733146753
+
+17) day_a - 0.7519556283950806
+
+Result for the vector: subject, coming from part i of the book
+Rank: 3 out of 17 characters
+Cosine similarity to the co-referring vector: 0.6680419642900262
+
+1) sense_a - 0.6892846246914257
+
+2) knowledge_a - 0.6805125259742159
+
+3) subject_a - 0.6680419642900262
+
+4) attachment_a - 0.6649484634399414
+
+5) sorrow_a - 0.6516602829593507
+
+6) fortune_a - 0.6414861679077148
+
+7) letter_a - 0.6342039079252424
+
+8) thing_a - 0.6301680427689538
+
+9) sister_a - 0.6195136081882493
+
+10) father_a - 0.6167292778709318
+
+11) house_a - 0.6095157265663147
+
+12) mother_a - 0.6050588849222006
+
+13) time_a - 0.5968972329023842
+
+14) man_a - 0.5861680158276559
+
+15) lady_a - 0.5815047025680542
+
+16) uncle_a - 0.5784725891633395
+
+17) day_a - 0.5700498819351196
+
+Result for the vector: fortune, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.7359212260222804
+
+1) fortune_a - 0.7359212260222804
+
+2) attachment_a - 0.6839518154845186
+
+3) knowledge_a - 0.6752590529389111
+
+4) sorrow_a - 0.6639680066089634
+
+5) sister_a - 0.6604317421107064
+
+6) mother_a - 0.651242731622702
+
+7) sense_a - 0.6487829266527815
+
+8) father_a - 0.6456650880375557
+
+9) uncle_a - 0.6452742795891419
+
+10) house_a - 0.6354159306113702
+
+11) letter_a - 0.6298405682850573
+
+12) thing_a - 0.618739705719363
+
+13) time_a - 0.6151122496921861
+
+14) lady_a - 0.6114070597710332
+
+15) subject_a - 0.6020195900792029
+
+16) man_a - 0.5860846464012692
+
+17) day_a - 0.5619932580588242
+
+Result for the vector: attachment, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.6545736399547087
+
+1) attachment_a - 0.6545736399547087
+
+2) fortune_a - 0.5634889862841982
+
+3) mother_a - 0.5619403719902079
+
+4) sister_a - 0.5592555999755899
+
+5) uncle_a - 0.5514051914215127
+
+6) knowledge_a - 0.5504486768635503
+
+7) father_a - 0.5492621496539689
+
+8) house_a - 0.5412805353831935
+
+9) subject_a - 0.5392700386917545
+
+10) letter_a - 0.5322061935724732
+
+11) sorrow_a - 0.5319973667860837
+
+12) thing_a - 0.5290231074067226
+
+13) lady_a - 0.5238499329179575
+
+14) sense_a - 0.5217198288953311
+
+15) time_a - 0.4981022778566588
+
+16) man_a - 0.49579703857934015
+
+17) day_a - 0.4925034348664629
+
+Result for the vector: sense, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.7250648625291682
+
+1) sense_a - 0.7250648625291682
+
+2) knowledge_a - 0.6587630117676953
+
+3) sorrow_a - 0.6539450872491381
+
+4) attachment_a - 0.6462321666617504
+
+5) thing_a - 0.617460429668431
+
+6) fortune_a - 0.6001963973162422
+
+7) sister_a - 0.5989191054009325
+
+8) letter_a - 0.5931002785414875
+
+9) subject_a - 0.592062294483189
+
+10) mother_a - 0.5880893573867508
+
+11) man_a - 0.5771073102951091
+
+12) time_a - 0.5753977551819324
+
+13) house_a - 0.570217524183842
+
+14) lady_a - 0.5646955111441331
+
+15) father_a - 0.5593895220210724
+
+16) uncle_a - 0.5454710180128834
+
+17) day_a - 0.5395344817360936
+
+Result for the vector: father, coming from part i of the book
+Rank: 2 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8864513899818481
+
+1) mother_a - 0.8923455412593823
+
+2) father_a - 0.8864513899818481
+
+3) sister_a - 0.8793638872721143
+
+4) uncle_a - 0.8741815611232273
+
+5) fortune_a - 0.8295348286628723
+
+6) attachment_a - 0.8155069947242737
+
+7) house_a - 0.8142969608306885
+
+8) man_a - 0.8117737286225734
+
+9) lady_a - 0.8106615543365479
+
+10) knowledge_a - 0.7911999474525571
+
+11) sense_a - 0.7893384208683779
+
+12) sorrow_a - 0.7864095206978777
+
+13) letter_a - 0.7861861097383033
+
+14) thing_a - 0.7805867921956319
+
+15) subject_a - 0.7748961582841792
+
+16) time_a - 0.7657445948428453
+
+17) day_a - 0.7473973035812378
+
+Result for the vector: knowledge, coming from part i of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.6966469261067951
+
+1) knowledge_a - 0.6966469261067951
+
+2) sense_a - 0.6720418539097147
+
+3) thing_a - 0.6353943754615101
+
+4) letter_a - 0.6167474528250053
+
+5) fortune_a - 0.6058055939020396
+
+6) attachment_a - 0.6056035937548757
+
+7) subject_a - 0.6055573640597677
+
+8) sister_a - 0.5980214415211776
+
+9) sorrow_a - 0.5884584539209875
+
+10) mother_a - 0.584976844636516
+
+11) lady_a - 0.5841198737657035
+
+12) time_a - 0.5817431287399182
+
+13) man_a - 0.5722879596862828
+
+14) day_a - 0.5695616772640254
+
+15) uncle_a - 0.568976929990375
+
+16) house_a - 0.5675050189347574
+
+17) father_a - 0.5643011667907933
+
+Result for the vector: uncle, coming from part i of the book
+Rank: 3 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8636703491210999
+
+1) mother_a - 0.8881372213363711
+
+2) sister_a - 0.8698399662971559
+
+3) uncle_a - 0.8636703491210999
+
+4) father_a - 0.8596341353763932
+
+5) lady_a - 0.8524592606747606
+
+6) man_a - 0.8472367111162291
+
+7) house_a - 0.8270251258000672
+
+8) fortune_a - 0.8269223673985993
+
+9) attachment_a - 0.8120759837582135
+
+10) letter_a - 0.7983933329103479
+
+11) thing_a - 0.7956210022424457
+
+12) knowledge_a - 0.7850829747170865
+
+13) subject_a - 0.7832048197740531
+
+14) sense_a - 0.77880557712334
+
+15) day_a - 0.7667878409154524
+
+16) time_a - 0.7623946495542571
+
+17) sorrow_a - 0.7563181890154455
+
+Result for the vector: sorrow, coming from part i of the book
+Rank: 16 out of 17 characters
+Cosine similarity to the co-referring vector: 0.46541367368142844
+
+1) sister_a - 0.618829048802201
+
+2) house_a - 0.5657551884651184
+
+3) time_a - 0.5563620857760844
+
+4) day_a - 0.549762487411499
+
+5) fortune_a - 0.5345879793167114
+
+6) mother_a - 0.5295129733987444
+
+7) attachment_a - 0.526256263256073
+
+8) father_a - 0.5259575404512151
+
+9) uncle_a - 0.5180905174070914
+
+10) thing_a - 0.5180746008113274
+
+11) subject_a - 0.5075912173038004
+
+12) sense_a - 0.48995940297479257
+
+13) lady_a - 0.48263460397720337
+
+14) letter_a - 0.4820692970218645
+
+15) knowledge_a - 0.468918535838305
+
+16) sorrow_a - 0.46541367368142844
+
+17) man_a - 0.4546177116264285
+
+Result for the vector: sister, coming from part a of the book
+Rank: 2 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9156847646424461
+
+1) mother_wiki - 0.9291644011931898
+
+2) sister_wiki - 0.9156847646424461
+
+3) father_wiki - 0.8793638872721143
+
+4) uncle_wiki - 0.8698399662971559
+
+5) man_wiki - 0.8417534326462026
+
+6) letter_wiki - 0.8412994146347106
+
+7) lady_wiki - 0.8230259313002799
+
+8) house_wiki - 0.8072514304222381
+
+9) time_wiki - 0.8052266007931949
+
+10) thing_wiki - 0.7597536384692253
+
+11) day_wiki - 0.683696988290011
+
+12) fortune_wiki - 0.6604317421107064
+
+13) subject_wiki - 0.6195136081882493
+
+14) sorrow_wiki - 0.618829048802201
+
+15) sense_wiki - 0.5989191054009325
+
+16) knowledge_wiki - 0.5980214415211776
+
+17) attachment_wiki - 0.5592555999755899
+
+Result for the vector: mother, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9542546217745091
+
+1) mother_wiki - 0.9542546217745091
+
+2) sister_wiki - 0.9094829017232264
+
+3) father_wiki - 0.8923455412593823
+
+4) uncle_wiki - 0.8881372213363711
+
+5) man_wiki - 0.841384956754164
+
+6) letter_wiki - 0.8144465684890805
+
+7) lady_wiki - 0.8127487786262514
+
+8) house_wiki - 0.8006840110640538
+
+9) time_wiki - 0.7702094638597327
+
+10) thing_wiki - 0.685145599416733
+
+11) day_wiki - 0.6696398859572219
+
+12) fortune_wiki - 0.651242731622702
+
+13) subject_wiki - 0.6050588849222006
+
+14) sense_wiki - 0.5880893573867508
+
+15) knowledge_wiki - 0.584976844636516
+
+16) attachment_wiki - 0.5619403719902079
+
+17) sorrow_wiki - 0.5295129733987444
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.868062444444763
+
+1) time_wiki - 0.868062444444763
+
+2) letter_wiki - 0.8052518119957798
+
+3) sister_wiki - 0.8029333226839727
+
+4) house_wiki - 0.7776061429020206
+
+5) mother_wiki - 0.7721367614187864
+
+6) man_wiki - 0.7694886280325346
+
+7) day_wiki - 0.7685303092003087
+
+8) father_wiki - 0.7657445948428453
+
+9) uncle_wiki - 0.7623946495542571
+
+10) lady_wiki - 0.7598591733146753
+
+11) thing_wiki - 0.7340910811993318
+
+12) fortune_wiki - 0.6151122496921861
+
+13) subject_wiki - 0.5968972329023842
+
+14) knowledge_wiki - 0.5817431287399182
+
+15) sense_wiki - 0.5753977551819324
+
+16) sorrow_wiki - 0.5563620857760844
+
+17) attachment_wiki - 0.4981022778566588
+
+Result for the vector: thing, coming from part a of the book
+Rank: 10 out of 17 characters
+Cosine similarity to the co-referring vector: 0.7505111918005786
+
+1) letter_wiki - 0.8371083930601605
+
+2) man_wiki - 0.8238706903688879
+
+3) sister_wiki - 0.822970958416888
+
+4) time_wiki - 0.8056445121765194
+
+5) lady_wiki - 0.8007542609718896
+
+6) uncle_wiki - 0.7956210022424457
+
+7) mother_wiki - 0.7895073294639644
+
+8) house_wiki - 0.7862756252288874
+
+9) father_wiki - 0.7805867921956319
+
+10) thing_wiki - 0.7505111918005786
+
+11) day_wiki - 0.7429442252483621
+
+12) knowledge_wiki - 0.6353943754615101
+
+13) subject_wiki - 0.6301680427689538
+
+14) fortune_wiki - 0.618739705719363
+
+15) sense_wiki - 0.617460429668431
+
+16) attachment_wiki - 0.5290231074067226
+
+17) sorrow_wiki - 0.5180746008113274
+
+Result for the vector: day, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8213588978480038
+
+1) day_wiki - 0.8213588978480038
+
+2) time_wiki - 0.818878401451017
+
+3) sister_wiki - 0.808791362191282
+
+4) letter_wiki - 0.7921798949134427
+
+5) uncle_wiki - 0.7667878409154524
+
+6) mother_wiki - 0.7613931156035149
+
+7) man_wiki - 0.7579631497903938
+
+8) house_wiki - 0.75779967056511
+
+9) lady_wiki - 0.7519556283950806
+
+10) father_wiki - 0.7473973035812378
+
+11) thing_wiki - 0.7150209589321307
+
+12) subject_wiki - 0.5700498819351196
+
+13) knowledge_wiki - 0.5695616772640254
+
+14) fortune_wiki - 0.5619932580588242
+
+15) sorrow_wiki - 0.549762487411499
+
+16) sense_wiki - 0.5395344817360936
+
+17) attachment_wiki - 0.4925034348664629
+
+Result for the vector: house, coming from part a of the book
+Rank: 2 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8548102888351866
+
+1) sister_wiki - 0.8617251680224994
+
+2) house_wiki - 0.8548102888351866
+
+3) mother_wiki - 0.8320137162216747
+
+4) uncle_wiki - 0.8270251258000672
+
+5) letter_wiki - 0.8253263339205796
+
+6) father_wiki - 0.8142969608306885
+
+7) man_wiki - 0.8087616194770847
+
+8) lady_wiki - 0.8063693046569824
+
+9) time_wiki - 0.7911476964442563
+
+10) thing_wiki - 0.7191115068594998
+
+11) day_wiki - 0.70929792038178
+
+12) fortune_wiki - 0.6354159306113702
+
+13) subject_wiki - 0.6095157265663147
+
+14) sense_wiki - 0.570217524183842
+
+15) knowledge_wiki - 0.5675050189347574
+
+16) sorrow_wiki - 0.5657551884651184
+
+17) attachment_wiki - 0.5412805353831935
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.9110678593395024
+
+1) man_wiki - 0.9110678593395024
+
+2) lady_wiki - 0.8715110497766123
+
+3) uncle_wiki - 0.8472367111162291
+
+4) sister_wiki - 0.8386087706192561
+
+5) mother_wiki - 0.8263110518455564
+
+6) father_wiki - 0.8117737286225734
+
+7) letter_wiki - 0.7933317669234554
+
+8) house_wiki - 0.7657662630081231
+
+9) time_wiki - 0.7335377931594901
+
+10) day_wiki - 0.6782414125348087
+
+11) thing_wiki - 0.671355565528745
+
+12) subject_wiki - 0.5861680158276559
+
+13) fortune_wiki - 0.5860846464012692
+
+14) sense_wiki - 0.5771073102951091
+
+15) knowledge_wiki - 0.5722879596862828
+
+16) attachment_wiki - 0.49579703857934015
+
+17) sorrow_wiki - 0.4546177116264285
+
+Result for the vector: letter, coming from part a of the book
+Rank: 1 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8809830808932605
+
+1) letter_wiki - 0.8809830808932605
+
+2) sister_wiki - 0.8221907370629866
+
+3) mother_wiki - 0.8010965587342621
+
+4) uncle_wiki - 0.7983933329103479
+
+5) man_wiki - 0.7981648207257915
+
+6) lady_wiki - 0.7945370192411889
+
+7) father_wiki - 0.7861861097383033
+
+8) house_wiki - 0.7841349220476932
+
+9) time_wiki - 0.7700777605291848
+
+10) thing_wiki - 0.6870244777842422
+
+11) day_wiki - 0.6834258074754674
+
+12) subject_wiki - 0.6342039079252424
+
+13) fortune_wiki - 0.6298405682850573
+
+14) knowledge_wiki - 0.6167474528250053
+
+15) sense_wiki - 0.5931002785414875
+
+16) attachment_wiki - 0.5322061935724732
+
+17) sorrow_wiki - 0.4820692970218645
+
+Result for the vector: lady, coming from part a of the book
+Rank: 3 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8539628982543945
+
+1) sister_wiki - 0.8947854167478844
+
+2) man_wiki - 0.8806779526856064
+
+3) lady_wiki - 0.8539628982543945
+
+4) uncle_wiki - 0.8524592606747606
+
+5) mother_wiki - 0.8514143139966929
+
+6) letter_wiki - 0.8193313587110439
+
+7) father_wiki - 0.8106615543365479
+
+8) house_wiki - 0.7821609844065314
+
+9) time_wiki - 0.7439027872027641
+
+10) thing_wiki - 0.6893425604113272
+
+11) day_wiki - 0.678325972357513
+
+12) fortune_wiki - 0.6114070597710332
+
+13) knowledge_wiki - 0.5841198737657035
+
+14) subject_wiki - 0.5815047025680542
+
+15) sense_wiki - 0.5646955111441331
+
+16) attachment_wiki - 0.5238499329179575
+
+17) sorrow_wiki - 0.48263460397720337
+
+Result for the vector: subject, coming from part a of the book
+Rank: 12 out of 17 characters
+Cosine similarity to the co-referring vector: 0.6680419642900262
+
+1) letter_wiki - 0.8531077679267206
+
+2) sister_wiki - 0.8175491420836806
+
+3) man_wiki - 0.8020328637302776
+
+4) uncle_wiki - 0.7832048197740531
+
+5) house_wiki - 0.781364798545843
+
+6) lady_wiki - 0.7792232764230219
+
+7) mother_wiki - 0.7779675722122248
+
+8) father_wiki - 0.7748961582841792
+
+9) time_wiki - 0.7674939632415826
+
+10) thing_wiki - 0.7386834841574359
+
+11) day_wiki - 0.6959531125994503
+
+12) subject_wiki - 0.6680419642900262
+
+13) knowledge_wiki - 0.6055573640597677
+
+14) fortune_wiki - 0.6020195900792029
+
+15) sense_wiki - 0.592062294483189
+
+16) attachment_wiki - 0.5392700386917545
+
+17) sorrow_wiki - 0.5075912173038004
+
+Result for the vector: fortune, coming from part a of the book
+Rank: 10 out of 17 characters
+Cosine similarity to the co-referring vector: 0.7359212260222804
+
+1) mother_wiki - 0.8488429098631701
+
+2) sister_wiki - 0.8485073627820835
+
+3) father_wiki - 0.8295348286628723
+
+4) uncle_wiki - 0.8269223673985993
+
+5) letter_wiki - 0.8132746330932016
+
+6) time_wiki - 0.811545539590452
+
+7) man_wiki - 0.8098693120635433
+
+8) house_wiki - 0.8065002445280712
+
+9) lady_wiki - 0.7858914136886597
+
+10) fortune_wiki - 0.7359212260222804
+
+11) thing_wiki - 0.7113382856254266
+
+12) day_wiki - 0.6996162175674747
+
+13) subject_wiki - 0.6414861679077148
+
+14) knowledge_wiki - 0.6058055939020396
+
+15) sense_wiki - 0.6001963973162422
+
+16) attachment_wiki - 0.5634889862841982
+
+17) sorrow_wiki - 0.5345879793167114
+
+Result for the vector: attachment, coming from part a of the book
+Rank: 14 out of 17 characters
+Cosine similarity to the co-referring vector: 0.6545736399547087
+
+1) letter_wiki - 0.8517159907987139
+
+2) sister_wiki - 0.8451620524928567
+
+3) mother_wiki - 0.8395333790501001
+
+4) father_wiki - 0.8155069947242737
+
+5) uncle_wiki - 0.8120759837582135
+
+6) man_wiki - 0.8119487986625731
+
+7) lady_wiki - 0.791452169418335
+
+8) house_wiki - 0.7876496784478249
+
+9) time_wiki - 0.7849176397870579
+
+10) thing_wiki - 0.7398566669097573
+
+11) fortune_wiki - 0.6839518154845186
+
+12) day_wiki - 0.676123461261213
+
+13) subject_wiki - 0.6649484634399414
+
+14) attachment_wiki - 0.6545736399547087
+
+15) sense_wiki - 0.6462321666617504
+
+16) knowledge_wiki - 0.6056035937548757
+
+17) sorrow_wiki - 0.526256263256073
+
+Result for the vector: sense, coming from part a of the book
+Rank: 10 out of 17 characters
+Cosine similarity to the co-referring vector: 0.7250648625291682
+
+1) letter_wiki - 0.8395489704474594
+
+2) man_wiki - 0.8285717121192483
+
+3) sister_wiki - 0.8197037333338518
+
+4) mother_wiki - 0.8060654410817389
+
+5) lady_wiki - 0.80081416375764
+
+6) father_wiki - 0.7893384208683779
+
+7) time_wiki - 0.7869223932806247
+
+8) uncle_wiki - 0.77880557712334
+
+9) house_wiki - 0.7691433383738012
+
+10) sense_wiki - 0.7250648625291682
+
+11) thing_wiki - 0.7165574520631048
+
+12) subject_wiki - 0.6892846246914257
+
+13) day_wiki - 0.6873543504321713
+
+14) knowledge_wiki - 0.6720418539097147
+
+15) fortune_wiki - 0.6487829266527815
+
+16) attachment_wiki - 0.5217198288953311
+
+17) sorrow_wiki - 0.48995940297479257
+
+Result for the vector: father, coming from part a of the book
+Rank: 2 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8864513899818481
+
+1) mother_wiki - 0.913750730194217
+
+2) father_wiki - 0.8864513899818481
+
+3) sister_wiki - 0.8729255015022701
+
+4) uncle_wiki - 0.8596341353763932
+
+5) man_wiki - 0.825531170469725
+
+6) letter_wiki - 0.7975499988332423
+
+7) house_wiki - 0.7843244180969378
+
+8) lady_wiki - 0.7791629665840559
+
+9) time_wiki - 0.7580788217257404
+
+10) thing_wiki - 0.6709643806176652
+
+11) day_wiki - 0.6594583182719851
+
+12) fortune_wiki - 0.6456650880375557
+
+13) subject_wiki - 0.6167292778709318
+
+14) knowledge_wiki - 0.5643011667907933
+
+15) sense_wiki - 0.5593895220210724
+
+16) attachment_wiki - 0.5492621496539689
+
+17) sorrow_wiki - 0.5259575404512151
+
+Result for the vector: knowledge, coming from part a of the book
+Rank: 10 out of 17 characters
+Cosine similarity to the co-referring vector: 0.6966469261067951
+
+1) letter_wiki - 0.8296799368238577
+
+2) mother_wiki - 0.8160925617162977
+
+3) sister_wiki - 0.8104673479873304
+
+4) man_wiki - 0.8061902389072803
+
+5) father_wiki - 0.7911999474525571
+
+6) lady_wiki - 0.7853195327139514
+
+7) uncle_wiki - 0.7850829747170865
+
+8) house_wiki - 0.7758011951565155
+
+9) time_wiki - 0.762305869918724
+
+10) knowledge_wiki - 0.6966469261067951
+
+11) thing_wiki - 0.6950779946125303
+
+12) subject_wiki - 0.6805125259742159
+
+13) fortune_wiki - 0.6752590529389111
+
+14) day_wiki - 0.6666934490204047
+
+15) sense_wiki - 0.6587630117676953
+
+16) attachment_wiki - 0.5504486768635503
+
+17) sorrow_wiki - 0.468918535838305
+
+Result for the vector: uncle, coming from part a of the book
+Rank: 4 out of 17 characters
+Cosine similarity to the co-referring vector: 0.8636703491210999
+
+1) mother_wiki - 0.9105313313640752
+
+2) sister_wiki - 0.8755334689895371
+
+3) father_wiki - 0.8741815611232273
+
+4) uncle_wiki - 0.8636703491210999
+
+5) man_wiki - 0.8193770754708734
+
+6) lady_wiki - 0.797184872459465
+
+7) letter_wiki - 0.7887799739837702
+
+8) house_wiki - 0.7842024307492292
+
+9) time_wiki - 0.7634502367317959
+
+10) thing_wiki - 0.6726625371966569
+
+11) day_wiki - 0.6586220250049886
+
+12) fortune_wiki - 0.6452742795891419
+
+13) subject_wiki - 0.5784725891633395
+
+14) knowledge_wiki - 0.568976929990375
+
+15) attachment_wiki - 0.5514051914215127
+
+16) sense_wiki - 0.5454710180128834
+
+17) sorrow_wiki - 0.5180905174070914
+
+Result for the vector: sorrow, coming from part a of the book
+Rank: 17 out of 17 characters
+Cosine similarity to the co-referring vector: 0.46541367368142844
+
+1) letter_wiki - 0.8400815474962761
+
+2) sister_wiki - 0.8001267790681112
+
+3) mother_wiki - 0.7986067055410185
+
+4) father_wiki - 0.7864095206978777
+
+5) time_wiki - 0.7843946919794109
+
+6) man_wiki - 0.780157138691213
+
+7) house_wiki - 0.7643949476833598
+
+8) lady_wiki - 0.760665081759247
+
+9) uncle_wiki - 0.7563181890154455
+
+10) thing_wiki - 0.692500077784072
+
+11) day_wiki - 0.6679938238850001
+
+12) fortune_wiki - 0.6639680066089634
+
+13) sense_wiki - 0.6539450872491381
+
+14) subject_wiki - 0.6516602829593507
+
+15) knowledge_wiki - 0.5884584539209875
+
+16) attachment_wiki - 0.5319973667860837
+
+17) sorrow_wiki - 0.46541367368142844
+

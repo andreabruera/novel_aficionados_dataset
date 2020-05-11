@@ -1,0 +1,4 @@
+133	room_rooms
+24	body
+22	morning
+10	state

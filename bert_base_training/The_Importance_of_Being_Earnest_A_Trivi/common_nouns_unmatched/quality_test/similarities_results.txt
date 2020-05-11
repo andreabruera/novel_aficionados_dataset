@@ -1,0 +1,396 @@
+Result for the vector: name, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9077885260834325
+
+1) name_a - 0.9077885260834325
+
+2) thing_a - 0.9040883354982875
+
+3) life_a - 0.8837702149495354
+
+4) brother_a - 0.8801002716838968
+
+5) fact_a - 0.8724998127669565
+
+6) man_a - 0.8577977673177081
+
+7) hand_a - 0.8377525403794837
+
+8) time_a - 0.8242349342879902
+
+9) work_a - 0.7930029055467543
+
+Result for the vector: brother, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8829868102963813
+
+1) brother_a - 0.8829868102963813
+
+2) thing_a - 0.8239959723948236
+
+3) name_a - 0.8236748716540524
+
+4) man_a - 0.8224803454423057
+
+5) life_a - 0.8203122508711964
+
+6) time_a - 0.8049966336785748
+
+7) fact_a - 0.7896757596537923
+
+8) hand_a - 0.7853684531481675
+
+9) work_a - 0.7426538995515877
+
+Result for the vector: work, coming from part i of the book
+Rank: 9 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7491358221607474
+
+1) thing_a - 0.8669614195823669
+
+2) life_a - 0.8566583650308364
+
+3) fact_a - 0.8430122388306931
+
+4) name_a - 0.8360168836126869
+
+5) time_a - 0.8301428556442261
+
+6) brother_a - 0.8122251033782959
+
+7) hand_a - 0.8020375252984493
+
+8) man_a - 0.7959288358688354
+
+9) work_a - 0.7491358221607474
+
+Result for the vector: thing, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8586411476135254
+
+1) thing_a - 0.8586411476135254
+
+2) life_a - 0.8152916078356391
+
+3) fact_a - 0.789663159539198
+
+4) hand_a - 0.7722661955515276
+
+5) time_a - 0.7677477598190308
+
+6) name_a - 0.7660374501965924
+
+7) man_a - 0.7607300877571106
+
+8) brother_a - 0.7376593947410583
+
+9) work_a - 0.73555019670127
+
+Result for the vector: hand, coming from part i of the book
+Rank: 5 out of 9 characters
+Cosine similarity to the co-referring vector: 0.5395308023271684
+
+1) time_a - 0.6149466221018621
+
+2) fact_a - 0.5657087305610615
+
+3) life_a - 0.5477381675087314
+
+4) thing_a - 0.5462910099712318
+
+5) hand_a - 0.5395308023271684
+
+6) brother_a - 0.5369120400223746
+
+7) name_a - 0.4950962509300935
+
+8) man_a - 0.4759233437753722
+
+9) work_a - 0.45200796854425257
+
+Result for the vector: man, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8781264686026121
+
+1) man_a - 0.8781264686026121
+
+2) brother_a - 0.8408727300427181
+
+3) life_a - 0.8381133579083299
+
+4) name_a - 0.8337431699403978
+
+5) thing_a - 0.8330462823225944
+
+6) fact_a - 0.8032481553106401
+
+7) hand_a - 0.7934957856085112
+
+8) time_a - 0.7789279454627024
+
+9) work_a - 0.7705245521195719
+
+Result for the vector: time, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8600965398578808
+
+1) time_a - 0.8600965398578808
+
+2) fact_a - 0.8154271134988733
+
+3) thing_a - 0.809688353827249
+
+4) life_a - 0.8079417233432367
+
+5) man_a - 0.7834096784415748
+
+6) name_a - 0.7818500502571512
+
+7) hand_a - 0.7698137256336567
+
+8) brother_a - 0.7687070002766553
+
+9) work_a - 0.7137834387615308
+
+Result for the vector: life, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8888455298198922
+
+1) life_a - 0.8888455298198922
+
+2) thing_a - 0.8687059879302979
+
+3) time_a - 0.8600779175758362
+
+4) fact_a - 0.8479818358415916
+
+5) brother_a - 0.8284534811973572
+
+6) name_a - 0.8175206671667511
+
+7) hand_a - 0.7995422363008415
+
+8) man_a - 0.7667475938796997
+
+9) work_a - 0.7320158205013542
+
+Result for the vector: fact, coming from part i of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7213020539671798
+
+1) fact_a - 0.7213020539671798
+
+2) brother_a - 0.6538706421852112
+
+3) hand_a - 0.6404996300041467
+
+4) name_a - 0.6224187983524094
+
+5) life_a - 0.6180463617457858
+
+6) thing_a - 0.6105543375015259
+
+7) time_a - 0.5925333499908447
+
+8) work_a - 0.5756975322130325
+
+9) man_a - 0.5696595907211304
+
+Result for the vector: name, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.9077885260834325
+
+1) name_wiki - 0.9077885260834325
+
+2) work_wiki - 0.8360168836126869
+
+3) man_wiki - 0.8337431699403978
+
+4) brother_wiki - 0.8236748716540524
+
+5) life_wiki - 0.8175206671667511
+
+6) time_wiki - 0.7818500502571512
+
+7) thing_wiki - 0.7660374501965924
+
+8) fact_wiki - 0.6224187983524094
+
+9) hand_wiki - 0.4950962509300935
+
+Result for the vector: brother, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8829868102963813
+
+1) brother_wiki - 0.8829868102963813
+
+2) name_wiki - 0.8801002716838968
+
+3) man_wiki - 0.8408727300427181
+
+4) life_wiki - 0.8284534811973572
+
+5) work_wiki - 0.8122251033782959
+
+6) time_wiki - 0.7687070002766553
+
+7) thing_wiki - 0.7376593947410583
+
+8) fact_wiki - 0.6538706421852112
+
+9) hand_wiki - 0.5369120400223746
+
+Result for the vector: work, coming from part a of the book
+Rank: 3 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7491358221607474
+
+1) name_wiki - 0.7930029055467543
+
+2) man_wiki - 0.7705245521195719
+
+3) work_wiki - 0.7491358221607474
+
+4) brother_wiki - 0.7426538995515877
+
+5) thing_wiki - 0.73555019670127
+
+6) life_wiki - 0.7320158205013542
+
+7) time_wiki - 0.7137834387615308
+
+8) fact_wiki - 0.5756975322130325
+
+9) hand_wiki - 0.45200796854425257
+
+Result for the vector: thing, coming from part a of the book
+Rank: 4 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8586411476135254
+
+1) name_wiki - 0.9040883354982875
+
+2) life_wiki - 0.8687059879302979
+
+3) work_wiki - 0.8669614195823669
+
+4) thing_wiki - 0.8586411476135254
+
+5) man_wiki - 0.8330462823225944
+
+6) brother_wiki - 0.8239959723948236
+
+7) time_wiki - 0.809688353827249
+
+8) fact_wiki - 0.6105543375015259
+
+9) hand_wiki - 0.5462910099712318
+
+Result for the vector: hand, coming from part a of the book
+Rank: 9 out of 9 characters
+Cosine similarity to the co-referring vector: 0.5395308023271684
+
+1) name_wiki - 0.8377525403794837
+
+2) work_wiki - 0.8020375252984493
+
+3) life_wiki - 0.7995422363008415
+
+4) man_wiki - 0.7934957856085112
+
+5) brother_wiki - 0.7853684531481675
+
+6) thing_wiki - 0.7722661955515276
+
+7) time_wiki - 0.7698137256336567
+
+8) fact_wiki - 0.6404996300041467
+
+9) hand_wiki - 0.5395308023271684
+
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8781264686026121
+
+1) man_wiki - 0.8781264686026121
+
+2) name_wiki - 0.8577977673177081
+
+3) brother_wiki - 0.8224803454423057
+
+4) work_wiki - 0.7959288358688354
+
+5) time_wiki - 0.7834096784415748
+
+6) life_wiki - 0.7667475938796997
+
+7) thing_wiki - 0.7607300877571106
+
+8) fact_wiki - 0.5696595907211304
+
+9) hand_wiki - 0.4759233437753722
+
+Result for the vector: time, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8600965398578808
+
+1) time_wiki - 0.8600965398578808
+
+2) life_wiki - 0.8600779175758362
+
+3) work_wiki - 0.8301428556442261
+
+4) name_wiki - 0.8242349342879902
+
+5) brother_wiki - 0.8049966336785748
+
+6) man_wiki - 0.7789279454627024
+
+7) thing_wiki - 0.7677477598190308
+
+8) hand_wiki - 0.6149466221018621
+
+9) fact_wiki - 0.5925333499908447
+
+Result for the vector: life, coming from part a of the book
+Rank: 1 out of 9 characters
+Cosine similarity to the co-referring vector: 0.8888455298198922
+
+1) life_wiki - 0.8888455298198922
+
+2) name_wiki - 0.8837702149495354
+
+3) work_wiki - 0.8566583650308364
+
+4) man_wiki - 0.8381133579083299
+
+5) brother_wiki - 0.8203122508711964
+
+6) thing_wiki - 0.8152916078356391
+
+7) time_wiki - 0.8079417233432367
+
+8) fact_wiki - 0.6180463617457858
+
+9) hand_wiki - 0.5477381675087314
+
+Result for the vector: fact, coming from part a of the book
+Rank: 8 out of 9 characters
+Cosine similarity to the co-referring vector: 0.7213020539671798
+
+1) name_wiki - 0.8724998127669565
+
+2) life_wiki - 0.8479818358415916
+
+3) work_wiki - 0.8430122388306931
+
+4) time_wiki - 0.8154271134988733
+
+5) man_wiki - 0.8032481553106401
+
+6) brother_wiki - 0.7896757596537923
+
+7) thing_wiki - 0.789663159539198
+
+8) fact_wiki - 0.7213020539671798
+
+9) hand_wiki - 0.5657087305610615
+

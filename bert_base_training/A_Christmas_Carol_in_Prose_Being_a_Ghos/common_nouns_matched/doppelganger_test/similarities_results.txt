@@ -1,0 +1,96 @@
+Result for the vector: man, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9730249675482551
+
+1) man_b - 0.9730249675482551
+
+2) head_b - 0.8362811207771361
+
+3) door_b - 0.8272373183228199
+
+4) window_b - 0.7773992551923256
+
+Result for the vector: door, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9677952547195419
+
+1) door_b - 0.9677952547195419
+
+2) window_b - 0.9259300872129166
+
+3) head_b - 0.8651103973388733
+
+4) man_b - 0.8527975257876484
+
+Result for the vector: head, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9287623082116018
+
+1) head_b - 0.9287623082116018
+
+2) door_b - 0.8282423513080106
+
+3) man_b - 0.8078420758247433
+
+4) window_b - 0.7970915315801832
+
+Result for the vector: window, coming from part a of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9483710183236951
+
+1) window_b - 0.9483710183236951
+
+2) door_b - 0.9437276372666072
+
+3) head_b - 0.8546536050220739
+
+4) man_b - 0.838245774455252
+
+Result for the vector: man, coming from part b of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9730249675482551
+
+1) man_a - 0.9730249675482551
+
+2) door_a - 0.8527975257876484
+
+3) window_a - 0.838245774455252
+
+4) head_a - 0.8078420758247433
+
+Result for the vector: door, coming from part b of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9677952547195419
+
+1) door_a - 0.9677952547195419
+
+2) window_a - 0.9437276372666072
+
+3) head_a - 0.8282423513080106
+
+4) man_a - 0.8272373183228199
+
+Result for the vector: head, coming from part b of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9287623082116018
+
+1) head_a - 0.9287623082116018
+
+2) door_a - 0.8651103973388733
+
+3) window_a - 0.8546536050220739
+
+4) man_a - 0.8362811207771361
+
+Result for the vector: window, coming from part b of the book
+Rank: 1 out of 4 characters
+Cosine similarity to the co-referring vector: 0.9483710183236951
+
+1) window_a - 0.9483710183236951
+
+2) door_a - 0.9259300872129166
+
+3) head_a - 0.7970915315801832
+
+4) man_a - 0.7773992551923256
+
